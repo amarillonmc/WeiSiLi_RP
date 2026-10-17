@@ -1,0 +1,106 @@
+{
+  "id": "weisili_yin_2",
+  "name": "阴间二号",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "《只限老友》时失踪，阴间思想仪停止运作；只保留已经显示的知识和共同经历，终局个人身体与活动能力未明",
+    "deployment": "《只限老友》时失踪，阴间思想仪停止运作；只保留已经显示的知识和共同经历，终局个人身体与活动能力未明。仅携带卡中明确列出的随身装备；朋友、机构与失去的装置均需另行取得支持。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 0,
+    "scope": 0,
+    "sustain": 1,
+    "range": 0,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "终局思想仪已停摆，保留操作知识但没有可核验的独立战斗手段；历史设备能力不叠加。；该项仅评价本卡机制在对应维度上的作用。",
+    "energy": "终局思想仪已停摆，保留操作知识但没有可核验的独立战斗手段；历史设备能力不叠加。；该项仅评价本卡机制在对应维度上的作用。",
+    "scope": "终局思想仪已停摆，保留操作知识但没有可核验的独立战斗手段；历史设备能力不叠加。；该项仅评价本卡机制在对应维度上的作用。",
+    "sustain": "终局思想仪已停摆，保留操作知识但没有可核验的独立战斗手段；历史设备能力不叠加。；该项仅评价本卡机制在对应维度上的作用。",
+    "range": "终局思想仪已停摆，保留操作知识但没有可核验的独立战斗手段；历史设备能力不叠加。；该项仅评价本卡机制在对应维度上的作用。",
+    "combat": "终局思想仪已停摆，保留操作知识但没有可核验的独立战斗手段；历史设备能力不叠加。；该项仅评价本卡机制在对应维度上的作用。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 3.5,
+  "deduction_total": 5.0,
+  "raw_score": -1.5,
+  "rounded_score": -2,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "纸",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/102将来.txt",
+      "start_line": 1730,
+      "end_line": 1747,
+      "supports": "三个编号的言语与协作分工",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/102将来.txt",
+      "start_line": 1782,
+      "end_line": 1864,
+      "supports": "仪器残缺、四人结合、失散与求助",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/145只限老友.txt",
+      "start_line": 1297,
+      "end_line": 1337,
+      "supports": "思想仪停摆、去向和灵魂结局未明",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/103改变.txt",
+      "start_line": 2735,
+      "end_line": 2758,
+      "supports": "海中电离子层与帐顶装置形成信息死角，非无处不知",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "一二三号最后去向未明；主动背叛星体只是卫斯理与白素的分析。",
+    "个人与装置的能力无法完全拆分，终局按已证实的保守下限评级。"
+  ]
+}

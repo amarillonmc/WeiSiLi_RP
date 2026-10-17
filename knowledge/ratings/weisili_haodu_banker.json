@@ -1,0 +1,110 @@
+{
+  "id": "weisili_haodu_banker",
+  "name": "董事长（豪赌）",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "同意不追讨大赢家红利，不向生念祖透露推测，继续容纳其寻宝；宝物未找到。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 1,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "以实际人体条件计",
+    "energy": "未证实主动能量攻击",
+    "scope": "个体与身边环境",
+    "sustain": "人类体力和休息",
+    "range": "手边工具与沟通距离",
+    "combat": "按该人物实际行动经验计"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "能力的已知边界：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "场景条件：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：可能爆发，事后仍须处理合作后果。"
+    }
+  },
+  "positive_total": 15.0,
+  "deduction_total": 3.0,
+  "raw_score": 12.0,
+  "rounded_score": 12,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "金融和地产组织经验、调查设备安排、拳术及沟通；须依赖实际资金、人员与权限。；依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/123豪赌.txt",
+      "start_line": 603,
+      "end_line": 650,
+      "supports": "饭局引线",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/123豪赌.txt",
+      "start_line": 1026,
+      "end_line": 1034,
+      "supports": "父子关系",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/123豪赌.txt",
+      "start_line": 1246,
+      "end_line": 1265,
+      "supports": "拳术冲突",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/123豪赌.txt",
+      "start_line": 1438,
+      "end_line": 1455,
+      "supports": "调查组织",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/123豪赌.txt",
+      "start_line": 2470,
+      "end_line": 2549,
+      "supports": "利益和终局",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

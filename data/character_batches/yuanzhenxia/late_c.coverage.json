@@ -1,0 +1,180 @@
+[
+  {
+    "path": "原振侠系列/27.假太阳.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "寻回玛仙"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "治疗与新生"
+      },
+      {
+        "name": "康维十七世",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "重要配角",
+        "basis": "机器生命与救援"
+      },
+      {
+        "name": "海棠",
+        "card_id": "yuanzhenxia_hai_tang",
+        "role": "重要配角",
+        "basis": "脑结构帮助"
+      },
+      {
+        "name": "李文",
+        "card_id": "yuanzhenxia_li_wen",
+        "role": "重要配角",
+        "basis": "治疗协作"
+      },
+      {
+        "name": "朱淑芬",
+        "card_id": "yuanzhenxia_zhu_shufen",
+        "role": "重要配角",
+        "basis": "治疗协作"
+      },
+      {
+        "name": "爱神星新生机械人",
+        "card_id": "yuanzhenxia_aishen_machines",
+        "role": "重要配角",
+        "basis": "自主与救援"
+      },
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "重要配角",
+        "basis": "提供联络帮助"
+      },
+      {
+        "name": "曲如眉",
+        "card_id": "adventure_qu_rumei",
+        "role": "重要配角",
+        "basis": "交通帮助"
+      },
+      {
+        "name": "八角星恋人",
+        "card_id": "adventure_bajiaoxing_yingzi",
+        "role": "重要配角",
+        "basis": "接触与交通协助"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/28.无间地狱.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "接触与援助"
+      },
+      {
+        "name": "柳絮",
+        "card_id": "yuanzhenxia_liu_xu",
+        "role": "主角",
+        "basis": "逃离与控制谜题"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "重要配角",
+        "basis": "识别组织控制"
+      },
+      {
+        "name": "曹金福",
+        "card_id": "weisili_cao_jinfu",
+        "role": "重要配角",
+        "basis": "护送与协助"
+      },
+      {
+        "name": "康维十七世",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "重要配角",
+        "basis": "揭露改造"
+      },
+      {
+        "name": "东方太阳最高领导人",
+        "card_id": "yuanzhenxia_oriental_sun_leader",
+        "role": "反派",
+        "basis": "组织控制"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "柳絮与陈庆国的终局合并到29。"
+    ]
+  },
+  {
+    "path": "原振侠系列/29.人鬼疑云.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与交涉"
+      },
+      {
+        "name": "柳絮",
+        "card_id": "yuanzhenxia_liu_xu",
+        "role": "主角",
+        "basis": "恢复自主"
+      },
+      {
+        "name": "陈庆国",
+        "card_id": "yuanzhenxia_chen_qingguo",
+        "role": "反派",
+        "basis": "灵魂忠诚与报信"
+      },
+      {
+        "name": "康维十七世",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "重要配角",
+        "basis": "治疗与感情"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "重要配角",
+        "basis": "联络与脱离"
+      },
+      {
+        "name": "阿尼密",
+        "card_id": "adventure_animi",
+        "role": "重要配角",
+        "basis": "灵魂研究"
+      },
+      {
+        "name": "曹金福",
+        "card_id": "weisili_cao_jinfu",
+        "role": "重要配角",
+        "basis": "终局寻找亲人安排"
+      },
+      {
+        "name": "东方太阳最高领导人",
+        "card_id": "yuanzhenxia_oriental_sun_leader",
+        "role": "反派",
+        "basis": "最终交涉"
+      },
+      {
+        "name": "鬼界外星人",
+        "card_id": "yuanzhenxia_guijie_aliens",
+        "role": "重要配角",
+        "basis": "技术合作与求援"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "协助外星人脱离鬼界只是后续约定，未写完成。"
+    ]
+  }
+]

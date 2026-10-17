@@ -1,0 +1,117 @@
+{
+  "id": "weisili_redmoon_envoy",
+  "name": "红月亮白衣接待者",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "母星受鼠携细菌侵袭，人口锐减；向卫斯理说明停止移民计划后离开。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 3,
+    "scope": 3,
+    "sustain": 4,
+    "range": 3,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 白衣提供技术防护；裸露本体易受地球微生物伤害，非不死。",
+    "energy": "使用技术装置，无内生无限能量。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "依密封环境与设备维持安全。",
+    "range": "须依赖完整设备，记忆处理可被金属防护阻挡；本体怕地球微生物，基地与母星级手段不是随身能力。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "为族群解决生存空间问题，习惯以技术优势与理性措辞使暴力显得必然。"
+    },
+    "environment": {
+      "score": 5,
+      "af": 1.0,
+      "reason": "须依赖完整设备，记忆处理可被金属防护阻挡；本体怕地球微生物，基地与母星级手段不是随身能力。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 32.0,
+  "deduction_total": 9.0,
+  "raw_score": 23.0,
+  "rounded_score": 23,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "准神",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "准神",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/013红月亮.txt",
+      "start_line": 1931,
+      "end_line": 1991,
+      "supports": "记忆仪器与假发防护",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/013红月亮.txt",
+      "start_line": 2602,
+      "end_line": 2609,
+      "supports": "白衣实际为装置",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/013红月亮.txt",
+      "start_line": 2661,
+      "end_line": 2713,
+      "supports": "同伴与移民决心",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/013红月亮.txt",
+      "start_line": 2940,
+      "end_line": 2982,
+      "supports": "细菌弱点",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/013红月亮.txt",
+      "start_line": 2983,
+      "end_line": 3039,
+      "supports": "灭绝计划",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/013红月亮.txt",
+      "start_line": 3173,
+      "end_line": 3181,
+      "supports": "母星灾难及最终撤退",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

@@ -1,0 +1,110 @@
+{
+  "id": "yuanzhenxia_chen_chang",
+  "name": "陈昌",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "在古墓被受控雷九天杀死；其灵魂亦被叙述为杀手的牺牲者。",
+    "deployment": "按最后可独立行动形态加入；终局异常作为明确改编恢复，不重演死亡过程。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 5,
+    "range": 1,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "普通人体",
+    "energy": "无主动能量攻击",
+    "scope": "个体作用",
+    "sustain": "已获得代谢延缓，但不推导无限战斗",
+    "range": "没有自主搬运能力",
+    "combat": "朴实普通人，非武术高手"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "能力的已知边界：不能抵抗致命外伤；不自行制造仙丹，也不能凭此搬运或瞬移。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "场景条件：不能抵抗致命外伤；不自行制造仙丹，也不能凭此搬运或瞬移。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：承认不适，选择能安稳生活的环境。"
+    }
+  },
+  "positive_total": 16.5,
+  "deduction_total": 4.0,
+  "raw_score": 12.5,
+  "rounded_score": 13,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "古墓群体提供聚集宇宙物质的食物，延缓身体代谢并替代普通进食。；不能抵抗致命外伤；不自行制造仙丹，也不能凭此搬运或瞬移。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/31.宇宙杀手.txt",
+      "start_line": 3487,
+      "end_line": 3501,
+      "supports": "旧时代身世",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/31.宇宙杀手.txt",
+      "start_line": 3859,
+      "end_line": 3869,
+      "supports": "出入依赖",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/31.宇宙杀手.txt",
+      "start_line": 4323,
+      "end_line": 4345,
+      "supports": "对享受改变",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/31.宇宙杀手.txt",
+      "start_line": 5477,
+      "end_line": 5549,
+      "supports": "延寿机制",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/31.宇宙杀手.txt",
+      "start_line": 6591,
+      "end_line": 6879,
+      "supports": "死亡与代价",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

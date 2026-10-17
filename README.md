@@ -1,6 +1,28 @@
 # WeiSiLi_RP
 
-基于倪匡小说建设可供其他项目调用的知识库。目前完成原始语料的转码与正文清理，尚未进行知识抽取或建立索引。
+基于倪匡小说建设可供其他项目调用的知识库。现已建立原始语料清理记录、角色卡及独立强度档案。
+
+角色入口：[knowledge/README.md](knowledge/README.md)。调用方式和整理口径：[知识库使用说明](docs/knowledge_usage.md)。实际条目数、覆盖数量和原文哈希见 [knowledge/manifest.json](knowledge/manifest.json)，校验结果见 [reports/character_kb_validation.json](reports/character_kb_validation.json)。
+
+## 角色卡与强度档案
+
+角色卡依照[角色模板首帖](https://number81.xyz/index.php?topic=667.0)整理，强度按[通用评估标准](https://number81.xyz/index.php?topic=1067.0)另存。每张卡保留整体经历、最后明确状态、能力条件、行为扳机、轻微改编和原文行号；同一人物跨系列出场合并，身份尚有疑问的角色不强行归一。
+
+供其他项目调用的文件在 `knowledge/`。`data/character_batches/` 是整理材料，含分批草稿和中间版本，调用方应使用已校验的 `knowledge/index.json` 与它指向的单张卡片。
+
+```powershell
+# 输出单张角色卡；同名时返回候选，使用明确 ID 区分。
+python -X utf8 tools/query_character.py 卫斯理
+
+# 单独读取强度分析，或切换为便于阅读的 Markdown。
+python -X utf8 tools/query_character.py 神鹰 --rating
+python -X utf8 tools/query_character.py 白素 --markdown
+
+# 修改聚合数据后，校验全部角色、评分、引用及原文哈希，再重新生成成品。
+python -X utf8 tools/build_character_kb.py
+```
+
+评分是基于文本的项目分析。涉及原作矛盾、失踪、传闻能力或未展示的治疗过程时，卡片保留不确定性；死亡或特殊形态的参战部署在改编项中说明。
 
 ## 2026-10-17 语料清理
 

@@ -1,0 +1,110 @@
+{
+  "id": "weisili_jidu_matianlu",
+  "name": "基度·马天奴",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "醉后跳海死亡；米伦太太后来说明他此前留给她小艇与食水。",
+    "deployment": "原作终局已经死亡或失去可行动形态；参战用最后清醒行动形态，保留终局经历，仅作为明确的角色扮演恢复，不宣称原作复活。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 0,
+    "sustain": 1,
+    "range": 1,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "不是全能地质学家，无预知所有爆发或耐熔岩能力；酒精和情绪影响判断。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "理解并守护所爱的人，却需要面对自己的迷恋给家庭和本人造成的损伤。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "不是全能地质学家，无预知所有爆发或耐熔岩能力；酒精和情绪影响判断。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 6.5,
+  "deduction_total": 2.0,
+  "raw_score": 4.5,
+  "rounded_score": 5,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "纸",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/016奇门.txt",
+      "start_line": 618,
+      "end_line": 620,
+      "supports": "姓名与职业",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/016奇门.txt",
+      "start_line": 768,
+      "end_line": 794,
+      "supports": "向导及观测经验",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/016奇门.txt",
+      "start_line": 895,
+      "end_line": 914,
+      "supports": "相遇和迁居",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/016奇门.txt",
+      "start_line": 945,
+      "end_line": 975,
+      "supports": "死亡与家庭处境",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/016奇门.txt",
+      "start_line": 1564,
+      "end_line": 1593,
+      "supports": "小艇真相",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

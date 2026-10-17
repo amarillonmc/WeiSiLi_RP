@@ -1,0 +1,96 @@
+{
+  "id": "yuanzhenxia_transfer_researchers",
+  "name": "针尖峰空间实验者",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "原振侠离开后，温谷与他搜索未找到基地；设备与实验者去向未明。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 5,
+    "scope": 3,
+    "sustain": 2,
+    "range": 6,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "本体物理未知",
+    "energy": "空间与脑活动设备",
+    "scope": "有限实验对象",
+    "sustain": "一次使用耗尽年度积累",
+    "range": "跨空间距离但非随时战斗",
+    "combat": "实验技术非熟练战斗"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "能力的已知边界：需装置和长期能量积累；不是改写外界愿望，意识逸出与强烈拒绝可能导致失控。"
+    },
+    "environment": {
+      "score": 5,
+      "af": 1.0,
+      "reason": "场景条件：需装置和长期能量积累；不是改写外界愿望，意识逸出与强烈拒绝可能导致失控。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "临场情绪与选择：检查控制偏差并开放交流，不能把反对简单当作不存在。"
+    }
+  },
+  "positive_total": 31.0,
+  "deduction_total": 10.0,
+  "raw_score": 21.0,
+  "rounded_score": 21,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "依靠积聚能量的装置移动对象，同时干预脑内体验使其经历所欲情景。；需装置和长期能量积累；不是改写外界愿望，意识逸出与强烈拒绝可能导致失控。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/02.迷路.txt",
+      "start_line": 3717,
+      "end_line": 3767,
+      "supports": "实验失败、尼格事故及能量限制",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/02.迷路.txt",
+      "start_line": 3783,
+      "end_line": 3795,
+      "supports": "机制与返回",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/02.迷路.txt",
+      "start_line": 3827,
+      "end_line": 3827,
+      "supports": "未找到设备",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

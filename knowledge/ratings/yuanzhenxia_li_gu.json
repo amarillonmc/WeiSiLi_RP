@@ -1,0 +1,96 @@
+{
+  "id": "yuanzhenxia_li_gu",
+  "name": "李固",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "《催命情圣》恢复智力，拒绝放弃身体，与黄绢乘飞船离去。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 5,
+    "energy": 3,
+    "scope": 2,
+    "sustain": 6,
+    "range": 5,
+    "combat": 5
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "显著超人身体",
+    "energy": "以已表现异星手段计",
+    "scope": "以个人保护和打击为主",
+    "sustain": "强体能但并非无边续航",
+    "range": "独立飞行与交通",
+    "combat": "能压制常规抵抗但政治判断不足"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "能力的已知边界：具体破坏上限未给；接受地球血液后可受相关血魇作用，飞船并非随时可召。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "场景条件：具体破坏上限未给；接受地球血液后可受相关血魇作用，飞船并非随时可召。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "临场情绪与选择：先要求停止明显伤害；若发现承诺被滥用，可以撤走支持。"
+    }
+  },
+  "positive_total": 43.0,
+  "deduction_total": 5.0,
+  "raw_score": 38.0,
+  "rounded_score": 38,
+  "numeric_tier": "凶",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "凶",
+  "theoretical_tier": "凶",
+  "mastery": "不适用",
+  "final_tier": "凶",
+  "display_tier": "凶",
+  "controlled_ceiling": {
+    "description": "异星生命拥有超出人类的体能并能携人飞行，结合可使用飞船完成移动。；具体破坏上限未给；接受地球血液后可受相关血魇作用，飞船并非随时可召。",
+    "tier": "凶",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "high",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/23.血的诱惑.txt",
+      "start_line": 2891,
+      "end_line": 2973,
+      "supports": "强大力量、血液引发的欲望与政治诱惑",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/23.血的诱惑.txt",
+      "start_line": 3097,
+      "end_line": 3153,
+      "supports": "血关联巫术使其失智",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/24.催命情圣.txt",
+      "start_line": 7781,
+      "end_line": 8059,
+      "supports": "拒绝弃身、恢复、仍关心朋友与离去",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

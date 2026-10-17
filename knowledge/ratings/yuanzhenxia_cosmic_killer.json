@@ -1,0 +1,96 @@
+{
+  "id": "yuanzhenxia_cosmic_killer",
+  "name": "宇宙杀手（古墓入侵者）",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "被古墓群体封在石室内，未证实脱困；其他同类是否仍在地球未知。",
+    "deployment": "跨世界场景可解除石室封锁，使用最后已证实的借体能力；这是明确部署改编，不宣称原作脱困。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 6,
+    "scope": 3,
+    "sustain": 5,
+    "range": 3,
+    "combat": 6
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "借实际宿主体魄，不单算无形本体",
+    "energy": "吞魂作用针对适配目标",
+    "scope": "有限接近与目光条件",
+    "sustain": "持续附身仍可被干扰",
+    "range": "无法突破古墓屏障",
+    "combat": "能欺骗与利用熟练宿主"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "能力的已知边界：宿主可在极端条件下抗争；不能自动拥有所有宿主技能或任意穿越防线。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "场景条件：宿主可在极端条件下抗争；不能自动拥有所有宿主技能或任意穿越防线。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "临场情绪与选择：先破坏干扰者，再寻找捕食条件。"
+    }
+  },
+  "positive_total": 43.0,
+  "deduction_total": 8.0,
+  "raw_score": 35.0,
+  "rounded_score": 35,
+  "numeric_tier": "凶",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "凶",
+  "theoretical_tier": "凶",
+  "mastery": "不适用",
+  "final_tier": "凶",
+  "display_tier": "凶",
+  "controlled_ceiling": {
+    "description": "占用人类身体，借宿主身份与既有武功接近目标。；宿主可在极端条件下抗争；不能自动拥有所有宿主技能或任意穿越防线。",
+    "tier": "凶",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/31.宇宙杀手.txt",
+      "start_line": 5857,
+      "end_line": 5865,
+      "supports": "借体说法",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/31.宇宙杀手.txt",
+      "start_line": 6591,
+      "end_line": 6685,
+      "supports": "实际借体攻击",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/31.宇宙杀手.txt",
+      "start_line": 6723,
+      "end_line": 6885,
+      "supports": "宿主抗争及封锁",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

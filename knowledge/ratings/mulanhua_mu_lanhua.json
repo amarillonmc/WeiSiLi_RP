@@ -1,0 +1,313 @@
+{
+  "id": "mulanhua_mu_lanhua",
+  "name": "木兰花",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料各书终局经历",
+    "canonical_endpoint": "31失明危机后恢复视力，50与高翔结婚；60依器材和心理判断击败陈思空并救出伙伴，本人存活。卫087继续提供跨案证词联系。",
+    "deployment": "保留终局经历；以最后已证实的可行动状态登场，未随身拥有原文未说明的器材。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 0,
+    "scope": 2,
+    "sustain": 3,
+    "range": 3,
+    "combat": 8
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "训练近战和武装局部作用，明确不敌陈思空正面武艺。",
+    "energy": "没有自身非物理攻击，气功只作有限自我调节。",
+    "scope": "小型器械和爆炸只局部作用，盟友机构不算个人范围。",
+    "sustain": "训练较好但力竭、病痛、供氧和弹药限制清楚。",
+    "range": "实际手枪、定位和小器材有离体作用，未默认远程军械。",
+    "combat": "多书综合的侦察、战术与应变优秀，仍明确保留误判、失败与外援。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "无另行证实且应重复扣分的能力性自限；普通人能力低已计入正向分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "未把一般生存环境需求另算特殊限制。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "无证据表明拥有随机失控的主动战斗能力。"
+    }
+  },
+  "positive_total": 31.0,
+  "deduction_total": 0.0,
+  "raw_score": 31.0,
+  "rounded_score": 31,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "原文未显示改写世界规则或叙事层的可控权柄；异常事件与知情不等同概念干涉。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "训练所得武艺、枪械、潜水驾驶、化装语言和侦查，以及明确准备的特种小器材。",
+    "tier": "强",
+    "uncontrolled": "未展示可归属于本人、可反复发动的额外不可控上限。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/03太阳之女.txt",
+      "start_line": 128,
+      "end_line": 132,
+      "supports": "唇形观察",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/03太阳之女.txt",
+      "start_line": 342,
+      "end_line": 346,
+      "supports": "柔道荣誉段位",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/22天外恩仇.txt",
+      "start_line": 710,
+      "end_line": 790,
+      "supports": "化装与语言身份",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/23大破暗杀党.txt",
+      "start_line": 1870,
+      "end_line": 1874,
+      "supports": "毒针受面具阻挡",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/23大破暗杀党.txt",
+      "start_line": 1954,
+      "end_line": 1984,
+      "supports": "头箍小枪弹药有限",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/27钻石镭射.txt",
+      "start_line": 1256,
+      "end_line": 1260,
+      "supports": "将安妮作妹妹",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/27钻石镭射.txt",
+      "start_line": 2632,
+      "end_line": 2638,
+      "supports": "接纳安妮选择",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/28北极氢弹战.txt",
+      "start_line": 212,
+      "end_line": 228,
+      "supports": "不知如何寻找而拒绝",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/28北极氢弹战.txt",
+      "start_line": 730,
+      "end_line": 758,
+      "supports": "普通人自知与知识边界",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/30玻璃伪钞模.txt",
+      "start_line": 1016,
+      "end_line": 1144,
+      "supports": "毒笔眼伤",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/31黑暗历险.txt",
+      "start_line": 42,
+      "end_line": 76,
+      "supports": "失明心态和听觉推断",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/31黑暗历险.txt",
+      "start_line": 946,
+      "end_line": 1118,
+      "supports": "误导与器械限制",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/31黑暗历险.txt",
+      "start_line": 2370,
+      "end_line": 2396,
+      "supports": "接受方保护",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/31黑暗历险.txt",
+      "start_line": 2766,
+      "end_line": 2770,
+      "supports": "手术复明前景",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/38无价奇石.txt",
+      "start_line": 1290,
+      "end_line": 1314,
+      "supports": "爱情与独立劝告",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/39失踪新娘.txt",
+      "start_line": 2202,
+      "end_line": 2218,
+      "supports": "击昏医生借身份",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/41金库奇案.txt",
+      "start_line": 1432,
+      "end_line": 1464,
+      "supports": "致命武器使用原则边界",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/45魔画.txt",
+      "start_line": 380,
+      "end_line": 420,
+      "supports": "父母旧案与拒复仇循环",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "start_line": 2618,
+      "end_line": 2648,
+      "supports": "依氧避麻而非免疫",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/50蜜月奇遇.txt",
+      "start_line": 2,
+      "end_line": 16,
+      "supports": "婚姻",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/50蜜月奇遇.txt",
+      "start_line": 1044,
+      "end_line": 1082,
+      "supports": "力竭获救",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/50蜜月奇遇.txt",
+      "start_line": 2384,
+      "end_line": 2400,
+      "supports": "海上获救幸运与生理限制",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/53电网火花.txt",
+      "start_line": 1462,
+      "end_line": 1508,
+      "supports": "胁迫李少校",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/56天才白痴.txt",
+      "start_line": 856,
+      "end_line": 880,
+      "supports": "仍可被麻醉",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/56天才白痴.txt",
+      "start_line": 2160,
+      "end_line": 2164,
+      "supports": "准备与气功有限提前醒",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/57生命合同.txt",
+      "start_line": 1742,
+      "end_line": 1776,
+      "supports": "疲倦影响思考及恢复办法",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 672,
+      "end_line": 724,
+      "supports": "力量边界与恐惧",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 1156,
+      "end_line": 1158,
+      "supports": "承认武术不敌",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 1672,
+      "end_line": 1684,
+      "supports": "有限氧气与罩不可割",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 1788,
+      "end_line": 1826,
+      "supports": "趁失防伤腿及心理制胜",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 1932,
+      "end_line": 1940,
+      "supports": "不会龟息及换气装置解释",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/087继续探险.txt",
+      "start_line": 2524,
+      "end_line": 2529,
+      "supports": "核验幼童证词",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/087继续探险.txt",
+      "start_line": 2907,
+      "end_line": 2919,
+      "supports": "提出外婆假说",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/087继续探险.txt",
+      "start_line": 3030,
+      "end_line": 3033,
+      "supports": "联系证词告白素",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

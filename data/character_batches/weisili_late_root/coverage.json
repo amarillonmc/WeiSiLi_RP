@@ -1,0 +1,1027 @@
+[
+  {
+    "path": "卫斯理系列/117双程.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "黄堂",
+        "card_id": "weisili_huang_tang",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "良辰",
+        "card_id": "weisili_liang_chen",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "美景",
+        "card_id": "weisili_mei_jing",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "大亨",
+        "card_id": "weisili_da_heng",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "朱槿",
+        "card_id": "weisili_zhu_jin",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "小纳尔逊",
+        "card_id": "weisili_xiao_na",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "白老大",
+        "card_id": "weisili_bai_laoda",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "沈万三",
+        "card_id": "weisili_shen_wansan",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "四巧堂双程巨人",
+        "card_id": "weisili_shuangcheng_giant",
+        "role": "单书主角",
+        "basis": "双程生命主线"
+      },
+      {
+        "name": "四巧堂养父长老",
+        "card_id": "weisili_siqiao_elder",
+        "role": "单书关键人物",
+        "basis": "双程生命主线"
+      },
+      {
+        "name": "警务总监（双程空难事件）",
+        "card_id": "weisili_shuangcheng_commissioner",
+        "role": "反派",
+        "basis": "双程生命主线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "鲁健",
+        "reason": "一次性协助处理机场警告的警务人员，无独立主角线。"
+      },
+      {
+        "name": "机场主管、民航局长、市府秘书长",
+        "reason": "临时行政争论中的职务人物，未形成独立反派行动线；主要施害决策者总监已建卡。"
+      },
+      {
+        "name": "陈宅旧主人与长辫老人",
+        "reason": "只在巨人童年片段参与未解安排，身份和独立能力不足，不自动合并陈长青或历史人物。"
+      },
+      {
+        "name": "四巧堂旧日惩戒人物与恶霸",
+        "reason": "用以解释帮会背景的短段旧事，无连续人物线。"
+      },
+      {
+        "name": "S W H",
+        "reason": "末尾小说内信件署名，没有独立人物主线；信中理论仅按小说设想处理。"
+      }
+    ],
+    "notes": [
+      "双程生命并非随意时间旅行；巨人离开的瞬间没有目击。",
+      "空难原因未查明，不能把巨人预知写成已经证实的恐怖行动。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/118洪荒.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "黄堂",
+        "card_id": "weisili_huang_tang",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "白老大",
+        "card_id": "weisili_bai_laoda",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "戈壁",
+        "card_id": "weisili_ge_bi",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "沙漠",
+        "card_id": "weisili_sha_mo",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "伦三德",
+        "card_id": "weisili_lun_sande",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "神鹰",
+        "card_id": "weisili_shenying",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "金秀四嫂",
+        "card_id": "weisili_jinxiu_sisao",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "旧警务总监",
+        "card_id": "weisili_shuangcheng_commissioner",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "廉不负",
+        "card_id": "weisili_lian_bufu",
+        "role": "单书主角",
+        "basis": "家史或水生命主线"
+      },
+      {
+        "name": "张泰丰",
+        "card_id": "weisili_zhang_taifeng",
+        "role": "单书主角",
+        "basis": "家史或水生命主线"
+      },
+      {
+        "name": "黄天功",
+        "card_id": "weisili_huang_tiangong",
+        "role": "关键背景主角",
+        "basis": "家史或水生命主线"
+      },
+      {
+        "name": "杀害黄天功的旧盟友集团",
+        "card_id": "weisili_huang_tiangong_betrayers",
+        "role": "反派",
+        "basis": "家史或水生命主线"
+      },
+      {
+        "name": "黄而",
+        "card_id": "weisili_huang_er",
+        "role": "跨书主角",
+        "basis": "家史或水生命主线"
+      },
+      {
+        "name": "水（地球水生命）",
+        "card_id": "weisili_water_life",
+        "role": "跨书主角",
+        "basis": "家史或水生命主线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "都连加农",
+        "reason": "通过师承和入会推荐明确相关；此书只转述，实际跨书角色已在非人协会批有卡。"
+      },
+      {
+        "name": "大山、空气生命",
+        "reason": "此书为讨论与探索对象，未展示可以独立核验的具体人格和沟通行为，不把设想写成已实证全能自然人格。"
+      },
+      {
+        "name": "多巴湖蒙面二人",
+        "reason": "卫斯理认为是黄堂与四嫂，未获证实；作为既有角色的身份疑点保存，不虚构两名新姓名。"
+      }
+    ],
+    "notes": [
+      "金秀四嫂与黄堂一家关系、天工大王后续均需回写原有主卡。",
+      "水的作用与黄而的个人本领分开；未完成的生命配额研究不作现成复活术。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/119买命.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "大亨",
+        "card_id": "weisili_da_heng",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "陶启泉",
+        "card_id": "weisili_tao_qiquan",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "朱槿",
+        "card_id": "weisili_zhu_jin",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "亮声",
+        "card_id": "weisili_liang_sheng",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "康维",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "跨系列主角",
+        "basis": "调查或委托"
+      },
+      {
+        "name": "柳絮",
+        "card_id": "yuanzhenxia_liu_xu",
+        "role": "跨系列主角",
+        "basis": "调查或委托"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "跨系列主角",
+        "basis": "调查或委托"
+      },
+      {
+        "name": "老蔡",
+        "card_id": "weisili_lao_cai",
+        "role": "重要配角",
+        "basis": "具体交流"
+      },
+      {
+        "name": "戈壁",
+        "card_id": "weisili_ge_bi",
+        "role": "重要配角",
+        "basis": "具体交流"
+      },
+      {
+        "name": "沙漠",
+        "card_id": "weisili_sha_mo",
+        "role": "重要配角",
+        "basis": "具体交流"
+      },
+      {
+        "name": "宋天然（宋自然）",
+        "card_id": "weisili_song_tianran",
+        "role": "重要配角",
+        "basis": "具体交流"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "各地收信三人小组",
+        "reason": "未个体化的受雇执行人；没有证据证明掌握核心技术或主动施害。"
+      },
+      {
+        "name": "匿名买家及代表",
+        "reason": "推动市场需求的背景群体，具名大亨、陶启泉及后续陈氏兄弟已合并主卡。"
+      },
+      {
+        "name": "应征者",
+        "reason": "大规模被研究者，不将贫困或自愿出让配额者自动归类为反派。"
+      }
+    ],
+    "notes": [
+      "119未解谜底由120–121回写：视觉异常出于水的脑部干预，不能停在立体投影假说。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/120卖命.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "大亨",
+        "card_id": "weisili_da_heng",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "陶启泉",
+        "card_id": "weisili_tao_qiquan",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "朱槿",
+        "card_id": "weisili_zhu_jin",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "亮声",
+        "card_id": "weisili_liang_sheng",
+        "role": "重要配角",
+        "basis": "实际参与配额调查"
+      },
+      {
+        "name": "康维",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "跨系列主角",
+        "basis": "实际调查与交流"
+      },
+      {
+        "name": "柳絮",
+        "card_id": "yuanzhenxia_liu_xu",
+        "role": "跨系列主角",
+        "basis": "实际调查与交流"
+      },
+      {
+        "name": "陈景德",
+        "card_id": "yuanzhenxia_chen_jingde",
+        "role": "跨系列主角",
+        "basis": "实际调查与交流"
+      },
+      {
+        "name": "陈宜兴",
+        "card_id": "yuanzhenxia_chen_yixing",
+        "role": "跨系列主角",
+        "basis": "实际调查与交流"
+      },
+      {
+        "name": "良辰",
+        "card_id": "weisili_liang_chen",
+        "role": "重要配角",
+        "basis": "联络、实验或回述行动"
+      },
+      {
+        "name": "美景",
+        "card_id": "weisili_mei_jing",
+        "role": "重要配角",
+        "basis": "联络、实验或回述行动"
+      },
+      {
+        "name": "黄而",
+        "card_id": "weisili_huang_er",
+        "role": "重要配角",
+        "basis": "联络、实验或回述行动"
+      },
+      {
+        "name": "水",
+        "card_id": "weisili_water_life",
+        "role": "重要配角",
+        "basis": "联络、实验或回述行动"
+      },
+      {
+        "name": "文依来",
+        "card_id": "weisili_wen_yilai",
+        "role": "重要配角",
+        "basis": "联络、实验或回述行动"
+      },
+      {
+        "name": "文依来兄弟中的另一位",
+        "card_id": "weisili_wen_yilai_brother",
+        "role": "重要配角",
+        "basis": "联络、实验或回述行动"
+      },
+      {
+        "name": "范总管",
+        "card_id": "weisili_fan_zongguan",
+        "role": "重要配角",
+        "basis": "研究负责人"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "其他六位当期非人会员",
+        "reason": "未明确身份，不按七人数目自动套入早期会员名单；共同会议不据此虚构个人能力。"
+      },
+      {
+        "name": "文依来兄弟之母",
+        "reason": "救母旧事承接既有角色，后期证据并入负责电王人物的主卡。"
+      },
+      {
+        "name": "原有多名匿名应征者",
+        "reason": "无独立人物线，不将水的干预算作他们的个人能力。"
+      }
+    ],
+    "notes": [
+      "陈氏兄弟120–121能正常交流，085损伤如何恢复未述；以较后实际表现更新，不杜撰治疗。",
+      "是否同意配额转移必须与水对途中意识的控制分开，不能把被控制后的行为当作原初自愿的证据。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/121考验.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "天嘉土王",
+        "card_id": "weisili_tianjia",
+        "role": "单书主角",
+        "basis": "考验事件行动者"
+      },
+      {
+        "name": "海高",
+        "card_id": "weisili_hai_gao",
+        "role": "反派",
+        "basis": "考验事件行动者"
+      },
+      {
+        "name": "图生王叔",
+        "card_id": "weisili_tusheng",
+        "role": "单书重要人物",
+        "basis": "考验事件行动者"
+      },
+      {
+        "name": "旧教长（天嘉考验）",
+        "card_id": "weisili_kaoyan_priest",
+        "role": "反派",
+        "basis": "考验事件行动者"
+      },
+      {
+        "name": "考验天神（山洞系统）",
+        "card_id": "weisili_kaoyan_god",
+        "role": "单书关键非人角色",
+        "basis": "考验事件行动者"
+      },
+      {
+        "name": "齐白",
+        "card_id": "weisili_qi_bai",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "黄而",
+        "card_id": "weisili_huang_er",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "水",
+        "card_id": "weisili_water_life",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "范总管",
+        "card_id": "weisili_fan_zongguan",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "亮声",
+        "card_id": "weisili_liang_sheng",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "大亨",
+        "card_id": "weisili_da_heng",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "陶启泉",
+        "card_id": "weisili_tao_qiquan",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "康维",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "跨系列主角",
+        "basis": "古堡聚会和配额事件收束"
+      },
+      {
+        "name": "柳絮",
+        "card_id": "yuanzhenxia_liu_xu",
+        "role": "跨系列主角",
+        "basis": "古堡聚会和配额事件收束"
+      },
+      {
+        "name": "陈景德",
+        "card_id": "yuanzhenxia_chen_jingde",
+        "role": "跨系列主角",
+        "basis": "古堡聚会和配额事件收束"
+      },
+      {
+        "name": "陈宜兴",
+        "card_id": "yuanzhenxia_chen_yixing",
+        "role": "跨系列主角",
+        "basis": "古堡聚会和配额事件收束"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "新任教长及递补教士",
+        "reason": "现场获任的短段人物，未展开独立主角线或施害。"
+      },
+      {
+        "name": "过去三位土王及助手",
+        "reason": "只余考验历史与骸骨，不补造姓名、生前能力或人格。"
+      },
+      {
+        "name": "匿名买命富豪",
+        "reason": "开场群体背景，未具名的个人无独立行动线。"
+      }
+    ],
+    "notes": [
+      "考验天神不与其他书仅同称天神的实体合并。",
+      "齐白请求内容至本书终仍未说明，不能凭猜测写成已成事实。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/122传说.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "元首（传说别馆）",
+        "card_id": "weisili_chuanshuo_head",
+        "role": "单书主角",
+        "basis": "愿望装置与国家危机人物"
+      },
+      {
+        "name": "大元帅（传说别馆）",
+        "card_id": "weisili_chuanshuo_marshal",
+        "role": "关键背景主角",
+        "basis": "愿望装置与国家危机人物"
+      },
+      {
+        "name": "总司令（传说元首内阁）",
+        "card_id": "weisili_chuanshuo_commander",
+        "role": "反派",
+        "basis": "愿望装置与国家危机人物"
+      },
+      {
+        "name": "参谋长（传说元首内阁）",
+        "card_id": "weisili_chuanshuo_chiefstaff",
+        "role": "阶段性反派",
+        "basis": "愿望装置与国家危机人物"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "蓝丝",
+        "card_id": "weisili_lan_si",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "陶启泉",
+        "card_id": "weisili_tao_qiquan",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "温妈妈",
+        "card_id": "weisili_wen_mama",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "神鹰",
+        "card_id": "weisili_shenying",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "戈壁",
+        "card_id": "weisili_ge_bi",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "沙漠",
+        "card_id": "weisili_sha_mo",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "重要配角",
+        "basis": "寻找温宝裕及装置事件的协助者"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "侍卫长",
+        "reason": "一次性关键受害见证者，只有开门与死亡的行动线；原因仍未解，不授予幻境控制或写成已确定谋杀者。"
+      },
+      {
+        "name": "两位部长",
+        "reason": "随同危机交涉，未展示独立主角线或明确个体施害计划。"
+      },
+      {
+        "name": "别馆主管",
+        "reason": "一次性提供建筑旧事的辅助见证者。"
+      },
+      {
+        "name": "各地降头师",
+        "reason": "蓝丝召集的辅助群体，未个体化；飞虫未返和无法探知是能力局限，非敌对证据。"
+      },
+      {
+        "name": "愿望装置与未知制造者",
+        "reason": "装置未显示独立人格，制造者仅推测，不虚构一个无所不能的许愿神。"
+      }
+    ],
+    "notes": [
+      "元首失踪并非证实政变；装置实际使人产生体验，如何影响公共现实仍未解。",
+      "原文中蓝兰、温室裕等异写按上下文识别，不另造人物。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/123豪赌.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "生念祖（寻宝者）",
+        "card_id": "weisili_sheng_nianzu",
+        "role": "单书主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "王常胜",
+        "card_id": "weisili_wang_changsheng",
+        "role": "回忆主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "李司令（豪赌）",
+        "card_id": "weisili_haodu_li_commander",
+        "role": "回忆主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "老太爷（豪赌银行创办人）",
+        "card_id": "weisili_haodu_banker_elder",
+        "role": "单书主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "董事长（豪赌）",
+        "card_id": "weisili_haodu_banker",
+        "role": "单书主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "生副官（豪赌）",
+        "card_id": "weisili_sheng_adjutant",
+        "role": "回忆主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "生副官之父",
+        "card_id": "weisili_sheng_adjutant_father",
+        "role": "回忆主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "年羹尧（豪赌传说）",
+        "card_id": "weisili_nian_gengyao",
+        "role": "传说主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "波斯赌客三人（豪赌传说）",
+        "card_id": "weisili_haodu_persian_gamblers",
+        "role": "反派小组",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "雍正皇帝（豪赌传说）",
+        "card_id": "weisili_haodu_yongzheng",
+        "role": "背景反派",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "年家忠仆（豪赌）",
+        "card_id": "weisili_haodu_loyal_retainer",
+        "role": "回忆主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "大赢家（豪赌匿名人物）",
+        "card_id": "weisili_haodu_great_winner",
+        "role": "背景反派",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "白老大",
+        "card_id": "weisili_bai_laoda",
+        "role": "重要配角",
+        "basis": "介绍生念祖并亲自追查宝物"
+      },
+      {
+        "name": "铁蛋",
+        "card_id": "weisili_tie_dan",
+        "role": "重要配角",
+        "basis": "终局交谈和本人旧经历"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "黄金赌场庄家、估价者和打手",
+        "reason": "内嵌短篇的辅助背景，无独立持续行动线。"
+      },
+      {
+        "name": "守洞老者、游人、饭局客人",
+        "reason": "一次性提供背景信息或话题的辅助人物。"
+      },
+      {
+        "name": "相邻军阀势力",
+        "reason": "对李司令的胜者没有独立人物刻画，仅存战果转述；不虚构领袖姓名和设定。"
+      },
+      {
+        "name": "独臂神尼、明清八大侠、吕四娘等",
+        "reason": "谈论武侠故事系统的举例，不视为本小说实际登场人物。"
+      },
+      {
+        "name": "必胜石及未知制造者",
+        "reason": "没有独立人格；存在、用途、来源均未解决，不建立万能概率神。"
+      }
+    ],
+    "notes": [
+      "各代生念祖分卡；银行父子分卡；三个未具名且无个性差异的共同施害者按小组归档。",
+      "历史及政治人物仅为本篇小说版本；暗示不补成现实事实，不因称谓相似合并其他领袖。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/124真实幻境.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "金维",
+        "card_id": "adventure_jinwei",
+        "role": "跨书重要配角、单书主角",
+        "basis": "从会议相识、鹰群引路到共同进入幻境并寻找卫氏家人。"
+      },
+      {
+        "name": "孤峰大鹰",
+        "card_id": "adventure_daying",
+        "role": "跨书重要配角",
+        "basis": "金维多年相交和寻人经历为其继续求解生命形式问题的起点，身份接非人协会孤峰。"
+      },
+      {
+        "name": "卫红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "跨书重要配角",
+        "basis": "幻境记录中与神鹰交流、争执和解，寻求变形方法。"
+      },
+      {
+        "name": "神鹰",
+        "card_id": "weisili_shenying",
+        "role": "跨书重要配角",
+        "basis": "幻境中呈鹰身及人头鹰身的不同阶段，并向伦三德寻求意见。"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "跨书重要配角",
+        "basis": "后段加入寻找，提出解释；没有实际进入能力。"
+      },
+      {
+        "name": "韩正气",
+        "card_id": "weisili_han_zhengqi",
+        "role": "单书主角",
+        "basis": "组织会议、共同实验、现场主持和会后继续辩论。"
+      },
+      {
+        "name": "杜迪博士",
+        "card_id": "weisili_dudi",
+        "role": "单书主角",
+        "basis": "共同实验的科学家与公开说明者。"
+      },
+      {
+        "name": "汤普生教授",
+        "card_id": "weisili_tangpusheng_124",
+        "role": "阶段性对立者",
+        "basis": "会议反对者及持续论争者，未证实暴力犯罪。"
+      },
+      {
+        "name": "陈耳",
+        "card_id": "weisili_chen_er",
+        "role": "跨书重要配角",
+        "basis": "写介绍信促成表亲韩正气求助。"
+      },
+      {
+        "name": "何可人（纳塔莎）",
+        "card_id": "weisili_natasha",
+        "role": "跨书重要配角",
+        "basis": "过往幻境及生命形式问题；女人与男声的具体身份由卫斯理判断，不与已死原本人合并。"
+      },
+      {
+        "name": "阿大（公鸡）",
+        "card_id": "weisili_ada_rooster",
+        "role": "跨书重要配角",
+        "basis": "过往鸡场幻境中的男性争吵声由卫斯理对应公鸡事件。"
+      },
+      {
+        "name": "白老大",
+        "card_id": "weisili_bai_laoda",
+        "role": "跨书重要配角",
+        "basis": "回述与卫斯理讨论梦境旁观者和主体。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "无名神秘力量",
+        "reason": "有干扰感官和幻境现象，但是否存在操纵者亦未确定，不虚构具人格反派。"
+      },
+      {
+        "name": "实验鸭子、未具名鹰群",
+        "reason": "实验对象或共同引路的普通动物，未有独立个体主线，不替实验动物附加人格。"
+      },
+      {
+        "name": "伦三德、罗开、原振侠、天池及其他前情姓名",
+        "reason": "本书请求或提及既有经历，未展示本书中的独立到场行动；既有主卡另处整合。"
+      },
+      {
+        "name": "无名会议助手和与会者",
+        "reason": "一次性职能配角，无独立主线或跨书身份锚点。"
+      }
+    ],
+    "notes": [
+      "全文读取2671行；科学、生命、幻境解释均分清叙述推测与实际行动。",
+      "金维没有任意神游能力：后段连续一月不能重新进入。",
+      "非人协会04怪人已死、此书回述怪人失踪存在叙述冲突；主卡保留差异，不补复活。",
+      "本篇仍未完成家人归来或神鹰稳定人形，参照125、126后续综合；主卡由其所有者维护。"
+    ]
+  }
+]

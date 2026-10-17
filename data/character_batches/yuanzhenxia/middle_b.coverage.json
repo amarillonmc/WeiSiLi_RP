@@ -1,0 +1,169 @@
+[
+  {
+    "path": "原振侠系列/11.失魂.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与援救"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "重要配角",
+        "basis": "组织救援"
+      },
+      {
+        "name": "鲁大发",
+        "card_id": "yuanzhenxia_lu_dafa",
+        "role": "跨书主要人物",
+        "basis": "核心相聚、照护或阻止线"
+      },
+      {
+        "name": "玉宝",
+        "card_id": "yuanzhenxia_yu_bao",
+        "role": "单书主角",
+        "basis": "核心相聚、照护或阻止线"
+      },
+      {
+        "name": "鲁旺财",
+        "card_id": "yuanzhenxia_lu_wangcai",
+        "role": "重要配角",
+        "basis": "核心相聚、照护或阻止线"
+      },
+      {
+        "name": "玉宝所属的土王",
+        "card_id": "yuanzhenxia_yubao_king",
+        "role": "反派",
+        "basis": "核心相聚、照护或阻止线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "十七号女侍卫",
+        "reason": "一次性泄密执行者，未形成独立叙事线"
+      }
+    ],
+    "notes": [
+      "土王未具名，不与其他系列土王合并。"
+    ]
+  },
+  {
+    "path": "原振侠系列/12.降头.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "交涉中间人"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "重要配角",
+        "basis": "情报及政治关系"
+      },
+      {
+        "name": "史奈",
+        "card_id": "yuanzhenxia_shinai",
+        "role": "重要配角",
+        "basis": "降头与王室争权核心线"
+      },
+      {
+        "name": "席·朋加拉·泰宁",
+        "card_id": "yuanzhenxia_tainin",
+        "role": "单书主角",
+        "basis": "降头与王室争权核心线"
+      },
+      {
+        "name": "巴枯",
+        "card_id": "yuanzhenxia_baku",
+        "role": "反派",
+        "basis": "降头与王室争权核心线"
+      },
+      {
+        "name": "水灵",
+        "card_id": "yuanzhenxia_shui_ling",
+        "role": "单书主角",
+        "basis": "降头与王室争权核心线"
+      },
+      {
+        "name": "都旺亲王",
+        "card_id": "yuanzhenxia_duwang",
+        "role": "反派",
+        "basis": "降头与王室争权核心线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "湖岛仆役和军官",
+        "reason": "一次性执行或环境角色"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/13.巫艳.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "医生与感情选择"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "巫术改貌"
+      },
+      {
+        "name": "陶启泉",
+        "card_id": "weisili_tao_qiquan",
+        "role": "重要配角",
+        "basis": "养父"
+      },
+      {
+        "name": "古托",
+        "card_id": "yuanzhenxia_gutuo",
+        "role": "重要配角",
+        "basis": "血咒研究"
+      },
+      {
+        "name": "苏耀西",
+        "card_id": "yuanzhenxia_su_yaoxi",
+        "role": "重要配角",
+        "basis": "研究与联系"
+      },
+      {
+        "name": "鲁旺财",
+        "card_id": "yuanzhenxia_lu_wangcai",
+        "role": "重要配角",
+        "basis": "阿财承担改变"
+      },
+      {
+        "name": "桑雅",
+        "card_id": "yuanzhenxia_sangya",
+        "role": "单书主角",
+        "basis": "桑雅承担改变与职业选择"
+      },
+      {
+        "name": "达伊安",
+        "card_id": "yuanzhenxia_dayian",
+        "role": "重要配角",
+        "basis": "导师"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "医院院长",
+        "reason": "未具名职务人物，未确认各书同一自然人"
+      }
+    ],
+    "notes": []
+  }
+]

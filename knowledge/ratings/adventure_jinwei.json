@@ -1,0 +1,169 @@
+{
+  "id": "adventure_jinwei",
+  "name": "金维",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "《未来身份》中与已经成为人的神鹰同乘大羊鹰离船，赴孤峰继续询问怪人往事；答案尚未揭晓，未掌握自主神游或完备鹰语。",
+    "deployment": "采用后期健在的山地探索者形态，携实际自制哨子等个人工具；大鹰与神鹰是独立朋友，须同意同行，不能直接召唤。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 4,
+    "range": 2,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "山地猎人可踢坏普通门、使用猎刀；血肉仍受伤害，无超重破坏与抗弹证据。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "能在高原与山地长期探索，长途步行和适应环境突出；仍受休息、风雪与受伤限制。",
+    "range": "有限鹰哨可传递引路请求；飞行是独立朋友协助，幻境不是稳定远距权能。",
+    "combat": "山地生存、敏捷判断及猎具使用突出；未掌握可自由发动的神通。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "不懂的生命仍值得保护；山地经验不能替代未知知识。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "鹰哨须可沟通对象与工具；高山风雪仍限制前进，乘鹰须其愿意。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 23.5,
+  "deduction_total": 2.0,
+  "raw_score": 21.5,
+  "rounded_score": 22,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "熟练高山探索、有限鹰哨交流与黑暗观察；幻境仅在未知外部条件下偶发，无可控预知或神游。",
+    "tier": "强",
+    "uncontrolled": "124曾与卫斯理共享幻境，但之后一月无法重进；此现象不计稳定个人权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "非人协会系列/04大鹰.txt",
+      "start_line": 2,
+      "end_line": 19,
+      "supports": "外貌、语言和山地天赋",
+      "kind": "原文"
+    },
+    {
+      "path": "非人协会系列/04大鹰.txt",
+      "start_line": 34,
+      "end_line": 44,
+      "supports": "雪地与扑击应对",
+      "kind": "原文"
+    },
+    {
+      "path": "非人协会系列/04大鹰.txt",
+      "start_line": 612,
+      "end_line": 685,
+      "supports": "解救大鹰、怪人死亡与学习决定",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/070生死锁.txt",
+      "start_line": 1936,
+      "end_line": 1944,
+      "supports": "作为天池老人助手的经历。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/070生死锁.txt",
+      "start_line": 1988,
+      "end_line": 1989,
+      "supports": "当时明确没有掌握任何神通。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/070生死锁.txt",
+      "start_line": 2028,
+      "end_line": 2031,
+      "supports": "与孤峰旧事衔接及未掌握神通。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 447,
+      "end_line": 490,
+      "supports": "重述孤峰经历，与早书结局存在差异。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 1279,
+      "end_line": 1327,
+      "supports": "自制哨子、有限交流、不能由小鹰载人与半日山路。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 1843,
+      "end_line": 1847,
+      "supports": "黑暗中可看清陈设。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 2022,
+      "end_line": 2102,
+      "supports": "静坐与进入幻境的过程。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 2156,
+      "end_line": 2234,
+      "supports": "掌心接触共同入境及精神远游推测。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 2489,
+      "end_line": 2501,
+      "supports": "持续一月尝试不能再次进入。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/126未来身份.txt",
+      "start_line": 95,
+      "end_line": 153,
+      "supports": "神鹰更完全的鹰语及与金维同乘大鹰赴孤峰。",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "非人协会04结尾怪人死亡、大鹰处理遗体；124回述却作怪人消失、金维与鹰多年寻找，存在原文连续性冲突，保留两种叙述，不补造复活。",
+    "卫斯理怀疑金维懂他心通是人物推测；070明确当时没有神通，124未显示任意读心。"
+  ]
+}

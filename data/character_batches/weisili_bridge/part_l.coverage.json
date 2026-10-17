@@ -1,0 +1,110 @@
+[
+  {
+    "path": "卫斯理系列/110水晶宫.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "齐白",
+        "card_id": "weisili_qi_bai",
+        "role": "重要配角",
+        "basis": "实际参与调查与探索"
+      },
+      {
+        "name": "大亨",
+        "card_id": "weisili_da_heng",
+        "role": "重要配角",
+        "basis": "实际参与调查与探索"
+      },
+      {
+        "name": "陶启泉",
+        "card_id": "weisili_tao_qiquan",
+        "role": "重要配角",
+        "basis": "实际参与调查与探索"
+      },
+      {
+        "name": "朱槿",
+        "card_id": "weisili_zhu_jin",
+        "role": "重要配角",
+        "basis": "实际参与调查与探索"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "实际参与调查与探索"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际参与调查与探索"
+      },
+      {
+        "name": "人树结合男子",
+        "card_id": "weisili_wood_man",
+        "role": "重要配角",
+        "basis": "实际参与调查与探索"
+      },
+      {
+        "name": "人树结合女子",
+        "card_id": "weisili_wood_woman",
+        "role": "重要配角",
+        "basis": "实际参与调查与探索"
+      },
+      {
+        "name": "阿水",
+        "card_id": "weisili_a_shui",
+        "role": "单书主角",
+        "basis": "海底经历与生活选择的关键人物"
+      },
+      {
+        "name": "阿花",
+        "card_id": "weisili_a_hua",
+        "role": "单书重要人物",
+        "basis": "海底经历与生活选择的关键人物"
+      },
+      {
+        "name": "冷若水",
+        "card_id": "weisili_leng_ruoshui",
+        "role": "单书重要人物",
+        "basis": "海底经历与生活选择的关键人物"
+      },
+      {
+        "name": "三十七（海底守墓者）",
+        "card_id": "weisili_thirty_seven",
+        "role": "单书主角",
+        "basis": "海底经历与生活选择的关键人物"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "张盛和老路",
+        "reason": "马队阶段的一次性同行及警告者，无独立主角线或反派行动。"
+      },
+      {
+        "name": "海底居民与首领",
+        "reason": "共同执行生活和守墓规则；有明确人格行动者三十七单独建卡，其他成员未被充分个体化。"
+      },
+      {
+        "name": "求长生的几位老人家",
+        "reason": "背景权力群体，身份不能仅凭称呼和以前匿名人一一对应。"
+      }
+    ],
+    "notes": [
+      "治疗完成的木质男女已回写主卡；不能停在108的等待状态。",
+      "成吉思汗墓的守护与潜水器是具体设施和社会规则，不授予任何来访者随意控海能力。"
+    ]
+  }
+]

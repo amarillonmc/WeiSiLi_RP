@@ -1,0 +1,105 @@
+{
+  "id": "weisili_tg_da_huangluo",
+  "name": "大荒落（当代蛇天官）",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "仍作为蓝家峒当代十二天官的一员生活，与蓝丝保持养亲关系；没有原文死亡结局",
+    "deployment": "以当代本人独立能力计分，维持与其余十一人的原有生命联系；卡片不默认将十二人战力累加为一个人。若场景无法容纳此联系，应使用非战斗远程交涉而非凭空解除齐心蛊。"
+  },
+  "positive": {
+    "physical": 4,
+    "energy": 3,
+    "scope": 1,
+    "sustain": 4,
+    "range": 2,
+    "combat": 7
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "当代传承的武术、有限蛊术与协同经验；未逐人展示远古异术，不将十二人能力相加；该项仅评价本卡机制在对应维度上的作用。",
+    "energy": "当代传承的武术、有限蛊术与协同经验；未逐人展示远古异术，不将十二人能力相加；该项仅评价本卡机制在对应维度上的作用。",
+    "scope": "当代传承的武术、有限蛊术与协同经验；未逐人展示远古异术，不将十二人能力相加；该项仅评价本卡机制在对应维度上的作用。",
+    "sustain": "当代传承的武术、有限蛊术与协同经验；未逐人展示远古异术，不将十二人能力相加；该项仅评价本卡机制在对应维度上的作用。",
+    "range": "当代传承的武术、有限蛊术与协同经验；未逐人展示远古异术，不将十二人能力相加；该项仅评价本卡机制在对应维度上的作用。",
+    "combat": "当代传承的武术、有限蛊术与协同经验；未逐人展示远古异术，不将十二人能力相加；该项仅评价本卡机制在对应维度上的作用。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 34.0,
+  "deduction_total": 5.0,
+  "raw_score": 29.0,
+  "rounded_score": 29,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "强",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/084拼命.txt",
+      "start_line": 547,
+      "end_line": 608,
+      "supports": "本代来历、传艺、齐心蛊及与旧天官不同",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/090大秘密.txt",
+      "start_line": 31,
+      "end_line": 86,
+      "supports": "养亲感情与接受身世关系",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/090大秘密.txt",
+      "start_line": 190,
+      "end_line": 278,
+      "supports": "名字、特征与交付记录",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/091祸根.txt",
+      "start_line": 326,
+      "end_line": 335,
+      "supports": "本代为纯朴苗人，不确认龙位仍是皇族",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "数值评级为项目分析，原文没有相应战斗数值。"
+  ]
+}

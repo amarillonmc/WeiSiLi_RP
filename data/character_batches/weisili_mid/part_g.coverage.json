@@ -1,0 +1,71 @@
+[
+  {
+    "path": "卫斯理系列/048迷藏.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "高彩虹",
+        "card_id": "weisili_gao_caihong",
+        "role": "跨书主角",
+        "basis": "古堡与时间旅行核心"
+      },
+      {
+        "name": "王居风",
+        "card_id": "weisili_wang_jufeng",
+        "role": "跨书主角",
+        "basis": "古堡与时间旅行核心"
+      },
+      {
+        "name": "古昂",
+        "card_id": "weisili_guang_castle",
+        "role": "单书核心人物",
+        "basis": "古堡与时间旅行核心"
+      },
+      {
+        "name": "康司",
+        "card_id": "weisili_kangsi",
+        "role": "单书主要调查者",
+        "basis": "古堡与时间旅行核心"
+      },
+      {
+        "name": "保能大公",
+        "card_id": "weisili_baoneng_duke",
+        "role": "反派",
+        "basis": "古堡与时间旅行核心"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "费逊",
+        "reason": "一次传递录音并获安置的协助者，未证实跨书。"
+      },
+      {
+        "name": "亚里逊",
+        "reason": "地方警员，单次转交线索。"
+      },
+      {
+        "name": "奇勒储君",
+        "reason": "失踪前史，无独立行动线。"
+      },
+      {
+        "name": "史塔温斯基",
+        "reason": "时间旅行叙述中的短暂历史客串，非主角或反派。"
+      }
+    ],
+    "notes": [
+      "莫拉、娜亚文为主角所述不同生命阶段，作为经历身份归入对应主卡，不增设独立同战角色。"
+    ]
+  }
+]

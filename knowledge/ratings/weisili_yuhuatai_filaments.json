@@ -1,0 +1,89 @@
+{
+  "id": "weisili_yuhuatai_filaments",
+  "name": "雨花台石中的细丝生命",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "两块石中的群体分别随高僧焚身和班纳所处矿坑爆炸被叙述认定消灭。",
+    "deployment": "按最后可独立行动形态加入；终局异常作为明确改编恢复，不重演死亡过程。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 4,
+    "scope": 2,
+    "sustain": 4,
+    "range": 1,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "细丝本体脆弱",
+    "energy": "精神干扰与宿主控制",
+    "scope": "本次集中于一人",
+    "sustain": "可久存但怕高温",
+    "range": "主要接触与宿主体内",
+    "combat": "善诱惑但有内部冲突"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "能力的已知边界：需要接触与释放条件；宿主可短暂抵抗，高温是明确弱点，未知无限扩散速率。"
+    },
+    "environment": {
+      "score": 4,
+      "af": 1.0,
+      "reason": "场景条件：需要接触与释放条件；宿主可短暂抵抗，高温是明确弱点，未知无限扩散速率。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "临场情绪与选择：干扰表达、压制警告并吸收其记忆。"
+    }
+  },
+  "positive_total": 25.5,
+  "deduction_total": 9.0,
+  "raw_score": 16.5,
+  "rounded_score": 17,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "在封闭条件减弱后影响接触者，释放后经皮肤进入宿主，读取其信息并争夺行为控制。；需要接触与释放条件；宿主可短暂抵抗，高温是明确弱点，未知无限扩散速率。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/035雨花台石.txt",
+      "start_line": 1295,
+      "end_line": 1307,
+      "supports": "封闭结构",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/035雨花台石.txt",
+      "start_line": 1423,
+      "end_line": 1512,
+      "supports": "寄生、两派与高温终局",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

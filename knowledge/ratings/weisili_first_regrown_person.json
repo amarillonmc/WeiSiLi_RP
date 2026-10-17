@@ -1,0 +1,105 @@
+{
+  "id": "weisili_first_regrown_person",
+  "name": "第一位可交流的再生者",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "成长到可写字、具成人智力，随蒙博士群体迁离，后续未知。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 1,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 改变后的活体，具体抗性未知，不推定免疫常规伤害。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "没有可确认的攻击性超能；不能用外貌推定强度或精神恐怖。旧人格连续性未明，语言需翻译或学习。",
+    "combat": "遇陌生形体会恐惧，未显示战斗训练。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "理解陌生身体与外界，争取能够安全交流的生活。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "没有可确认的攻击性超能；不能用外貌推定强度或精神恐怖。旧人格连续性未明，语言需翻译或学习。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 10.5,
+  "deduction_total": 2.0,
+  "raw_score": 8.5,
+  "rounded_score": 9,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "纸",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "并",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/021再来一次.txt",
+      "start_line": 724,
+      "end_line": 746,
+      "supports": "首次出现的形体与行为",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/021再来一次.txt",
+      "start_line": 1341,
+      "end_line": 1378,
+      "supports": "与两名妇人相遇",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/021再来一次.txt",
+      "start_line": 1460,
+      "end_line": 1476,
+      "supports": "学习、书写及自身恐惧",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/021再来一次.txt",
+      "start_line": 1683,
+      "end_line": 1684,
+      "supports": "群体下落未知",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "无法与十九名老人中的某个原姓名可靠对应。"
+  ]
+}

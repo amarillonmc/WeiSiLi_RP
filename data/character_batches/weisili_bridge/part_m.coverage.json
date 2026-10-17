@@ -1,0 +1,122 @@
+[
+  {
+    "path": "卫斯理系列/111前世.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "普索利",
+        "card_id": "weisili_pusuoli",
+        "role": "重要配角",
+        "basis": "组织聚会并转达结论"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "追查母子"
+      },
+      {
+        "name": "青龙",
+        "card_id": "yuanzhenxia_qinglong",
+        "role": "重要配角",
+        "basis": "安排与转世者见面"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "系列主角",
+        "basis": "末尾酒会"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "系列主角",
+        "basis": "末尾讨论"
+      },
+      {
+        "name": "牛顿（弗林·埃蒙顿）",
+        "card_id": "weisili_newton_flynn",
+        "role": "单书主角",
+        "basis": "旧案、身世与再世主线"
+      },
+      {
+        "name": "方琴",
+        "card_id": "weisili_fang_qin",
+        "role": "单书关键见证人",
+        "basis": "旧案、身世与再世主线"
+      },
+      {
+        "name": "约克（阿佳旧恋人）",
+        "card_id": "weisili_york",
+        "role": "单书主角",
+        "basis": "旧案、身世与再世主线"
+      },
+      {
+        "name": "阿佳及其转世暴君",
+        "card_id": "weisili_ajia_tyrant",
+        "role": "单书主角",
+        "basis": "旧案、身世与再世主线"
+      },
+      {
+        "name": "鲁鲁",
+        "card_id": "weisili_lulu",
+        "role": "重要配角",
+        "basis": "旧案、身世与再世主线"
+      },
+      {
+        "name": "玫玲",
+        "card_id": "weisili_meiling",
+        "role": "单书主角",
+        "basis": "旧案、身世与再世主线"
+      },
+      {
+        "name": "亲王（小水仙旧案）",
+        "card_id": "weisili_qianshi_prince",
+        "role": "反派",
+        "basis": "旧案、身世与再世主线"
+      },
+      {
+        "name": "新掌权者（亲王之后）",
+        "card_id": "weisili_qianshi_usurper",
+        "role": "反派",
+        "basis": "旧案、身世与再世主线"
+      },
+      {
+        "name": "蛛丝链刀杀手",
+        "card_id": "weisili_qianshi_chain_assassin",
+        "role": "反派",
+        "basis": "旧案、身世与再世主线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "小唐（青龙使者）",
+        "reason": "一次性传话少年，与小郭妻子小唐不是同人；尚无多书实际出场依据。"
+      },
+      {
+        "name": "高个子及其他灵学研究者",
+        "reason": "单次聚会中的理论与协助，未证实追踪灵魂技能或独立反派线。"
+      },
+      {
+        "name": "历史贵族、其他死难王室成员与各国暴君举例",
+        "reason": "背景人物或历史比较，不补写成独立主动角色。"
+      }
+    ],
+    "notes": [
+      "本书明确发生在较早时间，不用111编号强行覆盖青龙其他作品的较后终局。",
+      "阿佳与转世者以同一连续身份记录分阶段逻辑；不把小说的转世、性别和医学猜想当作现实事实。"
+    ]
+  }
+]

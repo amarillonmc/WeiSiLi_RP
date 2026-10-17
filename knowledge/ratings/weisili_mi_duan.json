@@ -1,0 +1,112 @@
+{
+  "id": "weisili_mi_duan",
+  "name": "米端",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "《极刑》终止人类苦难展示并与同伴离地；未保证继续受理冤魂申诉",
+    "deployment": "《极刑》终止人类苦难展示并与同伴离地；未保证继续受理冤魂申诉。仅携带卡中明确列出的随身装备；朋友、机构与失去的装置均需另行取得支持。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 8,
+    "scope": 6,
+    "sustain": 7,
+    "range": 8,
+    "combat": 5
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "确有历史场景转移和人物远程搬移，范围只据展示；持续精神感染与任务边界限制，不等于全知全能天庭。；该项仅评价本卡机制在对应维度上的作用。",
+    "energy": "确有历史场景转移和人物远程搬移，范围只据展示；持续精神感染与任务边界限制，不等于全知全能天庭。；该项仅评价本卡机制在对应维度上的作用。",
+    "scope": "确有历史场景转移和人物远程搬移，范围只据展示；持续精神感染与任务边界限制，不等于全知全能天庭。；该项仅评价本卡机制在对应维度上的作用。",
+    "sustain": "确有历史场景转移和人物远程搬移，范围只据展示；持续精神感染与任务边界限制，不等于全知全能天庭。；该项仅评价本卡机制在对应维度上的作用。",
+    "range": "确有历史场景转移和人物远程搬移，范围只据展示；持续精神感染与任务边界限制，不等于全知全能天庭。；该项仅评价本卡机制在对应维度上的作用。",
+    "combat": "确有历史场景转移和人物远程搬移，范围只据展示；持续精神感染与任务边界限制，不等于全知全能天庭。；该项仅评价本卡机制在对应维度上的作用。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 59.0,
+  "deduction_total": 5.0,
+  "raw_score": 54.0,
+  "rounded_score": 54,
+  "numeric_tier": "狂",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "狂",
+  "theoretical_tier": "准神",
+  "mastery": "完全掌握",
+  "final_tier": "准神",
+  "display_tier": "准神",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "准神",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/067极刑.txt",
+      "start_line": 281,
+      "end_line": 311,
+      "supports": "情绪感染与展馆态度",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/067极刑.txt",
+      "start_line": 3083,
+      "end_line": 3113,
+      "supports": "承认时空转移并求意见",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/067极刑.txt",
+      "start_line": 3189,
+      "end_line": 3228,
+      "supports": "任务机制、局限和情绪代价",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/067极刑.txt",
+      "start_line": 3249,
+      "end_line": 3278,
+      "supports": "救刘并惩戒、变形和离去",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/067极刑.txt",
+      "start_line": 3311,
+      "end_line": 3316,
+      "supports": "教技能提议未实现",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "数值评级为项目分析，原文没有相应战斗数值。"
+  ]
+}

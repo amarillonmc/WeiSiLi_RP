@@ -1,0 +1,89 @@
+{
+  "id": "weisili_dingna",
+  "name": "丁纳",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "交代实验与复仇后住宅爆炸，叙述认为本人及研究毁灭；承诺自首未实际完成。",
+    "deployment": "按最后可独立行动形态加入；终局异常作为明确改编恢复，不重演死亡过程。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 3,
+    "scope": 2,
+    "sustain": 3,
+    "range": 1,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "普通人体",
+    "energy": "药物对相容对象的特殊控制",
+    "scope": "少数已处理病人",
+    "sustain": "依冷藏与准备",
+    "range": "近身处理及可听指令",
+    "combat": "有计划但无广泛战斗优势"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "能力的已知边界：须有药物、准备和相容活体；不能复活真实死者，也不能隔空控制任意人。"
+    },
+    "environment": {
+      "score": 4,
+      "af": 1.0,
+      "reason": "场景条件：须有药物、准备和相容活体；不能复活真实死者，也不能隔空控制任意人。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "临场情绪与选择：倾向安排间接报复，忽略他人的自主。"
+    }
+  },
+  "positive_total": 22.0,
+  "deduction_total": 9.0,
+  "raw_score": 13.0,
+  "rounded_score": 13,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "作品中的特殊药物使活人进入近死状态，在相应条件下接受声音指令；冷藏可延缓其代谢。；须有药物、准备和相容活体；不能复活真实死者，也不能隔空控制任意人。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/031访客.txt",
+      "start_line": 1180,
+      "end_line": 1244,
+      "supports": "受害经历与药物控制机制",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/031访客.txt",
+      "start_line": 1252,
+      "end_line": 1311,
+      "supports": "四名病人、复仇、愿景和爆炸终局",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

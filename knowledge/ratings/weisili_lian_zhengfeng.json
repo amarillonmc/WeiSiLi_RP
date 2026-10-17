@@ -1,0 +1,141 @@
+{
+  "id": "weisili_lian_zhengfeng",
+  "name": "廉正风",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "帮助游救国完成投药并与众人说明，继续独立调查与忍术活动；未公布组织内部方法",
+    "deployment": "帮助游救国完成投药并与众人说明，继续独立调查与忍术活动；未公布组织内部方法。可使用个人忍术及明确携带工具，不自动支配全部忍术组织。"
+  },
+  "positive": {
+    "physical": 4,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 4,
+    "range": 3,
+    "combat": 8
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "受过训练的人体近战、临时武器及可取得的常规枪械；不能据技巧宣称能摧毁建筑。",
+    "energy": "本卡未把接触到的外星技术或他人的能力计入个人能量输出。",
+    "scope": "按能直接作用的人体、局部物件或现场计分，社会势力不等于攻击面积。",
+    "sustain": "按其身体、训练和现场状态行动；需要休息、治疗与补给，不编造无限续航或精确时长。",
+    "range": "近身与常规工具的有限距离；没有无条件远程法术。",
+    "combat": "根据正文中的实战技巧与现场判断作项目分析。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 32.5,
+  "deduction_total": 3.0,
+  "raw_score": 29.5,
+  "rounded_score": 30,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "强",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/127移魂怪物.txt",
+      "start_line": 211,
+      "end_line": 294,
+      "supports": "危险名片、独立调查宣言及叔侄身份",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/127移魂怪物.txt",
+      "start_line": 464,
+      "end_line": 547,
+      "supports": "认可侠义动机、撤回串谋并提出被骗",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/127移魂怪物.txt",
+      "start_line": 1661,
+      "end_line": 1753,
+      "supports": "法律态度、爆响浓烟与非魔法隐身",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/127移魂怪物.txt",
+      "start_line": 2112,
+      "end_line": 2160,
+      "supports": "后来长谈与忍者失误自责",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/127移魂怪物.txt",
+      "start_line": 2550,
+      "end_line": 2598,
+      "supports": "精神压制半小时与真相后的调查复盘",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/129本性难移.txt",
+      "start_line": 1680,
+      "end_line": 1711,
+      "supports": "用水囊假人示警兼示范潜入，未解释药物",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/129本性难移.txt",
+      "start_line": 2260,
+      "end_line": 2263,
+      "supports": "平地青雄是更高地位的忍术传人",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/129本性难移.txt",
+      "start_line": 2418,
+      "end_line": 2427,
+      "supports": "协助大规模未同意投药",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/129本性难移.txt",
+      "start_line": 2451,
+      "end_line": 2465,
+      "supports": "保守组织秘密、收徒要求使温放弃",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "可能存在协作助手或组织仅为卫的推测，不计常驻势力。",
+    "半小时恢复比司机早是此案表现，不等于一般精神控制免疫。"
+  ]
+}

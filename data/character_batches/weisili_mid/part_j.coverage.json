@@ -1,0 +1,107 @@
+[
+  {
+    "path": "卫斯理系列/051玩具.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "杰克",
+        "card_id": "weisili_jieke",
+        "role": "重要配角",
+        "basis": "警务调查"
+      },
+      {
+        "name": "陶格",
+        "card_id": "weisili_taoge",
+        "role": "单书主角",
+        "basis": "玩具主线核心行动"
+      },
+      {
+        "name": "陶格夫人",
+        "card_id": "weisili_taoge_furen",
+        "role": "单书主角",
+        "basis": "玩具主线核心行动"
+      },
+      {
+        "name": "唐娜",
+        "card_id": "weisili_tangna",
+        "role": "单书主角",
+        "basis": "玩具主线核心行动"
+      },
+      {
+        "name": "伊凡",
+        "card_id": "weisili_yifan",
+        "role": "单书主角",
+        "basis": "玩具主线核心行动"
+      },
+      {
+        "name": "达宝（丹麦调查员）",
+        "card_id": "weisili_dabao_denmark",
+        "role": "单书主要调查者",
+        "basis": "玩具主线核心行动"
+      },
+      {
+        "name": "李持中",
+        "card_id": "weisili_li_chizhong",
+        "role": "单书核心人物",
+        "basis": "玩具主线核心行动"
+      },
+      {
+        "name": "梅耶",
+        "card_id": "weisili_meiye",
+        "role": "单书主要调查者",
+        "basis": "玩具主线核心行动"
+      },
+      {
+        "name": "齐宾",
+        "card_id": "weisili_qibin",
+        "role": "单书主要调查者",
+        "basis": "玩具主线核心行动"
+      },
+      {
+        "name": "未来的 A 型老人",
+        "card_id": "weisili_wanju_old_man",
+        "role": "单书核心人物",
+        "basis": "玩具主线核心行动"
+      },
+      {
+        "name": "《玩具》的机器统治群体",
+        "card_id": "weisili_wanju_robots",
+        "role": "反派群体",
+        "basis": "玩具主线核心行动"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "浦安夫妇",
+        "reason": "列车事件受害者和线索，无独立主角行动线。"
+      },
+      {
+        "name": "小浦安",
+        "reason": "一次家属与调查协助者。"
+      },
+      {
+        "name": "周嘉平",
+        "reason": "聚会主人，单次引介。"
+      },
+      {
+        "name": "卢克莫里博士",
+        "reason": "作为战犯调查背景被提及，未实际出场；不能与被误认的陶格合卡。"
+      }
+    ],
+    "notes": [
+      "本书达宝为丹麦调查者，与第二种人的同名飞行工程师分别建卡。"
+    ]
+  }
+]

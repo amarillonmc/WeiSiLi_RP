@@ -1,0 +1,187 @@
+[
+  {
+    "path": "原振侠系列/17.幽灵星座.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "术法与守护"
+      },
+      {
+        "name": "刘心芹",
+        "card_id": "yuanzhenxia_liu_xinqin",
+        "role": "单书核心人物",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "刘量中",
+        "card_id": "yuanzhenxia_liu_liangzhong",
+        "role": "单书主角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "施哲",
+        "card_id": "yuanzhenxia_shizhe",
+        "role": "单书主角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "黑纱",
+        "card_id": "yuanzhenxia_heisha",
+        "role": "重要配角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "幽灵星座采集使者群体",
+        "card_id": "yuanzhenxia_youming_collectors",
+        "role": "集体反派",
+        "basis": "主要叙事与终局行动"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "施哲与黑纱是不同使者；刘量中薄片内幸福程度不能由旁人推测当实证。"
+    ]
+  },
+  {
+    "path": "原振侠系列/18.黑暗天使.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "护送意识"
+      },
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "寻回公主"
+      },
+      {
+        "name": "公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "灵魂获释"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "重要配角",
+        "basis": "协助与见证"
+      },
+      {
+        "name": "戈壁",
+        "card_id": "weisili_ge_bi",
+        "role": "重要配角",
+        "basis": "装置协作"
+      },
+      {
+        "name": "沙漠",
+        "card_id": "weisili_sha_mo",
+        "role": "重要配角",
+        "basis": "装置协作"
+      },
+      {
+        "name": "黑纱",
+        "card_id": "yuanzhenxia_heisha",
+        "role": "重要配角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "幽灵星座采集使者群体",
+        "card_id": "yuanzhenxia_youming_collectors",
+        "role": "集体反派",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "干纳",
+        "card_id": "yuanzhenxia_ganna",
+        "role": "单书主要行动者",
+        "basis": "主要叙事与终局行动"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "公主的具体跨系列编号在全局校验时核对。"
+    ]
+  },
+  {
+    "path": "原振侠系列/19.迷失乐园.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与认知冲突"
+      },
+      {
+        "name": "海棠",
+        "card_id": "yuanzhenxia_hai_tang",
+        "role": "主角",
+        "basis": "以玫瑰身份加入乐园"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "调查"
+      },
+      {
+        "name": "李文",
+        "card_id": "yuanzhenxia_li_wen",
+        "role": "重要配角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "朱淑芬",
+        "card_id": "yuanzhenxia_zhu_shufen",
+        "role": "重要配角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "豪特",
+        "card_id": "yuanzhenxia_haote",
+        "role": "单书主角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "卓克",
+        "card_id": "yuanzhenxia_zhuoke",
+        "role": "单书核心人物",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "海底乐园的三触须传授者",
+        "card_id": "yuanzhenxia_paradise_teachers",
+        "role": "集体主要角色",
+        "basis": "主要叙事与终局行动"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "李老先生",
+        "reason": "一次性求助者，作为李文父亲的关系记录"
+      },
+      {
+        "name": "玫瑰父母",
+        "reason": "未具名共同改造者，未见独立叙事线"
+      },
+      {
+        "name": "小郭调查员",
+        "reason": "一次性执行者"
+      }
+    ],
+    "notes": []
+  }
+]

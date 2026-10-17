@@ -1,0 +1,105 @@
+{
+  "id": "weisili_tian_qingsi",
+  "name": "田青丝",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "《废墟》已逃离山顶并任法国女校长，与胡明恋爱，协助下山计划",
+    "deployment": "《废墟》已逃离山顶并任法国女校长，与胡明恋爱，协助下山计划。仅携带卡中明确列出的随身装备；朋友、机构与失去的装置均需另行取得支持。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 1,
+    "range": 1,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "常人徒手与可取得的普通工具，未证实独立大范围攻击。",
+    "energy": "本卡未把接触到的外星技术或他人的能力计入个人能量输出。",
+    "scope": "按能直接作用的人体、局部物件或现场计分，社会势力不等于攻击面积。",
+    "sustain": "按其身体、训练和现场状态行动；需要休息、治疗与补给，不编造无限续航或精确时长。",
+    "range": "近身与常规工具的有限距离；没有无条件远程法术。",
+    "combat": "根据正文中的实际行动、专业能力及缺少战斗展示的边界作项目分析。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 10.0,
+  "deduction_total": 3.0,
+  "raw_score": 7.0,
+  "rounded_score": 7,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "纸",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/072废墟.txt",
+      "start_line": 1240,
+      "end_line": 1354,
+      "supports": "童年悲剧及山顶生活",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/072废墟.txt",
+      "start_line": 2531,
+      "end_line": 2575,
+      "supports": "身份、十五年孤立和逃亡",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/072废墟.txt",
+      "start_line": 2595,
+      "end_line": 2615,
+      "supports": "主动要求调查及技能界限",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/072废墟.txt",
+      "start_line": 3026,
+      "end_line": 3033,
+      "supports": "协助李规范计划",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "数值评级为项目分析，原文没有相应战斗数值。"
+  ]
+}

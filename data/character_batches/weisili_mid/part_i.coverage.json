@@ -1,0 +1,117 @@
+[
+  {
+    "path": "卫斯理系列/050木炭.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "陈长青",
+        "card_id": "weisili_chen_changqing",
+        "role": "重要配角",
+        "basis": "发起调查、提供研究场所并持续监测"
+      },
+      {
+        "name": "普索利爵士",
+        "card_id": "weisili_pusuoli",
+        "role": "重要配角",
+        "basis": "灵学合作与实验"
+      },
+      {
+        "name": "陶启泉",
+        "card_id": "weisili_tao_qiquan",
+        "role": "重要配角",
+        "basis": "商业关系推动林伯骏合作"
+      },
+      {
+        "name": "计天祥",
+        "card_id": "weisili_ji_tianxiang",
+        "role": "前史主角",
+        "basis": "木炭与炭帮主线或关键前史"
+      },
+      {
+        "name": "四婶（炭帮）",
+        "card_id": "weisili_tanbang_sishen",
+        "role": "单书核心人物",
+        "basis": "木炭与炭帮主线或关键前史"
+      },
+      {
+        "name": "祁三",
+        "card_id": "weisili_qi_san",
+        "role": "单书主要行动者",
+        "basis": "木炭与炭帮主线或关键前史"
+      },
+      {
+        "name": "边五",
+        "card_id": "weisili_bian_wu",
+        "role": "单书主要行动者",
+        "basis": "木炭与炭帮主线或关键前史"
+      },
+      {
+        "name": "老七（花皮金刚）",
+        "card_id": "weisili_tanbang_laoqi",
+        "role": "前史反派性行动者",
+        "basis": "木炭与炭帮主线或关键前史"
+      },
+      {
+        "name": "林子渊",
+        "card_id": "weisili_lin_ziyuan",
+        "role": "单书主角",
+        "basis": "木炭与炭帮主线或关键前史"
+      },
+      {
+        "name": "林玉声",
+        "card_id": "weisili_lin_yusheng",
+        "role": "前史主角",
+        "basis": "木炭与炭帮主线或关键前史"
+      },
+      {
+        "name": "忠王（《木炭》小说形象）",
+        "card_id": "weisili_zhongwang_mutan",
+        "role": "前史反派",
+        "basis": "木炭与炭帮主线或关键前史"
+      },
+      {
+        "name": "张队长（《木炭》）",
+        "card_id": "weisili_zhang_duizhang_mutan",
+        "role": "前史反派",
+        "basis": "木炭与炭帮主线或关键前史"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "林老太太",
+        "reason": "单书关键亲历讲述者，非独立主角或反派；保留在林子渊关系与证据中。"
+      },
+      {
+        "name": "林伯骏",
+        "reason": "单书家属与册子提供者，未证实跨书；冷淡不等于反派。"
+      },
+      {
+        "name": "皮耀国",
+        "reason": "单次仪器检查协作者。"
+      },
+      {
+        "name": "甘敏斯",
+        "reason": "本书研究协作者，在十七年仅被建议联络，不构成第二次实际出场。"
+      },
+      {
+        "name": "白老大",
+        "reason": "本书多为旧交与往事提及，不把提及算实际再出场。"
+      }
+    ],
+    "notes": [
+      "灵魂去向保留多解；不以肉体死亡自动授予成功超脱。人物“忠王”仅指小说形象。"
+    ]
+  }
+]

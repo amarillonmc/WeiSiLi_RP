@@ -1,0 +1,95 @@
+{
+  "card_count": 1409,
+  "rating_count": 1409,
+  "reviewed_books": 336,
+  "source_files_by_series": {
+    "亚洲之鹰罗开系列": 15,
+    "倪匡之鬼话系列": 25,
+    "卫斯理系列": 147,
+    "原振侠系列": 32,
+    "年轻人": 13,
+    "木兰花全集": 60,
+    "浪子高达系列": 8,
+    "神探高斯系列": 29,
+    "非人协会系列": 7
+  },
+  "generated_file_count": 5642,
+  "utf8_without_bom_lf": true,
+  "broken_local_links": [],
+  "lookup_terms": 1888,
+  "id_redirects": {
+    "weisili_shuiyin_general": "adventure_shuiyin",
+    "weisili_jin_te": "yuanzhenxia_jinte",
+    "yuanzhenxia_hu_huaiyu": "weisili_hu_huaiyu",
+    "weisili_haigao": "weisili_hai_gao",
+    "weisili_jiaozhang": "weisili_kaoyan_priest",
+    "weisili_royal_elder": "weisili_tusheng"
+  },
+  "ambiguous_names": {
+    "军师": [
+      "adventure_junshi",
+      "mulanhua_kadele"
+    ],
+    "纳尔逊": [
+      "mulanhua_nelson",
+      "weisili_naerxun"
+    ],
+    "霍医生": [
+      "weisili_huo_jianping",
+      "weisili_huo_jingwei"
+    ],
+    "阴主之一": [
+      "weisili_yin_1",
+      "weisili_yin_2",
+      "weisili_yin_3"
+    ]
+  },
+  "query_checks": [
+    {
+      "args": [
+        "卫斯理"
+      ],
+      "passed": true,
+      "result_id": "weisili_wei_sili"
+    },
+    {
+      "args": [
+        "weisili_jin_te"
+      ],
+      "passed": true,
+      "result_id": "yuanzhenxia_jinte"
+    },
+    {
+      "args": [
+        "神鹰",
+        "--rating"
+      ],
+      "passed": true,
+      "result_id": "weisili_shenying"
+    },
+    {
+      "args": [
+        "军师"
+      ],
+      "passed": true,
+      "candidate_ids": [
+        "adventure_junshi",
+        "mulanhua_kadele"
+      ]
+    },
+    {
+      "args": [
+        "白素",
+        "--markdown"
+      ],
+      "passed": true
+    },
+    {
+      "args": [
+        "__不存在的验收角色__"
+      ],
+      "passed": true
+    }
+  ],
+  "errors": []
+}

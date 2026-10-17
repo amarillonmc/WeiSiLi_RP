@@ -1,0 +1,118 @@
+[
+  {
+    "path": "卫斯理系列/117双程.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "黄堂",
+        "card_id": "weisili_huang_tang",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "良辰",
+        "card_id": "weisili_liang_chen",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "美景",
+        "card_id": "weisili_mei_jing",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "大亨",
+        "card_id": "weisili_da_heng",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "朱槿",
+        "card_id": "weisili_zhu_jin",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "小纳尔逊",
+        "card_id": "weisili_xiao_na",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "白老大",
+        "card_id": "weisili_bai_laoda",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "沈万三",
+        "card_id": "weisili_shen_wansan",
+        "role": "重要配角",
+        "basis": "实际参与事件"
+      },
+      {
+        "name": "四巧堂双程巨人",
+        "card_id": "weisili_shuangcheng_giant",
+        "role": "单书主角",
+        "basis": "双程生命主线"
+      },
+      {
+        "name": "四巧堂养父长老",
+        "card_id": "weisili_siqiao_elder",
+        "role": "单书关键人物",
+        "basis": "双程生命主线"
+      },
+      {
+        "name": "警务总监（双程空难事件）",
+        "card_id": "weisili_shuangcheng_commissioner",
+        "role": "反派",
+        "basis": "双程生命主线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "鲁健",
+        "reason": "一次性协助处理机场警告的警务人员，无独立主角线。"
+      },
+      {
+        "name": "机场主管、民航局长、市府秘书长",
+        "reason": "临时行政争论中的职务人物，未形成独立反派行动线；主要施害决策者总监已建卡。"
+      },
+      {
+        "name": "陈宅旧主人与长辫老人",
+        "reason": "只在巨人童年片段参与未解安排，身份和独立能力不足，不自动合并陈长青或历史人物。"
+      },
+      {
+        "name": "四巧堂旧日惩戒人物与恶霸",
+        "reason": "用以解释帮会背景的短段旧事，无连续人物线。"
+      },
+      {
+        "name": "S W H",
+        "reason": "末尾小说内信件署名，没有独立人物主线；信中理论仅按小说设想处理。"
+      }
+    ],
+    "notes": [
+      "双程生命并非随意时间旅行；巨人离开的瞬间没有目击。",
+      "空难原因未查明，不能把巨人预知写成已经证实的恐怖行动。"
+    ]
+  }
+]

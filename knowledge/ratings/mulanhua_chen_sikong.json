@@ -1,0 +1,127 @@
+{
+  "id": "mulanhua_chen_sikong",
+  "name": "陈思空",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "左胫骨被木兰花砍断，以椅脚固定后行动；仍在古堡，因误信龟息延寿而协助她离去并等待传授。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 1,
+    "scope": 0,
+    "sustain": 3,
+    "range": 0,
+    "combat": 5
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "有一拳打折碗口树干、重伤穆秀珍内脏和徒手破椅脚的表现；仍属接触范围。 受木兰花膝击可保持战力，但子弹危险真实，失防时胫骨可被打断；不是金刚不坏。",
+    "energy": "练气增强身体控制和接触发力，没有远程气功投射。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "长期内功训练支持耐力与呼吸控制；需真实空气，未掌握龟息或无限闭气。",
+    "range": "不能抗子弹，假死需要伪造致命伤；最后断腿明显限制移动，怕老与对武学神话的信任可动摇判断。",
+    "combat": "擅长识别脉门、变招和控制伤势程度，仍会因确信胜利而让对手贴近弱处。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "以武术造诣和名家荣誉维持自我价值，最怕时间证明一生苦练仍无法摆脱衰老与死亡。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "不能抗子弹，假死需要伪造致命伤；最后断腿明显限制移动，怕老与对武学神话的信任可动摇判断。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 19.5,
+  "deduction_total": 2.0,
+  "raw_score": 17.5,
+  "rounded_score": 18,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "并",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 502,
+      "end_line": 546,
+      "supports": "内功、名声与自行其是。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 660,
+      "end_line": 672,
+      "supports": "一拳断树。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 784,
+      "end_line": 788,
+      "supports": "压制安妮。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 1006,
+      "end_line": 1042,
+      "supports": "近战抗击反制及枪口制止。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 1120,
+      "end_line": 1158,
+      "supports": "年龄焦虑与武术挑战。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 1480,
+      "end_line": 1490,
+      "supports": "假死机制。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 1788,
+      "end_line": 1862,
+      "supports": "断腿、龟息误判、固定及转向。",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "断腿后没有写明痊愈；不恢复全盛机动。",
+    "龟息功只是他信以为真的解释，木兰花最后明确否认自己会。"
+  ]
+}

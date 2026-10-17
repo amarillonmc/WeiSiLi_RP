@@ -1,0 +1,53 @@
+[
+  {
+    "path": "原振侠系列/10.魔女.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与拒绝交易"
+      },
+      {
+        "name": "洪致生",
+        "card_id": "yuanzhenxia_hong_zhisheng",
+        "role": "单书主角",
+        "basis": "独立叙事或主要交易执行者"
+      },
+      {
+        "name": "林雅儿",
+        "card_id": "yuanzhenxia_lin_yaer",
+        "role": "单书主角",
+        "basis": "独立叙事或主要交易执行者"
+      },
+      {
+        "name": "林永兴",
+        "card_id": "yuanzhenxia_lin_yongxing",
+        "role": "单书核心人物",
+        "basis": "独立叙事或主要交易执行者"
+      },
+      {
+        "name": "阿根",
+        "card_id": "yuanzhenxia_agen",
+        "role": "反派",
+        "basis": "独立叙事或主要交易执行者"
+      },
+      {
+        "name": "魔王（五角星异星生命）",
+        "card_id": "yuanzhenxia_mowang",
+        "role": "反派",
+        "basis": "独立叙事或主要交易执行者"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "贝壳潜水员、律师及仪式听众",
+        "reason": "一次性受害、传讯或背景角色"
+      }
+    ],
+    "notes": [
+      "魔王仅是自选名称，能力受联系与意愿限制；头罩震荡是装置。"
+    ]
+  }
+]

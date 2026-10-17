@@ -1,0 +1,155 @@
+{
+  "id": "mulanhua_jiujingang",
+  "name": "九金刚",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "九人回本市继续犯罪，最终被捕并经指纹确认，贿赂取得的外交资格撤销，全体入狱。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 1,
+    "scope": 2,
+    "sustain": 3,
+    "range": 3,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "必须具备人员、时间、材料和隐蔽地点；不是单人力量，物证清理不消除气味或知情者记忆。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "以精密技术和合作证明能突破普通防范，分享巨额非法收益。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "必须具备人员、时间、材料和隐蔽地点；不是单人力量，物证清理不消除气味或知情者记忆。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 25.0,
+  "deduction_total": 2.0,
+  "raw_score": 23.0,
+  "rounded_score": 23,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "强",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/54古屋奇影.txt",
+      "start_line": 520,
+      "end_line": 578,
+      "supports": "掘进银行和烟雾装置。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/54古屋奇影.txt",
+      "start_line": 1942,
+      "end_line": 1948,
+      "supports": "残留油墨。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/54古屋奇影.txt",
+      "start_line": 2062,
+      "end_line": 2114,
+      "supports": "真假钞对换。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/54古屋奇影.txt",
+      "start_line": 2234,
+      "end_line": 2238,
+      "supports": "道路与药酒参与者画像。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/54古屋奇影.txt",
+      "start_line": 2382,
+      "end_line": 2394,
+      "supports": "人数、专家分工和外逃。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/57生命合同.txt",
+      "start_line": 140,
+      "end_line": 154,
+      "supports": "明确接续第五十四集九名逃犯。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/57生命合同.txt",
+      "start_line": 2254,
+      "end_line": 2284,
+      "supports": "全部整容、指纹确认和外交身份失效。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/57生命合同.txt",
+      "start_line": 2310,
+      "end_line": 2314,
+      "supports": "九人终局入狱。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/57生命合同.txt",
+      "start_line": 1528,
+      "end_line": 1558,
+      "supports": "放人和延迟药物的真实计划。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/57生命合同.txt",
+      "start_line": 1930,
+      "end_line": 2004,
+      "supports": "利用胡成德。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/57生命合同.txt",
+      "start_line": 2118,
+      "end_line": 2170,
+      "supports": "窃听被反用。",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "固定九人群体卡；丁孟生为其中一员，不能叠加计数。",
+    "安妮以为他们不善应变，但放人已被预先设计，不据单段表演认定全体临战无能；李义与丁孟生均包含于九人。"
+  ]
+}

@@ -1,0 +1,1954 @@
+[
+  {
+    "path": "原振侠系列/01.天人.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "持续调查者"
+      },
+      {
+        "name": "原林",
+        "card_id": "yuanzhenxia_yuan_lin",
+        "role": "主角",
+        "basis": "战地叙事视角"
+      },
+      {
+        "name": "轻见小剑",
+        "card_id": "yuanzhenxia_qingjian_xiaojian",
+        "role": "主角",
+        "basis": "战地与医学疑案核心"
+      },
+      {
+        "name": "黄应驹",
+        "card_id": "yuanzhenxia_huang_yingju",
+        "role": "主角",
+        "basis": "异国经历独立叙事线"
+      },
+      {
+        "name": "铁男",
+        "card_id": "yuanzhenxia_tie_nan",
+        "role": "主角",
+        "basis": "共同调查者"
+      },
+      {
+        "name": "泉吟香",
+        "card_id": "yuanzhenxia_quan_yinxiang",
+        "role": "主角",
+        "basis": "异常经历与终局选择"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "主角",
+        "basis": "调查与权力选择"
+      },
+      {
+        "name": "卡尔斯",
+        "card_id": "yuanzhenxia_kaersi",
+        "role": "反派",
+        "basis": "统治野心"
+      },
+      {
+        "name": "天人研究站观察者",
+        "card_id": "yuanzhenxia_tianren_station",
+        "role": "反派",
+        "basis": "控制与灭口机制"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "羽仁五郎／五朗",
+        "reason": "医学院同学和受害者；仅此书配角，非独立主要行动线"
+      },
+      {
+        "name": "陈山",
+        "reason": "被灭口的样本；单书受害配角"
+      },
+      {
+        "name": "井田、罗惠、孟雄等",
+        "reason": "一次性教学、联络或现场辅助角色"
+      }
+    ],
+    "notes": [
+      "羽仁五郎与轻见小剑不是同一人；前者为同学，后者为战地获救军官。"
+    ]
+  },
+  {
+    "path": "原振侠系列/02.迷路.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "参与调查与实验"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "主角",
+        "basis": "调查与政治交易"
+      },
+      {
+        "name": "温谷",
+        "card_id": "yuanzhenxia_wengu",
+        "role": "重要配角",
+        "basis": "本书独立行动或核心对抗线"
+      },
+      {
+        "name": "王一恒",
+        "card_id": "yuanzhenxia_wang_yiheng",
+        "role": "单书主角",
+        "basis": "本书独立行动或核心对抗线"
+      },
+      {
+        "name": "陈维如",
+        "card_id": "yuanzhenxia_chen_weiru",
+        "role": "单书主角",
+        "basis": "本书独立行动或核心对抗线"
+      },
+      {
+        "name": "徐玉音",
+        "card_id": "yuanzhenxia_xu_yuyin",
+        "role": "单书主角",
+        "basis": "本书独立行动或核心对抗线"
+      },
+      {
+        "name": "尼格酋长",
+        "card_id": "yuanzhenxia_nige",
+        "role": "单书主角",
+        "basis": "本书独立行动或核心对抗线"
+      },
+      {
+        "name": "针尖峰空间实验者",
+        "card_id": "yuanzhenxia_transfer_researchers",
+        "role": "阶段性对立者（集体）",
+        "basis": "本书独立行动或核心对抗线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "吕特生",
+        "reason": "单书灵学研究协助者"
+      },
+      {
+        "name": "三桥、许小姐、达尔智者等",
+        "reason": "一次性证人或辅助角色"
+      }
+    ],
+    "notes": [
+      "徐玉音原人格与尼格记忆系统分别存档，异常不能视为可控附体术。"
+    ]
+  },
+  {
+    "path": "原振侠系列/03.血咒.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查血咒"
+      },
+      {
+        "name": "古托",
+        "card_id": "yuanzhenxia_gutuo",
+        "role": "重要配角",
+        "basis": "独立故事线或跨书参与"
+      },
+      {
+        "name": "盛远天",
+        "card_id": "yuanzhenxia_sheng_yuantian",
+        "role": "反派",
+        "basis": "独立故事线或跨书参与"
+      },
+      {
+        "name": "韦定咸",
+        "card_id": "yuanzhenxia_weidingxian",
+        "role": "阶段性对立者",
+        "basis": "独立故事线或跨书参与"
+      },
+      {
+        "name": "黑风族大巫师",
+        "card_id": "yuanzhenxia_heifeng_wushi",
+        "role": "反派",
+        "basis": "独立故事线或跨书参与"
+      },
+      {
+        "name": "黑风族大巫师之女",
+        "card_id": "yuanzhenxia_heifeng_daughter",
+        "role": "悲剧核心人物",
+        "basis": "独立故事线或跨书参与"
+      },
+      {
+        "name": "苏耀东",
+        "card_id": "yuanzhenxia_su_yaodong",
+        "role": "重要配角",
+        "basis": "独立故事线或跨书参与"
+      },
+      {
+        "name": "苏耀西",
+        "card_id": "yuanzhenxia_su_yaoxi",
+        "role": "重要配角",
+        "basis": "独立故事线或跨书参与"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "玛丽、盛夫人、小宝、苏安",
+        "reason": "单书的起因、家属与辅助人物；已在核心人物证据中保存关系，不满足多书配角条件"
+      },
+      {
+        "name": "苏耀南",
+        "reason": "本书受托兄弟之一，尚无第二书实际参与证据"
+      },
+      {
+        "name": "马特、高诺",
+        "reason": "本书研究或调查协助者"
+      }
+    ],
+    "notes": [
+      "原文解码缺损在清理报告保留；不据缺损补造咒语文字。"
+    ]
+  },
+  {
+    "path": "原振侠系列/04.海异.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查者"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "重要角色",
+        "basis": "政治委托"
+      },
+      {
+        "name": "苏耀东",
+        "card_id": "yuanzhenxia_su_yaodong",
+        "role": "重要配角",
+        "basis": "现场参与并支持研究"
+      },
+      {
+        "name": "温谷",
+        "card_id": "yuanzhenxia_wengu",
+        "role": "重要配角",
+        "basis": "实际后续联络"
+      },
+      {
+        "name": "李邦殊",
+        "card_id": "yuanzhenxia_li_bangshu",
+        "role": "单书主角",
+        "basis": "本书主要行动线"
+      },
+      {
+        "name": "白恩",
+        "card_id": "yuanzhenxia_bai_en",
+        "role": "单书主角",
+        "basis": "本书主要行动线"
+      },
+      {
+        "name": "海异智慧微生物群",
+        "card_id": "yuanzhenxia_marine_microbes",
+        "role": "阶段性对立者（集体）",
+        "basis": "本书主要行动线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "乔丝、玛姬、雷亭、哈逊等",
+        "reason": "单书证人、受害者或委托辅助人物"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/05.宝狐.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查者"
+      },
+      {
+        "name": "苏耀西",
+        "card_id": "yuanzhenxia_su_yaoxi",
+        "role": "重要配角",
+        "basis": "交往引介"
+      },
+      {
+        "name": "冷自泉",
+        "card_id": "yuanzhenxia_leng_ziquan",
+        "role": "单书主角",
+        "basis": "本书主要人物或追捕方"
+      },
+      {
+        "name": "宝狐",
+        "card_id": "yuanzhenxia_baohu",
+        "role": "单书主角",
+        "basis": "本书主要人物或追捕方"
+      },
+      {
+        "name": "刘由",
+        "card_id": "yuanzhenxia_liu_you",
+        "role": "单书主角（开篇视角）",
+        "basis": "本书主要人物或追捕方"
+      },
+      {
+        "name": "宝狐的同类追捕者",
+        "card_id": "yuanzhenxia_baohu_pursuers",
+        "role": "阶段性对立者（集体）",
+        "basis": "本书主要人物或追捕方"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "鲁柱、冷二及家族长辈",
+        "reason": "单书家族或侍从配角"
+      }
+    ],
+    "notes": [
+      "冷自泉与宝狐相聚没有实证，不将死亡当作可复现空间转移术。"
+    ]
+  },
+  {
+    "path": "原振侠系列/06.灵椅.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与亲历"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "主角",
+        "basis": "行动组织"
+      },
+      {
+        "name": "卡尔斯",
+        "card_id": "yuanzhenxia_kaersi",
+        "role": "反派",
+        "basis": "争夺装置"
+      },
+      {
+        "name": "南越",
+        "card_id": "yuanzhenxia_nanyue",
+        "role": "单书主角",
+        "basis": "本书关键行动者"
+      },
+      {
+        "name": "汉烈米",
+        "card_id": "yuanzhenxia_hanliemi",
+        "role": "单书主角",
+        "basis": "本书关键行动者"
+      },
+      {
+        "name": "灵椅与石台的发声接口",
+        "card_id": "yuanzhenxia_lingyi_interface",
+        "role": "反派（装置接口）",
+        "basis": "本书关键行动者"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "沙尔贡二世、宁王等历史君主",
+        "reason": "文献回溯和类比，不据提及单独扩成完整参战者"
+      },
+      {
+        "name": "林阿生及其他古宅关系人",
+        "reason": "一次性旧事配角"
+      }
+    ],
+    "notes": [
+      "装置声称的统治力量与实际诱导效果分别记录。"
+    ]
+  },
+  {
+    "path": "原振侠系列/07.奇缘.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与亲历"
+      },
+      {
+        "name": "苏耀西",
+        "card_id": "yuanzhenxia_su_yaoxi",
+        "role": "重要配角",
+        "basis": "聚会联络"
+      },
+      {
+        "name": "宋维",
+        "card_id": "yuanzhenxia_song_wei",
+        "role": "反派",
+        "basis": "本书独立主要行动线"
+      },
+      {
+        "name": "青龙",
+        "card_id": "yuanzhenxia_qinglong",
+        "role": "单书主角",
+        "basis": "本书独立主要行动线"
+      },
+      {
+        "name": "杰西",
+        "card_id": "yuanzhenxia_jiexi",
+        "role": "单书主角",
+        "basis": "本书独立主要行动线"
+      },
+      {
+        "name": "莱恩",
+        "card_id": "yuanzhenxia_laien",
+        "role": "单书主角",
+        "basis": "本书独立主要行动线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "阮秀珍、彩云",
+        "reason": "单书关系中心与叙事配角，未见多书实际参与"
+      },
+      {
+        "name": "游击队员与边境人员",
+        "reason": "非独立命名的现场群体"
+      }
+    ],
+    "notes": [
+      "杰西与青龙的复生机制未确证，宋维死亡反证不能普遍复制。"
+    ]
+  },
+  {
+    "path": "原振侠系列/08.精怪.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查者"
+      },
+      {
+        "name": "海棠",
+        "card_id": "yuanzhenxia_hai_tang",
+        "role": "主角",
+        "basis": "任务执行者"
+      },
+      {
+        "name": "卡尔斯",
+        "card_id": "yuanzhenxia_kaersi",
+        "role": "反派",
+        "basis": "企图利用异种研究"
+      },
+      {
+        "name": "厉大遒",
+        "card_id": "yuanzhenxia_li_daqiu",
+        "role": "单书主角",
+        "basis": "实验故事核心"
+      },
+      {
+        "name": "陈阿牛",
+        "card_id": "yuanzhenxia_chen_aniu",
+        "role": "单书主角",
+        "basis": "实验故事核心"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "冯森乐、关律师",
+        "reason": "单书研究或法律协助"
+      },
+      {
+        "name": "厉氏三姐妹及其丈夫",
+        "reason": "一次性继承争执配角，未显示异种能力"
+      },
+      {
+        "name": "实验培育个体",
+        "reason": "未具稳定可辨独立身份；能力与伦理后果记录在创造者卡"
+      }
+    ],
+    "notes": [
+      "不把厉氏三姐妹误认作蛙类混种。"
+    ]
+  },
+  {
+    "path": "原振侠系列/09.鬼界.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查者"
+      },
+      {
+        "name": "海棠",
+        "card_id": "yuanzhenxia_hai_tang",
+        "role": "主角",
+        "basis": "任务执行者"
+      },
+      {
+        "name": "苏耀西",
+        "card_id": "yuanzhenxia_su_yaoxi",
+        "role": "重要配角",
+        "basis": "聚会交往"
+      },
+      {
+        "name": "新几内亚大祭师",
+        "card_id": "yuanzhenxia_dajishi",
+        "role": "单书主角",
+        "basis": "本书探索与求援核心"
+      },
+      {
+        "name": "鬼界受困外星人",
+        "card_id": "yuanzhenxia_guijie_aliens",
+        "role": "单书核心人物（集体）",
+        "basis": "本书探索与求援核心"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "第一代祭师",
+        "reason": "主要为传说和器物来源，无当前独立行动"
+      },
+      {
+        "name": "海棠的未名同伴",
+        "reason": "一次性任务辅助者"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/10.魔女.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与拒绝交易"
+      },
+      {
+        "name": "洪致生",
+        "card_id": "yuanzhenxia_hong_zhisheng",
+        "role": "单书主角",
+        "basis": "独立叙事或主要交易执行者"
+      },
+      {
+        "name": "林雅儿",
+        "card_id": "yuanzhenxia_lin_yaer",
+        "role": "单书主角",
+        "basis": "独立叙事或主要交易执行者"
+      },
+      {
+        "name": "林永兴",
+        "card_id": "yuanzhenxia_lin_yongxing",
+        "role": "单书核心人物",
+        "basis": "独立叙事或主要交易执行者"
+      },
+      {
+        "name": "阿根",
+        "card_id": "yuanzhenxia_agen",
+        "role": "反派",
+        "basis": "独立叙事或主要交易执行者"
+      },
+      {
+        "name": "魔王（五角星异星生命）",
+        "card_id": "yuanzhenxia_mowang",
+        "role": "反派",
+        "basis": "独立叙事或主要交易执行者"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "贝壳潜水员、律师及仪式听众",
+        "reason": "一次性受害、传讯或背景角色"
+      }
+    ],
+    "notes": [
+      "魔王仅是自选名称，能力受联系与意愿限制；头罩震荡是装置。"
+    ]
+  },
+  {
+    "path": "原振侠系列/11.失魂.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与援救"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "重要配角",
+        "basis": "组织救援"
+      },
+      {
+        "name": "鲁大发",
+        "card_id": "yuanzhenxia_lu_dafa",
+        "role": "跨书主要人物",
+        "basis": "核心相聚、照护或阻止线"
+      },
+      {
+        "name": "玉宝",
+        "card_id": "yuanzhenxia_yu_bao",
+        "role": "单书主角",
+        "basis": "核心相聚、照护或阻止线"
+      },
+      {
+        "name": "鲁旺财",
+        "card_id": "yuanzhenxia_lu_wangcai",
+        "role": "重要配角",
+        "basis": "核心相聚、照护或阻止线"
+      },
+      {
+        "name": "玉宝所属的土王",
+        "card_id": "yuanzhenxia_yubao_king",
+        "role": "反派",
+        "basis": "核心相聚、照护或阻止线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "十七号女侍卫",
+        "reason": "一次性泄密执行者，未形成独立叙事线"
+      }
+    ],
+    "notes": [
+      "土王未具名，不与其他系列土王合并。"
+    ]
+  },
+  {
+    "path": "原振侠系列/12.降头.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "交涉中间人"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "重要配角",
+        "basis": "情报及政治关系"
+      },
+      {
+        "name": "史奈",
+        "card_id": "yuanzhenxia_shinai",
+        "role": "重要配角",
+        "basis": "降头与王室争权核心线"
+      },
+      {
+        "name": "席·朋加拉·泰宁",
+        "card_id": "yuanzhenxia_tainin",
+        "role": "单书主角",
+        "basis": "降头与王室争权核心线"
+      },
+      {
+        "name": "巴枯",
+        "card_id": "yuanzhenxia_baku",
+        "role": "反派",
+        "basis": "降头与王室争权核心线"
+      },
+      {
+        "name": "水灵",
+        "card_id": "yuanzhenxia_shui_ling",
+        "role": "单书主角",
+        "basis": "降头与王室争权核心线"
+      },
+      {
+        "name": "都旺亲王",
+        "card_id": "yuanzhenxia_duwang",
+        "role": "反派",
+        "basis": "降头与王室争权核心线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "湖岛仆役和军官",
+        "reason": "一次性执行或环境角色"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/13.巫艳.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "医生与感情选择"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "巫术改貌"
+      },
+      {
+        "name": "陶启泉",
+        "card_id": "weisili_tao_qiquan",
+        "role": "重要配角",
+        "basis": "养父"
+      },
+      {
+        "name": "古托",
+        "card_id": "yuanzhenxia_gutuo",
+        "role": "重要配角",
+        "basis": "血咒研究"
+      },
+      {
+        "name": "苏耀西",
+        "card_id": "yuanzhenxia_su_yaoxi",
+        "role": "重要配角",
+        "basis": "研究与联系"
+      },
+      {
+        "name": "鲁旺财",
+        "card_id": "yuanzhenxia_lu_wangcai",
+        "role": "重要配角",
+        "basis": "阿财承担改变"
+      },
+      {
+        "name": "桑雅",
+        "card_id": "yuanzhenxia_sangya",
+        "role": "单书主角",
+        "basis": "桑雅承担改变与职业选择"
+      },
+      {
+        "name": "达伊安",
+        "card_id": "yuanzhenxia_dayian",
+        "role": "重要配角",
+        "basis": "导师"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "医院院长",
+        "reason": "未具名职务人物，未确认各书同一自然人"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/14.爱神.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与选择"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "重要配角",
+        "basis": "政治与行动"
+      },
+      {
+        "name": "林文义",
+        "card_id": "yuanzhenxia_lin_wenyi",
+        "role": "跨书主角",
+        "basis": "主要叙事、关系或敌对行动"
+      },
+      {
+        "name": "山虎",
+        "card_id": "yuanzhenxia_shanhu",
+        "role": "反派",
+        "basis": "主要叙事、关系或敌对行动"
+      },
+      {
+        "name": "阿英",
+        "card_id": "yuanzhenxia_a_ying",
+        "role": "跨书主角",
+        "basis": "主要叙事、关系或敌对行动"
+      },
+      {
+        "name": "阿贵（炮艇交易者）",
+        "card_id": "yuanzhenxia_a_gui",
+        "role": "引子视角主角",
+        "basis": "主要叙事、关系或敌对行动"
+      },
+      {
+        "name": "爱神",
+        "card_id": "yuanzhenxia_aishen",
+        "role": "主角",
+        "basis": "救援"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "调查入口"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "山虎未具名部下",
+        "reason": "作为其海盗队伍，未见独立身份与后续"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/15.寻找爱神.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与选择"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "重要配角",
+        "basis": "政治与行动"
+      },
+      {
+        "name": "林文义",
+        "card_id": "yuanzhenxia_lin_wenyi",
+        "role": "跨书主角",
+        "basis": "主要叙事、关系或敌对行动"
+      },
+      {
+        "name": "山虎",
+        "card_id": "yuanzhenxia_shanhu",
+        "role": "反派",
+        "basis": "主要叙事、关系或敌对行动"
+      },
+      {
+        "name": "阿英",
+        "card_id": "yuanzhenxia_a_ying",
+        "role": "跨书主角",
+        "basis": "主要叙事、关系或敌对行动"
+      },
+      {
+        "name": "康比",
+        "card_id": "yuanzhenxia_kangbi",
+        "role": "跨书主要人物",
+        "basis": "主要叙事、关系或敌对行动"
+      },
+      {
+        "name": "波尔",
+        "card_id": "yuanzhenxia_boer",
+        "role": "单书主角",
+        "basis": "主要叙事、关系或敌对行动"
+      },
+      {
+        "name": "大差",
+        "card_id": "yuanzhenxia_dacha",
+        "role": "反派",
+        "basis": "主要叙事、关系或敌对行动"
+      },
+      {
+        "name": "海棠",
+        "card_id": "yuanzhenxia_hai_tang",
+        "role": "主角",
+        "basis": "技术与海上行动"
+      },
+      {
+        "name": "爱神",
+        "card_id": "yuanzhenxia_aishen",
+        "role": "主角",
+        "basis": "力量来源与相见"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "范西门、小纳尔逊",
+        "reason": "仅此书开端的询问者，非独立主线角色，未确认其他小说实际参与"
+      },
+      {
+        "name": "陈满堂",
+        "reason": "一次性获救见证人"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/16.大犯罪者.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与选择"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "重要配角",
+        "basis": "政治与行动"
+      },
+      {
+        "name": "范围",
+        "card_id": "yuanzhenxia_fanwei",
+        "role": "反派",
+        "basis": "主要叙事、关系或敌对行动"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "身世与制止范围"
+      },
+      {
+        "name": "爱神",
+        "card_id": "yuanzhenxia_aishen",
+        "role": "主角",
+        "basis": "实验来历与对抗"
+      },
+      {
+        "name": "海棠",
+        "card_id": "yuanzhenxia_hai_tang",
+        "role": "重要配角",
+        "basis": "调查联系"
+      },
+      {
+        "name": "卡尔斯",
+        "card_id": "yuanzhenxia_kaersi",
+        "role": "反派",
+        "basis": "政治利益"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "被勒索各国官员及范围手下",
+        "reason": "未具名职务集合，不等同独立角色"
+      }
+    ],
+    "notes": [
+      "范围终局能力确已失效，历史巅峰另记而不叠入常态。"
+    ]
+  },
+  {
+    "path": "原振侠系列/17.幽灵星座.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "术法与守护"
+      },
+      {
+        "name": "刘心芹",
+        "card_id": "yuanzhenxia_liu_xinqin",
+        "role": "单书核心人物",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "刘量中",
+        "card_id": "yuanzhenxia_liu_liangzhong",
+        "role": "单书主角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "施哲",
+        "card_id": "yuanzhenxia_shizhe",
+        "role": "单书主角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "黑纱",
+        "card_id": "yuanzhenxia_heisha",
+        "role": "重要配角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "幽灵星座采集使者群体",
+        "card_id": "yuanzhenxia_youming_collectors",
+        "role": "集体反派",
+        "basis": "主要叙事与终局行动"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "施哲与黑纱是不同使者；刘量中薄片内幸福程度不能由旁人推测当实证。"
+    ]
+  },
+  {
+    "path": "原振侠系列/18.黑暗天使.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "护送意识"
+      },
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "寻回公主"
+      },
+      {
+        "name": "公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "灵魂获释"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "重要配角",
+        "basis": "协助与见证"
+      },
+      {
+        "name": "戈壁",
+        "card_id": "weisili_ge_bi",
+        "role": "重要配角",
+        "basis": "装置协作"
+      },
+      {
+        "name": "沙漠",
+        "card_id": "weisili_sha_mo",
+        "role": "重要配角",
+        "basis": "装置协作"
+      },
+      {
+        "name": "黑纱",
+        "card_id": "yuanzhenxia_heisha",
+        "role": "重要配角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "幽灵星座采集使者群体",
+        "card_id": "yuanzhenxia_youming_collectors",
+        "role": "集体反派",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "干纳",
+        "card_id": "yuanzhenxia_ganna",
+        "role": "单书主要行动者",
+        "basis": "主要叙事与终局行动"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "公主的具体跨系列编号在全局校验时核对。"
+    ]
+  },
+  {
+    "path": "原振侠系列/19.迷失乐园.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与认知冲突"
+      },
+      {
+        "name": "海棠",
+        "card_id": "yuanzhenxia_hai_tang",
+        "role": "主角",
+        "basis": "以玫瑰身份加入乐园"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "调查"
+      },
+      {
+        "name": "李文",
+        "card_id": "yuanzhenxia_li_wen",
+        "role": "重要配角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "朱淑芬",
+        "card_id": "yuanzhenxia_zhu_shufen",
+        "role": "重要配角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "豪特",
+        "card_id": "yuanzhenxia_haote",
+        "role": "单书主角",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "卓克",
+        "card_id": "yuanzhenxia_zhuoke",
+        "role": "单书核心人物",
+        "basis": "主要叙事与终局行动"
+      },
+      {
+        "name": "海底乐园的三触须传授者",
+        "card_id": "yuanzhenxia_paradise_teachers",
+        "role": "集体主要角色",
+        "basis": "主要叙事与终局行动"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "李老先生",
+        "reason": "一次性求助者，作为李文父亲的关系记录"
+      },
+      {
+        "name": "玫瑰父母",
+        "reason": "未具名共同改造者，未见独立叙事线"
+      },
+      {
+        "name": "小郭调查员",
+        "reason": "一次性执行者"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/20.劫数.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "主要接收者"
+      },
+      {
+        "name": "古托",
+        "card_id": "yuanzhenxia_gutuo",
+        "role": "重要配角",
+        "basis": "研究"
+      },
+      {
+        "name": "史奈",
+        "card_id": "yuanzhenxia_shinai",
+        "role": "重要配角",
+        "basis": "研究"
+      },
+      {
+        "name": "达伊安",
+        "card_id": "yuanzhenxia_dayian",
+        "role": "重要配角",
+        "basis": "研究"
+      },
+      {
+        "name": "李加·奥南度",
+        "card_id": "yuanzhenxia_lijia",
+        "role": "单书主角",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "唐勒",
+        "card_id": "yuanzhenxia_tangle",
+        "role": "单书主角",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "贝沙",
+        "card_id": "yuanzhenxia_beisha",
+        "role": "单书主角",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "劫数水晶球",
+        "card_id": "yuanzhenxia_crystal_warning",
+        "role": "核心非人主体",
+        "basis": "核心调查、讯息或选择"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "白隆部长及地质院长",
+        "reason": "单次专业或政务协助，没有独立持续角色线"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/21.快活秘方.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与拒绝转化"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "重要配角",
+        "basis": "国家谈判"
+      },
+      {
+        "name": "卡尔斯",
+        "card_id": "yuanzhenxia_kaersi",
+        "role": "反派",
+        "basis": "干预发掘"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "重要配角",
+        "basis": "灵魂讨论"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "开端讨论"
+      },
+      {
+        "name": "良辰",
+        "card_id": "weisili_liang_chen",
+        "role": "重要配角",
+        "basis": "开端讨论"
+      },
+      {
+        "name": "美景",
+        "card_id": "weisili_mei_jing",
+        "role": "重要配角",
+        "basis": "开端讨论"
+      },
+      {
+        "name": "金特",
+        "card_id": "yuanzhenxia_jinte",
+        "role": "单书主角",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "普通教授",
+        "card_id": "yuanzhenxia_putong",
+        "role": "单书主角",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "朗医生",
+        "card_id": "yuanzhenxia_lang",
+        "role": "单书主要行动者",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "羽生（考古队员）",
+        "card_id": "yuanzhenxia_yusheng",
+        "role": "单书主角",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "快活古城的无肉体生命群体",
+        "card_id": "yuanzhenxia_fastlife_people",
+        "role": "核心非人主体",
+        "basis": "核心调查、讯息或选择"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "工程队长、女保镖及其他队员",
+        "reason": "按职务出现的执行人员，无独立后续身份"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/22.变换双星.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "感应追踪"
+      },
+      {
+        "name": "良辰",
+        "card_id": "weisili_liang_chen",
+        "role": "重要配角",
+        "basis": "双生推理与质问"
+      },
+      {
+        "name": "美景",
+        "card_id": "weisili_mei_jing",
+        "role": "重要配角",
+        "basis": "双生推理与质问"
+      },
+      {
+        "name": "苏耀西",
+        "card_id": "yuanzhenxia_su_yaoxi",
+        "role": "重要配角",
+        "basis": "引介与终局见证"
+      },
+      {
+        "name": "陈景德",
+        "card_id": "yuanzhenxia_chen_jingde",
+        "role": "单书主角",
+        "basis": "双生实验主线"
+      },
+      {
+        "name": "陈宜兴",
+        "card_id": "yuanzhenxia_chen_yixing",
+        "role": "单书主角",
+        "basis": "双生实验主线"
+      },
+      {
+        "name": "方如花",
+        "card_id": "yuanzhenxia_fang_ruhua",
+        "role": "单书主角",
+        "basis": "双生实验主线"
+      },
+      {
+        "name": "方似玉",
+        "card_id": "yuanzhenxia_fang_siyu",
+        "role": "单书主角",
+        "basis": "双生实验主线"
+      },
+      {
+        "name": "马进",
+        "card_id": "yuanzhenxia_ma_jin",
+        "role": "单书主要行动者",
+        "basis": "双生实验主线"
+      },
+      {
+        "name": "双生子研究的神秘人",
+        "card_id": "yuanzhenxia_twin_researcher",
+        "role": "反派性研究者",
+        "basis": "双生实验主线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "方继祖",
+        "reason": "单次养父及协助者，关系与隐瞒记入方如花卡"
+      },
+      {
+        "name": "探险家兼考古学家",
+        "reason": "未具名石像运输者，不与其他系列同类职业强行合并"
+      }
+    ],
+    "notes": [
+      "神秘王国家族与勒曼医院不同。"
+    ]
+  },
+  {
+    "path": "原振侠系列/23.血的诱惑.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "血液联系"
+      },
+      {
+        "name": "李固",
+        "card_id": "yuanzhenxia_li_gu",
+        "role": "主角",
+        "basis": "改造与求生"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "主角",
+        "basis": "感情与选择"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "巫术"
+      },
+      {
+        "name": "卡尔斯",
+        "card_id": "yuanzhenxia_kaersi",
+        "role": "反派",
+        "basis": "政治与实验利益"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "能力与后果由24后续合并定版。"
+    ]
+  },
+  {
+    "path": "原振侠系列/24.催命情圣.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "救援与判断"
+      },
+      {
+        "name": "李固",
+        "card_id": "yuanzhenxia_li_gu",
+        "role": "主角",
+        "basis": "拒绝弃体"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "主角",
+        "basis": "离开卡尔斯"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "修复与反噬"
+      },
+      {
+        "name": "卡尔斯",
+        "card_id": "yuanzhenxia_kaersi",
+        "role": "反派",
+        "basis": "失去黄绢"
+      },
+      {
+        "name": "古托",
+        "card_id": "yuanzhenxia_gutuo",
+        "role": "重要配角",
+        "basis": "巫术研究"
+      },
+      {
+        "name": "爱神",
+        "card_id": "yuanzhenxia_aishen",
+        "role": "重要配角",
+        "basis": "接走玛仙治疗"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "李固血液带来的变化不等于传统吸血僵尸；与30翠丝机制分开。"
+    ]
+  },
+  {
+    "path": "原振侠系列/25.黑白无常.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与解释"
+      },
+      {
+        "name": "胡怀玉",
+        "card_id": "weisili_hu_huaiyu",
+        "role": "单书主要行动者",
+        "basis": "海洋异变、夺宝与生育主线"
+      },
+      {
+        "name": "陈克生",
+        "card_id": "yuanzhenxia_chen_kesheng",
+        "role": "单书主要行动者",
+        "basis": "海洋异变、夺宝与生育主线"
+      },
+      {
+        "name": "仲大雅",
+        "card_id": "yuanzhenxia_zhong_daya",
+        "role": "跨书主线人物",
+        "basis": "海洋异变、夺宝与生育主线"
+      },
+      {
+        "name": "曹银雪",
+        "card_id": "yuanzhenxia_cao_yinxue",
+        "role": "重要配角",
+        "basis": "海洋异变、夺宝与生育主线"
+      },
+      {
+        "name": "姚正年",
+        "card_id": "yuanzhenxia_yao_zhengnian",
+        "role": "历史主线人物",
+        "basis": "海洋异变、夺宝与生育主线"
+      },
+      {
+        "name": "仲文量",
+        "card_id": "yuanzhenxia_zhong_wenliang",
+        "role": "反派",
+        "basis": "海洋异变、夺宝与生育主线"
+      },
+      {
+        "name": "黑白无常（异星访客）",
+        "card_id": "yuanzhenxia_heibai_wuchang",
+        "role": "重要配角",
+        "basis": "海洋异变、夺宝与生育主线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "被改变的渔民一家",
+        "reason": "异常现象与受害者线索，未建立独立反派或跨书行动线"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/26.自杀阴谋.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "心理危机与反击"
+      },
+      {
+        "name": "曹银雪",
+        "card_id": "yuanzhenxia_cao_yinxue",
+        "role": "重要配角",
+        "basis": "关怀及击退杀手"
+      },
+      {
+        "name": "仲大雅",
+        "card_id": "yuanzhenxia_zhong_daya",
+        "role": "跨书主线人物",
+        "basis": "退化后保护家人"
+      },
+      {
+        "name": "黑白无常",
+        "card_id": "yuanzhenxia_heibai_wuchang",
+        "role": "重要配角",
+        "basis": "联络与承诺"
+      },
+      {
+        "name": "老刀",
+        "card_id": "yuanzhenxia_laodao",
+        "role": "反派",
+        "basis": "杀手集团阴谋"
+      },
+      {
+        "name": "小刀",
+        "card_id": "yuanzhenxia_xiaodao",
+        "role": "反派",
+        "basis": "杀手集团阴谋"
+      },
+      {
+        "name": "美姬",
+        "card_id": "yuanzhenxia_meiji",
+        "role": "反派",
+        "basis": "杀手集团阴谋"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "高级警官",
+        "reason": "单次办案协助者，没有跨书同一性证据"
+      },
+      {
+        "name": "土蜂",
+        "reason": "自杀新闻中的引述人物，不等于本书实际独立行动角色"
+      }
+    ],
+    "notes": [
+      "不将小说关于自杀心理的议论视为现实医学结论或角色必然行为。"
+    ]
+  },
+  {
+    "path": "原振侠系列/27.假太阳.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "寻回玛仙"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "治疗与新生"
+      },
+      {
+        "name": "康维十七世",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "重要配角",
+        "basis": "机器生命与救援"
+      },
+      {
+        "name": "海棠",
+        "card_id": "yuanzhenxia_hai_tang",
+        "role": "重要配角",
+        "basis": "脑结构帮助"
+      },
+      {
+        "name": "李文",
+        "card_id": "yuanzhenxia_li_wen",
+        "role": "重要配角",
+        "basis": "治疗协作"
+      },
+      {
+        "name": "朱淑芬",
+        "card_id": "yuanzhenxia_zhu_shufen",
+        "role": "重要配角",
+        "basis": "治疗协作"
+      },
+      {
+        "name": "爱神星新生机械人",
+        "card_id": "yuanzhenxia_aishen_machines",
+        "role": "重要配角",
+        "basis": "自主与救援"
+      },
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "重要配角",
+        "basis": "提供联络帮助"
+      },
+      {
+        "name": "曲如眉",
+        "card_id": "adventure_qu_rumei",
+        "role": "重要配角",
+        "basis": "交通帮助"
+      },
+      {
+        "name": "八角星恋人",
+        "card_id": "adventure_bajiaoxing_yingzi",
+        "role": "重要配角",
+        "basis": "接触与交通协助"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/28.无间地狱.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "接触与援助"
+      },
+      {
+        "name": "柳絮",
+        "card_id": "yuanzhenxia_liu_xu",
+        "role": "主角",
+        "basis": "逃离与控制谜题"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "重要配角",
+        "basis": "识别组织控制"
+      },
+      {
+        "name": "曹金福",
+        "card_id": "weisili_cao_jinfu",
+        "role": "重要配角",
+        "basis": "护送与协助"
+      },
+      {
+        "name": "康维十七世",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "重要配角",
+        "basis": "揭露改造"
+      },
+      {
+        "name": "东方太阳最高领导人",
+        "card_id": "yuanzhenxia_oriental_sun_leader",
+        "role": "反派",
+        "basis": "组织控制"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "柳絮与陈庆国的终局合并到29。"
+    ]
+  },
+  {
+    "path": "原振侠系列/29.人鬼疑云.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与交涉"
+      },
+      {
+        "name": "柳絮",
+        "card_id": "yuanzhenxia_liu_xu",
+        "role": "主角",
+        "basis": "恢复自主"
+      },
+      {
+        "name": "陈庆国",
+        "card_id": "yuanzhenxia_chen_qingguo",
+        "role": "反派",
+        "basis": "灵魂忠诚与报信"
+      },
+      {
+        "name": "康维十七世",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "重要配角",
+        "basis": "治疗与感情"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "重要配角",
+        "basis": "联络与脱离"
+      },
+      {
+        "name": "阿尼密",
+        "card_id": "adventure_animi",
+        "role": "重要配角",
+        "basis": "灵魂研究"
+      },
+      {
+        "name": "曹金福",
+        "card_id": "weisili_cao_jinfu",
+        "role": "重要配角",
+        "basis": "终局寻找亲人安排"
+      },
+      {
+        "name": "东方太阳最高领导人",
+        "card_id": "yuanzhenxia_oriental_sun_leader",
+        "role": "反派",
+        "basis": "最终交涉"
+      },
+      {
+        "name": "鬼界外星人",
+        "card_id": "yuanzhenxia_guijie_aliens",
+        "role": "重要配角",
+        "basis": "技术合作与求援"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "协助外星人脱离鬼界只是后续约定，未写完成。"
+    ]
+  },
+  {
+    "path": "原振侠系列/30.魂飞魄散.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与接受异类"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "重要配角",
+        "basis": "调查与见证"
+      },
+      {
+        "name": "齐白",
+        "card_id": "weisili_qi_bai",
+        "role": "重要配角",
+        "basis": "古墓石棺线索"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "引介与结尾质询"
+      },
+      {
+        "name": "胡说",
+        "card_id": "weisili_hu_shuo",
+        "role": "重要配角",
+        "basis": "聚会与引介"
+      },
+      {
+        "name": "安普伯爵（男）",
+        "card_id": "yuanzhenxia_anpu_count",
+        "role": "单书主角",
+        "basis": "石棺及复生主线"
+      },
+      {
+        "name": "翠丝",
+        "card_id": "yuanzhenxia_cuisi",
+        "role": "单书主角",
+        "basis": "石棺及复生主线"
+      },
+      {
+        "name": "贝恩",
+        "card_id": "yuanzhenxia_beien",
+        "role": "反派性协同行动者",
+        "basis": "石棺及复生主线"
+      },
+      {
+        "name": "特古拉伯爵",
+        "card_id": "yuanzhenxia_tegula",
+        "role": "单书核心人物",
+        "basis": "石棺及复生主线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "尼古拉斯伯爵",
+        "reason": "仅翠丝往事中的已故丈夫，没有独立行动线或跨书出场"
+      },
+      {
+        "name": "清除吸血僵尸的异客",
+        "reason": "历史未具名行动者，身份与31宇宙杀手没有明确同一性；不强行合并"
+      }
+    ],
+    "notes": [
+      "安普男伯爵与冒险系列安普女伯爵分别建卡；不套用其他作品吸血鬼规则。"
+    ]
+  },
+  {
+    "path": "原振侠系列/31.宇宙杀手.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "进入古墓并脱险"
+      },
+      {
+        "name": "雷九天",
+        "card_id": "yuanzhenxia_lei_jiutian",
+        "role": "重要配角",
+        "basis": "古墓求援与入侵"
+      },
+      {
+        "name": "陈昌",
+        "card_id": "yuanzhenxia_chen_chang",
+        "role": "单书主角",
+        "basis": "古墓求援与入侵"
+      },
+      {
+        "name": "古墓外星灵魂群体",
+        "card_id": "yuanzhenxia_tomb_spirits",
+        "role": "单书主角群体",
+        "basis": "古墓求援与入侵"
+      },
+      {
+        "name": "宇宙杀手（古墓入侵者）",
+        "card_id": "yuanzhenxia_cosmic_killer",
+        "role": "反派",
+        "basis": "古墓求援与入侵"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "阿财（宇宙杀手）",
+        "reason": "单次仆人，不与鲁大法之子阿财合并"
+      },
+      {
+        "name": "周胖子",
+        "reason": "陈昌回忆中的供养者，没有独立反派行动线"
+      },
+      {
+        "name": "秦始皇",
+        "reason": "仅讨论与外星人的历史接触，未实际登场，不将推测建成角色能力"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/32.天皇巨星.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "独航后失踪"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "新爱神星重建与返回地球"
+      },
+      {
+        "name": "巨星人",
+        "card_id": "yuanzhenxia_giant_star_people",
+        "role": "主角群体",
+        "basis": "灾害、救援与责任"
+      },
+      {
+        "name": "爱神星新生机械人",
+        "card_id": "yuanzhenxia_aishen_machines",
+        "role": "重要配角",
+        "basis": "通信、防御与资料分析"
+      },
+      {
+        "name": "康维十七世",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "重要配角",
+        "basis": "未能接回原振侠"
+      },
+      {
+        "name": "海棠",
+        "card_id": "yuanzhenxia_hai_tang",
+        "role": "重要配角",
+        "basis": "联络观察地带"
+      },
+      {
+        "name": "曹银雪",
+        "card_id": "yuanzhenxia_cao_yinxue",
+        "role": "重要配角",
+        "basis": "约定寻夫"
+      },
+      {
+        "name": "曹金福",
+        "card_id": "weisili_cao_jinfu",
+        "role": "重要配角",
+        "basis": "约定寻找姐夫"
+      },
+      {
+        "name": "陶启泉",
+        "card_id": "weisili_tao_qiquan",
+        "role": "重要配角",
+        "basis": "玛仙返回见养父"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "康维引导观察地球"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "灾害自然现象不单独写成人格反派；毁星波及原振侠是推断，失踪原因未定。"
+    ]
+  }
+]

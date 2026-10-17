@@ -1,0 +1,138 @@
+{
+  "id": "yuanzhenxia_hanliemi",
+  "name": "汉烈米",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "在《毒誓》《拼命》继续考古与协调救援，留下安抚酋长，后来获得考古资助；勒曼的复制技术属于外援。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 3,
+    "range": 2,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "以实际人体条件计",
+    "energy": "未证实主动能量攻击",
+    "scope": "个体与身边环境",
+    "sustain": "人类体力和休息",
+    "range": "手边工具与沟通距离",
+    "combat": "按该人物实际行动经验计"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "能力的已知边界：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "场景条件：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：要求说明用途，必要时中止合作并承担个人风险。"
+    }
+  },
+  "positive_total": 17.0,
+  "deduction_total": 3.0,
+  "raw_score": 14.0,
+  "rounded_score": 14,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "考古、古文字材料分析与遗址调查；能提出历史假说并据现场修正。；依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/06.灵椅.txt",
+      "start_line": 2755,
+      "end_line": 2765,
+      "supports": "考古材料依据",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/06.灵椅.txt",
+      "start_line": 8953,
+      "end_line": 9013,
+      "supports": "思想交流与装置威胁",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/06.灵椅.txt",
+      "start_line": 9203,
+      "end_line": 9257,
+      "supports": "阻止与反思",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/06.灵椅.txt",
+      "start_line": 9349,
+      "end_line": 9353,
+      "supports": "终局",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/083毒誓.txt",
+      "start_line": 2261,
+      "end_line": 2334,
+      "supports": "经胡明求助卫斯理",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/083毒誓.txt",
+      "start_line": 2383,
+      "end_line": 2424,
+      "supports": "体格与保护古物",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/083毒誓.txt",
+      "start_line": 2636,
+      "end_line": 2655,
+      "supports": "水晶女尸线索",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/083毒誓.txt",
+      "start_line": 2780,
+      "end_line": 2844,
+      "supports": "联络医院及安抚",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/084拼命.txt",
+      "start_line": 763,
+      "end_line": 765,
+      "supports": "后续考古资助",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

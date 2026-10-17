@@ -1,0 +1,131 @@
+{
+  "redirects": {
+    "weisili_shuiyin_general": "adventure_shuiyin",
+    "weisili_jin_te": "yuanzhenxia_jinte",
+    "yuanzhenxia_hu_huaiyu": "weisili_hu_huaiyu",
+    "weisili_haigao": "weisili_hai_gao",
+    "weisili_jiaozhang": "weisili_kaoyan_priest",
+    "weisili_royal_elder": "weisili_tusheng"
+  },
+  "decisions": [
+    {
+      "previous_id": "weisili_shuiyin_general",
+      "canonical_id": "adventure_shuiyin",
+      "reason": "同名外号、黛娜的情报上司、将军身份在《谜踪》明确接续。",
+      "evidence": [
+        {
+          "path": "卫斯理系列/075谜踪.txt",
+          "start_line": 63,
+          "end_line": 91,
+          "supports": "黛娜明确指认自己的上司水银将军",
+          "kind": "原文"
+        }
+      ]
+    },
+    {
+      "previous_id": "weisili_jin_te",
+      "canonical_id": "yuanzhenxia_jinte",
+      "reason": "《快活秘方》由卫斯理介绍自己的旧识金特，来客皆熟悉其已记述的经历；保留后期灵媒能力及石门失联结局。",
+      "evidence": [
+        {
+          "path": "原振侠系列/21.快活秘方.txt",
+          "start_line": 143,
+          "end_line": 201,
+          "supports": "卫斯理旧识、既有经历与灵媒能力",
+          "kind": "原文"
+        }
+      ]
+    },
+    {
+      "previous_id": "yuanzhenxia_hu_huaiyu",
+      "canonical_id": "weisili_hu_huaiyu",
+      "reason": "《黑白无常》直接说明研究所与主持人曾在《犀照》出现。",
+      "evidence": [
+        {
+          "path": "原振侠系列/25.黑白无常.txt",
+          "start_line": 85,
+          "end_line": 107,
+          "supports": "明确跨书指认",
+          "kind": "原文"
+        },
+        {
+          "path": "原振侠系列/25.黑白无常.txt",
+          "start_line": 291,
+          "end_line": 295,
+          "supports": "后期仍有对自身感知的疑虑",
+          "kind": "原文"
+        }
+      ]
+    },
+    {
+      "previous_id": "weisili_haigao",
+      "canonical_id": "weisili_hai_gao",
+      "reason": "《考验》与《只限老友》同一王族竞争者，合并后期结局。",
+      "evidence": [
+        {
+          "path": "卫斯理系列/121考验.txt",
+          "start_line": 1643,
+          "end_line": 1647,
+          "supports": "冒名破坏合作",
+          "kind": "原文"
+        },
+        {
+          "path": "卫斯理系列/145只限老友.txt",
+          "start_line": 1124,
+          "end_line": 1135,
+          "supports": "后期支持者离散",
+          "kind": "原文"
+        }
+      ]
+    },
+    {
+      "previous_id": "weisili_jiaozhang",
+      "canonical_id": "weisili_kaoyan_priest",
+      "reason": "《考验》同一人物的早期描述与后文具名身份；以完整终局卡为准。",
+      "evidence": [
+        {
+          "path": "卫斯理系列/121考验.txt",
+          "start_line": 2603,
+          "end_line": 2635,
+          "supports": "仪式位置与神秘形象",
+          "kind": "原文"
+        },
+        {
+          "path": "卫斯理系列/121考验.txt",
+          "start_line": 2729,
+          "end_line": 2797,
+          "supports": "讥讽与骗术被揭穿",
+          "kind": "原文"
+        },
+        {
+          "path": "卫斯理系列/121考验.txt",
+          "start_line": 2816,
+          "end_line": 2851,
+          "supports": "交出设备、被捕及撤职",
+          "kind": "原文"
+        }
+      ]
+    },
+    {
+      "previous_id": "weisili_royal_elder",
+      "canonical_id": "weisili_tusheng",
+      "reason": "《考验》同一人物的早期描述与后文具名身份；以完整终局卡为准。",
+      "evidence": [
+        {
+          "path": "卫斯理系列/121考验.txt",
+          "start_line": 1113,
+          "end_line": 1136,
+          "supports": "身份、监视与程序立场",
+          "kind": "原文"
+        },
+        {
+          "path": "卫斯理系列/121考验.txt",
+          "start_line": 1165,
+          "end_line": 1201,
+          "supports": "政治学历和自保坦白",
+          "kind": "原文"
+        }
+      ]
+    }
+  ]
+}

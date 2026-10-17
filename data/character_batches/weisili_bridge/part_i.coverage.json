@@ -1,0 +1,89 @@
+[
+  {
+    "path": "卫斯理系列/107解脱.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "陈长青",
+        "card_id": "weisili_chen_changqing",
+        "role": "重要配角",
+        "basis": "实际参与招灵及解脱事件"
+      },
+      {
+        "name": "天池上人",
+        "card_id": "weisili_tianchi",
+        "role": "重要配角",
+        "basis": "实际参与招灵及解脱事件"
+      },
+      {
+        "name": "天池七位大弟子",
+        "card_id": "weisili_tianchi_seven",
+        "role": "重要配角",
+        "basis": "实际参与招灵及解脱事件"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "实际参与招灵及解脱事件"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际参与招灵及解脱事件"
+      },
+      {
+        "name": "蓝丝",
+        "card_id": "weisili_lan_si",
+        "role": "重要配角",
+        "basis": "实际参与招灵及解脱事件"
+      },
+      {
+        "name": "李宣宣",
+        "card_id": "weisili_li_xuanxuan",
+        "role": "重要配角",
+        "basis": "实际参与招灵及解脱事件"
+      },
+      {
+        "name": "神鹰",
+        "card_id": "weisili_shenying",
+        "role": "重要配角",
+        "basis": "实际参与招灵及解脱事件"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "剑中精灵",
+        "reason": "召出剑灵的方案被阻止；没有实际出现可独立刻画的剑灵角色。"
+      },
+      {
+        "name": "小绿",
+        "reason": "本书一次性的毒蜗牛，以诱惑神鹰的具体情境记录在蓝丝和神鹰卡中。"
+      },
+      {
+        "name": "历代佩剑者和木炭旧事人物",
+        "reason": "历史举例、比喻与前情回顾，不算新增实际出场。"
+      },
+      {
+        "name": "寺中僧众与其他通灵者",
+        "reason": "辅助群体，未形成另一个可独立识别的主角或反派主体。"
+      }
+    ],
+    "notes": [
+      "陈长青和天池七徒复用已建综合卡；天池追求大解脱尚未成功，不授予任意自我抹除的既成技能。"
+    ]
+  }
+]

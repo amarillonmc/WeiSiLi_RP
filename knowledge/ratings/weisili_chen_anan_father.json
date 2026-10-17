@@ -1,0 +1,119 @@
+{
+  "id": "weisili_chen_anan_father",
+  "name": "陈安安的父亲",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "仍把占据女儿身体者视为自己的孩子，未明白人格更替；家庭物质条件并未因此失去",
+    "deployment": "仍把占据女儿身体者视为自己的孩子，未明白人格更替；家庭物质条件并未因此失去。仅携带卡中明确列出的随身装备；朋友、机构与失去的装置均需另行取得支持。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 1,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "常人肉身；研究、财富与情报的间接效果不等于个人破坏力。",
+    "energy": "本卡未把接触到的外星技术或他人的能力计入个人能量输出。",
+    "scope": "按能直接作用的人体、局部物件或现场计分，社会势力不等于攻击面积。",
+    "sustain": "按其身体、训练和现场状态行动；需要休息、治疗与补给，不编造无限续航或精确时长。",
+    "range": "近身与常规工具的有限距离；没有无条件远程法术。",
+    "combat": "根据正文中的实际行动、专业能力及缺少战斗展示的边界作项目分析。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 13.5,
+  "deduction_total": 4.0,
+  "raw_score": 9.5,
+  "rounded_score": 10,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "纸",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 1684,
+      "end_line": 1782,
+      "supports": "病情、陪护、孩子要求与父母选择",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 1838,
+      "end_line": 1860,
+      "supports": "对卫施压寻找",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 1981,
+      "end_line": 2019,
+      "supports": "报警为拐带",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 2617,
+      "end_line": 2633,
+      "supports": "得知基金会身份后的态度变化",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/096阴魂不散.txt",
+      "start_line": 773,
+      "end_line": 825,
+      "supports": "母亲在餐厅照顾并管束被占据身体的孩子",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/089烈火女.txt",
+      "start_line": 114,
+      "end_line": 124,
+      "supports": "夫妇实际接待卫温、交还身体后接受孩子并外出",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "数值评级为项目分析，原文没有相应战斗数值。"
+  ]
+}

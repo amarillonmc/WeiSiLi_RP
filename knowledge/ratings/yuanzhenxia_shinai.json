@@ -1,0 +1,117 @@
+{
+  "id": "yuanzhenxia_shinai",
+  "name": "史奈",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "《鬼混》召回强人的仪式因关键媒介被替换而失败；史奈仍能避开冲撞，未证实死亡或失去全部降术。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 5,
+    "scope": 2,
+    "sustain": 4,
+    "range": 3,
+    "combat": 6
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "人体与术法分开",
+    "energy": "可致命的特定降术",
+    "scope": "少数条件目标",
+    "sustain": "依施术准备",
+    "range": "媒介和联系限制",
+    "combat": "长期斗法经验"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "能力的已知边界：每种降头条件不同；鬼脸降延误后不能解除，也不能把所有攻击都反射。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "场景条件：每种降头条件不同；鬼脸降延误后不能解除，也不能把所有攻击都反射。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "临场情绪与选择：安排可信中间人，但隐瞒会损害之后的信任。"
+    }
+  },
+  "positive_total": 36.0,
+  "deduction_total": 8.0,
+  "raw_score": 28.0,
+  "rounded_score": 28,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "依仪式和媒介施加特定效果；隐降在遭到相应伤害时可转移反击，可辨认及解除部分自己布置的术。；每种降头条件不同；鬼脸降延误后不能解除，也不能把所有攻击都反射。",
+    "tier": "强",
+    "uncontrolled": "鬼混降未完成，所谓人鬼横行无阻只是施术宣言，不计为成功复活或无限战力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/12.降头.txt",
+      "start_line": 1913,
+      "end_line": 1918,
+      "supports": "师承与少年斗法",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/12.降头.txt",
+      "start_line": 3410,
+      "end_line": 3544,
+      "supports": "隐降边界",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/12.降头.txt",
+      "start_line": 4297,
+      "end_line": 4387,
+      "supports": "交易与隐瞒",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/20.劫数.txt",
+      "start_line": 7346,
+      "end_line": 7374,
+      "supports": "研究者身份",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/20.劫数.txt",
+      "start_line": 7926,
+      "end_line": 8054,
+      "supports": "共同接收讯息",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/079鬼混.txt",
+      "start_line": 4011,
+      "end_line": 4086,
+      "supports": "鬼混降的条件、失败及现场反应",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

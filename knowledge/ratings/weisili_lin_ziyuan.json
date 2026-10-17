@@ -1,0 +1,96 @@
+{
+  "id": "weisili_lin_ziyuan",
+  "name": "林子渊",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "木炭烧尽后再无讯息，第三形式与具体去处均未证实。",
+    "deployment": "恢复最后有证据的木炭寄居及可建立交流状态，保留焚炭后未知的终局认知；不直接采用第三形式。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 1,
+    "scope": 1,
+    "sustain": 5,
+    "range": 1,
+    "combat": 0
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "无独立肉体",
+    "energy": "有限信息感应",
+    "scope": "单一载体",
+    "sustain": "曾长期存续",
+    "range": "研究环境内交流",
+    "combat": "无战斗实证"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 4,
+      "af": 1.0,
+      "reason": "能力的已知边界：不能自由移出木炭；存在不等于能操纵载体或攻击；焚炭后情况未知。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "场景条件：不能自由移出木炭；存在不等于能操纵载体或攻击；焚炭后情况未知。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：说明不知道，讨论有限尝试。"
+    }
+  },
+  "positive_total": 15.0,
+  "deduction_total": 8.0,
+  "raw_score": 7.0,
+  "rounded_score": 7,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "意识寄在木炭中，通过特殊感应和仪器记录让人获取讯息。；不能自由移出木炭；存在不等于能操纵载体或攻击；焚炭后情况未知。",
+    "tier": "纸",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/050木炭.txt",
+      "start_line": 3172,
+      "end_line": 3210,
+      "supports": "动机演变",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/050木炭.txt",
+      "start_line": 4150,
+      "end_line": 4259,
+      "supports": "本人叙述与未知",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/050木炭.txt",
+      "start_line": 4261,
+      "end_line": 4345,
+      "supports": "最终断讯及多解",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

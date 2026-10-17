@@ -1,0 +1,195 @@
+[
+  {
+    "path": "卫斯理系列/102将来.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际会面、通讯或技术行动"
+      },
+      {
+        "name": "戈壁",
+        "card_id": "weisili_ge_bi",
+        "role": "重要配角",
+        "basis": "实际会面、通讯或技术行动"
+      },
+      {
+        "name": "沙漠",
+        "card_id": "weisili_sha_mo",
+        "role": "重要配角",
+        "basis": "实际会面、通讯或技术行动"
+      },
+      {
+        "name": "李宣宣",
+        "card_id": "weisili_li_xuanxuan",
+        "role": "重要配角",
+        "basis": "实际会面、通讯或技术行动"
+      },
+      {
+        "name": "狄可",
+        "card_id": "weisili_di_ke",
+        "role": "重要配角",
+        "basis": "实际会面、通讯或技术行动"
+      },
+      {
+        "name": "伦三德",
+        "card_id": "weisili_lun_sande",
+        "role": "重要配角",
+        "basis": "实际会面、通讯或技术行动"
+      },
+      {
+        "name": "神鹰",
+        "card_id": "weisili_shenying",
+        "role": "重要配角",
+        "basis": "实际会面、通讯或技术行动"
+      },
+      {
+        "name": "阴间一号",
+        "card_id": "weisili_yin_1",
+        "role": "重要配角",
+        "basis": "实际会面、通讯或技术行动"
+      },
+      {
+        "name": "阴间二号",
+        "card_id": "weisili_yin_2",
+        "role": "重要配角",
+        "basis": "实际会面、通讯或技术行动"
+      },
+      {
+        "name": "阴间三号",
+        "card_id": "weisili_yin_3",
+        "role": "重要配角",
+        "basis": "实际会面、通讯或技术行动"
+      },
+      {
+        "name": "阴间四号",
+        "card_id": "weisili_yin_4",
+        "role": "重要配角",
+        "basis": "实际会面、通讯或技术行动"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "原振侠、黄绢、海棠、玛仙",
+        "reason": "画像、记忆和既往经历中的人物，本书无新身体登场。"
+      },
+      {
+        "name": "王天兵与卫七",
+        "reason": "用于解释往事和提出时间假设，不据此确认其穿越或死亡。"
+      }
+    ],
+    "notes": [
+      "四号密码在卫脑细胞中，与普通记忆不同；卫拒绝复制换体以维护四号独立生活，狄可最终没有强迫。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/103改变.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "齐白",
+        "card_id": "weisili_qi_bai",
+        "role": "重要配角",
+        "basis": "实际参与调查、通讯或思想联系"
+      },
+      {
+        "name": "李宣宣",
+        "card_id": "weisili_li_xuanxuan",
+        "role": "重要配角",
+        "basis": "实际参与调查、通讯或思想联系"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际参与调查、通讯或思想联系"
+      },
+      {
+        "name": "老蔡",
+        "card_id": "weisili_lao_cai",
+        "role": "重要配角",
+        "basis": "实际参与调查、通讯或思想联系"
+      },
+      {
+        "name": "阴间一号",
+        "card_id": "weisili_yin_1",
+        "role": "重要配角",
+        "basis": "实际参与调查、通讯或思想联系"
+      },
+      {
+        "name": "阴间二号",
+        "card_id": "weisili_yin_2",
+        "role": "重要配角",
+        "basis": "实际参与调查、通讯或思想联系"
+      },
+      {
+        "name": "阴间三号",
+        "card_id": "weisili_yin_3",
+        "role": "重要配角",
+        "basis": "实际参与调查、通讯或思想联系"
+      },
+      {
+        "name": "阴间四号",
+        "card_id": "weisili_yin_4",
+        "role": "重要配角",
+        "basis": "实际参与调查、通讯或思想联系"
+      },
+      {
+        "name": "成吉思汗（改变中的小说形象）",
+        "card_id": "weisili_genghis_khan",
+        "role": "反派",
+        "basis": "历史关键对立行为或终局自主行动"
+      },
+      {
+        "name": "神秘高人（游侠）",
+        "card_id": "weisili_you_xia",
+        "role": "重要配角",
+        "basis": "105明确神秘高人身份，合入游侠主卡"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "万夫长甲、万夫长乙及其他古人记忆",
+        "reason": "单书信息提供者，没有独立主角线；不把被记录的每段记忆都扩写为战斗角色。"
+      },
+      {
+        "name": "洛神及曹植",
+        "reason": "齐白收藏与前情联系中的人物，未有本书的新自主行动。"
+      },
+      {
+        "name": "考古队长、队员与同行人员",
+        "reason": "一次性辅助角色。"
+      }
+    ],
+    "notes": [
+      "保留叙述中的推断层级：赐酒下毒、箱中仪器及陵墓防卫细节不能全当直接见证。",
+      "红梭等为红绫在本文件的文字讹误，合回红绫。"
+    ]
+  }
+]

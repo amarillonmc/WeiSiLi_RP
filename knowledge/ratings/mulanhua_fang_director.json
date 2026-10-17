@@ -1,0 +1,152 @@
+{
+  "id": "mulanhua_fang_director",
+  "name": "方局长",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料各书终局经历",
+    "canonical_endpoint": "本语料后期仍为警方负责人，继续协调调查救援；曾受伤而恢复，未写离职或死亡。",
+    "deployment": "保留终局经历；以最后已证实的可行动状态登场，未随身拥有原文未说明的器材。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 2,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "按文本明确展示的身体或物质作用评分；未给出大范围破坏。",
+    "energy": "按已证实的超常作用评分；异常身份或见闻本身不算能量攻击。",
+    "scope": "按本人单次可作用的对象与局部场景评分，不把社会地位当物理范围。",
+    "sustain": "依赖正常身体、器物或事件条件；没有无限供能或无限复原证据。",
+    "range": "按文本中的近身、视线或现有器物接触范围评估，不扩张成全域作用。",
+    "combat": "按本人实际解决对抗的表现评分；没有把遭遇奇事自动换算成作战技巧。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "无另行证实且应重复扣分的能力性自限；普通人能力低已计入正向分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "未把一般生存环境需求另算特殊限制。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "无证据表明拥有随机失控的主动战斗能力。"
+    }
+  },
+  "positive_total": 16.5,
+  "deduction_total": 0.0,
+  "raw_score": 16.5,
+  "rounded_score": 17,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "原文未显示改写世界规则或叙事层的可控权柄；异常事件与知情不等同概念干涉。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "警务组织、案情判断、档案与城市设施调度，及普通枪械和近身应急。",
+    "tier": "并",
+    "uncontrolled": "未展示可归属于本人、可反复发动的额外不可控上限。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/02黑龙现爪.txt",
+      "start_line": 10,
+      "end_line": 54,
+      "supports": "身份、外观与现场关切",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/05尸变惊魂.txt",
+      "start_line": 1240,
+      "end_line": 1286,
+      "supports": "宽纵承诺促杨交证",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/26神秘血影掌.txt",
+      "start_line": 1114,
+      "end_line": 1116,
+      "supports": "动员合作",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/30玻璃伪钞模.txt",
+      "start_line": 1154,
+      "end_line": 1166,
+      "supports": "接手保卫",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/30玻璃伪钞模.txt",
+      "start_line": 1472,
+      "end_line": 1486,
+      "supports": "陪护受伤朋友",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/31黑暗历险.txt",
+      "start_line": 2370,
+      "end_line": 2396,
+      "supports": "责备并安排保护",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/31黑暗历险.txt",
+      "start_line": 2574,
+      "end_line": 2584,
+      "supports": "假警鞋疑点与领导盲点",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/33军械大盗.txt",
+      "start_line": 2386,
+      "end_line": 2394,
+      "supports": "枪托近身应急",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/36无敌凶手.txt",
+      "start_line": 736,
+      "end_line": 774,
+      "supports": "外交压力边界",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "start_line": 2582,
+      "end_line": 2594,
+      "supports": "地窖下水道搜救",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/57生命合同.txt",
+      "start_line": 2232,
+      "end_line": 2242,
+      "supports": "同意承担风险救人",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

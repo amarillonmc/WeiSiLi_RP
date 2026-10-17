@@ -1,0 +1,154 @@
+[
+  {
+    "path": "原振侠系列/20.劫数.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "主要接收者"
+      },
+      {
+        "name": "古托",
+        "card_id": "yuanzhenxia_gutuo",
+        "role": "重要配角",
+        "basis": "研究"
+      },
+      {
+        "name": "史奈",
+        "card_id": "yuanzhenxia_shinai",
+        "role": "重要配角",
+        "basis": "研究"
+      },
+      {
+        "name": "达伊安",
+        "card_id": "yuanzhenxia_dayian",
+        "role": "重要配角",
+        "basis": "研究"
+      },
+      {
+        "name": "李加·奥南度",
+        "card_id": "yuanzhenxia_lijia",
+        "role": "单书主角",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "唐勒",
+        "card_id": "yuanzhenxia_tangle",
+        "role": "单书主角",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "贝沙",
+        "card_id": "yuanzhenxia_beisha",
+        "role": "单书主角",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "劫数水晶球",
+        "card_id": "yuanzhenxia_crystal_warning",
+        "role": "核心非人主体",
+        "basis": "核心调查、讯息或选择"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "白隆部长及地质院长",
+        "reason": "单次专业或政务协助，没有独立持续角色线"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/21.快活秘方.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与拒绝转化"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "重要配角",
+        "basis": "国家谈判"
+      },
+      {
+        "name": "卡尔斯",
+        "card_id": "yuanzhenxia_kaersi",
+        "role": "反派",
+        "basis": "干预发掘"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "重要配角",
+        "basis": "灵魂讨论"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "开端讨论"
+      },
+      {
+        "name": "良辰",
+        "card_id": "weisili_liang_chen",
+        "role": "重要配角",
+        "basis": "开端讨论"
+      },
+      {
+        "name": "美景",
+        "card_id": "weisili_mei_jing",
+        "role": "重要配角",
+        "basis": "开端讨论"
+      },
+      {
+        "name": "金特",
+        "card_id": "yuanzhenxia_jinte",
+        "role": "单书主角",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "普通教授",
+        "card_id": "yuanzhenxia_putong",
+        "role": "单书主角",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "朗医生",
+        "card_id": "yuanzhenxia_lang",
+        "role": "单书主要行动者",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "羽生（考古队员）",
+        "card_id": "yuanzhenxia_yusheng",
+        "role": "单书主角",
+        "basis": "核心调查、讯息或选择"
+      },
+      {
+        "name": "快活古城的无肉体生命群体",
+        "card_id": "yuanzhenxia_fastlife_people",
+        "role": "核心非人主体",
+        "basis": "核心调查、讯息或选择"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "工程队长、女保镖及其他队员",
+        "reason": "按职务出现的执行人员，无独立后续身份"
+      }
+    ],
+    "notes": []
+  }
+]

@@ -1,0 +1,120 @@
+{
+  "id": "weisili_huang_er",
+  "name": "黄而",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "已加入非人协会并协助未完成的配额研究；《考验》中开始离开总部游历，仍可与水联系。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 0,
+    "scope": 3,
+    "sustain": 6,
+    "range": 4,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "强壮熟水人体",
+    "energy": "本人未独立放能",
+    "scope": "沟通联络为主，水的输出另卡",
+    "sustain": "水中经验较长但未量化无限",
+    "range": "可请传讯但取决于水",
+    "combat": "水中专长，岸上明显非全能"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "能力的已知边界：岸上动作有不足；大规模脑控、输送与生命研究由水执行，不是黄而可强令或独立复制的法术。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "场景条件：岸上动作有不足；大规模脑控、输送与生命研究由水执行，不是黄而可强令或独立复制的法术。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：向水求助并寻找合作，不能强迫其保证任何结果。"
+    }
+  },
+  "positive_total": 34.5,
+  "deduction_total": 5.0,
+  "raw_score": 29.5,
+  "rounded_score": 30,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "自幼潜游并由都连加农教导，能与独立的水生命互通信息，获得其自愿协助。；岸上动作有不足；大规模脑控、输送与生命研究由水执行，不是黄而可强令或独立复制的法术。",
+    "tier": "强",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "start_line": 2152,
+      "end_line": 2158,
+      "supports": "身世与性格",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "start_line": 2499,
+      "end_line": 2536,
+      "supports": "水性与陆上限制",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "start_line": 2549,
+      "end_line": 2597,
+      "supports": "沟通和使命",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/120卖命.txt",
+      "start_line": 2384,
+      "end_line": 2454,
+      "supports": "水遁和意识作用",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/120卖命.txt",
+      "start_line": 2579,
+      "end_line": 2582,
+      "supports": "求救母亲",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/121考验.txt",
+      "start_line": 100,
+      "end_line": 158,
+      "supports": "限制及外出",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "具体水中生存极限未测量。",
+    "水的答应与黄而个人可控能力分开评级。"
+  ]
+}

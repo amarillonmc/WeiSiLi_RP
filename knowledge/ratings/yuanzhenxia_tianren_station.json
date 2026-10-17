@@ -1,0 +1,89 @@
+{
+  "id": "yuanzhenxia_tianren_station",
+  "name": "天人研究站观察者",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "《天人》末终止研究，自毁研究站并消解植入物；本卡为终止前最后完整的集体行动接口。",
+    "deployment": "按最后可独立行动形态加入；终局异常作为明确改编恢复，不重演死亡过程。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 6,
+    "scope": 4,
+    "sustain": 7,
+    "range": 7,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "无可靠本体近战",
+    "energy": "特定远程能量干预",
+    "scope": "分布式样本网络",
+    "sustain": "持续研究设施",
+    "range": "可触及远隔样本",
+    "combat": "受机制限制而非万能临战杀伤"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "能力的已知边界：只对既定样本及相容装置起作用；不能把一次研究扩为对所有生命随意读心或瞬杀。"
+    },
+    "environment": {
+      "score": 4,
+      "af": 1.0,
+      "reason": "场景条件：只对既定样本及相容装置起作用；不能把一次研究扩为对所有生命随意读心或瞬杀。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：触发原有保密程序；允许他人攻击其正当性和实施条件。"
+    }
+  },
+  "positive_total": 47.5,
+  "deduction_total": 7.0,
+  "raw_score": 40.5,
+  "rounded_score": 41,
+  "numeric_tier": "狂",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "狂",
+  "theoretical_tier": "狂",
+  "mastery": "不适用",
+  "final_tier": "狂",
+  "display_tier": "狂",
+  "controlled_ceiling": {
+    "description": "以能量刺激聚集人体金属形成脑内小片，收集思想信息、指令个别行为，并对已植入样本执行保护或灭口。；只对既定样本及相容装置起作用；不能把一次研究扩为对所有生命随意读心或瞬杀。",
+    "tier": "狂",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/01.天人.txt",
+      "start_line": 3313,
+      "end_line": 3365,
+      "supports": "研究、植入、保护、灭口与终止",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/01.天人.txt",
+      "start_line": 3381,
+      "end_line": 3385,
+      "supports": "基地毁灭与记忆变化",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

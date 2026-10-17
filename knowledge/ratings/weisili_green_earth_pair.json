@@ -1,0 +1,99 @@
+{
+  "id": "weisili_green_earth_pair",
+  "name": "地心计划的两名绿色外星人",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "留下遗书后共同结束生命，尸体被卫斯理在冰洞发现；平台及电子人后续损毁。",
+    "deployment": "原作终局已经死亡或失去可行动形态；参战用最后清醒行动形态，保留终局经历，仅作为明确的角色扮演恢复，不宣称原作复活。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 2,
+    "scope": 1,
+    "sustain": 3,
+    "range": 3,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "本体破坏没有独立实测；大范围灾害由成套地心工程产生。 外星有机身体需要合适气体，已自行结束生命；无枪弹免疫证据。",
+    "energy": "工程设备可处理巨大地质能量，身体未展示同等能量投射。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "依赖生存环境和技术支持，没有无限生理续航。",
+    "range": "两人不是整个文明；与母星不能即时联系，身体依赖适宜气体，终局设备大多损毁。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "阻止本方文明恐惧演变为对无辜生命的毁灭，并承担既有行动责任。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "两人不是整个文明；与母星不能即时联系，身体依赖适宜气体，终局设备大多损毁。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 21.5,
+  "deduction_total": 2.0,
+  "raw_score": 19.5,
+  "rounded_score": 20,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "准神",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "准神",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/006地心洪炉.txt",
+      "start_line": 1933,
+      "end_line": 1942,
+      "supports": "尸体及遗书来源",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/006地心洪炉.txt",
+      "start_line": 1960,
+      "end_line": 1986,
+      "supports": "任务、工程和首次灾害",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/006地心洪炉.txt",
+      "start_line": 1989,
+      "end_line": 2017,
+      "supports": "自我牺牲与防滥用设计",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "双人共同主线，不能拆造两套未经文本支持的个人经历。",
+    "完整工程的理论上限与缺少工程时的实际评分分开。"
+  ]
+}

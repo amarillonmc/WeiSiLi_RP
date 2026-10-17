@@ -1,0 +1,140 @@
+{
+  "id": "weisili_lun_sande",
+  "name": "伦三德",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "《洪荒》向黄而请教沟通生命的方法后离开去实践；与山沟通是否成功未展示。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 1,
+    "scope": 3,
+    "sustain": 3,
+    "range": 3,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "人体及实际工具",
+    "energy": "器械能源，不是自身放能",
+    "scope": "设备作用区域",
+    "sustain": "依赖补给与制作",
+    "range": "已配置载具和通信",
+    "combat": "工艺应变出众，作战记录有限"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "能力的已知边界：不等于现场瞬间制造一切；山体探索仍受钻探与器材条件限制。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "场景条件：不等于现场瞬间制造一切；山体探索仍受钻探与器材条件限制。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：通过神鹰求援，明确列出材料而非凭空造物。"
+    }
+  },
+  "positive_total": 27.0,
+  "deduction_total": 4.0,
+  "raw_score": 23.0,
+  "rounded_score": 23,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "通过机械、电子与材料知识设计精密锁具、部件和特殊飞机；必须有制作、装配及调试条件。；不等于现场瞬间制造一切；山体探索仍受钻探与器材条件限制。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 713,
+      "end_line": 757,
+      "supports": "工匠体系与挑战",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 844,
+      "end_line": 879,
+      "supports": "分件工艺",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 994,
+      "end_line": 1013,
+      "supports": "求援及文字",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 1940,
+      "end_line": 1943,
+      "supports": "名字来源",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 2570,
+      "end_line": 2654,
+      "supports": "研究目标和边界",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 2682,
+      "end_line": 2687,
+      "supports": "神鹰与终局",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "start_line": 1010,
+      "end_line": 1075,
+      "supports": "解开具体多重机关",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "start_line": 2441,
+      "end_line": 2472,
+      "supports": "沟通尝试未获证实",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "start_line": 2632,
+      "end_line": 2642,
+      "supports": "求教与离开",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "仍未实证与山体生命沟通成功；天工大王是工艺称号，不等于支配地球地形。"
+  ]
+}

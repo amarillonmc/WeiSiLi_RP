@@ -1,0 +1,132 @@
+[
+  {
+    "path": "卫斯理系列/112新武器.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "白老大",
+        "card_id": "weisili_bai_laoda",
+        "role": "重要配角",
+        "basis": "调查与后期解释"
+      },
+      {
+        "name": "黄堂",
+        "card_id": "weisili_huang_tang",
+        "role": "重要配角",
+        "basis": "调查与后期解释"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "调查与后期解释"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "调查与后期解释"
+      },
+      {
+        "name": "神鹰",
+        "card_id": "weisili_shenying",
+        "role": "重要配角",
+        "basis": "调查与后期解释"
+      },
+      {
+        "name": "伦三德",
+        "card_id": "weisili_lun_sande",
+        "role": "重要配角",
+        "basis": "调查与后期解释"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "跨系列主角",
+        "basis": "提供潜水技能与仪器"
+      },
+      {
+        "name": "石亚玉",
+        "card_id": "weisili_shi_yayu",
+        "role": "单书主角",
+        "basis": "旧案行动者或终局调查者"
+      },
+      {
+        "name": "山下官子",
+        "card_id": "weisili_yamashita_guanzi",
+        "role": "单书主角",
+        "basis": "旧案行动者或终局调查者"
+      },
+      {
+        "name": "金秀四嫂",
+        "card_id": "weisili_jinxiu_sisao",
+        "role": "单书主角",
+        "basis": "旧案行动者或终局调查者"
+      },
+      {
+        "name": "竹（金秀四嫂部下）",
+        "card_id": "weisili_jinxiu_zhu",
+        "role": "单书主角",
+        "basis": "旧案行动者或终局调查者"
+      },
+      {
+        "name": "菊（金秀四嫂部下）",
+        "card_id": "weisili_jinxiu_ju",
+        "role": "单书主角",
+        "basis": "旧案行动者或终局调查者"
+      },
+      {
+        "name": "山下堤昭",
+        "card_id": "weisili_yamashita_tetsuaki",
+        "role": "单书主角",
+        "basis": "旧案行动者或终局调查者"
+      },
+      {
+        "name": "木村效良",
+        "card_id": "weisili_kimura_xiaoliang",
+        "role": "反派",
+        "basis": "旧案行动者或终局调查者"
+      },
+      {
+        "name": "广雄真三",
+        "card_id": "weisili_hiroo_shinzo",
+        "role": "反派",
+        "basis": "旧案行动者或终局调查者"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "梅",
+        "reason": "一次性协助四嫂侦察，未展开独立主角线；后为富豪之妻只作背景。"
+      },
+      {
+        "name": "兰",
+        "reason": "主要是对菊身份的误猜，未显示独立实际行动。"
+      },
+      {
+        "name": "三位古代藏石者",
+        "reason": "由菊转述伦的旧闻，未个体化的背景人物。"
+      },
+      {
+        "name": "瘾石",
+        "reason": "无独立人格的危险物；涉及它的解释均属角色推测，未现场检验。"
+      }
+    ],
+    "notes": [
+      "日本秘密文件与瘾石故事只作为小说世界内材料存档。",
+      "船中载荷、集体疯狂及竹爱情的成因未直接验证；不据此为任何人物增加控制欲望或释放毒物的常驻技能。"
+    ]
+  }
+]

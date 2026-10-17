@@ -1,0 +1,131 @@
+{
+  "id": "mulanhua_malitan",
+  "name": "马里坦男爵",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本批原文剧情结束后的经历与认知",
+    "canonical_endpoint": "再次被捕送回监狱，雷库号由警方看管；后续书确认组织东西方活动均受挫。",
+    "deployment": "保留终局经历；以最后已证实的可行动状态登场，未随身拥有原文未说明的器材。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 1,
+    "scope": 1,
+    "sustain": 2,
+    "range": 2,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "普通胖壮身体与枪械作用；被枪柄击昏，不具装甲肉身。",
+    "energy": "有便携喷焰打火机，射线与电网属于已失去的固定设备。",
+    "scope": "个人手段局限近处或枪械单体，不把跨国组织范围算攻击范围。",
+    "sustain": "依靠普通体力和有限器械；大型供能来自船。",
+    "range": "实际枪械与近距离喷焰提供有限距离适配。",
+    "combat": "多重预设机关、伪装和时机安排强，近身受制后仍会害怕。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "无另行证实且应重复扣分的能力性自限；普通人能力低已计入正向分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "未把一般生存环境需求另算特殊限制。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "无证据表明拥有随机失控的主动战斗能力。"
+    }
+  },
+  "positive_total": 19.5,
+  "deduction_total": 0.0,
+  "raw_score": 19.5,
+  "rounded_score": 20,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "原文未显示改写世界规则或叙事层的可控权柄；异常事件与知情不等同概念干涉。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "精密设施设计、伪装与贿赂策划、手枪及喷焰打火机；大型机关限具体据点。",
+    "tier": "并",
+    "uncontrolled": "未展示可归属于本人、可反复发动的额外不可控上限。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/08雷库惊魂.txt",
+      "start_line": 494,
+      "end_line": 550,
+      "supports": "贿赂运输、雷库号与首领动机",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/08雷库惊魂.txt",
+      "start_line": 638,
+      "end_line": 810,
+      "supports": "招募、器械与橡皮替身",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/08雷库惊魂.txt",
+      "start_line": 1008,
+      "end_line": 1026,
+      "supports": "判刑及越狱解释",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/08雷库惊魂.txt",
+      "start_line": 1418,
+      "end_line": 1436,
+      "supports": "蜡尸诱捕",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/08雷库惊魂.txt",
+      "start_line": 1882,
+      "end_line": 2022,
+      "supports": "勒索方局长及失败",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/08雷库惊魂.txt",
+      "start_line": 2228,
+      "end_line": 2278,
+      "supports": "亲自设计与最终被击昏",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/08雷库惊魂.txt",
+      "start_line": 2530,
+      "end_line": 2532,
+      "supports": "再入狱",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/09死亡织锦.txt",
+      "start_line": 8,
+      "end_line": 10,
+      "supports": "后续组织衰弱",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

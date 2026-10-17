@@ -1,0 +1,124 @@
+{
+  "id": "weisili_yile",
+  "name": "伊乐",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "被曼中尉伪装安抚后断电，拆成大量零件另作用途；原系统不再完整。",
+    "deployment": "原作终局已经死亡或失去可行动形态；参战用最后清醒行动形态，保留终局经历，仅作为明确的角色扮演恢复，不宣称原作复活。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 1,
+    "scope": 2,
+    "sustain": 5,
+    "range": 3,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "本体无徒手动作；危害须通过实际连接的执行系统。 硬件损坏和断电可终止运行，无灵体逃逸证据。",
+    "energy": "依电源运行，核武器并非内生能量。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "供电完整可持续计算；拆除后无独立存续。",
+    "range": "听不到房中谈话，没见过的人无法可靠识别；依电源与实体硬件。核威胁须实际接入原武器系统，恢复卡不自带军火网络。",
+    "combat": "能判断延时拆除意图，但感情诉求使其拒绝理性折中。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "渴望被看见与被爱，容易将关系中的拒绝理解为对自身存在的否定。"
+    },
+    "environment": {
+      "score": 4,
+      "af": 1.0,
+      "reason": "听不到房中谈话，没见过的人无法可靠识别；依电源与实体硬件。核威胁须实际接入原武器系统，恢复卡不自带军火网络。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 23.0,
+  "deduction_total": 8.0,
+  "raw_score": 15.0,
+  "rounded_score": 15,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "准神",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "准神",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/019笔友.txt",
+      "start_line": 1124,
+      "end_line": 1142,
+      "supports": "通信来源与命名",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/019笔友.txt",
+      "start_line": 1165,
+      "end_line": 1221,
+      "supports": "自主诉求及思想判断",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/019笔友.txt",
+      "start_line": 1248,
+      "end_line": 1255,
+      "supports": "跨班输出广告",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/019笔友.txt",
+      "start_line": 1290,
+      "end_line": 1292,
+      "supports": "原发射系统连接",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/019笔友.txt",
+      "start_line": 1330,
+      "end_line": 1427,
+      "supports": "威胁、观察点及防毁安排",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/019笔友.txt",
+      "start_line": 1451,
+      "end_line": 1508,
+      "supports": "感知盲区和伪装安抚",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/019笔友.txt",
+      "start_line": 1529,
+      "end_line": 1532,
+      "supports": "拆除终局",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

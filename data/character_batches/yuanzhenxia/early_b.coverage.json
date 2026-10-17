@@ -1,0 +1,69 @@
+[
+  {
+    "path": "原振侠系列/02.迷路.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "参与调查与实验"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "主角",
+        "basis": "调查与政治交易"
+      },
+      {
+        "name": "温谷",
+        "card_id": "yuanzhenxia_wengu",
+        "role": "重要配角",
+        "basis": "本书独立行动或核心对抗线"
+      },
+      {
+        "name": "王一恒",
+        "card_id": "yuanzhenxia_wang_yiheng",
+        "role": "单书主角",
+        "basis": "本书独立行动或核心对抗线"
+      },
+      {
+        "name": "陈维如",
+        "card_id": "yuanzhenxia_chen_weiru",
+        "role": "单书主角",
+        "basis": "本书独立行动或核心对抗线"
+      },
+      {
+        "name": "徐玉音",
+        "card_id": "yuanzhenxia_xu_yuyin",
+        "role": "单书主角",
+        "basis": "本书独立行动或核心对抗线"
+      },
+      {
+        "name": "尼格酋长",
+        "card_id": "yuanzhenxia_nige",
+        "role": "单书主角",
+        "basis": "本书独立行动或核心对抗线"
+      },
+      {
+        "name": "针尖峰空间实验者",
+        "card_id": "yuanzhenxia_transfer_researchers",
+        "role": "阶段性对立者（集体）",
+        "basis": "本书独立行动或核心对抗线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "吕特生",
+        "reason": "单书灵学研究协助者"
+      },
+      {
+        "name": "三桥、许小姐、达尔智者等",
+        "reason": "一次性证人或辅助角色"
+      }
+    ],
+    "notes": [
+      "徐玉音原人格与尼格记忆系统分别存档，异常不能视为可控附体术。"
+    ]
+  }
+]

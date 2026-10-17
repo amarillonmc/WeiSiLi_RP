@@ -1,0 +1,203 @@
+[
+  {
+    "path": "卫斯理系列/101转世暗号.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "系列主角",
+        "basis": "处理来信与参与"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "系列主角",
+        "basis": "参与讨论及会面"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "寻访与被迫求助"
+      },
+      {
+        "name": "黄蝉",
+        "card_id": "weisili_huang_chan",
+        "role": "阶段性对立者",
+        "basis": "介入法物与识别计划"
+      },
+      {
+        "name": "章摩",
+        "card_id": "weisili_zhangmo",
+        "role": "重要配角",
+        "basis": "亲自来访邀请"
+      },
+      {
+        "name": "卫七",
+        "card_id": "weisili_wei_qishu",
+        "role": "重要配角",
+        "basis": "参与法物托付、真实身份与权力冲突"
+      },
+      {
+        "name": "大活佛（转世暗号）",
+        "card_id": "weisili_great_living_buddha",
+        "role": "单书主角",
+        "basis": "参与法物托付、真实身份与权力冲突"
+      },
+      {
+        "name": "二活佛（真正转世者）",
+        "card_id": "weisili_second_living_buddha",
+        "role": "单书主角",
+        "basis": "参与法物托付、真实身份与权力冲突"
+      },
+      {
+        "name": "登珠活佛",
+        "card_id": "weisili_dengzhu",
+        "role": "单书主角",
+        "basis": "参与法物托付、真实身份与权力冲突"
+      },
+      {
+        "name": "宁活佛",
+        "card_id": "weisili_ning_living_buddha",
+        "role": "反派",
+        "basis": "参与法物托付、真实身份与权力冲突"
+      },
+      {
+        "name": "拉休寺行凶的叛教者",
+        "card_id": "weisili_lahiu_betrayer",
+        "role": "反派",
+        "basis": "参与法物托付、真实身份与权力冲突"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "三老太爷和其他卫家长辈",
+        "reason": "本书辅助家族人物，无独立主角或反派线。"
+      },
+      {
+        "name": "假二活佛",
+        "reason": "被扶植为替代者是背景事实，未写其个人知情与主动恶行；不凭假身份直接判作独立反派。"
+      },
+      {
+        "name": "台湾来信少年与巴西少年",
+        "reason": "开篇旁枝见闻，未具名且未参与后续主线。"
+      },
+      {
+        "name": "穆家庄主与女婴",
+        "reason": "有关穆秀珍的身世线索尚未确认同一身份，保留疑问而不新造另一张女侠卡。"
+      }
+    ],
+    "notes": [
+      "此书未结束的法物事件在104《暗号之二》综合。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/104暗号之二.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "系列主角",
+        "basis": "实际协助与亲近秋英"
+      },
+      {
+        "name": "黄蝉",
+        "card_id": "weisili_huang_chan",
+        "role": "反派与重要配角",
+        "basis": "设计时机与监视"
+      },
+      {
+        "name": "神鹰",
+        "card_id": "weisili_shenying",
+        "role": "重要配角",
+        "basis": "通讯、识别和擒隼"
+      },
+      {
+        "name": "戈壁",
+        "card_id": "weisili_ge_bi",
+        "role": "重要配角",
+        "basis": "器材协助"
+      },
+      {
+        "name": "沙漠",
+        "card_id": "weisili_sha_mo",
+        "role": "重要配角",
+        "basis": "器材协助"
+      },
+      {
+        "name": "卫七",
+        "card_id": "weisili_wei_qishu",
+        "role": "重要配角",
+        "basis": "取宝与重逢"
+      },
+      {
+        "name": "二活佛",
+        "card_id": "weisili_second_living_buddha",
+        "role": "单书主角",
+        "basis": "接掌与退隐"
+      },
+      {
+        "name": "训练秋英的统帅",
+        "card_id": "weisili_qiuying_commander",
+        "role": "反派",
+        "basis": "历史决定造成核心困境"
+      },
+      {
+        "name": "秋英",
+        "card_id": "weisili_qiuying",
+        "role": "单书主角",
+        "basis": "实际行动与终局解释"
+      },
+      {
+        "name": "监视用海冬青群",
+        "card_id": "weisili_haidongqing",
+        "role": "阶段性对立者",
+        "basis": "实际行动与终局解释"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "持七雁幡联络的喇嘛",
+        "reason": "卫判断很可能是黄蝉化装，身份未证；暂并入黄蝉不另造确定人物。"
+      },
+      {
+        "name": "铁蛋、已故登珠及大活佛",
+        "reason": "背景与往事提及，不据此新增当场出席。"
+      },
+      {
+        "name": "谈海冬青的朋友",
+        "reason": "结尾一次性知识提供者，无独立角色线。"
+      }
+    ],
+    "notes": [
+      "丹玛秋英与早期秋英为同一人，使用恢复后形态；真实二活佛已双掌完整。",
+      "黄蝉目标达成但失去三法物；不能把这一局部成功等同全面胜利。"
+    ]
+  }
+]

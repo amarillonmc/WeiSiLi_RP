@@ -1,0 +1,103 @@
+{
+  "id": "yuanzhenxia_anpu_count",
+  "name": "安普伯爵（男）",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "与翠丝结婚并成为吸血僵尸，承诺只保持二人，不扩散转化。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 1,
+    "scope": 1,
+    "sustain": 5,
+    "range": 2,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "转化后的力量没有量化战绩",
+    "energy": "未见独立能量攻击",
+    "scope": "个体接触与生活范围",
+    "sustain": "长寿不等于战斗不疲劳",
+    "range": "近身及财富联络",
+    "combat": "缺少成熟战斗记录"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "能力的已知边界：具体力量、再生、飞行与免疫均无充分战例；不得套用其他作品规则。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "场景条件：具体力量、再生、飞行与免疫均无充分战例；不得套用其他作品规则。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：解释承诺并接受具体约束。"
+    }
+  },
+  "positive_total": 22.5,
+  "deduction_total": 5.0,
+  "raw_score": 17.5,
+  "rounded_score": 18,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "由翠丝完成转化，获得该作品中的长寿异类生命；依鲜血生活。；具体力量、再生、飞行与免疫均无充分战例；不得套用其他作品规则。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/30.魂飞魄散.txt",
+      "start_line": 539,
+      "end_line": 561,
+      "supports": "与女伯爵区分",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/30.魂飞魄散.txt",
+      "start_line": 2671,
+      "end_line": 3025,
+      "supports": "石棺和馆长关系",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/30.魂飞魄散.txt",
+      "start_line": 5199,
+      "end_line": 5207,
+      "supports": "尚未完整转化",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/30.魂飞魄散.txt",
+      "start_line": 7141,
+      "end_line": 7239,
+      "supports": "转化、婚礼与约定",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

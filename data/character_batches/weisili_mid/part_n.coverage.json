@@ -1,0 +1,109 @@
+[
+  {
+    "path": "卫斯理系列/053寻梦.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "黄堂",
+        "card_id": "weisili_huang_tang",
+        "role": "重要配角",
+        "basis": "调查两起死亡"
+      },
+      {
+        "name": "老蔡",
+        "card_id": "weisili_lao_cai",
+        "role": "重要配角",
+        "basis": "接待与挡客"
+      },
+      {
+        "name": "杨立群",
+        "card_id": "weisili_yang_liqun",
+        "role": "单书主角",
+        "basis": "现代案件或完整旧案角色"
+      },
+      {
+        "name": "刘丽玲",
+        "card_id": "weisili_liu_liling",
+        "role": "单书主角",
+        "basis": "现代案件或完整旧案角色"
+      },
+      {
+        "name": "孔玉贞",
+        "card_id": "weisili_kong_yuzhen",
+        "role": "单书主角",
+        "basis": "现代案件或完整旧案角色"
+      },
+      {
+        "name": "胡协成",
+        "card_id": "weisili_hu_xiecheng",
+        "role": "单书主角",
+        "basis": "现代案件或完整旧案角色"
+      },
+      {
+        "name": "简云",
+        "card_id": "weisili_jian_yun",
+        "role": "单书主角",
+        "basis": "现代案件或完整旧案角色"
+      },
+      {
+        "name": "展大义",
+        "card_id": "weisili_zhan_dayi",
+        "role": "单书主角",
+        "basis": "现代案件或完整旧案角色"
+      },
+      {
+        "name": "翠莲",
+        "card_id": "weisili_cuilian",
+        "role": "反派",
+        "basis": "现代案件或完整旧案角色"
+      },
+      {
+        "name": "王成（寻梦）",
+        "card_id": "weisili_wang_cheng_xunmeng",
+        "role": "反派",
+        "basis": "现代案件或完整旧案角色"
+      },
+      {
+        "name": "梁柏宗",
+        "card_id": "weisili_liang_baizong",
+        "role": "反派",
+        "basis": "现代案件或完整旧案角色"
+      },
+      {
+        "name": "曾祖尧",
+        "card_id": "weisili_zeng_zuyao",
+        "role": "反派",
+        "basis": "现代案件或完整旧案角色"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "李得富、孙姓陪同者",
+        "reason": "地方回忆与查档协助，无独立主角线或跨书重要出场。"
+      },
+      {
+        "name": "四名皮货商人",
+        "reason": "旧案集体受害者，无可分辨的个人行为。"
+      },
+      {
+        "name": "孔父、通话女子及路人证人",
+        "reason": "一次性旁证或亲属，无独立剧情线。"
+      }
+    ],
+    "notes": [
+      "前世与今世以独立人生阶段保存，不把前世罪责自动归到无记忆的今人；孔玉贞转世和谋杀疑点保留不确定。"
+    ]
+  }
+]

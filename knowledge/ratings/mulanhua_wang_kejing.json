@@ -1,0 +1,106 @@
+{
+  "id": "mulanhua_wang_kejing",
+  "name": "王可敬",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "杀死妹妹后被惊象载入辐射禁地，未见尸体；木兰花判断难以生还。",
+    "deployment": "采用被惊象带走前最后明确可行动的形态，保留全案经历；不宣称他已逃出禁地，也不判定无尸体等于可复活。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 3,
+    "range": 4,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "神圣身份来自骗局；枪弹及装备有限，缺少保护时仍会受辐射或跌落伤害。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "把发现矿产和控制当地人变成自己的财富、权势与不可替代地位。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "神圣身份来自骗局；枪弹及装备有限，缺少保护时仍会受辐射或跌落伤害。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 23.0,
+  "deduction_total": 2.0,
+  "raw_score": 21.0,
+  "rounded_score": 21,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "并",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/44猎头禁地.txt",
+      "start_line": 100,
+      "end_line": 126,
+      "supports": "探险履历。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/44猎头禁地.txt",
+      "start_line": 1504,
+      "end_line": 1538,
+      "supports": "借救援假装神圣、控制现场。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/44猎头禁地.txt",
+      "start_line": 1554,
+      "end_line": 1658,
+      "supports": "拒绝离开及围攻指使仍属推断。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/44猎头禁地.txt",
+      "start_line": 2614,
+      "end_line": 2694,
+      "supports": "开枪屠杀、杀妹与惊象结局。",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "追击救援队是否由王可敬直接下令是木兰花推断，后来屠杀为直接行动。",
+    "防护衣和矿物危险按小说设定；不据此宣称现实中普通橡皮衣能防所有辐射。"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "weisili_jinxiu_sisao",
+  "name": "金秀四嫂",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "《洪荒》与儿子黄堂等离开旧生活隐退；疑在多巴湖附近，具体位置与蒙面者身份未证实。",
+    "deployment": "以晚期仍可行动、已经退隐的本人为准；旧部、军队与警务资源不能默认仍受其调遣。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 2,
+    "sustain": 3,
+    "range": 2,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "以实际人体条件计",
+    "energy": "未证实主动能量攻击",
+    "scope": "个体与身边环境",
+    "sustain": "人类体力和休息",
+    "range": "手边工具与沟通距离",
+    "combat": "按该人物实际行动经验计"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "能力的已知边界：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "场景条件：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：可能愤怒追问，也须面对她们自有选择。"
+    }
+  },
+  "positive_total": 22.0,
+  "deduction_total": 3.0,
+  "raw_score": 19.0,
+  "rounded_score": 19,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "水上活动、湖区地形、组织指挥、江湖交涉与实际部属网络。；依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/112新武器.txt",
+      "start_line": 398,
+      "end_line": 410,
+      "supports": "行动规矩",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/112新武器.txt",
+      "start_line": 978,
+      "end_line": 1044,
+      "supports": "退隐与交涉",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/112新武器.txt",
+      "start_line": 1045,
+      "end_line": 1188,
+      "supports": "查船与九鬼井",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/112新武器.txt",
+      "start_line": 1451,
+      "end_line": 1454,
+      "supports": "离开下落",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/112新武器.txt",
+      "start_line": 2608,
+      "end_line": 2623,
+      "supports": "竹菊的离开",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "start_line": 1773,
+      "end_line": 1793,
+      "supports": "主张隐退与亲属边界",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "start_line": 1907,
+      "end_line": 1910,
+      "supports": "抚养黄堂的旧事",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "start_line": 2500,
+      "end_line": 2521,
+      "supports": "自练水性及发现者更正",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "start_line": 2630,
+      "end_line": 2631,
+      "supports": "婚姻与都连旧缘",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "start_line": 2655,
+      "end_line": 2673,
+      "supports": "身份和隐居去向的证据边界",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

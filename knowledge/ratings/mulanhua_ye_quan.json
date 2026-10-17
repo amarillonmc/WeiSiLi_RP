@@ -1,0 +1,110 @@
+{
+  "id": "mulanhua_ye_quan",
+  "name": "叶全",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "被叶安以有毒薄荷酒杀害，尸体一度被认作叶安，最终身份查明。",
+    "deployment": "原作终局已经死亡或失去可行动形态；参战用最后清醒行动形态，保留终局经历，仅作为明确的角色扮演恢复，不宣称原作复活。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 2,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "需信息、服饰与机会；不能改变真实身体，双胞胎身份并不能保证亲人忠诚。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "以化装与合伙谋杀取得珍宝财产，认为亲兄长与少数助手足以维持秘密。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "需信息、服饰与机会；不能改变真实身体，双胞胎身份并不能保证亲人忠诚。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 16.5,
+  "deduction_total": 2.0,
+  "raw_score": 14.5,
+  "rounded_score": 15,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "并",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/52生死碧玉.txt",
+      "start_line": 428,
+      "end_line": 568,
+      "supports": "假高翔窃取玉船的调查。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/52生死碧玉.txt",
+      "start_line": 1524,
+      "end_line": 1604,
+      "supports": "联络及化装能力线索。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/52生死碧玉.txt",
+      "start_line": 2230,
+      "end_line": 2246,
+      "supports": "相貌和分工。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/52生死碧玉.txt",
+      "start_line": 2326,
+      "end_line": 2366,
+      "supports": "助手选择、谋杀与被兄长毒杀，后经供述证实整体经过。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/52生死碧玉.txt",
+      "start_line": 2462,
+      "end_line": 2464,
+      "supports": "供述印证与全案终局。",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

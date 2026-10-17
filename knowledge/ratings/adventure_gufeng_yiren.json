@@ -1,0 +1,91 @@
+{
+  "id": "adventure_gufeng_yiren",
+  "name": "孤峰怪人",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "孤峰木屋中死亡，大鹰把遗体抛入冰川；身份与金属物用途未明。",
+    "deployment": "演绎改编：恢复最后尚能行动的病弱身体并保留终局记忆；具体知识仍按未知处理。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 0,
+    "scope": 0,
+    "sustain": 0,
+    "range": 0,
+    "combat": 0
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 会患病、死亡，没有不死或异常防御证据。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "大鹰是独立生命，不保证服从；未知金属物不能作为已知武器。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "原作疑问必须保留为疑问；不把见面与死亡的先后误作必然杀伤机制。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "大鹰是独立生命，不保证服从；未知金属物不能作为已知武器。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 0.0,
+  "deduction_total": 5.0,
+  "raw_score": -5.0,
+  "rounded_score": -5,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "纸",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "low",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "非人协会系列/04大鹰.txt",
+      "start_line": 633,
+      "end_line": 651,
+      "supports": "脚印与两人死亡的关联及疑问",
+      "kind": "原文"
+    },
+    {
+      "path": "非人协会系列/04大鹰.txt",
+      "start_line": 664,
+      "end_line": 685,
+      "supports": "怪人死亡、遗物与大鹰",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "身份、知识、死亡原因以及金属物用途均未揭示；互动扳机仅为保守接口。"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "adventure_leixue",
+  "name": "雷雪",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "拒绝以死亡换天神许诺，仍保有读心能力及相伴痛苦。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 3,
+    "scope": 2,
+    "sustain": 1,
+    "range": 2,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "精神信息作用，盒子讯息来源外在；不计作物理杀伤能量。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "讯息可能杂乱、移动会干扰并致痛；盒子死亡感受只对适配人脑有效，不是她任意发布的死亡命令。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "知道别人的想法不等于愿意承受所有想法，也不等于知道一切答案。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "讯息可能杂乱、移动会干扰并致痛；盒子死亡感受只对适配人脑有效，不是她任意发布的死亡命令。"
+    },
+    "volatility": {
+      "score": 3,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 18.0,
+  "deduction_total": 8.0,
+  "raw_score": 10.0,
+  "rounded_score": 10,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "纸",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "并",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "亚洲之鹰罗开系列/12解开死结.txt",
+      "start_line": 912,
+      "end_line": 919,
+      "supports": "独立人格及能力",
+      "kind": "原文"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/12解开死结.txt",
+      "start_line": 1218,
+      "end_line": 1255,
+      "supports": "干扰、接触转递和适配边界",
+      "kind": "原文"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/12解开死结.txt",
+      "start_line": 1256,
+      "end_line": 1278,
+      "supports": "整理、解释与终局",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

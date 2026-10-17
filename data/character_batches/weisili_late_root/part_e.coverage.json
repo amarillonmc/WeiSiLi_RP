@@ -1,0 +1,124 @@
+[
+  {
+    "path": "卫斯理系列/122传说.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "元首（传说别馆）",
+        "card_id": "weisili_chuanshuo_head",
+        "role": "单书主角",
+        "basis": "愿望装置与国家危机人物"
+      },
+      {
+        "name": "大元帅（传说别馆）",
+        "card_id": "weisili_chuanshuo_marshal",
+        "role": "关键背景主角",
+        "basis": "愿望装置与国家危机人物"
+      },
+      {
+        "name": "总司令（传说元首内阁）",
+        "card_id": "weisili_chuanshuo_commander",
+        "role": "反派",
+        "basis": "愿望装置与国家危机人物"
+      },
+      {
+        "name": "参谋长（传说元首内阁）",
+        "card_id": "weisili_chuanshuo_chiefstaff",
+        "role": "阶段性反派",
+        "basis": "愿望装置与国家危机人物"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "蓝丝",
+        "card_id": "weisili_lan_si",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "陶启泉",
+        "card_id": "weisili_tao_qiquan",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "温妈妈",
+        "card_id": "weisili_wen_mama",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "神鹰",
+        "card_id": "weisili_shenying",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "戈壁",
+        "card_id": "weisili_ge_bi",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "沙漠",
+        "card_id": "weisili_sha_mo",
+        "role": "重要配角",
+        "basis": "实际参与寻找温宝裕"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "重要配角",
+        "basis": "寻找温宝裕及装置事件的协助者"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "侍卫长",
+        "reason": "一次性关键受害见证者，只有开门与死亡的行动线；原因仍未解，不授予幻境控制或写成已确定谋杀者。"
+      },
+      {
+        "name": "两位部长",
+        "reason": "随同危机交涉，未展示独立主角线或明确个体施害计划。"
+      },
+      {
+        "name": "别馆主管",
+        "reason": "一次性提供建筑旧事的辅助见证者。"
+      },
+      {
+        "name": "各地降头师",
+        "reason": "蓝丝召集的辅助群体，未个体化；飞虫未返和无法探知是能力局限，非敌对证据。"
+      },
+      {
+        "name": "愿望装置与未知制造者",
+        "reason": "装置未显示独立人格，制造者仅推测，不虚构一个无所不能的许愿神。"
+      }
+    ],
+    "notes": [
+      "元首失踪并非证实政变；装置实际使人产生体验，如何影响公共现实仍未解。",
+      "原文中蓝兰、温室裕等异写按上下文识别，不另造人物。"
+    ]
+  }
+]

@@ -1,0 +1,2535 @@
+[
+  {
+    "path": "非人协会系列/01非人协会 序.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "总管",
+        "card_id": "adventure_zongguan",
+        "role": "重要配角",
+        "basis": "持续管理古堡且参与《鱼人》等正文"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "海烈根",
+        "reason": "已故引荐者，仅通过回忆建立协会史，未作为本篇行动主角；其能力未揭示"
+      },
+      {
+        "name": "罗伦斯、林白、阿姆斯特朗",
+        "reason": "背景比较或传闻人物，没有独立行动线"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "非人协会系列/02鱼人.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "范先生",
+        "card_id": "adventure_fan",
+        "role": "主角",
+        "basis": "全程寻找、教育鱼人并处理战争选择"
+      },
+      {
+        "name": "都连加农",
+        "card_id": "adventure_dulian",
+        "role": "主角",
+        "basis": "标题人物与独立伦理选择"
+      },
+      {
+        "name": "总管",
+        "card_id": "adventure_zongguan",
+        "role": "重要配角",
+        "basis": "实地翻译与后勤"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "阿里",
+        "reason": "单书恋爱与生活伙伴，没有跨书行动，非独立主视角"
+      },
+      {
+        "name": "巴奴、摩里、杰勿生、林达、保杰士、雷色慕、辛加基、加曼",
+        "reason": "单书辅助人物；不是独立反派"
+      },
+      {
+        "name": "日本潜艇官兵",
+        "reason": "无可区分个体身份的战时目标，未提供共同人格逻辑"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "非人协会系列/03两生.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "阿尼密",
+        "card_id": "adventure_animi",
+        "role": "主角",
+        "basis": "贯穿两生调查"
+      },
+      {
+        "name": "宝德教授",
+        "card_id": "adventure_baode",
+        "role": "主角",
+        "basis": "两次生命的中心人物"
+      },
+      {
+        "name": "伦诺",
+        "card_id": "adventure_lunnuo",
+        "role": "反派",
+        "basis": "宝德确认带头挥棍的具名施暴者"
+      },
+      {
+        "name": "范先生",
+        "card_id": "adventure_fan",
+        "role": "重要配角",
+        "basis": "协会讨论与资格判断"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "红霞",
+        "reason": "单书重要受害者与关系人物，非独立主视角且无跨书行动"
+      },
+      {
+        "name": "梆克少校（文中亦作葛克）、阿隆",
+        "reason": "单书向导和线索协助者"
+      },
+      {
+        "name": "海烈根",
+        "reason": "背景回忆引荐者"
+      }
+    ],
+    "notes": [
+      "正文对山地群体的贬抑判断不作为本项目的人类学事实。"
+    ]
+  },
+  {
+    "path": "非人协会系列/04大鹰.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "金维",
+        "card_id": "adventure_jinwei",
+        "role": "主角",
+        "basis": "山地调查视角"
+      },
+      {
+        "name": "孤峰大鹰",
+        "card_id": "adventure_daying",
+        "role": "主角/阶段性对立者",
+        "basis": "独立行动的中心异兽"
+      },
+      {
+        "name": "孤峰怪人",
+        "card_id": "adventure_gufeng_yiren",
+        "role": "主角",
+        "basis": "中心生命谜团，身份未解"
+      },
+      {
+        "name": "范先生",
+        "card_id": "adventure_fan",
+        "role": "重要配角",
+        "basis": "协会会议参与"
+      },
+      {
+        "name": "史保",
+        "card_id": "adventure_shibao",
+        "role": "重要配角",
+        "basis": "协会会议参与"
+      },
+      {
+        "name": "阿尼密",
+        "card_id": "adventure_animi",
+        "role": "重要配角",
+        "basis": "追问怪人遗体"
+      },
+      {
+        "name": "卓力克",
+        "card_id": "adventure_zhuolike",
+        "role": "重要配角",
+        "basis": "追问推荐对象"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "木里喇嘛、贡加喇嘛、尼达",
+        "reason": "单书辅助者与被调查人物，没有跨书实际行动"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "非人协会系列/05泥沼火人.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "端纳",
+        "card_id": "adventure_duanna",
+        "role": "主角",
+        "basis": "调查与后果承担"
+      },
+      {
+        "name": "伦伦",
+        "card_id": "adventure_lunlun",
+        "role": "主角",
+        "basis": "关键独立选择决定结局"
+      },
+      {
+        "name": "泥沼火人",
+        "card_id": "adventure_nizhao_huoren",
+        "role": "主角/阶段性对立者",
+        "basis": "电击威胁与亲密关系中心"
+      },
+      {
+        "name": "勃朗医生",
+        "card_id": "adventure_bolang",
+        "role": "阶段性对立者",
+        "basis": "误判致命开枪者，非恶意反派"
+      },
+      {
+        "name": "史保",
+        "card_id": "adventure_shibao",
+        "role": "重要配角",
+        "basis": "讨论异人"
+      },
+      {
+        "name": "范先生",
+        "card_id": "adventure_fan",
+        "role": "重要配角",
+        "basis": "接待伦伦"
+      },
+      {
+        "name": "总管",
+        "card_id": "adventure_zongguan",
+        "role": "重要配角",
+        "basis": "接待"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "祭师、族长、军方官员",
+        "reason": "单书背景与信息角色"
+      },
+      {
+        "name": "未出生的孩子",
+        "reason": "已有发电征兆，尚无独立行为人格；存于伦伦和泥人关系及不确定项"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "非人协会系列/06三千年死人.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卓力克",
+        "card_id": "adventure_zhuolike",
+        "role": "主角",
+        "basis": "遗迹发现者"
+      },
+      {
+        "name": "鲁巴",
+        "card_id": "adventure_luba",
+        "role": "主角",
+        "basis": "遗产与知识的中心人物"
+      },
+      {
+        "name": "史保",
+        "card_id": "adventure_shibao",
+        "role": "重要配角",
+        "basis": "讨论相对论"
+      },
+      {
+        "name": "范先生",
+        "card_id": "adventure_fan",
+        "role": "重要配角",
+        "basis": "质疑证据"
+      },
+      {
+        "name": "阿尼密",
+        "card_id": "adventure_animi",
+        "role": "重要配角",
+        "basis": "协会讨论"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "战场双方未具名人员",
+        "reason": "任务背景，没有可辨个人"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "非人协会系列/07主宰.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "史保",
+        "card_id": "adventure_shibao",
+        "role": "主角",
+        "basis": "植物世界探查者"
+      },
+      {
+        "name": "亚马逊古树",
+        "card_id": "adventure_gushu",
+        "role": "主角/阶段性对立者",
+        "basis": "有独立召唤行为的中心生命"
+      },
+      {
+        "name": "范先生",
+        "card_id": "adventure_fan",
+        "role": "重要配角",
+        "basis": "讨论古树资格"
+      },
+      {
+        "name": "阿尼密",
+        "card_id": "adventure_animi",
+        "role": "重要配角",
+        "basis": "制止争论要求补全经历"
+      },
+      {
+        "name": "端纳",
+        "card_id": "adventure_duanna",
+        "role": "重要配角",
+        "basis": "提出延期和进一步研究"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "拉维兹、赖图",
+        "reason": "单书官僚/研究协助者，不合主角或反派条件"
+      },
+      {
+        "name": "聊斋与子不语所引人物",
+        "reason": "嵌入文学引例，不作为本系列独立行动角色"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "宝娥",
+        "card_id": "adventure_baoe",
+        "role": "反派",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "素拉脱烈",
+        "card_id": "adventure_sulatuolie",
+        "role": "反派",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "黛娜",
+        "card_id": "adventure_daina",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "时间大神",
+        "card_id": "adventure_time_god",
+        "role": "反派",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "花灵",
+        "reason": "单书受害者，未见独立主视角或跨书行动"
+      },
+      {
+        "name": "组织其他杀手",
+        "reason": "未可独立识别的执行者，不虚构姓名"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "亚洲之鹰罗开系列/02妖偶.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "高达",
+        "card_id": "adventure_gaoda",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "黛娜",
+        "card_id": "adventure_daina",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "时间大神",
+        "card_id": "adventure_time_god",
+        "role": "反派",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "水银将军",
+        "card_id": "adventure_shuiyin",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "夏氏兄弟",
+        "card_id": "adventure_xia_brothers",
+        "role": "反派",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "都加连农",
+        "card_id": "adventure_dulian",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "两名携盒女郎",
+        "reason": "被集团欺骗的一次性代理，未获个人身份"
+      },
+      {
+        "name": "复制玩偶",
+        "reason": "受控制的临时工具，未示独立人格，机制记入时间大神卡"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "亚洲之鹰罗开系列/03魔像.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "天使",
+        "card_id": "adventure_tianshi",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "时间大神",
+        "card_id": "adventure_time_god",
+        "role": "反派",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "哥耶三世",
+        "reason": "单书艺术鉴定协助者；与年轻人的哥耶四世不同"
+      },
+      {
+        "name": "天使同族来访者",
+        "reason": "身份未区分的说明者，不按全族建战斗卡"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "亚洲之鹰罗开系列/04怪头.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "卡娅",
+        "card_id": "adventure_kaya",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "黛娜",
+        "card_id": "adventure_daina",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "水银将军",
+        "card_id": "adventure_shuiyin",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "时间大神",
+        "card_id": "adventure_time_god",
+        "role": "反派",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "斯波达星追捕者",
+        "card_id": "adventure_spoda",
+        "role": "阶段性对立者",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "洪保",
+        "reason": "单书收藏家与线索提供者，没有据玩笑认定为杀人反派"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "亚洲之鹰罗开系列/05巨龙.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "燕艳",
+        "card_id": "adventure_yanyan",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "巨龙机械机组",
+        "card_id": "adventure_dragon_crew",
+        "role": "阶段性对立者",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "古代半人半马王及无名武士",
+        "reason": "遗迹回忆中的历史角色，现存叙事没有足够独立行动逻辑"
+      },
+      {
+        "name": "十名被运输女性",
+        "reason": "未区分的历史受害者"
+      }
+    ],
+    "notes": [
+      "巨龙平台是有条件资源，不归罗开或燕艳个人。"
+    ]
+  },
+  {
+    "path": "亚洲之鹰罗开系列/06蛇神.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "安歌人",
+        "card_id": "adventure_angeren",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "高达",
+        "card_id": "adventure_gaoda",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "蜂后",
+        "card_id": "adventure_fenghou",
+        "role": "反派",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "水晶妙人儿",
+        "card_id": "adventure_shuijing",
+        "role": "阶段性对立者",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "勒曼医院",
+        "card_id": "weisili_leman_hospital",
+        "role": "阶段性对立者",
+        "basis": "非常物品交易会背后机构，身份在续书揭示"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "蛇形外星人",
+        "reason": "仅遗留文件说明且早已离去，未证主动对抗"
+      },
+      {
+        "name": "组织无名雇员",
+        "reason": "个体未获独立身份"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "亚洲之鹰罗开系列/07蜂后.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "高达",
+        "card_id": "adventure_gaoda",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "高达复制体",
+        "card_id": "adventure_gaoda_copy",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "蜂后",
+        "card_id": "adventure_fenghou",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "水晶妙人儿",
+        "card_id": "adventure_shuijing",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "勒曼医院",
+        "card_id": "weisili_leman_hospital",
+        "role": "阶段性对立者",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "原体与复制体分开；隐居爱情只属于复制体。"
+    ]
+  },
+  {
+    "path": "亚洲之鹰罗开系列/08火凤.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "高达",
+        "card_id": "adventure_gaoda",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "曲如眉",
+        "card_id": "adventure_qu_rumei",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "八角星恋人",
+        "card_id": "adventure_bajiaoxing_yingzi",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "远",
+        "card_id": "adventure_yuan",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "卡娅",
+        "card_id": "adventure_kaya",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "黛娜",
+        "card_id": "adventure_daina",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "亚洲之鹰罗开系列/09夜光.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "玫瑰",
+        "card_id": "adventure_meigui",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "康维十七世",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "夜光机械人",
+        "card_id": "adventure_night_robot",
+        "role": "阶段性对立者",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "远",
+        "reason": "仅寻找未见，不把提及算实质登场"
+      },
+      {
+        "name": "香港另一玫瑰",
+        "reason": "无法确认同人或独立具体人物，不替原文解谜"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "亚洲之鹰罗开系列/10异人.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "禇上民",
+        "card_id": "adventure_chushangmin",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "哈德",
+        "card_id": "adventure_hade",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "卡娅",
+        "card_id": "adventure_kaya",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "远",
+        "card_id": "adventure_yuan",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "康维十七世",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "阿清",
+        "reason": "重要背景证人和孕育者，单书配角而无自主主线"
+      },
+      {
+        "name": "无名机构人员",
+        "reason": "对立方没有个体可辨身份"
+      }
+    ],
+    "notes": [
+      "水荭此处离开计划与末篇在职之间缺少连续交代。"
+    ]
+  },
+  {
+    "path": "亚洲之鹰罗开系列/11死结.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "安歌人",
+        "card_id": "adventure_angeren",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "雷雪",
+        "card_id": "adventure_leixue",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "康维十七世",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "月球干尸与天神星人",
+        "reason": "前者非行动人物，后者仅留下许诺和设备，无独立可定位人格"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "亚洲之鹰罗开系列/12解开死结.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "雷雪",
+        "card_id": "adventure_leixue",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "安歌人",
+        "card_id": "adventure_angeren",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "康维十七世",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "两个扁平人",
+        "reason": "单书无名协助者，未承担反派或独立主角线"
+      },
+      {
+        "name": "聚会宾客",
+        "reason": "仅场景性出席，不据称号补足个人能力"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "亚洲之鹰罗开系列/13困兽.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "金艾花",
+        "card_id": "adventure_jinaihua",
+        "role": "阶段性对立者",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "云仙",
+        "card_id": "adventure_yunxian",
+        "role": "反派",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "任务执行者",
+        "card_id": "adventure_executors",
+        "role": "反派",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "韩棋手",
+        "reason": "一次性委托者和遭利用的联络者"
+      },
+      {
+        "name": "已离去的宇宙航行者",
+        "reason": "录像背景来源，不能把技术归给每一个未识别成员"
+      }
+    ],
+    "notes": [
+      "云仙是地球人，破坏由执行者和设备完成。"
+    ]
+  },
+  {
+    "path": "亚洲之鹰罗开系列/14游魂.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "布姬",
+        "card_id": "adventure_buji",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "莲子及夏天",
+        "reason": "单书关系与线索人物，未获跨书重要配角资格"
+      },
+      {
+        "name": "狮神及历代祖先",
+        "reason": "未实际找到，解释多为推论，不把设想当已获能力"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "亚洲之鹰罗开系列/15飞焰.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "高达",
+        "card_id": "adventure_gaoda",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "曲如眉",
+        "card_id": "adventure_qu_rumei",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "八角星恋人",
+        "card_id": "adventure_bajiaoxing_yingzi",
+        "role": "主角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "远",
+        "card_id": "adventure_yuan",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "哈德",
+        "card_id": "adventure_hade",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      },
+      {
+        "name": "卡娅",
+        "card_id": "adventure_kaya",
+        "role": "重要配角",
+        "basis": "具有本书实质行动或主线作用"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "原振侠及爱神事件",
+        "reason": "主要作机构问题背景，能力以其主卡另核"
+      }
+    ],
+    "notes": [
+      "救援未明确成功；保留远受罚、影子衰弱、曲如眉赴重生的最后状态。"
+    ]
+  },
+  {
+    "path": "年轻人/01手套.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "奥丽卡公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "中国人",
+        "card_id": "adventure_uncle",
+        "role": "重要配角",
+        "basis": "训练年轻人并主持盗窃考验"
+      },
+      {
+        "name": "玲珑手",
+        "card_id": "adventure_linglong",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "土耳其皇",
+        "card_id": "adventure_turkish",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "哥耶四世",
+        "card_id": "adventure_goya4",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "斋泰维伯爵",
+        "card_id": "adventure_zhaitai",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "苏振民",
+        "card_id": "adventure_suzhenmin",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "阿德巴酋长",
+        "reason": "只作为背景关系被提及，无独立行动线。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "年轻人/02足球.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "奥丽卡公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "中国人",
+        "card_id": "adventure_uncle",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "金刚",
+        "card_id": "adventure_jingang",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "印度老虎",
+        "card_id": "adventure_indian_tiger",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "玲珑手",
+        "card_id": "adventure_linglong",
+        "role": "重要配角",
+        "basis": "跨书协助安排藏身"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "无名研究及服务人员",
+        "reason": "仅承担一次性背景与事务职能。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "年轻人/03宝刀.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "奥丽卡公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "中国人",
+        "card_id": "adventure_uncle",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "哥耶四世",
+        "card_id": "adventure_goya4",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "卢拉酋长",
+        "card_id": "adventure_lula",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "伊通、彭斯",
+        "reason": "一次性交易与线索协助者，无独立主要冲突。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "年轻人/04尺蠖 .txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "奥丽卡公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "中国人",
+        "card_id": "adventure_uncle",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "亨特",
+        "card_id": "adventure_hunter",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "两名纳粹将军",
+        "card_id": "adventure_nazi_generals",
+        "role": "阶段性对立者",
+        "basis": "共同主导军事计划且多次直接对抗"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "印地安战士及服务人员",
+        "reason": "从属部队，没有具独立身份的指挥与选择。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "年轻人/05大宝藏.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "奥丽卡公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "中国人",
+        "card_id": "adventure_uncle",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "土耳其皇",
+        "card_id": "adventure_turkish",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "汉斯",
+        "card_id": "adventure_hans",
+        "role": "反派",
+        "basis": "具有独立目标并推动本书主要事件"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "朱兰、朱丰、丰城造",
+        "reason": "宝藏来源及历史受害者线索；无作为本书独立主角展开的行动线。"
+      },
+      {
+        "name": "奇勒",
+        "reason": "单书钱币鉴定辅助角色。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "年轻人/06神机.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "奥丽卡公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "黑影外星人／第七号",
+        "card_id": "adventure_shenji_group",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "但尼尔",
+        "card_id": "adventure_dannier",
+        "role": "单书主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "谭宝博士",
+        "card_id": "adventure_tanbao",
+        "role": "单书主角",
+        "basis": "以完整调查记录承担内嵌叙事主视角"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "达文博士、萨达及其他遇害科学家",
+        "reason": "原人格是研究与谋杀线索，夺体后行动归黑影生命，不能混为本人能力。"
+      },
+      {
+        "name": "简珍、小谭、索利爵士",
+        "reason": "本书一次性证人与协助调查者，未满足跨书重要配角。"
+      }
+    ],
+    "notes": [
+      "本书原人格与占体生命严格分开；达文的拟议声波武器不能全算已完成。"
+    ]
+  },
+  {
+    "path": "年轻人/07暗算.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "奥丽卡公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "安普女伯爵",
+        "card_id": "adventure_anpu",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "魔界意志",
+        "card_id": "adventure_mojie",
+        "role": "反派",
+        "basis": "具有独立目标并推动本书主要事件"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "女伯爵前夫、模特等",
+        "reason": "作为被控制历史与失踪后果出现，缺独立完整身份行动。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "年轻人/08天敌.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "奥丽卡公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "杜妮",
+        "card_id": "adventure_duni",
+        "role": "单书主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "四名黑衣来客",
+        "card_id": "adventure_black_visitors",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "胡非尔",
+        "card_id": "adventure_hufeier",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "考曼",
+        "card_id": "adventure_kaoman",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "重要配角",
+        "basis": "跨系列联络关系使用共享卡"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "居比、杜良博士",
+        "reason": "一次性求助人与亲属辅助线，无跨书行动证据。"
+      },
+      {
+        "name": "泰来上将",
+        "reason": "仅在机构背景与履历中提及；不与卫系泰丰未经核对合并。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "年轻人/09夜归.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "奥丽卡公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "冯瑞",
+        "card_id": "adventure_feng_rui",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "冯夫人",
+        "card_id": "adventure_feng_furen",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "加加",
+        "card_id": "adventure_jiajia",
+        "role": "单书主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "康明",
+        "card_id": "adventure_kangming",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "病毒",
+        "card_id": "adventure_bingdu",
+        "role": "单书主角",
+        "basis": "完整探墓记录构成本书独立主要叙事"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "女神／女娲形象",
+        "reason": "遗物浮雕与历史解释，没有可独立辨认的当前行动人格；不直接给神话权能。"
+      },
+      {
+        "name": "十七名酋长干尸、无名向导",
+        "reason": "历史遗迹或一次性线索协助者。"
+      },
+      {
+        "name": "齐白",
+        "reason": "回忆提及和评价，没有足以作为本书实际重要登场的直接行动。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "年轻人/10四条金龙.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "奥丽卡公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "中国人",
+        "card_id": "adventure_uncle",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "冯夫人",
+        "card_id": "adventure_feng_furen",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "冯军师",
+        "card_id": "adventure_junshi",
+        "role": "单书主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "焦田",
+        "card_id": "adventure_jiaotian",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "方一甲",
+        "card_id": "adventure_fangyijia",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "乐老爷",
+        "card_id": "adventure_le_laoye",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "黄金屯子受伤来客",
+        "card_id": "adventure_gold_alien",
+        "role": "单书主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "军师娘子",
+        "card_id": "adventure_junshi_wife",
+        "role": "重要配角",
+        "basis": "年轻人回忆与卫134有独立救人、迁徙行动，采用综合卡"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "冯念慈、乐老四",
+        "reason": "一次性家属接待与总管辅助，无跨书独立重要行动。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "年轻人/11消失女神.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "奥丽卡公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "冯夫人",
+        "card_id": "adventure_feng_furen",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "井上恭二",
+        "card_id": "adventure_inoue",
+        "role": "阶段性对立者",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "川崎信子",
+        "card_id": "adventure_nobuko",
+        "role": "单书主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "山水",
+        "card_id": "adventure_shanshui",
+        "role": "单书主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "黎文祥",
+        "card_id": "adventure_liwenxiang",
+        "role": "反派",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "青龙",
+        "card_id": "yuanzhenxia_qinglong",
+        "role": "重要配角",
+        "basis": "后期洞居、救助少年及放下寻人的选择补入原振侠批"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "阮山羊博士",
+        "reason": "一次性精神研究辅助者。"
+      },
+      {
+        "name": "胡非尔、考曼",
+        "reason": "本书相关回想不足以判为新实质登场。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "年轻人/12离魂奇遇.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "奥丽卡公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "神仙手",
+        "card_id": "adventure_linglong",
+        "role": "重要配角",
+        "basis": "明确提到同一盗窃失败旧事，按玲珑手异称归并"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "戈壁",
+        "card_id": "weisili_ge_bi",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "沙漠",
+        "card_id": "weisili_sha_mo",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "尚皮亚博士、无名三副",
+        "reason": "一次性技术鉴定与发现者；无跨书重要行动。"
+      },
+      {
+        "name": "关闭危险通道者",
+        "reason": "没有进一步可辨个人身份，不能把入口效应当作个人超能力。"
+      }
+    ],
+    "notes": [
+      "玲珑手／神仙手手掌描写存在不一致，见主卡不确定项。"
+    ]
+  },
+  {
+    "path": "年轻人/13神话世界.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "年轻人",
+        "card_id": "adventure_young",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "奥丽卡公主",
+        "card_id": "adventure_princess",
+        "role": "主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "冯瑞",
+        "card_id": "adventure_feng_rui",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "韦先生",
+        "card_id": "adventure_wei_neighbor",
+        "role": "单书主角",
+        "basis": "独立开端视角与邻居观察"
+      },
+      {
+        "name": "雪伦克丝",
+        "card_id": "adventure_syrinx",
+        "role": "单书主角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "潘",
+        "card_id": "adventure_pan",
+        "role": "反派",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "胡说",
+        "card_id": "weisili_hu_shuo",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      },
+      {
+        "name": "黄堂",
+        "card_id": "weisili_huang_tang",
+        "role": "重要配角",
+        "basis": "具有独立目标并推动本书主要事件"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "赫拉、宙斯等",
+        "reason": "出现在传说、推想和威慑话语中，不能当作已证实亲自出场或全部神话能力。"
+      },
+      {
+        "name": "其他未具姓名女神",
+        "reason": "群体遭遇背景，未展开独立人格与主要行动。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "浪子高达系列/学美人.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "高达",
+        "card_id": "adventure_gaoda",
+        "role": "主角",
+        "basis": "全书核心行动视角"
+      },
+      {
+        "name": "杜雪",
+        "card_id": "adventure_du_xue",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "时重池",
+        "card_id": "adventure_shi_lushi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "费经理",
+        "card_id": "adventure_fei",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "莫教授",
+        "card_id": "adventure_mo",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "黎探长",
+        "card_id": "adventure_li_tanzhang",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "妮娜",
+        "card_id": "adventure_nina",
+        "role": "阶段性对立者",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "金康",
+        "card_id": "adventure_jinkang",
+        "role": "阶段性对立者",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "蝎子老大",
+        "card_id": "adventure_xiezi",
+        "role": "反派",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "凤屏",
+        "card_id": "adventure_fengping",
+        "role": "阶段性对立者",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "钟宝玲",
+        "card_id": "adventure_baoling",
+        "role": "单书主角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "无名法国寡妇、小吧女及普通手下",
+        "reason": "一次性关系、受害者或从属执行者，无独立主要行动线。"
+      }
+    ],
+    "notes": [
+      "文件名为“学美人”，正文题为“血美人”，保留源文件名作证据定位。"
+    ]
+  },
+  {
+    "path": "浪子高达系列/水晶艳女.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "高达",
+        "card_id": "adventure_gaoda",
+        "role": "主角",
+        "basis": "全书核心行动视角"
+      },
+      {
+        "name": "杜雪",
+        "card_id": "adventure_du_xue",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "克鲁斯",
+        "card_id": "adventure_kelusi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "时重池",
+        "card_id": "adventure_shi_lushi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "费经理",
+        "card_id": "adventure_fei",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "莫教授",
+        "card_id": "adventure_mo",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "阿发",
+        "card_id": "adventure_afa",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "韦松石",
+        "card_id": "adventure_wei_songshi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "黎探长",
+        "card_id": "adventure_li_tanzhang",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "水晶",
+        "card_id": "adventure_shuijing_gaoda",
+        "role": "单书主角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "蔓玲",
+        "card_id": "adventure_manling",
+        "role": "反派",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "许芬芬",
+        "card_id": "adventure_xu_fenfen",
+        "role": "单书主角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "混世魔王",
+        "reason": "犯罪网络上层的背景名号，本文直接行动责任由蔓玲支部承担，无可独立复核的本人动作与终局。"
+      },
+      {
+        "name": "无名女侍、枪手",
+        "reason": "从属执行者，没有个体化主要选择。"
+      }
+    ],
+    "notes": [
+      "水晶与罗开系列水晶妙人儿不是同一人。"
+    ]
+  },
+  {
+    "path": "浪子高达系列/珍珠荡妇.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "高达",
+        "card_id": "adventure_gaoda",
+        "role": "主角",
+        "basis": "全书核心行动视角"
+      },
+      {
+        "name": "杜雪",
+        "card_id": "adventure_du_xue",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "克鲁斯",
+        "card_id": "adventure_kelusi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "时重池",
+        "card_id": "adventure_shi_lushi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "费经理",
+        "card_id": "adventure_fei",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "莫教授",
+        "card_id": "adventure_mo",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "阿发",
+        "card_id": "adventure_afa",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "万夹",
+        "card_id": "adventure_wanjia",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "金手勤",
+        "card_id": "adventure_jinshouqin",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "韦松石",
+        "card_id": "adventure_wei_songshi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "黎探长",
+        "card_id": "adventure_li_tanzhang",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "白美玉",
+        "card_id": "adventure_bai_meiyu",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "雅丽",
+        "card_id": "adventure_yali",
+        "role": "阶段性对立者",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "甘夫人",
+        "card_id": "adventure_gan_furen",
+        "role": "单书主角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "鲍勃",
+        "reason": "一次性航海者、被牵连的丈夫与核实照片的证人；无独立主要行动目标。"
+      },
+      {
+        "name": "夏威夷黑鲨",
+        "reason": "只作为拟议合作人与竞争背景提及，未参与已完成行动。"
+      },
+      {
+        "name": "法兰克",
+        "reason": "尾声单书求爱者与误会对象，未形成独立主要反派线。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "浪子高达系列/盗尸艳遇.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "高达",
+        "card_id": "adventure_gaoda",
+        "role": "主角",
+        "basis": "全书核心行动视角"
+      },
+      {
+        "name": "杜雪",
+        "card_id": "adventure_du_xue",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "克鲁斯",
+        "card_id": "adventure_kelusi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "时重池",
+        "card_id": "adventure_shi_lushi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "费经理",
+        "card_id": "adventure_fei",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "莫教授",
+        "card_id": "adventure_mo",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "阿发",
+        "card_id": "adventure_afa",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "万夹",
+        "card_id": "adventure_wanjia",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "金手勤",
+        "card_id": "adventure_jinshouqin",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "韦松石",
+        "card_id": "adventure_wei_songshi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "黎探长",
+        "card_id": "adventure_li_tanzhang",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "紫妮",
+        "card_id": "adventure_zini",
+        "role": "阶段性对立者",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "韦金凤",
+        "card_id": "adventure_wei_jinfeng",
+        "role": "阶段性对立者",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "蓓莉",
+        "card_id": "adventure_beili",
+        "role": "阶段性对立者",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "孔连德",
+        "card_id": "adventure_kongliande",
+        "role": "反派",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "韦寿祺",
+        "reason": "受害者与财产秘密来源，无在本书完整展开的独立行动视角。"
+      },
+      {
+        "name": "孔连德两名同伙",
+        "reason": "无名从属共犯，其劫杀行动与判决记入孔连德证据，未创个人姓名。"
+      },
+      {
+        "name": "小冰",
+        "reason": "末尾一次性按摩女郎，不是跨书重要人物。"
+      }
+    ],
+    "notes": [
+      "“章金凤”按同一场景与身份判为韦金凤异写。"
+    ]
+  },
+  {
+    "path": "浪子高达系列/红粉猫.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "高达",
+        "card_id": "adventure_gaoda",
+        "role": "主角",
+        "basis": "全书核心行动视角"
+      },
+      {
+        "name": "杜雪",
+        "card_id": "adventure_du_xue",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "克鲁斯",
+        "card_id": "adventure_kelusi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "时重池",
+        "card_id": "adventure_shi_lushi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "费经理",
+        "card_id": "adventure_fei",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "莫教授",
+        "card_id": "adventure_mo",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "阿发",
+        "card_id": "adventure_afa",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "万夹",
+        "card_id": "adventure_wanjia",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "韦松石",
+        "card_id": "adventure_wei_songshi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "凯德琳",
+        "card_id": "adventure_kaidelin",
+        "role": "单书主角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "爱嘉",
+        "card_id": "adventure_aijia",
+        "role": "单书主角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "你赛大王",
+        "card_id": "adventure_nisai",
+        "role": "反派",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "铁汉保罗",
+        "card_id": "adventure_paoluo",
+        "role": "反派",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "庞帝",
+        "card_id": "adventure_pangdi",
+        "role": "反派",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "阿伦",
+        "reason": "单书忠仆与接洽人，女儿身份使其有具体联系，但无跨书重要行动。"
+      },
+      {
+        "name": "阿达再老国王",
+        "reason": "赌约与病故的历史、家庭背景。"
+      },
+      {
+        "name": "澳洲私家侦探铁汉",
+        "reason": "仅由你赛回述的受害者，不能与保罗同外号合并。"
+      },
+      {
+        "name": "无名陪侍与警卫",
+        "reason": "未形成独立身份行动线。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "浪子高达系列/金球红唇.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "高达",
+        "card_id": "adventure_gaoda",
+        "role": "主角",
+        "basis": "全书核心行动视角"
+      },
+      {
+        "name": "杜雪",
+        "card_id": "adventure_du_xue",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "克鲁斯",
+        "card_id": "adventure_kelusi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "时重池",
+        "card_id": "adventure_shi_lushi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "费经理",
+        "card_id": "adventure_fei",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "阿发",
+        "card_id": "adventure_afa",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "万夹",
+        "card_id": "adventure_wanjia",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "韦松石",
+        "card_id": "adventure_wei_songshi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "黎探长",
+        "card_id": "adventure_li_tanzhang",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "贝茜",
+        "card_id": "adventure_beixi",
+        "role": "阶段性对立者",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "芳婷",
+        "card_id": "adventure_fangting",
+        "role": "单书主角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "其余五名富家女",
+        "reason": "共同参与行动但没有稳定姓名和独立主要决定，合同行动条件记于贝茜与芳婷卡。"
+      },
+      {
+        "name": "伊莎",
+        "reason": "赌约对手，只通过转述及结果出现；没有展开可独立评级的主要行动。"
+      },
+      {
+        "name": "邮船船员、码头人员",
+        "reason": "单书工作与警戒辅助身份。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "浪子高达系列/微晶之密.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "高达",
+        "card_id": "adventure_gaoda",
+        "role": "主角",
+        "basis": "全书核心行动视角"
+      },
+      {
+        "name": "时重池",
+        "card_id": "adventure_shi_lushi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "费经理",
+        "card_id": "adventure_fei",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "莫教授",
+        "card_id": "adventure_mo",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "阿发",
+        "card_id": "adventure_afa",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "万夹",
+        "card_id": "adventure_wanjia",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "金手勤",
+        "card_id": "adventure_jinshouqin",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "韦松石",
+        "card_id": "adventure_wei_songshi",
+        "role": "重要配角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "希伯德",
+        "card_id": "adventure_xibode",
+        "role": "单书主角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "妮莎亚",
+        "card_id": "adventure_nishaya",
+        "role": "单书主角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "琼妮",
+        "card_id": "adventure_qiongni",
+        "role": "单书主角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "陈香",
+        "card_id": "adventure_chenxiang",
+        "role": "反派",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "大脚哈利",
+        "card_id": "adventure_hali",
+        "role": "反派",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "光头罗夫",
+        "card_id": "adventure_luofu",
+        "role": "反派",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "华特医生",
+        "card_id": "adventure_huate",
+        "role": "阶段性对立者",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "基地主持人",
+        "card_id": "adventure_micro_director",
+        "role": "阶段性对立者",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "银衣女官",
+        "card_id": "adventure_silver_officer",
+        "role": "反派",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "白美玉",
+        "card_id": "adventure_bai_meiyu",
+        "role": "重要配角",
+        "basis": "陈香转述提供资料的实际背景，身份由高达辨认"
+      },
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "重要配角",
+        "basis": "末尾电话联络，复用主卡"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "真正罗玛丽",
+        "reason": "已于飞机事故中死亡的背景人物，本文行动全是陈香冒名。"
+      },
+      {
+        "name": "两名假母女登山队员",
+        "reason": "被强制利用并遥控杀害的无名受害者，不混入妮莎亚、琼妮身份。"
+      },
+      {
+        "name": "永恒之星大首领",
+        "reason": "只作为女官授权来源提及，未有本体登场。"
+      },
+      {
+        "name": "厉大猷、胡说",
+        "reason": "解释或联络背景的提及，不据此算本书完整行动。"
+      }
+    ],
+    "notes": [
+      "文件名“微晶之密”、正文“微晶之秘”保留差异；芯片资料与独立可用设备分开。"
+    ]
+  },
+  {
+    "path": "浪子高达系列/蛇王石.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "高达",
+        "card_id": "adventure_gaoda",
+        "role": "主角",
+        "basis": "全书核心行动视角"
+      },
+      {
+        "name": "钱晋福",
+        "card_id": "adventure_qianjinfu",
+        "role": "单书主角",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "曹万盛",
+        "card_id": "adventure_caowansheng",
+        "role": "反派",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      },
+      {
+        "name": "渡边次郎",
+        "card_id": "adventure_watanabe",
+        "role": "反派",
+        "basis": "本书有实际行动，跨书使用统一综合卡"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "克莉丝汀·狄克",
+        "reason": "现存部分只介绍酒会主人、传闻财富与邀请，未实际会面或显示反派行为；不靠传闻硬造能力。"
+      },
+      {
+        "name": "郑姓股东",
+        "reason": "诈赌纠纷的单书调停人。"
+      },
+      {
+        "name": "金色小蛇",
+        "reason": "仅见照片转述，活物真实性、人格与能力均未确认。"
+      },
+      {
+        "name": "无名日本播报者、保镖和女侍",
+        "reason": "从属执行者，未展开独立身份。"
+      }
+    ],
+    "notes": [
+      "正文仅331行，停在赴宴准备；已遍历现存全部文本，主线缺损明确，不补写印度结局。"
+    ]
+  }
+]

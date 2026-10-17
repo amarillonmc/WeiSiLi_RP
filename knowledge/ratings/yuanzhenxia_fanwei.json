@@ -1,0 +1,110 @@
+{
+  "id": "yuanzhenxia_fanwei",
+  "name": "范围",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "脑能力和智能遭到严重破坏，失去控制电脑的力量，在医院受照料。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 1,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "以实际人体条件计",
+    "energy": "未证实主动能量攻击",
+    "scope": "个体与身边环境",
+    "sustain": "人类体力和休息",
+    "range": "手边工具与沟通距离",
+    "combat": "按该人物实际行动经验计"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "能力的已知边界：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "场景条件：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：在能理解的范围回应，不能假装恢复全部认知。"
+    }
+  },
+  "positive_total": 10.5,
+  "deduction_total": 3.0,
+  "raw_score": 7.5,
+  "rounded_score": 8,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "历史上擅犯罪与脑能控制，但终局这些高阶能力已失效；常态仅保留身体行动与受照护条件下的有限交流。；依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。",
+    "tier": "纸",
+    "uncontrolled": "历史巅峰可借装置控制核系统并对抗爱神；终局已丧失，不是当前理论战力或被动触发。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/16.大犯罪者.txt",
+      "start_line": 2,
+      "end_line": 17,
+      "supports": "外形",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/16.大犯罪者.txt",
+      "start_line": 3270,
+      "end_line": 3284,
+      "supports": "核系统威胁",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/16.大犯罪者.txt",
+      "start_line": 5583,
+      "end_line": 5615,
+      "supports": "实验身世",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/16.大犯罪者.txt",
+      "start_line": 5819,
+      "end_line": 5859,
+      "supports": "借装置放大及外援",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/16.大犯罪者.txt",
+      "start_line": 5885,
+      "end_line": 5937,
+      "supports": "能力毁损与终局",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

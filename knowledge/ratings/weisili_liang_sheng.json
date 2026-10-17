@@ -1,0 +1,170 @@
+{
+  "id": "weisili_liang_sheng",
+  "name": "亮声",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "《只限老友》率联合成员调查并清除思想仪相关危险，个人仍活动",
+    "deployment": "《只限老友》率联合成员调查并清除思想仪相关危险，个人仍活动。仅携带卡中明确列出的随身装备；朋友、机构与失去的装置均需另行取得支持。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 3,
+    "scope": 2,
+    "sustain": 3,
+    "range": 3,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "评价其已证实的技术操作和现场组织，联队成员抬巨石不算他的个人肌力。；该项仅评价本卡机制在对应维度上的作用。",
+    "energy": "评价其已证实的技术操作和现场组织，联队成员抬巨石不算他的个人肌力。；该项仅评价本卡机制在对应维度上的作用。",
+    "scope": "评价其已证实的技术操作和现场组织，联队成员抬巨石不算他的个人肌力。；该项仅评价本卡机制在对应维度上的作用。",
+    "sustain": "评价其已证实的技术操作和现场组织，联队成员抬巨石不算他的个人肌力。；该项仅评价本卡机制在对应维度上的作用。",
+    "range": "评价其已证实的技术操作和现场组织，联队成员抬巨石不算他的个人肌力。；该项仅评价本卡机制在对应维度上的作用。",
+    "combat": "评价其已证实的技术操作和现场组织，联队成员抬巨石不算他的个人肌力。；该项仅评价本卡机制在对应维度上的作用。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 28.0,
+  "deduction_total": 5.0,
+  "raw_score": 23.0,
+  "rounded_score": 23,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "并",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "强",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/129本性难移.txt",
+      "start_line": 2566,
+      "end_line": 2577,
+      "supports": "对人性研究限制的承认",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/145只限老友.txt",
+      "start_line": 1100,
+      "end_line": 1128,
+      "supports": "联队、复制体与成员抬石的具体归属",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/145只限老友.txt",
+      "start_line": 1143,
+      "end_line": 1167,
+      "supports": "调查思想仪及主动让地球朋友参与",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 1343,
+      "end_line": 1414,
+      "supports": "亮声接待、设施记录与身体年轻不等于意识延寿",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 1623,
+      "end_line": 1637,
+      "supports": "生命配额为小说技术解释，研究有限且调整繁复",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 2699,
+      "end_line": 2735,
+      "supports": "算出三句话余量、可触发但不能指定其思想内容",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/125成精变人.txt",
+      "start_line": 2531,
+      "end_line": 2575,
+      "supports": "强光导致暂时失明，外星身份和降头能力均未免疫",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/125成精变人.txt",
+      "start_line": 2674,
+      "end_line": 2686,
+      "supports": "三日后视力恢复、亮声仪器失效、神鹰成人不再能飞",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/127移魂怪物.txt",
+      "start_line": 2441,
+      "end_line": 2475,
+      "supports": "工作考验、做人须限制脑能力及曾有人术前逃走",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/127移魂怪物.txt",
+      "start_line": 2613,
+      "end_line": 2658,
+      "supports": "462名已受限人类无旧记忆，亮声也须抗拒身体欲望",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/129本性难移.txt",
+      "start_line": 2549,
+      "end_line": 2576,
+      "supports": "主动说明本性研究困难，非随时可改人性",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/131另类复制.txt",
+      "start_line": 2790,
+      "end_line": 2795,
+      "supports": "方法缺陷或故意限制未定",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/131另类复制.txt",
+      "start_line": 3008,
+      "end_line": 3069,
+      "supports": "风险态度与推理纠正",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "数值评级为项目分析，原文没有相应战斗数值。",
+    "114的生命配额是小说内部理论；医院承认研究有限，不能改写任意人的整段命运。",
+    "125使用的那副探测仪在强光后完全失效，不能作为终局常驻装备；他明确做不到鹰变人的方法。"
+  ]
+}

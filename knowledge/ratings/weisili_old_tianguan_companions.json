@@ -1,0 +1,127 @@
+{
+  "id": "weisili_old_tianguan_companions",
+  "name": "前代十二天官的同门（除龙天官）",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "前代在蓝家峒终老并因齐心蛊共同死亡；部署恢复所选成员最后可行动形态，保留终局悔悟",
+    "deployment": "选择一名成员按其有证据的本领行动，仍保留齐心蛊联系；不能一人同时具有全部同门外形和绝技。集体仪式必须另行满足十二人条件。"
+  },
+  "positive": {
+    "physical": 4,
+    "energy": 4,
+    "scope": 3,
+    "sustain": 4,
+    "range": 3,
+    "combat": 7
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "前代武术、条件蛊术与集体仪式，枪弹仍有威胁；不将外星帮助或未确认天气归作单人输出；该项仅评价本卡机制在对应维度上的作用。",
+    "energy": "前代武术、条件蛊术与集体仪式，枪弹仍有威胁；不将外星帮助或未确认天气归作单人输出；该项仅评价本卡机制在对应维度上的作用。",
+    "scope": "前代武术、条件蛊术与集体仪式，枪弹仍有威胁；不将外星帮助或未确认天气归作单人输出；该项仅评价本卡机制在对应维度上的作用。",
+    "sustain": "前代武术、条件蛊术与集体仪式，枪弹仍有威胁；不将外星帮助或未确认天气归作单人输出；该项仅评价本卡机制在对应维度上的作用。",
+    "range": "前代武术、条件蛊术与集体仪式，枪弹仍有威胁；不将外星帮助或未确认天气归作单人输出；该项仅评价本卡机制在对应维度上的作用。",
+    "combat": "前代武术、条件蛊术与集体仪式，枪弹仍有威胁；不将外星帮助或未确认天气归作单人输出；该项仅评价本卡机制在对应维度上的作用。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 41.0,
+  "deduction_total": 8.0,
+  "raw_score": 33.0,
+  "rounded_score": 33,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "强",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/084拼命.txt",
+      "start_line": 547,
+      "end_line": 596,
+      "supports": "旧门滥杀、隐居悔过与齐心蛊",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/090大秘密.txt",
+      "start_line": 2537,
+      "end_line": 2545,
+      "supports": "牛天官身体与饮酒记录",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/090大秘密.txt",
+      "start_line": 2600,
+      "end_line": 2625,
+      "supports": "三名女子的明确不同发言",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/090大秘密.txt",
+      "start_line": 2737,
+      "end_line": 2750,
+      "supports": "攀壁及集体规则",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/090大秘密.txt",
+      "start_line": 2841,
+      "end_line": 2925,
+      "supports": "天象下脱险与重伤隐居",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/091祸根.txt",
+      "start_line": 337,
+      "end_line": 395,
+      "supports": "集体施术与异星回应",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/091祸根.txt",
+      "start_line": 487,
+      "end_line": 501,
+      "supports": "劝告与政治影响只属推测",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "数值评级为项目分析，原文没有相应战斗数值。",
+    "群体只涵盖前代除龙天官外未全数可分的十一人；长脸、细腰、圆脸等描述不强配生肖姓名。"
+  ]
+}

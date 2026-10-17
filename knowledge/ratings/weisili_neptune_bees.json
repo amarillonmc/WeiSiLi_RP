@@ -1,0 +1,103 @@
+{
+  "id": "weisili_neptune_bees",
+  "name": "异变巨蜂群",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "向高空飞去，是否抵达海王星或生存均未确认。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 0,
+    "scope": 3,
+    "sustain": 4,
+    "range": 3,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "巨蜂刺击造成致命后果，蜂云可妨碍飞机；数量和作用对象受实际群体限制。 异变蜂体不是普通人体；未证实对所有武器、真空及极温免疫。",
+    "energy": "没有独立能量束；依靠蜂体、刺击和群体接触。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "有异常高空活动表现，最终生存条件及迁移极限未知。",
+    "range": "没有受人指挥的证据；具体总数和生存上限未明，不能无限繁殖或保证任何目标同化。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "依非人生命本能维持群体活动并趋向原始生命来源。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "没有受人指挥的证据；具体总数和生存上限未明，不能无限繁殖或保证任何目标同化。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 26.0,
+  "deduction_total": 2.0,
+  "raw_score": 24.0,
+  "rounded_score": 24,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "凶",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "凶",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/007蜂云.txt",
+      "start_line": 1813,
+      "end_line": 1851,
+      "supports": "异变机制是假说及已发生杀伤",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/007蜂云.txt",
+      "start_line": 1921,
+      "end_line": 1931,
+      "supports": "空军照片",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/007蜂云.txt",
+      "start_line": 3773,
+      "end_line": 3781,
+      "supports": "蜂云与高空活动",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/007蜂云.txt",
+      "start_line": 3808,
+      "end_line": 3832,
+      "supports": "趋向来源及终局未知",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

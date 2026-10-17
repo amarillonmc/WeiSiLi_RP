@@ -1,0 +1,224 @@
+{
+  "id": "weisili_bai_su",
+  "name": "白素",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "《死去活来》仍参与非人协会讨论；《只限老友》末与卫斯理共同考虑新的生活可能",
+    "deployment": "《死去活来》仍参与非人协会讨论；《只限老友》末与卫斯理共同考虑新的生活可能。仅携带卡中明确列出的随身装备；朋友、机构与失去的装置均需另行取得支持。"
+  },
+  "positive": {
+    "physical": 4,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 4,
+    "range": 3,
+    "combat": 8
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "受过训练的人体近战、临时武器及可取得的常规枪械；不能据技巧宣称能摧毁建筑。",
+    "energy": "本卡未把接触到的外星技术或他人的能力计入个人能量输出。",
+    "scope": "按能直接作用的人体、局部物件或现场计分，社会势力不等于攻击面积。",
+    "sustain": "按其身体、训练和现场状态行动；需要休息、治疗与补给，不编造无限续航或精确时长。",
+    "range": "近身与常规工具的有限距离；没有无条件远程法术。",
+    "combat": "根据正文中的实战技巧与现场判断作项目分析。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 32.5,
+  "deduction_total": 3.0,
+  "raw_score": 29.5,
+  "rounded_score": 30,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "强",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/002卫斯理与白素.txt",
+      "start_line": 1735,
+      "end_line": 1748,
+      "supports": "以财富垫脚脱险并确立与卫斯理关系",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/040贝壳.txt",
+      "start_line": 2185,
+      "end_line": 2195,
+      "supports": "尊重万良生作为海螺生活的选择",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/135闭关开关.txt",
+      "start_line": 941,
+      "end_line": 946,
+      "supports": "利用合作关系阻断汤达旦资金",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/144死去活来.txt",
+      "start_line": 1378,
+      "end_line": 1384,
+      "supports": "非人协会中的独立判断",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/037创造.txt",
+      "start_line": 1335,
+      "end_line": 1348,
+      "supports": "从行为识破说法",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/037创造.txt",
+      "start_line": 1450,
+      "end_line": 1479,
+      "supports": "指出好人范本的伦理盲点",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/039老猫.txt",
+      "start_line": 2403,
+      "end_line": 2443,
+      "supports": "已有工潮与七日电力协调",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/050木炭.txt",
+      "start_line": 740,
+      "end_line": 828,
+      "supports": "江湖信用与认可受教训的偏向",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/081错手.txt",
+      "start_line": 640,
+      "end_line": 693,
+      "supports": "为父亲赌局收买船长及与卫的分歧",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/082真相.txt",
+      "start_line": 646,
+      "end_line": 654,
+      "supports": "得知后果后承诺帮助补偿",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/099运气.txt",
+      "start_line": 2288,
+      "end_line": 2292,
+      "supports": "反对在小仙私居安装偷拍器，明确无权干涉",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 2400,
+      "end_line": 2459,
+      "supports": "化装年轻白人女侍、发现暗室并与卫协作制造假资料",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 2591,
+      "end_line": 2622,
+      "supports": "借热水突袭、用冰插制约双性特工",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/127移魂怪物.txt",
+      "start_line": 420,
+      "end_line": 429,
+      "supports": "意识到结论固化阻碍发现疑点，要求放下前案定论",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/131另类复制.txt",
+      "start_line": 3465,
+      "end_line": 3475,
+      "supports": "人的身份及母女关系",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/117双程.txt",
+      "start_line": 2753,
+      "end_line": 2754,
+      "supports": "六岁四巧堂手语来源",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "start_line": 779,
+      "end_line": 795,
+      "supports": "小石子伤牙",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/120卖命.txt",
+      "start_line": 2611,
+      "end_line": 2625,
+      "supports": "意见、委员会与会员身份",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/121考验.txt",
+      "start_line": 120,
+      "end_line": 122,
+      "supports": "当前新会员身份",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/121考验.txt",
+      "start_line": 200,
+      "end_line": 222,
+      "supports": "研究尚未成功",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/120卖命.txt",
+      "start_line": 2685,
+      "end_line": 2690,
+      "supports": "水同时承认卫与白保留部分意志",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "数值评级为项目分析，原文没有相应战斗数值。"
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "id": "mulanhua_yun_sifeng",
+  "name": "云四风",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料各书终局经历",
+    "canonical_endpoint": "与穆秀珍结婚并在40救出真妻；58经历兄长死亡并保全企业，卫100仍与穆共同活动、采用新飞机图样，未写死亡。",
+    "deployment": "保留终局经历；以最后已证实的可行动状态登场，未随身拥有原文未说明的器材。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 0,
+    "scope": 2,
+    "sustain": 3,
+    "range": 3,
+    "combat": 7
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "熟练武术与个人武装局部毁伤，无超人耐久。",
+    "energy": "无人体能量攻击。",
+    "scope": "实际爆炸物或装备只计局部场景，企业影响不算范围。",
+    "sustain": "受训练但抢修会疲劳，设备有电力氧气等限制。",
+    "range": "来福枪等有实际远程战绩，需要瞄具和射位。",
+    "combat": "多次配合、脱困、射击救援，仍有被击昏和受骗经历。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "无另行证实且应重复扣分的能力性自限；普通人能力低已计入正向分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "未把一般生存环境需求另算特殊限制。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "无证据表明拥有随机失控的主动战斗能力。"
+    }
+  },
+  "positive_total": 29.5,
+  "deduction_total": 0.0,
+  "raw_score": 29.5,
+  "rounded_score": 30,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "原文未显示改写世界规则或叙事层的可控权柄；异常事件与知情不等同概念干涉。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "工程设计、企业经营、武术枪械、多种驾驶与潜水设备操作；每项依具体工具和知识。",
+    "tier": "强",
+    "uncontrolled": "未展示可归属于本人、可反复发动的额外不可控上限。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/21旋风神偷.txt",
+      "start_line": 2140,
+      "end_line": 2196,
+      "supports": "初始性格与受麻",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/21旋风神偷.txt",
+      "start_line": 2270,
+      "end_line": 2332,
+      "supports": "假血、藏刀及救穆",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/21旋风神偷.txt",
+      "start_line": 2730,
+      "end_line": 2756,
+      "supports": "飞行器与企业",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/22天外恩仇.txt",
+      "start_line": 2342,
+      "end_line": 2390,
+      "supports": "修水下控制疲劳",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/22天外恩仇.txt",
+      "start_line": 2680,
+      "end_line": 2714,
+      "supports": "不懂炼油与尊重纪念",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/23大破暗杀党.txt",
+      "start_line": 2388,
+      "end_line": 2476,
+      "supports": "传话开铐、突围及配合警方",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/34断头美人鱼.txt",
+      "start_line": 340,
+      "end_line": 402,
+      "supports": "受击昏迷与开锁",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/36无敌凶手.txt",
+      "start_line": 1774,
+      "end_line": 1914,
+      "supports": "工程时间与装备条件",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/38无价奇石.txt",
+      "start_line": 82,
+      "end_line": 104,
+      "supports": "保护职员",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/39失踪新娘.txt",
+      "start_line": 208,
+      "end_line": 234,
+      "supports": "婚姻",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/40怪新郎.txt",
+      "start_line": 1218,
+      "end_line": 1318,
+      "supports": "识假与记忆试探",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/40怪新郎.txt",
+      "start_line": 2216,
+      "end_line": 2340,
+      "supports": "传爆炸香烟救妻",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "start_line": 2720,
+      "end_line": 2732,
+      "supports": "来福枪救人质",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/58三尸同行.txt",
+      "start_line": 1904,
+      "end_line": 1922,
+      "supports": "股票骗局与经济知识",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 1776,
+      "end_line": 1788,
+      "supports": "实际来访",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 1871,
+      "end_line": 1951,
+      "supports": "伦三德图样与人才态度",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

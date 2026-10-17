@@ -1,0 +1,96 @@
+{
+  "id": "yuanzhenxia_yuanzhenxia",
+  "name": "原振侠",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "《天皇巨星》终局乘返地球的飞船失踪；其存亡、所在时间和空间均未证实。此前身体为《黑暗天使》中的复制体，灵魂延续。",
+    "deployment": "按最后可独立行动形态加入；终局异常作为明确改编恢复，不重演死亡过程。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 3,
+    "range": 3,
+    "combat": 6
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "训练良好的人类身体",
+    "energy": "无独立能量攻击",
+    "scope": "作用集中于身边个体",
+    "sustain": "人类体力与医疗恢复",
+    "range": "能使用现场器械和交通工具",
+    "combat": "多次冒险中的判断和应变"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "能力的已知边界：需要接触证据与正常人体条件；不懂所有外星科技，不能施展朋友的巫术。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "场景条件：需要接触证据与正常人体条件；不懂所有外星科技，不能施展朋友的巫术。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：先以玩笑遮掩不安，随后坦白真正的恐惧；可挽留，但最终面对对方自己的选择。"
+    }
+  },
+  "positive_total": 24.5,
+  "deduction_total": 3.0,
+  "raw_score": 21.5,
+  "rounded_score": 22,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "通过问诊、观察身体反应、交叉询问和实地检查逐步提出可推翻的解释；受过医学训练且有多次野外冒险经验。；需要接触证据与正常人体条件；不懂所有外星科技，不能施展朋友的巫术。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "high",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/08.精怪.txt",
+      "start_line": 3,
+      "end_line": 21,
+      "supports": "医者对生命缺陷的关注",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/18.黑暗天使.txt",
+      "start_line": 5289,
+      "end_line": 5405,
+      "supports": "灵魂救援、复制体及冒险动机",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/32.天皇巨星.txt",
+      "start_line": 2731,
+      "end_line": 2865,
+      "supports": "失踪终局和亲友的未知",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

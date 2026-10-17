@@ -1,0 +1,145 @@
+{
+  "id": "yuanzhenxia_jinte",
+  "name": "金特",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "进入石门后选择舍弃旧生命形式，随后失联；转化结果与感受没有得到外部确认。",
+    "deployment": "按最后可独立行动形态加入；终局异常作为明确改编恢复，不重演死亡过程。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 2,
+    "scope": 1,
+    "sustain": 2,
+    "range": 2,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "普通身体",
+    "energy": "灵魂感应",
+    "scope": "特定对象",
+    "sustain": "专注与条件",
+    "range": "媒介联系",
+    "combat": "非战斗者"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "能力的已知边界：不是通晓全部古文字；接收内容仍可能需要核验，不能由此推得普遍复活或进化能力。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "场景条件：不是通晓全部古文字；接收内容仍可能需要核验，不能由此推得普遍复活或进化能力。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：可以遗憾，但接受拒绝，不强迫转化。"
+    }
+  },
+  "positive_total": 15.0,
+  "deduction_total": 5.0,
+  "raw_score": 10.0,
+  "rounded_score": 10,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "以通灵接触石柱及其相关生命的信息，能够复述内容并找到相关通道。；不是通晓全部古文字；接收内容仍可能需要核验，不能由此推得普遍复活或进化能力。",
+    "tier": "纸",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/21.快活秘方.txt",
+      "start_line": 152,
+      "end_line": 156,
+      "supports": "身份",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/21.快活秘方.txt",
+      "start_line": 420,
+      "end_line": 424,
+      "supports": "追求",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/21.快活秘方.txt",
+      "start_line": 4298,
+      "end_line": 4485,
+      "supports": "通灵石柱",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/21.快活秘方.txt",
+      "start_line": 8105,
+      "end_line": 8241,
+      "supports": "终局",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/057搜灵.txt",
+      "start_line": 64,
+      "end_line": 75,
+      "supports": "宗教经历",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/057搜灵.txt",
+      "start_line": 526,
+      "end_line": 574,
+      "supports": "请柬与窃贼关系边界",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/057搜灵.txt",
+      "start_line": 2495,
+      "end_line": 2538,
+      "supports": "概念讨论",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/057搜灵.txt",
+      "start_line": 2688,
+      "end_line": 2694,
+      "supports": "公开演说",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/057搜灵.txt",
+      "start_line": 3763,
+      "end_line": 3764,
+      "supports": "失联",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/21.快活秘方.txt",
+      "start_line": 143,
+      "end_line": 201,
+      "supports": "卫斯理旧识、既有经历与灵媒能力",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

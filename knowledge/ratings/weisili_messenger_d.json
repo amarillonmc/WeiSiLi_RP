@@ -1,0 +1,105 @@
+{
+  "id": "weisili_messenger_d",
+  "name": "使者Ｄ",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "已回异星世界，与卫斯理交谈并协助其返回；地球接引石室随后毁去。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 4,
+    "scope": 2,
+    "sustain": 6,
+    "range": 5,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "稳定躯体无毁灭战绩",
+    "energy": "意识转移及设备",
+    "scope": "具体个体",
+    "sustain": "长期延续需换躯",
+    "range": "跨地接引依节点",
+    "combat": "没有展开实战"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "能力的已知边界：不是无条件不死；不占有别人的全部技术，不把异星时间比例当作主动时间停止。"
+    },
+    "environment": {
+      "score": 4,
+      "af": 1.0,
+      "reason": "场景条件：不是无条件不死；不占有别人的全部技术，不把异星时间比例当作主动时间停止。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：说明已知条件和不能保证之处。"
+    }
+  },
+  "positive_total": 35.5,
+  "deduction_total": 7.0,
+  "raw_score": 28.5,
+  "rounded_score": 29,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "思想光波可离开原躯并在相容身体延续，结合当地设备进行跨地接引；头发与接收控制相关。；不是无条件不死；不占有别人的全部技术，不把异星时间比例当作主动时间停止。",
+    "tier": "强",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/046头发.txt",
+      "start_line": 3980,
+      "end_line": 3991,
+      "supports": "身份与科技",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/046头发.txt",
+      "start_line": 4060,
+      "end_line": 4130,
+      "supports": "思想离体及制造历史",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/046头发.txt",
+      "start_line": 4183,
+      "end_line": 4234,
+      "supports": "解释与时间警示",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/046头发.txt",
+      "start_line": 4212,
+      "end_line": 4277,
+      "supports": "时差、回返与石室终局",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "只按小说以代号呈现的形象建卡；宗教对应不用于导入其他文本的能力。"
+  ]
+}

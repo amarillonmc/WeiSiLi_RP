@@ -1,0 +1,73 @@
+[
+  {
+    "path": "原振侠系列/03.血咒.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查血咒"
+      },
+      {
+        "name": "古托",
+        "card_id": "yuanzhenxia_gutuo",
+        "role": "重要配角",
+        "basis": "独立故事线或跨书参与"
+      },
+      {
+        "name": "盛远天",
+        "card_id": "yuanzhenxia_sheng_yuantian",
+        "role": "反派",
+        "basis": "独立故事线或跨书参与"
+      },
+      {
+        "name": "韦定咸",
+        "card_id": "yuanzhenxia_weidingxian",
+        "role": "阶段性对立者",
+        "basis": "独立故事线或跨书参与"
+      },
+      {
+        "name": "黑风族大巫师",
+        "card_id": "yuanzhenxia_heifeng_wushi",
+        "role": "反派",
+        "basis": "独立故事线或跨书参与"
+      },
+      {
+        "name": "黑风族大巫师之女",
+        "card_id": "yuanzhenxia_heifeng_daughter",
+        "role": "悲剧核心人物",
+        "basis": "独立故事线或跨书参与"
+      },
+      {
+        "name": "苏耀东",
+        "card_id": "yuanzhenxia_su_yaodong",
+        "role": "重要配角",
+        "basis": "独立故事线或跨书参与"
+      },
+      {
+        "name": "苏耀西",
+        "card_id": "yuanzhenxia_su_yaoxi",
+        "role": "重要配角",
+        "basis": "独立故事线或跨书参与"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "玛丽、盛夫人、小宝、苏安",
+        "reason": "单书的起因、家属与辅助人物；已在核心人物证据中保存关系，不满足多书配角条件"
+      },
+      {
+        "name": "苏耀南",
+        "reason": "本书受托兄弟之一，尚无第二书实际参与证据"
+      },
+      {
+        "name": "马特、高诺",
+        "reason": "本书研究或调查协助者"
+      }
+    ],
+    "notes": [
+      "原文解码缺损在清理报告保留；不据缺损补造咒语文字。"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "id": "adventure_shui_hong",
+  "name": "水荭",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "114末与朱槿辞别铁旦后随陶启泉等离开，仍有机构身份和亲情；罗开系列中禇上民离开计划及高达情感线的时序未完全解释。",
+    "deployment": "采用最后可行动的在职情报人员形态并综合各线经历；机构资源须实际权限，不能调用无关系统或自动携带他人的异能。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 3,
+    "range": 2,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "调查与联络依具体渠道，不能直接控制所有机构人员或跨系统调度。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "机构身份提供工具，不应取代本人对善恶与亲密关系的判断。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "资源属于机构且有权限区隔；有将军头衔也不能指挥所有系统或得知全部行动，卫星非个人全知。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 20.0,
+  "deduction_total": 5.0,
+  "raw_score": 15.0,
+  "rounded_score": 15,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "并",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "亚洲之鹰罗开系列/07蜂后.txt",
+      "start_line": 1160,
+      "end_line": 1165,
+      "supports": "与高达及罗开关系",
+      "kind": "原文"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/09夜光.txt",
+      "start_line": 669,
+      "end_line": 687,
+      "supports": "水红写法及形象",
+      "kind": "原文"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/10异人.txt",
+      "start_line": 1,
+      "end_line": 75,
+      "supports": "定位、组织与录音调查",
+      "kind": "原文"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/10异人.txt",
+      "start_line": 1332,
+      "end_line": 1395,
+      "supports": "爱情、承诺与离开计划",
+      "kind": "原文"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/15飞焰.txt",
+      "start_line": 1212,
+      "end_line": 1227,
+      "supports": "在职终局与未来意愿",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 1906,
+      "end_line": 1937,
+      "supports": "铁旦义女、严格训练及真实亲情，军方权限分隔。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 1979,
+      "end_line": 2048,
+      "supports": "评价浮莲与分析资料效力的时效性。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 2228,
+      "end_line": 2258,
+      "supports": "承认不知道另一系统派遣，辞别义父随陶启泉离开。",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "系列内感情与是否离开机构存在未交代的连续性，卡片不强行合并为已婚终局。",
+    "114中卫斯理怀疑朱槿、水荭受命利用自己是其推测；朱槿和水荭明确说不知道另一系统派遣，不将怀疑记成已证背叛。"
+  ]
+}

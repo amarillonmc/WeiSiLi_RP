@@ -1,0 +1,116 @@
+[
+  {
+    "path": "卫斯理系列/105闯祸.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际参与或直接联络"
+      },
+      {
+        "name": "曹金福",
+        "card_id": "weisili_cao_jinfu",
+        "role": "重要配角",
+        "basis": "实际参与或直接联络"
+      },
+      {
+        "name": "铁天音",
+        "card_id": "weisili_tie_tianyin",
+        "role": "重要配角",
+        "basis": "实际参与或直接联络"
+      },
+      {
+        "name": "黄堂",
+        "card_id": "weisili_huang_tang",
+        "role": "重要配角",
+        "basis": "实际参与或直接联络"
+      },
+      {
+        "name": "游侠",
+        "card_id": "weisili_you_xia",
+        "role": "重要配角",
+        "basis": "实际参与或直接联络"
+      },
+      {
+        "name": "游夫人",
+        "card_id": "weisili_you_furen",
+        "role": "重要配角",
+        "basis": "实际参与或直接联络"
+      },
+      {
+        "name": "四号",
+        "card_id": "weisili_yin_4",
+        "role": "重要配角",
+        "basis": "实际参与或直接联络"
+      },
+      {
+        "name": "宣保",
+        "card_id": "weisili_xuan_bao",
+        "role": "单书重要人物",
+        "basis": "推动保护区、权力与追索事件"
+      },
+      {
+        "name": "雷日头",
+        "card_id": "weisili_lei_ritou",
+        "role": "单书重要人物",
+        "basis": "推动保护区、权力与追索事件"
+      },
+      {
+        "name": "杜彰",
+        "card_id": "weisili_du_zhang",
+        "role": "反派",
+        "basis": "推动保护区、权力与追索事件"
+      },
+      {
+        "name": "杜彰之子",
+        "card_id": "weisili_du_zhang_son",
+        "role": "反派",
+        "basis": "推动保护区、权力与追索事件"
+      },
+      {
+        "name": "文物库事件的老人家",
+        "card_id": "yuanzhenxia_oriental_sun_leader",
+        "role": "反派",
+        "basis": "推动保护区、权力与追索事件"
+      },
+      {
+        "name": "文物案首长",
+        "card_id": "weisili_chuanghuo_chief",
+        "role": "反派",
+        "basis": "推动保护区、权力与追索事件"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "老人家的小女儿",
+        "reason": "单次现场制止开枪、聚会叙述的辅助人物，未显示独立反派计划或多书实际行动。"
+      },
+      {
+        "name": "女副主任、护卫、警卫排长及会所人员",
+        "reason": "一次性工作人员与执行者，无独立主角线。"
+      },
+      {
+        "name": "前最高领袖及开篇神话人物",
+        "reason": "政治评论、历史推断或神话比喻，不把叙述性类比变成新出场角色。"
+      }
+    ],
+    "notes": [
+      "103神秘高人本书明确为游侠；统一主卡。",
+      "所有思想仪中的声音、折磨与空间感，须区别于真实物理打击。"
+    ]
+  }
+]

@@ -1,0 +1,2362 @@
+{
+  "schema_version": "1.0",
+  "source_files": [
+    {
+      "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+      "sha256": "ab22cd0a925e789dbaa5ffc5964a133a4fb9c0e242e41cb8b014f84fb732555b",
+      "bytes": 219197,
+      "characters": 74669,
+      "lines": 766
+    },
+    {
+      "path": "亚洲之鹰罗开系列/02妖偶.txt",
+      "sha256": "f901d5b5d24092952fb92a1913f31ee808b5579aedd293a85d653e63c0c2a16c",
+      "bytes": 240453,
+      "characters": 81069,
+      "lines": 1320
+    },
+    {
+      "path": "亚洲之鹰罗开系列/03魔像.txt",
+      "sha256": "fdbad61b635a4efc344a381183ae9124dbdf216993c953443c6aea7c669a83f5",
+      "bytes": 242092,
+      "characters": 81576,
+      "lines": 1268
+    },
+    {
+      "path": "亚洲之鹰罗开系列/04怪头.txt",
+      "sha256": "faf95934f683de1d8cff341f5882106e2872fdef0c12b807908071b75f655070",
+      "bytes": 239976,
+      "characters": 80924,
+      "lines": 1351
+    },
+    {
+      "path": "亚洲之鹰罗开系列/05巨龙.txt",
+      "sha256": "f95bef993e8bbdd496b465c52726bd16b9ccb158964c7ca50cfb47e501ea6629",
+      "bytes": 241720,
+      "characters": 81492,
+      "lines": 1308
+    },
+    {
+      "path": "亚洲之鹰罗开系列/06蛇神.txt",
+      "sha256": "09a3ab2ff1e1361f2693d3a97ae6d9fea563fb9de31b7343e00654d2d0d629d1",
+      "bytes": 238319,
+      "characters": 80421,
+      "lines": 1452
+    },
+    {
+      "path": "亚洲之鹰罗开系列/07蜂后.txt",
+      "sha256": "5ebaf946c9d6c675fdec8c8be34ba0071a3af2aa7bc5c92823f003c0078c59d1",
+      "bytes": 238760,
+      "characters": 80518,
+      "lines": 1166
+    },
+    {
+      "path": "亚洲之鹰罗开系列/08火凤.txt",
+      "sha256": "c0533c95fed04333673075a85e2367b30456c4bd2d6c21203a29f4d618ef46fd",
+      "bytes": 239553,
+      "characters": 80683,
+      "lines": 1248
+    },
+    {
+      "path": "亚洲之鹰罗开系列/09夜光.txt",
+      "sha256": "4e186c829052e788ba68ad824f4ac4e2fe3d2c13a7156b169cfd475d9ea57cba",
+      "bytes": 220465,
+      "characters": 74359,
+      "lines": 1292
+    },
+    {
+      "path": "亚洲之鹰罗开系列/10异人.txt",
+      "sha256": "28ceb1449356424283c25441b39d0d9b78dd47ec8af47abe02ac2f9e5a74c98e",
+      "bytes": 234625,
+      "characters": 79141,
+      "lines": 1397
+    },
+    {
+      "path": "亚洲之鹰罗开系列/11死结.txt",
+      "sha256": "6b32c56396b59d7e65f236d037c3daa61471313448f2c3277435e72fb8671496",
+      "bytes": 236608,
+      "characters": 79778,
+      "lines": 1329
+    },
+    {
+      "path": "亚洲之鹰罗开系列/12解开死结.txt",
+      "sha256": "2bea3302c4bc6269cd4420669182598930aebf8973bd3ecd6043a2f372fcbc15",
+      "bytes": 239057,
+      "characters": 80561,
+      "lines": 1278
+    },
+    {
+      "path": "亚洲之鹰罗开系列/13困兽.txt",
+      "sha256": "f60bdcbd75df85d7d54ad04ef2868f18d2fb826825b2fa2c6cac5d5bd5cf3906",
+      "bytes": 190679,
+      "characters": 64641,
+      "lines": 1028
+    },
+    {
+      "path": "亚洲之鹰罗开系列/14游魂.txt",
+      "sha256": "4b204b354ba015aaa7bf94065b08b88e2163843da3d1909b86b25909a311152f",
+      "bytes": 221733,
+      "characters": 74821,
+      "lines": 1345
+    },
+    {
+      "path": "亚洲之鹰罗开系列/15飞焰.txt",
+      "sha256": "4b495e99e0d1f415caab438a2fbb30b0135ff0defc868f35a40061f4ce4d05c5",
+      "bytes": 228840,
+      "characters": 77102,
+      "lines": 1227
+    },
+    {
+      "path": "倪匡之鬼话系列/不祥之兆.txt",
+      "sha256": "e0fb759ef3b59c7086cef95ef532ebd80963f83d9abe38a233b1e8df04f0cb75",
+      "bytes": 11440,
+      "characters": 3850,
+      "lines": 55
+    },
+    {
+      "path": "倪匡之鬼话系列/不要问我从那里来.txt",
+      "sha256": "5ad843473a2d0b10b7bf39a08b457e13fb3188d53c6b9f0cea566b7d6ffd9121",
+      "bytes": 6798,
+      "characters": 2296,
+      "lines": 45
+    },
+    {
+      "path": "倪匡之鬼话系列/先生，别打尖.txt",
+      "sha256": "bf5ae19ee3fb259305c0560b178ec7cbd4cec410cb6c8938de7bfafb7189b06b",
+      "bytes": 7680,
+      "characters": 2608,
+      "lines": 71
+    },
+    {
+      "path": "倪匡之鬼话系列/寻人.txt",
+      "sha256": "a35c6a54583baf829c4403fb52a2acda46ce195bbef014a1b1d8345a96652d49",
+      "bytes": 11684,
+      "characters": 3922,
+      "lines": 41
+    },
+    {
+      "path": "倪匡之鬼话系列/恒娘.txt",
+      "sha256": "da475937c087b162e0274cd984d076ca867ed4b3362c8568b0d19773c1cda576",
+      "bytes": 6967,
+      "characters": 2379,
+      "lines": 85
+    },
+    {
+      "path": "倪匡之鬼话系列/房客.txt",
+      "sha256": "c84bfc731625e23b949c1175d27d85bbf90cba4aac5986d971ebc68776235a91",
+      "bytes": 7600,
+      "characters": 2578,
+      "lines": 67
+    },
+    {
+      "path": "倪匡之鬼话系列/择时剖腹.txt",
+      "sha256": "c01cdb4fea33e96f2a6c5c04999a42d5a8bd6b019b894a8e332f0a70d477c815",
+      "bytes": 7252,
+      "characters": 2470,
+      "lines": 79
+    },
+    {
+      "path": "倪匡之鬼话系列/搭电梯.txt",
+      "sha256": "3599a792e185ec049669e02c5e9f3819fe27e24a75d9fc25415dea54e31fc53b",
+      "bytes": 7124,
+      "characters": 2398,
+      "lines": 35
+    },
+    {
+      "path": "倪匡之鬼话系列/放屁.txt",
+      "sha256": "a3393c2d86c1eb96b299dc74c7d37d4127508e1bdea6d52bdbc34922e3b92f5b",
+      "bytes": 12698,
+      "characters": 4268,
+      "lines": 53
+    },
+    {
+      "path": "倪匡之鬼话系列/明天我们怎么联络.txt",
+      "sha256": "ebd6ad93188faf4482344b7523219f3a3d9b29b4c78c0d916cf83cbf632b8807",
+      "bytes": 7107,
+      "characters": 2379,
+      "lines": 15
+    },
+    {
+      "path": "倪匡之鬼话系列/橘树.txt",
+      "sha256": "e9d57da920144fd034afab42e78887cad500e1882ca06aefa0072736181719e6",
+      "bytes": 7565,
+      "characters": 2561,
+      "lines": 59
+    },
+    {
+      "path": "倪匡之鬼话系列/爱管闲事的司机.txt",
+      "sha256": "2ec89a0aae856d4f7db9882c1ae26844dc066cb793a91752be77ae2ccff41f9e",
+      "bytes": 7053,
+      "characters": 2385,
+      "lines": 51
+    },
+    {
+      "path": "倪匡之鬼话系列/猫头鹰的眼睛.txt",
+      "sha256": "25e7baacc7d078ca66a9010e7eff9f98011efab51c6c46e07fa30d5bc6c9d594",
+      "bytes": 7074,
+      "characters": 2416,
+      "lines": 87
+    },
+    {
+      "path": "倪匡之鬼话系列/衬衫.txt",
+      "sha256": "9e0016dab1ddab4cf6195e8eb7d1bd35bc6e054755003082d3d8dfdb5af10112",
+      "bytes": 7414,
+      "characters": 2516,
+      "lines": 67
+    },
+    {
+      "path": "倪匡之鬼话系列/选美记.txt",
+      "sha256": "59884d41ab9284a55ebfe354e90416bc5e2bd15c2520f0a55668e37a5568488f",
+      "bytes": 30819,
+      "characters": 10435,
+      "lines": 239
+    },
+    {
+      "path": "倪匡之鬼话系列/陆判.txt",
+      "sha256": "6be5480dc0fbb21639cdf4a5641326800c74b32dd0bb8eb9fe3bd0299b145187",
+      "bytes": 7396,
+      "characters": 2518,
+      "lines": 79
+    },
+    {
+      "path": "倪匡之鬼话系列/顾客.txt",
+      "sha256": "d3e2d8d3c0e8fca57dcf5a03d1852324009e73f909e42b0140b0728c382af34e",
+      "bytes": 7486,
+      "characters": 2548,
+      "lines": 79
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼停车场.txt",
+      "sha256": "134be49e4ab3f1fa49f02136277a32fbddff188a4715b37b2f04510498d82892",
+      "bytes": 7412,
+      "characters": 2502,
+      "lines": 47
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼哭之一.txt",
+      "sha256": "e63b8f5a7da9f2748eeaa60469afae760d243812498e3e97168d51e6684f0af9",
+      "bytes": 9587,
+      "characters": 3239,
+      "lines": 65
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼哭之二.txt",
+      "sha256": "4d108c616660dcb781c891dfb0692971fb34934de329199f3629472ed39d5778",
+      "bytes": 6997,
+      "characters": 2365,
+      "lines": 49
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼屋.txt",
+      "sha256": "465bce2b6ddf6e0b3931ff022d58f0e8676cc9784967dbd20f8a47f699ccf180",
+      "bytes": 9410,
+      "characters": 3188,
+      "lines": 77
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼胎之一.txt",
+      "sha256": "6656cf0802c51f9f935ea3f28d6fe2df2b46db8ce594d39292291c0d713bd86f",
+      "bytes": 9143,
+      "characters": 3087,
+      "lines": 59
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼胎之二.txt",
+      "sha256": "5a29da764c403f2cdb8da15c4793d76c19299e04b1a428a63fc82fb68b82a463",
+      "bytes": 9589,
+      "characters": 3253,
+      "lines": 85
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼脑.txt",
+      "sha256": "3a727c9d7966a7dcc15c543bc113309a68d8c84c1317b1674ee268c58316f508",
+      "bytes": 10220,
+      "characters": 3458,
+      "lines": 77
+    },
+    {
+      "path": "倪匡之鬼话系列/鸡蛋.txt",
+      "sha256": "737561188028afb04dbd0e345b0fdeec5e0176f83c92469e46017590a333615b",
+      "bytes": 7447,
+      "characters": 2523,
+      "lines": 61
+    },
+    {
+      "path": "卫斯理系列/001钻石花 .txt",
+      "sha256": "ca66287b899fab97c77a9a0f82ebe578fa90801b72d42e5b4a34e70e45b3983b",
+      "bytes": 383401,
+      "characters": 130665,
+      "lines": 4272
+    },
+    {
+      "path": "卫斯理系列/002卫斯理与白素.txt",
+      "sha256": "0bd0e8ff985eeea835442679fa34b2bd3852e78980480ab62210286a0c8a73b0",
+      "bytes": 310537,
+      "characters": 104693,
+      "lines": 1748
+    },
+    {
+      "path": "卫斯理系列/002地底奇人.txt",
+      "sha256": "3393a567fed2c9033b76c2cd1229e3aa23f277e23f8030895452059df726a8ca",
+      "bytes": 613599,
+      "characters": 209208,
+      "lines": 6982
+    },
+    {
+      "path": "卫斯理系列/003妖火.txt",
+      "sha256": "3d93b33a8bacae99e43876e6f987986b6f2fe3bbe0929ae1486b5bd54cc7f89b",
+      "bytes": 516452,
+      "characters": 176252,
+      "lines": 6137
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+      "bytes": 556341,
+      "characters": 189939,
+      "lines": 6694
+    },
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+      "bytes": 444184,
+      "characters": 151633,
+      "lines": 5341
+    },
+    {
+      "path": "卫斯理系列/006地心洪炉.txt",
+      "sha256": "17ac5ffa74c0a0d790126106b4ec6a1762edf345c875242e884a235784b5b38c",
+      "bytes": 253180,
+      "characters": 86431,
+      "lines": 3044
+    },
+    {
+      "path": "卫斯理系列/007蜂云.txt",
+      "sha256": "64997c0e874645af11ef648d072ce573b31857b035a91392164f19ccff34d37a",
+      "bytes": 319408,
+      "characters": 109038,
+      "lines": 3842
+    },
+    {
+      "path": "卫斯理系列/008奇玉.txt",
+      "sha256": "483e371dd19a5b82e47b55c951f0f0866fcb7e46e0f3c01338cd3145617be2af",
+      "bytes": 126629,
+      "characters": 43229,
+      "lines": 1527
+    },
+    {
+      "path": "卫斯理系列/009原子空间.txt",
+      "sha256": "9dae749ed628eb5ceb7b9d717c3ba7cb222361a3de297b59eb6e579705387685",
+      "bytes": 277667,
+      "characters": 94787,
+      "lines": 3317
+    },
+    {
+      "path": "卫斯理系列/010天外金球.txt",
+      "sha256": "e9637bc936a76a902e6ec9959baf6656b55df519f8996b72635756dd6eced2b5",
+      "bytes": 226758,
+      "characters": 77442,
+      "lines": 2776
+    },
+    {
+      "path": "卫斯理系列/011支离人.txt",
+      "sha256": "1c4eb914a01b9a6a9de1a2a16acd6d7560789f574e9371fb0f3ff971a5b757c8",
+      "bytes": 339049,
+      "characters": 115809,
+      "lines": 4189
+    },
+    {
+      "path": "卫斯理系列/012不死药.txt",
+      "sha256": "add3e531fa3d2d7c2767b9c3b0e194fb54b7d61e4b81561efb86d8825848b14d",
+      "bytes": 244908,
+      "characters": 83634,
+      "lines": 2991
+    },
+    {
+      "path": "卫斯理系列/013红月亮.txt",
+      "sha256": "749ed4b54c29c82162b2497567e859bbf402c90fecbb3d6fd0fdae91684eab13",
+      "bytes": 258292,
+      "characters": 88230,
+      "lines": 3185
+    },
+    {
+      "path": "卫斯理系列/014换头记.txt",
+      "sha256": "091da9f8184a0806b54c1cacab25d0ec4d4e32a3d3be0ce9d32e5e60fead9fa6",
+      "bytes": 210291,
+      "characters": 71893,
+      "lines": 2684
+    },
+    {
+      "path": "卫斯理系列/015蛊惑.txt",
+      "sha256": "37bef72830a445097e04d2f98e7ee40e32134327cf9ff0e078a440b0078f7759",
+      "bytes": 163843,
+      "characters": 55911,
+      "lines": 1943
+    },
+    {
+      "path": "卫斯理系列/016奇门.txt",
+      "sha256": "22f609669f4f6bdf4910f932fdabe592b97b28d5eebbceecc5147d808e4b0896",
+      "bytes": 252520,
+      "characters": 86102,
+      "lines": 2887
+    },
+    {
+      "path": "卫斯理系列/017尸变.txt",
+      "sha256": "7eb28a035f77330cff9a0865a942fe5373dc739a9877aa057031ddce4fd6e764",
+      "bytes": 171922,
+      "characters": 58656,
+      "lines": 2021
+    },
+    {
+      "path": "卫斯理系列/018合成.txt",
+      "sha256": "34ddbc82895dbf00e86740da49f68a157e79f615a76f6b836dd06eaeb9ec34b0",
+      "bytes": 152548,
+      "characters": 52076,
+      "lines": 1838
+    },
+    {
+      "path": "卫斯理系列/019笔友.txt",
+      "sha256": "01f6d100064c6eead5e3b7d16b845f332d28bf400f381c686354d9e277de4c74",
+      "bytes": 124816,
+      "characters": 42632,
+      "lines": 1538
+    },
+    {
+      "path": "卫斯理系列/020丛林之神.txt",
+      "sha256": "51d7b84e50cb29c2d9ab2589ceb6ac6d78626d969197093d5907f018278da78d",
+      "bytes": 133549,
+      "characters": 45615,
+      "lines": 1642
+    },
+    {
+      "path": "卫斯理系列/021再来一次.txt",
+      "sha256": "1e687dd800c094808c838ae456168e9bab9c41c4b45b3766832055558e0df475",
+      "bytes": 135607,
+      "characters": 46329,
+      "lines": 1684
+    },
+    {
+      "path": "卫斯理系列/022尽头.txt",
+      "sha256": "f225ccd27f97dbd8024a86f96b95c113ff601bd6d5169cf9c6bc622e0c51c36e",
+      "bytes": 142759,
+      "characters": 48787,
+      "lines": 1799
+    },
+    {
+      "path": "卫斯理系列/023湖水.txt",
+      "sha256": "e4ef4303c24aaad746163b8a4538e13c5db5d8de5e025aa696a1141527a2f058",
+      "bytes": 76474,
+      "characters": 26134,
+      "lines": 962
+    },
+    {
+      "path": "卫斯理系列/024消失.txt",
+      "sha256": "8528c71e8193ffda7163ccd355a0e9b90feed5a9c7ea397fd70b95a8ee01213c",
+      "bytes": 78829,
+      "characters": 26931,
+      "lines": 976
+    },
+    {
+      "path": "卫斯理系列/025影子.txt",
+      "sha256": "c042ebd25b879cac218aaed6e54bf389ce6103e3f578c27a6e82df92c8a1ed9c",
+      "bytes": 133137,
+      "characters": 45487,
+      "lines": 1660
+    },
+    {
+      "path": "卫斯理系列/026多了一个.txt",
+      "sha256": "c6acd754e4c381624675a1f490c71d2181eecfe51101b956252b683b2fe96624",
+      "bytes": 110222,
+      "characters": 37658,
+      "lines": 1370
+    },
+    {
+      "path": "卫斯理系列/027仙境.txt",
+      "sha256": "056877b11516b327b8631abb2ef5e802608d4dd1c6aef2a16553ab30fb1f7e7c",
+      "bytes": 159628,
+      "characters": 54486,
+      "lines": 1913
+    },
+    {
+      "path": "卫斯理系列/028狐变.txt",
+      "sha256": "ea0bcff3bbc830a04ad0ee856c6792daff5b5f4250d41c630ba9d48c35aeae40",
+      "bytes": 144635,
+      "characters": 49389,
+      "lines": 1764
+    },
+    {
+      "path": "卫斯理系列/029古声.txt",
+      "sha256": "e81094f0193dfa7371a92849b9bed30eff0f64e6eb6aefddc516fa64f3903335",
+      "bytes": 89038,
+      "characters": 30414,
+      "lines": 1099
+    },
+    {
+      "path": "卫斯理系列/030虚像.txt",
+      "sha256": "154c6af0612f06d9130d406a26fde0f971cab433e215a231e29808b84a4210fa",
+      "bytes": 147977,
+      "characters": 50535,
+      "lines": 1812
+    },
+    {
+      "path": "卫斯理系列/031访客.txt",
+      "sha256": "61c5c6ac1bba44ca7b29c0d591dfff302a6a359e69f2670d7645d2fc41a453ce",
+      "bytes": 108242,
+      "characters": 36956,
+      "lines": 1311
+    },
+    {
+      "path": "卫斯理系列/032风水.txt",
+      "sha256": "41de77ea89f98833de1b5570bf583f1c9efce674242a134f42f40a84b7746f99",
+      "bytes": 107838,
+      "characters": 36810,
+      "lines": 1294
+    },
+    {
+      "path": "卫斯理系列/033环.txt",
+      "sha256": "8ed6b020b1f0c3b180d57b9e58f3150bd3bc296e84ae8b256158c7bc379ae369",
+      "bytes": 150354,
+      "characters": 51332,
+      "lines": 1821
+    },
+    {
+      "path": "卫斯理系列/034聚宝盆.txt",
+      "sha256": "8cbcceaeda2a5c5f9628e09f9a588f4cbd9a2300f55921b5ee66d7cc3b0a4e75",
+      "bytes": 92603,
+      "characters": 31611,
+      "lines": 1111
+    },
+    {
+      "path": "卫斯理系列/035雨花台石.txt",
+      "sha256": "b3dcbf8be1b47b248537dbeb5974d00d194a7b2d704f926c444341a46ef80a2b",
+      "bytes": 128271,
+      "characters": 43777,
+      "lines": 1524
+    },
+    {
+      "path": "卫斯理系列/036魔磁.txt",
+      "sha256": "fb24bf8b1934c661394235a64500c7dc610dc5dbda4022f92968db7de25c3b25",
+      "bytes": 208662,
+      "characters": 71214,
+      "lines": 2482
+    },
+    {
+      "path": "卫斯理系列/037创造.txt",
+      "sha256": "43f439ed14bb4c90dba5e764ee6dc61edbbdedbd9ef79bf97d02d6bfda911e9d",
+      "bytes": 124050,
+      "characters": 42354,
+      "lines": 1501
+    },
+    {
+      "path": "卫斯理系列/038鬼子.txt",
+      "sha256": "82f1ddf86d3b97ba54b29a2fe1a87601d8ca79db40f460d2bf3daf4a0c50ac38",
+      "bytes": 114268,
+      "characters": 39022,
+      "lines": 1394
+    },
+    {
+      "path": "卫斯理系列/039老猫.txt",
+      "sha256": "621a886ee61cc6aa8bbb89f647d4a789d056c37f1769bc0fa224c14ed29147ad",
+      "bytes": 217170,
+      "characters": 74136,
+      "lines": 2617
+    },
+    {
+      "path": "卫斯理系列/040贝壳.txt",
+      "sha256": "4e8d519f4f86bf86da2ecdd88ea183e4940c7a8568baf9287c642c3fe912ad5d",
+      "bytes": 179510,
+      "characters": 61302,
+      "lines": 2196
+    },
+    {
+      "path": "卫斯理系列/041地图.txt",
+      "sha256": "8ff1d3904e8c7886659c97c94122a5f66689b175f831a725e0100c930ba389f4",
+      "bytes": 230742,
+      "characters": 78784,
+      "lines": 2800
+    },
+    {
+      "path": "卫斯理系列/042规律.txt",
+      "sha256": "881e9fb35a3ad03bdd1bfdca5338ee6b1eba4e14bbd7e860e3980cb2343091ed",
+      "bytes": 133460,
+      "characters": 45577,
+      "lines": 1632
+    },
+    {
+      "path": "卫斯理系列/043沉船.txt",
+      "sha256": "58e530fd32abf622efa6fb9fd12fb0ed7a8a47f525a838388a281f5b242ae6c3",
+      "bytes": 239885,
+      "characters": 81871,
+      "lines": 2857
+    },
+    {
+      "path": "卫斯理系列/044大厦.txt",
+      "sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+      "bytes": 260486,
+      "characters": 88972,
+      "lines": 3209
+    },
+    {
+      "path": "卫斯理系列/045新年.txt",
+      "sha256": "91c5b3a1e45c6f7c5a234e64d735493a508d6bf949feae94562d15ca62fcbcdc",
+      "bytes": 126354,
+      "characters": 43144,
+      "lines": 1532
+    },
+    {
+      "path": "卫斯理系列/046头发.txt",
+      "sha256": "7ff73c54b80bd223236384562f5bc9704d73a9b1071953ad1ebadf8e4a736de2",
+      "bytes": 383843,
+      "characters": 130835,
+      "lines": 4324
+    },
+    {
+      "path": "卫斯理系列/047眼睛.txt",
+      "sha256": "ef99d2d8164f1a700599ea9e4533c03c56400e8db663a5f1f0688ca4764cfbe2",
+      "bytes": 297867,
+      "characters": 101603,
+      "lines": 3444
+    },
+    {
+      "path": "卫斯理系列/048迷藏.txt",
+      "sha256": "aac97f2b37dbce1bff76008fb5c02e79072fa9b59c7f403cb34044c946faf34a",
+      "bytes": 289422,
+      "characters": 98716,
+      "lines": 3358
+    },
+    {
+      "path": "卫斯理系列/049天书.txt",
+      "sha256": "f5a9c0aa9657e940b1ed592dcbba69558f32e6dfce23e214a0fc81ac3a941183",
+      "bytes": 317297,
+      "characters": 108265,
+      "lines": 3743
+    },
+    {
+      "path": "卫斯理系列/050木炭.txt",
+      "sha256": "761554324d61f733c3480a0a1c37a8096d0a7c21c37865bc9bb575495f10854a",
+      "bytes": 372952,
+      "characters": 127214,
+      "lines": 4345
+    },
+    {
+      "path": "卫斯理系列/051玩具.txt",
+      "sha256": "ef7ff5f748c981d163a7d19b348948285747bdd7f02f1565dd9f656d724e1860",
+      "bytes": 334939,
+      "characters": 114294,
+      "lines": 3967
+    },
+    {
+      "path": "卫斯理系列/052连锁.txt",
+      "sha256": "f58d66a291b0d994f297be9ad03cf937c1ef4c6e3b6ea2eb97c88eb8b15981e6",
+      "bytes": 270302,
+      "characters": 91946,
+      "lines": 2759
+    },
+    {
+      "path": "卫斯理系列/053寻梦.txt",
+      "sha256": "1d73ea7cd15abfbc42b891ff547eb5d13cc4e89cf66ff4ce2748d7665eba2655",
+      "bytes": 337539,
+      "characters": 115213,
+      "lines": 4046
+    },
+    {
+      "path": "卫斯理系列/054第二种人.txt",
+      "sha256": "b8431a163f8d71a21f99e272280c77c4c20372e402932aa9632343818c3e06c5",
+      "bytes": 355886,
+      "characters": 121536,
+      "lines": 4332
+    },
+    {
+      "path": "卫斯理系列/055后备.txt",
+      "sha256": "c684686b10e288645a5d3b6430c891642be5b175d0fa295ee20c1656a732511c",
+      "bytes": 267742,
+      "characters": 91397,
+      "lines": 3220
+    },
+    {
+      "path": "卫斯理系列/056盗墓.txt",
+      "sha256": "3192f142ac157bd356418e370e72d4e2fe638de8dfe52ef9a37187bd101bf4b6",
+      "bytes": 345776,
+      "characters": 118021,
+      "lines": 4117
+    },
+    {
+      "path": "卫斯理系列/057搜灵.txt",
+      "sha256": "2575d0afd2f6c4b7392561f1ad16e68e2a1064764c817b01d8d4adc12d2cf35d",
+      "bytes": 316647,
+      "characters": 108067,
+      "lines": 3766
+    },
+    {
+      "path": "卫斯理系列/058茫点.txt",
+      "sha256": "6f47589bfc97b80eb1472a74ca08146f406f917980282f0847cde47069aa23bf",
+      "bytes": 376985,
+      "characters": 128681,
+      "lines": 4481
+    },
+    {
+      "path": "卫斯理系列/059神仙.txt",
+      "sha256": "b08b08363a7bd71c84dfec51a1da6d31602b7ba254a0580dc3cc5edc4e4d3a0f",
+      "bytes": 312170,
+      "characters": 106540,
+      "lines": 3710
+    },
+    {
+      "path": "卫斯理系列/060追龙.txt",
+      "sha256": "0c2ec04524394261eed54f6a05a279441facc32f80560f377b703dcf5f718aac",
+      "bytes": 273097,
+      "characters": 93185,
+      "lines": 3227
+    },
+    {
+      "path": "卫斯理系列/061洞天.txt",
+      "sha256": "507f48f0dc87e96b3119eb57874270445ff95dbd6c0f519e220dbf0d712245fb",
+      "bytes": 289791,
+      "characters": 98891,
+      "lines": 3383
+    },
+    {
+      "path": "卫斯理系列/062活俑.txt",
+      "sha256": "eb89b4f33e8ff9f5afdd9fba60ee32b1007cdb5ab85835e98ac0184e734037ad",
+      "bytes": 299691,
+      "characters": 102239,
+      "lines": 3509
+    },
+    {
+      "path": "卫斯理系列/063犀照.txt",
+      "sha256": "b2d74fd5b2dacc4173bdebc19d9586e47b064cf29b6e3990bd3d8412febcb76a",
+      "bytes": 313875,
+      "characters": 107063,
+      "lines": 3657
+    },
+    {
+      "path": "卫斯理系列/064命运.txt",
+      "sha256": "05e44f478a5db0845dad0475f063e1cf8c3f0227440e56bfa2cdc5933b9d8d7b",
+      "bytes": 163409,
+      "characters": 55757,
+      "lines": 1923
+    },
+    {
+      "path": "卫斯理系列/065（命运附篇）十七年.txt",
+      "sha256": "737a131a903e78d950a6c976f141bbe0153c21b4eafe65959558b3167dea9cab",
+      "bytes": 90362,
+      "characters": 30822,
+      "lines": 1047
+    },
+    {
+      "path": "卫斯理系列/066异宝.txt",
+      "sha256": "de6ac55c30f8c89744e293294742ad8c45b5cf430c25d093748ffaa370d6fa19",
+      "bytes": 254723,
+      "characters": 86887,
+      "lines": 2969
+    },
+    {
+      "path": "卫斯理系列/067极刑.txt",
+      "sha256": "46cfa532c1c1b63014521f0758b1097fb4a131c7cb0b2fd4635f3c6ec7929147",
+      "bytes": 287912,
+      "characters": 98184,
+      "lines": 3316
+    },
+    {
+      "path": "卫斯理系列/068电王.txt",
+      "sha256": "1f06c68001a4e46a81953d8c5ffad7450c05628d236e57c3bd5061a2c93cdeb5",
+      "bytes": 308656,
+      "characters": 105296,
+      "lines": 3552
+    },
+    {
+      "path": "卫斯理系列/069游戏.txt",
+      "sha256": "497ab30939dcc63226b673e7c9cb080cb4e1fb3bb288c0f5a54f03389b4339e3",
+      "bytes": 279684,
+      "characters": 95380,
+      "lines": 3224
+    },
+    {
+      "path": "卫斯理系列/070生死锁.txt",
+      "sha256": "a630f7ba4b6a9a1e92be1e10538b3b82c6570fdada0cae89d72b07ddf549a339",
+      "bytes": 287855,
+      "characters": 98263,
+      "lines": 3462
+    },
+    {
+      "path": "卫斯理系列/071黄金故事.txt",
+      "sha256": "d27d9d729a12bcd62eb9efc1a455ddae75d56117b5886fccc34e0d71bac13976",
+      "bytes": 291331,
+      "characters": 99355,
+      "lines": 3345
+    },
+    {
+      "path": "卫斯理系列/072废墟.txt",
+      "sha256": "859c7722245a7bacdcd9535debe5de68892191a1aee9b001b69b5305675b9da3",
+      "bytes": 278887,
+      "characters": 95164,
+      "lines": 3276
+    },
+    {
+      "path": "卫斯理系列/073密码.txt",
+      "sha256": "12d3df795be0899612ff0fef023fc9c4916ca798f27da2668ff17299e3c57ebb",
+      "bytes": 261918,
+      "characters": 89794,
+      "lines": 3728
+    },
+    {
+      "path": "卫斯理系列/074血统.txt",
+      "sha256": "48819f80b1bcc7419e121be858c30d7fbc39961ad153e809b8e7f086ce8f433e",
+      "bytes": 286787,
+      "characters": 97855,
+      "lines": 3360
+    },
+    {
+      "path": "卫斯理系列/075谜踪.txt",
+      "sha256": "c170816f5581da277abce66bb2fc660865163e13bb2125f1ddb16282a95c32bf",
+      "bytes": 279475,
+      "characters": 95483,
+      "lines": 3487
+    },
+    {
+      "path": "卫斯理系列/076瘟神.txt",
+      "sha256": "2c3a0b6f16fb00fddb908a698e7b4dcb1bec550d841c8150372510c8472c8841",
+      "bytes": 285269,
+      "characters": 98535,
+      "lines": 5134
+    },
+    {
+      "path": "卫斯理系列/077招魂.txt",
+      "sha256": "5581d45e86238fed770fd6e0b1227286dbee45bc6761b75921444eb73a412b6e",
+      "bytes": 280544,
+      "characters": 96644,
+      "lines": 4689
+    },
+    {
+      "path": "卫斯理系列/078背叛.txt",
+      "sha256": "344388a9a413e99b34a1aa2d0b1fc5daa50b1ba06cb5d88652a279ba1b2a9aab",
+      "bytes": 290125,
+      "characters": 99071,
+      "lines": 3511
+    },
+    {
+      "path": "卫斯理系列/079鬼混.txt",
+      "sha256": "b7cb0c3e94336019d3ed8698f53da86fa726c81ec5537d2337b2eb67e8f45f9a",
+      "bytes": 289944,
+      "characters": 99790,
+      "lines": 4115
+    },
+    {
+      "path": "卫斯理系列/080报应.txt",
+      "sha256": "488a30574314ec3a7d57251398cb36a8a48bda0c0936df7ea19136784ee6e54a",
+      "bytes": 288344,
+      "characters": 98360,
+      "lines": 3368
+    },
+    {
+      "path": "卫斯理系列/081错手.txt",
+      "sha256": "2413dee14aa56be8107aebd1fb620c74e82c0a360d2c6fad1cc7fcdbca21555d",
+      "bytes": 291435,
+      "characters": 100049,
+      "lines": 4348
+    },
+    {
+      "path": "卫斯理系列/082真相.txt",
+      "sha256": "456b816785e514e92617c4feff5d55616e052a3b527b624fd6711fbbd2745764",
+      "bytes": 270381,
+      "characters": 92295,
+      "lines": 3252
+    },
+    {
+      "path": "卫斯理系列/083毒誓.txt",
+      "sha256": "7cbd4e94603d697ecb560154dfb9401d01c39f9d1ea949b5a7b1b4507b59e2b2",
+      "bytes": 274500,
+      "characters": 93652,
+      "lines": 3227
+    },
+    {
+      "path": "卫斯理系列/084拼命.txt",
+      "sha256": "759b6b1838e61d4a9270c0652a6d01bc37ba6272632025ca5de26121aacb62ac",
+      "bytes": 276167,
+      "characters": 94163,
+      "lines": 3157
+    },
+    {
+      "path": "卫斯理系列/085怪物.txt",
+      "sha256": "cb3ee4d77787b29a584a083205a25604fcc9d92a8c9522ce7eec8ce6a0d61c1e",
+      "bytes": 268982,
+      "characters": 91804,
+      "lines": 3200
+    },
+    {
+      "path": "卫斯理系列/086探险.txt",
+      "sha256": "8f1198a9aa041ea0138134cb32cd32a92b83c9f43bb9cf684c0aa76972934908",
+      "bytes": 278067,
+      "characters": 94797,
+      "lines": 3160
+    },
+    {
+      "path": "卫斯理系列/087继续探险.txt",
+      "sha256": "e07f153c3bbd47c931d1129221d174f6647e2c5b4f8c59fea83c0607d2b4aed6",
+      "bytes": 282901,
+      "characters": 96481,
+      "lines": 3271
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "sha256": "b4c56fe35f08cd88fd9b83bcaa2ced669c1f051c325fa9497563e1ba2032671f",
+      "bytes": 269213,
+      "characters": 91839,
+      "lines": 3152
+    },
+    {
+      "path": "卫斯理系列/089烈火女.txt",
+      "sha256": "d5e3ac012a9d66ec67eb57ec8651f69aae8dfbc34ac0f965b1be45ed92f9b143",
+      "bytes": 263370,
+      "characters": 89860,
+      "lines": 3105
+    },
+    {
+      "path": "卫斯理系列/090大秘密.txt",
+      "sha256": "7edeb79459c8dc416ca4b405b32ecedbb3d4284f77bbc5cb2e0d44c8e9df682f",
+      "bytes": 268513,
+      "characters": 91645,
+      "lines": 3211
+    },
+    {
+      "path": "卫斯理系列/091祸根.txt",
+      "sha256": "58a9c164879750cfb0c427b1d7237396ac3b25507b3f7e46ad19215d78407e60",
+      "bytes": 264483,
+      "characters": 90275,
+      "lines": 3165
+    },
+    {
+      "path": "卫斯理系列/092从阴间来.txt",
+      "sha256": "6cac18241c95a0a573009a4be1d1780005950a8c61cdd64655d6a45a79242fd8",
+      "bytes": 220898,
+      "characters": 75374,
+      "lines": 2612
+    },
+    {
+      "path": "卫斯理系列/093到阴间去.txt",
+      "sha256": "0b132ecd58cba0f9315da491cdab631a9f698393a5f19748879c6a9e68b8eb77",
+      "bytes": 218128,
+      "characters": 74454,
+      "lines": 2598
+    },
+    {
+      "path": "卫斯理系列/095阴差阳错.txt",
+      "sha256": "f0a6ca5936e52b47f88218300d5c37b67b1c3bdb6cee9a410836f6b0eb757976",
+      "bytes": 220641,
+      "characters": 75299,
+      "lines": 2628
+    },
+    {
+      "path": "卫斯理系列/096阴魂不散.txt",
+      "sha256": "ee37c4de75188943eb4d5fc956ecab69f7729f7cb244ffce135207657b799b8b",
+      "bytes": 230432,
+      "characters": 78650,
+      "lines": 2730
+    },
+    {
+      "path": "卫斯理系列/097许愿.txt",
+      "sha256": "ac0e2b19299dd6a5546d02076649be09587ef4d96b1b4a017357e3729380225e",
+      "bytes": 224948,
+      "characters": 76784,
+      "lines": 2699
+    },
+    {
+      "path": "卫斯理系列/098还阳.txt",
+      "sha256": "647a5496330983ae12d4af40398e5d425097b032462cb6b93cc23bd4fae8c345",
+      "bytes": 223915,
+      "characters": 76465,
+      "lines": 2720
+    },
+    {
+      "path": "卫斯理系列/099运气.txt",
+      "sha256": "34bb98e27aa50e1d39dbd5c14aead2f42eaebce498edee9df83882a3b3c82d3a",
+      "bytes": 216837,
+      "characters": 74045,
+      "lines": 2647
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "sha256": "e9f4e71086d8dbcd60ad0bc6f6d3b5bb397c1c4916e563a0d5c72af1e8a14f92",
+      "bytes": 225526,
+      "characters": 77084,
+      "lines": 2692
+    },
+    {
+      "path": "卫斯理系列/101转世暗号.txt",
+      "sha256": "0a69f3bc3ba2204d20f2a34622e6f5f9cfaec09649a08efd0c40c7f1682287f1",
+      "bytes": 228596,
+      "characters": 78024,
+      "lines": 2736
+    },
+    {
+      "path": "卫斯理系列/102将来.txt",
+      "sha256": "1084f9541690fd96c10731cd079b8419ed309a760377021d7a010a404d315122",
+      "bytes": 226896,
+      "characters": 77834,
+      "lines": 2904
+    },
+    {
+      "path": "卫斯理系列/103改变.txt",
+      "sha256": "172333a4ef1943dd3e24d1c3d12d9ce968a64b1274fbe6bba2cfc556fa6f2a2c",
+      "bytes": 220785,
+      "characters": 75485,
+      "lines": 2758
+    },
+    {
+      "path": "卫斯理系列/104暗号之二.txt",
+      "sha256": "0d06f2a60b61820326b077fbbed8c0c0667a06424a1d78008fc4146437690229",
+      "bytes": 226545,
+      "characters": 77325,
+      "lines": 2715
+    },
+    {
+      "path": "卫斯理系列/105闯祸.txt",
+      "sha256": "0f1d301ef14d58c4f9fa1c0983c38f64ae33f22ab2cc117f4ed604b2a279ed2c",
+      "bytes": 225295,
+      "characters": 77027,
+      "lines": 2798
+    },
+    {
+      "path": "卫斯理系列/106在数难逃.txt",
+      "sha256": "55e8fa566d17cc3a3516985e73b565261287ff51be7137182e53d76e33237ec7",
+      "bytes": 228494,
+      "characters": 78004,
+      "lines": 2744
+    },
+    {
+      "path": "卫斯理系列/107解脱.txt",
+      "sha256": "8cc906d580b95902749f67034ee2bb6dce45e5712c2fd68a2647851f37b8a514",
+      "bytes": 226524,
+      "characters": 77342,
+      "lines": 2750
+    },
+    {
+      "path": "卫斯理系列/108遗传.txt",
+      "sha256": "ff11592ee72617244679af84c7989a4675a5cda238df0774e26154a524903aad",
+      "bytes": 221853,
+      "characters": 75779,
+      "lines": 2740
+    },
+    {
+      "path": "卫斯理系列/109爆炸.txt",
+      "sha256": "484c26b72bc83b2b7647d758eefbf9b9d9082e062898fb835a5b7aaadba37abe",
+      "bytes": 224059,
+      "characters": 76505,
+      "lines": 2728
+    },
+    {
+      "path": "卫斯理系列/110水晶宫.txt",
+      "sha256": "1af3a0dc3e1190bed546dff900f2655b9464537cc6a81566a287b5285a644fd4",
+      "bytes": 224020,
+      "characters": 76490,
+      "lines": 2725
+    },
+    {
+      "path": "卫斯理系列/111前世.txt",
+      "sha256": "3511710d341a7a85d5c5905de764ae2541896d6886379db00cf8d681d56b3522",
+      "bytes": 224942,
+      "characters": 76815,
+      "lines": 2749
+    },
+    {
+      "path": "卫斯理系列/112新武器.txt",
+      "sha256": "824ddf0c78a3abb0f59cf65f874edbbabb722eea1c2ad556309d3cc5891a406e",
+      "bytes": 228530,
+      "characters": 78004,
+      "lines": 2741
+    },
+    {
+      "path": "卫斯理系列/113病毒.txt",
+      "sha256": "0e5d936e82f06811d5f772625872653eab4871dc5aa1c1342a6c316095956307",
+      "bytes": 219119,
+      "characters": 74947,
+      "lines": 2851
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "sha256": "f8f9e5ec07ee6721fcd672383d584179a02d23e9272e55dae934908e6e2a27c8",
+      "bytes": 225956,
+      "characters": 77176,
+      "lines": 2785
+    },
+    {
+      "path": "卫斯理系列/115原形.txt",
+      "sha256": "1ffa2bd121521f647bd4c6e9ccd792f9c684b58b433f11404679bed0ab67e151",
+      "bytes": 216117,
+      "characters": 73869,
+      "lines": 2743
+    },
+    {
+      "path": "卫斯理系列/116活路.txt",
+      "sha256": "452a30338a1f524c501ff49f274a206433e9f728ebe284e3abdc2c97f603b0cb",
+      "bytes": 216418,
+      "characters": 73940,
+      "lines": 2701
+    },
+    {
+      "path": "卫斯理系列/117双程.txt",
+      "sha256": "5eebe6641437cd63bdfefa72fbfb51dcafe629a94250eac48b1169a72c5fa6c2",
+      "bytes": 226242,
+      "characters": 77270,
+      "lines": 2784
+    },
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "sha256": "52cf61b764ba4439cb6f1a87ba8784e826fbea1379fa6a76e6262e68c146275d",
+      "bytes": 218580,
+      "characters": 74644,
+      "lines": 2675
+    },
+    {
+      "path": "卫斯理系列/119买命.txt",
+      "sha256": "b8130b72d83c448ca2e73be58bfe12fad966ebc4b44a6de1f77606903b505314",
+      "bytes": 217718,
+      "characters": 74356,
+      "lines": 2675
+    },
+    {
+      "path": "卫斯理系列/120卖命.txt",
+      "sha256": "e93d550015c33f8006240ac842783e731e022ba572d0e09de11cdddfc3eb296d",
+      "bytes": 219528,
+      "characters": 74974,
+      "lines": 2694
+    },
+    {
+      "path": "卫斯理系列/121考验.txt",
+      "sha256": "5d04c847014b0e5dc365977bf7227c07675b26061c0ff91c31b6fd7914e9dc31",
+      "bytes": 220958,
+      "characters": 75880,
+      "lines": 3251
+    },
+    {
+      "path": "卫斯理系列/122传说.txt",
+      "sha256": "9a620ad906117272ee9aeb1af8ba3643c67924c71bc6d5e49eebd2f967eab99d",
+      "bytes": 221129,
+      "characters": 75555,
+      "lines": 2768
+    },
+    {
+      "path": "卫斯理系列/123豪赌.txt",
+      "sha256": "54f37d040e7c5c6d867f11f6532aa93ab654c814d05a586ee60261ea01be299b",
+      "bytes": 221837,
+      "characters": 75713,
+      "lines": 2651
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "sha256": "632b00312b5dcf7efd3cbc894a49907fcf0a51a02cf8e3d275cb111dd914e823",
+      "bytes": 218980,
+      "characters": 74774,
+      "lines": 2671
+    },
+    {
+      "path": "卫斯理系列/125成精变人.txt",
+      "sha256": "2b9b3fdfe2b26cbfa394ffc551b1591152549e105edae0836c75b2221dc68f7f",
+      "bytes": 219063,
+      "characters": 74813,
+      "lines": 2688
+    },
+    {
+      "path": "卫斯理系列/126未来身份.txt",
+      "sha256": "1724f940e2703308b4a116e593e429ebe41d136fb1c4ea2b5f5fc9b11bc1bb83",
+      "bytes": 217169,
+      "characters": 74153,
+      "lines": 2609
+    },
+    {
+      "path": "卫斯理系列/127移魂怪物.txt",
+      "sha256": "f4c3fea1917b09b958aa0cee2916232daf7b3349c696dfa3a08e04e14a2897cb",
+      "bytes": 223296,
+      "characters": 76224,
+      "lines": 2688
+    },
+    {
+      "path": "卫斯理系列/128人面组合.txt",
+      "sha256": "81b16ece0f1a7e34666dacc32f70d855b5476f4b5d53e59eda31626529cd1af2",
+      "bytes": 223241,
+      "characters": 76193,
+      "lines": 2669
+    },
+    {
+      "path": "卫斯理系列/129本性难移.txt",
+      "sha256": "2da8230df04196d86719ba5c70b1c1d3a316a5eca56d6665880505ba3bb56409",
+      "bytes": 227103,
+      "characters": 77427,
+      "lines": 2577
+    },
+    {
+      "path": "卫斯理系列/130天打雷劈.txt",
+      "sha256": "05a8c5d71623245d2521c0026f8d3c9036c70f2355a29d31a59c4af3e4118dcf",
+      "bytes": 226424,
+      "characters": 77186,
+      "lines": 2566
+    },
+    {
+      "path": "卫斯理系列/131另类复制.txt",
+      "sha256": "34d35dafc5fb21fb08d6f32ad5423d0e17703c521c7199bbb1c87a0ade1aa47b",
+      "bytes": 224714,
+      "characters": 77518,
+      "lines": 3919
+    },
+    {
+      "path": "卫斯理系列/132解开密码.txt",
+      "sha256": "729fc0f38475ee2d249f8eb580cd4268d031b5fe8aa7e9faebe2f87faf714362",
+      "bytes": 222687,
+      "characters": 75179,
+      "lines": 1424
+    },
+    {
+      "path": "卫斯理系列/133异种人生.txt",
+      "sha256": "64db677a42782d72f3cdb292a066c315066f62a5d36fcff0f167ebe859e3a41c",
+      "bytes": 225309,
+      "characters": 75595,
+      "lines": 653
+    },
+    {
+      "path": "卫斯理系列/134偷天换日.txt",
+      "sha256": "7c07f878a130f1971e9bfe8b715b90539d44174d4b9b96f1bd6bee9e946eb9a3",
+      "bytes": 224344,
+      "characters": 75664,
+      "lines": 1287
+    },
+    {
+      "path": "卫斯理系列/135闭关开关.txt",
+      "sha256": "3a954b783d485dd9b50c6951e6fa43b86b113dea9c64f2e8588cc094184619d1",
+      "bytes": 220884,
+      "characters": 74316,
+      "lines": 946
+    },
+    {
+      "path": "卫斯理系列/136行动救星.txt",
+      "sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+      "bytes": 225175,
+      "characters": 75921,
+      "lines": 1294
+    },
+    {
+      "path": "卫斯理系列/137乾坤挪移.txt",
+      "sha256": "2fb84ddf03fc2217f4fa2da1b2ce24e2f1be77d3b71f97d4095f5effe740c6e9",
+      "bytes": 220048,
+      "characters": 74288,
+      "lines": 1405
+    },
+    {
+      "path": "卫斯理系列/138财神宝库.txt",
+      "sha256": "57f540a0c90e4e3f7eb03235d1a844ea526fbb59e062768c2f2af32d9175ff18",
+      "bytes": 213033,
+      "characters": 72075,
+      "lines": 1423
+    },
+    {
+      "path": "卫斯理系列/139一半一半.txt",
+      "sha256": "bd10b3fef9d90c2054188509602956482dcc8b9968e4e8445080038179f4dd41",
+      "bytes": 213376,
+      "characters": 72052,
+      "lines": 1387
+    },
+    {
+      "path": "卫斯理系列/140身外化身.txt",
+      "sha256": "138e644990f164b83bf345d32d2c16dcf722bca0405ed053d21498047d72b0c3",
+      "bytes": 219393,
+      "characters": 74081,
+      "lines": 1415
+    },
+    {
+      "path": "卫斯理系列/141非常遭遇.txt",
+      "sha256": "edec55040c8d653cf2d8942f92f12902da91ca8315968706aacce8c99ecb3122",
+      "bytes": 219140,
+      "characters": 73916,
+      "lines": 1296
+    },
+    {
+      "path": "卫斯理系列/142一个地方.txt",
+      "sha256": "6e713ff2c8bd77a28a289344ccd726e90bf16d9facf53672c6fc9328beb99acd",
+      "bytes": 222505,
+      "characters": 74983,
+      "lines": 1191
+    },
+    {
+      "path": "卫斯理系列/143须弥芥子.txt",
+      "sha256": "ad52cddb8115da82f328c611cbe283b714bd5676894dce68fa76ea8e62d17724",
+      "bytes": 220410,
+      "characters": 74386,
+      "lines": 1351
+    },
+    {
+      "path": "卫斯理系列/144死去活来.txt",
+      "sha256": "36833443e5bbfe7bf3762fb469bd76ac76619a1bc25b4c8b972bb69bdef5d655",
+      "bytes": 219996,
+      "characters": 74286,
+      "lines": 1388
+    },
+    {
+      "path": "卫斯理系列/145只限老友.txt",
+      "sha256": "be769564ff1e1450e11a488c6a80d989d15c358e0f7c687f7ab7482107021adf",
+      "bytes": 222583,
+      "characters": 75125,
+      "lines": 1393
+    },
+    {
+      "path": "卫斯理系列/52愿望猴神.txt",
+      "sha256": "f761de854d04eb12fb636b7c451f39c935bdd037f28aeec5988256dbd12dc1cc",
+      "bytes": 239125,
+      "characters": 81793,
+      "lines": 3003
+    },
+    {
+      "path": "卫斯理系列/94少年卫斯理.txt",
+      "sha256": "737691e69b80e689c81bbaab02f2dd690c5c9c9a6f523af5cad4c50f020a60bd",
+      "bytes": 194899,
+      "characters": 67231,
+      "lines": 3331
+    },
+    {
+      "path": "原振侠系列/01.天人.txt",
+      "sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+      "bytes": 374880,
+      "characters": 127298,
+      "lines": 3387
+    },
+    {
+      "path": "原振侠系列/02.迷路.txt",
+      "sha256": "d5744fc89841cfa8c7b7e6c45366f7ce850aeb86ac264016907b03da863395d0",
+      "bytes": 368977,
+      "characters": 125555,
+      "lines": 3843
+    },
+    {
+      "path": "原振侠系列/03.血咒.txt",
+      "sha256": "d0dc5b5244fcb4924e841597258f83e381b903c52dd845d7ac1cdac2f59e9809",
+      "bytes": 398644,
+      "characters": 135943,
+      "lines": 4521
+    },
+    {
+      "path": "原振侠系列/04.海异.txt",
+      "sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+      "bytes": 272462,
+      "characters": 96097,
+      "lines": 7913
+    },
+    {
+      "path": "原振侠系列/05.宝狐.txt",
+      "sha256": "64e25f2593c53315029bc368bdc38d5bf104ee781d40dfe46a454057fb9ba2a5",
+      "bytes": 317666,
+      "characters": 108196,
+      "lines": 3333
+    },
+    {
+      "path": "原振侠系列/06.灵椅.txt",
+      "sha256": "5b2790408f171f8dde0941799afdfd913457ffb2f7fe6345348f3b5bc8ee99f7",
+      "bytes": 316250,
+      "characters": 111953,
+      "lines": 9361
+    },
+    {
+      "path": "原振侠系列/07.奇缘.txt",
+      "sha256": "c92952812cc636c9577255f8272c935998de207a6d97919014250e3f28638719",
+      "bytes": 335631,
+      "characters": 118862,
+      "lines": 9655
+    },
+    {
+      "path": "原振侠系列/08.精怪.txt",
+      "sha256": "0c10442a7e9dc239d0df8e17c497d96915c646e323103f5caea6cba881d99366",
+      "bytes": 244476,
+      "characters": 83314,
+      "lines": 2697
+    },
+    {
+      "path": "原振侠系列/09.鬼界.txt",
+      "sha256": "1aca3fba598ed20ae551524dc10176997146398901312577b4e2d5c11e244d95",
+      "bytes": 261794,
+      "characters": 89249,
+      "lines": 2753
+    },
+    {
+      "path": "原振侠系列/10.魔女.txt",
+      "sha256": "cd2df05c153fa2003e70462d1d0d7f7ef6ef0c125d27b70caf3a6b916a3ab2b9",
+      "bytes": 257089,
+      "characters": 88611,
+      "lines": 4159
+    },
+    {
+      "path": "原振侠系列/11.失魂.txt",
+      "sha256": "8026c89f19e32652c09d52356b75ac90dd14f02aa2dc9e88ed92f67caf216a1d",
+      "bytes": 269035,
+      "characters": 91815,
+      "lines": 3205
+    },
+    {
+      "path": "原振侠系列/12.降头.txt",
+      "sha256": "88395b1415d6e0f274e66c0ef4f80ca3215480b57a7993f8f42cd1b1995e9c47",
+      "bytes": 272357,
+      "characters": 93933,
+      "lines": 4434
+    },
+    {
+      "path": "原振侠系列/13.巫艳.txt",
+      "sha256": "bfbf82cd325b99abfb1ccb54f4b3ce960f818a5621b8a820d4b2ed87e5e2c390",
+      "bytes": 257154,
+      "characters": 87924,
+      "lines": 3133
+    },
+    {
+      "path": "原振侠系列/14.爱神.txt",
+      "sha256": "daaed62971df6f256e26d88a150285a98f432458dc506e31d34f345a66f2bc62",
+      "bytes": 279712,
+      "characters": 98654,
+      "lines": 8125
+    },
+    {
+      "path": "原振侠系列/15.寻找爱神.txt",
+      "sha256": "e5765803821591506399b2d4fde781d408c76e30b69e34c2c3caa56ff12bf661",
+      "bytes": 272467,
+      "characters": 92967,
+      "lines": 3215
+    },
+    {
+      "path": "原振侠系列/16.大犯罪者.txt",
+      "sha256": "7c6a554128e27a9283152d27909036e1f718a6e1d3bb831354088bc1bfd84fb9",
+      "bytes": 274926,
+      "characters": 95640,
+      "lines": 5977
+    },
+    {
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "sha256": "1512c711637508d5aa1a4e20a1b8e918bee903ab992eae341bb9d401e3154ed6",
+      "bytes": 274581,
+      "characters": 97065,
+      "lines": 8307
+    },
+    {
+      "path": "原振侠系列/18.黑暗天使.txt",
+      "sha256": "a43bfec6625e0fb7eef0725897ea8fb842d04ea7457d7a7c3949cdf77abcee74",
+      "bytes": 271398,
+      "characters": 94554,
+      "lines": 6131
+    },
+    {
+      "path": "原振侠系列/19.迷失乐园.txt",
+      "sha256": "4d5ece0644c482f7d977e4fe1dcebb3140550ca3406b9de5ef674bedaf19bc8e",
+      "bytes": 276424,
+      "characters": 95074,
+      "lines": 4379
+    },
+    {
+      "path": "原振侠系列/20.劫数.txt",
+      "sha256": "6907ce0af978918bf32a4690de5fc8af6ece6dff24d062c53055e12b940a65a7",
+      "bytes": 281302,
+      "characters": 99261,
+      "lines": 8239
+    },
+    {
+      "path": "原振侠系列/21.快活秘方.txt",
+      "sha256": "c436b88f9a39165dfa397d47f3921e93fbb25af543c48eed797766d538438846",
+      "bytes": 279238,
+      "characters": 98596,
+      "lines": 8275
+    },
+    {
+      "path": "原振侠系列/22.变换双星.txt",
+      "sha256": "7442dda2ec2412527f0f8916e000404cda26d9bf765d36d22b9db61c15008964",
+      "bytes": 276303,
+      "characters": 94213,
+      "lines": 3165
+    },
+    {
+      "path": "原振侠系列/23.血的诱惑.txt",
+      "sha256": "f7a54cdadd0da883051bf8eeeae0bfaf8d1f28917fc0834e1ed709ce61d7d99a",
+      "bytes": 273301,
+      "characters": 93287,
+      "lines": 3157
+    },
+    {
+      "path": "原振侠系列/24.催命情圣.txt",
+      "sha256": "5f959de7f4e1c40cda564c704745151d4e29a1a2c6b663a69e8bfc558cd332cf",
+      "bytes": 273300,
+      "characters": 96538,
+      "lines": 8157
+    },
+    {
+      "path": "原振侠系列/25.黑白无常.txt",
+      "sha256": "d88954a9d8345ba805bb5c178f7a1219853b7104d5156f70736cf91d66ea54f4",
+      "bytes": 254636,
+      "characters": 86770,
+      "lines": 2783
+    },
+    {
+      "path": "原振侠系列/26.自杀阴谋.txt",
+      "sha256": "b4b7d85338366a5e12b5280ac6e0f8212b004bdfc2be5f168a1458868e39b4a6",
+      "bytes": 259716,
+      "characters": 91750,
+      "lines": 7767
+    },
+    {
+      "path": "原振侠系列/27.假太阳.txt",
+      "sha256": "8bd1f4fa234561a0f2c31508489acf05bee9150c41984d2fcae576f305a3db8d",
+      "bytes": 251276,
+      "characters": 85803,
+      "lines": 2911
+    },
+    {
+      "path": "原振侠系列/28.无间地狱.txt",
+      "sha256": "45ca2d7799e1574489ec2076453f50d705939923e2a71ce26946d35e9a6ef512",
+      "bytes": 252994,
+      "characters": 86376,
+      "lines": 3053
+    },
+    {
+      "path": "原振侠系列/29.人鬼疑云.txt",
+      "sha256": "82f7d1c0a6f9db3ae4642f6099ef7d578fe054f24190b7b8849abcf831966e7b",
+      "bytes": 255054,
+      "characters": 90096,
+      "lines": 7617
+    },
+    {
+      "path": "原振侠系列/30.魂飞魄散.txt",
+      "sha256": "6d349d5b4e41ebd3066c496f32e12ad9879394813107aa78cb84e20ad0dfcf92",
+      "bytes": 241205,
+      "characters": 85252,
+      "lines": 7273
+    },
+    {
+      "path": "原振侠系列/31.宇宙杀手.txt",
+      "sha256": "2b9337f5281c2b3b5c74701554a46029f1918686a0a41c56c68506195ec9d8b5",
+      "bytes": 228080,
+      "characters": 80638,
+      "lines": 6917
+    },
+    {
+      "path": "原振侠系列/32.天皇巨星.txt",
+      "sha256": "48538778037f6dff1876f9945b021ca78830dee45ca247f5eb404c42a4b82bf3",
+      "bytes": 215659,
+      "characters": 73801,
+      "lines": 2867
+    },
+    {
+      "path": "年轻人/01手套.txt",
+      "sha256": "2b99befe90eb0ccc14811a7021b608d7d076e1a5d37989d9c344e5e57bb95afb",
+      "bytes": 144622,
+      "characters": 48782,
+      "lines": 806
+    },
+    {
+      "path": "年轻人/02足球.txt",
+      "sha256": "a7f58facae73285a5b2d989da7fdb7f154aa304d775d1269df15001e2288503c",
+      "bytes": 74052,
+      "characters": 24986,
+      "lines": 434
+    },
+    {
+      "path": "年轻人/03宝刀.txt",
+      "sha256": "a887655ae3f54a50a58a885cca5f03ab2fe5a4fb7edf84973d787913b8d2dbc9",
+      "bytes": 125902,
+      "characters": 42484,
+      "lines": 685
+    },
+    {
+      "path": "年轻人/04尺蠖 .txt",
+      "sha256": "cc5764b4e8c69e04f8a02d25f0868f9ef08eebe1aab592dfd1c53e2a855618eb",
+      "bytes": 86212,
+      "characters": 29410,
+      "lines": 1009
+    },
+    {
+      "path": "年轻人/05大宝藏.txt",
+      "sha256": "ec0db252e0eaaa17cc950b33722a61b3d240b0f50e7e9bc3098005cdb93e6fde",
+      "bytes": 177914,
+      "characters": 60030,
+      "lines": 1026
+    },
+    {
+      "path": "年轻人/06神机.txt",
+      "sha256": "cdd37707fd14c0e9cb027e4f092fdae12cc5365458e645339e7f8652a52a0aa3",
+      "bytes": 239934,
+      "characters": 80856,
+      "lines": 1291
+    },
+    {
+      "path": "年轻人/07暗算.txt",
+      "sha256": "ceeb76564c6cf53a6108abaf618b090b70457b0ff3c1e2b8d95fd1a6cf2fa150",
+      "bytes": 238798,
+      "characters": 80452,
+      "lines": 1249
+    },
+    {
+      "path": "年轻人/08天敌.txt",
+      "sha256": "3e8d9f7dc9c45281259003e43881056d191ac9e63c2ed1cde64b458304c7e7e4",
+      "bytes": 236857,
+      "characters": 79885,
+      "lines": 1377
+    },
+    {
+      "path": "年轻人/09夜归.txt",
+      "sha256": "aa3f67531df05fd0c229d7451a8c828970e6dd681d85ea1d1943282cb3d61b2b",
+      "bytes": 238758,
+      "characters": 80540,
+      "lines": 1406
+    },
+    {
+      "path": "年轻人/10四条金龙.txt",
+      "sha256": "120ead339d90d0fb0183d5882f5f2f6b985a29dfe04f55bcd6662c1fa1b65f44",
+      "bytes": 241237,
+      "characters": 81303,
+      "lines": 1318
+    },
+    {
+      "path": "年轻人/11消失女神.txt",
+      "sha256": "52245665e60eebf670b4d95ebadcaafc396e7c60fc5137745bec23eabcf7b010",
+      "bytes": 239430,
+      "characters": 80700,
+      "lines": 1317
+    },
+    {
+      "path": "年轻人/12离魂奇遇.txt",
+      "sha256": "081e431ff7a58a23f882ca47c20bdbb59dcfd999a3a0eb2e5223b1c09d1b7362",
+      "bytes": 240061,
+      "characters": 80967,
+      "lines": 1373
+    },
+    {
+      "path": "年轻人/13神话世界.txt",
+      "sha256": "4fc6ab65fbdb0e9621df5e12713ea6dfd934422da981794244be376e706b7914",
+      "bytes": 231358,
+      "characters": 77972,
+      "lines": 1279
+    },
+    {
+      "path": "木兰花全集/01巧夺死光表.txt",
+      "sha256": "d17086adf4b01549f1ae00a598a20b5a19d9f5d0dfa3d6708f027929925a6171",
+      "bytes": 176506,
+      "characters": 61042,
+      "lines": 3260
+    },
+    {
+      "path": "木兰花全集/02黑龙现爪.txt",
+      "sha256": "288f5d8b671cae2a2db5e96d92b2dccdb71f260bc437d53b4669a02a7d0ec47e",
+      "bytes": 178708,
+      "characters": 60861,
+      "lines": 1880
+    },
+    {
+      "path": "木兰花全集/03太阳之女.txt",
+      "sha256": "fe88f067382231943763db85889d6aeb63f3f7bb7bc368acb69b259e6f2b93f1",
+      "bytes": 177597,
+      "characters": 60325,
+      "lines": 1686
+    },
+    {
+      "path": "木兰花全集/04木雕人头.txt",
+      "sha256": "aed104a62f86943927a5f07cfe9d4a353eed243c453c96830b7aafce91833cda",
+      "bytes": 177415,
+      "characters": 60157,
+      "lines": 1504
+    },
+    {
+      "path": "木兰花全集/05尸变惊魂.txt",
+      "sha256": "0818a214d7185dad2a2e87260b743bd7f3d82ec3690e3a284bec2e07a9806804",
+      "bytes": 183685,
+      "characters": 62129,
+      "lines": 1328
+    },
+    {
+      "path": "木兰花全集/06超人集团.txt",
+      "sha256": "bf31ec075bd44139b231d2f3df57d84b07018adaba717d1fe54f5005c3efb466",
+      "bytes": 187358,
+      "characters": 64042,
+      "lines": 2366
+    },
+    {
+      "path": "木兰花全集/07高原之谜.txt",
+      "sha256": "ee8daab386da10eed672a5caa23ff83ed8ae56d27ab5041abb025a3bfed01d07",
+      "bytes": 191589,
+      "characters": 65535,
+      "lines": 2488
+    },
+    {
+      "path": "木兰花全集/08雷库惊魂.txt",
+      "sha256": "f9ff771a65251368f76167a97402c496eaa5e35bdb6443bbd0621b3cb5a6748c",
+      "bytes": 181143,
+      "characters": 62085,
+      "lines": 2554
+    },
+    {
+      "path": "木兰花全集/09死亡织锦.txt",
+      "sha256": "a3b3f6c689f38e50cc5f3e76a425bfedeec4aee60c28ff4a61287fbc42ea8ffa",
+      "bytes": 192757,
+      "characters": 65955,
+      "lines": 2554
+    },
+    {
+      "path": "木兰花全集/10电眼怪客.txt",
+      "sha256": "a2bf5c2f598b724f3e3673ea9fa39083bff4aa41649a54d9386752044306ee99",
+      "bytes": 188853,
+      "characters": 64731,
+      "lines": 2668
+    },
+    {
+      "path": "木兰花全集/11冰川亡魂.txt",
+      "sha256": "4fe65ec6ff18196191085fb0c6e5acdf4bd76752affa5622a3ca5688f73df881",
+      "bytes": 190090,
+      "characters": 65092,
+      "lines": 2590
+    },
+    {
+      "path": "木兰花全集/12夺命红烛.txt",
+      "sha256": "e8c145f3663fa97b3ae8200601c3b9410caa65867032b8d5fd63c57035ffad7c",
+      "bytes": 184134,
+      "characters": 63320,
+      "lines": 2900
+    },
+    {
+      "path": "木兰花全集/13智擒电子盗.txt",
+      "sha256": "cae5e4565a5c2dfe0cf6c7790eced723780960b63c6233d1171986440eca4192",
+      "bytes": 184843,
+      "characters": 63361,
+      "lines": 2560
+    },
+    {
+      "path": "木兰花全集/14死亡爆炸网.txt",
+      "sha256": "7555f06269ca9bb505bca2c99eac26041dcd0e388ae785b6fd18d997e4d74528",
+      "bytes": 187937,
+      "characters": 64437,
+      "lines": 2686
+    },
+    {
+      "path": "木兰花全集/15杀人奖金.txt",
+      "sha256": "6301f596568dbb4e5480e2507becf8c1fc9b9be8dce36596c8cf1062f528dd07",
+      "bytes": 151265,
+      "characters": 52076,
+      "lines": 2164
+    },
+    {
+      "path": "木兰花全集/16隐形奇人.txt",
+      "sha256": "9bbf5c34d97a39999700d842f9a928a8a1b99b63c6c8f5b3ca4485de49adc108",
+      "bytes": 186290,
+      "characters": 63688,
+      "lines": 2380
+    },
+    {
+      "path": "木兰花全集/17高空喋血.txt",
+      "sha256": "7859eb56084d09ca51fd36e020c3cfa021d1c1aa4863bcfd76a474a55df046db",
+      "bytes": 188296,
+      "characters": 64600,
+      "lines": 2648
+    },
+    {
+      "path": "木兰花全集/18怒歼恶魔团.txt",
+      "sha256": "ae717820513f4cc08b286a5406e0457708313dd97a5b8ebed2a4f944ceac8fc1",
+      "bytes": 188140,
+      "characters": 64430,
+      "lines": 2558
+    },
+    {
+      "path": "木兰花全集/19连环毒计.txt",
+      "sha256": "85356acd31140b312f37dfd80fa5b6625e37d5945a799e18af28256d162d0db6",
+      "bytes": 188420,
+      "characters": 64452,
+      "lines": 2390
+    },
+    {
+      "path": "木兰花全集/20秘密党.txt",
+      "sha256": "50f489bb61d846b6484e2b35c9721a61bbb5b2377e94ba20b4b59b769e377ca4",
+      "bytes": 191207,
+      "characters": 65327,
+      "lines": 2386
+    },
+    {
+      "path": "木兰花全集/21旋风神偷.txt",
+      "sha256": "cf1ef503f3bd0fedd47a1864a4dcc606b63a223c9d39f8519039553666e70e21",
+      "bytes": 189111,
+      "characters": 64879,
+      "lines": 2762
+    },
+    {
+      "path": "木兰花全集/22天外恩仇.txt",
+      "sha256": "041c00a8d51d7478a0df8a29692b53e6090d64a597a6df1b37aadf336d54db12",
+      "bytes": 190606,
+      "characters": 65370,
+      "lines": 2742
+    },
+    {
+      "path": "木兰花全集/23大破暗杀党.txt",
+      "sha256": "3d7458567eb0b502406c0c965152699294431c841563180d8b3e28395af441a6",
+      "bytes": 191139,
+      "characters": 65471,
+      "lines": 2632
+    },
+    {
+      "path": "木兰花全集/24魔掌余生.txt",
+      "sha256": "874dff614da446bfc451fedd00c101d09c16ecd88ff80612dd3d1674cb9465fb",
+      "bytes": 193475,
+      "characters": 66311,
+      "lines": 2712
+    },
+    {
+      "path": "木兰花全集/25血溅黄金柱.txt",
+      "sha256": "5f29828f34ad9ecda0a6452099ea8030449d8ad816e0fbd7e779086347c5d75b",
+      "bytes": 191977,
+      "characters": 65807,
+      "lines": 2722
+    },
+    {
+      "path": "木兰花全集/26神秘血影掌.txt",
+      "sha256": "c7d3c8dc45ab21a921de84a0507261f10b9e7afdf2c918c8013f739c3ebfe1c7",
+      "bytes": 191640,
+      "characters": 65640,
+      "lines": 2630
+    },
+    {
+      "path": "木兰花全集/27钻石镭射.txt",
+      "sha256": "bf3bedc6681ee59161f4b597c687ebd1e77127db7d4de04d51888ec18c8d9740",
+      "bytes": 191645,
+      "characters": 65657,
+      "lines": 2648
+    },
+    {
+      "path": "木兰花全集/28北极氢弹战.txt",
+      "sha256": "158ecca856e5053ed45b13474a104d60a0187c875d1062e7356f653a6d7b2508",
+      "bytes": 194141,
+      "characters": 66723,
+      "lines": 2666
+    },
+    {
+      "path": "木兰花全集/29潜艇迷宫.txt",
+      "sha256": "0d9b77bdf955d3c135b7a2a3d74588c65bfaf811df6f83d39691e22704212c6d",
+      "bytes": 194197,
+      "characters": 66684,
+      "lines": 2576
+    },
+    {
+      "path": "木兰花全集/30玻璃伪钞模.txt",
+      "sha256": "714654f9a7d146204772a84d705d7f74642cf0e959f71462b158ac928f384813",
+      "bytes": 195355,
+      "characters": 67271,
+      "lines": 2678
+    },
+    {
+      "path": "木兰花全集/31黑暗历险.txt",
+      "sha256": "8e1ee099de53004b65e0a96eb0a6704e6f5e1ae37b98037acc560270f611aae8",
+      "bytes": 199938,
+      "characters": 68494,
+      "lines": 2770
+    },
+    {
+      "path": "木兰花全集/32人形飞弹.txt",
+      "sha256": "848a4aba7d36efa84b46fdfbdad94a328d0523fb539ab93797e3a027969f8702",
+      "bytes": 197393,
+      "characters": 67455,
+      "lines": 2486
+    },
+    {
+      "path": "木兰花全集/33军械大盗.txt",
+      "sha256": "4d12f385c74705e946480faf6ce664206d26923677c998bb7571012c1c398e5c",
+      "bytes": 198679,
+      "characters": 67955,
+      "lines": 2590
+    },
+    {
+      "path": "木兰花全集/34断头美人鱼.txt",
+      "sha256": "9043fcae0baa5c3c05c1edf48a48c6547f46dc579c8514a1cc3d6ed1159e94bd",
+      "bytes": 202200,
+      "characters": 69012,
+      "lines": 2418
+    },
+    {
+      "path": "木兰花全集/35蜘蛛陷阱.txt",
+      "sha256": "3343707dc102958563380573b6f5e1dea8f98979eb197725bda263e72c9d07dc",
+      "bytes": 196349,
+      "characters": 67415,
+      "lines": 2466
+    },
+    {
+      "path": "木兰花全集/36无敌凶手.txt",
+      "sha256": "c273b7bb2f3b77a9581dfad8fe736d53d730f56f7eb2a6819353209beebd1465",
+      "bytes": 196329,
+      "characters": 67360,
+      "lines": 2482
+    },
+    {
+      "path": "木兰花全集/37沉船明珠.txt",
+      "sha256": "9265610762eb25f0695b36f0a5079ee7e7088a8c5d4006f4abb80abb94c09caa",
+      "bytes": 198239,
+      "characters": 67827,
+      "lines": 2620
+    },
+    {
+      "path": "木兰花全集/38无价奇石.txt",
+      "sha256": "fb28a3699778df70efce17d5961513591f7ede6820a463f3b51bd245ddb06050",
+      "bytes": 194018,
+      "characters": 66254,
+      "lines": 2366
+    },
+    {
+      "path": "木兰花全集/39失踪新娘.txt",
+      "sha256": "f39d9a9e0987b443f6548b60a8499b6aa9e19d326c75e8893c7340503ca8265d",
+      "bytes": 189386,
+      "characters": 64858,
+      "lines": 2594
+    },
+    {
+      "path": "木兰花全集/40怪新郎.txt",
+      "sha256": "cf26929980b69181cc98d05b8e00cbcd75831124db87d86d170ef4a11168ebb2",
+      "bytes": 188000,
+      "characters": 64502,
+      "lines": 2744
+    },
+    {
+      "path": "木兰花全集/41金库奇案.txt",
+      "sha256": "f6e9a2488c30f56274efa24fcec54d8c4947a26bb56b69fb4396a03047ae2844",
+      "bytes": 189443,
+      "characters": 65129,
+      "lines": 2460
+    },
+    {
+      "path": "木兰花全集/42龙宫宝贝.txt",
+      "sha256": "7f2f04c31bd7a031eed92a5c138e700b50fa50b847c0cce997026f6963773c24",
+      "bytes": 190106,
+      "characters": 65522,
+      "lines": 2692
+    },
+    {
+      "path": "木兰花全集/43珊瑚古城.txt",
+      "sha256": "38a26779df233601741e53d64c2d41721370a8e50499030c49683acf58c05a18",
+      "bytes": 190038,
+      "characters": 65242,
+      "lines": 2844
+    },
+    {
+      "path": "木兰花全集/44猎头禁地.txt",
+      "sha256": "a9fc87232e96b38fbcbe063d5dc0a23df73e5029e7387c0ae1dc6c2a4656b133",
+      "bytes": 192354,
+      "characters": 65956,
+      "lines": 2746
+    },
+    {
+      "path": "木兰花全集/45魔画.txt",
+      "sha256": "6c4f19529505f2b797e210b083e243e6ff6de58ac13a71b08c7301e7cd346125",
+      "bytes": 188705,
+      "characters": 64661,
+      "lines": 2638
+    },
+    {
+      "path": "木兰花全集/46死神殿.txt",
+      "sha256": "b9077ad827b01b4f81b20bd44436122431d2cf9e173468708bed3a084f274b29",
+      "bytes": 185787,
+      "characters": 63667,
+      "lines": 2606
+    },
+    {
+      "path": "木兰花全集/47复活金像.txt",
+      "sha256": "f47b36b61cad2bafbedeaca38921002c06cd0bfc3f29ca4993d97c1145f86b29",
+      "bytes": 186364,
+      "characters": 64310,
+      "lines": 2782
+    },
+    {
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "sha256": "894ed9a5d8fadf9fb206c1fbeb63456f7dc7b794821aa913c55c0565a107ee5f",
+      "bytes": 186262,
+      "characters": 64278,
+      "lines": 2784
+    },
+    {
+      "path": "木兰花全集/49地道奇人.txt",
+      "sha256": "0b0625f5a37f0ea0d92677fe333d1a6633ccc62e4d44ecfdc4bf4df32bfd1cd9",
+      "bytes": 186636,
+      "characters": 64199,
+      "lines": 2564
+    },
+    {
+      "path": "木兰花全集/50蜜月奇遇.txt",
+      "sha256": "de51e9859e8375de803abd0a6a33cd1788b96f08ec3037d55c229458bc4597e0",
+      "bytes": 180132,
+      "characters": 62057,
+      "lines": 2516
+    },
+    {
+      "path": "木兰花全集/51冷血人.txt",
+      "sha256": "17bde8bfd220d40ede9975e6bf2c5cd47fe7d3f3403a132e73734a02fb33b217",
+      "bytes": 182391,
+      "characters": 62485,
+      "lines": 2532
+    },
+    {
+      "path": "木兰花全集/52生死碧玉.txt",
+      "sha256": "c0ac26bcec0deffa9338cf4a9fdd490f70c8dc1ed553f185e7cba799811af141",
+      "bytes": 184828,
+      "characters": 63254,
+      "lines": 2466
+    },
+    {
+      "path": "木兰花全集/53电网火花.txt",
+      "sha256": "fac71c1fd44f5bdf45f1974cb199821eed86f6e7110ea1f6a9f9fca6a3e1c893",
+      "bytes": 186477,
+      "characters": 63777,
+      "lines": 2426
+    },
+    {
+      "path": "木兰花全集/54古屋奇影.txt",
+      "sha256": "b2be965c4b9b93d2e55f915e8814431739406edd7e8a62f2680ffcf702e89e88",
+      "bytes": 186173,
+      "characters": 63675,
+      "lines": 2426
+    },
+    {
+      "path": "木兰花全集/55金庙奇佛.txt",
+      "sha256": "ecec4b8b8f69c4e54c79fa4660df19b541bf71449e67f73c3dd18c4de6d6341b",
+      "bytes": 182235,
+      "characters": 62689,
+      "lines": 2364
+    },
+    {
+      "path": "木兰花全集/56天才白痴.txt",
+      "sha256": "8b58d5e526602be97d5fdebc04671858f9a4b662f752aca7c5429beb3e163ba1",
+      "bytes": 183574,
+      "characters": 62782,
+      "lines": 2322
+    },
+    {
+      "path": "木兰花全集/57生命合同.txt",
+      "sha256": "d31398e88938165837ccd801bd1c0bb0c81053e6cb08cf5efbe7ac3f7be70aee",
+      "bytes": 183132,
+      "characters": 63003,
+      "lines": 2314
+    },
+    {
+      "path": "木兰花全集/58三尸同行.txt",
+      "sha256": "37551042884b06fed9d9dce02522e6a7289930d3c6ac0667f5f093117af852ae",
+      "bytes": 175752,
+      "characters": 60395,
+      "lines": 2198
+    },
+    {
+      "path": "木兰花全集/59无风自动.txt",
+      "sha256": "aec7bd2e24e36b2795b806151a102261c57304bd8307b68ecef462f88124b5d4",
+      "bytes": 191705,
+      "characters": 65701,
+      "lines": 2164
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "sha256": "3665c301ca46948146acfed72867347e90878320be434b75ecd3df29a2d1c1e3",
+      "bytes": 196607,
+      "characters": 66837,
+      "lines": 1940
+    },
+    {
+      "path": "浪子高达系列/学美人.txt",
+      "sha256": "c305c79a2c5b648c76f77f804ecdf8c71d259b4ccc4747875f9b277fa03202fb",
+      "bytes": 201950,
+      "characters": 69868,
+      "lines": 3793
+    },
+    {
+      "path": "浪子高达系列/微晶之密.txt",
+      "sha256": "10a68521da61edb10f16332fc9f39fe67bf0d025deaa0c448e7409e6b7c6f84e",
+      "bytes": 242969,
+      "characters": 86459,
+      "lines": 7441
+    },
+    {
+      "path": "浪子高达系列/水晶艳女.txt",
+      "sha256": "c6e5f3f78babab65e66014428ded74934a47797fd67afb8f821a9f18eda81f16",
+      "bytes": 226881,
+      "characters": 79073,
+      "lines": 4929
+    },
+    {
+      "path": "浪子高达系列/珍珠荡妇.txt",
+      "sha256": "f551efdea0c50b08f4e5bccd766bc30c6c5f2a8d40bee83de90d1820247b503f",
+      "bytes": 231920,
+      "characters": 80518,
+      "lines": 4798
+    },
+    {
+      "path": "浪子高达系列/盗尸艳遇.txt",
+      "sha256": "1920d2255095402b7bcfc759f8b38538f1e1385c0f25fd7d147a1849232c29df",
+      "bytes": 219217,
+      "characters": 76152,
+      "lines": 4587
+    },
+    {
+      "path": "浪子高达系列/红粉猫.txt",
+      "sha256": "e5ac1f08544ac7856191c9cccf7fcb360286f9b423ece07a437a88998ba00323",
+      "bytes": 229743,
+      "characters": 81847,
+      "lines": 6713
+    },
+    {
+      "path": "浪子高达系列/蛇王石.txt",
+      "sha256": "aa603e3e99083d89231ff528fd0d568e6c1b4391fbdbbf58cc4bcb26b182bc11",
+      "bytes": 17600,
+      "characters": 6089,
+      "lines": 331
+    },
+    {
+      "path": "浪子高达系列/金球红唇.txt",
+      "sha256": "308f4846668524daa62e5fe136c97e795078a60aca8eb69f71ca30ec3a942e86",
+      "bytes": 224026,
+      "characters": 78220,
+      "lines": 5206
+    },
+    {
+      "path": "神探高斯系列/01出术.txt",
+      "sha256": "ca4b4290baa156b4b0a12f1c2fa238cc34672f4c32ede8201243d5404dddb8a1",
+      "bytes": 35776,
+      "characters": 12384,
+      "lines": 688
+    },
+    {
+      "path": "神探高斯系列/02催眠之术.txt",
+      "sha256": "d6a2d413a1cdf4609f143d222d4976f14a6dd115a71dfa7da75e6dcb6b6826eb",
+      "bytes": 37205,
+      "characters": 12827,
+      "lines": 638
+    },
+    {
+      "path": "神探高斯系列/03飞艇.txt",
+      "sha256": "c64efb8cf09e66eb239b1ce46011832441ac68dd1d5a52a074a73ec5ee255e8d",
+      "bytes": 36589,
+      "characters": 12655,
+      "lines": 688
+    },
+    {
+      "path": "神探高斯系列/04粉红钻石.txt",
+      "sha256": "54c4aff7a1a54a35868605a77575040d0e31c8d508f5379055a4b772e9bddd01",
+      "bytes": 37271,
+      "characters": 12853,
+      "lines": 644
+    },
+    {
+      "path": "神探高斯系列/05风向.txt",
+      "sha256": "1926ec6e778e87009f4d12937ce4d86c87753466d230007c2601790e7a3c97c0",
+      "bytes": 70471,
+      "characters": 24305,
+      "lines": 1222
+    },
+    {
+      "path": "神探高斯系列/06古墨.txt",
+      "sha256": "a4ab5c8c409e89f0eba4a1f28260bf40d833b16c28ad89c87f61295b754b594f",
+      "bytes": 36477,
+      "characters": 12601,
+      "lines": 663
+    },
+    {
+      "path": "神探高斯系列/07怪房子.txt",
+      "sha256": "a9221d5e042630bbc5c6691e35e13e8a31a54ad2d3cfb3002390c6f24afd7b7f",
+      "bytes": 37483,
+      "characters": 12928,
+      "lines": 649
+    },
+    {
+      "path": "神探高斯系列/08怪人奇骗.txt",
+      "sha256": "01c279b846049d0c90303c654f86365840dffba568e2e17a9b3afc4938b7d7e4",
+      "bytes": 36545,
+      "characters": 12611,
+      "lines": 644
+    },
+    {
+      "path": "神探高斯系列/09鬼照片.txt",
+      "sha256": "cb46c1b71204b0e0e874db0602ec677f0b4f42402b7e8b2789d7e90e043999db",
+      "bytes": 34420,
+      "characters": 11876,
+      "lines": 604
+    },
+    {
+      "path": "神探高斯系列/10黑美人.txt",
+      "sha256": "e6871f7a92e084a3d037b095fbaa9665261e9638ba98004c6c01ae76e4e11b9c",
+      "bytes": 36275,
+      "characters": 12553,
+      "lines": 692
+    },
+    {
+      "path": "神探高斯系列/11及时赶到.txt",
+      "sha256": "5eda4b0597fbd09f6b40f9c1265dace0d7be5b13c77e05204f358c80fcb1d34e",
+      "bytes": 35952,
+      "characters": 12424,
+      "lines": 660
+    },
+    {
+      "path": "神探高斯系列/12金发女.txt",
+      "sha256": "8e80b4807d5a6b972ddd9d4fad6e0feeae2f24f51729913bab0e73d6c84b861c",
+      "bytes": 36191,
+      "characters": 12505,
+      "lines": 662
+    },
+    {
+      "path": "神探高斯系列/13金酋长.txt",
+      "sha256": "ac189828c4462ee904f33e9b438976bc4fc0830891e39598b6ca92f04d9c6081",
+      "bytes": 48211,
+      "characters": 16589,
+      "lines": 778
+    },
+    {
+      "path": "神探高斯系列/14迷途横祸.txt",
+      "sha256": "8fd3052d403cf6a5775c75443bf45a1e5d0660bfc8b58c8aa0a2b2c6dfc0e3f2",
+      "bytes": 36984,
+      "characters": 12772,
+      "lines": 666
+    },
+    {
+      "path": "神探高斯系列/15魔鬼的舞蹈.txt",
+      "sha256": "3bc34ffc4eacad6577d85b725a21c7ec3b59903e43e4efdf03e42bee1d19df1b",
+      "bytes": 36374,
+      "characters": 12566,
+      "lines": 662
+    },
+    {
+      "path": "神探高斯系列/16弄假成真.txt",
+      "sha256": "5c335133e7eb1dcd2123ec17d0b7de279b77fba26482b3f06b7468cd3fb3477b",
+      "bytes": 35300,
+      "characters": 12202,
+      "lines": 653
+    },
+    {
+      "path": "神探高斯系列/17奇迹.txt",
+      "sha256": "bc6cc6b67ba7b4c9d846d4eea4e418d8b2c9188ee607c90e3bc1780f2a9901c2",
+      "bytes": 44752,
+      "characters": 15454,
+      "lines": 804
+    },
+    {
+      "path": "神探高斯系列/18奇轮.txt",
+      "sha256": "d08910a50a7963ee4db13911f1dfbbd8c1aad30f2295dc87cf160f7922f783e4",
+      "bytes": 39756,
+      "characters": 13720,
+      "lines": 701
+    },
+    {
+      "path": "神探高斯系列/19擒凶记.txt",
+      "sha256": "43699cbe2c4fdd83a4eeceb1148ae4c31a81d774a03c51652b30477e0180b294",
+      "bytes": 36626,
+      "characters": 12662,
+      "lines": 680
+    },
+    {
+      "path": "神探高斯系列/20三与四.txt",
+      "sha256": "44ac122f245a8ba1bb032684fa8e892b3ee9e92cf264478d29c67f65378fbb65",
+      "bytes": 35863,
+      "characters": 12401,
+      "lines": 670
+    },
+    {
+      "path": "神探高斯系列/21闪电天.txt",
+      "sha256": "4674066457619074fa9fea682e07bda016639c5e4651996c32bdc4f04820a7a1",
+      "bytes": 36020,
+      "characters": 12464,
+      "lines": 686
+    },
+    {
+      "path": "神探高斯系列/22水中宝盒.txt",
+      "sha256": "97fab48bdf2d9f49edfd0208732833362b9ecb5ff9915a654792309ca95d1257",
+      "bytes": 38502,
+      "characters": 13278,
+      "lines": 666
+    },
+    {
+      "path": "神探高斯系列/23太阳神.txt",
+      "sha256": "d850d36504d39316efd609af965a6d73f2ce5e40d3371d227718e3c3d4224c08",
+      "bytes": 51036,
+      "characters": 17642,
+      "lines": 945
+    },
+    {
+      "path": "神探高斯系列/24晚礼服.txt",
+      "sha256": "872e7732d3fe83f674a2ad422e588dff2af648b73cca904c8b43a9b3c9351b95",
+      "bytes": 38630,
+      "characters": 13318,
+      "lines": 662
+    },
+    {
+      "path": "神探高斯系列/25未卜先知.txt",
+      "sha256": "1e913cf5febf460101b5d687d25dab40f73375bcb98f0d0ec50afa46eb8a0991",
+      "bytes": 35750,
+      "characters": 12372,
+      "lines": 683
+    },
+    {
+      "path": "神探高斯系列/26雾夜煞星.txt",
+      "sha256": "830030acf92f35d4e7442081e6727f220f8ad865bcebc2638c25abceb6abc489",
+      "bytes": 35753,
+      "characters": 12353,
+      "lines": 653
+    },
+    {
+      "path": "神探高斯系列/27亚洲皇后.txt",
+      "sha256": "9ca49604a279d1117f564ff26d81e9bf036bd7b6b534c47891306055314bb7bf",
+      "bytes": 32921,
+      "characters": 11337,
+      "lines": 545
+    },
+    {
+      "path": "神探高斯系列/28妖女煞星.txt",
+      "sha256": "b5129a279214ffb005891d7b75e09c5c510d466bcb8f930a3dca3733f343e742",
+      "bytes": 36139,
+      "characters": 12519,
+      "lines": 709
+    },
+    {
+      "path": "神探高斯系列/29预告.txt",
+      "sha256": "6a8f7af2b8d9d636e2aba71a84deed626cd2aad958bc741c659d4018857a3dfa",
+      "bytes": 36873,
+      "characters": 12745,
+      "lines": 681
+    },
+    {
+      "path": "非人协会系列/01非人协会 序.txt",
+      "sha256": "f5b1d8077769911fb05d021e73ed21a3e4e658d98d37f57b7753a1a5ab1b6d35",
+      "bytes": 8185,
+      "characters": 2761,
+      "lines": 20
+    },
+    {
+      "path": "非人协会系列/02鱼人.txt",
+      "sha256": "eb32b441475afc0ae19eacea0025cf11eaf55cb10c3a7b2f6aa6fbad60f63a0d",
+      "bytes": 127489,
+      "characters": 42998,
+      "lines": 677
+    },
+    {
+      "path": "非人协会系列/03两生.txt",
+      "sha256": "2f93c44dd91550ce1aaf7540c00856a9e15ad11d3906a38dd6b288e7803e60ab",
+      "bytes": 106395,
+      "characters": 35845,
+      "lines": 565
+    },
+    {
+      "path": "非人协会系列/04大鹰.txt",
+      "sha256": "453889f6ddc32f4341f839ccf197f953a5a7eef400ba87cd369058f2739e1d50",
+      "bytes": 129132,
+      "characters": 43514,
+      "lines": 687
+    },
+    {
+      "path": "非人协会系列/05泥沼火人.txt",
+      "sha256": "bff18ac8353b13382506f5c8c80e4523445d49e68fae4d25ea0d760ef0cedc4c",
+      "bytes": 120169,
+      "characters": 40463,
+      "lines": 610
+    },
+    {
+      "path": "非人协会系列/06三千年死人.txt",
+      "sha256": "30e2b1e60a2ca0c15263917398f2df5cd2fa47a78f0a0e5bb3d4b6987fc8a6fa",
+      "bytes": 76564,
+      "characters": 25776,
+      "lines": 377
+    },
+    {
+      "path": "非人协会系列/07主宰.txt",
+      "sha256": "d8890669ac925d6702046ac32103abfa3686d35e319426d325ddc8f5e542857e",
+      "bytes": 68188,
+      "characters": 22930,
+      "lines": 296
+    }
+  ],
+  "card_count": 1409,
+  "rating_count": 1409,
+  "reviewed_books": 336,
+  "complete": true,
+  "build_command": "python tools/build_character_kb.py"
+}

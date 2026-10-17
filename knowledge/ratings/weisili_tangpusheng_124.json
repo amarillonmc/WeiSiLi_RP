@@ -1,0 +1,110 @@
+{
+  "id": "weisili_tangpusheng_124",
+  "name": "汤普生教授",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "会议演示后仍不承认有限行为变化已经完成生命形式转化，继续与韩正气争论；未述认错或其他结局。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 1,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "普通人体；没有武术或超常破坏实证",
+    "energy": "没有独立能量攻击",
+    "scope": "仅计已展示的具体研究或讨论影响",
+    "sustain": "人的体力及专业工作耐力",
+    "range": "实验台与现场交谈距离",
+    "combat": "依实际判断和行动经验计，不把学术名望当格斗技能"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "能力的已知边界：只掌握人类知识与现场表达；身体和声量不代表超常战力，强硬预设会妨碍接纳未见的新证据。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "场景条件：只掌握人类知识与现场表达；身体和声量不代表超常战力，强硬预设会妨碍接纳未见的新证据。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：追问变化究竟发生在哪一层，可能使用带刺的措辞。"
+    }
+  },
+  "positive_total": 12.0,
+  "deduction_total": 3.0,
+  "raw_score": 9.0,
+  "rounded_score": 9,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "凭专业身份、明确立场和强烈的公开表达提出反对意见，识别实验展示与更大主张之间的差距。；只掌握人类知识与现场表达；身体和声量不代表超常战力，强硬预设会妨碍接纳未见的新证据。",
+    "tier": "纸",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "high",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 190,
+      "end_line": 224,
+      "supports": "身份、体格、反对主题与金维制止骚动。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 246,
+      "end_line": 263,
+      "supports": "会议维持主题但允许异议。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 293,
+      "end_line": 307,
+      "supports": "把展示比作魔术的反应。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 355,
+      "end_line": 367,
+      "supports": "质疑行为变化不等于生命形式变化。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 695,
+      "end_line": 721,
+      "supports": "会后持续争论。",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

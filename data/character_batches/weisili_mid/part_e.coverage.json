@@ -1,0 +1,155 @@
+[
+  {
+    "path": "卫斯理系列/045新年.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "杰克",
+        "card_id": "weisili_jieke",
+        "role": "重要配角",
+        "basis": "警务调查"
+      },
+      {
+        "name": "王其英",
+        "card_id": "weisili_wang_qiying",
+        "role": "单书主角",
+        "basis": "暴富实验与失踪"
+      },
+      {
+        "name": "宋警官（新年）",
+        "card_id": "weisili_song_officer_xinnian",
+        "role": "反派",
+        "basis": "暴富实验与失踪"
+      },
+      {
+        "name": "《新年》的赠宝观察者",
+        "card_id": "weisili_xinnian_observer",
+        "role": "非人主角",
+        "basis": "暴富实验与失踪"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "安德臣",
+        "reason": "单次调查相关人物"
+      },
+      {
+        "name": "年兽",
+        "reason": "收尾比喻，不实体化为吞噬杰克的怪物"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "卫斯理系列/046头发.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "柏莱",
+        "card_id": "weisili_bolai",
+        "role": "单书主角",
+        "basis": "思想转移及异星来源"
+      },
+      {
+        "name": "辛尼",
+        "card_id": "weisili_xinni",
+        "role": "单书主角",
+        "basis": "思想转移及异星来源"
+      },
+      {
+        "name": "巴因",
+        "card_id": "weisili_bayin",
+        "role": "反派性行动者",
+        "basis": "思想转移及异星来源"
+      },
+      {
+        "name": "《头发》的尼泊尔国王",
+        "card_id": "weisili_nepal_king_hair",
+        "role": "单书核心人物",
+        "basis": "思想转移及异星来源"
+      },
+      {
+        "name": "使者Ａ",
+        "card_id": "weisili_messenger_a",
+        "role": "非人核心人物",
+        "basis": "思想转移及异星来源"
+      },
+      {
+        "name": "使者Ｂ",
+        "card_id": "weisili_messenger_b",
+        "role": "非人核心人物",
+        "basis": "思想转移及异星来源"
+      },
+      {
+        "name": "使者Ｃ",
+        "card_id": "weisili_messenger_c",
+        "role": "非人核心人物",
+        "basis": "思想转移及异星来源"
+      },
+      {
+        "name": "使者Ｄ",
+        "card_id": "weisili_messenger_d",
+        "role": "非人核心人物",
+        "basis": "思想转移及异星来源"
+      },
+      {
+        "name": "《头发》的异星领导人",
+        "card_id": "weisili_hair_leader",
+        "role": "非人核心人物",
+        "basis": "思想转移及异星来源"
+      },
+      {
+        "name": "Ｃ的父亲",
+        "card_id": "weisili_father_c",
+        "role": "非人核心人物",
+        "basis": "思想转移及异星来源"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "利达教授",
+        "reason": "求助与身份核实的单书辅助人物"
+      },
+      {
+        "name": "巴宗、芒里、祁高、御前大臣",
+        "reason": "学术或行政协助，无跨书身份链；巴宗不是巴因"
+      },
+      {
+        "name": "巴因同族老人",
+        "reason": "往事中被害的守庙者，背景归入巴因和国王卡"
+      },
+      {
+        "name": "黑军族的其他成员",
+        "reason": "场景集体及纷争背景，无独立确认人格与跨书关系"
+      }
+    ],
+    "notes": [
+      "两次死亡后的去处分别核对；一次移魂不保证连续复活。",
+      "ＡＢＣＤ及Ｃ的父亲只采用本小说表现，不导入其他宗教文本设定。"
+    ]
+  }
+]

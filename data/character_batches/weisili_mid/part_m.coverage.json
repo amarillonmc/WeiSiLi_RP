@@ -1,0 +1,302 @@
+[
+  {
+    "path": "卫斯理系列/052连锁.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "健一",
+        "card_id": "weisili_jianyi",
+        "role": "重要配角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "耶里王子",
+        "card_id": "weisili_yeli",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "板垣一郎（本体）",
+        "card_id": "weisili_banyuan_yilang",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "贞弓（本体）",
+        "card_id": "weisili_zhen_gong",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "大良云子（本体）",
+        "card_id": "weisili_daliang_yunzi",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "铁轮（本体）",
+        "card_id": "weisili_tielun",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "奈可",
+        "card_id": "weisili_naike",
+        "role": "重要配角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "板垣光义",
+        "card_id": "weisili_banyuan_guangyi",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "求取快乐的古代王子",
+        "card_id": "weisili_ancient_prince_monkey",
+        "role": "单篇主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "健一的复制体",
+        "card_id": "weisili_jianyi_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "耶里王子的复制体",
+        "card_id": "weisili_yeli_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "板垣一郎的复制体",
+        "card_id": "weisili_banyuan_yilang_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "贞弓的复制体",
+        "card_id": "weisili_zhen_gong_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "大良云子的复制体",
+        "card_id": "weisili_daliang_yunzi_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "铁轮的复制体",
+        "card_id": "weisili_tielun_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "板垣光义的复制体",
+        "card_id": "weisili_banyuan_guangyi_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "灵异猴神",
+        "card_id": "weisili_monkey_god",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "奇渥达卡（白色眼镜猴）",
+        "card_id": "weisili_qiwodaka",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "卫斯理的复制影像",
+        "reason": "仅短暂看见另一个自己，无独立主角或反派行动；不与本体叠加。"
+      },
+      {
+        "name": "管理员武夫",
+        "reason": "单次受害者；故意灭口说未证实。"
+      },
+      {
+        "name": "石野等调查警员",
+        "reason": "案中辅助调查或遇害，未有独立主角线及跨书重要出场。"
+      },
+      {
+        "name": "那蒂星",
+        "reason": "动物专家提供照料及传说资料；未形成独立主角或反派线。"
+      },
+      {
+        "name": "神话教授、弹琴老人",
+        "reason": "一次性线索提供者。"
+      },
+      {
+        "name": "前两名古代求愿者",
+        "reason": "猴神回忆中的概括例证，缺少独立人格与行动情节。"
+      }
+    ],
+    "notes": [
+      "两个文本是一组前后续故事；本体和复制体分别建卡。复制体的异常所得来自猴神远程干预，不属于自主无限许愿。",
+      "健一最后下落保留叙述者推测；云子没有原作已康复结局。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/52愿望猴神.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "健一",
+        "card_id": "weisili_jianyi",
+        "role": "重要配角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "耶里王子",
+        "card_id": "weisili_yeli",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "板垣一郎（本体）",
+        "card_id": "weisili_banyuan_yilang",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "贞弓（本体）",
+        "card_id": "weisili_zhen_gong",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "大良云子（本体）",
+        "card_id": "weisili_daliang_yunzi",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "铁轮（本体）",
+        "card_id": "weisili_tielun",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "奈可",
+        "card_id": "weisili_naike",
+        "role": "重要配角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "板垣光义",
+        "card_id": "weisili_banyuan_guangyi",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "求取快乐的古代王子",
+        "card_id": "weisili_ancient_prince_monkey",
+        "role": "单篇主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "健一的复制体",
+        "card_id": "weisili_jianyi_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "耶里王子的复制体",
+        "card_id": "weisili_yeli_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "板垣一郎的复制体",
+        "card_id": "weisili_banyuan_yilang_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "贞弓的复制体",
+        "card_id": "weisili_zhen_gong_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "大良云子的复制体",
+        "card_id": "weisili_daliang_yunzi_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "铁轮的复制体",
+        "card_id": "weisili_tielun_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "板垣光义的复制体",
+        "card_id": "weisili_banyuan_guangyi_copy",
+        "role": "反派",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "灵异猴神",
+        "card_id": "weisili_monkey_god",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      },
+      {
+        "name": "奇渥达卡（白色眼镜猴）",
+        "card_id": "weisili_qiwodaka",
+        "role": "单书主角",
+        "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "卫斯理的复制影像",
+        "reason": "仅短暂看见另一个自己，无独立主角或反派行动；不与本体叠加。"
+      },
+      {
+        "name": "管理员武夫",
+        "reason": "单次受害者；故意灭口说未证实。"
+      },
+      {
+        "name": "石野等调查警员",
+        "reason": "案中辅助调查或遇害，未有独立主角线及跨书重要出场。"
+      },
+      {
+        "name": "那蒂星",
+        "reason": "动物专家提供照料及传说资料；未形成独立主角或反派线。"
+      },
+      {
+        "name": "神话教授、弹琴老人",
+        "reason": "一次性线索提供者。"
+      },
+      {
+        "name": "前两名古代求愿者",
+        "reason": "猴神回忆中的概括例证，缺少独立人格与行动情节。"
+      }
+    ],
+    "notes": [
+      "两个文本是一组前后续故事；本体和复制体分别建卡。复制体的异常所得来自猴神远程干预，不属于自主无限许愿。",
+      "健一最后下落保留叙述者推测；云子没有原作已康复结局。"
+    ]
+  }
+]

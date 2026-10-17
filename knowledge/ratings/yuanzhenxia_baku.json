@@ -1,0 +1,103 @@
+{
+  "id": "yuanzhenxia_baku",
+  "name": "巴枯",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "《鬼混》中以事前保护降协助蓝丝、卫斯理等破坏史奈仪式；没有后续死亡或失能实证。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 5,
+    "scope": 2,
+    "sustain": 4,
+    "range": 3,
+    "combat": 6
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "普通肉体",
+    "energy": "毒降可致死",
+    "scope": "少数目标",
+    "sustain": "准备与媒介",
+    "range": "联系条件",
+    "combat": "老练术法对抗"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "能力的已知边界：没有触发便不能套用该效果；解除需要特定条件，不能任意无差别施加。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "场景条件：没有触发便不能套用该效果；解除需要特定条件，不能任意无差别施加。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：维持礼貌，隐藏真正交换目标。"
+    }
+  },
+  "positive_total": 34.5,
+  "deduction_total": 7.0,
+  "raw_score": 27.5,
+  "rounded_score": 28,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "在特定对象上布置隐降，以对方先施害触发转移；熟悉毒降与解药条件。；没有触发便不能套用该效果；解除需要特定条件，不能任意无差别施加。",
+    "tier": "强",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/12.降头.txt",
+      "start_line": 1913,
+      "end_line": 1918,
+      "supports": "师承",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/12.降头.txt",
+      "start_line": 3410,
+      "end_line": 3544,
+      "supports": "布局",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/12.降头.txt",
+      "start_line": 4297,
+      "end_line": 4337,
+      "supports": "终局条件",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/079鬼混.txt",
+      "start_line": 4096,
+      "end_line": 4109,
+      "supports": "保护降与遮蔽追查的效果",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

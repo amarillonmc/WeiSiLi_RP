@@ -1,0 +1,110 @@
+{
+  "id": "weisili_pingna",
+  "name": "平纳教授",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "继续留在山谷研究，认识到外出与公开秘密都受族群限制；未确认后来获释。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 0,
+    "sustain": 1,
+    "range": 1,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "研究未完成，不具普遍解蛊或施蛊能力；小说中的生物推测不视为现实科学定论。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "理解未知现象并留下可讨论的证据，同时渴望与外界重新交流。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "研究未完成，不具普遍解蛊或施蛊能力；小说中的生物推测不视为现实科学定论。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 6.5,
+  "deduction_total": 2.0,
+  "raw_score": 4.5,
+  "rounded_score": 5,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "纸",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "并",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/015蛊惑.txt",
+      "start_line": 994,
+      "end_line": 1009,
+      "supports": "身份与警告",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/015蛊惑.txt",
+      "start_line": 1766,
+      "end_line": 1774,
+      "supports": "长期研究及未知",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/015蛊惑.txt",
+      "start_line": 1785,
+      "end_line": 1849,
+      "supports": "假说与不确定性",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/015蛊惑.txt",
+      "start_line": 1851,
+      "end_line": 1869,
+      "supports": "设备、照片和分类",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/015蛊惑.txt",
+      "start_line": 1879,
+      "end_line": 1893,
+      "supports": "保密与自由限制",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

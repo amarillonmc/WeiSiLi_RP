@@ -1,0 +1,242 @@
+[
+  {
+    "path": "卫斯理系列/041地图.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "杰克",
+        "card_id": "weisili_jieke",
+        "role": "重要配角",
+        "basis": "警务调查"
+      },
+      {
+        "name": "阮耀",
+        "card_id": "weisili_ruan_yao",
+        "role": "单书主角",
+        "basis": "地图与家族旧事"
+      },
+      {
+        "name": "罗洛",
+        "card_id": "weisili_luoluo",
+        "role": "单书核心人物",
+        "basis": "地图与家族旧事"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "唐月海、乐生、吴子俊、唐明",
+        "reason": "本书调查、受害或收尾线索人物，未见跨书实际登场"
+      },
+      {
+        "name": "地下来客",
+        "reason": "无实体直接现身或身份确认；其存在、动机、航行速度与技术均为所见现象的解释，不另造完整人格"
+      },
+      {
+        "name": "阮耀曾祖父、吴慧",
+        "reason": "家族历史材料残缺，不把产业争议推测定为明确反派事实"
+      }
+    ],
+    "notes": [
+      "观察到移动、影像和涌水；不由未知来源直接推出全能地下文明。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/042规律.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白克·卑斯",
+        "card_id": "weisili_baike_beisi",
+        "role": "单书主角",
+        "basis": "规律案件与心理操纵"
+      },
+      {
+        "name": "康纳士博士",
+        "card_id": "weisili_kangnashi",
+        "role": "单书核心人物",
+        "basis": "规律案件与心理操纵"
+      },
+      {
+        "name": "卢达夫",
+        "card_id": "weisili_ludafu",
+        "role": "反派",
+        "basis": "规律案件与心理操纵"
+      },
+      {
+        "name": "田中正一",
+        "card_id": "weisili_tanaka_shoichi",
+        "role": "反派性行动者",
+        "basis": "规律案件与心理操纵"
+      },
+      {
+        "name": "《规律》谋害计划的心理学家",
+        "card_id": "weisili_guilyu_psychologist",
+        "role": "反派",
+        "basis": "规律案件与心理操纵"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "亨利",
+        "reason": "发现材料后遇害的少年，单书线索及受害者"
+      },
+      {
+        "name": "安桥加、达夫、乔治、丽拉、麦克",
+        "reason": "单次协助与线索人物"
+      }
+    ],
+    "notes": [
+      "不将故事中自杀的因果解释当作现实心理学定律。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/043沉船.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "白奇伟",
+        "card_id": "weisili_bai_qiwei",
+        "role": "重要配角",
+        "basis": "参与救援和调查"
+      },
+      {
+        "name": "摩亚船长",
+        "card_id": "weisili_moya_captain",
+        "role": "单书主角",
+        "basis": "沉船与家族秘密"
+      },
+      {
+        "name": "麦尔伦",
+        "card_id": "weisili_maierlun",
+        "role": "单书主要行动者",
+        "basis": "沉船与家族秘密"
+      },
+      {
+        "name": "狄加度（后人）",
+        "card_id": "weisili_dijiadu_young",
+        "role": "单书主角",
+        "basis": "沉船与家族秘密"
+      },
+      {
+        "name": "维司狄加度",
+        "card_id": "weisili_weisi_dijiadu",
+        "role": "神秘对立者",
+        "basis": "沉船与家族秘密"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "彼得摩亚",
+        "reason": "船长父亲，照护与救援协助者，无跨书实际出场"
+      },
+      {
+        "name": "两条人鱼",
+        "reason": "仅剩骸骨和推测背景，无可确立独立意志与行动的角色资料"
+      },
+      {
+        "name": "海洋生物学家、潜水助手",
+        "reason": "未具名专业协助者"
+      }
+    ],
+    "notes": [
+      "维司狄加度长寿、人鱼移植与带走后人均按推测标识；保留相互竞争的结局。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/044大厦.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "杰克",
+        "card_id": "weisili_jieke",
+        "role": "重要配角",
+        "basis": "警务调查"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "调查、受困和获救"
+      },
+      {
+        "name": "王直义",
+        "card_id": "weisili_wang_zhiyi",
+        "role": "危险实验者",
+        "basis": "大厦研究及保密冲突"
+      },
+      {
+        "name": "韩泽",
+        "card_id": "weisili_han_ze",
+        "role": "危险实验者",
+        "basis": "大厦研究及保密冲突"
+      },
+      {
+        "name": "罗定",
+        "card_id": "weisili_luo_ding",
+        "role": "单书主角",
+        "basis": "大厦研究及保密冲突"
+      },
+      {
+        "name": "鲨鱼（大厦）",
+        "card_id": "weisili_shayu_dasha",
+        "role": "反派",
+        "basis": "大厦研究及保密冲突"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "陈毛",
+        "reason": "看楼及被害线索人物；死亡责任未获得完整确证"
+      },
+      {
+        "name": "幕后资助者",
+        "reason": "未明身份和具体独立行动，不凭空补成某已知组织"
+      }
+    ],
+    "notes": [
+      "原设施毁坏；任何恢复设施的部署都须另作场景条件，不纳入常态。"
+    ]
+  }
+]

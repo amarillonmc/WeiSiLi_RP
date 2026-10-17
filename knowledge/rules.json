@@ -1,0 +1,176 @@
+{
+  "version": "nk-cards-1.0",
+  "retrieved_at": "2026-10-17",
+  "card_source": {
+    "url": "https://number81.xyz/index.php?topic=667.0",
+    "post_id": "2992",
+    "title": "通用型AI设计参考角色模板Ver3.6 七维面板更新",
+    "version": "3.6",
+    "section": "首帖：角色设计模板 行为扳机版",
+    "last_edit": "2026-08-18 18:24"
+  },
+  "rating_source": {
+    "url": "https://number81.xyz/index.php?topic=1067.0",
+    "post_id": "7220",
+    "title": "强度分级分析标准 多维度分析版（AI用）",
+    "section": "通用评估标准",
+    "last_edit": "2026-08-18 19:27"
+  },
+  "scope": {
+    "protagonists": "包括系列主角及单篇/单书的独立主视角人物。",
+    "recurring_support": "具有叙事作用且实际参与至少两部作品的非主角；提及次数不能直接当作登场证据。",
+    "antagonists": "具有可辨身份并承担对抗、阴谋或威胁行为的角色，包括单本反派及后期转变立场者；阶段性对立者须说明，不把陌生或异类自动视为邪恶。",
+    "anonymous_groups": "无法区分成员的群体仅在具有共同身份、行动逻辑和能力时建群体条目；不能虚构无名成员的姓名。",
+    "terminal_version": "综合本语料覆盖的全部经历。结局死亡或失踪仍写明；参战时若需恢复活动，以最后可独立行动形态加终局记忆作为明确标注的改编，不虚构原作复活。互斥形态不叠加。",
+    "adaptation": "仅可增补自然的场景扳机、生活细节和跨世界接口；保持能力来源、关键关系和道德选择。每条改编单列，不把复述情节当行为脚本。",
+    "source_policy": "正文优先；每条卡提供可定位到书名与清理后行号的证据。原文没有数值时使用能力目标与条件描述，不伪造精确射程、速度、持续时间。"
+  },
+  "card_requirements": {
+    "biography_min_characters": 300,
+    "biography": "采用原创概述或情景化重述，呈现人物选择、外观、经历和动机；新造桥段须标明改编。",
+    "mandatory_sections": [
+      "背景传记",
+      "行为表现与手法",
+      "基础七维",
+      "行为逻辑",
+      "核心行为库"
+    ],
+    "conditional_sections": [
+      "OOC行为禁令",
+      "世界观专有名词解释与世界观泛化转换",
+      "终极底牌/终局表现",
+      "弱点/自我限制"
+    ],
+    "active_ability_fields": [
+      "名称",
+      "表现类型",
+      "运作原理",
+      "可观察表现",
+      "衍生应用",
+      "条件与边界"
+    ],
+    "seven_dimensions": [
+      "破坏力",
+      "耐久度",
+      "速度",
+      "能量/非物理攻击",
+      "精神/意念",
+      "战斗续航",
+      "战斗智商"
+    ],
+    "combat_intelligence": [
+      "战斗中的表现",
+      "常规智力",
+      "战斗智慧",
+      "应变能力"
+    ],
+    "trigger_rule": "情境同时包含行动与触发条件；举例台词默认为演绎用新台词，只有逐字核验且有出处时才标原文名句。",
+    "independence": "单卡必须能独立理解关键设定；不依赖另一角色卡提供本卡不可缺少的能力机制。"
+  },
+  "rating": {
+    "positive_weights": {
+      "physical": 1.5,
+      "energy": 1.5,
+      "scope": 2,
+      "sustain": 2,
+      "range": 1.5,
+      "combat": 1.5
+    },
+    "positive_labels": {
+      "physical": "物理强度",
+      "energy": "能量强度",
+      "scope": "影响力范围",
+      "sustain": "持久度",
+      "range": "战斗距离适配",
+      "combat": "真实战斗力"
+    },
+    "deductions": [
+      "self_limit",
+      "environment",
+      "volatility"
+    ],
+    "formula": "sum(positive_score * weight) - self_limit.score * self_limit.af - environment.score * environment.af - volatility.score",
+    "score_range": [
+      0,
+      10
+    ],
+    "accessibility_factor": {
+      "ordinary": [
+        1.0,
+        1.0
+      ],
+      "special_condition": [
+        0.5,
+        0.7
+      ],
+      "nearly_inaccessible": [
+        0.1,
+        0.3
+      ]
+    },
+    "bands": [
+      {
+        "name": "纸",
+        "min": -30,
+        "max": 10
+      },
+      {
+        "name": "并",
+        "min": 11,
+        "max": 25
+      },
+      {
+        "name": "强",
+        "min": 26,
+        "max": 33
+      },
+      {
+        "name": "凶",
+        "min": 34,
+        "max": 40
+      },
+      {
+        "name": "狂",
+        "min": 41,
+        "max": 55
+      },
+      {
+        "name": "准神",
+        "min": 56,
+        "max": 70
+      },
+      {
+        "name": "神下",
+        "min": 71,
+        "max": 80
+      },
+      {
+        "name": "神中",
+        "min": 81,
+        "max": 90
+      },
+      {
+        "name": "神上",
+        "min": 91,
+        "max": 100
+      }
+    ],
+    "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+    "concept_gate": {
+      "0": "未显示概念干涉，最高准神",
+      "1": "局部概念干涉，神下资格",
+      "2": "核心概念干涉，神中至神上资格",
+      "3": "绝对/叙事层概念干涉，需另核论外条件"
+    },
+    "mastery_labels": [
+      "不适用",
+      "被动触发",
+      "稍有掌握",
+      "基本掌握",
+      "完全掌握"
+    ],
+    "practical_and_theoretical": "分别记录常态、可控上限与不可控事件。理论位阶不得低于实战等级；接触神器、认识高位者、经历时间旅行均不等于个人拥有相应权能。",
+    "forum_label_rule": "理论高于实战时，被动按频率判断；稍有掌握取实战本层顶；基本掌握上调一层但不超理论；完全掌握采用理论。论外需明确满足本体/叙事或绝对不可影响条件，不能凭外星或灵魂身份自动归类。",
+    "uncertainty": "评分为本项目依据文本作出的分析，不是原作官方数值。原帖层级描述与举例存在宽泛性，采用加权结果并显式记录概念门槛及证据置信度。"
+  }
+}

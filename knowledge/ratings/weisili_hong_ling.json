@@ -1,0 +1,133 @@
+{
+  "id": "weisili_hong_ling",
+  "name": "卫红绫",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "《一个地方》以后自主追索异常地点；《只限老友》仍以人类女儿身份参与家中讨论",
+    "deployment": "《一个地方》以后自主追索异常地点；《只限老友》仍以人类女儿身份参与家中讨论。仅携带卡中明确列出的随身装备；朋友、机构与失去的装置均需另行取得支持。"
+  },
+  "positive": {
+    "physical": 5,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 5,
+    "range": 3,
+    "combat": 7
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "显著超出常人的近身力量；只按明确物体和遭遇描述，不外推城市级。",
+    "energy": "本卡未把接触到的外星技术或他人的能力计入个人能量输出。",
+    "scope": "按能直接作用的人体、局部物件或现场计分，社会势力不等于攻击面积。",
+    "sustain": "按其身体、训练和现场状态行动；需要休息、治疗与补给，不编造无限续航或精确时长。",
+    "range": "近身与常规工具的有限距离；没有无条件远程法术。",
+    "combat": "根据正文中的实战技巧与现场判断作项目分析。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 34.5,
+  "deduction_total": 3.0,
+  "raw_score": 31.5,
+  "rounded_score": 32,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "强",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/089烈火女.txt",
+      "start_line": 3096,
+      "end_line": 3105,
+      "supports": "保护银猿与母女关系中的成长",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/091祸根.txt",
+      "start_line": 1048,
+      "end_line": 1049,
+      "supports": "长途行动中的力量与准备",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/091祸根.txt",
+      "start_line": 3156,
+      "end_line": 3165,
+      "supports": "不携带背心并获得父母尊重",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/125成精变人.txt",
+      "start_line": 2679,
+      "end_line": 2688,
+      "supports": "神鹰化人后的互动",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/091祸根.txt",
+      "start_line": 3144,
+      "end_line": 3160,
+      "supports": "祖母教用背心及基地设备，主动留下背心，不能主动召祖母",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/128人面组合.txt",
+      "start_line": 841,
+      "end_line": 858,
+      "supports": "指出身世不取消个人自我，帮助胡克强面对照片",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/126未来身份.txt",
+      "start_line": 117,
+      "end_line": 124,
+      "supports": "亲历交流与自认沟通边界",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/126未来身份.txt",
+      "start_line": 130,
+      "end_line": 158,
+      "supports": "不舍而尊重离去的选择",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "数值评级为项目分析，原文没有相应战斗数值。"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "weisili_luo_zhiqian",
+  "name": "骆致谦",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "屠杀岛民后被制服押回，执行死刑；药源岛屿后疑似陆沉。",
+    "deployment": "原作终局已经死亡或失去可行动形态；参战用最后清醒行动形态，保留终局经历，仅作为明确的角色扮演恢复，不宣称原作复活。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 5,
+    "range": 2,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 持续服药能修复多种非致命伤，但心脏损伤、死刑等仍能导致死亡。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可延缓衰老并恢复伤势，但服药依赖严重，供应中断损害神智。",
+    "range": "须持续供应，停止会严重损害神智；心脏等致命伤可杀死，药源终局不可保证，不能复活一切死者。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 4,
+      "af": 1.0,
+      "reason": "以药源、秘密与同病相怜控制别人，避免自己成为孤立的异类。"
+    },
+    "environment": {
+      "score": 6,
+      "af": 1.0,
+      "reason": "须持续供应，停止会严重损害神智；心脏等致命伤可杀死，药源终局不可保证，不能复活一切死者。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 25.5,
+  "deduction_total": 11.0,
+  "raw_score": 14.5,
+  "rounded_score": 15,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "强",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/012不死药.txt",
+      "start_line": 1697,
+      "end_line": 1709,
+      "supports": "真实身份反转",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/012不死药.txt",
+      "start_line": 1813,
+      "end_line": 1843,
+      "supports": "药物商业化与走私合作",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/012不死药.txt",
+      "start_line": 2621,
+      "end_line": 2692,
+      "supports": "强迫依赖及弑兄原因",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/012不死药.txt",
+      "start_line": 2726,
+      "end_line": 2747,
+      "supports": "屠杀计划",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/012不死药.txt",
+      "start_line": 2800,
+      "end_line": 2892,
+      "supports": "实际屠杀、恢复及制服",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/012不死药.txt",
+      "start_line": 2955,
+      "end_line": 2967,
+      "supports": "处刑和药源终局",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

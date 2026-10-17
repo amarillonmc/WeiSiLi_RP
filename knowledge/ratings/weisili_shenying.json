@@ -1,0 +1,201 @@
+{
+  "id": "weisili_shenying",
+  "name": "神鹰",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "《成精变人》末自愿成为人类并失去飞行能力；《未来身份》仍通鹰语，与金维离开继续调查。",
+    "deployment": "默认采用已成人的终局形态和本人经历。若剧情选用鹰形，须明确声明历史形态改编，并另算能力；不默认可自由变身。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 1,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "人形体格，未证实超人破坏力",
+    "energy": "无主动放能",
+    "scope": "个人周边作用",
+    "sustain": "人形需休息",
+    "range": "本人沟通和工具距离，外援飞行不计",
+    "combat": "保留经历但未展示成熟人形战斗技艺"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "需适应人的身体；失去自行飞行，工具和外援必须实际取得。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "需适应人的身体；失去自行飞行，工具和外援必须实际取得。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "主动接受成人代价，未见固定失控机制。"
+    }
+  },
+  "positive_total": 13.5,
+  "deduction_total": 2.0,
+  "raw_score": 11.5,
+  "rounded_score": 12,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "终局成人后的体格、记忆和已展示鹰语；鹰形战绩和大羊鹰的飞行不得叠加。",
+    "tier": "并",
+    "uncontrolled": "未证实能自行复原鹰形或在危急时长出羽翼。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 95,
+      "end_line": 169,
+      "supports": "冲突受伤与救治",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 272,
+      "end_line": 326,
+      "supports": "与红绫交往",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 994,
+      "end_line": 1013,
+      "supports": "携信",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 1237,
+      "end_line": 1245,
+      "supports": "引路",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 1443,
+      "end_line": 1448,
+      "supports": "负重边界",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 2682,
+      "end_line": 2685,
+      "supports": "伙伴与往返",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/107解脱.txt",
+      "start_line": 998,
+      "end_line": 1006,
+      "supports": "通灵背景",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/107解脱.txt",
+      "start_line": 1027,
+      "end_line": 1090,
+      "supports": "毒蜗牛诱惑与克服",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/104暗号之二.txt",
+      "start_line": 2282,
+      "end_line": 2286,
+      "supports": "识别海东青",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/104暗号之二.txt",
+      "start_line": 2376,
+      "end_line": 2381,
+      "supports": "捕获海东青",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/115原形.txt",
+      "start_line": 1731,
+      "end_line": 1747,
+      "supports": "鸡语交流局限",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/115原形.txt",
+      "start_line": 2590,
+      "end_line": 2638,
+      "supports": "交战与恐惧",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/125成精变人.txt",
+      "start_line": 2630,
+      "end_line": 2648,
+      "supports": "基因调整过程",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/125成精变人.txt",
+      "start_line": 2680,
+      "end_line": 2686,
+      "supports": "自愿成人和不能飞",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/126未来身份.txt",
+      "start_line": 117,
+      "end_line": 153,
+      "supports": "成人后仍通鹰语、须被背飞",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 1415,
+      "end_line": 1521,
+      "supports": "鹰身争执与和解",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 1621,
+      "end_line": 1631,
+      "supports": "当时仍可飞行",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 2338,
+      "end_line": 2416,
+      "supports": "未来幻境的形态与逃避",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

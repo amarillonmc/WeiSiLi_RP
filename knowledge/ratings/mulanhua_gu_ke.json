@@ -1,0 +1,126 @@
+{
+  "id": "mulanhua_gu_ke",
+  "name": "孤克",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本批原文剧情结束后的经历与认知",
+    "canonical_endpoint": "宣布解散世界勒索组织并遥毁各地毒药盒，随后识破假妻反扑，开笼时被毒蜘蛛咬死；遗产由当地政府接管。",
+    "deployment": "保留终局经历；以最后已证实的可行动状态登场，未随身拥有原文未说明的器材。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 2,
+    "scope": 1,
+    "sustain": 1,
+    "range": 1,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "虽有木腿仍能快速扑向人，但被高翔一拳击退；不具超人耐久。",
+    "energy": "有限毒物作用可致命，须实际携带或接触，无隔空施毒。",
+    "scope": "随身与眼前毒物限局部，城市水污染另列有条件上限。",
+    "sustain": "身体残缺、普通疲劳与毒物库存约束；不能因污染持续推定本人无限续航。",
+    "range": "直接接触或依投放媒介，远程盒控须提前部署。",
+    "combat": "擅研究和勒索，临场怒攻与开笼却被反噬。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "无另行证实且应重复扣分的能力性自限；普通人能力低已计入正向分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "未把一般生存环境需求另算特殊限制。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "无证据表明拥有随机失控的主动战斗能力。"
+    }
+  },
+  "positive_total": 14.5,
+  "deduction_total": 0.0,
+  "raw_score": 14.5,
+  "rounded_score": 15,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "原文未显示改写世界规则或叙事层的可控权柄；异常事件与知情不等同概念干涉。",
+  "practical_tier": "并",
+  "theoretical_tier": "狂",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "常态为并级近距离毒物及普通身体对抗；若重新拥有原作活性毒药、实验条件并实际接近城市供水，可造成狂级大范围污染危险，属于有条件的物质作用而非即时攻击。",
+    "tier": "狂",
+    "uncontrolled": "活性毒药在有水环境持续扩散，本人未展示回收或消毒方法；毒动物也会反噬饲养者。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/19连环毒计.txt",
+      "start_line": 1534,
+      "end_line": 1568,
+      "supports": "外貌、教育与身份自述",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/19连环毒计.txt",
+      "start_line": 1580,
+      "end_line": 1650,
+      "supports": "处死王大通与虚伪礼节",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/19连环毒计.txt",
+      "start_line": 1660,
+      "end_line": 1776,
+      "supports": "研究机制、勒索及范围条件",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/19连环毒计.txt",
+      "start_line": 1962,
+      "end_line": 1986,
+      "supports": "身份与杀妻旧案",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/19连环毒计.txt",
+      "start_line": 2104,
+      "end_line": 2106,
+      "supports": "助手被毒物反噬",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/19连环毒计.txt",
+      "start_line": 2304,
+      "end_line": 2358,
+      "supports": "假妻骗局与组织解散",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/19连环毒计.txt",
+      "start_line": 2370,
+      "end_line": 2384,
+      "supports": "假腿中枪、毒物反噬及死亡",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "断腿及面疤形成过程未写，不擅补事故。妻子幸存、失语和修道院的剪报是木兰花骗局，不作原作事实。"
+  ]
+}

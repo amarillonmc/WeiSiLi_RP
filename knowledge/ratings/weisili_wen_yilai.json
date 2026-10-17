@@ -1,0 +1,119 @@
+{
+  "id": "weisili_wen_yilai",
+  "name": "文依来",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "《卖命》完成宇宙探险后返地，将自身已无用的地球生命配额转给弥留的母亲使其恢复健康，计划带母亲赴父星；普遍的人际配额转移方法仍未研究成功",
+    "deployment": "《卖命》完成宇宙探险后返地，将自身已无用的地球生命配额转给弥留的母亲使其恢复健康，计划带母亲赴父星；普遍的人际配额转移方法仍未研究成功；保留终局身体与本人技能，其他人的能力和未实际取得的设备不随卡自动调用。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 3,
+    "scope": 2,
+    "sustain": 3,
+    "range": 3,
+    "combat": 5
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "单独电流有限；可控上限需兄弟共同接触，能毁坏现场多件枪械和形成排泥电网。；该项仅评价本卡机制在对应维度上的作用。",
+    "energy": "单独电流有限；可控上限需兄弟共同接触，能毁坏现场多件枪械和形成排泥电网。；该项仅评价本卡机制在对应维度上的作用。",
+    "scope": "单独电流有限；可控上限需兄弟共同接触，能毁坏现场多件枪械和形成排泥电网。；该项仅评价本卡机制在对应维度上的作用。",
+    "sustain": "单独电流有限；可控上限需兄弟共同接触，能毁坏现场多件枪械和形成排泥电网。；该项仅评价本卡机制在对应维度上的作用。",
+    "range": "单独电流有限；可控上限需兄弟共同接触，能毁坏现场多件枪械和形成排泥电网。；该项仅评价本卡机制在对应维度上的作用。",
+    "combat": "单独电流有限；可控上限需兄弟共同接触，能毁坏现场多件枪械和形成排泥电网。；该项仅评价本卡机制在对应维度上的作用。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 29.5,
+  "deduction_total": 5.0,
+  "raw_score": 24.5,
+  "rounded_score": 25,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "并",
+  "theoretical_tier": "凶",
+  "mastery": "基本掌握",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "兄弟到场并互相接触后增强电流，形成电网；携带父亲飞船时另有宇航能力。；救母的配额为既有资源转出，已用份额不重复计入战斗或无限治疗。",
+    "tier": "凶",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/068电王.txt",
+      "start_line": 3363,
+      "end_line": 3395,
+      "supports": "接触交换信息及单独弱、共同强的限制",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/068电王.txt",
+      "start_line": 3419,
+      "end_line": 3452,
+      "supports": "遗传任务与解除武装",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/068电王.txt",
+      "start_line": 3461,
+      "end_line": 3509,
+      "supports": "电网排泥和飞船离开",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/120卖命.txt",
+      "start_line": 2542,
+      "end_line": 2549,
+      "supports": "确认电王兄弟与返地",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/120卖命.txt",
+      "start_line": 2563,
+      "end_line": 2591,
+      "supports": "救母、转自身配额和方法边界",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/121考验.txt",
+      "start_line": 200,
+      "end_line": 222,
+      "supports": "普遍转移研究仍未完成",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "兄弟合力峰值不能算单人常态。"
+  ]
+}

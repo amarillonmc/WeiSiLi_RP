@@ -1,0 +1,105 @@
+{
+  "id": "weisili_bu_lianchang_original",
+  "name": "卜连昌（原海员）",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "在南美洲港口遭杀害，照片确认与获救的申索夫不同。",
+    "deployment": "原作终局已经死亡或失去可行动形态；参战用最后清醒行动形态，保留终局经历，仅作为明确的角色扮演恢复，不宣称原作复活。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 0,
+    "sustain": 2,
+    "range": 1,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "已经死亡；记忆被他人拥有不等于本人可附体、重生或读心，不能继承申索夫电脑技能。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "保全家人与海员生活，同时处理酒后冲动带来的代价。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "已经死亡；记忆被他人拥有不等于本人可附体、重生或读心，不能继承申索夫电脑技能。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 10.0,
+  "deduction_total": 2.0,
+  "raw_score": 8.0,
+  "rounded_score": 8,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "纸",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "并",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/026多了一个.txt",
+      "start_line": 85,
+      "end_line": 89,
+      "supports": "船长对原海员的认识",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/026多了一个.txt",
+      "start_line": 350,
+      "end_line": 388,
+      "supports": "子女记忆及死亡通知",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/026多了一个.txt",
+      "start_line": 415,
+      "end_line": 451,
+      "supports": "本人照片和夫妻往事",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/026多了一个.txt",
+      "start_line": 1337,
+      "end_line": 1353,
+      "supports": "死前冲突和记忆假说",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "主要由照片、家人和船长回忆构成，心理细节不作额外确定化。"
+  ]
+}

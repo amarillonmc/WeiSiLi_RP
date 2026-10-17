@@ -1,0 +1,106 @@
+{
+  "id": "weisili_dela",
+  "name": "德拉",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "变形后失足跌入金坑不动，卫斯理之后称其已死，但未检查尸体。",
+    "deployment": "以坠坑前仍能理解请求的变形形态作有限恢复，保留最终经历；这是参战改编，不称原作存活，也不恢复可自由切换的正常肉体。"
+  },
+  "positive": {
+    "physical": 4,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 1,
+    "range": 1,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "变形后一次冲翻叙述估计至少数吨的大石，不能外推摧城。 软化变形并未显示免疫枪弹或坠落；跌坑后失去行动。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "变形伴随严重痛苦、站立不稳和恶化，没有稳定长期续航证据。",
+    "range": "身体软化、行走缓慢、不能正常说话，重力和地形依然可致命；不具自由变形、辐射投射或可控感染。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 4,
+      "af": 1.0,
+      "reason": "为黛恢复人的尊严，并要求别人真正看见她经历了什么。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "身体软化、行走缓慢、不能正常说话，重力和地形依然可致命；不具自由变形、辐射投射或可控感染。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 14.5,
+  "deduction_total": 9.0,
+  "raw_score": 5.5,
+  "rounded_score": 6,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "纸",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "并",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/027仙境.txt",
+      "start_line": 278,
+      "end_line": 330,
+      "supports": "身份、婚姻和性格",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/027仙境.txt",
+      "start_line": 909,
+      "end_line": 1011,
+      "supports": "自证妻子清白与持枪强迫",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/027仙境.txt",
+      "start_line": 1492,
+      "end_line": 1557,
+      "supports": "巨力、缓慢、理解及坠坑",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/027仙境.txt",
+      "start_line": 1906,
+      "end_line": 1913,
+      "supports": "死亡表述及辐射解释存疑",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "异物与变形的关联明确，所谓外星辐射仍被专家质疑，未有样品验证。",
+    "坠坑后没有验尸，死亡是后续叙述认定。"
+  ]
+}

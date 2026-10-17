@@ -1,0 +1,273 @@
+{
+  "id": "mulanhua_mu_xiuzhen",
+  "name": "穆秀珍",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料各书终局经历",
+    "canonical_endpoint": "与云四风婚后仍持续行动；卫106进一步涉及生母及异国头号人物身世，未继承政权；卫112继续潜水协助。没有死亡或永久失能。",
+    "deployment": "保留终局经历；以最后已证实的可行动状态登场，未随身拥有原文未说明的器材。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 0,
+    "scope": 2,
+    "sustain": 3,
+    "range": 3,
+    "combat": 7
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "训练武艺与武装局部伤害，多人制服不等超人防护。",
+    "energy": "无可主动发动的非物理攻击，数字梦仅信息。",
+    "scope": "个人武器与局部装置作用，不把飞机爆炸链扩大为自带范围。",
+    "sustain": "熟练长泳和持续行动，氧气伤病及疲劳有限。",
+    "range": "枪械和已携设备提供远距攻击，不能自动调用战机。",
+    "combat": "多次近战、夺械、射击和驾驶应变，亦有失误、被俘与依赖救援。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "无另行证实且应重复扣分的能力性自限；普通人能力低已计入正向分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "未把一般生存环境需求另算特殊限制。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "无证据表明拥有随机失控的主动战斗能力。"
+    }
+  },
+  "positive_total": 29.5,
+  "deduction_total": 0.0,
+  "raw_score": 29.5,
+  "rounded_score": 30,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "原文未显示改写世界规则或叙事层的可控权柄；异常事件与知情不等同概念干涉。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "优秀游泳潜水、驾驶与实战武艺、枪械和机敏观察；梦境线索仅作为被动信息经历。",
+    "tier": "强",
+    "uncontrolled": "未展示可归属于本人、可反复发动的额外不可控上限。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/03太阳之女.txt",
+      "start_line": 342,
+      "end_line": 346,
+      "supports": "武术段位说法边界",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/22天外恩仇.txt",
+      "start_line": 14,
+      "end_line": 98,
+      "supports": "马超文遇难",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/22天外恩仇.txt",
+      "start_line": 180,
+      "end_line": 246,
+      "supports": "慰问与重新行动",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/22天外恩仇.txt",
+      "start_line": 2694,
+      "end_line": 2740,
+      "supports": "纪念马与接受陪伴",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/25血溅黄金柱.txt",
+      "start_line": 1400,
+      "end_line": 1434,
+      "supports": "精确射击",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/27钻石镭射.txt",
+      "start_line": 2,
+      "end_line": 56,
+      "supports": "外观与救安妮",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/27钻石镭射.txt",
+      "start_line": 514,
+      "end_line": 536,
+      "supports": "近战与为人质停枪",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/30玻璃伪钞模.txt",
+      "start_line": 1516,
+      "end_line": 1606,
+      "supports": "商标线索与豪客套话",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/31黑暗历险.txt",
+      "start_line": 1656,
+      "end_line": 1684,
+      "supports": "责怪后拒独逃",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/38无价奇石.txt",
+      "start_line": 1970,
+      "end_line": 2200,
+      "supports": "气流驾驶、空战和伤疲",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/38无价奇石.txt",
+      "start_line": 2254,
+      "end_line": 2340,
+      "supports": "下探器械与辐射检查",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/39失踪新娘.txt",
+      "start_line": 208,
+      "end_line": 234,
+      "supports": "结婚",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/40怪新郎.txt",
+      "start_line": 2426,
+      "end_line": 2550,
+      "supports": "真穆破门夺枪但被火力困",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/40怪新郎.txt",
+      "start_line": 2680,
+      "end_line": 2686,
+      "supports": "警方解围",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/45魔画.txt",
+      "start_line": 2180,
+      "end_line": 2206,
+      "supports": "三分钟制八人",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/53电网火花.txt",
+      "start_line": 1294,
+      "end_line": 1316,
+      "supports": "集中学外语",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/53电网火花.txt",
+      "start_line": 1450,
+      "end_line": 1452,
+      "supports": "发音露破绽",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/091祸根.txt",
+      "start_line": 595,
+      "end_line": 683,
+      "supports": "潜水常识与红绫关系",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 1114,
+      "end_line": 1157,
+      "supports": "驾机来访",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "start_line": 1871,
+      "end_line": 1951,
+      "supports": "记长名与接触图样",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/106在数难逃.txt",
+      "start_line": 2461,
+      "end_line": 2571,
+      "supports": "数字梦与母亲形象",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/106在数难逃.txt",
+      "start_line": 2678,
+      "end_line": 2725,
+      "supports": "生母和政治身世的较晚揭示",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/112新武器.txt",
+      "start_line": 1866,
+      "end_line": 1866,
+      "supports": "潜水专家",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/112新武器.txt",
+      "start_line": 2069,
+      "end_line": 2138,
+      "supports": "船与仪器协助",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/59无风自动.txt",
+      "start_line": 1780,
+      "end_line": 1826,
+      "supports": "鞋跟焊枪切铰链而非徒手破钢",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/59无风自动.txt",
+      "start_line": 2114,
+      "end_line": 2116,
+      "supports": "救援仍拉平濑上梯",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 336,
+      "end_line": 456,
+      "supports": "陈思空重击内出血与手术",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 1876,
+      "end_line": 1916,
+      "supports": "末章恢复走动",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "卫106母亲梦境机制及所谓前世未获确证；身份揭示不应扩成完整王室履历。"
+  ]
+}

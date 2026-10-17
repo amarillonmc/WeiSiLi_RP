@@ -1,0 +1,132 @@
+[
+  {
+    "path": "卫斯理系列/106在数难逃.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "卫七",
+        "card_id": "weisili_wei_qishu",
+        "role": "重要配角",
+        "basis": "参与数字与身份调查"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "参与数字与身份调查"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "参与数字与身份调查"
+      },
+      {
+        "name": "齐白",
+        "card_id": "weisili_qi_bai",
+        "role": "重要配角",
+        "basis": "参与数字与身份调查"
+      },
+      {
+        "name": "李宣宣",
+        "card_id": "weisili_li_xuanxuan",
+        "role": "重要配角",
+        "basis": "参与数字与身份调查"
+      },
+      {
+        "name": "戈壁",
+        "card_id": "weisili_ge_bi",
+        "role": "重要配角",
+        "basis": "参与数字与身份调查"
+      },
+      {
+        "name": "沙漠",
+        "card_id": "weisili_sha_mo",
+        "role": "重要配角",
+        "basis": "参与数字与身份调查"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "重要配角",
+        "basis": "实际到场或通讯"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "实际到场或通讯"
+      },
+      {
+        "name": "康维",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "重要配角",
+        "basis": "实际到场或通讯"
+      },
+      {
+        "name": "柳絮",
+        "card_id": "yuanzhenxia_liu_xu",
+        "role": "重要配角",
+        "basis": "实际到场或通讯"
+      },
+      {
+        "name": "穆秀珍之母",
+        "card_id": "weisili_mu_xiuzhen_mother",
+        "role": "单书主角",
+        "basis": "托孤与身世事件的关键行动者"
+      },
+      {
+        "name": "李达承",
+        "card_id": "weisili_li_dacheng",
+        "role": "单书重要人物",
+        "basis": "托孤与身世事件的关键行动者"
+      },
+      {
+        "name": "穆秀珍生父（异国头号人物）",
+        "card_id": "weisili_foreign_first_leader",
+        "role": "反派",
+        "basis": "托孤与身世事件的关键行动者"
+      },
+      {
+        "name": "胡队长（江船搜捕）",
+        "card_id": "weisili_hu_captain_shunshao",
+        "role": "反派",
+        "basis": "托孤与身世事件的关键行动者"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "穆家庄主",
+        "reason": "收养女婴的一次性辅助人物；未发现独立反派行动或多书实际参与。"
+      },
+      {
+        "name": "被称仙人的青年",
+        "reason": "来历仍以往事转述与推测说明；与原振侠联系未在本书充分落实，不增造一个全知仙人。"
+      },
+      {
+        "name": "电脑异常的幕后制造者",
+        "reason": "白羽星或陈月兰只是卫斯理推测，不能认定具体实施者。"
+      },
+      {
+        "name": "船员、画师、士兵与工作人员",
+        "reason": "单次辅助人员或未独立刻画的执行群体。"
+      }
+    ],
+    "notes": [
+      "卫七是救助与托养人，不是穆秀珍生父。",
+      "梦中母像经画师与电脑加工得到；数字解码器未找到，不授予全知预言能力。"
+    ]
+  }
+]

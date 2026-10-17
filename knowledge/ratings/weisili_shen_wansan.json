@@ -1,0 +1,126 @@
+{
+  "id": "weisili_shen_wansan",
+  "name": "沈万三（小说版本）",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "《飞毛腿》开篇仍以灵魂与卫交谈，继续考虑而未走活路；没有证实获得永恒新生命",
+    "deployment": "保留后续仍犹豫的灵魂形态及附物、有限信息沟通；没有恢复聚宝盆或取得活路终极能力。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 1,
+    "scope": 1,
+    "sustain": 6,
+    "range": 2,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "长时附物与有限沟通，没有实际攻击或任意控制；财富仪器不归本人常驻；该项仅评价本卡机制在对应维度上的作用。",
+    "energy": "长时附物与有限沟通，没有实际攻击或任意控制；财富仪器不归本人常驻；该项仅评价本卡机制在对应维度上的作用。",
+    "scope": "长时附物与有限沟通，没有实际攻击或任意控制；财富仪器不归本人常驻；该项仅评价本卡机制在对应维度上的作用。",
+    "sustain": "长时附物与有限沟通，没有实际攻击或任意控制；财富仪器不归本人常驻；该项仅评价本卡机制在对应维度上的作用。",
+    "range": "长时附物与有限沟通，没有实际攻击或任意控制；财富仪器不归本人常驻；该项仅评价本卡机制在对应维度上的作用。",
+    "combat": "长时附物与有限沟通，没有实际攻击或任意控制；财富仪器不归本人常驻；该项仅评价本卡机制在对应维度上的作用。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 20.0,
+  "deduction_total": 8.0,
+  "raw_score": 12.0,
+  "rounded_score": 12,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "基本掌握",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "并",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/116活路.txt",
+      "start_line": 2011,
+      "end_line": 2086,
+      "supports": "附板、拒谈与身份确认",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/116活路.txt",
+      "start_line": 2194,
+      "end_line": 2239,
+      "supports": "救蛙、财富愿望及复制仪解释",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/116活路.txt",
+      "start_line": 2259,
+      "end_line": 2326,
+      "supports": "获宝、死亡、附板与迟疑阻止同伴",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/116活路.txt",
+      "start_line": 2378,
+      "end_line": 2449,
+      "supports": "召盒条件及转附衣袖",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/116活路.txt",
+      "start_line": 2470,
+      "end_line": 2479,
+      "supports": "惧怕阴间权威的明确心理",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/116活路.txt",
+      "start_line": 2633,
+      "end_line": 2636,
+      "supports": "板消失后去向未明",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/117双程.txt",
+      "start_line": 5,
+      "end_line": 39,
+      "supports": "续篇仍有实际对话，继续犹豫活路；几百年对魂不是长时间",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "数值评级为项目分析，原文没有相应战斗数值。"
+  ]
+}

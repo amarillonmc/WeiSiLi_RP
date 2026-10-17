@@ -1,0 +1,103 @@
+{
+  "id": "yuanzhenxia_chen_qingguo",
+  "name": "陈庆国",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "灵魂回到组织一方传递信息；最终去向未被继续交代，未证实复生。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 1,
+    "scope": 1,
+    "sustain": 5,
+    "range": 2,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "离体无实体打击",
+    "energy": "有限信息作用",
+    "scope": "单个接收者及相关信息",
+    "sustain": "灵魂可延续但受强者拘束",
+    "range": "需适配媒介或感应者",
+    "combat": "军人经验未转化为鬼魂战技"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "能力的已知边界：依赖接收条件；没有证实任意操纵身体或对物质造成攻击。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "场景条件：依赖接收条件；没有证实任意操纵身体或对物质造成攻击。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "临场情绪与选择：尝试劝其交心，容易把分歧看作错误。"
+    }
+  },
+  "positive_total": 19.5,
+  "deduction_total": 6.0,
+  "raw_score": 13.5,
+  "rounded_score": 14,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以离体灵魂与能够感应或借仪器接触的对象交流。；依赖接收条件；没有证实任意操纵身体或对物质造成攻击。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/29.人鬼疑云.txt",
+      "start_line": 4865,
+      "end_line": 4885,
+      "supports": "被组织安排走向死亡",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/29.人鬼疑云.txt",
+      "start_line": 5367,
+      "end_line": 5397,
+      "supports": "忠诚与感情分裂",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/29.人鬼疑云.txt",
+      "start_line": 6803,
+      "end_line": 6901,
+      "supports": "向组织传讯",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/29.人鬼疑云.txt",
+      "start_line": 7611,
+      "end_line": 7617,
+      "supports": "未获复生",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

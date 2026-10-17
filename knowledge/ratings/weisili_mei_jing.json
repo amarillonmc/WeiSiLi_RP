@@ -1,0 +1,126 @@
+{
+  "id": "weisili_mei_jing",
+  "name": "美景",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "后续仍以具实体的双生少女身份参与朋友圈的多次调查",
+    "deployment": "后续仍以具实体的双生少女身份参与朋友圈的多次调查。仅携带卡中明确列出的随身装备；朋友、机构与失去的装置均需另行取得支持。"
+  },
+  "positive": {
+    "physical": 4,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 4,
+    "range": 3,
+    "combat": 8
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "受过训练的人体近战、临时武器及可取得的常规枪械；不能据技巧宣称能摧毁建筑。",
+    "energy": "本卡未把接触到的外星技术或他人的能力计入个人能量输出。",
+    "scope": "按能直接作用的人体、局部物件或现场计分，社会势力不等于攻击面积。",
+    "sustain": "按其身体、训练和现场状态行动；需要休息、治疗与补给，不编造无限续航或精确时长。",
+    "range": "近身与常规工具的有限距离；没有无条件远程法术。",
+    "combat": "根据正文中的实战技巧与现场判断作项目分析。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 32.5,
+  "deduction_total": 3.0,
+  "raw_score": 29.5,
+  "rounded_score": 30,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "强",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/072废墟.txt",
+      "start_line": 3057,
+      "end_line": 3063,
+      "supports": "名字、双生与先后不明",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/072废墟.txt",
+      "start_line": 3271,
+      "end_line": 3275,
+      "supports": "轻功与后续共同事件",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/073密码.txt",
+      "start_line": 474,
+      "end_line": 474,
+      "supports": "轻功绝顶与慧黠的叙述",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/077招魂.txt",
+      "start_line": 1069,
+      "end_line": 1111,
+      "supports": "家族秘密与红娘子后代线索",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/22.变换双星.txt",
+      "start_line": 2983,
+      "end_line": 2987,
+      "supports": "反对禁锢另一半双生子",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/22.变换双星.txt",
+      "start_line": 3115,
+      "end_line": 3157,
+      "supports": "愿协助、问公开和清除基地记忆的同意",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/117双程.txt",
+      "start_line": 1094,
+      "end_line": 1102,
+      "supports": "记者证的实际依据",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "原文常将姐妹一起描写，未有依据的稳定性格差异不编造。"
+  ]
+}

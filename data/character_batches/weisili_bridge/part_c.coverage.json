@@ -1,0 +1,191 @@
+[
+  {
+    "path": "卫斯理系列/098还阳.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "黄老太（还阳）",
+        "card_id": "weisili_huang_laotai_huanyang",
+        "role": "阶段性对立者",
+        "basis": "情报安排、历史行动或当下研究决策"
+      },
+      {
+        "name": "神木居参谋长",
+        "card_id": "weisili_shenmu_chief_of_staff",
+        "role": "单书主角",
+        "basis": "情报安排、历史行动或当下研究决策"
+      },
+      {
+        "name": "下令锯神木的最高当局",
+        "card_id": "weisili_shenmu_supreme_leader",
+        "role": "反派",
+        "basis": "情报安排、历史行动或当下研究决策"
+      },
+      {
+        "name": "神木居事件的特务头子",
+        "card_id": "weisili_shenmu_spy_chief",
+        "role": "反派",
+        "basis": "情报安排、历史行动或当下研究决策"
+      },
+      {
+        "name": "主持还阳研究的首长",
+        "card_id": "weisili_huanyang_elder_leader",
+        "role": "反派",
+        "basis": "情报安排、历史行动或当下研究决策"
+      },
+      {
+        "name": "宋自然",
+        "card_id": "weisili_song_tianran",
+        "role": "重要配角",
+        "basis": "与《命运》宋天然同人，带来资料与事件"
+      },
+      {
+        "name": "黄蝉",
+        "card_id": "weisili_huang_chan",
+        "role": "重要配角",
+        "basis": "安排神木居和研究接触"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "调查与联系"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "系列主角",
+        "basis": "参与讨论"
+      },
+      {
+        "name": "罗开",
+        "card_id": "adventure_luokai",
+        "role": "跨系列主角",
+        "basis": "电话实际联系"
+      },
+      {
+        "name": "水红",
+        "card_id": "adventure_shui_hong",
+        "role": "重要配角",
+        "basis": "电话联系并谈姐姐处境"
+      },
+      {
+        "name": "勒曼医院研究者",
+        "card_id": "weisili_leman_hospital",
+        "role": "重要配角",
+        "basis": "协助说明实验和提出移交研究条件"
+      },
+      {
+        "name": "人树结合男子",
+        "card_id": "weisili_wood_man",
+        "role": "跨书主角",
+        "basis": "本书实验对象，后来《遗传》《水晶宫》明确人格与行动，合并记录早期状态"
+      },
+      {
+        "name": "人树结合女子",
+        "card_id": "weisili_wood_woman",
+        "role": "跨书主角",
+        "basis": "本书实验对象，后来《遗传》《水晶宫》明确人格与行动，合并记录早期状态"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "历史降将、接待和搬运人员",
+        "reason": "一次性背景和辅助人物，无独立主角线。"
+      },
+      {
+        "name": "十二花其他成员",
+        "reason": "作为背景比较被提及，不能当作全员在本书出场。"
+      }
+    ],
+    "notes": [
+      "宋自然的记忆处理在后续《买命》再核；亲属关系的早期疑问不擅自补齐。",
+      "本篇木中人尚未完成救治，后续《水晶宫》明确恢复行动，终局见各自主卡。"
+    ]
+  },
+  {
+    "path": "卫斯理系列/100开心.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "系列主角",
+        "basis": "与神鹰建立关系"
+      },
+      {
+        "name": "戈壁",
+        "card_id": "weisili_ge_bi",
+        "role": "重要配角",
+        "basis": "技艺与器材协助"
+      },
+      {
+        "name": "沙漠",
+        "card_id": "weisili_sha_mo",
+        "role": "重要配角",
+        "basis": "技艺与器材协助"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "跨系列主角",
+        "basis": "实际到访、回述相遇和借机"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨系列主角",
+        "basis": "实际到访、提供特殊飞机"
+      },
+      {
+        "name": "伦三德",
+        "card_id": "weisili_lun_sande",
+        "role": "重要配角",
+        "basis": "实际行动贯穿主线"
+      },
+      {
+        "name": "神鹰",
+        "card_id": "weisili_shenying",
+        "role": "重要配角",
+        "basis": "实际行动贯穿主线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "大山、原振侠的记载",
+        "reason": "此书提出大山生命的研究假说，未给独立人格行动；原振侠未亲自现身。"
+      },
+      {
+        "name": "兽医、受袭儿童、戈壁沙漠已故师父",
+        "reason": "一次性辅助或背景回述，未有独立主角线或跨书实际出场证据。"
+      }
+    ],
+    "notes": [
+      "工匠等级是技艺制度，不直接对应通用强度。大山苏醒的设想不计作已掌握能力。"
+    ]
+  }
+]

@@ -1,0 +1,145 @@
+{
+  "id": "weisili_tangna",
+  "name": "唐娜",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "《圈套》肉身跌石死亡，曾占陈安安与母亲半脑；终局不愿争夺陈安安、不愿再做人，未证实消散。",
+    "deployment": "默认采用不愿再占用身体的离体意识；联系须有实际情境和已证实渠道。若明确需要实体参战，另行恢复死亡前已衰老的原身，保留终局记忆，不叠加幼年健康身体或未来机器保护。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 2,
+    "scope": 1,
+    "sustain": 1,
+    "range": 1,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "没有灵体物理攻击",
+    "energy": "有限借体交流现象，不是任意夺舍",
+    "scope": "只涉及具体宿主与关系人",
+    "sustain": "意识延续条件未明",
+    "range": "没有任意远距联系能力",
+    "combat": "没有主动战斗表现"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "明确拒绝争夺别人的身体；不是可以随意解除的自保开关。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "能表达依赖具体联系与宿主条件，退出后未必能再进入。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "现象可控程度有限，不能承诺每次获得有效交流。"
+    }
+  },
+  "positive_total": 10.0,
+  "deduction_total": 3.0,
+  "raw_score": 7.0,
+  "rounded_score": 7,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "在已经形成的有限借体联系中表达经历或退出；未证实可任意创造新渠道。",
+    "tier": "纸",
+    "uncontrolled": "原来的外貌维持、机器保护和家庭遭遇不是可主动发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/051玩具.txt",
+      "start_line": 51,
+      "end_line": 54,
+      "supports": "外貌被认出",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/051玩具.txt",
+      "start_line": 2239,
+      "end_line": 2393,
+      "supports": "孩子行为及绘图",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/051玩具.txt",
+      "start_line": 3756,
+      "end_line": 3805,
+      "supports": "贫民窟与家庭",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/051玩具.txt",
+      "start_line": 3948,
+      "end_line": 3956,
+      "supports": "外貌及终局",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 2149,
+      "end_line": 2194,
+      "supports": "失控与死亡",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 2220,
+      "end_line": 2235,
+      "supports": "唐娜离入的限制",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 2539,
+      "end_line": 2580,
+      "supports": "母女共躯与母亡",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 3081,
+      "end_line": 3125,
+      "supports": "未来结局和陶格死亡",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 2147,
+      "end_line": 2194,
+      "supports": "急速衰老在先、跌石死亡在后",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 3116,
+      "end_line": 3120,
+      "supports": "不再做人、不争夺其他灵魂",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

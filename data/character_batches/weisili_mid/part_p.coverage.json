@@ -1,0 +1,119 @@
+[
+  {
+    "path": "卫斯理系列/94少年卫斯理.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "铁蛋／铁旦",
+        "card_id": "weisili_tie_dan",
+        "role": "系列重要配角",
+        "basis": "少年传令兵及后续将军"
+      },
+      {
+        "name": "七堂叔",
+        "card_id": "weisili_wei_qishu",
+        "role": "重要配角",
+        "basis": "介绍师父与取得鬼竹"
+      },
+      {
+        "name": "阴间四号",
+        "card_id": "weisili_yin_4",
+        "role": "重要配角",
+        "basis": "102明确早年神秘联络者身份"
+      },
+      {
+        "name": "祝香香",
+        "card_id": "weisili_zhu_xiangxiang",
+        "role": "单书主角",
+        "basis": "少年主线及父辈旧事"
+      },
+      {
+        "name": "宣瑛",
+        "card_id": "weisili_xuan_ying",
+        "role": "单书主角",
+        "basis": "少年主线及父辈旧事"
+      },
+      {
+        "name": "王天兵",
+        "card_id": "weisili_wang_tianbing",
+        "role": "重要配角",
+        "basis": "少年主线及父辈旧事"
+      },
+      {
+        "name": "祝志强",
+        "card_id": "weisili_zhu_zhiqiang",
+        "role": "单书主角",
+        "basis": "少年主线及父辈旧事"
+      },
+      {
+        "name": "况志强",
+        "card_id": "weisili_kuang_zhiqiang",
+        "role": "单书主角",
+        "basis": "少年主线及父辈旧事"
+      },
+      {
+        "name": "况英豪",
+        "card_id": "weisili_kuang_yinghao",
+        "role": "单书主角",
+        "basis": "少年主线及父辈旧事"
+      },
+      {
+        "name": "大眼神",
+        "card_id": "weisili_dayanshen",
+        "role": "单篇主角",
+        "basis": "少年主线及父辈旧事"
+      },
+      {
+        "name": "大块（少年卫斯理）",
+        "card_id": "weisili_dakuai_school",
+        "role": "反派",
+        "basis": "少年主线及父辈旧事"
+      },
+      {
+        "name": "铁叔叔",
+        "card_id": "weisili_tie_shushu",
+        "role": "单篇主角",
+        "basis": "少年主线及父辈旧事"
+      },
+      {
+        "name": "胖汉奸（少年卫斯理）",
+        "card_id": "weisili_shaonian_collaborator",
+        "role": "短场景反派",
+        "basis": "短场景反派亦建卡，已知资料有限，原文未定部分留白"
+      },
+      {
+        "name": "两名漏网骑兵（少年卫斯理）",
+        "card_id": "weisili_shaonian_cavalry_survivors",
+        "role": "反派小组",
+        "basis": "短场景反派亦建卡，已知资料有限，原文未定部分留白"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "祝家祖辈及三姓创始人",
+        "reason": "背景家史，不将短段历史介绍扩大为主角。"
+      },
+      {
+        "name": "高级军官",
+        "reason": "单书重要解释者，后与成年卫重遇仍是本书回忆；未核实跨书独立身份。"
+      },
+      {
+        "name": "暗算祝志强的马夫",
+        "reason": "具体身份未定，可能与王天兵同人，暂在王、祝卡记录独立事件和疑点，不臆造新姓名。"
+      },
+      {
+        "name": "锄奸团其他成员",
+        "reason": "未分辨身份，不能按组织称谓增造个体。"
+      }
+    ],
+    "notes": [
+      "少年与成年回忆分层；王天兵致命暗算嫌疑未定。铁蛋与铁旦统一身份；四号与一号的模拟声线按102解释区分。"
+    ]
+  }
+]

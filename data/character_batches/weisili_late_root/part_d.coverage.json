@@ -1,0 +1,146 @@
+[
+  {
+    "path": "卫斯理系列/121考验.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "天嘉土王",
+        "card_id": "weisili_tianjia",
+        "role": "单书主角",
+        "basis": "考验事件行动者"
+      },
+      {
+        "name": "海高",
+        "card_id": "weisili_haigao",
+        "role": "反派",
+        "basis": "考验事件行动者"
+      },
+      {
+        "name": "图生王叔",
+        "card_id": "weisili_tusheng",
+        "role": "单书重要人物",
+        "basis": "考验事件行动者"
+      },
+      {
+        "name": "旧教长（天嘉考验）",
+        "card_id": "weisili_kaoyan_priest",
+        "role": "反派",
+        "basis": "考验事件行动者"
+      },
+      {
+        "name": "考验天神（山洞系统）",
+        "card_id": "weisili_kaoyan_god",
+        "role": "单书关键非人角色",
+        "basis": "考验事件行动者"
+      },
+      {
+        "name": "齐白",
+        "card_id": "weisili_qi_bai",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "黄而",
+        "card_id": "weisili_huang_er",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "水",
+        "card_id": "weisili_water_life",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "范总管",
+        "card_id": "weisili_fan_zongguan",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "亮声",
+        "card_id": "weisili_liang_sheng",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "大亨",
+        "card_id": "weisili_da_heng",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "陶启泉",
+        "card_id": "weisili_tao_qiquan",
+        "role": "重要配角",
+        "basis": "实际参与主线或开场配额收束"
+      },
+      {
+        "name": "康维",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "跨系列主角",
+        "basis": "古堡聚会和配额事件收束"
+      },
+      {
+        "name": "柳絮",
+        "card_id": "yuanzhenxia_liu_xu",
+        "role": "跨系列主角",
+        "basis": "古堡聚会和配额事件收束"
+      },
+      {
+        "name": "陈景德",
+        "card_id": "yuanzhenxia_chen_jingde",
+        "role": "跨系列主角",
+        "basis": "古堡聚会和配额事件收束"
+      },
+      {
+        "name": "陈宜兴",
+        "card_id": "yuanzhenxia_chen_yixing",
+        "role": "跨系列主角",
+        "basis": "古堡聚会和配额事件收束"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "新任教长及递补教士",
+        "reason": "现场获任的短段人物，未展开独立主角线或施害。"
+      },
+      {
+        "name": "过去三位土王及助手",
+        "reason": "只余考验历史与骸骨，不补造姓名、生前能力或人格。"
+      },
+      {
+        "name": "匿名买命富豪",
+        "reason": "开场群体背景，未具名的个人无独立行动线。"
+      }
+    ],
+    "notes": [
+      "考验天神不与其他书仅同称天神的实体合并。",
+      "齐白请求内容至本书终仍未说明，不能凭猜测写成已成事实。"
+    ]
+  }
+]

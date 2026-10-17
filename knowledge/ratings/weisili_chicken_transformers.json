@@ -1,0 +1,114 @@
+{
+  "id": "weisili_chicken_transformers",
+  "name": "鸡场生命改造工作者",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "神鹰改造完毕并回归现实；操作者仍在所称幻境的空间中，方法不向亮声公开",
+    "deployment": "神鹰改造完毕并回归现实；操作者仍在所称幻境的空间中，方法不向亮声公开。仅携带卡中明确列出的随身装备；朋友、机构与失去的装置均需另行取得支持。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 6,
+    "scope": 3,
+    "sustain": 5,
+    "range": 4,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "改造、转移和局部强光依赖高级设施，不能以造物主称呼赋予概念全能；该项仅评价本卡机制在对应维度上的作用。",
+    "energy": "改造、转移和局部强光依赖高级设施，不能以造物主称呼赋予概念全能；该项仅评价本卡机制在对应维度上的作用。",
+    "scope": "改造、转移和局部强光依赖高级设施，不能以造物主称呼赋予概念全能；该项仅评价本卡机制在对应维度上的作用。",
+    "sustain": "改造、转移和局部强光依赖高级设施，不能以造物主称呼赋予概念全能；该项仅评价本卡机制在对应维度上的作用。",
+    "range": "改造、转移和局部强光依赖高级设施，不能以造物主称呼赋予概念全能；该项仅评价本卡机制在对应维度上的作用。",
+    "combat": "改造、转移和局部强光依赖高级设施，不能以造物主称呼赋予概念全能；该项仅评价本卡机制在对应维度上的作用。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 4,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 35.5,
+  "deduction_total": 7.0,
+  "raw_score": 28.5,
+  "rounded_score": 29,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "强",
+  "theoretical_tier": "凶",
+  "mastery": "基本掌握",
+  "final_tier": "凶",
+  "display_tier": "凶",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "凶",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/125成精变人.txt",
+      "start_line": 1235,
+      "end_line": 1256,
+      "supports": "白红不知道地洞内具体过程",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/125成精变人.txt",
+      "start_line": 1332,
+      "end_line": 1370,
+      "supports": "神鹰受召进入、不要跟随与空间变化",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/125成精变人.txt",
+      "start_line": 2448,
+      "end_line": 2474,
+      "supports": "复制解释与勒曼无法使鹰成人",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/125成精变人.txt",
+      "start_line": 2483,
+      "end_line": 2544,
+      "supports": "探测到工作者与强光，惩戒为后推断",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/125成精变人.txt",
+      "start_line": 2630,
+      "end_line": 2678,
+      "supports": "神鹰复述复制替换方法、保密与异空间结论",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "上帝、造物主、天使等是人物对未知技术者的命名，不能与其他系列同称者自动合并。",
+    "工作者机器人身份、地球人类起源说和强光惩罚意图均有推测成分。",
+    "基因替换是小说内部技术，非现实生物学操作说明。"
+  ]
+}

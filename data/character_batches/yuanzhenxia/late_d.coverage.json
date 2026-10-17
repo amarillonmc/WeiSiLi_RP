@@ -1,0 +1,75 @@
+[
+  {
+    "path": "原振侠系列/30.魂飞魄散.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与接受异类"
+      },
+      {
+        "name": "水荭",
+        "card_id": "adventure_shui_hong",
+        "role": "重要配角",
+        "basis": "调查与见证"
+      },
+      {
+        "name": "齐白",
+        "card_id": "weisili_qi_bai",
+        "role": "重要配角",
+        "basis": "古墓石棺线索"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "引介与结尾质询"
+      },
+      {
+        "name": "胡说",
+        "card_id": "weisili_hu_shuo",
+        "role": "重要配角",
+        "basis": "聚会与引介"
+      },
+      {
+        "name": "安普伯爵（男）",
+        "card_id": "yuanzhenxia_anpu_count",
+        "role": "单书主角",
+        "basis": "石棺及复生主线"
+      },
+      {
+        "name": "翠丝",
+        "card_id": "yuanzhenxia_cuisi",
+        "role": "单书主角",
+        "basis": "石棺及复生主线"
+      },
+      {
+        "name": "贝恩",
+        "card_id": "yuanzhenxia_beien",
+        "role": "反派性协同行动者",
+        "basis": "石棺及复生主线"
+      },
+      {
+        "name": "特古拉伯爵",
+        "card_id": "yuanzhenxia_tegula",
+        "role": "单书核心人物",
+        "basis": "石棺及复生主线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "尼古拉斯伯爵",
+        "reason": "仅翠丝往事中的已故丈夫，没有独立行动线或跨书出场"
+      },
+      {
+        "name": "清除吸血僵尸的异客",
+        "reason": "历史未具名行动者，身份与31宇宙杀手没有明确同一性；不强行合并"
+      }
+    ],
+    "notes": [
+      "安普男伯爵与冒险系列安普女伯爵分别建卡；不套用其他作品吸血鬼规则。"
+    ]
+  }
+]

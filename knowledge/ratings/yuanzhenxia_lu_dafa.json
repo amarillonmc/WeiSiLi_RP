@@ -1,0 +1,117 @@
+{
+  "id": "yuanzhenxia_lu_dafa",
+  "name": "鲁大发",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "灵魂与玉宝离去，去向未知；肉身留在医院，后由原振侠继续照料。",
+    "deployment": "默认采用与爱人共同离去后的离体意识，保留本人经历；不同时取得健康肉身。若另行恢复原身，须明确标作形态改编，原文没有证明随时安全回体。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 1,
+    "scope": 1,
+    "sustain": 2,
+    "range": 3,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "默认离体意识未展示物理攻击；不使用另留的身体同时作战。",
+    "energy": "有限意识现象",
+    "scope": "少数知情者",
+    "sustain": "意识维持与回归机制未明，保守计有限延续，不由身体护理推成无限灵体寿命。",
+    "range": "曾跨地域感应但未量化",
+    "combat": "非战斗人物"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "能力的已知边界：可控程度有限；没有自由攻击、无限瞬移、操纵他人或安全回体的实证。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "场景条件：可控程度有限；没有自由攻击、无限瞬移、操纵他人或安全回体的实证。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "临场情绪与选择：求助可信朋友，也可能因焦急反复确认承诺。"
+    }
+  },
+  "positive_total": 13.5,
+  "deduction_total": 7.0,
+  "raw_score": 6.5,
+  "rounded_score": 7,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "曾在强烈思念及半昏迷状态下离体，终局与玉宝共同使特定见证者看见自己。；可控程度有限；没有自由攻击、无限瞬移、操纵他人或安全回体的实证。",
+    "tier": "纸",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/11.失魂.txt",
+      "start_line": 162,
+      "end_line": 170,
+      "supports": "少年相遇",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/11.失魂.txt",
+      "start_line": 3081,
+      "end_line": 3111,
+      "supports": "离体及推测的边界",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/11.失魂.txt",
+      "start_line": 3171,
+      "end_line": 3205,
+      "supports": "终局",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/13.巫艳.txt",
+      "start_line": 5,
+      "end_line": 15,
+      "supports": "肉身后续照顾",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/11.失魂.txt",
+      "start_line": 3189,
+      "end_line": 3205,
+      "supports": "共同离体告别与肉身另行护理",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/13.巫艳.txt",
+      "start_line": 5,
+      "end_line": 9,
+      "supports": "后续仍照料留在医院的身体",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

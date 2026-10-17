@@ -1,0 +1,117 @@
+{
+  "id": "adventure_luokai",
+  "name": "罗开",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "《飞焰》结尾仍在帮助受困的八角星灵魂并替水荭寻找可核实的情报；没有得到外星人的全部科技。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 4,
+    "energy": 1,
+    "scope": 1,
+    "sustain": 4,
+    "range": 3,
+    "combat": 6
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "熟练格斗能伤成人、把轻质机械人摔撞石台；不具大范围能量破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "仍是血肉人，药物和信息缺失会使他失手。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "自由不只是自己的，也包括别人不按他的设想生活的权利。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "仍是血肉人，药物和信息缺失会使他失手。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 31.0,
+  "deduction_total": 4.0,
+  "raw_score": 27.0,
+  "rounded_score": 27,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "强",
+  "theoretical_tier": "凶",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "凶",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+      "start_line": 222,
+      "end_line": 227,
+      "supports": "拒绝杀戮指示",
+      "kind": "原文"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+      "start_line": 746,
+      "end_line": 766,
+      "supports": "麻醉弱点与脑训练",
+      "kind": "原文"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/02妖偶.txt",
+      "start_line": 1300,
+      "end_line": 1315,
+      "supports": "有条件反制复制人",
+      "kind": "原文"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/03魔像.txt",
+      "start_line": 1252,
+      "end_line": 1268,
+      "supports": "天使牺牲",
+      "kind": "原文"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/10异人.txt",
+      "start_line": 1385,
+      "end_line": 1394,
+      "supports": "主张和平共处",
+      "kind": "原文"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/15飞焰.txt",
+      "start_line": 1189,
+      "end_line": 1227,
+      "supports": "保全卡娅和水荭",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

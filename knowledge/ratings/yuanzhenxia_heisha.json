@@ -1,0 +1,112 @@
+{
+  "id": "yuanzhenxia_heisha",
+  "name": "黑纱",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "为释放奥丽卡彻底消失；身体后来由奥丽卡使用，二者不是同一人格。",
+    "deployment": "按最后可独立行动形态加入；终局异常作为明确改编恢复，不重演死亡过程。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 5,
+    "scope": 2,
+    "sustain": 4,
+    "range": 4,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "非普通形体但无巨力证明",
+    "energy": "意识与局部物质干涉",
+    "scope": "个体和局部环境",
+    "sustain": "受形体条件影响",
+    "range": "可异常通行",
+    "combat": "有使者经验"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "能力的已知边界：受保持人形的惩罚与低温需要限制；释放公主付出自身消失，不是可重复免费复活术。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "场景条件：受保持人形的惩罚与低温需要限制；释放公主付出自身消失，不是可重复免费复活术。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：直接面对失落，不强行改写对方记忆。"
+    }
+  },
+  "positive_total": 34.5,
+  "deduction_total": 7.0,
+  "raw_score": 27.5,
+  "rounded_score": 28,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "能异常显现、穿越部分物质障碍并影响感知；灵魂收集和释放依原体系媒介与规则。；受保持人形的惩罚与低温需要限制；释放公主付出自身消失，不是可重复免费复活术。",
+    "tier": "强",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "start_line": 7777,
+      "end_line": 7827,
+      "supports": "放弃任务与理解爱情",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "start_line": 8073,
+      "end_line": 8157,
+      "supports": "惩罚与形态",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/18.黑暗天使.txt",
+      "start_line": 5171,
+      "end_line": 5301,
+      "supports": "消失与接送方案",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/18.黑暗天使.txt",
+      "start_line": 5473,
+      "end_line": 5519,
+      "supports": "低温与感情",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/18.黑暗天使.txt",
+      "start_line": 6115,
+      "end_line": 6129,
+      "supports": "身体的后来使用者",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "跨系列使用黑纱·奥丽卡名称的是公主；不能据名称合并人格或能力。"
+  ]
+}

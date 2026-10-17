@@ -1,0 +1,152 @@
+{
+  "id": "yuanzhenxia_kangwei",
+  "name": "康维十七世",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "与柳絮相伴并继续帮助朋友；《天皇巨星》中寻找原振侠未得确讯，《考验》中仍关注尚未完成的生命配额转移。没有获证的新终局形态。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 4,
+    "energy": 4,
+    "scope": 3,
+    "sustain": 8,
+    "range": 6,
+    "combat": 6
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "坚固机械体",
+    "energy": "装置与信号操作",
+    "scope": "局部工程及队伍行动",
+    "sustain": "机械生命长期运行",
+    "range": "飞船与通信扩展实际距离",
+    "combat": "技术强大而非纯战斗机器"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "能力的已知边界：必须接触或建立通信；不同技术有权限和知识边界，自称不坏不等于绝对不可损。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "场景条件：必须接触或建立通信；不同技术有权限和知识边界，自称不坏不等于绝对不可损。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：把救命与修改感情分开说明，面对对方的真实反应而非只追求稳定输出。"
+    }
+  },
+  "positive_total": 52.0,
+  "deduction_total": 4.0,
+  "raw_score": 48.0,
+  "rounded_score": 48,
+  "numeric_tier": "狂",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "狂",
+  "theoretical_tier": "狂",
+  "mastery": "不适用",
+  "final_tier": "狂",
+  "display_tier": "狂",
+  "controlled_ceiling": {
+    "description": "三晶星机械身体、资料储存和直接数据交换使其能理解相容装置并执行精密操作。；必须接触或建立通信；不同技术有权限和知识边界，自称不坏不等于绝对不可损。",
+    "tier": "狂",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "high",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/27.假太阳.txt",
+      "start_line": 1949,
+      "end_line": 2035,
+      "supports": "机械身份、接口、能力与自我认识",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/28.无间地狱.txt",
+      "start_line": 3039,
+      "end_line": 3053,
+      "supports": "识别柳絮体内装置",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/29.人鬼疑云.txt",
+      "start_line": 1976,
+      "end_line": 1980,
+      "supports": "可干预感情信号的伦理问题",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/32.天皇巨星.txt",
+      "start_line": 2757,
+      "end_line": 2795,
+      "supports": "接送与搜寻边界",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/106在数难逃.txt",
+      "start_line": 2257,
+      "end_line": 2260,
+      "supports": "仪器装设",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/106在数难逃.txt",
+      "start_line": 2310,
+      "end_line": 2335,
+      "supports": "星际研究会议",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/106在数难逃.txt",
+      "start_line": 2727,
+      "end_line": 2744,
+      "supports": "未解条件",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/120卖命.txt",
+      "start_line": 976,
+      "end_line": 978,
+      "supports": "为柳絮而关注",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/120卖命.txt",
+      "start_line": 1080,
+      "end_line": 1083,
+      "supports": "不能保证阻止",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/120卖命.txt",
+      "start_line": 2457,
+      "end_line": 2460,
+      "supports": "无水机器的界限",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/121考验.txt",
+      "start_line": 154,
+      "end_line": 170,
+      "supports": "不能收讯与转移未成",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

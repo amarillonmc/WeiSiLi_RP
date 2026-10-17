@@ -1,0 +1,119 @@
+{
+  "id": "weisili_fang_tian",
+  "name": "方天",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "驾飞船返回土星，目睹文明毁坏后通讯中断，生死与其后行动未明。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 3,
+    "scope": 1,
+    "sustain": 3,
+    "range": 2,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "早期可用特定随身发光装置伤人，文明知识不等于随身无限供能。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "思想影响并非对所有对象必胜；防护依设备，消灭飞魔需特定设施，不能自有整座基地或恢复家乡。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "争取自由与归属，逐步承认人类伙伴也是值得冒险保护的生命。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "思想影响并非对所有对象必胜；防护依设备，消灭飞魔需特定设施，不能自有整座基地或恢复家乡。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 23.0,
+  "deduction_total": 2.0,
+  "raw_score": 21.0,
+  "rounded_score": 21,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "狂",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "狂",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 202,
+      "end_line": 214,
+      "supports": "同学形态与数学",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 3636,
+      "end_line": 3639,
+      "supports": "地球停留时间",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 5445,
+      "end_line": 5503,
+      "supports": "寄生识别及头罩边界",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 6050,
+      "end_line": 6082,
+      "supports": "装置操作",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 6442,
+      "end_line": 6455,
+      "supports": "双向思想传讯",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 6678,
+      "end_line": 6694,
+      "supports": "终局不确定",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "通讯中断后结局有多种猜测，均不定为事实。"
+  ]
+}

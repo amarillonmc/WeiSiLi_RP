@@ -1,0 +1,103 @@
+{
+  "id": "weisili_aibo",
+  "name": "艾泊",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "隐身后急于复原，未等氧气进入石室而死亡，尸体由卫斯理留在石棺。",
+    "deployment": "原作终局已经死亡或失去可行动形态；参战用最后清醒行动形态，保留终局经历，仅作为明确的角色扮演恢复，不宣称原作复活。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 0,
+    "sustain": 3,
+    "range": 1,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "需水、空气与装备；隐身带来恐惧和视觉问题，不能随意开关，也无法继承族长军队。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "以经验带同行者活着走完路，并重新获得能承受的正常生活。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "需水、空气与装备；隐身带来恐惧和视觉问题，不能随意开关，也无法继承族长军队。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 12.0,
+  "deduction_total": 2.0,
+  "raw_score": 10.0,
+  "rounded_score": 10,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "纸",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "并",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "start_line": 3677,
+      "end_line": 3688,
+      "supports": "身份与向导应募",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "start_line": 4076,
+      "end_line": 4088,
+      "supports": "救命旧交与危险",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "start_line": 4880,
+      "end_line": 4892,
+      "supports": "必须等待氧气",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "start_line": 4955,
+      "end_line": 4987,
+      "supports": "失败、死亡与尸体状态",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

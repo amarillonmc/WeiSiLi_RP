@@ -1,0 +1,98 @@
+{
+  "id": "weisili_guaiyan_parasites",
+  "name": "怪眼（《眼睛》寄生群体）",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "现场三只被异星金属装置消灭；其他矿中个体的数量与存续未完全清查。",
+    "deployment": "按最后可独立行动形态加入；终局异常作为明确改编恢复，不重演死亡过程。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 3,
+    "scope": 3,
+    "sustain": 4,
+    "range": 1,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "依赖宿主肉身",
+    "energy": "侵占思想但无大范围能量轰击",
+    "scope": "少量宿主范围",
+    "sustain": "能存续与伪装但受克制",
+    "range": "接近和宿主活动范围",
+    "combat": "阴谋寄生与欺骗"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "能力的已知边界：需具体接近与宿主；光线装置已实际杀死，彼此争斗会暴露；化生的速率与上限未明确。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "场景条件：需具体接近与宿主；光线装置已实际杀死，彼此争斗会暴露；化生的速率与上限未明确。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "临场情绪与选择：伪装已经被除去，等待戒备降低。"
+    }
+  },
+  "positive_total": 27.5,
+  "deduction_total": 7.0,
+  "raw_score": 20.5,
+  "rounded_score": 21,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "接近生物后侵占其身体和思想，利用宿主身份行动；可装死，宿主死亡后所见个体仍能移动。；需具体接近与宿主；光线装置已实际杀死，彼此争斗会暴露；化生的速率与上限未明确。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/047眼睛.txt",
+      "start_line": 2659,
+      "end_line": 2769,
+      "supports": "寄生及伪装",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/047眼睛.txt",
+      "start_line": 3001,
+      "end_line": 3096,
+      "supports": "宿主死亡、脱体与光杀",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/047眼睛.txt",
+      "start_line": 3281,
+      "end_line": 3366,
+      "supports": "部分译文及解释限制",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "古语只部分理解；化生机制及所有人类受控说法均不作确定事实。"
+  ]
+}

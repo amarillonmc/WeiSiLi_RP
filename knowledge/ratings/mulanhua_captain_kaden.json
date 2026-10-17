@@ -1,0 +1,103 @@
+{
+  "id": "mulanhua_captain_kaden",
+  "name": "卡登船长",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本批原文剧情结束后的经历与认知",
+    "canonical_endpoint": "在炮艇攻舱时所持机枪被射中爆裂，当场死亡；剩余水手向木兰花有条件投降。",
+    "deployment": "保留终局经历；以最后已证实的可行动状态登场，未随身拥有原文未说明的器材。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 2,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "按文本明确展示的身体或物质作用评分；未给出大范围破坏。",
+    "energy": "按已证实的超常作用评分；异常身份或见闻本身不算能量攻击。",
+    "scope": "按本人单次可作用的对象与局部场景评分，不把社会地位当物理范围。",
+    "sustain": "依赖正常身体、器物或事件条件；没有无限供能或无限复原证据。",
+    "range": "按文本中的近身、视线或现有器物接触范围评估，不扩张成全域作用。",
+    "combat": "按本人实际解决对抗的表现评分；没有把遭遇奇事自动换算成作战技巧。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "无另行证实且应重复扣分的能力性自限；普通人能力低已计入正向分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "未把一般生存环境需求另算特殊限制。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "无证据表明拥有随机失控的主动战斗能力。"
+    }
+  },
+  "positive_total": 16.5,
+  "deduction_total": 0.0,
+  "raw_score": 16.5,
+  "rounded_score": 17,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "原文未显示改写世界规则或叙事层的可控权柄；异常事件与知情不等同概念干涉。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "航海接应、武装船员指挥、携枪与近身抓摔；依赖实际船艇。",
+    "tier": "并",
+    "uncontrolled": "未展示可归属于本人、可反复发动的额外不可控上限。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/10电眼怪客.txt",
+      "start_line": 1880,
+      "end_line": 1894,
+      "supports": "接应核验与服务",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/10电眼怪客.txt",
+      "start_line": 1926,
+      "end_line": 1956,
+      "supports": "伪装亲热、被反制和武装支持",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/10电眼怪客.txt",
+      "start_line": 1974,
+      "end_line": 2002,
+      "supports": "攻舱机枪爆裂死亡",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/10电眼怪客.txt",
+      "start_line": 2026,
+      "end_line": 2050,
+      "supports": "非法业务与船只来源",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

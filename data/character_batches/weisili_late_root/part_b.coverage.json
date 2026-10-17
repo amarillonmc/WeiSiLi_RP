@@ -1,0 +1,140 @@
+[
+  {
+    "path": "卫斯理系列/118洪荒.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "黄堂",
+        "card_id": "weisili_huang_tang",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "白老大",
+        "card_id": "weisili_bai_laoda",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "戈壁",
+        "card_id": "weisili_ge_bi",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "沙漠",
+        "card_id": "weisili_sha_mo",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "伦三德",
+        "card_id": "weisili_lun_sande",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "神鹰",
+        "card_id": "weisili_shenying",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "金秀四嫂",
+        "card_id": "weisili_jinxiu_sisao",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "旧警务总监",
+        "card_id": "weisili_shuangcheng_commissioner",
+        "role": "重要配角",
+        "basis": "实际参与联络或调查"
+      },
+      {
+        "name": "廉不负",
+        "card_id": "weisili_lian_bufu",
+        "role": "单书主角",
+        "basis": "家史或水生命主线"
+      },
+      {
+        "name": "张泰丰",
+        "card_id": "weisili_zhang_taifeng",
+        "role": "单书主角",
+        "basis": "家史或水生命主线"
+      },
+      {
+        "name": "黄天功",
+        "card_id": "weisili_huang_tiangong",
+        "role": "关键背景主角",
+        "basis": "家史或水生命主线"
+      },
+      {
+        "name": "杀害黄天功的旧盟友集团",
+        "card_id": "weisili_huang_tiangong_betrayers",
+        "role": "反派",
+        "basis": "家史或水生命主线"
+      },
+      {
+        "name": "黄而",
+        "card_id": "weisili_huang_er",
+        "role": "跨书主角",
+        "basis": "家史或水生命主线"
+      },
+      {
+        "name": "水（地球水生命）",
+        "card_id": "weisili_water_life",
+        "role": "跨书主角",
+        "basis": "家史或水生命主线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "都连加农",
+        "reason": "通过师承和入会推荐明确相关；此书只转述，实际跨书角色已在非人协会批有卡。"
+      },
+      {
+        "name": "大山、空气生命",
+        "reason": "此书为讨论与探索对象，未展示可以独立核验的具体人格和沟通行为，不把设想写成已实证全能自然人格。"
+      },
+      {
+        "name": "多巴湖蒙面二人",
+        "reason": "卫斯理认为是黄堂与四嫂，未获证实；作为既有角色的身份疑点保存，不虚构两名新姓名。"
+      }
+    ],
+    "notes": [
+      "金秀四嫂与黄堂一家关系、天工大王后续均需回写原有主卡。",
+      "水的作用与黄而的个人本领分开；未完成的生命配额研究不作现成复活术。"
+    ]
+  }
+]

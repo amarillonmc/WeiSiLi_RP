@@ -1,0 +1,77 @@
+[
+  {
+    "path": "卫斯理系列/049天书.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "姬娜·基度",
+        "card_id": "weisili_jina_jidu",
+        "role": "跨书主角",
+        "basis": "天书主线行动或终局解释"
+      },
+      {
+        "name": "祖斯基",
+        "card_id": "weisili_zusiji",
+        "role": "单书主要调查者",
+        "basis": "天书主线行动或终局解释"
+      },
+      {
+        "name": "帕修斯的老神父",
+        "card_id": "weisili_tianshu_priest",
+        "role": "单书关键行动者",
+        "basis": "天书主线行动或终局解释"
+      },
+      {
+        "name": "《天书》迷航者",
+        "card_id": "weisili_tianshu_traveler",
+        "role": "单书核心人物",
+        "basis": "天书主线行动或终局解释"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "连伦",
+        "reason": "公司负责人，出售宝石事件的单书起因人物。"
+      },
+      {
+        "name": "莫勒",
+        "reason": "一次协助查失踪警官，未证实跨书。"
+      },
+      {
+        "name": "尚塞叔叔",
+        "reason": "一次协助处理尸体方式的长辈。"
+      },
+      {
+        "name": "颇普",
+        "reason": "杂货商及线索提供者。"
+      },
+      {
+        "name": "伦蓬尼",
+        "reason": "神父探险前史中的队长，无独立当下行动线。"
+      },
+      {
+        "name": "杨安、宾鲁达及第六批来客",
+        "reason": "仅为他人转述的古代文明解释，无独立完整人物线；不把传说中的全部事迹合并。"
+      },
+      {
+        "name": "米伦夫妇、雅伦",
+        "reason": "前作人物在此被提及及补充来历，不冒记为再出场；相关主卡另存。"
+      }
+    ],
+    "notes": [
+      "祖斯基实际为保安主任，初报警官身份属诱引合作。天书非角色掌控命运的实证。"
+    ]
+  }
+]

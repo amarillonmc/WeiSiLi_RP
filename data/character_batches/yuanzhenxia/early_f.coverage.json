@@ -1,0 +1,102 @@
+[
+  {
+    "path": "原振侠系列/08.精怪.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查者"
+      },
+      {
+        "name": "海棠",
+        "card_id": "yuanzhenxia_hai_tang",
+        "role": "主角",
+        "basis": "任务执行者"
+      },
+      {
+        "name": "卡尔斯",
+        "card_id": "yuanzhenxia_kaersi",
+        "role": "反派",
+        "basis": "企图利用异种研究"
+      },
+      {
+        "name": "厉大遒",
+        "card_id": "yuanzhenxia_li_daqiu",
+        "role": "单书主角",
+        "basis": "实验故事核心"
+      },
+      {
+        "name": "陈阿牛",
+        "card_id": "yuanzhenxia_chen_aniu",
+        "role": "单书主角",
+        "basis": "实验故事核心"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "冯森乐、关律师",
+        "reason": "单书研究或法律协助"
+      },
+      {
+        "name": "厉氏三姐妹及其丈夫",
+        "reason": "一次性继承争执配角，未显示异种能力"
+      },
+      {
+        "name": "实验培育个体",
+        "reason": "未具稳定可辨独立身份；能力与伦理后果记录在创造者卡"
+      }
+    ],
+    "notes": [
+      "不把厉氏三姐妹误认作蛙类混种。"
+    ]
+  },
+  {
+    "path": "原振侠系列/09.鬼界.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查者"
+      },
+      {
+        "name": "海棠",
+        "card_id": "yuanzhenxia_hai_tang",
+        "role": "主角",
+        "basis": "任务执行者"
+      },
+      {
+        "name": "苏耀西",
+        "card_id": "yuanzhenxia_su_yaoxi",
+        "role": "重要配角",
+        "basis": "聚会交往"
+      },
+      {
+        "name": "新几内亚大祭师",
+        "card_id": "yuanzhenxia_dajishi",
+        "role": "单书主角",
+        "basis": "本书探索与求援核心"
+      },
+      {
+        "name": "鬼界受困外星人",
+        "card_id": "yuanzhenxia_guijie_aliens",
+        "role": "单书核心人物（集体）",
+        "basis": "本书探索与求援核心"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "第一代祭师",
+        "reason": "主要为传说和器物来源，无当前独立行动"
+      },
+      {
+        "name": "海棠的未名同伴",
+        "reason": "一次性任务辅助者"
+      }
+    ],
+    "notes": []
+  }
+]

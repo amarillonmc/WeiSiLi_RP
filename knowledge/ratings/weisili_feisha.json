@@ -1,0 +1,103 @@
+{
+  "id": "weisili_feisha",
+  "name": "费沙族长",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "与卫斯理和解，联系开罗代表讨论争取族群自由，送别同行者。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 1,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "依赖部众认同和既有交通通信；骄傲会使冲突升级，没有神秘统治权。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "维护族群尊严和自主，同时不亏负实际恩人。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "依赖部众认同和既有交通通信；骄傲会使冲突升级，没有神秘统治权。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 13.5,
+  "deduction_total": 2.0,
+  "raw_score": 11.5,
+  "rounded_score": 12,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "并",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "start_line": 4046,
+      "end_line": 4058,
+      "supports": "礼仪冲突和比斗",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "start_line": 4076,
+      "end_line": 4088,
+      "supports": "恩义与威压",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "start_line": 4376,
+      "end_line": 4385,
+      "supports": "承认胜负与和解",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "start_line": 4639,
+      "end_line": 4647,
+      "supports": "自由方案与联络",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

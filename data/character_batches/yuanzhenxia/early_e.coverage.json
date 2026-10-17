@@ -1,0 +1,112 @@
+[
+  {
+    "path": "原振侠系列/06.灵椅.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与亲历"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "主角",
+        "basis": "行动组织"
+      },
+      {
+        "name": "卡尔斯",
+        "card_id": "yuanzhenxia_kaersi",
+        "role": "反派",
+        "basis": "争夺装置"
+      },
+      {
+        "name": "南越",
+        "card_id": "yuanzhenxia_nanyue",
+        "role": "单书主角",
+        "basis": "本书关键行动者"
+      },
+      {
+        "name": "汉烈米",
+        "card_id": "yuanzhenxia_hanliemi",
+        "role": "单书主角",
+        "basis": "本书关键行动者"
+      },
+      {
+        "name": "灵椅与石台的发声接口",
+        "card_id": "yuanzhenxia_lingyi_interface",
+        "role": "反派（装置接口）",
+        "basis": "本书关键行动者"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "沙尔贡二世、宁王等历史君主",
+        "reason": "文献回溯和类比，不据提及单独扩成完整参战者"
+      },
+      {
+        "name": "林阿生及其他古宅关系人",
+        "reason": "一次性旧事配角"
+      }
+    ],
+    "notes": [
+      "装置声称的统治力量与实际诱导效果分别记录。"
+    ]
+  },
+  {
+    "path": "原振侠系列/07.奇缘.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与亲历"
+      },
+      {
+        "name": "苏耀西",
+        "card_id": "yuanzhenxia_su_yaoxi",
+        "role": "重要配角",
+        "basis": "聚会联络"
+      },
+      {
+        "name": "宋维",
+        "card_id": "yuanzhenxia_song_wei",
+        "role": "反派",
+        "basis": "本书独立主要行动线"
+      },
+      {
+        "name": "青龙",
+        "card_id": "yuanzhenxia_qinglong",
+        "role": "单书主角",
+        "basis": "本书独立主要行动线"
+      },
+      {
+        "name": "杰西",
+        "card_id": "yuanzhenxia_jiexi",
+        "role": "单书主角",
+        "basis": "本书独立主要行动线"
+      },
+      {
+        "name": "莱恩",
+        "card_id": "yuanzhenxia_laien",
+        "role": "单书主角",
+        "basis": "本书独立主要行动线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "阮秀珍、彩云",
+        "reason": "单书关系中心与叙事配角，未见多书实际参与"
+      },
+      {
+        "name": "游击队员与边境人员",
+        "reason": "非独立命名的现场群体"
+      }
+    ],
+    "notes": [
+      "杰西与青龙的复生机制未确证，宋维死亡反证不能普遍复制。"
+    ]
+  }
+]

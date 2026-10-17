@@ -1,0 +1,124 @@
+[
+  {
+    "path": "卫斯理系列/028狐变.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "酒博新",
+        "card_id": "weisili_jiu_boxin",
+        "role": "单书主角",
+        "basis": "时间实验与家族冲突"
+      },
+      {
+        "name": "酒博新的叔叔",
+        "card_id": "weisili_jiu_boxin_uncle",
+        "role": "单书核心人物",
+        "basis": "时间实验与家族冲突"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "酒博新的父亲",
+        "reason": "自愿实验后缩小死亡，主要为被述及的受害者，关系与后果归入两张主线卡"
+      },
+      {
+        "name": "老仆人",
+        "reason": "单次见证者"
+      },
+      {
+        "name": "天文学家",
+        "reason": "结尾讨论假说的未具名专家"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "卫斯理系列/029古声.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "熊逸",
+        "card_id": "weisili_xiong_yi",
+        "role": "单书主角",
+        "basis": "古声发现与调查"
+      },
+      {
+        "name": "黄博宜",
+        "card_id": "weisili_huang_boyi",
+        "role": "单书核心人物",
+        "basis": "古声发现与调查"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "安小姐",
+        "reason": "单次线索提供者，无跨书登场或独立对抗线"
+      },
+      {
+        "name": "邓肯",
+        "reason": "博物馆协助者"
+      },
+      {
+        "name": "米契",
+        "reason": "单次调查相关专业人士"
+      },
+      {
+        "name": "古代祭祀者",
+        "reason": "仅由录音推断的历史情境，没有可确立人格与行动边界的具体角色"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "卫斯理系列/030虚像.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "江文涛",
+        "card_id": "weisili_jiang_wentao",
+        "role": "单书主角",
+        "basis": "沙漠虚像与实际对抗"
+      },
+      {
+        "name": "可罗娜",
+        "card_id": "weisili_keluona",
+        "role": "反派",
+        "basis": "沙漠虚像与实际对抗"
+      },
+      {
+        "name": "彭都",
+        "card_id": "weisili_pengdu",
+        "role": "反派",
+        "basis": "沙漠虚像与实际对抗"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "海市蜃楼为现象，不赋予可罗娜主动制造幻象的能力。"
+    ]
+  }
+]

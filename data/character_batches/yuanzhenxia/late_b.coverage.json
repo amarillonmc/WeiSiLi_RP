@@ -1,0 +1,124 @@
+[
+  {
+    "path": "原振侠系列/25.黑白无常.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查与解释"
+      },
+      {
+        "name": "胡怀玉",
+        "card_id": "yuanzhenxia_hu_huaiyu",
+        "role": "单书主要行动者",
+        "basis": "海洋异变、夺宝与生育主线"
+      },
+      {
+        "name": "陈克生",
+        "card_id": "yuanzhenxia_chen_kesheng",
+        "role": "单书主要行动者",
+        "basis": "海洋异变、夺宝与生育主线"
+      },
+      {
+        "name": "仲大雅",
+        "card_id": "yuanzhenxia_zhong_daya",
+        "role": "跨书主线人物",
+        "basis": "海洋异变、夺宝与生育主线"
+      },
+      {
+        "name": "曹银雪",
+        "card_id": "yuanzhenxia_cao_yinxue",
+        "role": "重要配角",
+        "basis": "海洋异变、夺宝与生育主线"
+      },
+      {
+        "name": "姚正年",
+        "card_id": "yuanzhenxia_yao_zhengnian",
+        "role": "历史主线人物",
+        "basis": "海洋异变、夺宝与生育主线"
+      },
+      {
+        "name": "仲文量",
+        "card_id": "yuanzhenxia_zhong_wenliang",
+        "role": "反派",
+        "basis": "海洋异变、夺宝与生育主线"
+      },
+      {
+        "name": "黑白无常（异星访客）",
+        "card_id": "yuanzhenxia_heibai_wuchang",
+        "role": "重要配角",
+        "basis": "海洋异变、夺宝与生育主线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "被改变的渔民一家",
+        "reason": "异常现象与受害者线索，未建立独立反派或跨书行动线"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/26.自杀阴谋.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "心理危机与反击"
+      },
+      {
+        "name": "曹银雪",
+        "card_id": "yuanzhenxia_cao_yinxue",
+        "role": "重要配角",
+        "basis": "关怀及击退杀手"
+      },
+      {
+        "name": "仲大雅",
+        "card_id": "yuanzhenxia_zhong_daya",
+        "role": "跨书主线人物",
+        "basis": "退化后保护家人"
+      },
+      {
+        "name": "黑白无常",
+        "card_id": "yuanzhenxia_heibai_wuchang",
+        "role": "重要配角",
+        "basis": "联络与承诺"
+      },
+      {
+        "name": "老刀",
+        "card_id": "yuanzhenxia_laodao",
+        "role": "反派",
+        "basis": "杀手集团阴谋"
+      },
+      {
+        "name": "小刀",
+        "card_id": "yuanzhenxia_xiaodao",
+        "role": "反派",
+        "basis": "杀手集团阴谋"
+      },
+      {
+        "name": "美姬",
+        "card_id": "yuanzhenxia_meiji",
+        "role": "反派",
+        "basis": "杀手集团阴谋"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "高级警官",
+        "reason": "单次办案协助者，没有跨书同一性证据"
+      },
+      {
+        "name": "土蜂",
+        "reason": "自杀新闻中的引述人物，不等于本书实际独立行动角色"
+      }
+    ],
+    "notes": [
+      "不将小说关于自杀心理的议论视为现实医学结论或角色必然行为。"
+    ]
+  }
+]

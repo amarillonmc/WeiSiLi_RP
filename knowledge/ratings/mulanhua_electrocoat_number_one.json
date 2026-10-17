@@ -1,0 +1,131 @@
+{
+  "id": "mulanhua_electrocoat_number_one",
+  "name": "一号（电光衣事件中校）",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本批原文剧情结束后的经历与认知",
+    "canonical_endpoint": "电光衣被毁，招降与军舰拘禁失败；木兰花最终解除毒物，个人后续去向未写。",
+    "deployment": "保留终局经历；以最后已证实的可行动状态登场，未随身拥有原文未说明的器材。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 1,
+    "scope": 1,
+    "sustain": 2,
+    "range": 2,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "按文本明确展示的身体或物质作用评分；未给出大范围破坏。",
+    "energy": "按已证实的超常作用评分；异常身份或见闻本身不算能量攻击。",
+    "scope": "按本人单次可作用的对象与局部场景评分，不把社会地位当物理范围。",
+    "sustain": "依赖正常身体、器物或事件条件；没有无限供能或无限复原证据。",
+    "range": "按文本中的近身、视线或现有器物接触范围评估，不扩张成全域作用。",
+    "combat": "按本人实际解决对抗的表现评分；没有把遭遇奇事自动换算成作战技巧。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "无另行证实且应重复扣分的能力性自限；普通人能力低已计入正向分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "未把一般生存环境需求另算特殊限制。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "无证据表明拥有随机失控的主动战斗能力。"
+    }
+  },
+  "positive_total": 19.5,
+  "deduction_total": 0.0,
+  "raw_score": 19.5,
+  "rounded_score": 20,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "原文未显示改写世界规则或叙事层的可控权柄；异常事件与知情不等同概念干涉。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "组织情报、武装据点、定时毒胶囊控制、纽扣麻醉烟和通讯；均需实际药械与部下。",
+    "tier": "并",
+    "uncontrolled": "未展示可归属于本人、可反复发动的额外不可控上限。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/16隐形奇人.txt",
+      "start_line": 1800,
+      "end_line": 1862,
+      "supports": "地位及索款冲突",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/16隐形奇人.txt",
+      "start_line": 1922,
+      "end_line": 2044,
+      "supports": "受罚焦虑与谈判",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/16隐形奇人.txt",
+      "start_line": 2126,
+      "end_line": 2218,
+      "supports": "毒药条件、本人受制与核验",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/16隐形奇人.txt",
+      "start_line": 2266,
+      "end_line": 2340,
+      "supports": "交出衣物及被毁",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/17高空喋血.txt",
+      "start_line": 1000,
+      "end_line": 1058,
+      "supports": "明确身份对应与被擒",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/17高空喋血.txt",
+      "start_line": 1202,
+      "end_line": 1264,
+      "supports": "放人后麻醉反捕",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/17高空喋血.txt",
+      "start_line": 1288,
+      "end_line": 1452,
+      "supports": "强迫加盟、假病脱困",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/17高空喋血.txt",
+      "start_line": 1546,
+      "end_line": 1582,
+      "supports": "水下搜索失败",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

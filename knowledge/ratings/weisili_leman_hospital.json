@@ -1,0 +1,149 @@
+{
+  "id": "weisili_leman_hospital",
+  "name": "勒曼医院研究集团",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "《只限老友》仍运作并参加思想仪清除行动；有些工程成功，有些病人和灵魂问题无法解决",
+    "deployment": "《只限老友》仍运作并参加思想仪清除行动；有些工程成功，有些病人和灵魂问题无法解决。仅携带卡中明确列出的随身装备；朋友、机构与失去的装置均需另行取得支持。"
+  },
+  "positive": {
+    "physical": 5,
+    "energy": 6,
+    "scope": 5,
+    "sustain": 7,
+    "range": 6,
+    "combat": 6
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "机构按设施和联合成员到场后的作业能力评价；高环境扣分反映对基地、设备与人手的依赖，不是单个医生的能力。；该项仅评价本卡机制在对应维度上的作用。",
+    "energy": "机构按设施和联合成员到场后的作业能力评价；高环境扣分反映对基地、设备与人手的依赖，不是单个医生的能力。；该项仅评价本卡机制在对应维度上的作用。",
+    "scope": "机构按设施和联合成员到场后的作业能力评价；高环境扣分反映对基地、设备与人手的依赖，不是单个医生的能力。；该项仅评价本卡机制在对应维度上的作用。",
+    "sustain": "机构按设施和联合成员到场后的作业能力评价；高环境扣分反映对基地、设备与人手的依赖，不是单个医生的能力。；该项仅评价本卡机制在对应维度上的作用。",
+    "range": "机构按设施和联合成员到场后的作业能力评价；高环境扣分反映对基地、设备与人手的依赖，不是单个医生的能力。；该项仅评价本卡机制在对应维度上的作用。",
+    "combat": "机构按设施和联合成员到场后的作业能力评价；高环境扣分反映对基地、设备与人手的依赖，不是单个医生的能力。；该项仅评价本卡机制在对应维度上的作用。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 6,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 58.5,
+  "deduction_total": 10.0,
+  "raw_score": 48.5,
+  "rounded_score": 49,
+  "numeric_tier": "狂",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "狂",
+  "theoretical_tier": "准神",
+  "mastery": "不适用",
+  "final_tier": "狂",
+  "display_tier": "狂",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "准神",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/055后备.txt",
+      "start_line": 3209,
+      "end_line": 3220,
+      "supports": "资源交换与大人物医学效果",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/145只限老友.txt",
+      "start_line": 1100,
+      "end_line": 1128,
+      "supports": "联合成员与复制体行动",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/145只限老友.txt",
+      "start_line": 1355,
+      "end_line": 1358,
+      "supports": "土王仍无法获救",
+      "kind": "原文"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/07蜂后.txt",
+      "start_line": 1133,
+      "end_line": 1162,
+      "supports": "非常物品交易会、高达复制体与植入命令遭抗拒",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 1343,
+      "end_line": 1414,
+      "supports": "亮声接待、设施记录与身体年轻不等于意识延寿",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 1623,
+      "end_line": 1637,
+      "supports": "生命配额为小说技术解释，研究有限且调整繁复",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 2699,
+      "end_line": 2735,
+      "supports": "算出三句话余量、可触发但不能指定其思想内容",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/127移魂怪物.txt",
+      "start_line": 2441,
+      "end_line": 2475,
+      "supports": "工作考验、做人须限制脑能力及曾有人术前逃走",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/127移魂怪物.txt",
+      "start_line": 2613,
+      "end_line": 2658,
+      "supports": "462名已受限人类无旧记忆，亮声也须抗拒身体欲望",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/129本性难移.txt",
+      "start_line": 2488,
+      "end_line": 2576,
+      "supports": "动物成果尚初步，院方也无成熟永久改变人类本性方法",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "本卡为具有共同组织身份的群体接口，不把其中所有人物合成一个意识。",
+    "各时代的基地位置与不同设施不得无条件同时存在。",
+    "114的生命配额是小说内部理论；医院承认研究有限，不能改写任意人的整段命运。"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "weisili_red_visitors",
+  "name": "寻找生命之源的红人",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "《血统》寻回生命之源，离开并与郑保云保持联系；群体按任务成员部署，人数与飞船需具体交代",
+    "deployment": "《血统》寻回生命之源，离开并与郑保云保持联系；群体按任务成员部署，人数与飞船需具体交代。仅携带卡中明确列出的随身装备；朋友、机构与失去的装置均需另行取得支持。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 4,
+    "scope": 3,
+    "sustain": 6,
+    "range": 7,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "以变形、感知及有设备的移送计分；无大规模进攻展示，生命依赖特定矿石，传送不等同概念改写。；该项仅评价本卡机制在对应维度上的作用。",
+    "energy": "以变形、感知及有设备的移送计分；无大规模进攻展示，生命依赖特定矿石，传送不等同概念改写。；该项仅评价本卡机制在对应维度上的作用。",
+    "scope": "以变形、感知及有设备的移送计分；无大规模进攻展示，生命依赖特定矿石，传送不等同概念改写。；该项仅评价本卡机制在对应维度上的作用。",
+    "sustain": "以变形、感知及有设备的移送计分；无大规模进攻展示，生命依赖特定矿石，传送不等同概念改写。；该项仅评价本卡机制在对应维度上的作用。",
+    "range": "以变形、感知及有设备的移送计分；无大规模进攻展示，生命依赖特定矿石，传送不等同概念改写。；该项仅评价本卡机制在对应维度上的作用。",
+    "combat": "以变形、感知及有设备的移送计分；无大规模进攻展示，生命依赖特定矿石，传送不等同概念改写。；该项仅评价本卡机制在对应维度上的作用。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 45.0,
+  "deduction_total": 6.0,
+  "raw_score": 39.0,
+  "rounded_score": 39,
+  "numeric_tier": "凶",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "凶",
+  "theoretical_tier": "凶",
+  "mastery": "基本掌握",
+  "final_tier": "凶",
+  "display_tier": "凶",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "凶",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/074血统.txt",
+      "start_line": 1543,
+      "end_line": 1565,
+      "supports": "变形、带走与搜寻",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/074血统.txt",
+      "start_line": 1658,
+      "end_line": 1738,
+      "supports": "九名交流者及友善性格",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/074血统.txt",
+      "start_line": 1797,
+      "end_line": 1853,
+      "supports": "生命源及铜屏蔽",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/074血统.txt",
+      "start_line": 1967,
+      "end_line": 2002,
+      "supports": "寻回、致谢与还物",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/074血统.txt",
+      "start_line": 3112,
+      "end_line": 3118,
+      "supports": "物质分解还原传送",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/074血统.txt",
+      "start_line": 3353,
+      "end_line": 3359,
+      "supports": "保持联系",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "数值评级为项目分析，原文没有相应战斗数值。"
+  ]
+}

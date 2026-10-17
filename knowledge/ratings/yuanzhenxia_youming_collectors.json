@@ -1,0 +1,138 @@
+{
+  "id": "yuanzhenxia_youming_collectors",
+  "name": "幽灵星座采集使者群体",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "收集可能接近停止，部分使者协助公主释放；未证明全体消灭或统一改变立场。",
+    "deployment": "限定为当场实际参与的使者及其已获准使用的媒介；选择幻变人形或电脑载体时说明具体成员与权限，不配置整个星座和医院资源。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 5,
+    "scope": 3,
+    "sustain": 5,
+    "range": 4,
+    "combat": 5
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "低温接触有具体影响，未展示巨力；不以人形外观当作人类肉身。",
+    "energy": "意识干涉",
+    "scope": "有限采集对象",
+    "sustain": "执行者可持续完成相关任务，但单个形体的维持上限与媒介条件未全部交代。",
+    "range": "媒介联系",
+    "combat": "执行经验"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "能力的已知边界：成员能力及权限有差别；不代表全星座随叫随到，也非对所有生命立即必杀。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "场景条件：成员能力及权限有差别；不代表全星座随叫随到，也非对所有生命立即必杀。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：按规则施加后果，也可能提供有限帮助。"
+    }
+  },
+  "positive_total": 40.0,
+  "deduction_total": 7.0,
+  "raw_score": 33.0,
+  "rounded_score": 33,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "干涉特定对象脑活动造成事故，以薄片等媒介保存灵魂，部分成员可安排相关意识接送。；成员能力及权限有差别；不代表全星座随叫随到，也非对所有生命立即必杀。",
+    "tier": "强",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "start_line": 7526,
+      "end_line": 7649,
+      "supports": "劝退与威胁",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "start_line": 7729,
+      "end_line": 7737,
+      "supports": "事故干涉",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "start_line": 7994,
+      "end_line": 8055,
+      "supports": "研究与边界",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/18.黑暗天使.txt",
+      "start_line": 5231,
+      "end_line": 5314,
+      "supports": "有限协同",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "start_line": 7401,
+      "end_line": 7421,
+      "supports": "低温接触",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "start_line": 8141,
+      "end_line": 8149,
+      "supports": "幻变人形而非人类身体",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/18.黑暗天使.txt",
+      "start_line": 2715,
+      "end_line": 2741,
+      "supports": "电脑载体",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/18.黑暗天使.txt",
+      "start_line": 6043,
+      "end_line": 6063,
+      "supports": "医院设备参与接回",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/18.黑暗天使.txt",
+      "start_line": 6083,
+      "end_line": 6121,
+      "supports": "接回过程与条件",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

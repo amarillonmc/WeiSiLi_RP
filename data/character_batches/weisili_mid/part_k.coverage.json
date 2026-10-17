@@ -1,0 +1,97 @@
+[
+  {
+    "path": "卫斯理系列/054第二种人.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "黄堂",
+        "card_id": "weisili_huang_tang",
+        "role": "重要配角",
+        "basis": "辨认交通事故中的同貌者"
+      },
+      {
+        "name": "达宝（飞行工程师）",
+        "card_id": "weisili_dabao_plant",
+        "role": "单书主角",
+        "basis": "空难、身份调查或关键冲突"
+      },
+      {
+        "name": "白辽士",
+        "card_id": "weisili_bailiaoshi",
+        "role": "单书主角",
+        "basis": "空难、身份调查或关键冲突"
+      },
+      {
+        "name": "文斯",
+        "card_id": "weisili_wensi_plant",
+        "role": "单书主角",
+        "basis": "空难、身份调查或关键冲突"
+      },
+      {
+        "name": "连能",
+        "card_id": "weisili_lianneng",
+        "role": "单书主角",
+        "basis": "空难、身份调查或关键冲突"
+      },
+      {
+        "name": "奥昆",
+        "card_id": "weisili_aokun",
+        "role": "单书主角",
+        "basis": "空难、身份调查或关键冲突"
+      },
+      {
+        "name": "白辽士二世",
+        "card_id": "weisili_bailiaoshi_second",
+        "role": "单书主角",
+        "basis": "空难、身份调查或关键冲突"
+      },
+      {
+        "name": "马基机长",
+        "card_id": "weisili_maji_pilot",
+        "role": "单书主角",
+        "basis": "空难、身份调查或关键冲突"
+      },
+      {
+        "name": "祁士域",
+        "card_id": "weisili_qi_shiyu",
+        "role": "单书主角",
+        "basis": "空难、身份调查或关键冲突"
+      },
+      {
+        "name": "采紫菜的老人",
+        "card_id": "weisili_zicai_old_robber",
+        "role": "反派",
+        "basis": "空难、身份调查或关键冲突"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "单相",
+        "reason": "单书专家录音协助；后文056仅提及，132将盗墓者写单相疑与弟弟单思混名，不据此强合并。"
+      },
+      {
+        "name": "学校老教师",
+        "reason": "一次回忆达宝少年性格的协助者。"
+      },
+      {
+        "name": "其余同貌下一代",
+        "reason": "确为独立个体，只有群体航海及接应信息；未表现独立主角或反派线，不能当五人的分身。"
+      }
+    ],
+    "notes": [
+      "达宝为飞行工程师，与玩具的丹麦调查者区分；白辽士二世有独立性格及行动，单独成卡。族群善意与实际隐瞒、催眠及空难责任并存。"
+    ]
+  }
+]

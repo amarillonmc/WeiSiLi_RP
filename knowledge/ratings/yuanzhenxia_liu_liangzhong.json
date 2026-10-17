@@ -1,0 +1,105 @@
+{
+  "id": "yuanzhenxia_liu_liangzhong",
+  "name": "刘量中",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "身体死亡，灵魂存于薄片，与施哲相伴；外界无法直接验证两人的感受。",
+    "deployment": "需要实际互动时，明确恢复车祸前刘量中自己的身体并保留已知终局经历。原作终局仍在薄片内，不能同时使用薄片隐蔽与人体行动，也不能自行离片。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 1,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "以实际人体条件计",
+    "energy": "未证实主动能量攻击",
+    "scope": "个体与身边环境",
+    "sustain": "人类体力和休息",
+    "range": "手边工具与沟通距离",
+    "combat": "按该人物实际行动经验计"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "能力的已知边界：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "场景条件：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：要求说明理由，避免以冲动行动代替查证。"
+    }
+  },
+  "positive_total": 12.0,
+  "deduction_total": 3.0,
+  "raw_score": 9.0,
+  "rounded_score": 9,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "普通青年知识、交流和观察；薄片中的存在是被收容状态，不是自带魂术。；依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。",
+    "tier": "纸",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "start_line": 4070,
+      "end_line": 4648,
+      "supports": "相遇与求助",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "start_line": 7653,
+      "end_line": 7669,
+      "supports": "事故前",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "start_line": 8037,
+      "end_line": 8061,
+      "supports": "薄片终局",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "start_line": 8041,
+      "end_line": 8055,
+      "supports": "薄片中的点圈与无法联络",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "原作终局外界无法继续联络；卡内人体七维评价的是明示恢复后的参战身体。"
+  ]
+}

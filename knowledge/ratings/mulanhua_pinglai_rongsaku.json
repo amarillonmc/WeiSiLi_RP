@@ -1,0 +1,117 @@
+{
+  "id": "mulanhua_pinglai_rongsaku",
+  "name": "平濑荣作",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "被穆秀珍一同从旋涡中救出，交给缅甸警方后供认贿赂、基地秘密和分离政权计划。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 1,
+    "scope": 2,
+    "sustain": 2,
+    "range": 3,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "机关、武器和财富都是需要实际控制的外部资源；不具有神谕、超常抗伤或强迫所有人信仰的能力。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "用战争遗留的秘密和财富重建个人统治，把他人的恐惧、贪心和信仰都当成工具。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "机关、武器和财富都是需要实际控制的外部资源；不具有神谕、超常抗伤或强迫所有人信仰的能力。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 20.0,
+  "deduction_total": 2.0,
+  "raw_score": 18.0,
+  "rounded_score": 18,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "持实际枪械并调动已获准的外勤及有限基地机关；基地大工程不是个人可随时重建的力量。",
+    "tier": "并",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/59无风自动.txt",
+      "start_line": 110,
+      "end_line": 120,
+      "supports": "旧日军官及投降故事。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/59无风自动.txt",
+      "start_line": 214,
+      "end_line": 250,
+      "supports": "其对神庙和钟声的说法。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/59无风自动.txt",
+      "start_line": 1404,
+      "end_line": 1448,
+      "supports": "日军情报身份与劳工资料。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/59无风自动.txt",
+      "start_line": 1886,
+      "end_line": 1910,
+      "supports": "持枪及麻痹控制。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/59无风自动.txt",
+      "start_line": 2034,
+      "end_line": 2116,
+      "supports": "机械基地、野心与落水获救。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/59无风自动.txt",
+      "start_line": 2140,
+      "end_line": 2158,
+      "supports": "口供与假坠崖机制。",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

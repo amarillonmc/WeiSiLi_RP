@@ -1,0 +1,19 @@
+{
+  "cards": 132,
+  "books": 43,
+  "evidence_sources": 56,
+  "errors": [],
+  "shared_card_ids": [
+    "mulanhua_annie",
+    "mulanhua_yun_sifeng",
+    "weisili_ge_bi",
+    "weisili_hu_shuo",
+    "weisili_huang_tang",
+    "weisili_leman_hospital",
+    "weisili_sha_mo",
+    "weisili_wei_sili",
+    "weisili_wen_baoyu",
+    "yuanzhenxia_kangwei",
+    "yuanzhenxia_qinglong"
+  ]
+}

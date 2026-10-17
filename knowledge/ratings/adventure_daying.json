@@ -1,0 +1,120 @@
+{
+  "id": "adventure_daying",
+  "name": "孤峰大鹰",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "126中回应人形神鹰，带金维与神鹰离船赴孤峰解释旧事；解释尚未展示，保持大羊鹰形态。",
+    "deployment": "保留巨鹰最后可行动形态与自主判断；可自愿以网兜及背部运送两位已建立合作的同伴，没有随时被召唤、自动认主或化人能力。"
+  },
+  "positive": {
+    "physical": 4,
+    "energy": 0,
+    "scope": 2,
+    "sustain": 4,
+    "range": 3,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "利爪能制住成人，双翼可扫倒木屋和掀翻近旁多人。 强健猛禽仍可被绳索捕缚；未示抗枪弹、火或毒。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "可负重往返高峰；语言理解和搭载须真实合作，不计为远程操纵生命。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "以长期形成的关系和场所联系行动，不按人类职业或善恶标签认主。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "飞行需要可展翼空间，绳索可捕缚，负重极限未明。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 28.5,
+  "deduction_total": 5.0,
+  "raw_score": 23.5,
+  "rounded_score": 24,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "凶",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "可携带两名成人远行，爪翼影响近旁人和轻型木屋；无化人、无限负重或精神控制证据。",
+    "tier": "凶",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "非人协会系列/04大鹰.txt",
+      "start_line": 39,
+      "end_line": 44,
+      "supports": "体型与猎击",
+      "kind": "原文"
+    },
+    {
+      "path": "非人协会系列/04大鹰.txt",
+      "start_line": 612,
+      "end_line": 625,
+      "supports": "捕缚、释放和运送",
+      "kind": "原文"
+    },
+    {
+      "path": "非人协会系列/04大鹰.txt",
+      "start_line": 679,
+      "end_line": 685,
+      "supports": "处理遗体及推荐",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 447,
+      "end_line": 490,
+      "supports": "身份与孤峰旧事的回指。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "start_line": 511,
+      "end_line": 548,
+      "supports": "多年交流仍不能尽知鹰的秘密，寻人回述与早篇有冲突。",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/126未来身份.txt",
+      "start_line": 95,
+      "end_line": 153,
+      "supports": "三米左右站高、鹰语、不同于神鹰及同时负重两人离船。",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "非人04怪人已死且由鹰处置遗体，与124回述怪人失踪存在差异；不据此增加复活或抹除旧篇事件。",
+    "与神鹰是不同个体：神鹰后来成为人，本卡大羊鹰仍是巨鹰；两者在126相互交谈。"
+  ]
+}

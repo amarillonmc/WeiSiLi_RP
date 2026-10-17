@@ -1,0 +1,98 @@
+{
+  "id": "weisili_tianshu_traveler",
+  "name": "《天书》迷航者",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "向卫白说明镜像宇宙解释后死亡；船与设备按其安排毁去。",
+    "deployment": "恢复最后能够交流的意识与必要的辅助接口，保留重伤行动限制；原船与完整数据库不默认再生。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 1,
+    "scope": 3,
+    "sustain": 2,
+    "range": 2,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "重伤需辅助",
+    "energy": "接口传讯不等于战斗轰击",
+    "scope": "资料解释和有限影响",
+    "sustain": "依赖支持模块",
+    "range": "当前辅助接口范围",
+    "combat": "无独立近战与高强战斗表现"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 4,
+      "af": 1.0,
+      "reason": "能力的已知边界：依赖设备和资料，个体重伤不能独立行动；不是万能预言或命运改写；原船已毁，部署仅带交流及有限资料接口。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "场景条件：依赖设备和资料，个体重伤不能独立行动；不是万能预言或命运改写；原船已毁，部署仅带交流及有限资料接口。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：可能抱怨，但需承认对方实质付出。"
+    }
+  },
+  "positive_total": 17.5,
+  "deduction_total": 8.0,
+  "raw_score": 9.5,
+  "rounded_score": 10,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "凭船内资料、接收设备和脑部接口交流，整理其他航行者讯息与对应历史记录。；依赖设备和资料，个体重伤不能独立行动；不是万能预言或命运改写；原船已毁，部署仅带交流及有限资料接口。",
+    "tier": "纸",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/049天书.txt",
+      "start_line": 2793,
+      "end_line": 2935,
+      "supports": "身体、设备与求援",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/049天书.txt",
+      "start_line": 3352,
+      "end_line": 3455,
+      "supports": "镜像解释及天书",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/049天书.txt",
+      "start_line": 3571,
+      "end_line": 3611,
+      "supports": "死亡与毁船",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "镜像宇宙和未来不可变为书内来客解释；不据此推导角色能改写多元宇宙。"
+  ]
+}

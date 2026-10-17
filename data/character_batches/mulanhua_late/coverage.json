@@ -1,0 +1,1856 @@
+[
+  {
+    "path": "木兰花全集/41金库奇案.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "系列主角",
+        "basis": "刑事追查与伪装接头。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "质疑金库、驾驶和劫车反击。"
+      },
+      {
+        "name": "陆德",
+        "card_id": "mulanhua_lu_de",
+        "role": "反派",
+        "basis": "内部合谋及买凶。"
+      },
+      {
+        "name": "杜将军",
+        "card_id": "mulanhua_du_general",
+        "role": "反派",
+        "basis": "主导金融计划与决斗。"
+      },
+      {
+        "name": "卢得",
+        "card_id": "mulanhua_lu_de_killer",
+        "role": "反派",
+        "basis": "杀手和劫车者。"
+      },
+      {
+        "name": "副董事长与副总经理",
+        "card_id": "mulanhua_jintong_conspirator_pair",
+        "role": "反派群体",
+        "basis": "统一假证词的固定双人组。"
+      },
+      {
+        "name": "总经理",
+        "card_id": "mulanhua_jintong_manager",
+        "role": "主线人物",
+        "basis": "清白高层主动求助与遇害。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "盛保源",
+        "reason": "被怀疑但实际希望保住持股及银行，是一次性委托线索人物，无确定反派行为。"
+      },
+      {
+        "name": "杨林",
+        "reason": "前杀手经纪人已切断关系，本案核明未参与；提供住址的一次性线索，不以拒绝突袭搜问认定反派。"
+      },
+      {
+        "name": "卢得未名伙伴、杜将军两枪手",
+        "reason": "从属行动并入相应主卡的实际组队条件，无分化身份与独立经历。"
+      },
+      {
+        "name": "穆秀珍、云五风",
+        "reason": "仅相关提及，本书不补独立行动。"
+      },
+      {
+        "name": "银行专家、警卫、护士、油站职员和宾客",
+        "reason": "职务、遇害或场景辅助，不具独立主角弧。"
+      }
+    ],
+    "notes": [
+      "金融系统的潜在影响不当成个人破坏力；杜将军终局保留右腿骨折。"
+    ]
+  },
+  {
+    "path": "木兰花全集/42龙宫宝贝.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "调查、受困与迷阵脱出。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "系列主角",
+        "basis": "被绑后营救、围捕与审问。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "跨书重要配角",
+        "basis": "蜜月带回古物并叙述来源。"
+      },
+      {
+        "name": "朱英",
+        "card_id": "mulanhua_zhu_ying",
+        "role": "反派",
+        "basis": "支部首领及人质拘押。"
+      },
+      {
+        "name": "云生",
+        "card_id": "mulanhua_yun_sheng",
+        "role": "反派",
+        "basis": "总部人员、骗局和绑架。"
+      },
+      {
+        "name": "小古",
+        "card_id": "mulanhua_magic_xiaogu",
+        "role": "反派",
+        "basis": "冒名掉包后被杀。"
+      },
+      {
+        "name": "洪逢",
+        "card_id": "mulanhua_hong_feng",
+        "role": "反派",
+        "basis": "犯罪中介与通风报信。"
+      },
+      {
+        "name": "史特朗教授",
+        "card_id": "mulanhua_professor_strong",
+        "role": "阶段性对立者",
+        "basis": "组织谈判与引见。"
+      },
+      {
+        "name": "但尼克公爵",
+        "card_id": "mulanhua_danike",
+        "role": "反派",
+        "basis": "迷阵条件与最终履约。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "黄基、张敏",
+        "reason": "真实店主和经理未参与骗局，一次性核验辅助；不得把冒名者罪责转给他们。"
+      },
+      {
+        "name": "假黄基、枪手、看守与潜艇人员",
+        "reason": "未分化身份的从属执行者，行动归具体组织主卡且需实际在场。"
+      },
+      {
+        "name": "渔船船长及其父、考古家",
+        "reason": "古物来源与鉴别背景，未呈独立主角线。"
+      },
+      {
+        "name": "云四风、云五风",
+        "reason": "相关技术和家庭背景按核心卡，不在本书增造行动。"
+      }
+    ],
+    "notes": [
+      "教授与同名警犬分离；所有机括、监控和潜艇均是实际场景资源。"
+    ]
+  },
+  {
+    "path": "木兰花全集/43珊瑚古城.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "船上协助、监听与巴黎等候。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "系列主角",
+        "basis": "前期调查和海上配合。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "调查与海上支援。"
+      },
+      {
+        "name": "维龙",
+        "card_id": "mulanhua_weilong",
+        "role": "反派",
+        "basis": "犯罪首领、寻宝与隐藏战罪。"
+      },
+      {
+        "name": "维娜丽丝",
+        "card_id": "mulanhua_weinalisi",
+        "role": "主线人物",
+        "basis": "专业、身份与器材协助。"
+      },
+      {
+        "name": "搜索团少妇",
+        "card_id": "mulanhua_war_search_woman",
+        "role": "阶段性对立者",
+        "basis": "袭击范达后合作。"
+      },
+      {
+        "name": "断腿中年人",
+        "card_id": "mulanhua_war_search_limp",
+        "role": "主线人物",
+        "basis": "具体追责与外援联络。"
+      },
+      {
+        "name": "彼德",
+        "card_id": "mulanhua_peter_war_search",
+        "role": "阶段性对立者",
+        "basis": "持枪威胁协作者。"
+      },
+      {
+        "name": "叶奇",
+        "card_id": "mulanhua_ye_qi",
+        "role": "阶段性对立者",
+        "basis": "识破冒名、被维龙排斥。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "范达",
+        "reason": "独立执行机密档案运送、遭麻醉而未死，是一次性警务辅助，无后续主角或反派线。"
+      },
+      {
+        "name": "未名潜艇将军",
+        "reason": "外援的独立指挥者，拒绝留取财宝并撤退；资源条件记入事件，不把整支国家军队变个人卡。"
+      },
+      {
+        "name": "搜索团其他成员、被救潜入者、船队女侍和电讯员",
+        "reason": "分组协助、受害或监视的执行身份，未形成可持续独立人物弧。"
+      },
+      {
+        "name": "但尼克公爵、朱英",
+        "reason": "前篇回顾和命令转述，无新实场行动，补证原卡。"
+      },
+      {
+        "name": "古城原住民与海洋生物",
+        "reason": "历史遗迹与环境对象，无可辨角色人格。"
+      }
+    ],
+    "notes": [
+      "木兰花借维娜丽丝身份完成的战斗、发现均归本人；维龙合法发掘资格与战罪分别记录。"
+    ]
+  },
+  {
+    "path": "木兰花全集/44猎头禁地.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "王可丽",
+        "card_id": "mulanhua_wang_keli",
+        "role": "单书主角",
+        "basis": "求援、寻找哥哥，最终阻止屠杀而死。"
+      },
+      {
+        "name": "王可敬",
+        "card_id": "mulanhua_wang_kejing",
+        "role": "反派",
+        "basis": "假借神威控制族人并强迫采矿、杀人。"
+      },
+      {
+        "name": "毕卡族酋长",
+        "card_id": "mulanhua_bika_chief",
+        "role": "阶段性对立者",
+        "basis": "围车阻留、后接纳救援。"
+      },
+      {
+        "name": "毕卡族大巫师",
+        "card_id": "mulanhua_bika_shaman",
+        "role": "阶段性对立者",
+        "basis": "初次对峙与仪式影响。"
+      },
+      {
+        "name": "刚利族酋长",
+        "card_id": "mulanhua_gangli_chief",
+        "role": "阶段性对立者",
+        "basis": "首领仪式及受剥削后反抗被杀。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "跨书重要配角",
+        "basis": "解围、取奈比及处理王氏兄妹终局。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "同行与照顾安妮。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "受毒箭伤，最终恢复行走。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "制造探险车辆、驾驶与照顾伤者。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "跨书重要配角",
+        "basis": "安排器材并在机场迎接。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "毛得",
+        "reason": "一次性向导线索提供者，未构成独立主角或反派。"
+      },
+      {
+        "name": "被杀向导与脚夫、无名行刑者及巡逻兵",
+        "reason": "未个体化的背景受害者与群体执行者，不把全族自动合为一张反派。"
+      },
+      {
+        "name": "巨蟒、鳄鱼、水蛭",
+        "reason": "自然险境，不作为有角色逻辑的反派人物。"
+      }
+    ],
+    "notes": [
+      "安妮恢复行走已回传核心卡；病因、毒药、解药和高热之间的具体机制未定。",
+      "原文民族称呼与医学、地理判断只作为小说语境，不转写成现实定论。"
+    ]
+  },
+  {
+    "path": "木兰花全集/45魔画.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "曾保",
+        "card_id": "mulanhua_zeng_bao",
+        "role": "反派",
+        "basis": "偷画旧案、海盗及暴力收购首领。"
+      },
+      {
+        "name": "李彬",
+        "card_id": "mulanhua_li_bin_magic_painting",
+        "role": "反派／单书主角",
+        "basis": "盗画引发旧案，带画求助启动本案。"
+      },
+      {
+        "name": "都曼",
+        "card_id": "mulanhua_duman",
+        "role": "单书主角",
+        "basis": "当地反抗和新生活的主要行动者。"
+      },
+      {
+        "name": "霍大哥",
+        "card_id": "mulanhua_huo_nansha",
+        "role": "反派",
+        "basis": "当地压迫据点负责人。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "推理、麻醉枪与阻断逃路。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "据点近战与炸毁逃生直升机。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "跨书重要配角",
+        "basis": "协助调查及援救云四风。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "被劫后与曾保交锋。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "何妈妈、王五叔",
+        "reason": "一次性旧案讲述及长辈关系人物，未单独承担本书主线冲突；既往江湖经历不是本案反派身份。"
+      },
+      {
+        "name": "穆家长辈、云旋风、儿岛师父",
+        "reason": "在本书为背景或追忆，相关核心履历交主卡作者核合。"
+      },
+      {
+        "name": "未名收购员、打手、军警、村长",
+        "reason": "一次性执行或支援人物，已由具体负责人和都曼覆盖主要逻辑。"
+      }
+    ],
+    "notes": [
+      "魔画没有诅咒；图谜与矿区危险不归为人物超能力。"
+    ]
+  },
+  {
+    "path": "木兰花全集/46死神殿.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "死神",
+        "card_id": "mulanhua_death_palace_master",
+        "role": "反派",
+        "basis": "幕后袭击与胁迫警方。"
+      },
+      {
+        "name": "佟宁",
+        "card_id": "mulanhua_tong_ning",
+        "role": "阶段性对立者",
+        "basis": "商业恐吓后转为供车合作。"
+      },
+      {
+        "name": "琵琶",
+        "card_id": "mulanhua_pipa",
+        "role": "反派",
+        "basis": "借钳藏弹破坏赛车。"
+      },
+      {
+        "name": "大乔治",
+        "card_id": "mulanhua_george_elder",
+        "role": "反派",
+        "basis": "共同赛车杀人履历与受雇威胁。"
+      },
+      {
+        "name": "小乔治",
+        "card_id": "mulanhua_george_younger",
+        "role": "反派",
+        "basis": "共同赛车杀人履历与受雇威胁。"
+      },
+      {
+        "name": "冷声赛车手",
+        "card_id": "mulanhua_cold_voice_racer",
+        "role": "反派",
+        "basis": "枪击木兰花汽车、谋求参赛优势。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "跨书重要配角",
+        "basis": "识破烙印胁迫，部署拘捕。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "赛车第二冲线并遇谋杀威胁。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "受托独立调查高翔下落。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "支援与照顾伤员。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "跨书重要配角",
+        "basis": "设计赛车并受爆炸重伤。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "跨书重要配角",
+        "basis": "协助调查与警力部署。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "麦维拉、贝波夫人、莎娃中尉",
+        "reason": "一次性专业协助或参赛背景，不是独立主角或已证反派。"
+      },
+      {
+        "name": "匿名追车者、接引人员、黑衣水手与赛场执行者",
+        "reason": "执行身份未个体化；不把三名匿名赛车手强并乔治兄弟。"
+      }
+    ],
+    "notes": [
+      "现存源文末尾2580–2606部分重复，仍能确认穆秀珍第二冲线，不能补出冠军结局。"
+    ]
+  },
+  {
+    "path": "木兰花全集/47复活金像.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "朴浣臣／王达",
+        "card_id": "mulanhua_pu_huanchen",
+        "role": "反派",
+        "basis": "假死、劫货及情报组织首领。"
+      },
+      {
+        "name": "顾益夫",
+        "card_id": "mulanhua_gu_yifu",
+        "role": "反派",
+        "basis": "副首领、杀原首领与继续走私。"
+      },
+      {
+        "name": "王通",
+        "card_id": "mulanhua_wang_tong",
+        "role": "反派",
+        "basis": "配合身份骗局，后来向警方求助遇害。"
+      },
+      {
+        "name": "炮舰司令",
+        "card_id": "mulanhua_gunship_commander",
+        "role": "反派",
+        "basis": "试图强行接收重要走私物资。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "金像、追车和假死目击启动调查。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "跨书重要配角",
+        "basis": "船上营救与阻止交接。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "直升机上联络与观察。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "跨书重要配角",
+        "basis": "协同军警行动及结案信息。"
+      },
+      {
+        "name": "杨科长",
+        "card_id": "mulanhua_yang_chief",
+        "role": "跨书重要配角",
+        "basis": "实际承担刑案调查；综合卡另记录59腐败与死亡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "杨鹰、黄雨方、沈伯奇、沈太太",
+        "reason": "前史证人及被灭口者，未展开独立行动逻辑；不凭叙述者结尾一句评价自动增列反派。"
+      },
+      {
+        "name": "售金像老妇、仓库看守、车手与枪手",
+        "reason": "一次性线索、背景和执行者；仓库贪便宜引发泄漏不构成独立主线反派。"
+      },
+      {
+        "name": "云五风、云四风",
+        "reason": "本书住院探望或工厂资源提及，主要履历见既有核心卡。"
+      }
+    ],
+    "notes": [
+      "王达＝朴浣臣，王通并非真兄长；复活均为假死骗局。"
+    ]
+  },
+  {
+    "path": "木兰花全集/48遥控谋杀案.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "陈宝明",
+        "card_id": "mulanhua_chen_baoming",
+        "role": "单书主角／阶段性对立者",
+        "basis": "被怀疑、诉讼与被灭口的工业家。"
+      },
+      {
+        "name": "徐健",
+        "card_id": "mulanhua_xu_jian",
+        "role": "反派",
+        "basis": "真正遥控谋杀者。"
+      },
+      {
+        "name": "间谍头目",
+        "card_id": "mulanhua_baoji_spy_master",
+        "role": "反派",
+        "basis": "控制工业集团的敌国机构负责人。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "跨书重要配角",
+        "basis": "错误预断、潜入、留氧气救木兰花。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "发现倒车事故异常并参与联络救援。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "调查徐宅和救援。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "企业背景与远距离射杀押送者。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "跨书重要配角",
+        "basis": "查旧地窖、安排伏击及拘捕。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "跨书重要配角",
+        "basis": "已经回到伙伴中支持调查。"
+      },
+      {
+        "name": "杨科长",
+        "card_id": "mulanhua_yang_chief",
+        "role": "跨书重要配角",
+        "basis": "实际承担刑案调查；综合卡另记录59腐败与死亡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "梁梅生、杨奇达、张柏年、白凤、杨安娜、邱龙等股东",
+        "reason": "本案受害或线索相关配角；未确认跨书独立身份，也不是反派，仅不配合保护不等于反派。"
+      }
+    ],
+    "notes": [
+      "陈宝明非连环凶手；徐健的摇椅炸弹是误导链的一部分，不能保持初期错误身份。"
+    ]
+  },
+  {
+    "path": "木兰花全集/49地道奇人.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "奇异先生",
+        "card_id": "mulanhua_qiyi_xiansheng",
+        "role": "单书主角",
+        "basis": "地下出身、救助族人愿望与遇害。"
+      },
+      {
+        "name": "宫木大佐",
+        "card_id": "mulanhua_gongmu",
+        "role": "反派",
+        "basis": "旧军权威转向个人帝国。"
+      },
+      {
+        "name": "小泽吉源",
+        "card_id": "mulanhua_oze_yoshimoto",
+        "role": "阶段性对立者",
+        "basis": "带路后因惧上司背离。"
+      },
+      {
+        "name": "太仓一郎",
+        "card_id": "mulanhua_taicang_yilang",
+        "role": "阶段性对立者",
+        "basis": "带路后因惧上司背离。"
+      },
+      {
+        "name": "洛丁尼",
+        "card_id": "mulanhua_luodingni",
+        "role": "反派",
+        "basis": "谋财杀人及绑架向导。"
+      },
+      {
+        "name": "汉德",
+        "card_id": "mulanhua_hande",
+        "role": "反派",
+        "basis": "夜总会总管与人质胁迫。"
+      },
+      {
+        "name": "卡罗",
+        "card_id": "mulanhua_kaluo",
+        "role": "反派",
+        "basis": "具名绑架同伙。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "跨书重要配角",
+        "basis": "戴防毒面具潜近救出木兰花。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "救援、找到地道口。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "接待与调查宫殿。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "救援和探险。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "齐密教授",
+        "reason": "已故背景学者，只以经历回述和著作佐证出现。"
+      },
+      {
+        "name": "丹警官",
+        "reason": "单书协助向导与警员，非独立主角或反派；不因失误毁宫自动列反派。"
+      },
+      {
+        "name": "其他未名绑匪、地下族人及皇帝",
+        "reason": "执行群体或历史背景，缺乏可确认的独立人物身份。"
+      }
+    ],
+    "notes": [
+      "地道族群的持续存在不等于奇异先生本人活了一千年；尸骨年代与全体死亡原因分别保存。",
+      "丛林毒雾按小说设定，未将其概括为现实热带普遍性质。"
+    ]
+  },
+  {
+    "path": "木兰花全集/50蜜月奇遇.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "年轻贵人",
+        "card_id": "mulanhua_honeymoon_youth",
+        "role": "单书主角",
+        "basis": "独自政治行动、被救及观念转变。"
+      },
+      {
+        "name": "贵妇",
+        "card_id": "mulanhua_honeymoon_mother",
+        "role": "单书主角",
+        "basis": "发起保密寻找儿子的委托。"
+      },
+      {
+        "name": "法勒·韦定",
+        "card_id": "mulanhua_fale_weiding",
+        "role": "阶段性对立者",
+        "basis": "非法便利及出卖行踪。"
+      },
+      {
+        "name": "使馆上校",
+        "card_id": "mulanhua_embassy_colonel",
+        "role": "反派",
+        "basis": "秘密拘禁与阻挠。"
+      },
+      {
+        "name": "亨利",
+        "card_id": "mulanhua_henry_gibraltar",
+        "role": "反派",
+        "basis": "抢劫拘禁和反扑。"
+      },
+      {
+        "name": "佐治",
+        "card_id": "mulanhua_george_gibraltar",
+        "role": "反派",
+        "basis": "看守被抢青年。"
+      },
+      {
+        "name": "机队领队",
+        "card_id": "mulanhua_honeymoon_abductor",
+        "role": "反派",
+        "basis": "政治绑架与死亡威胁。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "系列主角",
+        "basis": "与木兰花结婚并共同救援。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "面对婚后分离与独立生活。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "婚礼和接机后的互动。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "跨书重要配角",
+        "basis": "婚礼及公开说明双方意愿。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "婚礼协助。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "跨书重要配角",
+        "basis": "送行。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "管家、引路人、直布罗陀接待官员与渔船人员",
+        "reason": "一次性委托传递或救援辅助，无独立主角线。"
+      },
+      {
+        "name": "灭口枪手及其他警卫、劫匪、机队军人",
+        "reason": "匿名执行者，未提供足够独立身份；主要指挥与具名者已纳入。"
+      }
+    ],
+    "notes": [
+      "正文刻意隐去政治人物姓名国籍，不对应真实人物；青年与年轻人系列主角分开。",
+      "海上获救靠遇上渔船，不能记为主角必然幸运或无限水中续航。"
+    ]
+  },
+  {
+    "path": "木兰花全集/51冷血人.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "白克劳",
+        "card_id": "mulanhua_bai_kelau",
+        "role": "反派",
+        "basis": "毁坏技术、炸屋及利益逻辑。"
+      },
+      {
+        "name": "韦勃·李诺",
+        "card_id": "mulanhua_wei_bo_linuo",
+        "role": "单书主角",
+        "basis": "发明与拒绝封存导致主线。"
+      },
+      {
+        "name": "蒙蒂",
+        "card_id": "mulanhua_mengdi",
+        "role": "阶段性对立者",
+        "basis": "受命伪装接近、交接资料与保护老板。"
+      },
+      {
+        "name": "孙永泰",
+        "card_id": "mulanhua_sun_yongtai",
+        "role": "反派",
+        "basis": "代理交易及命案主使。"
+      },
+      {
+        "name": "蔡杰",
+        "card_id": "mulanhua_cai_jie",
+        "role": "阶段性对立者",
+        "basis": "犯罪交易参与后叛离供述。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "系列主角",
+        "basis": "警方调查与围捕。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "接包、避爆与受伤恢复。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "探望及终局判断。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "跨书重要配角",
+        "basis": "安妮牵挂与互动。"
+      },
+      {
+        "name": "杨科长",
+        "card_id": "mulanhua_yang_chief",
+        "role": "跨书重要配角",
+        "basis": "实际承担刑案调查；综合卡另记录59腐败与死亡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "齐警官、机组、救援军官、现场证人与匿名执行者",
+        "reason": "辅助调查、救援或缺乏独立身份的执行人员；犯罪首领和具名成员已纳入。"
+      }
+    ],
+    "notes": [
+      "标题冷血为道德评价，不是白克劳具有变温动物生理或冰能力。",
+      "自动汽车是实体电脑控制设备，事故不构成鬼车；白克劳不是已证实的李诺杀人主使。"
+    ]
+  },
+  {
+    "path": "木兰花全集/52生死碧玉.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "叶安",
+        "card_id": "mulanhua_ye_an",
+        "role": "反派",
+        "basis": "全案策划、假死和灭口。"
+      },
+      {
+        "name": "叶全",
+        "card_id": "mulanhua_ye_quan",
+        "role": "反派",
+        "basis": "化装盗宝与前期谋杀。"
+      },
+      {
+        "name": "叶山",
+        "card_id": "mulanhua_ye_shan",
+        "role": "反派",
+        "basis": "投毒主人、隐瞒同谋。"
+      },
+      {
+        "name": "杜三",
+        "card_id": "mulanhua_du_san",
+        "role": "反派",
+        "basis": "假证人及杀人同谋。"
+      },
+      {
+        "name": "杜大姑",
+        "card_id": "mulanhua_du_dagu",
+        "role": "阶段性对立者",
+        "basis": "协助假家庭骗局后供述。"
+      },
+      {
+        "name": "玉商",
+        "card_id": "mulanhua_yu_shang",
+        "role": "单书主角",
+        "basis": "财产、遗嘱与死亡构成全案核心。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "系列主角",
+        "basis": "被冒充、调查和逮捕。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "随木兰花推理辨认。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "察觉空盒和终局参观。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "跨书重要配角",
+        "basis": "调查责任及参与终局盘问。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "秦联发",
+        "reason": "单书律师，执行遗嘱与协助查证，无独立主角或反派线。"
+      },
+      {
+        "name": "林阿彩、陈阿根、朱文勤及妻儿、金吉等遇害者",
+        "reason": "作为被灭口的身份线索与继承关系出现，无独立行动主线；朱旧年盗卖古董只作背景。"
+      },
+      {
+        "name": "李昭华",
+        "reason": "骗子房间内图章给出的假身份线索，未证独立人物。"
+      }
+    ],
+    "notes": [
+      "木兰花终局推理随后由叶安完整供述总体印证；关于过去生活、旧职业等仍不确定的细节未写成绝对事实。",
+      "碧玉船没有已证诅咒，所谓不祥是文末感想；物价只作原作背景。"
+    ]
+  },
+  {
+    "path": "木兰花全集/53电网火花.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "摩亨将军",
+        "card_id": "mulanhua_moheng",
+        "role": "反派",
+        "basis": "绑架专家、武器阴谋和囚禁。"
+      },
+      {
+        "name": "佛德烈上校",
+        "card_id": "mulanhua_fudeli_colonel",
+        "role": "单书主角",
+        "basis": "潜艇追踪、接应、被俘和获释。"
+      },
+      {
+        "name": "李少校",
+        "card_id": "mulanhua_li_major",
+        "role": "阶段性对立者",
+        "basis": "留守抵抗后受迫合作、携家属出逃。"
+      },
+      {
+        "name": "二二〇",
+        "card_id": "mulanhua_agent_220",
+        "role": "反派",
+        "basis": "具代号人质看守。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "潜入与共同救援。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "被绑、夺枪及释放。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "跨书重要配角",
+        "basis": "被迫技术合作并获救。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "系列主角",
+        "basis": "联络与回国迎接。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "跨书重要配角",
+        "basis": "协调警务和领事。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "接讯提前从欧洲返回。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "无名守卫上校、军官、领事、李少校妻儿及国家领袖",
+        "reason": "警戒、通报、家属或政治背景，缺乏独立人物线；守卫被上级当通敌者并不证明其实际叛变。"
+      }
+    ],
+    "notes": [
+      "政治国家与真实身份未明，按小说匿名背景保留。",
+      "电网的技术描述按小说机制存档，不作现实工程可靠性的保证；运输机与大型供电装备不是任何人物随身能力。"
+    ]
+  },
+  {
+    "path": "木兰花全集/54古屋奇影.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "黄成坊",
+        "card_id": "mulanhua_huang_chengfang",
+        "role": "反派",
+        "basis": "伪钞工程主使与终局。"
+      },
+      {
+        "name": "黄焕芬",
+        "card_id": "mulanhua_huang_huanfen",
+        "role": "单书主角",
+        "basis": "无意传讯、指认叔父同伙与身后反思。"
+      },
+      {
+        "name": "丁孟生",
+        "card_id": "mulanhua_ding_mengsheng",
+        "role": "反派",
+        "basis": "具名核心成员，药酒与总务掩护。"
+      },
+      {
+        "name": "九金刚",
+        "card_id": "mulanhua_jiujingang",
+        "role": "反派群体",
+        "basis": "固定九人技术作案团伙。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "系列主角",
+        "basis": "银行现场与富豪调查。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "独宿古屋事件。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "共同调查救援。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "工程现场专业判断。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "跨书重要配角",
+        "basis": "设备采购调查。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "跨书重要配角",
+        "basis": "指挥警务与银行协调。"
+      },
+      {
+        "name": "杨科长",
+        "card_id": "mulanhua_yang_chief",
+        "role": "跨书重要配角",
+        "basis": "实际承担刑案调查；综合卡另记录59腐败与死亡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "季元发／季之发",
+        "reason": "旧管理员受害者，死亡作为掩护人事变动的线索，无独立行动主线；原文有异写。"
+      }
+    ],
+    "notes": [
+      "丁孟生与九金刚群体属包含关系，不重复人数；九人实际姓名只公布给警方，正文未全列。",
+      "鬼屋异象服务于犯罪伪装，不建立有超能力的鬼魂卡。"
+    ]
+  },
+  {
+    "path": "木兰花全集/55金庙奇佛.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "佟雅皇后",
+        "card_id": "mulanhua_tong_ya",
+        "role": "单书主角",
+        "basis": "开发计划、正式授权与政治终局。"
+      },
+      {
+        "name": "桑达",
+        "card_id": "mulanhua_sangda",
+        "role": "单书主角",
+        "basis": "向导、独立建设愿望与牺牲。"
+      },
+      {
+        "name": "迪逊",
+        "card_id": "mulanhua_dixon",
+        "role": "单书主角",
+        "basis": "核心考察行动及临终口述构成全案。"
+      },
+      {
+        "name": "梅斯",
+        "card_id": "mulanhua_meisi",
+        "role": "反派",
+        "basis": "毒物控制和参谋长身份。"
+      },
+      {
+        "name": "金庙总降头师",
+        "card_id": "mulanhua_gold_temple_general",
+        "role": "反派",
+        "basis": "主谋、杀人和逮捕。"
+      },
+      {
+        "name": "村落降头师",
+        "card_id": "mulanhua_gold_temple_village_shaman",
+        "role": "反派",
+        "basis": "独立接待威胁与押运。"
+      },
+      {
+        "name": "云三风",
+        "card_id": "mulanhua_yun_sanfeng",
+        "role": "跨书重要配角",
+        "basis": "本书明确死亡并查明原因。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "合作与后续开发。"
+      },
+      {
+        "name": "云一风",
+        "card_id": "mulanhua_yun_yifeng",
+        "role": "跨书重要配角",
+        "basis": "送医及同意检查。"
+      },
+      {
+        "name": "云二风",
+        "card_id": "mulanhua_yun_erfeng",
+        "role": "跨书重要配角",
+        "basis": "在场送别兄弟。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "跨书重要配角",
+        "basis": "家族面对死亡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "调查、制服梅斯、建设合作。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "山区行动与获救。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "林道、格连、童医生",
+        "reason": "本案医疗和口述线索提供者；未见跨书实际行动，不属独立主角或反派。童医生相信巫术不等于掌握巫术。"
+      },
+      {
+        "name": "总管大臣、秘书、司机、勘察队及其余降头师",
+        "reason": "一次性后勤、受害者或未区分个体的组织人员；已具独立押运行为的降头师另卡。"
+      },
+      {
+        "name": "孙定",
+        "reason": "旧档案中的传教士，无本书实际行动。"
+      }
+    ],
+    "notes": [
+      "毒物解释属小说设定，不作为真实医学结论；不复述配方或剂量。",
+      "飞头为机械装置，皇后戒指是政治身份象征，均非神性。"
+    ]
+  },
+  {
+    "path": "木兰花全集/56天才白痴.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "狄诺",
+        "card_id": "mulanhua_dinuo",
+        "role": "单书主角",
+        "basis": "被改造的核心人物；旧经历与当前损伤均纳入。"
+      },
+      {
+        "name": "图烈少将",
+        "card_id": "mulanhua_tulie",
+        "role": "反派",
+        "basis": "计划主持、追击与投诚终局。"
+      },
+      {
+        "name": "领事馆机关干部",
+        "card_id": "mulanhua_r_consulate_trap_officer",
+        "role": "反派",
+        "basis": "直接机关诱捕。"
+      },
+      {
+        "name": "两名押送特务",
+        "card_id": "mulanhua_r_escort_pair",
+        "role": "反派群体",
+        "basis": "固定双人押送与机内交锋。"
+      },
+      {
+        "name": "记忆读取小组",
+        "card_id": "mulanhua_r_memory_team",
+        "role": "反派群体",
+        "basis": "固定四人技术操作。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "系列主角",
+        "basis": "调查、搜救与安妮独立行动争议。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "独自潜入发现记忆系统，获承认成熟。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "深海搜寻。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "工厂调查与救援。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "跨书重要配角",
+        "basis": "技术与恢复可能追问。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "跨书重要配角",
+        "basis": "国际档案确认狄诺旧经历。"
+      },
+      {
+        "name": "杨科长",
+        "card_id": "mulanhua_yang_chief",
+        "role": "跨书重要配角",
+        "basis": "实际承担刑案调查；综合卡另记录59腐败与死亡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "黄江、目击证人",
+        "reason": "被灭口的一次性受害者，未发展独立行动主线。"
+      },
+      {
+        "name": "院长、脑科专家、齐瓦列夫博士",
+        "reason": "提供研究线索或仅被提及的发明者，没有独立主角线；不凭博士称谓扩写其动机。"
+      },
+      {
+        "name": "领事、匿名接待者、守卫、潜艇其余人员与机师",
+        "reason": "一次性职能人员，无法证实和具行为的主要特务同人；不为每个匿名警卫复制卡。"
+      }
+    ],
+    "notes": [
+      "书名与原文使用的旧式称呼不作为现实对认知障碍人士的评价。",
+      "旧天才没有结局治愈；记忆投影为外部实验系统，直接控制行动尚未实现。"
+    ]
+  },
+  {
+    "path": "木兰花全集/57生命合同.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "九金刚",
+        "card_id": "mulanhua_jiujingang",
+        "role": "反派群体",
+        "basis": "接续54的固定九人，综合终局。"
+      },
+      {
+        "name": "丁孟生",
+        "card_id": "mulanhua_ding_mengsheng",
+        "role": "反派",
+        "basis": "前篇已确认成员，后篇只继承群体终局。"
+      },
+      {
+        "name": "李义",
+        "card_id": "mulanhua_li_yi",
+        "role": "反派",
+        "basis": "本篇明确姓名的船上成员。"
+      },
+      {
+        "name": "胡成德",
+        "card_id": "mulanhua_hu_chengde",
+        "role": "反派",
+        "basis": "监守自盗关键内应。"
+      },
+      {
+        "name": "贝娜",
+        "card_id": "mulanhua_beina",
+        "role": "单书主角",
+        "basis": "被绑架、协作逃亡与康复。"
+      },
+      {
+        "name": "护士",
+        "card_id": "mulanhua_jiujingang_nurse",
+        "role": "反派",
+        "basis": "受贿安置窃听器。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "系列主角",
+        "basis": "调查与外交机构搜捕。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "调查救援。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "脱船、遭延迟药物与恢复。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "示踪搜捕。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "跨书重要配角",
+        "basis": "仪器、取解药。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "跨书重要配角",
+        "basis": "同意承担搜捕风险。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "市长、光辉董事长及其另一侄子",
+        "reason": "被施压者或线索人物，没有独立主角线及反派行动。"
+      },
+      {
+        "name": "电机博士旧日舞女、保险库制造商、外交部副部长",
+        "reason": "仅叙及关系、技术答复或处分，不据称谓补出独立生平。"
+      }
+    ],
+    "notes": [
+      "第四十四集之后安妮已能活动，此处药物危机不等于永久回到瘫痪状态。",
+      "九人群体与李义、丁孟生为包含关系，不累计人数；未公布姓名的成员行为归群体且保留分工。"
+    ]
+  },
+  {
+    "path": "木兰花全集/58三尸同行.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "许业康",
+        "card_id": "mulanhua_xu_yekang",
+        "role": "反派",
+        "basis": "商业竞争与谋杀计划主谋。"
+      },
+      {
+        "name": "许老大",
+        "card_id": "mulanhua_xu_eldest",
+        "role": "反派",
+        "basis": "假死及谋杀共同实施。"
+      },
+      {
+        "name": "许老二",
+        "card_id": "mulanhua_xu_second",
+        "role": "反派",
+        "basis": "假死及谋杀共同实施。"
+      },
+      {
+        "name": "许老三",
+        "card_id": "mulanhua_xu_third",
+        "role": "单书主角",
+        "basis": "实际飞行行动与被家族牺牲的核心人物。"
+      },
+      {
+        "name": "林杰",
+        "card_id": "mulanhua_lin_jie",
+        "role": "反派",
+        "basis": "被收买的朋友和关键供述者。"
+      },
+      {
+        "name": "史密斯",
+        "card_id": "mulanhua_smith_financier",
+        "role": "反派",
+        "basis": "商业控制骗局实际参与。"
+      },
+      {
+        "name": "云一风",
+        "card_id": "mulanhua_yun_yifeng",
+        "role": "跨书重要配角",
+        "basis": "本书被谋杀且结局确认。"
+      },
+      {
+        "name": "云二风",
+        "card_id": "mulanhua_yun_erfeng",
+        "role": "跨书重要配角",
+        "basis": "悲痛、审问与关键识人意见。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "制逃与商业反制。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "跨书重要配角",
+        "basis": "家族调查与悲恸。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "系列主角",
+        "basis": "空难调查和主控审判。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "飞行、保护安妮和反制。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "独立调查、误判、自责和破局。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "柯支·密勒、张医生、主治医生",
+        "reason": "一次性医疗和证人协助；整形医生明确不知犯罪，不能因手术列为反派。"
+      },
+      {
+        "name": "殓房管理员、航空控制室人员、商人代表",
+        "reason": "线索或职能配角，未见跨书重要行动。"
+      }
+    ],
+    "notes": [
+      "许老大、老二是有限生理控制形成假死，许老三与云一风是真实死亡。",
+      "安妮对云一风死亡的内疚属于主观情绪，不构成她参与谋杀。"
+    ]
+  },
+  {
+    "path": "木兰花全集/59无风自动.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "平濑荣作",
+        "card_id": "mulanhua_pinglai_rongsaku",
+        "role": "反派",
+        "basis": "基地、假死、贿赂与政治计划主谋。"
+      },
+      {
+        "name": "戴维斯",
+        "card_id": "mulanhua_davis_major",
+        "role": "单书主角",
+        "basis": "战时见证和本案核心受害者。"
+      },
+      {
+        "name": "安东尼教授",
+        "card_id": "mulanhua_anthony_explorer",
+        "role": "单书主角",
+        "basis": "独立调查、手稿与失踪核心线。"
+      },
+      {
+        "name": "杨科长",
+        "card_id": "mulanhua_yang_chief",
+        "role": "跨书重要配角、反派",
+        "basis": "旧日合作者被收买并死于骗局。"
+      },
+      {
+        "name": "平濑外勤行动队",
+        "card_id": "mulanhua_pinglai_field_team",
+        "role": "反派",
+        "basis": "有协同行动的匿名群像。"
+      },
+      {
+        "name": "旅馆伏击者",
+        "card_id": "mulanhua_pinglai_hotel_assassin",
+        "role": "反派",
+        "basis": "旅馆与船上明确同一执行者。"
+      },
+      {
+        "name": "大庭龙男",
+        "card_id": "mulanhua_dating_longnan",
+        "role": "跨书重要配角",
+        "basis": "实际调阅情报，协助确认平濑旧日身份和劳工计划。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "被陷害、脱困、近战与救回主谋。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "手稿与英国调查、救援搜寻。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "系列主角",
+        "basis": "调查、绳梯救援与转述口供。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "救援行动和设备协助。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "跨书重要配角",
+        "basis": "母子直升机设计与搜救支持。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "范探员",
+        "reason": "一次性取证和证人配角，未证参与贿赂，不能仅因拍摄便列反派。"
+      },
+      {
+        "name": "货船船长、信号站人员",
+        "reason": "运输调包造成的误会，没有证据参与阴谋。"
+      },
+      {
+        "name": "神庙附近普通居民",
+        "reason": "受到神迹骗局影响的人群，不将民族整体列作反派。"
+      }
+    ],
+    "notes": [
+      "钟声有无线电和机械机制；没有超自然诅咒。",
+      "杨科长与05杨登霆暂分卡；群体与具体执行者不重复计入一场的可调用人数。"
+    ]
+  },
+  {
+    "path": "木兰花全集/60无名怪尸.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "系列主角",
+        "basis": "本书核心调查与行动。"
+      },
+      {
+        "name": "黄义和教授",
+        "card_id": "mulanhua_huang_yihe",
+        "role": "单书主角、阶段性对立者",
+        "basis": "秘密治疗、失踪、线索与救醒安妮。"
+      },
+      {
+        "name": "卢利根勋爵",
+        "card_id": "mulanhua_luligen",
+        "role": "反派",
+        "basis": "政治阴谋、组织控制与古堡机关。"
+      },
+      {
+        "name": "陈思空",
+        "card_id": "mulanhua_chen_sikong",
+        "role": "反派",
+        "basis": "独立武学高手、两次伤害、假死与末期转向。"
+      },
+      {
+        "name": "陆嘉",
+        "card_id": "mulanhua_lu_jia",
+        "role": "反派",
+        "basis": "餐馆行动、飞行押送与引见。"
+      },
+      {
+        "name": "卢所长",
+        "card_id": "mulanhua_lu_detention_chief",
+        "role": "反派",
+        "basis": "受收买配合假枪脱押。"
+      },
+      {
+        "name": "遥控谈判者",
+        "card_id": "mulanhua_universe_remote_chief",
+        "role": "反派",
+        "basis": "有独立对话和调度的匿名层级负责人。"
+      },
+      {
+        "name": "遭刺领袖",
+        "card_id": "mulanhua_unnamed_assassinated_leader",
+        "role": "单书主角",
+        "basis": "病例与政治阴谋核心人物。"
+      },
+      {
+        "name": "领袖父亲",
+        "card_id": "mulanhua_unnamed_leader_father",
+        "role": "单书主角",
+        "basis": "实际来访、求证和善后决断。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "系列主角",
+        "basis": "救援、重伤、休养及恢复。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "系列主角",
+        "basis": "课程调查、发现线索、脑伤与恢复。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "系列主角",
+        "basis": "枪口制陈、调查尸体与找到教授。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "跨书重要配角",
+        "basis": "照护、忧虑与医院保安。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "跨书重要配角",
+        "basis": "情感支持、推理启发和医院保安。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "奥捷、杰逊、达拉斯三位脑科专家",
+        "reason": "只有失踪和联系资料，无独立行动或已证反派行为。"
+      },
+      {
+        "name": "王阿巧、王医生、医院院长、校役以外学校人员",
+        "reason": "一次性线索、医疗或职能配角，未见跨书重要行动。"
+      },
+      {
+        "name": "儿岛、霍元甲、农劲荪",
+        "reason": "本书历史回述中的武学人物，不把追忆扩成此时到场或现实史实。"
+      },
+      {
+        "name": "民族解放阵线首脑、餐馆与古堡匿名执行者",
+        "reason": "一次性身份展示或无独立决断的组织职能人员；已记在主谋及行动负责人资源条件内。"
+      }
+    ],
+    "notes": [
+      "安妮最终清醒，穆秀珍最终可走动且行动快捷；不保留中途失能为稳定终局。",
+      "陈思空假死与木兰花假死各有不同机制，均非死亡后复活。",
+      "木兰花明确不会龟息，科技道具和生理控制不能解释成无限闭气。"
+    ]
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "path": "原振侠系列/22.变换双星.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "感应追踪"
+      },
+      {
+        "name": "良辰",
+        "card_id": "weisili_liang_chen",
+        "role": "重要配角",
+        "basis": "双生推理与质问"
+      },
+      {
+        "name": "美景",
+        "card_id": "weisili_mei_jing",
+        "role": "重要配角",
+        "basis": "双生推理与质问"
+      },
+      {
+        "name": "苏耀西",
+        "card_id": "yuanzhenxia_su_yaoxi",
+        "role": "重要配角",
+        "basis": "引介与终局见证"
+      },
+      {
+        "name": "陈景德",
+        "card_id": "yuanzhenxia_chen_jingde",
+        "role": "单书主角",
+        "basis": "双生实验主线"
+      },
+      {
+        "name": "陈宜兴",
+        "card_id": "yuanzhenxia_chen_yixing",
+        "role": "单书主角",
+        "basis": "双生实验主线"
+      },
+      {
+        "name": "方如花",
+        "card_id": "yuanzhenxia_fang_ruhua",
+        "role": "单书主角",
+        "basis": "双生实验主线"
+      },
+      {
+        "name": "方似玉",
+        "card_id": "yuanzhenxia_fang_siyu",
+        "role": "单书主角",
+        "basis": "双生实验主线"
+      },
+      {
+        "name": "马进",
+        "card_id": "yuanzhenxia_ma_jin",
+        "role": "单书主要行动者",
+        "basis": "双生实验主线"
+      },
+      {
+        "name": "双生子研究的神秘人",
+        "card_id": "yuanzhenxia_twin_researcher",
+        "role": "反派性研究者",
+        "basis": "双生实验主线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "方继祖",
+        "reason": "单次养父及协助者，关系与隐瞒记入方如花卡"
+      },
+      {
+        "name": "探险家兼考古学家",
+        "reason": "未具名石像运输者，不与其他系列同类职业强行合并"
+      }
+    ],
+    "notes": [
+      "神秘王国家族与勒曼医院不同。"
+    ]
+  },
+  {
+    "path": "原振侠系列/23.血的诱惑.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "血液联系"
+      },
+      {
+        "name": "李固",
+        "card_id": "yuanzhenxia_li_gu",
+        "role": "主角",
+        "basis": "改造与求生"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "主角",
+        "basis": "感情与选择"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "巫术"
+      },
+      {
+        "name": "卡尔斯",
+        "card_id": "yuanzhenxia_kaersi",
+        "role": "反派",
+        "basis": "政治与实验利益"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "能力与后果由24后续合并定版。"
+    ]
+  },
+  {
+    "path": "原振侠系列/24.催命情圣.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "救援与判断"
+      },
+      {
+        "name": "李固",
+        "card_id": "yuanzhenxia_li_gu",
+        "role": "主角",
+        "basis": "拒绝弃体"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "主角",
+        "basis": "离开卡尔斯"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "修复与反噬"
+      },
+      {
+        "name": "卡尔斯",
+        "card_id": "yuanzhenxia_kaersi",
+        "role": "反派",
+        "basis": "失去黄绢"
+      },
+      {
+        "name": "古托",
+        "card_id": "yuanzhenxia_gutuo",
+        "role": "重要配角",
+        "basis": "巫术研究"
+      },
+      {
+        "name": "爱神",
+        "card_id": "yuanzhenxia_aishen",
+        "role": "重要配角",
+        "basis": "接走玛仙治疗"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "李固血液带来的变化不等于传统吸血僵尸；与30翠丝机制分开。"
+    ]
+  }
+]

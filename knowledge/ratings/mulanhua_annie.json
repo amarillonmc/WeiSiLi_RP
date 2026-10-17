@@ -1,0 +1,232 @@
+{
+  "id": "mulanhua_annie",
+  "name": "安妮",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料各书终局经历",
+    "canonical_endpoint": "44后恢复行走，60已修大学课程；被击昏后由黄义和治疗苏醒、清醒坐床，脑震荡未造成进一步损害。未写婚约。",
+    "deployment": "保留终局经历；以最后已证实的可行动状态登场，未随身拥有原文未说明的器材。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 2,
+    "sustain": 2,
+    "range": 3,
+    "combat": 6
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "普通年轻身体加逐步训练，重要伤害来自器材。",
+    "energy": "无自身能量攻击。",
+    "scope": "实际小型火箭或麻醉只局部作用，飞机大爆为链式效果。",
+    "sustain": "身体与电动器材都有正常限制。",
+    "range": "可携小型远程器械，射程有限且须实际装载。",
+    "combat": "多次有效脱困与侦察，仍有盲射、误判和冲动。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "无另行证实且应重复扣分的能力性自限；普通人能力低已计入正向分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "未把一般生存环境需求另算特殊限制。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "无证据表明拥有随机失控的主动战斗能力。"
+    }
+  },
+  "positive_total": 24.5,
+  "deduction_total": 0.0,
+  "raw_score": 24.5,
+  "rounded_score": 25,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "原文未显示改写世界规则或叙事层的可控权柄；异常事件与知情不等同概念干涉。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "观察推理、学习机械与潜水、有限枪械武技和任务辅助器材；终局腿已恢复。",
+    "tier": "并",
+    "uncontrolled": "未展示可归属于本人、可反复发动的额外不可控上限。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/27钻石镭射.txt",
+      "start_line": 2,
+      "end_line": 56,
+      "supports": "初遇救援",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/27钻石镭射.txt",
+      "start_line": 1164,
+      "end_line": 1176,
+      "supports": "家庭与维护父亲",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/27钻石镭射.txt",
+      "start_line": 2602,
+      "end_line": 2638,
+      "supports": "以钻换人及加入家庭",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/28北极氢弹战.txt",
+      "start_line": 1004,
+      "end_line": 1038,
+      "supports": "轮椅器械",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/28北极氢弹战.txt",
+      "start_line": 2364,
+      "end_line": 2516,
+      "supports": "麻醉限制、有限火箭与链式爆炸",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/28北极氢弹战.txt",
+      "start_line": 2656,
+      "end_line": 2666,
+      "supports": "疗养院计划与个人快乐",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/31黑暗历险.txt",
+      "start_line": 2132,
+      "end_line": 2180,
+      "supports": "水下发夹开铐",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/37沉船明珠.txt",
+      "start_line": 2140,
+      "end_line": 2198,
+      "supports": "主动脱离人质位置",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/37沉船明珠.txt",
+      "start_line": 2268,
+      "end_line": 2444,
+      "supports": "爬行自救、射击不准与认可",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/40怪新郎.txt",
+      "start_line": 1594,
+      "end_line": 1670,
+      "supports": "识假和窃听",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/40怪新郎.txt",
+      "start_line": 2580,
+      "end_line": 2612,
+      "supports": "记短停找到巢穴",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/41金库奇案.txt",
+      "start_line": 1344,
+      "end_line": 1464,
+      "supports": "致命火箭后受责",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/44猎头禁地.txt",
+      "start_line": 2440,
+      "end_line": 2508,
+      "supports": "恢复与原因未知",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/44猎头禁地.txt",
+      "start_line": 2742,
+      "end_line": 2746,
+      "supports": "机场独自行走",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/55金庙奇佛.txt",
+      "start_line": 2,
+      "end_line": 58,
+      "supports": "生日汽车和武技训练",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/56天才白痴.txt",
+      "start_line": 2304,
+      "end_line": 2322,
+      "supports": "要求独立与被承认",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/58三尸同行.txt",
+      "start_line": 1298,
+      "end_line": 1318,
+      "supports": "误判云一风",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/58三尸同行.txt",
+      "start_line": 1426,
+      "end_line": 1434,
+      "supports": "自责",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/58三尸同行.txt",
+      "start_line": 1974,
+      "end_line": 2000,
+      "supports": "瑜伽书辨假死",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 20,
+      "end_line": 46,
+      "supports": "大学课程与不盲闯火场",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 1876,
+      "end_line": 1878,
+      "supports": "治疗苏醒和脑震荡限度",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 1916,
+      "end_line": 1938,
+      "supports": "清醒与先推药液换气",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "44恢复行走的确切原因原文明确未知。",
+    "与云五风亲密不据此补写订婚或婚姻。"
+  ]
+}

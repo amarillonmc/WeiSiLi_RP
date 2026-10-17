@@ -1,0 +1,5331 @@
+[
+  {
+    "path": "木兰花全集/01巧夺死光表.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "贺天雄",
+        "card_id": "mulanhua_he_tianxiong",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "陈嘉利",
+        "card_id": "mulanhua_chen_jiali",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "死光表交易的跛足联络人",
+        "card_id": "mulanhua_deathwatch_lame_contact",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "陈嘉利身边的瘦子",
+        "card_id": "mulanhua_deathwatch_thin_agent",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "翡翠号上的死光武器卖方",
+        "card_id": "mulanhua_jade_boat_arms_sellers",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "传令女郎、绑架执行者及高翔部下",
+        "reason": "一次性助手，无独立姓名或主线目标；其具体行动作为所属人物的条件性支援。"
+      }
+    ],
+    "notes": [
+      "本版第八章仅余脚本名占位，部分经过缺失；不补造缺失章节细节。金额有二十万/二百万等异文，不据此量化资源。"
+    ]
+  },
+  {
+    "path": "木兰花全集/02黑龙现爪.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "金星（黑龙党）",
+        "card_id": "mulanhua_venus",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "里宾度",
+        "card_id": "mulanhua_libindu",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "彭可",
+        "card_id": "mulanhua_peng_ke",
+        "role": "单书主角/由反派转为保护者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "黑龙党的假护士绑架组",
+        "card_id": "mulanhua_blackdragon_hospital_team",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "萨都拉",
+        "card_id": "mulanhua_sadula",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "阿敏娜",
+        "card_id": "mulanhua_amina",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "陆尚",
+        "reason": "本书一次性探员报告火灾，后续是否成为重要配角将另作跨书核对。"
+      },
+      {
+        "name": "地球及未出场行星首脑",
+        "reason": "本书仅档案资料提及，实际在其他书出场者另建卡。"
+      }
+    ],
+    "notes": [
+      "黑龙党职级以原文为准，星体代号不产生天体能力。"
+    ]
+  },
+  {
+    "path": "木兰花全集/03太阳之女.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "康斯坦丁",
+        "card_id": "mulanhua_constantine",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "卡基",
+        "card_id": "mulanhua_kaji",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "儿岛谷温",
+        "card_id": "mulanhua_kojima_guwen",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "冥王星（黑龙党）",
+        "card_id": "mulanhua_pluto",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "黑龙党案的市长夫人",
+        "card_id": "mulanhua_mayor_wife",
+        "role": "受胁迫的反派/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "达拉姆盗油案的三名船长",
+        "card_id": "mulanhua_oilship_captains",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "萨都拉",
+        "card_id": "mulanhua_sadula",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "阿敏娜",
+        "card_id": "mulanhua_amina",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "儿岛强介",
+        "reason": "本书仅师承回述；与后续大庭龙男师门故事需跨书区分，不先合并。"
+      },
+      {
+        "name": "地球艾契曼及其他会议首脑",
+        "reason": "档案和会议命令中的短暂姓名，未承担本书可区分的独立行动线；保留在组织背景，后续若实际行动再纳入。"
+      },
+      {
+        "name": "两名潜水水手",
+        "reason": "一次性执行者，具体突袭归入三船长的条件性人手。"
+      }
+    ],
+    "notes": [
+      "“游艇上全是萨都拉的人”与紧接情节矛盾，按其实际持枪控制行为判断为黑龙党成员，不把明显异文转成萨都拉叛变。"
+    ]
+  },
+  {
+    "path": "木兰花全集/04木雕人头.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "彼德逊",
+        "card_id": "mulanhua_pederson",
+        "role": "重要配角/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "石川虎山",
+        "card_id": "mulanhua_ishikawa_torayama",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "海底火龙计划的三名旧近卫同伙",
+        "card_id": "mulanhua_fire_dragon_old_guards",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "石头",
+        "card_id": "mulanhua_stone",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "游艇上杀害同伴的潜伏者",
+        "card_id": "mulanhua_yacht_hidden_traitor",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "金桅杆号的大头子",
+        "card_id": "mulanhua_gold_mast_boss",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "计镇江、莎莎夫人",
+        "reason": "一次性友人供艇及误取箱子的旁观者，没有独立主角线或反派行为。"
+      },
+      {
+        "name": "阿二、石头的机师和机枪手",
+        "reason": "一次性执行助手；已在主要人物的条件性支援和事件证据内记载，不据零散行动虚构独立经历。"
+      }
+    ],
+    "notes": [
+      "海底火龙旧武器属于争夺标的，研究燃料的价值不赋予任何人物制造能力。"
+    ]
+  },
+  {
+    "path": "木兰花全集/05尸变惊魂.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "胜三郎",
+        "card_id": "mulanhua_sheng_sanlang",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "宫本龟太郎",
+        "card_id": "mulanhua_miyamoto_kametaro",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "杜鬼脸",
+        "card_id": "mulanhua_du_guilian",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "杨登霆",
+        "card_id": "mulanhua_yang_dengting",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "截留机密公函的警务机要秘书",
+        "card_id": "mulanhua_confidential_secretary",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "钱一晴诊所的秘密据点人员",
+        "card_id": "mulanhua_dental_clinic_cell",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "胜三郎手下的陆姓摄影助手",
+        "card_id": "mulanhua_lu_photography_helper",
+        "role": "阶段性对立者/转为救助者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "停尸箱内的伪尸取齿人",
+        "card_id": "mulanhua_morgue_false_corpse",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "昆格",
+        "card_id": "mulanhua_kunge",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "吴福、携带假牙的死者",
+        "reason": "引发调查的受害者与短暂开场视角，不承担本书主角线、跨书重要配角或反派身份。"
+      },
+      {
+        "name": "连奥爵士",
+        "reason": "一次性合法谈判代表和线索提供者，和匪徒谈判不构成反派。"
+      },
+      {
+        "name": "胜三郎的三名伏击部下、水警朱中校",
+        "reason": "一次性执行助手，各自行动和死伤作为主线事件记录；没有独立人物目标。"
+      },
+      {
+        "name": "钱一晴、邓尔",
+        "reason": "仅诊所招牌或人物猜测提及，没有可靠实际出场。"
+      }
+    ],
+    "notes": [
+      "钞票为国家银行真实发行、尚未大量流通的一批旧钞，不是伪钞。尸变由装死和内部权力滥用解释；早期催眠假设被正文撤回。"
+    ]
+  },
+  {
+    "path": "木兰花全集/06超人集团.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "阿尔法博士",
+        "card_id": "mulanhua_alpha",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "哲道尔博士",
+        "card_id": "mulanhua_zhedaoer",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "森里美",
+        "card_id": "mulanhua_sen_limei",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "法南度",
+        "card_id": "mulanhua_fanandu",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "嘉路宾",
+        "card_id": "mulanhua_jialubin",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "超人集团游艇上的匿名上级",
+        "card_id": "mulanhua_superman_yacht_chief",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "超人集团游艇上的张姓成员",
+        "card_id": "mulanhua_zhang_boatman",
+        "role": "阶段性对立者/转为救助者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "梅将军",
+        "card_id": "mulanhua_general_mei",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "萨都拉",
+        "card_id": "mulanhua_sadula",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "阿敏娜",
+        "card_id": "mulanhua_amina",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "丁培、老妇仆人",
+        "reason": "事故参与者与受害者，非本书主角；老妇受辱中毒不自动归为反派。"
+      },
+      {
+        "name": "法道尔少校、王警官、五名蛙人",
+        "reason": "本书一次性盟友或执行人员；相应组织行动为主角的有条件协助。"
+      },
+      {
+        "name": "赛特、学校女工、参观领队及无名押送者",
+        "reason": "一次性学员或执行助手，未有独立人物目标；不能把被木兰花击昏者自动当主要反派。"
+      },
+      {
+        "name": "各国领事武官",
+        "reason": "会议背景人物，独立起主导阻碍作用的梅将军另建卡。"
+      }
+    ],
+    "notes": [
+      "“超人”是精英统治集团自称，不表示所有成员拥有超常肉身。火箭燃料尚未研发完成；海底电厂毁灭导致空中平台失电，不作为终局保留的常驻装备。"
+    ]
+  },
+  {
+    "path": "木兰花全集/07高原之谜.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "马超武",
+        "card_id": "mulanhua_ma_chaowu",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "蒋方亭",
+        "card_id": "mulanhua_jiang_fangting",
+        "role": "反派/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "雷慎行",
+        "card_id": "mulanhua_lei_shenxing",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "勃列斯登",
+        "card_id": "mulanhua_boliesideng",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "班姬",
+        "card_id": "mulanhua_banji",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "马超文",
+        "card_id": "mulanhua_ma_chaowen",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "马多禄",
+        "card_id": "mulanhua_ma_duolu",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "马夫人",
+        "card_id": "mulanhua_mrs_ma",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "谷柏·汉烈",
+        "reason": "以他人转述提供探险、救助和钻石线索，无本书当前主角行动线；未证实为反派，也不凭精神失常推定危险立场。"
+      },
+      {
+        "name": "刀疤脸、原绑架者、雷氏侦探社助手、马家保镖、夏威夷误捕警员",
+        "reason": "一次性执行者或误判者，主要动作已附属于明确的策划者和事件，不独立扩写。"
+      }
+    ],
+    "notes": [
+      "马超文、马多禄和马夫人在后续书中实际出场，将用固定ID合并为系列卡。所谓满溪钻石最终为阳光下的水泡，不能变成任何人物的永久财产或地质发现。"
+    ]
+  },
+  {
+    "path": "木兰花全集/08雷库惊魂.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "马里坦男爵",
+        "card_id": "mulanhua_malitan",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "屈莱",
+        "card_id": "mulanhua_qu_lai",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "柯克船长（雷库号）",
+        "card_id": "mulanhua_captain_kirk",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "麦声同",
+        "card_id": "mulanhua_mai_shengtong",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "泰维许",
+        "card_id": "mulanhua_taiweixu",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "马超文",
+        "card_id": "mulanhua_ma_chaowen",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "受贿直升机正副驾驶员",
+        "reason": "一次性运输助手，明知受贿但不知箱中人物；记录为腐败链条证据，不扩写独立主角线。"
+      },
+      {
+        "name": "其余宴会会员、夜袭枪手、船员、蛙人和警员内奸",
+        "reason": "无可区分身份的一次性执行助手；各类行动作为策划者的有条件组织支援记录。"
+      },
+      {
+        "name": "勃列斯登",
+        "reason": "本书仅死后追述，不算实际跨书登场；补充其专长证据到第七册主卡。"
+      }
+    ],
+    "notes": [
+      "所谓满甲板尸体为蜡像，所谓神秘越狱解释为内部受贿；不赋予首领复活、分身或穿墙能力。柯克船长与第三十八册同名教授分开。"
+    ]
+  },
+  {
+    "path": "木兰花全集/09死亡织锦.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "张伯谦",
+        "card_id": "mulanhua_zhang_boqian",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "柯一梦",
+        "card_id": "mulanhua_ke_yimeng",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "谷老爷子",
+        "card_id": "mulanhua_old_gu",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "陈万贯",
+        "card_id": "mulanhua_chen_wanguan",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "陈三、赵进（前段作赵建）、博物院资料员",
+        "reason": "被灭口者；所谓赵进杀人及当年卖国为犯罪者利用旧事的伪叙述，不能据此建立反派卡。"
+      },
+      {
+        "name": "谷家驹",
+        "reason": "一次性陪伴祖父并引路的少年，对木兰花有好感；没有独立敌对行动，不因祖父阶段对立自动判为反派。"
+      },
+      {
+        "name": "梁光、熊宅看守及医院人员",
+        "reason": "一次性侦探协助或误会参与者；无独立主线与跨书登场证据。"
+      },
+      {
+        "name": "马里坦、屈莱、马超文、方局长",
+        "reason": "本册仅追述近况或提及关系，不据此新增实际登场记录。"
+      }
+    ],
+    "notes": [
+      "赵建与后段赵进为同一博物院死者的异文，不造两个身份。谷老爷子亲子旧案仍未确证。木乃伊和死去陈三显现均为藏尸、面具伪装。"
+    ]
+  },
+  {
+    "path": "木兰花全集/10电眼怪客.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "冯乐安",
+        "card_id": "mulanhua_feng_lean",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "韦九",
+        "card_id": "mulanhua_wei_jiu",
+        "role": "反派/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "西华夫",
+        "card_id": "mulanhua_xihuafu",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "卡登船长",
+        "card_id": "mulanhua_captain_kaden",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "林赛德、林赛保",
+        "reason": "本书实际登场的赌术顾问与一次性助手；未证实跨书行动，不因赌徒身份自动归为反派。"
+      },
+      {
+        "name": "水晶宫胖瘦股东",
+        "reason": "求助并承诺资助诊所的委托者，有逐利背景但未承担本案敌对阴谋。"
+      },
+      {
+        "name": "花老鼠、傻仔、大头、王警官、连奥爵士及无名船员、枪手",
+        "reason": "仅提及、一次性执行助手或场景协助人员，未形成独立主线身份。"
+      },
+      {
+        "name": "马超文",
+        "reason": "原定出游被取消，本册仅提及未实际行动。"
+      }
+    ],
+    "notes": [
+      "眼部电子装置与普通催眠术分开记录；相关科技机理是原作解释，不作为现实可行性结论。计算骰子连胜概率的原作数字明显不可信，不写入角色知识正确性。"
+    ]
+  },
+  {
+    "path": "木兰花全集/11冰川亡魂.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "辛格里王子",
+        "card_id": "mulanhua_prince_xingeli",
+        "role": "反派/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "鲍星",
+        "card_id": "mulanhua_bao_xing",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "大吉岭山羊胡特务首领",
+        "card_id": "mulanhua_glacier_goatee_chief",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "达里基",
+        "card_id": "mulanhua_daliji",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "大吉岭的巨无霸打手",
+        "card_id": "mulanhua_glacier_giant",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "老辛格里土王",
+        "reason": "求助一方的病弱父亲，起初轻视年轻女子并隐瞒困境，最终同意坦白；未证实参与儿子后来的杀人计划。"
+      },
+      {
+        "name": "彼德逊",
+        "reason": "本册仅被其上司提及，未实际出场；关系证据可补04主卡，不能记成跨书参与。"
+      },
+      {
+        "name": "美国情报组长及队员",
+        "reason": "一次性援助方，截检敌方车辆救出姐妹并促成经济支持；未对主角承担敌对主线。"
+      },
+      {
+        "name": "灰衣登山队员、女看守、投斧与烧帐篷枪手、王秘书长等",
+        "reason": "无完整独立身份的一次性执行助手或程序性陪同；相关攻击记录在所属策划者下，不凭辅助动作增造个人履历。"
+      }
+    ],
+    "notes": [
+      "藏宝仍不可得，不能将王族巨额传说财富化为终局随身资源。杀害鲍星及山上谋害真凶是王子，先前“外国收买内奸”推断已被纠正。"
+    ]
+  },
+  {
+    "path": "木兰花全集/12夺命红烛.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "林胜",
+        "card_id": "mulanhua_lin_sheng",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "丽莎",
+        "card_id": "mulanhua_lisa",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "赵苍",
+        "card_id": "mulanhua_zhao_cang",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "黄永洪",
+        "card_id": "mulanhua_huang_yonghong",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "梦娜",
+        "card_id": "mulanhua_mengna",
+        "role": "主角/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "根曼",
+        "card_id": "mulanhua_genman",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "马超文",
+        "card_id": "mulanhua_ma_chaowen",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "金普森经理、张警官、孙警官、十七号探员、医护与魔术团无名助手",
+        "reason": "一次性协助、受害或执行人员，无独立主线及跨书经历证据。"
+      }
+    ],
+    "notes": [
+      "姐妹中毒后需医院康复、明显乏力；不写成毒免疫。高翔对梦娜的旧情影响判断，但本案结局明确没有枉法，不将试探性指控当犯罪事实。"
+    ]
+  },
+  {
+    "path": "木兰花全集/13智擒电子盗.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "胡法天",
+        "card_id": "mulanhua_hu_fatian",
+        "role": "反派/重要配角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "辛华士",
+        "card_id": "mulanhua_xinhuashi",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "朱四",
+        "card_id": "mulanhua_zhu_si",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "苏禄",
+        "card_id": "mulanhua_su_lu",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "庞天、殷百万、连奥爵士",
+        "reason": "本书为失窃受害及调查对象，无独立反派行动；连奥仅追述失窃，未新增实际跨书参与。"
+      },
+      {
+        "name": "朱四八姨太、国际集团代表、保镖、六号七号探员及葛得",
+        "reason": "旧情关系人物或一次性执行助手，未给足独立主线行为；不凭列席会议给匿名成员虚构履历。"
+      }
+    ],
+    "notes": [
+      "胡法天综合第十三、十四册终局；两书只有同一人物，不拆越狱版本。辛华士跳车看似死亡的推断后来明确撤回。"
+    ]
+  },
+  {
+    "path": "木兰花全集/14死亡爆炸网.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "木村谷",
+        "card_id": "mulanhua_kimuragu",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "顾大章",
+        "card_id": "mulanhua_gu_dazhang",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "于四夏",
+        "card_id": "mulanhua_yu_sixia",
+        "role": "反派/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "日新炼油厂董事会的阻挠者",
+        "card_id": "mulanhua_rixin_board",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "胡法天",
+        "card_id": "mulanhua_hu_fatian",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "吕元泰、孙中彦、洪警官、军火专家、地下基地枪手、老宅赌客等",
+        "reason": "一次性事务协助或执行人员；厂长的成本顾虑作为场景条件记录，不与匿名董事长合并。"
+      },
+      {
+        "name": "马超文、儿岛强介、儿岛谷温",
+        "reason": "仅被提及或回忆，未在本册实际行动。"
+      }
+    ],
+    "notes": [
+      "胡法天综合卡在13条目，终局以本书被捕拆弹为准。全厂连锁灾难依赖易燃库存，不能算个人无条件攻击。"
+    ]
+  },
+  {
+    "path": "木兰花全集/15杀人奖金.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "班奈克",
+        "card_id": "mulanhua_ban_naike",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "李特",
+        "card_id": "mulanhua_li_te",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "甘八",
+        "card_id": "mulanhua_gan_ba",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "王达人",
+        "card_id": "mulanhua_wang_daren",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "马超文",
+        "card_id": "mulanhua_ma_chaowen",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "汪老先生夫妇、理发师、其余会议代表与无名替身",
+        "reason": "一次性救助、受害者或缺乏独立行为的执行者；不以宴会列席为每个匿名头目编造个人经历。"
+      },
+      {
+        "name": "计钊、王达",
+        "reason": "计钊为计划的文本讹字；王达是王达人被分词截短，不另立人物。"
+      }
+    ],
+    "notes": [
+      "第四章为脚本占位，后文足以确认替身、声波联动枪及穆秀珍重伤，缺失现场不补写。专业称谓和礼貌不能自动判定善恶。"
+    ]
+  },
+  {
+    "path": "木兰花全集/16隐形奇人.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "麦谷",
+        "card_id": "mulanhua_mai_gu",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "一号（电光衣事件中校）",
+        "card_id": "mulanhua_electrocoat_number_one",
+        "role": "反派/重要配角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "一号的瘦削助手",
+        "card_id": "mulanhua_electrocoat_thin_deputy",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "电光衣事件的国家安全署长与助理",
+        "card_id": "mulanhua_electrocoat_security_leadership",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "石少明",
+        "reason": "真实科学家为被谋杀的发明者，正文主要行动者始终是冒名的麦谷；真实人物仅作受害背景，无独立视角或反派行动。"
+      },
+      {
+        "name": "仓库保镖、安全署跟踪人员和护卫",
+        "reason": "一次执行助手，重要独立决策已归实际负责人卡，不另造姓名。"
+      }
+    ],
+    "notes": [
+      "电光衣在终局炸毁，任何人都不默认永久持有隐形能力。木兰花吞毒在第17册获得解除，不能截在第16册当死亡终局。"
+    ]
+  },
+  {
+    "path": "木兰花全集/17高空喋血.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "以电话催逼服毒者的新任特务负责人",
+        "card_id": "mulanhua_poison_phone_successor",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "额有红斑者为首的机场接头组",
+        "card_id": "mulanhua_poison_airport_contacts",
+        "role": "反派/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "假扮路边伤者的特务",
+        "card_id": "mulanhua_poison_false_casualty",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "叶夫维奇",
+        "card_id": "mulanhua_yev_vich",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "以解药要挟三侠的某国大使",
+        "card_id": "mulanhua_poison_ambassador",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "运送解药外交专机的指挥层",
+        "card_id": "mulanhua_poison_diplomatic_command",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "一号（电光衣事件中校）",
+        "card_id": "mulanhua_electrocoat_number_one",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "杜申科、军舰医生、机枪手、飞行员及潜水搜索员",
+        "reason": "一次性执行或医疗助手，未具独立动机主线。载机指挥层以有共同任务的群体卡记录。"
+      },
+      {
+        "name": "萨都拉、占士邦、石少明",
+        "reason": "只作提及、物品类型比喻或上一册背景，不算本册实际跨书登场。"
+      }
+    ],
+    "notes": [
+      "木兰花的毒胶囊由医生确认已解除；高翔空难生还明确依赖意外弹出和降落伞，不是抗爆身体。末段飞弹命中率与外交法律的原文泛论不当作现实参数。"
+    ]
+  },
+  {
+    "path": "木兰花全集/18怒歼恶魔团.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "江涛",
+        "card_id": "mulanhua_jiang_tao",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "赤魔团首领",
+        "card_id": "mulanhua_red_demon_chief",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "凌副首领",
+        "card_id": "mulanhua_red_demon_ling",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "钻石美保",
+        "card_id": "mulanhua_diamond_meibao",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "史特朗（警犬）",
+        "reason": "本册重要破案动物但非主视角，也未在别册实际再次出现；42的史特朗是黑手党教授，明确不同人物。"
+      },
+      {
+        "name": "哥德华、小八重法、关警官、戒指针绑架者及基地空手道守卫",
+        "reason": "前两位仅被提及为整容医生；其余为一次执行助手，未另具持续主线或独立重要身份。"
+      }
+    ],
+    "notes": [
+      "辨伪时被姐妹袭击的已是真高翔，不能把他的拳脚和反应当成江涛能力。警犬识破外貌替身不等于能给人类提供语言口供。"
+    ]
+  },
+  {
+    "path": "木兰花全集/19连环毒计.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "孤克",
+        "card_id": "mulanhua_gu_ke",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "王大通",
+        "card_id": "mulanhua_wang_datong",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "丁工程师、徐警官、芭丝、祁先生、文妮",
+        "reason": "丁为受利用后被灭口的受害者，未证实自愿犯罪；徐、芭丝与祁为一次性协助或执行角色；文妮仅旧案受害背景，结尾现身者是演员。"
+      },
+      {
+        "name": "红树、毒蜘蛛与匿名实验室职员",
+        "reason": "植物及非人格化毒物不独立建角色；蜘蛛是生物风险，不能自动当主动反派。"
+      }
+    ],
+    "notes": [
+      "G-G7的危险经文本试验事件证实，但数值与生物学解释属小说设定，不据此输出现实配方。假文妮和剪报均是行动骗局，不能写为真死者归来。"
+    ]
+  },
+  {
+    "path": "木兰花全集/20秘密党.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "Ａ一号（秘密党）",
+        "card_id": "mulanhua_secret_party_a1",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "柏克",
+        "card_id": "mulanhua_secret_party_boke",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "泰勒中校",
+        "card_id": "mulanhua_secret_party_taylor",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "秘密党的心理学博士顾问",
+        "card_id": "mulanhua_secret_party_psychologist",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "伍良",
+        "card_id": "mulanhua_secret_party_wuliang",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "秘密党的瘦助手",
+        "card_id": "mulanhua_secret_party_thin_aide",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "秘密党的中年赎金使者",
+        "card_id": "mulanhua_secret_party_ransom_emissary",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "秘密党的毒针女监视者",
+        "card_id": "mulanhua_secret_party_needle_woman",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "平原、平太太、王警官及匿名司机",
+        "reason": "平原是试图退出而被杀的成员，未见独立犯罪行动；其妻与王为一次性线索或警务角色；司机为同次执行助手。"
+      }
+    ],
+    "notes": [
+      "Ａ一号与隐形奇人、高空喋血中的一号没有证实同一身份。社会恐惧论属于犯罪者观点；政治身份不换算成个人物理强度。"
+    ]
+  },
+  {
+    "path": "木兰花全集/21旋风神偷.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "沙炳兴",
+        "card_id": "mulanhua_sha_bingxing",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云一风",
+        "card_id": "mulanhua_yun_yifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云二风",
+        "card_id": "mulanhua_yun_erfeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云三风",
+        "card_id": "mulanhua_yun_sanfeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "匡效衡、陈洪光、沈秘书",
+        "reason": "一次性警方受害者与秘书执行者；未见跨册重要作用或独立犯罪决策。"
+      },
+      {
+        "name": "云旋风及另外两位鬼手",
+        "reason": "旧案背景中的已故前辈；本册不以独立行动人格出现，兄弟寻父旧事录入主卡。"
+      }
+    ],
+    "notes": [
+      "五云兄弟从阶段性对立转为主角盟友；综合卡须纳入55与58的后续结局，不能在此提前写终身成功。"
+    ]
+  },
+  {
+    "path": "木兰花全集/22天外恩仇.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "管先生（ＫＩＤ信使）",
+        "card_id": "mulanhua_kid_guan",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "贺原（日本ＫＩＤ代理人）",
+        "card_id": "mulanhua_kid_he_yuan",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "假冯德",
+        "card_id": "mulanhua_kid_false_fengde",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "台尔曼",
+        "card_id": "mulanhua_kid_taierman",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "马超文",
+        "card_id": "mulanhua_ma_chaowen",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "马多禄",
+        "card_id": "mulanhua_ma_duolu",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "马夫人",
+        "card_id": "mulanhua_mrs_ma",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "山口见一、年轻日本警官、部长级代表、国际警方代表、真冯德",
+        "reason": "山口等为本册一次性重要协助者但未跨书；真冯德只有专业履历与被害背景，不把假冒者的现场行动转给他。"
+      },
+      {
+        "name": "四名壮汉守卫、监视人员、国家雇主、飞机乘客",
+        "reason": "守卫与监视者是同次执行助手；雇主国家没有可辨的独立出场个人；乘客为被害群体。"
+      },
+      {
+        "name": "阿敏娜、萨都拉、班奈克",
+        "reason": "阿敏娜仅慰问卡，萨都拉和班奈克为提及；后者曾属于ＫＩＤ是新增背景证据，非本册复活。"
+      }
+    ],
+    "notes": [
+      "马超文在返乡班机爆炸中死亡；超文炼制法是纪念命名，不代表他本人发明。云四风不能看懂完整炼油公式，避免技术全能化。"
+    ]
+  },
+  {
+    "path": "木兰花全集/23大破暗杀党.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "温先生",
+        "card_id": "mulanhua_kid_mr_one",
+        "role": "反派/转为合作的阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "翁来",
+        "card_id": "mulanhua_kid_wenglai",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "ＫＩＤ决策小组的两名副首脑",
+        "card_id": "mulanhua_kid_two_deputies",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "黑豹（ＫＩＤ）",
+        "card_id": "mulanhua_kid_black_panther",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "歌剧院的签名少女",
+        "card_id": "mulanhua_kid_autograph_agent",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "ＫＩＤ电子门的孪生守门人",
+        "card_id": "mulanhua_kid_gate_twins",
+        "role": "阶段性对立者/受利用的门禁执行者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "彼德逊",
+        "card_id": "mulanhua_pederson",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "东京支部两头目、十二号、钓鱼屋接应组与匿名守卫",
+        "reason": "本册一次接驳、押送或枪战执行助手，没有进一步独立身份；纳入组织的条件性人手而不另虚构人生。"
+      },
+      {
+        "name": "苏珊",
+        "reason": "木兰花用于潜入的虚构身份，非独立人物。"
+      }
+    ],
+    "notes": [
+      "翁来真实政治身份故意隐去，不凭代号映射现实人物。终局面具是开门关键，不能把木兰花记作破解电子线路或强行破门。彼德逊实际参与总部围剿见2524。"
+    ]
+  },
+  {
+    "path": "木兰花全集/24魔掌余生.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "包发达博士",
+        "card_id": "mulanhua_bao_fada",
+        "role": "单书主角/寻宝事件的发起者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "布卡",
+        "card_id": "mulanhua_buka",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "查博士（布卡助手）",
+        "card_id": "mulanhua_buka_dr_zha",
+        "role": "反派助手",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "阿发（布卡司机）",
+        "card_id": "mulanhua_buka_afa",
+        "role": "反派助手",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "干维尔",
+        "card_id": "mulanhua_ganweier",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "迦太基寻宝案的内政部长",
+        "card_id": "mulanhua_carthage_interior_minister",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "赛尔中校、陈教授、其余六名警官",
+        "reason": "赛尔为被选作替身而杀害的私人飞行员，未证明知道谋杀假死计划；陈仅推荐信背景；六警官未获各自可辨身份与独立目标，具体行为附干维尔。"
+      },
+      {
+        "name": "萨都拉",
+        "reason": "本册未出场，由部长声称主战，综合卡应标为他人转述政治立场，不自动当亲自命令事实。"
+      }
+    ],
+    "notes": [
+      "包博士不是被证实的骗子；开头与后文售图数量矛盾已单列。警方枪战是木兰花安排的假冲突，高翔打干维尔下颚为真。黄金最终不归四主角，不能作为终局财富。"
+    ]
+  },
+  {
+    "path": "木兰花全集/25血溅黄金柱.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "梅乐（血掌影）",
+        "card_id": "mulanhua_bloodshadow",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "追索手杖的领馆特务",
+        "card_id": "mulanhua_goldpillar_consular_agent",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "受雇窃取手杖的惯窃",
+        "card_id": "mulanhua_goldpillar_thief",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "贵族集团的绑架交涉人",
+        "card_id": "mulanhua_goldpillar_noble_envoy",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "奥拉婷夫人",
+        "card_id": "mulanhua_olatine",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "贵族集团的晚宴接待人",
+        "card_id": "mulanhua_goldpillar_noble_host",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "牵猴画家的毒针杀手",
+        "card_id": "mulanhua_goldpillar_monkey_painter",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "伞骨雕塑者",
+        "card_id": "mulanhua_goldpillar_umbrella_sculptor",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "郭尔准、西蒙、果德",
+        "reason": "是文件流转与命案背景中的死者；未以在场主要对立行动展开，其盗卖和中介经历作为案情保留，不扩成独立战斗角色。"
+      },
+      {
+        "name": "歌芳伯爵",
+        "reason": "仅作为神秘集团首领被提及；晚宴接待人明确否认就是他，证据不足合并或另立实际出场卡。"
+      },
+      {
+        "name": "费利准将、总领事、雷贝、谭院长",
+        "reason": "一次性职务阻碍或协助角色，未构成独立主线对抗与跨书角色。"
+      },
+      {
+        "name": "车祸司机、接应枪手及其他无名监视者",
+        "reason": "仅作所属组织当场执行者，无独立身份和目标。"
+      }
+    ],
+    "notes": [
+      "血掌影在末尾被推测逃走，不能把两具车祸尸体之一直接认作他。",
+      "酒店中多数奥拉婷夫人的言行实际是木兰花假扮。",
+      "宝藏为被覆盖的名画，终局恢复展出，不作为任何人的私人财产或战斗武器。"
+    ]
+  },
+  {
+    "path": "木兰花全集/26神秘血影掌.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "张连根",
+        "card_id": "mulanhua_zhang_liangen",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "皇帝号上的四名蒙面执行者",
+        "card_id": "mulanhua_bloodshadow_masked_executioners",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "梅乐（血掌影）",
+        "card_id": "mulanhua_bloodshadow",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "求助叛离的壮硕中年人",
+        "reason": "单次求救证人与被害者，未展开独立主角主线或具体反派行动；腕表刺杀作为首脑控制手段证据。"
+      },
+      {
+        "name": "歌芳伯爵",
+        "reason": "仅有祝贺兼暗示退让的电话，不足以确认与前册接待人同人，也未形成独立对抗。"
+      },
+      {
+        "name": "孙主任、军方上校、接线生、总参谋长、电影人员",
+        "reason": "一次性办案辅助、受害或信息提供角色；非跨书配角或主线反派。"
+      },
+      {
+        "name": "其他押送军官及机构人员",
+        "reason": "没有独立姓名与人物线，其行动并入梅乐条件性组织资源。"
+      }
+    ],
+    "notes": [
+      "本册将血掌影／血影掌揭为情报局长梅乐准将；与前册合并一张卡。",
+      "本册死亡岛毒药的性质为故事内设定；部分经历系木兰花谎话，不能当现实毒理与医疗方法。",
+      "声音推算容貌只是故事中的有限调查方法，未查明身份，不作为可靠全知技能。"
+    ]
+  },
+  {
+    "path": "木兰花全集/27钻石镭射.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "麦泰许",
+        "card_id": "mulanhua_maitaixu",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "钻石兰妮",
+        "card_id": "mulanhua_diamond_lanni",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "金发琳达",
+        "card_id": "mulanhua_diamond_linda",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "妙手柏克",
+        "card_id": "mulanhua_diamond_baike",
+        "role": "单书主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "田凡统",
+        "card_id": "mulanhua_tian_fantong",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "索取太空之光的秃顶特务头子",
+        "card_id": "mulanhua_diamond_bald_agent",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "钻石雷射计划的领事",
+        "card_id": "mulanhua_diamond_consul",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "两名假警察、琳达同行枪手及领馆守卫",
+        "reason": "同谋或机构执行者，没有独立姓名与人物线，条件性行动列入所属角色。"
+      },
+      {
+        "name": "送安妮的司机、医生、邻居和其他警员",
+        "reason": "一次性帮助或背景人员，不满足跨书重要配角条件。"
+      }
+    ],
+    "notes": [
+      "安妮在本册初登场并加入木兰花家庭，综合卡另写。",
+      "太空之光尺寸在原文有130、136及理论150克拉不一致，不据此建立现实雷射参数。",
+      "柏克反战动机在结尾才确证，前段卷逃是同伙误判。",
+      "领馆特权等叙述作为故事内局势，不能用作现实法律结论。"
+    ]
+  },
+  {
+    "path": "木兰花全集/28北极氢弹战.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "丁七手",
+        "card_id": "mulanhua_ding_qishou",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "核弹勒索组织的五号",
+        "card_id": "mulanhua_arctic_five",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "死人（核弹勒索组织二号）",
+        "card_id": "mulanhua_arctic_deadman",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "王德财（花格外套枪手）",
+        "card_id": "mulanhua_arctic_wang_decai",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "红发三号与假新婚丈夫",
+        "card_id": "mulanhua_arctic_honeymoon_pair",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "鲁克所在的冰田押送组",
+        "card_id": "mulanhua_arctic_escort_six",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "纳尔逊",
+        "card_id": "mulanhua_nelson",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "老鼠炳",
+        "reason": "单次提供丁七手行规及失主线索的助手，未有独立反派线。"
+      },
+      {
+        "name": "占·泰嘉、爱斯基摩文扬及国际警方同伴",
+        "reason": "一次性协作者，起初试手不是持续敌对；没有其他书实际行动证据。"
+      },
+      {
+        "name": "格里治中尉、保护他的上校、搜寻少将",
+        "reason": "本书飞行员证人和执行协作者；虽有逃俘与绘图贡献，仍属于单次配角，未扩为独立主角。"
+      },
+      {
+        "name": "核弹组织未现身的总部首脑、研究组人员、南美据点守卫",
+        "reason": "没有独立身份与人物行动链，作为组织资源和环境威胁记录。"
+      }
+    ],
+    "notes": [
+      "组织宣称用勒索款建防癌研究中心是骗局；五号内部谈话揭穿。",
+      "核弹安全期限、覆盖灾害与冷刺激解除麻醉均只按小说情境记录，不作现实科学结论。",
+      "宇宙号被毁、两颗氢弹寻回，装备不自动成为安妮或组织成员的终局私产。",
+      "纳尔逊的跨书综合卡另写。"
+    ]
+  },
+  {
+    "path": "木兰花全集/29潜艇迷宫.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "杜道夫",
+        "card_id": "mulanhua_dudaofu",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "威勒中校",
+        "card_id": "mulanhua_weile",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "杜道夫派出的男女监视者",
+        "card_id": "mulanhua_submarine_surveillance_pair",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "达扬、蒙丹少将、阿瑟及法军潜水人员",
+        "reason": "本书政治背景或单次调查协作者，未展开独立反派线；不借现实同名人物补履历。"
+      },
+      {
+        "name": "加士度男爵",
+        "reason": "仅作拉丁美洲情报负责人提及，没有个人实际行动链。"
+      },
+      {
+        "name": "杰夫、弗德烈中尉、守卫及控制室军官",
+        "reason": "一次对话或机关守备者，无跨书身份链；弗德烈不可因译名相似与卫035佛德烈或木53人物合并。"
+      }
+    ],
+    "notes": [
+      "潜艇迷惑与反探测依赖俾士麦号装置，终局随艇毁灭。",
+      "木兰花幸存依赖厚钢控制室、防护衣、压缩气和浮囊，不能记为本体抗潜艇爆炸。",
+      "高翔驾驶新造小潜艇攻击，云氏参与制造；不是高翔个人随手创造军舰。",
+      "本书文本含较多OCR错字和单位缺损，不据此补造精准速度、尺寸与装甲数值。"
+    ]
+  },
+  {
+    "path": "木兰花全集/30玻璃伪钞模.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "贝泰",
+        "card_id": "mulanhua_betta",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "吉蒂",
+        "card_id": "mulanhua_jidi",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "安泰保",
+        "card_id": "mulanhua_antai_bao",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "玻璃伪钞案的三名前纳粹军官",
+        "card_id": "mulanhua_counterfeit_nazi_three",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "花秃子",
+        "card_id": "mulanhua_hua_tuzi",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "贝泰的铜钮助手",
+        "card_id": "mulanhua_counterfeit_copper_button",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "机场同行女子与老妇、守卫及印刷人员",
+        "reason": "机场女子和老妇只参与假交易的执行，没有独立身份链；其余属据点普通守备与工人。不给每个匿名群演重复建卡。"
+      },
+      {
+        "name": "白蓓兰、黄警官、院长及医护人员",
+        "reason": "白蓓兰仅来信笑谈，黄警官和医护是本书单次执行或治疗协作者，未展开独立主线。"
+      },
+      {
+        "name": "云五风",
+        "reason": "本书仅说明可以负责安妮安置，未具体展开其实际行动；综合卡按其他书证据。"
+      }
+    ],
+    "notes": [
+      "浦夫人是吉蒂的订衣名义，不另建无辜老妇同名卡；机场老妇真名未写。",
+      "木兰花的眼部伤势延续到31，不以本书暂时失明作全系列最终状态。",
+      "贝泰的徒手优势不含总部玻璃和移动墙强度；机关与组织归属须明确。"
+    ]
+  },
+  {
+    "path": "木兰花全集/31黑暗历险.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卡德勒",
+        "card_id": "mulanhua_kadele",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "陈定宇",
+        "card_id": "mulanhua_chen_dingyu",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "吉蒂",
+        "card_id": "mulanhua_jidi",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "保博士",
+        "reason": "真实眼科专家在终段治疗评估，是本书单次协作者；假博士卡德勒另立，不能互换技能。"
+      },
+      {
+        "name": "陈小珠、玲玲",
+        "reason": "前者为绑架受害者，只有助人被绑和获救线；后者仅作恋情与金钱动机提及，均未独立承担主角或反派行动。"
+      },
+      {
+        "name": "吉蒂的十五名袭击部下、酒店四名绑匪、司机与据点守卫",
+        "reason": "均未具独立姓名或持续身份；具体行动用于吉蒂、卡德勒及主角的组织和应对证据，不重复把每名执行者列为角色。"
+      }
+    ],
+    "notes": [
+      "木兰花听觉训练与手杖超声波必须分开；她一度误判、恐惧、不能察觉无声的安妮遇袭，绝非永久全域感知。",
+      "云四风被软禁完全是卡德勒骗局；他实际等保博士会议结束，末段平安同高翔返来。",
+      "终局医生确认一次手术可复明，末句宣布黑暗过去；不保留失明为全系列终局。"
+    ]
+  },
+  {
+    "path": "木兰花全集/32人形飞弹.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "大庭龙男",
+        "card_id": "mulanhua_dating_longnan",
+        "role": "主角/重要配角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "原杉大郎",
+        "card_id": "mulanhua_yuanshan_dalang",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "化装成威勒的袭击者",
+        "card_id": "mulanhua_fake_weile",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "三井",
+        "card_id": "mulanhua_mitsui",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "威勒（萨氏马戏团炮手）",
+        "card_id": "mulanhua_circus_weile",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "萨克廉、小丑寇利及马戏团团员",
+        "reason": "被错误调查的无辜一方，依法抗议与配合搜查不当作犯罪反派；未形成跨书重要配角。"
+      },
+      {
+        "name": "儿岛强介",
+        "reason": "仅作为两人师门与格言回忆提及，本书没有独立实际行动。"
+      },
+      {
+        "name": "第八号、第三号、酒吧老板娘和其他探员",
+        "reason": "本书单次调查协作者；八号牺牲有记录但没有跨书身份链，三号数字与其他组织同号人物无关。"
+      },
+      {
+        "name": "原杉普通守卫及抛示踪器者",
+        "reason": "无独立姓名和持续动机的组织执行者；三井因明确身份和独立交锋另建卡。"
+      }
+    ],
+    "notes": [
+      "大庭另在59出现时须核是实际行动还是提名，综合证据由后段代理交接。",
+      "真威勒收钱打架、假威勒潜入袭击分卡；二者与29威勒中校均无合并身份链。",
+      "飞弹核弹头未获证实，火山被引爆的故事机制不写现实技术可行性；原杉终局无完整基地。",
+      "木兰花本书开头仍避强光保养恢复中的视力，后续不自动永久失明。"
+    ]
+  },
+  {
+    "path": "木兰花全集/33军械大盗.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "胡天德",
+        "card_id": "mulanhua_hu_tiande",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "盗枪特务副队长",
+        "card_id": "mulanhua_arms_deputy",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "盗枪特务组其余九人",
+        "card_id": "mulanhua_arms_team",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "纳尔逊",
+        "card_id": "mulanhua_nelson",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "两名大国高级情报人员、潘上校、将军及警员",
+        "reason": "当书合作人员；两名情报人员解释核心计划，但无跨书身份与个人独立冒险，不因保密或曾隐瞒便列反派。"
+      },
+      {
+        "name": "暴风中死亡的舢舨驾者、走私船员及油站工人",
+        "reason": "单次执行、证人与受害者，缺独立持续人物线；来源未定的驾者不强加特务姓名。"
+      },
+      {
+        "name": "云四风",
+        "reason": "本书借艇和既有设计被提及，未出现独立现场行动；主卡保留既有装备证据。"
+      }
+    ],
+    "notes": [
+      "副组长/副队长为同一幸存领导者，另九名组员群像不叠加能力。",
+      "叙述关于阵营、民族与战争的价值断言保留为人物立场，不泛化成真实群体本性；不自行补出未明说的国籍。",
+      "纳尔逊在2210–2218经由越洋核验发挥既有关系作用。",
+      "木兰花末段故意配合放走副队长，不能把此局写成单纯失误；早先忽略转运与救援受自然条件制约则为真实限制。"
+    ]
+  },
+  {
+    "path": "木兰花全集/34断头美人鱼.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "鲁达司",
+        "card_id": "mulanhua_ludasi",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "贺斯保",
+        "card_id": "mulanhua_hesibao",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "安黛",
+        "card_id": "mulanhua_andai",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "三号（美人鱼案）",
+        "card_id": "mulanhua_mermaid_number_three",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "寇伦",
+        "card_id": "mulanhua_koulun",
+        "role": "反派/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "特嘉",
+        "card_id": "mulanhua_tejia",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "纳尔逊",
+        "card_id": "mulanhua_nelson",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "胖子阿金、四名国际警察及机场管理员",
+        "reason": "本书一次性协作者或受害证人，阿金虽在收网重要，未形成跨书重要配角或独立主角线。"
+      },
+      {
+        "name": "冯盖隆少将、伦治伯爵",
+        "reason": "仅历史叙述中交代藏资料与建筑归属，没有本篇独立行动线。"
+      },
+      {
+        "name": "贺斯枪手、农庄工人、机场另名追捕者、司机及特嘉护卫",
+        "reason": "未具姓名和持续个人目标的执行人员；行动与结局列入所属人物的条件支援，不凭编号推造更多独立身份。"
+      }
+    ],
+    "notes": [
+      "鲁达司为真正主使；贺斯先假死、后枪杀，不存在复活术。",
+      "安黛、三号分别背叛，动机和物件知情范围不同；鲁达司未掌握可直接发射的V9武器。",
+      "穆秀珍初因嫉妒挂断电话，后实际找出化装身份漏洞；保留成长和有效推理。",
+      "纳尔逊以跨国警务关系安排飞机、监视和阿金接应，不将这些设施算个人超能力。"
+    ]
+  },
+  {
+    "path": "木兰花全集/35蜘蛛陷阱.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "秦蕙兰",
+        "card_id": "mulanhua_qin_huilan",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "秦蕙苓",
+        "card_id": "mulanhua_qin_huiling",
+        "role": "单书主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "屈宝宗",
+        "card_id": "mulanhua_qu_baozong",
+        "role": "单书主角/有犯罪前史的关键人物",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "宋先生（吃人花部属）",
+        "card_id": "mulanhua_song_marksman",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "阿彩",
+        "card_id": "mulanhua_acai",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "解森",
+        "card_id": "mulanhua_jies_en",
+        "role": "反派/转为合作者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "罗拨（蜘蛛陷阱）",
+        "card_id": "mulanhua_luobo",
+        "role": "反派/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "大合成、西塘之虎",
+        "reason": "罗拨口供中提到的本地头目，仅知假花王；未见独立行动或跨书身份，作为本案组织背景记录。"
+      },
+      {
+        "name": "两名假经理、解森司机、船上尾舱与巡逻枪手",
+        "reason": "一次性匿名执行者，独立身份及持续个人线未成立；具体绑架、叛骗、战斗与被控行为归入所属角色的条件支援。"
+      },
+      {
+        "name": "七号及另外两名旧党头目",
+        "reason": "仅电话供给跟踪情报和背景分财线，不给没有独立行动的代号补造个人经历。"
+      },
+      {
+        "name": "贝蒙、阿宁、老吴等住处名单人物",
+        "reason": "虚假送件指示或住宅名单中提及，未证明实际独立角色行动。"
+      },
+      {
+        "name": "云四风、方局长",
+        "reason": "本书仅借艇来源与取得临时戒严令的安排提及，未新增独立出场线。"
+      }
+    ],
+    "notes": [
+      "吃人花与屈夫人为两人，初段自述不能混到真妹妹卡中。",
+      "阿彩落海未写明死亡；宋先生与吃人花结尾明确死亡。",
+      "木兰花独探失陷，本书胜局依高翔、穆秀珍、安妮和秦蕙苓共同完成。",
+      "安妮驾驶、雷达与红外设备受雾、视距、型号限制；穆与高在爆炸后凭杂物掩体及随身有限压缩氧逃生，不是抗爆或水下无限呼吸。"
+    ]
+  },
+  {
+    "path": "木兰花全集/36无敌凶手.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "周威能",
+        "card_id": "mulanhua_zhou_weineng",
+        "role": "单书主角/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "周腾",
+        "card_id": "mulanhua_zhou_teng",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "周达",
+        "card_id": "mulanhua_zhou_da",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "刘度",
+        "card_id": "mulanhua_liu_du",
+        "role": "单书主角/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "桑斯",
+        "card_id": "mulanhua_sangsi",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "祁大鹏",
+        "card_id": "mulanhua_qi_dapeng",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "韦克",
+        "card_id": "mulanhua_weike",
+        "role": "单书主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "裴多",
+        "card_id": "mulanhua_peiduo",
+        "role": "单书主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "韦克的父亲",
+        "card_id": "mulanhua_weike_father",
+        "role": "单书主角/立场存在争议的组织负责人",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "陆探员、颜逢源、旅馆老板娘",
+        "reason": "一次性调查受害者或线索人物，无独立主角线与跨书身份确证。陆探员仅姓氏，不能自动合并早书陆尚。"
+      },
+      {
+        "name": "桑斯五名绑架者、护卫、潜艇官兵与最高情报首长",
+        "reason": "匿名执行人员或仅作上级授权的短场景角色，未有持续独立个人线；作为组织资源与责任链记录。"
+      },
+      {
+        "name": "联络处五名同盟成员、同盟另外三名创办者、最后三名跳伞者",
+        "reason": "只以群体背景或死亡叙述出现，未具可分个人线，不补造姓名或把裴多强指其中。"
+      }
+    ],
+    "notes": [
+      "标题无敌是对不畏牺牲的修辞，不产生免伤；原文政治判断作为角色立场保留，不转为普适事实。",
+      "韦克破坏特定核基地造成核爆不算个人核能；个人飞行器由云四风、云五风及工厂体系制造，最终交付。",
+      "木兰花开始拒绝暗杀式政治介入，后就具体重大设备目标作出帮助决定；为保护高翔公职而有意瞒住他。",
+      "本书安妮仍不能步行，争取独立返家、参加警官训练班；云五风改进瞄准器并实际装配。"
+    ]
+  },
+  {
+    "path": "木兰花全集/37沉船明珠.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "屈健士十七世",
+        "card_id": "mulanhua_qu_jianshi",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "非克",
+        "card_id": "mulanhua_feike",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "昆格",
+        "card_id": "mulanhua_kunge",
+        "role": "重要配角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "纳尔逊",
+        "card_id": "mulanhua_nelson",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "昆格夫人",
+        "reason": "本书一次性遗孀证人，转交遗言和资料；无跨书独立出场证据。"
+      },
+      {
+        "name": "屈健士接机手下、船员、非克船员与当地警员",
+        "reason": "匿名执行群体，未形成可区别个人主线；责任及遭遇在主要人物卡中记载。"
+      },
+      {
+        "name": "宾臣",
+        "reason": "只存在于非克买资料说辞中的来历，真假未核，不另造人物。"
+      }
+    ],
+    "notes": [
+      "37明确回指05未具名的蛙人队长，因此合并为昆格。",
+      "屈健士为昆格案主要嫌疑和叙事揭示对象，但木兰花明确承认缺法庭证据；不得把原文种族化手法推断当普遍识人规则。",
+      "安妮仍瘫痪，学习潜水依推进器且有限深度；被掳后艰难爬行取椅、麻醉制服屈，木兰花正式接纳其参加全部行动。",
+      "纳尔逊透露国际警方三年前已查获宝藏；不是他本人全部潜水或拥有财富的证明。"
+    ]
+  },
+  {
+    "path": "木兰花全集/38无价奇石.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "柯克教授",
+        "card_id": "mulanhua_keke_volcano",
+        "role": "单书主角/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "孟斯",
+        "card_id": "mulanhua_mengsi",
+        "role": "单书主角/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "汉谷",
+        "card_id": "mulanhua_hangu",
+        "role": "单书主角/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "火山探险团第四名科学家",
+        "card_id": "mulanhua_volcano_fourth_scientist",
+        "role": "单书主角/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "钻石财团秃顶董事",
+        "card_id": "mulanhua_diamond_bald_director",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "钻石财团胖董事",
+        "card_id": "mulanhua_diamond_fat_director",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "布列治",
+        "card_id": "mulanhua_buliezhi",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "郭老大（钻石买凶中介）",
+        "card_id": "mulanhua_guo_diamond_boss",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "化装老妇的钻石财团刺客",
+        "card_id": "mulanhua_diamond_old_woman_assassin",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "火山空袭战斗机驾驶员",
+        "card_id": "mulanhua_volcano_attack_pilot",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "裴隆律师及其家人",
+        "reason": "一次性委托与被胁迫询问的配角，未参与科学家违法计划；不因守职业秘密标为反派。"
+      },
+      {
+        "name": "花楷模／花蛤蟆",
+        "reason": "本书一次线人，过去被木兰花抓捕只是概述，未检到其他书实际出场；不据背景一句扩成跨书角色。"
+      },
+      {
+        "name": "李总编辑、驻军官员及服务人员",
+        "reason": "一次性协助、传讯与场景角色，无独立主角线。"
+      }
+    ],
+    "notes": [
+      "38科学家柯克与08船长、卫036船长不合并；四名科学家中两名具名者之外仅第四名未具名，学科不能凭顺序硬配。",
+      "早期科学家仍属阶段性对立者，后道歉放人、取消抢劫，结局获科学成果不抹去违法手段。",
+      "穆秀珍机枪多次未中，胜靠迫使敌机低空避撞后擦山；左臂为玻璃伤，非防弹。隔热囊损坏和轻辐射经检查无碍均不是人体抗性。",
+      "木兰花与穆以家庭安全威胁律师，不能将核心卡写为绝不胁迫；结尾云四风正式求婚、穆同意下月结婚。"
+    ]
+  },
+  {
+    "path": "木兰花全集/39失踪新娘.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "姚雄",
+        "card_id": "mulanhua_yao_xiong",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "何保",
+        "card_id": "mulanhua_he_bao",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "小黑豹",
+        "card_id": "mulanhua_black_panther",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "阿发（潜艇匪徒）",
+        "card_id": "mulanhua_afa_submarine",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "送求救瓶的中年妇人",
+        "card_id": "mulanhua_bottle_kidnap_woman",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "送求救瓶的中年绅士",
+        "card_id": "mulanhua_bottle_kidnap_man",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "飞天龙",
+        "card_id": "mulanhua_feitianlong",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "刀疤老四",
+        "card_id": "mulanhua_scar_fourth",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "贝泰组织的三名假贵妇",
+        "card_id": "mulanhua_wedding_three_impostors",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "金妃",
+        "card_id": "mulanhua_jinfei",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "黄勃",
+        "reason": "本书一次性开锁协助者，其他命中核查无实际续出，非主角或反派。"
+      },
+      {
+        "name": "婚礼杂项投毒或爆炸执行者、普通警员、医生",
+        "reason": "未具独立身份的次要执行者或一次性助手；本书主要对立链已分别建卡。"
+      }
+    ],
+    "notes": [
+      "39末段获救的新娘在40证实为金妃。其装哭、示弱与撞车放跑姚雄等行为不归真正穆秀珍。姚雄终局合并40。"
+    ]
+  },
+  {
+    "path": "木兰花全集/40怪新郎.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "金妃",
+        "card_id": "mulanhua_jinfei",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "周丝",
+        "card_id": "mulanhua_zhou_si",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "杀害周丝的毒贩",
+        "card_id": "mulanhua_zhousi_poisoner",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "银色汽车上的四名毒箭伏击者",
+        "card_id": "mulanhua_silvercar_arrow_team",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "木兰花",
+        "card_id": "mulanhua_mu_lanhua",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "穆秀珍",
+        "card_id": "mulanhua_mu_xiuzhen",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "高翔",
+        "card_id": "mulanhua_gao_xiang",
+        "role": "主角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "方局长",
+        "card_id": "mulanhua_fang_director",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云四风",
+        "card_id": "mulanhua_yun_sifeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "云五风",
+        "card_id": "mulanhua_yun_wufeng",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "安妮",
+        "card_id": "mulanhua_annie",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      },
+      {
+        "name": "姚雄",
+        "card_id": "mulanhua_yao_xiong",
+        "role": "重要配角",
+        "basis": "本书实际出场；系列综合经历另见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "周丝的女佣",
+        "reason": "一次性受害配角，未显示独立主线或对立行为。"
+      },
+      {
+        "name": "匪巢守卫、医生及常规警员",
+        "reason": "无独立身份的次要执行者或一次助手，其支援条件并入相关主卡。"
+      }
+    ],
+    "notes": [
+      "39与40为连续阴谋；姚雄综合卡归39，金妃卡在本书明确冒名、手术及落网。真正穆秀珍被囚半月，末章才自救持枪后获警方解围，前段假新娘行为均不归她。"
+    ]
+  },
+  {
+    "path": "神探高斯系列/01出术.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "雪花方",
+        "card_id": "gaosi_snow_fang",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/02催眠之术.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "催眠盗窃二人组",
+        "card_id": "gaosi_hypnotist_thieves",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "肥王",
+        "card_id": "gaosi_fat_king",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "杰米、小汪",
+        "reason": "开头前事提及，未在本案实际行动。"
+      },
+      {
+        "name": "杨警官",
+        "reason": "本书一次性办案者，非跨书重要配角。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/03飞艇.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "回收白金跳虱的船长",
+        "card_id": "gaosi_fleas_captain",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "偷取金盒的二副",
+        "card_id": "gaosi_fleas_second_officer",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "冒警船员",
+        "reason": "未给独立身份与个人逻辑，行动归入船长组织手段；不虚构个人姓名。"
+      },
+      {
+        "name": "燕玲",
+        "reason": "开头仅提及好友职业，未在本书实际登场。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/04粉红钻石.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "鲁道夫公爵夫人",
+        "card_id": "gaosi_duchess_rudolf",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "陈洛",
+        "card_id": "gaosi_chen_luo",
+        "role": "重要配角",
+        "basis": "开篇实际赠送摄影设备并送机，且补全《奇迹》案结局。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "老实人费利",
+        "reason": "一次性线索协助者，并非主动犯罪者。"
+      }
+    ],
+    "notes": [
+      "陈洛在本书实际出场；综合经历与终局见 gaosi_chen_luo。"
+    ]
+  },
+  {
+    "path": "神探高斯系列/05风向.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "韩珍",
+        "card_id": "gaosi_han_zhen",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "俞诚",
+        "card_id": "gaosi_yu_cheng",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "韩珍的两名同伙",
+        "card_id": "gaosi_han_henchmen",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "唇膏联络人",
+        "reason": "犯罪信息携带者与被害人，但受骗且无独立对抗行动，未作为主角展开。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/06古墨.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "商大庆",
+        "card_id": "gaosi_shang_daqing",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "古墨案中的酒吧女郎",
+        "card_id": "gaosi_ink_bar_woman",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "小吴",
+        "reason": "单书助手和保释协助者，未发现第二部实际登场。"
+      },
+      {
+        "name": "李玉芳",
+        "reason": "此篇部分出现为高斯药物幻觉，不能用来证明实际参与。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/07怪房子.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "彭士元",
+        "card_id": "gaosi_peng_shiyuan",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "罗夫、王余、杨坚及聚会主人",
+        "reason": "本书一次性朋友，推动赌赛与讨论，未找到跨书实际登场。"
+      },
+      {
+        "name": "彭家建屋先祖",
+        "reason": "仅经遗留机关和留言出现的历史人物；设计求知测试，不确定属于反派。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/08怪人奇骗.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "张炳",
+        "card_id": "gaosi_zhang_bing",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "王阿毛（怪人奇骗）",
+        "card_id": "gaosi_wang_amao",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/09鬼照片.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "汪权",
+        "card_id": "gaosi_wang_quan",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "诸新荣",
+        "card_id": "gaosi_zhu_xinrong",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/10黑美人.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "亚黄",
+        "card_id": "gaosi_a_huang",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "老鼠（黑美人）",
+        "card_id": "gaosi_mouse",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "亚黄雇来的三名劫匪",
+        "card_id": "gaosi_mannequin_robbers",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "黑美人案的敌方间谍",
+        "card_id": "gaosi_opposing_spies",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "韦奇",
+        "reason": "情报员与被害人，提供案件缘起；未以独立主角线或对立行动展开。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/11及时赶到.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "费大通的司机",
+        "card_id": "gaosi_fei_driver",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "费大通",
+        "reason": "急症死亡的案件起因，生前财富来源可疑但未展开可确认的反派行动。"
+      },
+      {
+        "name": "假扮出租车司机的警员、医生",
+        "reason": "单书职务性协助者，非独立主角或跨书重要配角。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/12金发女.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "慧丝",
+        "card_id": "gaosi_huisi",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "慧丝的瘦削联络人",
+        "card_id": "gaosi_huisi_thin_contact",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "喷水池换袋人",
+        "card_id": "gaosi_huisi_bag_contact",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "彼德、小李",
+        "reason": "单书业务介绍者、职员，未在此构成独立主角或对立者。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/13金酋长.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "维力上校",
+        "card_id": "gaosi_colonel_weili",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "泰鲁岛叛军执行队",
+        "card_id": "gaosi_tailu_rebels",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "包禄士",
+        "reason": "推动旅行的单书出版商，未形成独立行动主线。"
+      },
+      {
+        "name": "日本渔民及岛上居民",
+        "reason": "人质和信息来源，个体未具名且未独立展开。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/14迷途横祸.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "郑先生及黑名单追索行动方",
+        "card_id": "gaosi_blacklist_zheng",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "山洞口的络腮胡携枪人",
+        "card_id": "gaosi_cave_rifle_contact",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "四名同游朋友、快艇接应者",
+        "reason": "朋友为一次性救援协助；接应者只实施接走，无可区分个体，已记入携枪人行动条件。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/15魔鬼的舞蹈.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "王阿巧",
+        "card_id": "gaosi_wang_aqiao",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "西班牙踢跶舞毒贩首领",
+        "card_id": "gaosi_spanish_dancer",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "魔鬼的舞蹈案贩毒行动人员",
+        "card_id": "gaosi_tapdance_enforcers",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "夜总会经理与其他舞者",
+        "reason": "经理的营业抗议不是犯罪证据；其他舞者的否认也未被证实为共谋，均为一次性配角。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/16弄假成真.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "快乐玩具厂胖老板",
+        "card_id": "gaosi_happy_toy_boss",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "玩具枪案走私执行队",
+        "card_id": "gaosi_toy_gun_smugglers",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "占士方与两名邻居少年",
+        "card_id": "gaosi_james_fang_children",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/17奇迹.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "陈洛",
+        "card_id": "gaosi_chen_luo",
+        "role": "重要配角/单书主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "神木大吉",
+        "card_id": "gaosi_shenmu_daji",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "奇迹案的黑衣魔术师",
+        "card_id": "gaosi_miracle_magician",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "假扮陈八的魔术师助手",
+        "card_id": "gaosi_fake_chen_ba",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "陈八",
+        "reason": "本人仅为已故背景人物；显形实际是助手，不另建亡灵卡。"
+      },
+      {
+        "name": "韩祖勋（后写韩伯勋）、罗埃、布隆、冯欢及看屋人",
+        "reason": "本书一次性观众或线索协助者，未发现跨书实际登场；舅父姓名异文保留。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/18奇轮.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "祁利",
+        "card_id": "gaosi_qi_li",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "祁利的蒙面绑架队",
+        "card_id": "gaosi_qi_li_kidnappers",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "韩格、警方内奸",
+        "reason": "韩格为间接提及的线人；内奸只在结尾说明已查出，未给独立身份或行动场面。"
+      },
+      {
+        "name": "亚洲老板",
+        "reason": "此书仅为上级威胁与组织背景；其实际登场归入《亚洲皇后》的统一卡。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/19擒凶记.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "劳天",
+        "card_id": "gaosi_lao_tian",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "李华（擒凶记）",
+        "card_id": "gaosi_li_hua",
+        "role": "单书主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "石叔、未具名死者",
+        "reason": "石叔是一次性清洁证人；死者未给身份、动机或生前独立行动，无法独立角色化。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/20三与四.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "隐瞒运动员伤情的两名外交武官",
+        "card_id": "gaosi_athlete_attaches",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "张秃子、胡捣蛋、小王",
+        "reason": "本书一次性友人和关键证人，无独立主角线，未发现跨书实际登场；不与其他同称小王者合并。"
+      },
+      {
+        "name": "受伤运动员、肇事教师",
+        "reason": "事故伤者和自首驾驶者；未证明恶意犯罪或独立主角行动。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/21闪电天.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "阿凤（闪电天）",
+        "card_id": "gaosi_a_feng",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "阿凤的摄影师情人",
+        "card_id": "gaosi_feng_photographer",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "阿凤家中持刀的客人",
+        "card_id": "gaosi_feng_dead_customer",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "阿凤临时找来的移尸同谋",
+        "reason": "仅在结尾一句供述提及，未具身份、个性或独立行动场面；共同移尸保留在阿凤卡中。"
+      },
+      {
+        "name": "认出画像的街头女子、小流氓、邻居",
+        "reason": "一次性线索或街景人物，不是主角、跨书配角或主要对立者。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/22水中宝盒.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "寻找玻璃盒的棕发女特务",
+        "card_id": "gaosi_glassbox_female_agent",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "棕发女特务的两名同伴",
+        "card_id": "gaosi_glassbox_male_guards",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "玻璃盒案的两名中年绅士",
+        "card_id": "gaosi_glassbox_gentlemen",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "武器发明者、原交易双方",
+        "reason": "仅由警方在结尾交代的背景身份，未给可区分人物或实际场面；不将物品能力生成无据角色。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/23太阳神.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "包守望",
+        "card_id": "gaosi_bao_shouwang",
+        "role": "单书主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "马凤莉",
+        "card_id": "gaosi_ma_fengli",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "马立德",
+        "card_id": "gaosi_ma_lide",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "朱金",
+        "card_id": "gaosi_zhu_jin",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "陈中（太阳神）",
+        "card_id": "gaosi_chen_zhong",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "阿根（太阳神）",
+        "card_id": "gaosi_a_gen",
+        "role": "单书主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "朱振香、黄应方、汪律师",
+        "reason": "前两人依附或工作关系不自动证明独立犯罪；律师放任财务弊病但仅作一次性信息提供者，无主角或跨书线。"
+      },
+      {
+        "name": "太阳神蝎子",
+        "reason": "被用作临终线索的生物，无拟人意志，且非真正致死来源，不单列反派。"
+      }
+    ],
+    "notes": [
+      "结尾“波萝/菠萝”存在明显同义重复异文，推理链不擅改原文；毒蛇名称与毒理仅按小说情节，不当现实生物学资料。"
+    ]
+  },
+  {
+    "path": "神探高斯系列/24晚礼服.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "燕玲",
+        "card_id": "gaosi_yan_ling",
+        "role": "主角/受胁迫的阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "穆尔西斯",
+        "card_id": "gaosi_muersisi",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "晚礼服案的五名面具歹徒",
+        "card_id": "gaosi_yanling_masked_gang",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "燕玲的父亲",
+        "reason": "只通过女儿口述出现，失踪与犯罪背景没有独立行动场面；不虚构卡片姓名或能力。"
+      },
+      {
+        "name": "男爵车上同伴",
+        "reason": "枪战中未具可区分身份，作为男爵的条件性组织支援记录。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/25未卜先知.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "张皋木",
+        "card_id": "gaosi_zhang_gaomu",
+        "role": "单书主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "甘金忠",
+        "card_id": "gaosi_gan_jinzhong",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "活神仙骗局的女诱饵与三名壮汉",
+        "card_id": "gaosi_fortune_honeytrap_team",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "供述中制造车祸或火灾的其他同伙",
+        "reason": "只作概括犯罪方法出现，没有可区分人物和独立场面，列入甘金忠的条件性组织资源。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/26雾夜煞星.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "陆阿毛",
+        "card_id": "gaosi_lu_amao",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "雾夜案的中年走私首领",
+        "card_id": "gaosi_fog_smuggling_boss",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "陆阿毛的两名潜艇手下",
+        "card_id": "gaosi_fog_submarine_men",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "赶到的水警人员",
+        "reason": "一次性执法救援群体，无独立主角或跨书个人身份。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/27亚洲皇后.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "亚洲皇后",
+        "card_id": "gaosi_asia_queen",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "亚洲皇后的接引女郎",
+        "card_id": "gaosi_asia_guide",
+        "role": "反派/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "亚洲皇后的地窖巡查者",
+        "card_id": "gaosi_asia_cell_guard",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "结尾递信的绿衣女子",
+        "reason": "原文明确不是接引女郎，只完成一次投信，是否知情参与犯罪未明。"
+      },
+      {
+        "name": "据点其他士兵、船员、司机",
+        "reason": "未有可区分独立人物身份，作为组织条件性资源记录。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/28妖女煞星.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "何求",
+        "card_id": "gaosi_he_qiu",
+        "role": "单书主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "何求的儿子",
+        "card_id": "gaosi_he_qiu_son",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "大煞星派出的收款女孩",
+        "card_id": "gaosi_he_son_girlfriend",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "何求的父亲",
+        "card_id": "gaosi_he_qiu_father",
+        "role": "反派/已故源头人物",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "何求两名得力伙计",
+        "reason": "电影院追人是奉主人寻高斯，误会不构成犯罪反派，且无跨书个人身份。"
+      },
+      {
+        "name": "老仆、医院护士、鉴钞人员",
+        "reason": "一次性协助和信息角色，没有独立主角线。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "神探高斯系列/29预告.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "许千钧",
+        "card_id": "gaosi_xu_qianjun",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "陈生发",
+        "card_id": "gaosi_chen_shengfa",
+        "role": "单书主角/阶段性嫌疑人",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "陈生保",
+        "card_id": "gaosi_chen_shengbao",
+        "role": "单书主角/阶段性嫌疑人",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高斯",
+        "card_id": "gaosi_gao_si",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      },
+      {
+        "name": "李玉芳",
+        "card_id": "gaosi_li_yufang",
+        "role": "主角",
+        "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "戚云",
+        "reason": "本篇核心受害者，绘画职业、报案与死亡均由他人回述；没有独立主角视角、反派行为或跨书经历，作为案件证据人物保留。"
+      },
+      {
+        "name": "许千钧之妻",
+        "reason": "通过陈生保转述出现，未证实知情参与谋杀；不因暧昧关系直接列反派。"
+      },
+      {
+        "name": "伪装袭击陈生保的警方人员",
+        "reason": "警方演示行动，未具个人身份，不误列犯罪团伙。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/不祥之兆.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "小诗",
+        "card_id": "guihua_xiao_shi",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "小于",
+        "card_id": "guihua_xiao_yu",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/不要问我从那里来.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "传呼机新娘",
+        "card_id": "guihua_pager_bride",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "传呼机新郎",
+        "card_id": "guihua_pager_groom",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "新娘的已故旧恋人",
+        "card_id": "guihua_pager_dead_lover",
+        "role": "反派/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/先生，别打尖.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "阴阳队伍中的年轻文员",
+        "card_id": "guihua_queue_clerk",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "阴阳队伍中的插队壮汉",
+        "card_id": "guihua_queue_bully",
+        "role": "反派/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/寻人.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "李三根的外祖母",
+        "card_id": "guihua_li_grandmother",
+        "role": "主角/反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "寻人骗局的老大",
+        "card_id": "guihua_search_leader",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "寻人骗局的老二",
+        "card_id": "guihua_search_talker",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "寻人骗局的老三",
+        "card_id": "guihua_search_lookout",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "李三根",
+        "reason": "寻人对象只在启事及对话中提及，未实际参与本篇行动。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/恒娘.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "恒娘",
+        "card_id": "guihua_heng_niang",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "洪大业之妻",
+        "card_id": "guihua_hong_wife",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "洪大业",
+        "card_id": "guihua_hong_daye",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "宝带",
+        "reason": "本篇一次性配角；受宠及遭斥责，未见独立伤害或阴谋行动。"
+      },
+      {
+        "name": "狄姓布商",
+        "reason": "仅用来交代恒娘婚姻身份。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/房客.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "怪房客的男房东",
+        "card_id": "guihua_landlord_husband",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "怪房客的女房东",
+        "card_id": "guihua_landlord_wife",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "王先生",
+        "reason": "本篇核心谜面与一次性配角，按约付租；没有证明主动对抗或超常身份。"
+      }
+    ],
+    "notes": [
+      "保留悬疑，不把房客自动定为鬼或反派。"
+    ]
+  },
+  {
+    "path": "倪匡之鬼话系列/择时剖腹.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "丁医生（择时剖腹）",
+        "card_id": "guihua_doctor_ding",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "灰脸病人／新生儿",
+        "reason": "被丁医生联系的异常形象，未证明同一人格或主动加害；不把诡异表情当反派行为。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/搭电梯.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "小王（搭电梯）",
+        "card_id": "guihua_elevator_wang",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "无须呼吸的电梯女乘客",
+        "card_id": "guihua_elevator_women",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/放屁.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "失窃集团董事长",
+        "card_id": "guihua_company_chairman",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "高经理（放屁）",
+        "card_id": "guihua_manager_gao",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "幸存的工程部副经理",
+        "card_id": "guihua_young_engineer",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "集团高层侵吞组织",
+        "card_id": "guihua_embezzlement_ring",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "亲自率侦探录像调查，35-37行。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/明天我们怎么联络.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "雨夜合乘的男子",
+        "card_id": "guihua_rain_man",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "雨夜留下号码的女子",
+        "card_id": "guihua_rain_woman",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/橘树.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "兴化县令之女",
+        "card_id": "guihua_orange_woman",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "与县令之女相约的橘树",
+        "card_id": "guihua_orange_tree",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/爱管闲事的司机.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "爱管闲事的鬼司机",
+        "card_id": "guihua_nosy_driver",
+        "role": "主角/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "鬼司机车上的许诺男子",
+        "card_id": "guihua_nosy_male",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "鬼司机车上的犹疑女子",
+        "card_id": "guihua_nosy_female",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/猫头鹰的眼睛.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "试验猫头鹰眼珠的食客",
+        "card_id": "guihua_owl_experimenter",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "E及其他食客",
+        "reason": "一次性讨论者；提出传说未见独立阴谋。"
+      },
+      {
+        "name": "猫头鹰",
+        "reason": "未表现独立人格与主动对抗；不把被害动物自动作恶灵。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/衬衫.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "声称被衬衫陷害的事业家",
+        "card_id": "guihua_shirt_businessman",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "年轻秘书",
+        "reason": "一次性重要配角及死者；有恋爱与职业野心，但未展示应归为反派的伤害行为。"
+      },
+      {
+        "name": "衬衫",
+        "reason": "异常作用只由嫌疑人陈述，无独立人格证据，不建立拟人反派。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/选美记.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "齐作宣",
+        "card_id": "guihua_qi_zuoxuan",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "江落花",
+        "card_id": "guihua_jiang_luohua",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "何流水",
+        "card_id": "guihua_he_liushui",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "齐作宣的年轻妻子",
+        "card_id": "guihua_qi_widow",
+        "role": "阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "主角/重要配角",
+        "basis": "调查候选者、临危制作光形驱鬼、追查齐死因，21-239行。"
+      },
+      {
+        "name": "陶启泉",
+        "card_id": "weisili_tao_qiquan",
+        "role": "重要配角",
+        "basis": "集团总裁在会议为小郭担保，23-25行。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "瑞士侦探",
+        "reason": "一次性专业协作者，提供调查结果；没有独立主线或对抗。"
+      },
+      {
+        "name": "其余三名入围者",
+        "reason": "仅在结尾被推测身份，不能据小郭恐惧编成女鬼。"
+      }
+    ],
+    "notes": [
+      "137行有缺一页。三女身份与能力不可一概而论，身体差异不作为反派依据。"
+    ]
+  },
+  {
+    "path": "倪匡之鬼话系列/陆判.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "陆判",
+        "card_id": "guihua_lu_pan",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "朱尔旦",
+        "card_id": "guihua_zhu_erdan",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "朱夫人",
+        "reason": "一次性受术者，未承担独立主视角或对抗行动。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/顾客.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "寻找神秘顾客的青年",
+        "card_id": "guihua_anonymous_sex_worker",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "匿名女顾客",
+        "reason": "一次性配角及谜面，没有证明加害、鬼魂身份或操纵能力。"
+      },
+      {
+        "name": "女介绍人",
+        "reason": "一次性职业中介，拒绝泄密不构成反派行动。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/鬼停车场.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "阿陈（鬼停车场）",
+        "card_id": "guihua_parking_chen",
+        "role": "主角/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/鬼哭之一.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "南（鬼哭之一）",
+        "card_id": "guihua_cry_nan",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "眉青",
+        "card_id": "guihua_cry_meiqing",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "成小姐",
+        "reason": "前住户仅被他人描述；不能凭哭声确定为她，更不能确定转生。"
+      },
+      {
+        "name": "售屋老人",
+        "reason": "低价售屋后失联，但没有直接证据证明故意以鬼害人。"
+      }
+    ],
+    "notes": [
+      "哭声是异常现象，未有足以独立建卡的确证人格。"
+    ]
+  },
+  {
+    "path": "倪匡之鬼话系列/鬼哭之二.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "阿唐",
+        "card_id": "guihua_mahjong_tang",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "旧楼厕所的掐颈者",
+        "card_id": "guihua_toilet_entity",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/鬼屋.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "阿包",
+        "card_id": "guihua_haunted_bao",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "阿大",
+        "card_id": "guihua_haunted_da",
+        "role": "主角/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "墙上绿色人脸",
+        "reason": "只显示、浮动，未证实独立身份或主动加害；不合并虚构鬼群战力。"
+      },
+      {
+        "name": "表舅",
+        "reason": "提供住所的回忆人物，未证明故意加害。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/鬼胎之一.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "阿碧",
+        "card_id": "guihua_a_bi",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "丁老太太",
+        "card_id": "guihua_ding_matriarch",
+        "role": "反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "丁少爷",
+        "reason": "一次性被安排婚姻者及目击者，认知障碍不构成反派；未作为独立主角展开。"
+      },
+      {
+        "name": "丁家男婴",
+        "reason": "疑似阿碧复仇载体但主体未知；按未明事件记录，避免虚构独立意志与可控技能。"
+      }
+    ],
+    "notes": [
+      "正文55行有“缺一页”，附身解释不作确定能力。"
+    ]
+  },
+  {
+    "path": "倪匡之鬼话系列/鬼胎之二.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "妲咪",
+        "card_id": "guihua_dami",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "汤尼（鬼胎之二）",
+        "card_id": "guihua_tony",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "妲咪腹中的未知存在",
+        "card_id": "guihua_dami_fetus",
+        "role": "反派/阶段性对立者",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/鬼脑.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "南仔",
+        "card_id": "guihua_nan_zi",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "墓中未知死者",
+        "reason": "身份不明且与终局南仔的主体边界未厘清，相关可能性保留在南仔卡，避免重复叠加能力。"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "倪匡之鬼话系列/鸡蛋.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "观察鸡蛋的少年",
+        "card_id": "guihua_egg_boy",
+        "role": "主角/反派",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      },
+      {
+        "name": "观察鸡蛋少年的父亲",
+        "card_id": "guihua_egg_father",
+        "role": "主角",
+        "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "母亲",
+        "reason": "一次性照料者，行动与父亲共构家庭背景，未独立展开主线。"
+      },
+      {
+        "name": "两名被杀同学",
+        "reason": "不知宠物身份而宰鸡，未显示独立恶意；不把死者自动列反派。"
+      },
+      {
+        "name": "宠物母鸡",
+        "reason": "特殊关系明显但未表现可辨的独立人格或对抗行动。"
+      }
+    ],
+    "notes": []
+  }
+]

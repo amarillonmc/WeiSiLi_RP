@@ -1,0 +1,122 @@
+[
+  {
+    "path": "卫斯理系列/109爆炸.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "戈壁",
+        "card_id": "weisili_ge_bi",
+        "role": "重要配角",
+        "basis": "实际参与、联络或终局处置"
+      },
+      {
+        "name": "沙漠",
+        "card_id": "weisili_sha_mo",
+        "role": "重要配角",
+        "basis": "实际参与、联络或终局处置"
+      },
+      {
+        "name": "温宝裕",
+        "card_id": "weisili_wen_baoyu",
+        "role": "重要配角",
+        "basis": "实际参与、联络或终局处置"
+      },
+      {
+        "name": "蓝丝",
+        "card_id": "weisili_lan_si",
+        "role": "重要配角",
+        "basis": "实际参与、联络或终局处置"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "实际参与、联络或终局处置"
+      },
+      {
+        "name": "神鹰",
+        "card_id": "weisili_shenying",
+        "role": "重要配角",
+        "basis": "实际参与、联络或终局处置"
+      },
+      {
+        "name": "良辰",
+        "card_id": "weisili_liang_chen",
+        "role": "重要配角",
+        "basis": "实际参与、联络或终局处置"
+      },
+      {
+        "name": "美景",
+        "card_id": "weisili_mei_jing",
+        "role": "重要配角",
+        "basis": "实际参与、联络或终局处置"
+      },
+      {
+        "name": "猜王",
+        "card_id": "weisili_cai_wang",
+        "role": "重要配角",
+        "basis": "实际参与、联络或终局处置"
+      },
+      {
+        "name": "宝先生",
+        "card_id": "weisili_bao_xiansheng",
+        "role": "单书主角",
+        "basis": "失窃和爆炸案的独立行动者"
+      },
+      {
+        "name": "双生独裁者（爆炸事件）",
+        "card_id": "weisili_baozha_dictator",
+        "role": "反派",
+        "basis": "失窃和爆炸案的独立行动者"
+      },
+      {
+        "name": "研究所所长（双生独裁者之弟）",
+        "card_id": "weisili_baozha_director",
+        "role": "反派",
+        "basis": "失窃和爆炸案的独立行动者"
+      },
+      {
+        "name": "研究员甲（元胎实验）",
+        "card_id": "weisili_researcher_jia",
+        "role": "谜案核心人物",
+        "basis": "失窃和爆炸案的独立行动者"
+      },
+      {
+        "name": "研究员乙（元胎实验）",
+        "card_id": "weisili_researcher_yi",
+        "role": "谜案核心人物",
+        "basis": "失窃和爆炸案的独立行动者"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "外星人Ａ与Ｂ种族",
+        "reason": "结尾用于解释事故的假说符号，不构造确定存在且具任意爆破能力的角色。"
+      },
+      {
+        "name": "元胎",
+        "reason": "重要实验材料，未呈现可辨认自主人格。"
+      },
+      {
+        "name": "古代神话及秘藏创立者",
+        "reason": "背景来源与类比，未独立演出。"
+      }
+    ],
+    "notes": [
+      "独裁者与所长是可分别行动的两个人，各有一张卡；相通不等于全知。",
+      "金刚不坏是研究目标，不是所有参与者的既成能力。"
+    ]
+  }
+]

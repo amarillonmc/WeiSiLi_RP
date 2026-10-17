@@ -1,0 +1,96 @@
+{
+  "id": "weisili_old_cat",
+  "name": "老黑猫",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "借装置和大量电能脱离猫身回到原处，猫躯成为化石；终局不再滞留地球。",
+    "deployment": "明确以回返后的认知恢复最后猫身作为演绎外观；原作已脱离该身，不新增任意变形。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 2,
+    "scope": 1,
+    "sustain": 4,
+    "range": 1,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "强利爪但受狗制约",
+    "energy": "异星意识非即时精神杀伤",
+    "scope": "单体",
+    "sustain": "超长寿不代表无限战斗体力",
+    "range": "近身",
+    "combat": "会反击但可被制伏"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "能力的已知边界：猫脑使其不能自行返回；长寿不等于不受伤，回返需特殊装置及大量电能。"
+    },
+    "environment": {
+      "score": 4,
+      "af": 1.0,
+      "reason": "场景条件：猫脑使其不能自行返回；长寿不等于不受伤，回返需特殊装置及大量电能。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "临场情绪与选择：猛烈反击，可能扩大冲突。"
+    }
+  },
+  "positive_total": 22.0,
+  "deduction_total": 9.0,
+  "raw_score": 13.0,
+  "rounded_score": 13,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "智慧意识寄居猫身，使该身体长久存续并能理解复杂处境；具体行动仍受猫身约束。；猫脑使其不能自行返回；长寿不等于不受伤，回返需特殊装置及大量电能。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/039老猫.txt",
+      "start_line": 1020,
+      "end_line": 1055,
+      "supports": "猫狗搏斗和受伤",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/039老猫.txt",
+      "start_line": 2450,
+      "end_line": 2499,
+      "supports": "回返条件与信任",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/039老猫.txt",
+      "start_line": 2553,
+      "end_line": 2607,
+      "supports": "脱离躯体及伴侣身份",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

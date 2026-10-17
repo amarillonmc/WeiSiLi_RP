@@ -1,0 +1,79 @@
+[
+  {
+    "path": "原振侠系列/01.天人.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "持续调查者"
+      },
+      {
+        "name": "原林",
+        "card_id": "yuanzhenxia_yuan_lin",
+        "role": "主角",
+        "basis": "战地叙事视角"
+      },
+      {
+        "name": "轻见小剑",
+        "card_id": "yuanzhenxia_qingjian_xiaojian",
+        "role": "主角",
+        "basis": "战地与医学疑案核心"
+      },
+      {
+        "name": "黄应驹",
+        "card_id": "yuanzhenxia_huang_yingju",
+        "role": "主角",
+        "basis": "异国经历独立叙事线"
+      },
+      {
+        "name": "铁男",
+        "card_id": "yuanzhenxia_tie_nan",
+        "role": "主角",
+        "basis": "共同调查者"
+      },
+      {
+        "name": "泉吟香",
+        "card_id": "yuanzhenxia_quan_yinxiang",
+        "role": "主角",
+        "basis": "异常经历与终局选择"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "主角",
+        "basis": "调查与权力选择"
+      },
+      {
+        "name": "卡尔斯",
+        "card_id": "yuanzhenxia_kaersi",
+        "role": "反派",
+        "basis": "统治野心"
+      },
+      {
+        "name": "天人研究站观察者",
+        "card_id": "yuanzhenxia_tianren_station",
+        "role": "反派",
+        "basis": "控制与灭口机制"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "羽仁五郎／五朗",
+        "reason": "医学院同学和受害者；仅此书配角，非独立主要行动线"
+      },
+      {
+        "name": "陈山",
+        "reason": "被灭口的样本；单书受害配角"
+      },
+      {
+        "name": "井田、罗惠、孟雄等",
+        "reason": "一次性教学、联络或现场辅助角色"
+      }
+    ],
+    "notes": [
+      "羽仁五郎与轻见小剑不是同一人；前者为同学，后者为战地获救军官。"
+    ]
+  }
+]

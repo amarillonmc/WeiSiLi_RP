@@ -1,0 +1,123 @@
+[
+  {
+    "path": "原振侠系列/31.宇宙杀手.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "进入古墓并脱险"
+      },
+      {
+        "name": "雷九天",
+        "card_id": "yuanzhenxia_lei_jiutian",
+        "role": "重要配角",
+        "basis": "古墓求援与入侵"
+      },
+      {
+        "name": "陈昌",
+        "card_id": "yuanzhenxia_chen_chang",
+        "role": "单书主角",
+        "basis": "古墓求援与入侵"
+      },
+      {
+        "name": "古墓外星灵魂群体",
+        "card_id": "yuanzhenxia_tomb_spirits",
+        "role": "单书主角群体",
+        "basis": "古墓求援与入侵"
+      },
+      {
+        "name": "宇宙杀手（古墓入侵者）",
+        "card_id": "yuanzhenxia_cosmic_killer",
+        "role": "反派",
+        "basis": "古墓求援与入侵"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "阿财（宇宙杀手）",
+        "reason": "单次仆人，不与鲁大法之子阿财合并"
+      },
+      {
+        "name": "周胖子",
+        "reason": "陈昌回忆中的供养者，没有独立反派行动线"
+      },
+      {
+        "name": "秦始皇",
+        "reason": "仅讨论与外星人的历史接触，未实际登场，不将推测建成角色能力"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/32.天皇巨星.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "独航后失踪"
+      },
+      {
+        "name": "玛仙",
+        "card_id": "yuanzhenxia_ma_xian",
+        "role": "主角",
+        "basis": "新爱神星重建与返回地球"
+      },
+      {
+        "name": "巨星人",
+        "card_id": "yuanzhenxia_giant_star_people",
+        "role": "主角群体",
+        "basis": "灾害、救援与责任"
+      },
+      {
+        "name": "爱神星新生机械人",
+        "card_id": "yuanzhenxia_aishen_machines",
+        "role": "重要配角",
+        "basis": "通信、防御与资料分析"
+      },
+      {
+        "name": "康维十七世",
+        "card_id": "yuanzhenxia_kangwei",
+        "role": "重要配角",
+        "basis": "未能接回原振侠"
+      },
+      {
+        "name": "海棠",
+        "card_id": "yuanzhenxia_hai_tang",
+        "role": "重要配角",
+        "basis": "联络观察地带"
+      },
+      {
+        "name": "曹银雪",
+        "card_id": "yuanzhenxia_cao_yinxue",
+        "role": "重要配角",
+        "basis": "约定寻夫"
+      },
+      {
+        "name": "曹金福",
+        "card_id": "weisili_cao_jinfu",
+        "role": "重要配角",
+        "basis": "约定寻找姐夫"
+      },
+      {
+        "name": "陶启泉",
+        "card_id": "weisili_tao_qiquan",
+        "role": "重要配角",
+        "basis": "玛仙返回见养父"
+      },
+      {
+        "name": "红绫",
+        "card_id": "weisili_hong_ling",
+        "role": "重要配角",
+        "basis": "康维引导观察地球"
+      }
+    ],
+    "excluded": [],
+    "notes": [
+      "灾害自然现象不单独写成人格反派；毁星波及原振侠是推断，失踪原因未定。"
+    ]
+  }
+]

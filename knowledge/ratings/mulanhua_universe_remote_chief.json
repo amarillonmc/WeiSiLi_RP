@@ -1,0 +1,98 @@
+{
+  "id": "mulanhua_universe_remote_chief",
+  "name": "宇宙中心会的遥控谈判者",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "主持据点谈判后安排撤离，个人真实身份和后续未明。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 1,
+    "combat": 2
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "监听需要预设设备与现场；自承并非掌握全部最高机密，未证与卢利根本人同一。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "阻止局部行动扩大成公开冲突，在保密框架内用有限让步换取对方退出。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "监听需要预设设备与现场；自承并非掌握全部最高机密，未证与卢利根本人同一。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 10.5,
+  "deduction_total": 2.0,
+  "raw_score": 8.5,
+  "rounded_score": 9,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "纸",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 598,
+      "end_line": 606,
+      "supports": "无线电指示和监听推断。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 610,
+      "end_line": 650,
+      "supports": "否认纵火、赔偿条件及知情边界。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "start_line": 650,
+      "end_line": 654,
+      "supports": "撤离据点。",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "没有明确证据将扬声器中的人合并为卢利根或陆嘉；暂按单独职能身份建卡。"
+  ]
+}

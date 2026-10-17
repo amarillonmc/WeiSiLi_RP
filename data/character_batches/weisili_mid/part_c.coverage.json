@@ -1,0 +1,259 @@
+[
+  {
+    "path": "卫斯理系列/036魔磁.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "杰克",
+        "card_id": "weisili_jieke",
+        "role": "重要配角",
+        "basis": "警务调查"
+      },
+      {
+        "name": "柯克船长",
+        "card_id": "weisili_keke_captain",
+        "role": "反派",
+        "basis": "魔磁的争夺与海难"
+      },
+      {
+        "name": "方廷宝",
+        "card_id": "weisili_fang_tingbao",
+        "role": "反派性行动者",
+        "basis": "魔磁的争夺与海难"
+      },
+      {
+        "name": "陈子驹",
+        "card_id": "weisili_chen_ziju",
+        "role": "反派",
+        "basis": "魔磁的争夺与海难"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "强磁球",
+        "reason": "无人格装置，不列角色；已沉失，不能划归船长永久能力"
+      },
+      {
+        "name": "巨型乌贼",
+        "reason": "自然环境危险，无独立人物逻辑"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "卫斯理系列/037创造.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "杰克",
+        "card_id": "weisili_jieke",
+        "role": "重要配角",
+        "basis": "警务调查"
+      },
+      {
+        "name": "王亭",
+        "card_id": "weisili_wang_ting",
+        "role": "反派",
+        "basis": "人体研究与杀人"
+      },
+      {
+        "name": "潘仁声",
+        "card_id": "weisili_pan_rensheng",
+        "role": "反派",
+        "basis": "人体研究与杀人"
+      },
+      {
+        "name": "王慧",
+        "card_id": "weisili_wang_hui",
+        "role": "反派",
+        "basis": "人体研究与杀人"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "陆玛莉",
+        "reason": "旧情人和调查线索，单次次要角色"
+      },
+      {
+        "name": "长发少年",
+        "reason": "王亭为脱罪编造的替罪角色，不建真实人物卡"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "卫斯理系列/038鬼子.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "调查及与唐婉儿交往"
+      },
+      {
+        "name": "铃木正直",
+        "card_id": "weisili_suzuki_masanao",
+        "role": "反派",
+        "basis": "战争罪行揭露"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "唐婉儿",
+        "reason": "本书导游及小郭恋爱对象，后书未具名新婚太太不在缺乏身份链时强并"
+      },
+      {
+        "name": "藤泽",
+        "reason": "单书调查协助者；个人错误观念记录在事件中，不将其自动定为战争加害者"
+      },
+      {
+        "name": "未具名受害女子",
+        "reason": "由日记记述的受害者，与唐婉儿关系仅为推测"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "卫斯理系列/039老猫.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "白奇伟",
+        "card_id": "weisili_bai_qiwei",
+        "role": "重要配角",
+        "basis": "工业供电协助"
+      },
+      {
+        "name": "老黑猫",
+        "card_id": "weisili_old_cat",
+        "role": "非人主角",
+        "basis": "猫身寄居、回返与搏斗"
+      },
+      {
+        "name": "张老头",
+        "card_id": "weisili_zhang_laotou",
+        "role": "单书主角",
+        "basis": "猫身寄居、回返与搏斗"
+      },
+      {
+        "name": "老布（犬）",
+        "card_id": "weisili_laobu_dog",
+        "role": "非人主要行动者",
+        "basis": "猫身寄居、回返与搏斗"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "李同、杰美、老陈",
+        "reason": "单书报案、调查及动物照护的辅助人物"
+      },
+      {
+        "name": "入侵外星军队",
+        "reason": "只是卫斯理的担忧，不虚构为已存在反派"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "卫斯理系列/040贝壳.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "小郭",
+        "card_id": "weisili_xiao_guo",
+        "role": "重要配角",
+        "basis": "受托追查"
+      },
+      {
+        "name": "何艳容",
+        "card_id": "weisili_he_yanrong",
+        "role": "重要配角",
+        "basis": "委托寻找丈夫，后书实际继续登场"
+      },
+      {
+        "name": "万良生（原本人）",
+        "card_id": "weisili_wan_liangsheng",
+        "role": "单书主角",
+        "basis": "自主转换事件"
+      },
+      {
+        "name": "《贝壳》的两名异星来客",
+        "card_id": "weisili_beike_visitors",
+        "role": "非人主角群体",
+        "basis": "自主转换事件"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "红兰、徐谅",
+        "reason": "单次船上关系和线索人物"
+      },
+      {
+        "name": "小郭新婚太太",
+        "reason": "未具名短暂出场，不凭相邻书恋情强行赋名"
+      }
+    ],
+    "notes": []
+  }
+]

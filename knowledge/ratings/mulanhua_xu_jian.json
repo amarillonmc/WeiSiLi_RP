@@ -1,0 +1,117 @@
+{
+  "id": "mulanhua_xu_jian",
+  "name": "徐健",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "被警方逮捕，在证据下承认连续谋杀和亲手制作遥控凶器。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 4,
+    "energy": 0,
+    "scope": 2,
+    "sustain": 3,
+    "range": 5,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "每次须先安置装置并掌握目标位置与习惯；低声枪仍是物理武器，工场和地道是外部设施。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "完成敌国隐蔽工业计划并保住退休将军掩护，排除掌握秘密和阻碍股权控制的人。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "每次须先安置装置并掌握目标位置与习惯；低声枪仍是物理武器，工场和地道是外部设施。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 29.5,
+  "deduction_total": 2.0,
+  "raw_score": 27.5,
+  "rounded_score": 28,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "强",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "start_line": 968,
+      "end_line": 1002,
+      "supports": "自演受害者的摇椅炸弹。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "start_line": 1954,
+      "end_line": 1958,
+      "supports": "提前退休及通敌怀疑。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "start_line": 2000,
+      "end_line": 2096,
+      "supports": "工程室、锤枪穿钢板与识破试探。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "start_line": 2142,
+      "end_line": 2198,
+      "supports": "股权及兵工厂计划。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "start_line": 2598,
+      "end_line": 2614,
+      "supports": "转移与伪电话计划。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "start_line": 2752,
+      "end_line": 2766,
+      "supports": "逮捕与认罪。",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

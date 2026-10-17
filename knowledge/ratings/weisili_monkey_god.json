@@ -1,0 +1,98 @@
+{
+  "id": "weisili_monkey_god",
+  "name": "灵异猴神",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "向卫斯理说明研究后准备带细胞回乡；六个复制体已还原，尚未写明离开。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 6,
+    "scope": 5,
+    "sustain": 6,
+    "range": 7,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "没有强悍肉身实证",
+    "energy": "技术可复制与分解本系统个体",
+    "scope": "跨地理实验但非宇宙支配",
+    "sustain": "设施支持长期研究",
+    "range": "印度日本远程支援",
+    "combat": "精密控制系统，缺少常规决斗记录"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "能力的已知边界：约百分之一秒的描述来自其解释；未证实无条件把任意天然生物还原、无限复活或控制所有思想。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "场景条件：约百分之一秒的描述来自其解释；未证实无条件把任意天然生物还原、无限复活或控制所有思想。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：承认不知道怎样做到。"
+    }
+  },
+  "positive_total": 50.5,
+  "deduction_total": 5.0,
+  "raw_score": 45.5,
+  "rounded_score": 46,
+  "numeric_tier": "狂",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "狂",
+  "theoretical_tier": "准神",
+  "mastery": "基本掌握",
+  "final_tier": "准神",
+  "display_tier": "准神",
+  "controlled_ceiling": {
+    "description": "物质加工、生命复制与跨地域实验干预；造大量黄金与延寿为本人自述，未据此推导同尺度战斗破坏。",
+    "tier": "准神",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/52愿望猴神.txt",
+      "start_line": 2799,
+      "end_line": 2859,
+      "supports": "外形与科技来源",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/52愿望猴神.txt",
+      "start_line": 2871,
+      "end_line": 2897,
+      "supports": "往事与快乐边界",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/52愿望猴神.txt",
+      "start_line": 2901,
+      "end_line": 2967,
+      "supports": "复制、研究局限与回收",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "过去赋予权力、财富与延寿主要为其自述；卡片不把超光速文明背景折算成个人无限攻击速度。"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "weisili_kaoyan_god",
+  "name": "考验天神（山洞系统）",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "天嘉以微弱支持优势通过考验，系统解除封闭；实体身份及后续行动未知。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 4,
+    "scope": 7,
+    "sustain": 7,
+    "range": 6,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "洞中阻隔与对参与者生命威胁",
+    "energy": "信息影响与未知设施",
+    "scope": "本国民意范围，非全宇宙",
+    "sustain": "长期设施仍需条件",
+    "range": "思想收集推论与场地作用",
+    "combat": "缺少自由战斗表现"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "能力的已知边界：限定设施与考验；思想波收集机制是卫的推论，无任意跨星读心或主动选择统治者的证据。"
+    },
+    "environment": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "场景条件：限定设施与考验；思想波收集机制是卫的推论，无任意跨星读心或主动选择统治者的证据。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：按所收集的意愿显示结果，不因威吓改变。"
+    }
+  },
+  "positive_total": 53.5,
+  "deduction_total": 7.0,
+  "raw_score": 46.5,
+  "rounded_score": 47,
+  "numeric_tier": "狂",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "狂",
+  "theoretical_tier": "狂",
+  "mastery": "基本掌握",
+  "final_tier": "狂",
+  "display_tier": "狂",
+  "controlled_ceiling": {
+    "description": "未知设施能改变洞中阻隔并向天嘉传讯，明暗画面被解释为全国支持与反对意见。；限定设施与考验；思想波收集机制是卫的推论，无任意跨星读心或主动选择统治者的证据。",
+    "tier": "狂",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/121考验.txt",
+      "start_line": 2098,
+      "end_line": 2101,
+      "supports": "历代参与者",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/121考验.txt",
+      "start_line": 3096,
+      "end_line": 3100,
+      "supports": "封闭",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/121考验.txt",
+      "start_line": 3129,
+      "end_line": 3208,
+      "supports": "信息、民意及推测",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/121考验.txt",
+      "start_line": 3213,
+      "end_line": 3237,
+      "supports": "解除封闭和制度局限",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "创造者是否外星人、智能设施或其他生命未直接说明。"
+  ]
+}

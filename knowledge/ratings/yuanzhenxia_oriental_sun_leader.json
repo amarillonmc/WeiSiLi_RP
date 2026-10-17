@@ -1,0 +1,154 @@
+{
+  "id": "yuanzhenxia_oriental_sun_leader",
+  "name": "东方太阳最高领导人",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "《算帐》末仍有呼吸心跳，正常思想和行动已近耗尽；按医院估计仅余约三句清醒话，触发方案未实施。",
+    "deployment": "默认尊重终局失能状态；若需政治交涉型参战，须明示恢复最后清醒形态这一跨世界改编，不能以其原作能力自我治愈。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 0,
+    "scope": 0,
+    "sustain": 0,
+    "range": 0,
+    "combat": 0
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "默认采用《算帐》终局失能状态，无可实施的战斗效果。",
+    "energy": "默认采用《算帐》终局失能状态，无可实施的战斗效果。",
+    "scope": "默认采用《算帐》终局失能状态，无可实施的战斗效果。",
+    "sustain": "默认采用《算帐》终局失能状态，无可实施的战斗效果。",
+    "range": "默认采用《算帐》终局失能状态，无可实施的战斗效果。",
+    "combat": "默认采用《算帐》终局失能状态，无可实施的战斗效果。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "终局失能已计入六项正面维度，不重复扣分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "终局失能已计入六项正面维度，不重复扣分。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "终局失能已计入六项正面维度，不重复扣分。"
+    }
+  },
+  "positive_total": 0.0,
+  "deduction_total": 0.0,
+  "raw_score": 0.0,
+  "rounded_score": 0,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "默认终局仅有医院推算的短暂清醒发言机会，不能保证触发或指定内容；历史政治资源另作条件。",
+    "tier": "纸",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/28.无间地狱.txt",
+      "start_line": 2841,
+      "end_line": 2901,
+      "supports": "组织核心与控制",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/29.人鬼疑云.txt",
+      "start_line": 7423,
+      "end_line": 7603,
+      "supports": "异星合作、衰亡与交易",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/105闯祸.txt",
+      "start_line": 575,
+      "end_line": 612,
+      "supports": "身分与治疗转述",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/105闯祸.txt",
+      "start_line": 672,
+      "end_line": 690,
+      "supports": "危机反应",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/105闯祸.txt",
+      "start_line": 2340,
+      "end_line": 2450,
+      "supports": "会面及宝物",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/105闯祸.txt",
+      "start_line": 2474,
+      "end_line": 2523,
+      "supports": "交涉后允许行动",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/091祸根.txt",
+      "start_line": 207,
+      "end_line": 209,
+      "supports": "交换自由与青春的明确回指",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/105闯祸.txt",
+      "start_line": 575,
+      "end_line": 612,
+      "supports": "同一交易旧史",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 2699,
+      "end_line": 2717,
+      "supports": "三句话及内容不能指定",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 2723,
+      "end_line": 2741,
+      "supports": "激素方法仅提议",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "start_line": 2753,
+      "end_line": 2784,
+      "supports": "获释另有原因、老人终局",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "同一延寿交易的年数在不同篇章分别回述为二十年与十年，不统一改写原文。"
+  ]
+}

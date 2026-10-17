@@ -1,0 +1,155 @@
+{
+  "id": "mulanhua_bloodshadow",
+  "name": "梅乐（血掌影）",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本批原文剧情结束后的经历与认知",
+    "canonical_endpoint": "真实身份揭露后挟高翔经隧道撤向水上飞机；高翔逃脱，飞机被穆秀珍击中起火爆炸，梅乐死亡。",
+    "deployment": "保留终局经历；以最后已证实的可行动状态登场，未随身拥有原文未说明的器材。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 2,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "按文本明确展示的身体或物质作用评分；未给出大范围破坏。",
+    "energy": "按已证实的超常作用评分；异常身份或见闻本身不算能量攻击。",
+    "scope": "按本人单次可作用的对象与局部场景评分，不把社会地位当物理范围。",
+    "sustain": "依赖正常身体、器物或事件条件；没有无限供能或无限复原证据。",
+    "range": "按文本中的近身、视线或现有器物接触范围评估，不扩张成全域作用。",
+    "combat": "按本人实际解决对抗的表现评分；没有把遭遇奇事自动换算成作战技巧。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "无另行证实且应重复扣分的能力性自限；普通人能力低已计入正向分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "未把一般生存环境需求另算特殊限制。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "无证据表明拥有随机失控的主动战斗能力。"
+    }
+  },
+  "positive_total": 16.5,
+  "deduction_total": 0.0,
+  "raw_score": 16.5,
+  "rounded_score": 17,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "原文未显示改写世界规则或叙事层的可控权柄；异常事件与知情不等同概念干涉。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "军情机构掩护、组织操控、毒针和腕表装置、薄塑胶面具及秘密撤离设施；均为有限技术与人手，不是隐身。",
+    "tier": "并",
+    "uncontrolled": "未展示可归属于本人、可反复发动的额外不可控上限。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/25血溅黄金柱.txt",
+      "start_line": 1888,
+      "end_line": 1912,
+      "supports": "远程纪律迫自杀",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/25血溅黄金柱.txt",
+      "start_line": 1972,
+      "end_line": 2006,
+      "supports": "心理挑衅",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/25血溅黄金柱.txt",
+      "start_line": 2470,
+      "end_line": 2506,
+      "supports": "代号与动机",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/25血溅黄金柱.txt",
+      "start_line": 2528,
+      "end_line": 2586,
+      "supports": "被擒与突袭脱身",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/25血溅黄金柱.txt",
+      "start_line": 2690,
+      "end_line": 2696,
+      "supports": "结局仅推断逃走",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/26神秘血影掌.txt",
+      "start_line": 196,
+      "end_line": 206,
+      "supports": "腕表控制",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/26神秘血影掌.txt",
+      "start_line": 1694,
+      "end_line": 1758,
+      "supports": "现身和中毒",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/26神秘血影掌.txt",
+      "start_line": 1830,
+      "end_line": 1974,
+      "supports": "求生妥协与自行解毒",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/26神秘血影掌.txt",
+      "start_line": 2144,
+      "end_line": 2192,
+      "supports": "指纹与真实身份",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/26神秘血影掌.txt",
+      "start_line": 2284,
+      "end_line": 2322,
+      "supports": "面具发明和叛逃",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/26神秘血影掌.txt",
+      "start_line": 2582,
+      "end_line": 2614,
+      "supports": "登机与爆炸终局",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "看似年轻的面貌与准将职务不能推算确定年龄。",
+    "组织飞机曾散发传单，轰炸市中心只是威胁；不据此赋予个人城市级破坏。"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "weisili_wu_xing_feimo",
+  "name": "无形飞魔（获壳依毒间）",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "寄生纳尔逊时被方天困入太空舱，以特定阳电子装置消灭。",
+    "deployment": "原作终局已经死亡或失去可行动形态；参战用最后清醒行动形态，保留终局经历，仅作为明确的角色扮演恢复，不宣称原作复活。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 3,
+    "scope": 2,
+    "sustain": 5,
+    "range": 3,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 非实体思想群不受普通爆炸直接消灭；宿主身体仍脆弱，专用电场能消灭个体。",
+    "energy": "以脑部寄生作用体现；并非任意能量炮。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "特制头罩可阻隔、特定电场可消灭；普通爆炸不等于杀死，但地球宿主中分裂未证实，不能无限复制。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "通过可用宿主继续行动，利用宿主能力满足自己的即时欲求并避免被隔绝。"
+    },
+    "environment": {
+      "score": 5,
+      "af": 1.0,
+      "reason": "特制头罩可阻隔、特定电场可消灭；普通爆炸不等于杀死，但地球宿主中分裂未证实，不能无限复制。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 32.0,
+  "deduction_total": 10.0,
+  "raw_score": 22.0,
+  "rounded_score": 22,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "狂",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "狂",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 5445,
+      "end_line": 5503,
+      "supports": "寄生、记忆和繁殖不确定性",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 5547,
+      "end_line": 5561,
+      "supports": "提前爆炸及物理攻击限制",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 5832,
+      "end_line": 5837,
+      "supports": "宿主记忆保留",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 6050,
+      "end_line": 6097,
+      "supports": "最后寄生和消灭",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 6241,
+      "end_line": 6245,
+      "supports": "原人格已消失",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

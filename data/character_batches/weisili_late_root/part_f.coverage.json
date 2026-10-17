@@ -1,0 +1,130 @@
+[
+  {
+    "path": "卫斯理系列/123豪赌.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "卫斯理",
+        "card_id": "weisili_wei_sili",
+        "role": "系列主角",
+        "basis": "调查与行动"
+      },
+      {
+        "name": "白素",
+        "card_id": "weisili_bai_su",
+        "role": "系列主角",
+        "basis": "判断与协助"
+      },
+      {
+        "name": "生念祖（寻宝者）",
+        "card_id": "weisili_sheng_nianzu",
+        "role": "单书主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "王常胜",
+        "card_id": "weisili_wang_changsheng",
+        "role": "回忆主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "李司令（豪赌）",
+        "card_id": "weisili_haodu_li_commander",
+        "role": "回忆主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "老太爷（豪赌银行创办人）",
+        "card_id": "weisili_haodu_banker_elder",
+        "role": "单书主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "董事长（豪赌）",
+        "card_id": "weisili_haodu_banker",
+        "role": "单书主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "生副官（豪赌）",
+        "card_id": "weisili_sheng_adjutant",
+        "role": "回忆主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "生副官之父",
+        "card_id": "weisili_sheng_adjutant_father",
+        "role": "回忆主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "年羹尧（豪赌传说）",
+        "card_id": "weisili_nian_gengyao",
+        "role": "传说主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "波斯赌客三人（豪赌传说）",
+        "card_id": "weisili_haodu_persian_gamblers",
+        "role": "反派小组",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "雍正皇帝（豪赌传说）",
+        "card_id": "weisili_haodu_yongzheng",
+        "role": "背景反派",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "年家忠仆（豪赌）",
+        "card_id": "weisili_haodu_loyal_retainer",
+        "role": "回忆主角",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "大赢家（豪赌匿名人物）",
+        "card_id": "weisili_haodu_great_winner",
+        "role": "背景反派",
+        "basis": "寻宝主线或完整回忆行动线"
+      },
+      {
+        "name": "白老大",
+        "card_id": "weisili_bai_laoda",
+        "role": "重要配角",
+        "basis": "介绍生念祖并亲自追查宝物"
+      },
+      {
+        "name": "铁蛋",
+        "card_id": "weisili_tie_dan",
+        "role": "重要配角",
+        "basis": "终局交谈和本人旧经历"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "黄金赌场庄家、估价者和打手",
+        "reason": "内嵌短篇的辅助背景，无独立持续行动线。"
+      },
+      {
+        "name": "守洞老者、游人、饭局客人",
+        "reason": "一次性提供背景信息或话题的辅助人物。"
+      },
+      {
+        "name": "相邻军阀势力",
+        "reason": "对李司令的胜者没有独立人物刻画，仅存战果转述；不虚构领袖姓名和设定。"
+      },
+      {
+        "name": "独臂神尼、明清八大侠、吕四娘等",
+        "reason": "谈论武侠故事系统的举例，不视为本小说实际登场人物。"
+      },
+      {
+        "name": "必胜石及未知制造者",
+        "reason": "没有独立人格；存在、用途、来源均未解决，不建立万能概率神。"
+      }
+    ],
+    "notes": [
+      "各代生念祖分卡；银行父子分卡；三个未具名且无个性差异的共同施害者按小组归档。",
+      "历史及政治人物仅为本篇小说版本；暗示不补成现实事实，不因称谓相似合并其他领袖。"
+    ]
+  }
+]

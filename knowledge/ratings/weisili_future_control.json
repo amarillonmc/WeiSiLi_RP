@@ -1,0 +1,112 @@
+{
+  "id": "weisili_future_control",
+  "name": "未来世界主宰／控制中心",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "《圈套》末陶格证言未来主宰已经结束，现世低级设备失能解体；终结原因未知",
+    "deployment": "原作终局无可用的主宰系统。需要其作为行动角色时，明确恢复最后可运作的基础设施状态并保留终局失稳认知；环境必须提供执行端和逆转装置，不能只投放一个无条件全能意识。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 4,
+    "scope": 9,
+    "sustain": 7,
+    "range": 8,
+    "combat": 6
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "历史能力是依时间设施与分级网络运作的广域长线控制，末期系统结束；分数描述显式恢复部署，不能把社会历史规模直接当爆炸范围；该项仅评价本卡机制在对应维度上的作用。",
+    "energy": "历史能力是依时间设施与分级网络运作的广域长线控制，末期系统结束；分数描述显式恢复部署，不能把社会历史规模直接当爆炸范围；该项仅评价本卡机制在对应维度上的作用。",
+    "scope": "历史能力是依时间设施与分级网络运作的广域长线控制，末期系统结束；分数描述显式恢复部署，不能把社会历史规模直接当爆炸范围；该项仅评价本卡机制在对应维度上的作用。",
+    "sustain": "历史能力是依时间设施与分级网络运作的广域长线控制，末期系统结束；分数描述显式恢复部署，不能把社会历史规模直接当爆炸范围；该项仅评价本卡机制在对应维度上的作用。",
+    "range": "历史能力是依时间设施与分级网络运作的广域长线控制，末期系统结束；分数描述显式恢复部署，不能把社会历史规模直接当爆炸范围；该项仅评价本卡机制在对应维度上的作用。",
+    "combat": "历史能力是依时间设施与分级网络运作的广域长线控制，末期系统结束；分数描述显式恢复部署，不能把社会历史规模直接当爆炸范围；该项仅评价本卡机制在对应维度上的作用。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 3,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 4,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 60.5,
+  "deduction_total": 9.0,
+  "raw_score": 51.5,
+  "rounded_score": 52,
+  "numeric_tier": "狂",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "狂",
+  "theoretical_tier": "准神",
+  "mastery": "基本掌握",
+  "final_tier": "准神",
+  "display_tier": "准神",
+  "controlled_ceiling": {
+    "description": "提供完整控制网络、执行端和逆转设施的历史可运作形态；没有这些条件时不能以终局残骸发动。",
+    "tier": "准神",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 98,
+      "end_line": 137,
+      "supports": "玩具一家受未来系统控制与年龄状态",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 2173,
+      "end_line": 2194,
+      "supports": "能力衰退、驾车及黄光失控",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 2366,
+      "end_line": 2414,
+      "supports": "小机械人解体与控制层级",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 2559,
+      "end_line": 2599,
+      "supports": "逆时布置解释",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 3081,
+      "end_line": 3125,
+      "supports": "主宰结束与遗传密码圈套终局",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "数值评级为项目分析，原文没有相应战斗数值。"
+  ]
+}

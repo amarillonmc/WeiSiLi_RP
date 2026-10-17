@@ -1,0 +1,117 @@
+{
+  "id": "mulanhua_moheng",
+  "name": "摩亨将军",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "囚徒逃离，电网袭击被提前防备而失败；仍掌权，未见被捕或死亡。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 0,
+    "scope": 2,
+    "sustain": 3,
+    "range": 3,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "本人为人类武装指挥者；完整电网项目的实战余波造成数十吨死鱼，计划对舰队人员的杀伤未实现。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "离不开国家设施、技术人员、飞机及供电；电网已在末次行动毁坏，重建不是即取即用，暴怒会压制正确报告。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "借秘密技术行动取得国家优势，把专家、亲情和下属生命都当作可控制的工具。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "离不开国家设施、技术人员、飞机及供电；电网已在末次行动毁坏，重建不是即取即用，暴怒会压制正确报告。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 22.0,
+  "deduction_total": 2.0,
+  "raw_score": 20.0,
+  "rounded_score": 20,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "凶",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "若另行配置完整军工电网、八架运输机、供电与护航，可尝试一平方哩范围导电杀伤；实际一次部署因单架运输机被击落连带失败，非个人常备能力。",
+    "tier": "凶",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/53电网火花.txt",
+      "start_line": 582,
+      "end_line": 692,
+      "supports": "以安妮胁迫云五风及网的规模。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/53电网火花.txt",
+      "start_line": 1012,
+      "end_line": 1046,
+      "supports": "代号、组织与武装游艇。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/53电网火花.txt",
+      "start_line": 1196,
+      "end_line": 1222,
+      "supports": "供电和升降技术条件。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/53电网火花.txt",
+      "start_line": 1772,
+      "end_line": 1832,
+      "supports": "识破画像、玻璃隔断与暗门。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/53电网火花.txt",
+      "start_line": 2270,
+      "end_line": 2276,
+      "supports": "暴怒阻碍反对意见。",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/53电网火花.txt",
+      "start_line": 2406,
+      "end_line": 2414,
+      "supports": "电网实战失败。",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

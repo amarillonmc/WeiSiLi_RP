@@ -1,0 +1,140 @@
+{
+  "id": "mulanhua_hu_fatian",
+  "name": "胡法天",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本批原文剧情结束后的经历与认知",
+    "canonical_endpoint": "越狱制造炼油厂爆炸威胁后再次被捕；在爆炸前供出炸药位置，装置由专家拆除。",
+    "deployment": "保留终局经历；以最后已证实的可行动状态登场，未随身拥有原文未说明的器材。"
+  },
+  "positive": {
+    "physical": 2,
+    "energy": 1,
+    "scope": 1,
+    "sustain": 2,
+    "range": 2,
+    "combat": 6
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "能近身反制并使用手枪，但多次被摔倒、击昏及伤臂，身体不是主要优势。",
+    "energy": "可设计有条件的电流、声响及炸药装置，实际需硬件与供能。",
+    "scope": "常态随身手段作用于局部单人；全厂连锁危险不计为个人常态范围。",
+    "sustain": "普通人耐力与有限设备，有伤、麻醉及休整需求。",
+    "range": "手枪、有限无线设备兼顾近中距离，远程作用必须预装接收设施。",
+    "combat": "侦查反侦查、陷阱与多次脱身经验高，仍被心理和临场误判击败。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "无另行证实且应重复扣分的能力性自限；普通人能力低已计入正向分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "未把一般生存环境需求另算特殊限制。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "无证据表明拥有随机失控的主动战斗能力。"
+    }
+  },
+  "positive_total": 22.5,
+  "deduction_total": 0.0,
+  "raw_score": 22.5,
+  "rounded_score": 23,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "原文未显示改写世界规则或叙事层的可控权柄；异常事件与知情不等同概念干涉。",
+  "practical_tier": "并",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "常态为携枪、近距电子机关与有限监视的并级对抗；具时间、同谋、炸药和目标设施时可预设局部重大爆破，连锁后果来自炼油厂易燃库存，理论强级，不是肉身或即时攻击。",
+    "tier": "强",
+    "uncontrolled": "未展示可归属于本人、可反复发动的额外不可控上限。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/13智擒电子盗.txt",
+      "start_line": 450,
+      "end_line": 456,
+      "supports": "微型摄录取密码机制",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/13智擒电子盗.txt",
+      "start_line": 1940,
+      "end_line": 2056,
+      "supports": "身手、动机和否认公益",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/13智擒电子盗.txt",
+      "start_line": 2118,
+      "end_line": 2136,
+      "supports": "真实汽车追踪装置",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/13智擒电子盗.txt",
+      "start_line": 2270,
+      "end_line": 2374,
+      "supports": "接受权位并交出人质",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/13智擒电子盗.txt",
+      "start_line": 2540,
+      "end_line": 2558,
+      "supports": "被捕判刑与越狱威胁",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/14死亡爆炸网.txt",
+      "start_line": 228,
+      "end_line": 242,
+      "supports": "实际越狱和油厂威胁",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/14死亡爆炸网.txt",
+      "start_line": 1768,
+      "end_line": 1774,
+      "supports": "本人也受麻醉且身体较弱",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/14死亡爆炸网.txt",
+      "start_line": 2480,
+      "end_line": 2576,
+      "supports": "枪法、误杀同伙和再次被捕",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/14死亡爆炸网.txt",
+      "start_line": 2612,
+      "end_line": 2684,
+      "supports": "假失忆、求生与炸药拆除",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "声响囚室险使穆秀珍精神崩溃，但她实际装疯骗过他，不能写成必然永久致疯。"
+  ]
+}

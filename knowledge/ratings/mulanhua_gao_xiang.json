@@ -1,0 +1,180 @@
+{
+  "id": "mulanhua_gao_xiang",
+  "name": "高翔",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料各书终局经历",
+    "canonical_endpoint": "后期仍任警务要职，与木兰花在50结婚，伤后恢复并继续办案；没有死亡或离职终局。",
+    "deployment": "保留终局经历；以最后已证实的可行动状态登场，未随身拥有原文未说明的器材。"
+  },
+  "positive": {
+    "physical": 3,
+    "energy": 0,
+    "scope": 2,
+    "sustain": 3,
+    "range": 3,
+    "combat": 7
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "训练近战与枪械局部毁伤，不具超人抗击。",
+    "energy": "无独立能量攻击。",
+    "scope": "小爆炸物可局部作用，警方覆盖不当物理范围。",
+    "sustain": "训练体能支持连续任务，但伤病与疲劳真实存在。",
+    "range": "枪械及已携器械支持远距，载具火力另需部署。",
+    "combat": "多次脱困、配合、诱捕和应急射击，保留误判失败。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "无另行证实且应重复扣分的能力性自限；普通人能力低已计入正向分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "未把一般生存环境需求另算特殊限制。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "无证据表明拥有随机失控的主动战斗能力。"
+    }
+  },
+  "positive_total": 29.5,
+  "deduction_total": 0.0,
+  "raw_score": 29.5,
+  "rounded_score": 30,
+  "numeric_tier": "强",
+  "concept_level": 0,
+  "concept_reason": "原文未显示改写世界规则或叙事层的可控权柄；异常事件与知情不等同概念干涉。",
+  "practical_tier": "强",
+  "theoretical_tier": "强",
+  "mastery": "不适用",
+  "final_tier": "强",
+  "display_tier": "强",
+  "controlled_ceiling": {
+    "description": "近战枪械、飞行与车辆操作、刑侦部署和小型特种工具；依赖真实器材。",
+    "tier": "强",
+    "uncontrolled": "未展示可归属于本人、可反复发动的额外不可控上限。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/01巧夺死光表.txt",
+      "start_line": 3206,
+      "end_line": 3222,
+      "supports": "骗局终局与转向",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/02黑龙现爪.txt",
+      "start_line": 10,
+      "end_line": 46,
+      "supports": "外观、飞行判断与行动",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/27钻石镭射.txt",
+      "start_line": 750,
+      "end_line": 770,
+      "supports": "旧情与东方王子",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/29潜艇迷宫.txt",
+      "start_line": 2428,
+      "end_line": 2496,
+      "supports": "潜艇攻击、误认木死与情绪崩溃",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/30玻璃伪钞模.txt",
+      "start_line": 1104,
+      "end_line": 1166,
+      "supports": "受伤后的克制和组织",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/35蜘蛛陷阱.txt",
+      "start_line": 2432,
+      "end_line": 2446,
+      "supports": "远置电筒诱敌耗弹",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/36无敌凶手.txt",
+      "start_line": 614,
+      "end_line": 698,
+      "supports": "鞋底双刀与火力窗口",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/39失踪新娘.txt",
+      "start_line": 816,
+      "end_line": 842,
+      "supports": "逼问何保",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/39失踪新娘.txt",
+      "start_line": 1156,
+      "end_line": 1268,
+      "supports": "钮弹、肩伤和返岗",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/46死神殿.txt",
+      "start_line": 2416,
+      "end_line": 2562,
+      "supports": "烙铁假印与布警诱捕",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "start_line": 1764,
+      "end_line": 1770,
+      "supports": "误认陈宝明",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "start_line": 2618,
+      "end_line": 2648,
+      "supports": "让氧被麻",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/50蜜月奇遇.txt",
+      "start_line": 2,
+      "end_line": 16,
+      "supports": "结婚",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/50蜜月奇遇.txt",
+      "start_line": 1044,
+      "end_line": 1082,
+      "supports": "床单救木",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/57生命合同.txt",
+      "start_line": 2232,
+      "end_line": 2242,
+      "supports": "承担处分救人",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

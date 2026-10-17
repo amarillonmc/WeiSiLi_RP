@@ -1,0 +1,105 @@
+{
+  "id": "mulanhua_alpha",
+  "name": "阿尔法博士",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本批原文剧情结束后的经历与认知",
+    "canonical_endpoint": "集团总部与海底供能设施被毁，空中基地陆续失电坠落；阿尔法个人生死未单独确认。",
+    "deployment": "保留终局经历；以最后已证实的可行动状态登场，未随身拥有原文未说明的器材。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 0,
+    "sustain": 1,
+    "range": 0,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "被木兰花轻易制住，个人没有超人肉身。",
+    "energy": "科技供能依靠已毁设施，并非身体产生能量。",
+    "scope": "终局按个人作用范围，未把集团全球计划计成个人攻击。",
+    "sustain": "普通身体，科研需要外部设施；无无限供能。",
+    "range": "个人手枪已被抛海，不默认补发。",
+    "combat": "能利用探测器与接应翻盘，但近身明显不及木兰花。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "无另行证实且应重复扣分的能力性自限；普通人能力低已计入正向分。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "未把一般生存环境需求另算特殊限制。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "无证据表明拥有随机失控的主动战斗能力。"
+    }
+  },
+  "positive_total": 5.0,
+  "deduction_total": 0.0,
+  "raw_score": 5.0,
+  "rounded_score": 5,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "原文未显示改写世界规则或叙事层的可控权柄；异常事件与知情不等同概念干涉。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "多学科研究、热探测器改进及科技组织规划；个人普通肉身，终局无完整供能网络。",
+    "tier": "纸",
+    "uncontrolled": "未展示可归属于本人、可反复发动的额外不可控上限。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "木兰花全集/06超人集团.txt",
+      "start_line": 902,
+      "end_line": 984,
+      "supports": "被俘、武器被弃及身体局限",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/06超人集团.txt",
+      "start_line": 1034,
+      "end_line": 1108,
+      "supports": "热探测救援与首领身份",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/06超人集团.txt",
+      "start_line": 1122,
+      "end_line": 1150,
+      "supports": "未完成火箭、强制招募与无线供能",
+      "kind": "原文"
+    },
+    {
+      "path": "木兰花全集/06超人集团.txt",
+      "start_line": 2346,
+      "end_line": 2358,
+      "supports": "总部毁灭与平台失电",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "个人生死没有独立确认；集团大部分成员尚存不能证明他本人一定生还。"
+  ]
+}

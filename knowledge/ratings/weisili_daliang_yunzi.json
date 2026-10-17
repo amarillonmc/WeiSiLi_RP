@@ -1,0 +1,103 @@
+{
+  "id": "weisili_daliang_yunzi",
+  "name": "大良云子（本体）",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "在疗养机构中持续精神失常，由奈可耐心陪伴；未写恢复。",
+    "deployment": "原作终局未康复；若需要稳定互动，以恢复基本交流为明确改编，保留创伤和照护需要。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 1,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "以实际人体条件计",
+    "energy": "未证实主动能量攻击",
+    "scope": "个体与身边环境",
+    "sustain": "人类体力和休息",
+    "range": "手边工具与沟通距离",
+    "combat": "按该人物实际行动经验计"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "能力的已知边界：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "场景条件：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：先寻求安全与熟悉者的陪伴。"
+    }
+  },
+  "positive_total": 10.5,
+  "deduction_total": 3.0,
+  "raw_score": 7.5,
+  "rounded_score": 8,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "日常交往、记忆所见与在熟悉关系中表达需求。；依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。",
+    "tier": "纸",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/052连锁.txt",
+      "start_line": 1924,
+      "end_line": 1937,
+      "supports": "本体听见复制体委托",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/052连锁.txt",
+      "start_line": 2230,
+      "end_line": 2308,
+      "supports": "枪战冲击",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/052连锁.txt",
+      "start_line": 2393,
+      "end_line": 2396,
+      "supports": "身份混乱",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/52愿望猴神.txt",
+      "start_line": 2985,
+      "end_line": 2985,
+      "supports": "终局",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

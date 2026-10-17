@@ -1,0 +1,108 @@
+[
+  {
+    "path": "原振侠系列/04.海异.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查者"
+      },
+      {
+        "name": "黄绢",
+        "card_id": "yuanzhenxia_huang_juan",
+        "role": "重要角色",
+        "basis": "政治委托"
+      },
+      {
+        "name": "苏耀东",
+        "card_id": "yuanzhenxia_su_yaodong",
+        "role": "重要配角",
+        "basis": "现场参与并支持研究"
+      },
+      {
+        "name": "温谷",
+        "card_id": "yuanzhenxia_wengu",
+        "role": "重要配角",
+        "basis": "实际后续联络"
+      },
+      {
+        "name": "李邦殊",
+        "card_id": "yuanzhenxia_li_bangshu",
+        "role": "单书主角",
+        "basis": "本书主要行动线"
+      },
+      {
+        "name": "白恩",
+        "card_id": "yuanzhenxia_bai_en",
+        "role": "单书主角",
+        "basis": "本书主要行动线"
+      },
+      {
+        "name": "海异智慧微生物群",
+        "card_id": "yuanzhenxia_marine_microbes",
+        "role": "阶段性对立者（集体）",
+        "basis": "本书主要行动线"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "乔丝、玛姬、雷亭、哈逊等",
+        "reason": "单书证人、受害者或委托辅助人物"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "path": "原振侠系列/05.宝狐.txt",
+    "status": "reviewed",
+    "included": [
+      {
+        "name": "原振侠",
+        "card_id": "yuanzhenxia_yuanzhenxia",
+        "role": "主角",
+        "basis": "调查者"
+      },
+      {
+        "name": "苏耀西",
+        "card_id": "yuanzhenxia_su_yaoxi",
+        "role": "重要配角",
+        "basis": "交往引介"
+      },
+      {
+        "name": "冷自泉",
+        "card_id": "yuanzhenxia_leng_ziquan",
+        "role": "单书主角",
+        "basis": "本书主要人物或追捕方"
+      },
+      {
+        "name": "宝狐",
+        "card_id": "yuanzhenxia_baohu",
+        "role": "单书主角",
+        "basis": "本书主要人物或追捕方"
+      },
+      {
+        "name": "刘由",
+        "card_id": "yuanzhenxia_liu_you",
+        "role": "单书主角（开篇视角）",
+        "basis": "本书主要人物或追捕方"
+      },
+      {
+        "name": "宝狐的同类追捕者",
+        "card_id": "yuanzhenxia_baohu_pursuers",
+        "role": "阶段性对立者（集体）",
+        "basis": "本书主要人物或追捕方"
+      }
+    ],
+    "excluded": [
+      {
+        "name": "鲁柱、冷二及家族长辈",
+        "reason": "单书家族或侍从配角"
+      }
+    ],
+    "notes": [
+      "冷自泉与宝狐相聚没有实证，不将死亡当作可复现空间转移术。"
+    ]
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "id": "yuanzhenxia_baohu",
+  "name": "宝狐",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "重新联系原振侠促成冷自泉最后选择；两人是否实际相聚未获确定证实。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 4,
+    "scope": 2,
+    "sustain": 5,
+    "range": 3,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "无固定肉身攻击",
+    "energy": "感知和能量运用",
+    "scope": "针对少数关联对象",
+    "sustain": "无形生命持续存在",
+    "range": "依感应与环境",
+    "combat": "避让强于正面战斗"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "能力的已知边界：显现随对象感知而异；不能由美人外形推定普遍控制欲望，保护机制依赖同类伦理约束。"
+    },
+    "environment": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "场景条件：显现随对象感知而异；不能由美人外形推定普遍控制欲望，保护机制依赖同类伦理约束。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "临场情绪与选择：先保护关联者，不能无限将无辜者当挡箭牌。"
+    }
+  },
+  "positive_total": 29.0,
+  "deduction_total": 6.0,
+  "raw_score": 23.0,
+  "rounded_score": 23,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "利用环境能量及脑活动形成对特定对象可见的形象，并干预寻找路径与感知。；显现随对象感知而异；不能由美人外形推定普遍控制欲望，保护机制依赖同类伦理约束。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/05.宝狐.txt",
+      "start_line": 2497,
+      "end_line": 2506,
+      "supports": "外观形成与欲望",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/05.宝狐.txt",
+      "start_line": 3119,
+      "end_line": 3178,
+      "supports": "无形生命、能量、追捕与伦理",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/05.宝狐.txt",
+      "start_line": 3249,
+      "end_line": 3333,
+      "supports": "相聚条件及未知结尾",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

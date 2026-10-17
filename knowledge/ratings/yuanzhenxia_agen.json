@@ -1,0 +1,103 @@
+{
+  "id": "yuanzhenxia_agen",
+  "name": "阿根",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "继续作为魔王在人间的联络执行者，见证并解释洪致生与林雅儿的新交易。",
+    "deployment": "使用终局认知与最后稳定形态；外援须取得同意，现场没有的装备不能凭空调用。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 3,
+    "range": 3,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "以实际人体条件计",
+    "energy": "未证实主动能量攻击",
+    "scope": "个体与身边环境",
+    "sustain": "人类体力和休息",
+    "range": "手边工具与沟通距离",
+    "combat": "按该人物实际行动经验计"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "能力的已知边界：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "场景条件：依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。"
+    },
+    "volatility": {
+      "score": 1,
+      "reason": "临场情绪与选择：不能自动信任其动机，行动须说明自己可决定的部分。"
+    }
+  },
+  "positive_total": 18.5,
+  "deduction_total": 3.0,
+  "raw_score": 15.5,
+  "rounded_score": 16,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "秘密联络、交通安排、对魔王交易规则的实际熟悉。；依靠人的身体、已掌握的知识和现场资源；没有证实的能力不能由经历推导。",
+    "tier": "并",
+    "uncontrolled": "故事中的偶发实验或其他角色施展的效果均不算可主动调用；没有证实超出所列上限的独立权能。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "原振侠系列/10.魔女.txt",
+      "start_line": 2512,
+      "end_line": 2552,
+      "supports": "跟班与执行控制",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/10.魔女.txt",
+      "start_line": 3827,
+      "end_line": 3845,
+      "supports": "联络中的隐瞒",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/10.魔女.txt",
+      "start_line": 3880,
+      "end_line": 3934,
+      "supports": "能力边界与畏惧",
+      "kind": "原文"
+    },
+    {
+      "path": "原振侠系列/10.魔女.txt",
+      "start_line": 4154,
+      "end_line": 4156,
+      "supports": "终局辩解",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

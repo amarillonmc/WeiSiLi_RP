@@ -1,0 +1,103 @@
+{
+  "id": "weisili_xiong_qinyu",
+  "name": "熊勤鱼",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "求玉失败后事业公开溃败，未再与卫斯理见面。",
+    "deployment": "采用正文最后稳定可独立行动形态，保留已确认经历；不自动携带朋友的科技或组织全部资源。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 0,
+    "sustain": 1,
+    "range": 1,
+    "combat": 1
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "资金危机已实际存在，不能按旧豪富声名提供无限财富；奇玉没有已证实的招财魔力。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "挽救事业和家族体面，摆脱别人已经看出的衰败。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "资金危机已实际存在，不能按旧豪富声名提供无限财富；奇玉没有已证实的招财魔力。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 6.5,
+  "deduction_total": 2.0,
+  "raw_score": 4.5,
+  "rounded_score": 5,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "纸",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/008奇玉.txt",
+      "start_line": 30,
+      "end_line": 40,
+      "supports": "声名及委托",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/008奇玉.txt",
+      "start_line": 82,
+      "end_line": 125,
+      "supports": "财务危机、信用计划和报酬",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/008奇玉.txt",
+      "start_line": 1193,
+      "end_line": 1196,
+      "supports": "遗言误听",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/008奇玉.txt",
+      "start_line": 1520,
+      "end_line": 1527,
+      "supports": "败落终局",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": []
+}

@@ -1,0 +1,112 @@
+{
+  "id": "weisili_suffering_voice_woman",
+  "name": "掌管苦难之声的女郎",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合本语料终局经历，保留人物变化与不确定项",
+    "canonical_endpoint": "《极刑》先行停办苦难声音展示，与米端离地，未与白奇伟建立持续关系",
+    "deployment": "《极刑》先行停办苦难声音展示，与米端离地，未与白奇伟建立持续关系。仅携带卡中明确列出的随身装备；朋友、机构与失去的装置均需另行取得支持。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 7,
+    "scope": 5,
+    "sustain": 6,
+    "range": 8,
+    "combat": 4
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "广域声音和跨空间显现得到确认，精神负担与自愿停办限制持续发挥；无强制改造人性或绝对魅惑。；该项仅评价本卡机制在对应维度上的作用。",
+    "energy": "广域声音和跨空间显现得到确认，精神负担与自愿停办限制持续发挥；无强制改造人性或绝对魅惑。；该项仅评价本卡机制在对应维度上的作用。",
+    "scope": "广域声音和跨空间显现得到确认，精神负担与自愿停办限制持续发挥；无强制改造人性或绝对魅惑。；该项仅评价本卡机制在对应维度上的作用。",
+    "sustain": "广域声音和跨空间显现得到确认，精神负担与自愿停办限制持续发挥；无强制改造人性或绝对魅惑。；该项仅评价本卡机制在对应维度上的作用。",
+    "range": "广域声音和跨空间显现得到确认，精神负担与自愿停办限制持续发挥；无强制改造人性或绝对魅惑。；该项仅评价本卡机制在对应维度上的作用。",
+    "combat": "广域声音和跨空间显现得到确认，精神负担与自愿停办限制持续发挥；无强制改造人性或绝对魅惑。；该项仅评价本卡机制在对应维度上的作用。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 2,
+      "af": 1.0,
+      "reason": "受到自身身体、知识与本人选择边界限制，见七维和行为逻辑。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "须有可操作的现场、器材与接触条件，不自动调用整个关系网。"
+    },
+    "volatility": {
+      "score": 2,
+      "reason": "陌生规则、信息缺口和身体伤害会影响发挥。"
+    }
+  },
+  "positive_total": 52.0,
+  "deduction_total": 5.0,
+  "raw_score": 47.0,
+  "rounded_score": 47,
+  "numeric_tier": "狂",
+  "concept_level": 0,
+  "concept_reason": "未证实独立的概念权柄；科学知识、意志与特殊经历本身不构成概念干涉。",
+  "practical_tier": "狂",
+  "theoretical_tier": "狂",
+  "mastery": "完全掌握",
+  "final_tier": "狂",
+  "display_tier": "狂",
+  "controlled_ceiling": {
+    "description": "在本卡列明条件下使用已证实的本领；历史上失去的设备不计常驻。",
+    "tier": "狂",
+    "uncontrolled": "若正文存在未能自行复现的事件，须作为经历而非必定可发动的能力。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/067极刑.txt",
+      "start_line": 1680,
+      "end_line": 1728,
+      "supports": "白奇伟所闻与区域影响",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/067极刑.txt",
+      "start_line": 3134,
+      "end_line": 3173,
+      "supports": "现形与先行退出",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/067极刑.txt",
+      "start_line": 3200,
+      "end_line": 3225,
+      "supports": "声像分工及精神代价",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/067极刑.txt",
+      "start_line": 3261,
+      "end_line": 3278,
+      "supports": "形体适应与离去",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/067极刑.txt",
+      "start_line": 3289,
+      "end_line": 3303,
+      "supports": "白奇伟单方面相思",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "数值评级为项目分析，原文没有相应战斗数值。"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "weisili_gan_mu",
+  "name": "甘木",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "综合终局经历",
+    "canonical_endpoint": "海底大会危机中控制张小龙，随后属于被研究产物毁灭的总部骨干；无逃脱记录。",
+    "deployment": "原作终局已经死亡或失去可行动形态；参战用最后清醒行动形态，保留终局经历，仅作为明确的角色扮演恢复，不宣称原作复活。"
+  },
+  "positive": {
+    "physical": 1,
+    "energy": 0,
+    "scope": 1,
+    "sustain": 2,
+    "range": 2,
+    "combat": 3
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "徒手只能伤害普通人或处理轻小物件，未显示大范围破坏。 常人血肉；不能据其声望推定抗枪弹、极温、电击或腐蚀。",
+    "energy": "没有独立的能量投射能力。",
+    "scope": "按本人能直接落实的作用范围计；组织、人脉和财富不等于物理覆盖。",
+    "sustain": "可完成其专长范围内活动，仍需休息；无无限续航证据。",
+    "range": "依赖既有基地与下属；仍受最高首脑控制，未显示个人超能力或独立掌握全部科技。",
+    "combat": "依据自身专长选择逃离、求助或有限反击，不凭故事地位获得制胜知识。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "借新的技术统治恢复旧军事理想，把个人能力安排进等级秩序。"
+    },
+    "environment": {
+      "score": 1,
+      "af": 1.0,
+      "reason": "依赖既有基地与下属；仍受最高首脑控制，未显示个人超能力或独立掌握全部科技。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "不确定性见能力条件与原文结局；不添加无证据的随机失控。"
+    }
+  },
+  "positive_total": 15.0,
+  "deduction_total": 2.0,
+  "raw_score": 13.0,
+  "rounded_score": 13,
+  "numeric_tier": "并",
+  "concept_level": 0,
+  "concept_reason": "所示属于生物、技能或有限科技机制；没有改写抽象规则的权柄。",
+  "practical_tier": "并",
+  "theoretical_tier": "并",
+  "mastery": "不适用",
+  "final_tier": "并",
+  "display_tier": "并",
+  "controlled_ceiling": {
+    "description": "以卡内明确机制与必要资源可控使用为上限，不叠加推测能力。",
+    "tier": "并",
+    "uncontrolled": "无已确认的额外不可控战斗形态。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/003妖火.txt",
+      "start_line": 2993,
+      "end_line": 2996,
+      "supports": "私人秘书位置",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/003妖火.txt",
+      "start_line": 3018,
+      "end_line": 3080,
+      "supports": "身份、监控和威逼招募",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/003妖火.txt",
+      "start_line": 5124,
+      "end_line": 5153,
+      "supports": "大会反应",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/003妖火.txt",
+      "start_line": 6043,
+      "end_line": 6080,
+      "supports": "总部毁灭",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "真名未揭露，不与现实历史人物强制合并。"
+  ]
+}

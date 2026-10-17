@@ -1,0 +1,112 @@
+{
+  "id": "weisili_wanju_robots",
+  "name": "《玩具》的机械执行体",
+  "standard_version": "nk-cards-1.0",
+  "standard_url": "https://number81.xyz/index.php?topic=1067.0",
+  "standard_section": "通用评估标准",
+  "assessment_basis": {
+    "basis": "本语料中的完整故事经过与后续明确出场；不将被提及等同于登场。",
+    "canonical_endpoint": "《圈套》两枚小机械人失能并被轻易破坏，原控制系统已不能提供昔日功能。",
+    "deployment": "默认保留终局失能状态，旧能力仅为历史档案；若故事需要有效设备，须明确声明修复这一改编条件。"
+  },
+  "positive": {
+    "physical": 0,
+    "energy": 0,
+    "scope": 0,
+    "sustain": 0,
+    "range": 0,
+    "combat": 0
+  },
+  "positive_weights": {
+    "physical": 1.5,
+    "energy": 1.5,
+    "scope": 2,
+    "sustain": 2,
+    "range": 1.5,
+    "combat": 1.5
+  },
+  "positive_reasons": {
+    "physical": "终局失能并解体，不能实际实施昔日功能。",
+    "energy": "终局失能并解体，不能实际实施昔日功能。",
+    "scope": "终局失能并解体，不能实际实施昔日功能。",
+    "sustain": "终局失能并解体，不能实际实施昔日功能。",
+    "range": "终局失能并解体，不能实际实施昔日功能。",
+    "combat": "终局失能并解体，不能实际实施昔日功能。"
+  },
+  "negative": {
+    "self_limit": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "失能已计入六项正面维度，不重复扣除。"
+    },
+    "environment": {
+      "score": 0,
+      "af": 1.0,
+      "reason": "失能已计入六项正面维度，不重复扣除。"
+    },
+    "volatility": {
+      "score": 0,
+      "reason": "失能已计入六项正面维度，不重复扣除。"
+    }
+  },
+  "positive_total": 0.0,
+  "deduction_total": 0.0,
+  "raw_score": 0.0,
+  "rounded_score": 0,
+  "numeric_tier": "纸",
+  "concept_level": 0,
+  "concept_reason": "所列能力作用于身体、信息或特定装置；没有任意改写抽象概念或叙事层的可靠证据。",
+  "practical_tier": "纸",
+  "theoretical_tier": "纸",
+  "mastery": "不适用",
+  "final_tier": "纸",
+  "display_tier": "纸",
+  "controlled_ceiling": {
+    "description": "默认终局失能，无当前可控上限。历史光线、飞行和设施功能仅在明确修复改编中另行评估。",
+    "tier": "纸",
+    "uncontrolled": "没有证据表明危急时能够自行恢复旧系统。"
+  },
+  "confidence": "medium",
+  "rounding_policy": "原帖分段使用整数，公式可产生小数；项目保留原始分数，四舍五入至整数后分段，不悄悄改动权重。",
+  "analysis_notice": "本项目基于小说文本的分析值，非原作官方数值；外援、一次性经历与常态能力分开。",
+  "evidence": [
+    {
+      "path": "卫斯理系列/051玩具.txt",
+      "start_line": 2590,
+      "end_line": 2656,
+      "supports": "捕获检查",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/051玩具.txt",
+      "start_line": 3330,
+      "end_line": 3418,
+      "supports": "群体历史及能力转述",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/051玩具.txt",
+      "start_line": 3830,
+      "end_line": 3898,
+      "supports": "游戏解释与范围不明",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 2344,
+      "end_line": 2394,
+      "supports": "失能与脆弱",
+      "kind": "原文"
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 2463,
+      "end_line": 2467,
+      "supports": "小石破坏",
+      "kind": "原文"
+    }
+  ],
+  "uncertainties": [
+    "全球环境变化和瞬间大规模杀伤由老人转述；个别执行体未逐一展示全部功能。"
+  ]
+}
