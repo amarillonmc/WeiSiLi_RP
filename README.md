@@ -1,2 +1,67 @@
 # WeiSiLi_RP
 
+基于倪匡小说建设可供其他项目调用的知识库。目前完成原始语料的转码与正文清理，尚未进行知识抽取或建立索引。
+
+## 2026-10-17 语料清理
+
+正文目录：`C:\Users\mapodoufu\Downloads\NK_Source`。
+
+- 原有 345 个 TXT 和 1 张 JPG；现在保留 336 个正文 TXT，统一为 UTF-8、无 BOM、LF 换行。
+- 9 个独立序言/整合说明和 1 张人物关系图移出正文目录，保存在备份区。
+- 清除作者出版序跋、整合者和网友说明、目录、网页 CSS 与导航、广告、水印、论坛信息、扫描署名、装饰线、空字符和冗余空白。
+- 保留书名、章节标题、原文措辞和换行，以及故事内的序言、楔子、后记和世界观介绍。例如《困兽》的序言、《头发》《神仙》的叙事后记、《双程》的人物来信，以及《非人协会》的背景介绍。
+- 10 个文件存在误粘贴的重复正文，已逐段核对清除。《蛇神》现在按 01–10 章排列，每章保留一次。
+- 共减少 2,190,284 个字符，包含空白及重复内容；这不是实测 Token 数。UTF-8 每个汉字通常比原 GBK 编码占更多字节，文件字节总量不能直接用于比较 Token 消耗。
+
+清理摘要及质量问题清单：[reports/nk_source_cleanup_20261017.json](reports/nk_source_cleanup_20261017.json)。逐文件审核边界及原始 SHA-256：[data/nk_source_review.json](data/nk_source_review.json)。
+
+## 尚待校勘的原始问题
+
+以下问题原本就在源文件中，本次没有猜测或补写正文：
+
+| 文件 | 无法按 GB18030 解码的原始字节数 |
+| --- | ---: |
+| 卫斯理系列/133异种人生.txt | 65 |
+| 卫斯理系列/135闭关开关.txt | 63 |
+| 卫斯理系列/138财神宝库.txt | 1 |
+| 原振侠系列/03.血咒.txt | 14 |
+
+这些字节在 UTF-8 文本中用 `U+FFFD`（�）显式标记。详细报告记录原始字节位置和十六进制值，原始字节仍在 ZIP 备份中。另有 32 个文件保留了无法可靠判定的私用字符，可能来自旧字体映射或既有乱码，质量报告列出文件和码位，详细报告还记录其所在行。转成合法 UTF-8 不等于已经完成 OCR 校勘。
+
+`年轻人/13神话世界.txt` 原文注明缺一页；已移除求补文字，没有补写缺页。`浪子高达系列/蛇王石.txt` 原始帖子标注“1-9”和“待续”，完整性需要另行核实。`浪子高达系列/学美人.txt` 的正文题名为《血美人》，文件名暂予保留。
+
+## 备份、检查与恢复
+
+本次运行目录为 `.local/nk-cleanup-20261017/`，已通过 `.gitignore` 排除，避免原文和备份进入 Git：
+
+| 路径 | 内容 |
+| --- | --- |
+| `originals.zip` | 346 个文件的逐字节原始备份，已校验 SHA-256 |
+| `excluded/` | 移出的非正文材料；其中 TXT 也已转为 UTF-8 |
+| `preview/` | 与写回正文一致的清理结果 |
+| `report.json` | 每个文件的哈希、字符数、清理规则和编码异常 |
+| `removals.jsonl` | 被移除或替换的文字、原始行号及原因 |
+| `source_verification.json` | 对写回目录进行全量校验的结果 |
+
+需要 Python 3.12 或更新版本，仅使用标准库。当前环境可使用桌面应用自带的 Python：
+
+```powershell
+$nkPython = 'C:\Users\mapodoufu\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe'
+
+# 校验所有正文的哈希、UTF-8、换行、残留网站标识与关键叙事章节。
+& $nkPython -X utf8 tools/verify_nk_source.py --run .local/nk-cleanup-20261017
+
+# 测试正文保留、导航清除、乱码记录、备份恢复和覆盖保护。
+& $nkPython -X utf8 -m unittest discover -s tests -v
+
+# 需要撤销时，恢复 346 个原始文件的原始字节。
+& $nkPython -X utf8 tools/clean_nk_source.py restore --run .local/nk-cleanup-20261017
+
+# 需要重新应用本次已审核结果时。
+& $nkPython -X utf8 tools/clean_nk_source.py apply --run .local/nk-cleanup-20261017
+```
+
+应用和恢复都会先核对整批文件及备份的 SHA-256；文件若被另行修改，会拒绝覆盖。`clean_nk_source.py prepare` 仅适用于审核清单对应的原始快照，不应拿已转码文件再次尝试 GB18030 解码，也不是未经审核即可处理其他语料的通用删除规则。
+
+本次验证：13 项测试通过，336 个正文文件的严格 UTF-8 解码、无 BOM、LF 换行与哈希校验均通过；已知网站标识残留为 0。
+

@@ -1,0 +1,1955 @@
+{
+  "version": 1,
+  "policy": "仅移除已确认的作者出版序跋、整合者说明、网站/论坛杂项及装饰；保留章节、叙事引言、故事内后记；保留原文措辞和段落换行。行号为原始文本转为 LF 后的一基行号。",
+  "preserved_story_sections": [
+    "亚洲之鹰罗开系列/13困兽.txt：序言",
+    "非人协会系列/01非人协会 序.txt：17 行起世界观介绍",
+    "卫斯理系列/058茫点.txt：五段楔子",
+    "卫斯理系列/059神仙.txt：故事内后记",
+    "卫斯理系列/064命运.txt：包含人物对话的前言",
+    "卫斯理系列/081错手.txt：23 行起叙事引言",
+    "卫斯理系列/117双程.txt：故事人物来信后记",
+    "原振侠系列/02.迷路.txt：楔子",
+    "原振侠系列/25.黑白无常.txt：叙事前言",
+    "原振侠系列/27.假太阳.txt：叙事前言"
+  ],
+  "files": [
+    {
+      "path": "亚洲之鹰罗开系列/000整合者序.txt",
+      "sha256": "7dfc4a981b069d6f63b398a34e72b1d05836169c7eeb0882a1e52810fdb2b753",
+      "exclude": "整合者说明，无小说正文"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+      "sha256": "38dd420ff6bff5803bb2ddd0082d7f972173354713894c6fd1a0784fe8d5c2e4",
+      "end_line": 1002
+    },
+    {
+      "path": "亚洲之鹰罗开系列/02妖偶.txt",
+      "sha256": "510d24fb21e87f7c109f78eec82fee89096d4bb4ae068d8b0f036282b9c603af",
+      "end_line": 1673
+    },
+    {
+      "path": "亚洲之鹰罗开系列/03魔像.txt",
+      "sha256": "bafed905fddc540582d3a19e030e465c1bfcc658560365a0c682b2e0245a88c8",
+      "end_line": 1688
+    },
+    {
+      "path": "亚洲之鹰罗开系列/04怪头.txt",
+      "sha256": "fd81649e4d3bb0498dd6d1ff0e6dea488b8e9674eab56e0042b3b3c324be429d"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/05巨龙.txt",
+      "sha256": "455d0f793bb5d4c4f95cf40298c8f9f1acf49f4ce5227e38a59c5113b83f1d65"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/06蛇神.txt",
+      "sha256": "3a17561f0bbbb37923b981a05a8191b9cd9f2d403f7cc4b016d1b676ce29c066",
+      "remove_ranges": [
+        [
+          931,
+          1241
+        ],
+        [
+          1928,
+          3230
+        ]
+      ],
+      "change_notes": [
+        "清除逐字核对一致的重复章节；保留原始第一套 01–10 章。"
+      ],
+      "end_line": 2988
+    },
+    {
+      "path": "亚洲之鹰罗开系列/07蜂后.txt",
+      "sha256": "381f86fa5a8a057a5f82ff37fa1ae4ad4ef66419560bb8f0bda11626be65b56b",
+      "end_line": 1322
+    },
+    {
+      "path": "亚洲之鹰罗开系列/08火凤.txt",
+      "sha256": "24e22b6958e517b44ef33446e94f6fdc0b8b86130174ca5f81b37f1e8105a9fe",
+      "end_line": 1447
+    },
+    {
+      "path": "亚洲之鹰罗开系列/09夜光.txt",
+      "sha256": "a08a09e1f27b0861c336b50e515c659f4968077510defe2631aa89f123fc069b",
+      "end_line": 1423
+    },
+    {
+      "path": "亚洲之鹰罗开系列/10异人.txt",
+      "sha256": "9ca37137386ef1f1298fe64fb45db538d418428e61fc8ec8674543283b4f182f"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/11死结.txt",
+      "sha256": "df6033d3636106de108b650d3a335626e4dbeb6e911b5b34b98b2b7ab67a0ccb"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/12解开死结.txt",
+      "sha256": "f9420f301b999eb6d926bfe76e8de2fc11b15ef26de1fea125bf0113db73bd9c"
+    },
+    {
+      "path": "亚洲之鹰罗开系列/13困兽.txt",
+      "sha256": "e763834854de399a02838e11c6038c9aefe140123d13017f88d16002ea8ddcda",
+      "end_line": 1183
+    },
+    {
+      "path": "亚洲之鹰罗开系列/14游魂.txt",
+      "sha256": "d6a6153561e4ef7fd5136e118809e62a23c9e381ab4614b96afc7c09a83946dc",
+      "end_line": 1578
+    },
+    {
+      "path": "亚洲之鹰罗开系列/15飞焰.txt",
+      "sha256": "9471d549fb66c36b649cdd01f90892adc2f204acdc1e14181e9666f8018a279f",
+      "end_line": 1426
+    },
+    {
+      "path": "倪匡之鬼话系列/不祥之兆.txt",
+      "sha256": "4955074c533438ba601ded1b901531d8057726375be6fb528c02a5f5269eb473",
+      "remove_ranges": [
+        [
+          12,
+          12
+        ]
+      ]
+    },
+    {
+      "path": "倪匡之鬼话系列/不要问我从那里来.txt",
+      "sha256": "cc39cb4a17afda80b5ea27f724bd5c164330eca6c4f8746333571f407cd21b71",
+      "remove_ranges": [
+        [
+          12,
+          12
+        ]
+      ]
+    },
+    {
+      "path": "倪匡之鬼话系列/先生，别打尖.txt",
+      "sha256": "e6c45482e44c085af38869d45323a420cfb667d4612387df4ee5061395e21041"
+    },
+    {
+      "path": "倪匡之鬼话系列/寻人.txt",
+      "sha256": "74a764ea3c0f9670fa4b8a4ca2da625372a4225a1d0c3d97c964c8f49ff2f210"
+    },
+    {
+      "path": "倪匡之鬼话系列/恒娘.txt",
+      "sha256": "87440755e68e2966c208bfd799a35e18017a2f32d34dc8c718d01e27ee604462"
+    },
+    {
+      "path": "倪匡之鬼话系列/房客.txt",
+      "sha256": "e027f9ba2fc001437c7b9ce0a716687c0491337ee50c2e27b410203191370f71"
+    },
+    {
+      "path": "倪匡之鬼话系列/择时剖腹.txt",
+      "sha256": "35e4c8d3c6cbd6e601a07d5216d8983709c322acbdc165d3f484fa6d506776a4",
+      "end_line": 91
+    },
+    {
+      "path": "倪匡之鬼话系列/搭电梯.txt",
+      "sha256": "7e90741cec6b989468cd753e752bf0fc072fe42ba232ae7a36c69893694415d6",
+      "remove_ranges": [
+        [
+          12,
+          12
+        ]
+      ]
+    },
+    {
+      "path": "倪匡之鬼话系列/放屁.txt",
+      "sha256": "64cc13984d0f4713c5d2a8ba8805d7f25973ec467b3d8f0fb416a720a48f2af8",
+      "remove_ranges": [
+        [
+          12,
+          14
+        ]
+      ],
+      "line_edits": [
+        {
+          "line": 16,
+          "keep_after": "以下就是故事全文：",
+          "reason": "reader_introduction"
+        }
+      ]
+    },
+    {
+      "path": "倪匡之鬼话系列/整合者序.txt",
+      "sha256": "f0f658609bc8b1cc6000f532bfc1d9b7a890477b975b021e7723906169dce850",
+      "exclude": "整合者说明，无小说正文"
+    },
+    {
+      "path": "倪匡之鬼话系列/明天我们怎么联络.txt",
+      "sha256": "d42b5bb726cbb46ff47a322046529bc2787ccb6a083d1bb84973ecaa038fc4cb",
+      "remove_ranges": [
+        [
+          12,
+          12
+        ]
+      ]
+    },
+    {
+      "path": "倪匡之鬼话系列/橘树.txt",
+      "sha256": "7685c5449369be22a7729d766892b34dd5a8dfdf7a81aad23cd9e7e4413b222d"
+    },
+    {
+      "path": "倪匡之鬼话系列/爱管闲事的司机.txt",
+      "sha256": "5c3882dd687b902045715e8b4d189203b94468cb372eada6978c13abe59a11fb",
+      "remove_ranges": [
+        [
+          12,
+          12
+        ]
+      ]
+    },
+    {
+      "path": "倪匡之鬼话系列/猫头鹰的眼睛.txt",
+      "sha256": "42dd5e80c2d91d4ed1c3b5a78843ae1cc6d9570362b2f6ae56992751bc7368b4",
+      "end_line": 99
+    },
+    {
+      "path": "倪匡之鬼话系列/衬衫.txt",
+      "sha256": "d97e1b7769e0040a8abde55cfb886f286f6ad347d60b1b31b093131560ce3fba",
+      "end_line": 79
+    },
+    {
+      "path": "倪匡之鬼话系列/选美记.txt",
+      "sha256": "ff13da8857a97f329af63f7a183a84b6ee0f1af2cd397f8ecd56d184fde788fd",
+      "remove_ranges": [
+        [
+          12,
+          12
+        ]
+      ],
+      "end_line": 252
+    },
+    {
+      "path": "倪匡之鬼话系列/陆判.txt",
+      "sha256": "4091000634a2a44b0000ef83b33a71812e4cdd022e5983ba848559576ebdc0e7"
+    },
+    {
+      "path": "倪匡之鬼话系列/顾客.txt",
+      "sha256": "615ee1b31f1d103e3bdbc11679e449c2dc6aca3986a738fdbe425017123d38f0",
+      "end_line": 91
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼停车场.txt",
+      "sha256": "b2b45f42e89843f9ebadb838f73353e6d1d53998e49256a3c1ce85469cf91e68",
+      "remove_ranges": [
+        [
+          12,
+          12
+        ]
+      ]
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼哭之一.txt",
+      "sha256": "dbf8b22663854b335e510fa40782b6f641343ebaa08f3011055bfcfc3b40974b",
+      "remove_ranges": [
+        [
+          12,
+          12
+        ]
+      ]
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼哭之二.txt",
+      "sha256": "19d858e7fae04384dfca421c66246a2d760f7f89dcd1317e197093bb7389fd9f",
+      "remove_ranges": [
+        [
+          12,
+          12
+        ]
+      ]
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼屋.txt",
+      "sha256": "8f0c38d67eefe6bf7f3044e90643516e339b245c316d99088b13912e4672911a",
+      "remove_ranges": [
+        [
+          12,
+          12
+        ]
+      ],
+      "end_line": 90
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼胎之一.txt",
+      "sha256": "a81581ae078582b9ed0c8b54db3b72e268e4183807665b851f11165253100845",
+      "remove_ranges": [
+        [
+          12,
+          12
+        ]
+      ]
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼胎之二.txt",
+      "sha256": "b29e77849207e211695184a7d8c391a1ee64e7f89124f3f96c6462917f9ba5a4",
+      "remove_ranges": [
+        [
+          12,
+          12
+        ]
+      ]
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼脑.txt",
+      "sha256": "b1eb5c31f129eb1550467373cb43a7a651d4531f6bb929b8973ed8a53c2b0121"
+    },
+    {
+      "path": "倪匡之鬼话系列/鸡蛋.txt",
+      "sha256": "e46afd284de50c448a4fdf004f34d64ac40ed70c715f91837f5ad257f185d865",
+      "end_line": 73
+    },
+    {
+      "path": "卫斯理系列/000整合者序.txt",
+      "sha256": "1c78efe62f43e2d016b4163fbad954a7e2f0283b3367625f3f9b3d799acc0d2d",
+      "exclude": "整合者说明，无小说正文"
+    },
+    {
+      "path": "卫斯理系列/001钻石花 .txt",
+      "sha256": "20173cc503509360a669eca9b567c6e9297f5f2cf63a18788a3cd116e5a06a9c",
+      "start_line": 23,
+      "end_line": 4296
+    },
+    {
+      "path": "卫斯理系列/002卫斯理与白素.txt",
+      "sha256": "dd6b1066492992dbe2760fdb33323316a9f1130086be7a55aaaed7398911c87e",
+      "start_line": 9
+    },
+    {
+      "path": "卫斯理系列/002地底奇人.txt",
+      "sha256": "1a16e3cdf8e7ddf902f520f2bfec7fa8ce12c51134ddb12ad9ea0c86803eea91",
+      "end_line": 6987
+    },
+    {
+      "path": "卫斯理系列/003妖火.txt",
+      "sha256": "836c0f0c9c89d70a27e279e0a63fcac2c45c0d0c577e6eb322e6a311ae2c1b42",
+      "end_line": 6145
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "sha256": "376b41ea01c412a613caf95ec06a856539133bb3f79fc47640daf62240d92d22",
+      "end_line": 6702
+    },
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "sha256": "ccd34822864da1ca35fc0fc5a9f27aa2f8368bab0361b85bebb48f9886d8398a",
+      "end_line": 5346
+    },
+    {
+      "path": "卫斯理系列/006地心洪炉.txt",
+      "sha256": "1b6227aee0e25bcc5fe50c73684a4bc94afdd0b5d68aee1564cbb85a07fefe24",
+      "end_line": 3051
+    },
+    {
+      "path": "卫斯理系列/007蜂云.txt",
+      "sha256": "cf8aa8dac18d3d6ac8a2912bf3fbae2bb3b0b1398635809d01acbb5c95ff6133",
+      "end_line": 3845
+    },
+    {
+      "path": "卫斯理系列/008奇玉.txt",
+      "sha256": "abfe8a19574f72d1dd14bacf9d3e7b2521bae022bcac1fafb0c63cbd3db867ef",
+      "end_line": 1532
+    },
+    {
+      "path": "卫斯理系列/009原子空间.txt",
+      "sha256": "afbe0e3af22b09f1f8fc49400b88336d448dec50ddcca1d9136267add23eb663",
+      "end_line": 3325
+    },
+    {
+      "path": "卫斯理系列/010天外金球.txt",
+      "sha256": "6f3d2df3af25bc3f92f93411a81bbcbaa2edc31a237896df140949fa013bddcf",
+      "end_line": 2781
+    },
+    {
+      "path": "卫斯理系列/011支离人.txt",
+      "sha256": "e7faac5571bc43b617ad07f876b6cc70fb2401fd174cbe0ad6aba22ad81287db",
+      "start_line": 20,
+      "end_line": 4212
+    },
+    {
+      "path": "卫斯理系列/012不死药.txt",
+      "sha256": "5fc261af67776de3c2a0e90ef609e53f84f25648cd0548ca7afaa2c28e932a3f",
+      "end_line": 2996
+    },
+    {
+      "path": "卫斯理系列/013红月亮.txt",
+      "sha256": "b59d2d1557d96082f5d7d3a88a7860ae7f01d11c66a470ea35caf725b546319a",
+      "end_line": 3190
+    },
+    {
+      "path": "卫斯理系列/014换头记.txt",
+      "sha256": "efab34cf46bd6fda07475b47f05c77d1aa1b5c81b1a643a9a78a34994f8889e7",
+      "end_line": 2689
+    },
+    {
+      "path": "卫斯理系列/015蛊惑.txt",
+      "sha256": "ba86e59910ab244e49607cdbf603106f3d044b7484cc9d17da224ed81fadaa4d",
+      "end_line": 1948
+    },
+    {
+      "path": "卫斯理系列/016奇门.txt",
+      "sha256": "ea4ab84361964d960a2480d0aeb65c8273b59e161e03680d6c1764b431de02d5",
+      "end_line": 2892
+    },
+    {
+      "path": "卫斯理系列/017尸变.txt",
+      "sha256": "e1cc8ae8667150e41121c6835bf3089c9efb06a7724c4ffbce88fbdc7b60c1ec",
+      "end_line": 2026
+    },
+    {
+      "path": "卫斯理系列/018合成.txt",
+      "sha256": "b8bc9cd3c7dde5f82be76c42916f3081d10d85fa57bbf93bb9cc129935401f11",
+      "end_line": 1843
+    },
+    {
+      "path": "卫斯理系列/019笔友.txt",
+      "sha256": "2bbdf6af5024fcfbf6caa212bab3664bb65985e78b6605398ae7ee94cbb7f2ee",
+      "end_line": 1545
+    },
+    {
+      "path": "卫斯理系列/020丛林之神.txt",
+      "sha256": "f06b1593dda99d4cba3cb8f33bc132907ae4a92c16646bbe6d7f1a15d17fabb6",
+      "end_line": 1648
+    },
+    {
+      "path": "卫斯理系列/021再来一次.txt",
+      "sha256": "71a7021f50c5965e81da8c51e5efa7b6db368f8835f3cdd8c3da4065dfcd0997",
+      "end_line": 1689
+    },
+    {
+      "path": "卫斯理系列/022尽头.txt",
+      "sha256": "3f2bd7874b0537312a0df2461067ee263a63c3717d5ddf53e7cc7fb4857041e5",
+      "end_line": 1804
+    },
+    {
+      "path": "卫斯理系列/023湖水.txt",
+      "sha256": "15089d9c4d64d8d94c18a5e4fb528aab04adc5323e46c75842261291ee65fb2d",
+      "end_line": 968
+    },
+    {
+      "path": "卫斯理系列/024消失.txt",
+      "sha256": "32ebdced08d2d74343a7dbce47658f8244bbbf6e904e4bb07bbe23ae532d7348",
+      "end_line": 981
+    },
+    {
+      "path": "卫斯理系列/025影子.txt",
+      "sha256": "95670041ffbea5bc43b29835fbb939aa81f84ca87cde4a4e88a077fb3a71ff1c",
+      "end_line": 1665
+    },
+    {
+      "path": "卫斯理系列/026多了一个.txt",
+      "sha256": "40043a1ff3636fd28b2acb6625b5a793a052b00f96a3b6c1dc5323401b3640a8",
+      "end_line": 1375
+    },
+    {
+      "path": "卫斯理系列/027仙境.txt",
+      "sha256": "26b8327e21f17914eb7cb4db346002e3043ffa359b2e102ecd67635833e04f2f",
+      "end_line": 1918
+    },
+    {
+      "path": "卫斯理系列/028狐变.txt",
+      "sha256": "d02d6e1fd00180ca1a1d971315a984330b7c12e8ff94cf91bbf41a2ee5860843",
+      "end_line": 1769
+    },
+    {
+      "path": "卫斯理系列/029古声.txt",
+      "sha256": "7c3ddcdf8e2be5843df8e8f58b3bf3a598b9b3c5de728286e76d6d5730b582c4",
+      "end_line": 1104
+    },
+    {
+      "path": "卫斯理系列/030虚像.txt",
+      "sha256": "9d28b7724e2c345d5208e0f014ec1fe4a5ba55b2ab9e7104d8b2a722203fb03b",
+      "end_line": 1817
+    },
+    {
+      "path": "卫斯理系列/031访客.txt",
+      "sha256": "366b569ac6ea9d3811328e8fc6af778d389ac48a41ae4e08869fd86c1120e937",
+      "end_line": 1316
+    },
+    {
+      "path": "卫斯理系列/032风水.txt",
+      "sha256": "a6d86b578f756a3d66df69e8fe3088b8d7a5a5c8bebb08e864e585ad1ac4fae8",
+      "end_line": 1299
+    },
+    {
+      "path": "卫斯理系列/033环.txt",
+      "sha256": "da5dd7bdd4217e987e060b28e62ee0792796bfab6967bddef5b8ee5020afc108",
+      "end_line": 1826
+    },
+    {
+      "path": "卫斯理系列/034聚宝盆.txt",
+      "sha256": "cedc673a45d2747be30505f3b99a406c50bf682f9f0c6b047278bb152cbb1608",
+      "end_line": 1116
+    },
+    {
+      "path": "卫斯理系列/035雨花台石.txt",
+      "sha256": "78262d795980b542235b08def26c824a73280801c772cdc89a27a4fc5c398839",
+      "end_line": 1529
+    },
+    {
+      "path": "卫斯理系列/036魔磁.txt",
+      "sha256": "bdc49bbc3afa31324e86a4c5ec43166ef14195e64e3fa8358804b8be2b580897",
+      "end_line": 2487
+    },
+    {
+      "path": "卫斯理系列/037创造.txt",
+      "sha256": "f3544ee245acedd02b2dd581b35efc26a53f95c6eb28f7a68ef1fe90363e3827",
+      "end_line": 1506
+    },
+    {
+      "path": "卫斯理系列/038鬼子.txt",
+      "sha256": "86bcae23b2276c2bd7d15cc5218b56eebffc5f5a34b0934d62c2a658d91b956e",
+      "end_line": 1397
+    },
+    {
+      "path": "卫斯理系列/039老猫.txt",
+      "sha256": "0d10117fb0f79d958b2a63378e2ab1e1485bf12447b8a3da7b8e48807fc2df13",
+      "end_line": 2622
+    },
+    {
+      "path": "卫斯理系列/040贝壳.txt",
+      "sha256": "678d3620e01fcb2f386643efbb4996f17b0d509eb26d0020a9f1099d13e61fff",
+      "end_line": 2199
+    },
+    {
+      "path": "卫斯理系列/041地图.txt",
+      "sha256": "cdf39cf66a9fbdf47ad50305888135cd927f126ecbebedb70a889f50577e4fe0",
+      "end_line": 2805
+    },
+    {
+      "path": "卫斯理系列/042规律.txt",
+      "sha256": "76e4564e8d34d4c358f07431741301b958f37b9cf321a8eb72f626a1363a00b9",
+      "end_line": 1637
+    },
+    {
+      "path": "卫斯理系列/043沉船.txt",
+      "sha256": "ad9c3d8d3a38205f1e1c41df1c407ebdfd4c229d1c0a0b79c953437d5c1afb59",
+      "end_line": 2862
+    },
+    {
+      "path": "卫斯理系列/044大厦.txt",
+      "sha256": "8087e55d144b33350f188c8d7c7a26f83d810ec960173707e7f78cae10e229fd",
+      "end_line": 3214
+    },
+    {
+      "path": "卫斯理系列/045新年.txt",
+      "sha256": "6f4cbfa33b12c87015c42205a02f7b2f90013279b7d23fdb387fdbcc1a669bfb",
+      "end_line": 1537
+    },
+    {
+      "path": "卫斯理系列/046头发.txt",
+      "sha256": "39c3142d00e021f5b2c653812c8589a59040a6c46465c73231e2a63870ca60ef",
+      "end_line": 4327
+    },
+    {
+      "path": "卫斯理系列/047眼睛.txt",
+      "sha256": "28f674876e9f7392efd76218c5c9e8a22a3555aa29caf19bf096523041b07009",
+      "end_line": 3449
+    },
+    {
+      "path": "卫斯理系列/048迷藏.txt",
+      "sha256": "0621fe54bbdd933002d2afdc15aacabf33e8fc127609cf9847d4d0d0b403b826",
+      "end_line": 3363
+    },
+    {
+      "path": "卫斯理系列/049天书.txt",
+      "sha256": "de3333b06c717d3f730795142e00468a22353c30bf73acddb6a4ae7719eace45",
+      "end_line": 3746
+    },
+    {
+      "path": "卫斯理系列/050木炭.txt",
+      "sha256": "1c78625482296157efa4391ef1cef56300b6cad961d0d7033dbd658f1c91c870",
+      "start_line": 22,
+      "end_line": 4368
+    },
+    {
+      "path": "卫斯理系列/051玩具.txt",
+      "sha256": "17e584887039db006c5489895fe8160775a1a0037d4f27eafcf4842309f6bcce",
+      "end_line": 3972
+    },
+    {
+      "path": "卫斯理系列/052连锁.txt",
+      "sha256": "fdc8c8b24c1828f064c82005bd11cd67ff160b230ed157ac3b90219c3f8943d3",
+      "end_line": 2762
+    },
+    {
+      "path": "卫斯理系列/053寻梦.txt",
+      "sha256": "817b8ee063296cc9e7d1f645ed7c25f0c5cf50ec9f52af751d5974011a58ec14",
+      "end_line": 4051
+    },
+    {
+      "path": "卫斯理系列/054第二种人.txt",
+      "sha256": "1e3b8f4f6184cbdb40f67278e8837f208598f5b4c7862c84cc85feaf89dbff77",
+      "end_line": 4337
+    },
+    {
+      "path": "卫斯理系列/055后备.txt",
+      "sha256": "cf5605fe5aad4d2dcc5f7e690e329d7647b9bd0c94e64e9f96e07170509d3559",
+      "end_line": 3225
+    },
+    {
+      "path": "卫斯理系列/056盗墓.txt",
+      "sha256": "d7cf226d92d49b9aef75cd148629a47952868b68825108b80aa28fad29383595",
+      "end_line": 4122
+    },
+    {
+      "path": "卫斯理系列/057搜灵.txt",
+      "sha256": "c70040c12cffc10b7eb76152e9428bc4fd9ce41bad1801c970cbb96cdbd4f549",
+      "end_line": 3771
+    },
+    {
+      "path": "卫斯理系列/058茫点.txt",
+      "sha256": "2857de631115bc988d8f566dae5356679d6db6d8e6043788b7b61aee2013f500",
+      "start_line": 12,
+      "end_line": 4494
+    },
+    {
+      "path": "卫斯理系列/059神仙.txt",
+      "sha256": "b8f47d8dce68f96e24357d5a20c97505f66fdd900cf36397559bf4e5c258a76d",
+      "end_line": 3715
+    },
+    {
+      "path": "卫斯理系列/060追龙.txt",
+      "sha256": "481ab66d70096a87716fc52a7c3b0d63d0f7db5d76c63af50638f8b6e55a373e",
+      "start_line": 26,
+      "end_line": 3254
+    },
+    {
+      "path": "卫斯理系列/061洞天.txt",
+      "sha256": "0d50928031247fd8574e50bf63043202e30accf5ea89b282105b2eda0b89a7bc",
+      "end_line": 3388
+    },
+    {
+      "path": "卫斯理系列/062活俑.txt",
+      "sha256": "94a4a974a48140127e14f8b96313f3ef06d21e0bd639edde65769eb53f69b03b",
+      "end_line": 3514
+    },
+    {
+      "path": "卫斯理系列/063犀照.txt",
+      "sha256": "86e0863797a90a24a5db7bbe8321c812e2d3d9e908534be25222ce1defa0e862",
+      "start_line": 17,
+      "end_line": 3675
+    },
+    {
+      "path": "卫斯理系列/064命运.txt",
+      "sha256": "08d318553662667b4b185b96911c22afc2e43f1efeb9851f6500de5fcec85fb6",
+      "end_line": 1929
+    },
+    {
+      "path": "卫斯理系列/065（命运附篇）十七年.txt",
+      "sha256": "fa7dfbb601fa14018a4a3ae639a6401dca9574db8eae5c4fad7292058170194c"
+    },
+    {
+      "path": "卫斯理系列/066异宝.txt",
+      "sha256": "9722d15ddb6f9173d7236e2a4e528dc603eff2079ba9dd7d04b5b154cabcf789",
+      "start_line": 18,
+      "end_line": 2988
+    },
+    {
+      "path": "卫斯理系列/067极刑.txt",
+      "sha256": "6418e4ddab7cb52451656eef46f045d7f5c9f6afc7d719fe378d134c5e3890df",
+      "start_line": 24,
+      "end_line": 3341
+    },
+    {
+      "path": "卫斯理系列/068电王.txt",
+      "sha256": "8be01d27d145b8bf8814b3419dd1c91c6992b083c5d3c6b2f997c12933257dd1",
+      "end_line": 3557
+    },
+    {
+      "path": "卫斯理系列/069游戏.txt",
+      "sha256": "a9ca1ed04f92a44b72eec4252f2eaf7b09e6b54aa9fa2acd64ea4b030696ce70",
+      "end_line": 3272,
+      "remove_ranges": [
+        [
+          1858,
+          1900
+        ]
+      ],
+      "change_notes": [
+        "结尾完成标记之后重复粘贴了前面的结尾正文及网站信息，已核对并移除。",
+        "同时删除正文中误粘贴的重复段落及两个损坏的拼接行；保留重复段之后完整的续接句。"
+      ]
+    },
+    {
+      "path": "卫斯理系列/070生死锁.txt",
+      "sha256": "947407af8b7bf2e441c5501f240dbc9cf07f53eb66829bd91300bcaaf9d0cc13",
+      "end_line": 3467
+    },
+    {
+      "path": "卫斯理系列/071黄金故事.txt",
+      "sha256": "232f19b15a46930171f74fcb82362c012f5aa864e0c4d1bdbf8598683dd99274",
+      "end_line": 3350
+    },
+    {
+      "path": "卫斯理系列/072废墟.txt",
+      "sha256": "3a688b64b5c6e6172c21b5a8027c12d6b8d0a7747a8de2ac318d70d80af0109b",
+      "end_line": 3281
+    },
+    {
+      "path": "卫斯理系列/073密码.txt",
+      "sha256": "77838e0837ace2152296b564ac3c6bc4fe39bc80915b15d95da1be92c2c3e9fc",
+      "start_line": 63,
+      "end_line": 3790
+    },
+    {
+      "path": "卫斯理系列/074血统.txt",
+      "sha256": "5a4bf3b7f44b1f498dfc8e5340066ec6c38d6c83a7b12756c9df6d5844b3e2bb",
+      "end_line": 3365
+    },
+    {
+      "path": "卫斯理系列/075谜踪.txt",
+      "sha256": "39ff43f922b468ea37946e2a31bd4177002108d2c079d6fefe6b38af964cf7d4",
+      "start_line": 20,
+      "end_line": 3507
+    },
+    {
+      "path": "卫斯理系列/076瘟神.txt",
+      "sha256": "29d708836108444556fc812142c80eec012193ffce8b4aa602f6baa1373d7ffe",
+      "start_line": 25,
+      "end_line": 5158
+    },
+    {
+      "path": "卫斯理系列/077招魂.txt",
+      "sha256": "c49b574d20be14d1c0a268ef14cf296ed5b8629519b2f891febaccff01ae4df9",
+      "start_line": 30,
+      "end_line": 4719
+    },
+    {
+      "path": "卫斯理系列/078背叛.txt",
+      "sha256": "33c6e2fa454de7f2c0deafc79e8bfd4311b5c89e630cdbdcb5bb85653e1573f8",
+      "start_line": 27,
+      "end_line": 3538
+    },
+    {
+      "path": "卫斯理系列/079鬼混.txt",
+      "sha256": "a5a8452f73b54540127f7f90feeead3cd7177439660af56e1465388257875b9e",
+      "start_line": 26,
+      "end_line": 4142
+    },
+    {
+      "path": "卫斯理系列/080报应.txt",
+      "sha256": "442bd48a8396a055fd4a8cfb272101125039ad967108a5a23ff72a22da336077",
+      "start_line": 19,
+      "end_line": 3388
+    },
+    {
+      "path": "卫斯理系列/081错手.txt",
+      "sha256": "825d21e5bfd0953528faf9d926239eabd8480442607c1f69d0485805019c3658",
+      "start_line": 23,
+      "end_line": 4370
+    },
+    {
+      "path": "卫斯理系列/082真相.txt",
+      "sha256": "a744b3779631e4ad282a68266e2b612877e230cd761e1ff49c95b0de2299eda6",
+      "start_line": 21,
+      "end_line": 3273
+    },
+    {
+      "path": "卫斯理系列/083毒誓.txt",
+      "sha256": "1b1cc8acfc0e367f7ed72b4dde084e67070ae0471894dee08303b2a598daa9f4",
+      "start_line": 20,
+      "end_line": 3248,
+      "change_notes": [
+        "结尾完成标记之后重复粘贴了前面的结尾正文及网站信息，已核对并移除。"
+      ]
+    },
+    {
+      "path": "卫斯理系列/084拼命.txt",
+      "sha256": "76af723cc3bd8b6ac0dba31cf280d9c55724a131fd6ebaedf844afa86b1fec50",
+      "start_line": 20,
+      "end_line": 3178,
+      "change_notes": [
+        "结尾完成标记之后重复粘贴了前面的结尾正文及网站信息，已核对并移除。"
+      ]
+    },
+    {
+      "path": "卫斯理系列/085怪物.txt",
+      "sha256": "56a2dc459be4235250fdc1d485891040f64cef6553105b6c43f7e761895736e3",
+      "start_line": 23,
+      "end_line": 3223
+    },
+    {
+      "path": "卫斯理系列/086探险.txt",
+      "sha256": "28a03fcfa89c76e5c86bc8963a4801aa5e1c0683cc40372f5a1e3e962533b20b",
+      "start_line": 16,
+      "end_line": 3175
+    },
+    {
+      "path": "卫斯理系列/087继续探险.txt",
+      "sha256": "625e83236ab446b1e238117f02e2ca45177c1e027345efa7ab019e25e787cf39",
+      "start_line": 38,
+      "end_line": 3310
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "sha256": "54dde23f091854285233b1443654af6944538465491ef78997e7e23ff1ed86d9",
+      "start_line": 21,
+      "end_line": 3174
+    },
+    {
+      "path": "卫斯理系列/089烈火女.txt",
+      "sha256": "41f4b09491438cda6f4721d34db5330f335cffb482632aab7b645bd2a31c14fc",
+      "start_line": 20,
+      "end_line": 3126
+    },
+    {
+      "path": "卫斯理系列/090大秘密.txt",
+      "sha256": "819360ba073acae476a07631182c13d0869c5966d2cf8a412082a789db7e9225",
+      "start_line": 15,
+      "end_line": 3227
+    },
+    {
+      "path": "卫斯理系列/091祸根.txt",
+      "sha256": "4bb0caf7d44265598978a41b73144db6eacbc1522841b9a61c4fad84338db187",
+      "start_line": 37,
+      "end_line": 3203
+    },
+    {
+      "path": "卫斯理系列/092从阴间来.txt",
+      "sha256": "ff08924cd905f4c2741950268627c8a1552c56c289bd626091d50a35548894fc",
+      "start_line": 12,
+      "end_line": 2625
+    },
+    {
+      "path": "卫斯理系列/093到阴间去.txt",
+      "sha256": "acde6149b39ba6c4ec02f3f082755ea198852b9b6255aabb94426fdbe161403c",
+      "end_line": 2603
+    },
+    {
+      "path": "卫斯理系列/095阴差阳错.txt",
+      "sha256": "8ec76b699beec0ba5b7d495a1fc1c40b3a5dc969959b2d8d2b7ca8b4a4b70000",
+      "start_line": 17,
+      "end_line": 2646
+    },
+    {
+      "path": "卫斯理系列/096阴魂不散.txt",
+      "sha256": "1af7354c756f6453aee518a5ccee17847e51a8c1c92f8484be0894634354251d",
+      "start_line": 18,
+      "end_line": 2749
+    },
+    {
+      "path": "卫斯理系列/097许愿.txt",
+      "sha256": "a8b8de6ba2d788ebff5ff980e9bd26de2284e97d0bf7f2015ed1f0863f7c2f3b",
+      "start_line": 14,
+      "end_line": 2714
+    },
+    {
+      "path": "卫斯理系列/098还阳.txt",
+      "sha256": "b156ffe0239ba6717d198b63acf008035886dc49876a575926ef2fe5953f99c7",
+      "start_line": 15,
+      "end_line": 2736
+    },
+    {
+      "path": "卫斯理系列/099运气.txt",
+      "sha256": "3a894ea05625db2adcc9687cd922357dad8ff79ed44e83523c67c9617711019b",
+      "start_line": 13,
+      "end_line": 2660
+    },
+    {
+      "path": "卫斯理系列/100开心.txt",
+      "sha256": "e2c264015cc66ba6c0edd9e1f5879966b20b1d04b92996b5cdaf647ee2deed95",
+      "start_line": 13,
+      "end_line": 2705
+    },
+    {
+      "path": "卫斯理系列/101转世暗号.txt",
+      "sha256": "2aecef1c686c16fff44d0ad28bec17928a42c15b25bcbe9efc2928e92f1ad82a",
+      "start_line": 16,
+      "end_line": 2753
+    },
+    {
+      "path": "卫斯理系列/102将来.txt",
+      "sha256": "b2f831001cddf0aa42be6c8f7fa260f4e89d9a9cb491e275b4595c8deced5fcc",
+      "start_line": 19,
+      "end_line": 2922
+    },
+    {
+      "path": "卫斯理系列/103改变.txt",
+      "sha256": "1883c62c93a1e894d4994b07dafcff9aa30ceec9e41a1054c704e80f822b2252",
+      "start_line": 17,
+      "end_line": 2775
+    },
+    {
+      "path": "卫斯理系列/104暗号之二.txt",
+      "sha256": "3f3f5cb49919ede6802c2887162a51c98186076361ed800e4e1e354c48de173b",
+      "start_line": 18,
+      "end_line": 2734
+    },
+    {
+      "path": "卫斯理系列/105闯祸.txt",
+      "sha256": "4a42631964bee3bc1c4fdda1853c477aad0584698fa06119d72e5b511a0d2233",
+      "start_line": 17,
+      "end_line": 2815
+    },
+    {
+      "path": "卫斯理系列/106在数难逃.txt",
+      "sha256": "af85076bcbba68de6471d48d78ae38a1448629c2b2a67c0885493f1229617ce5",
+      "start_line": 18,
+      "end_line": 2763,
+      "change_notes": [
+        "结尾完成标记之后重复粘贴了前面的结尾正文及网站信息，已核对并移除。"
+      ]
+    },
+    {
+      "path": "卫斯理系列/107解脱.txt",
+      "sha256": "c2a7ebb920cfadfd5f8620d074ce59722a330589f7e0e7136ee2bbcdcd27917d",
+      "start_line": 14,
+      "end_line": 2765
+    },
+    {
+      "path": "卫斯理系列/108遗传.txt",
+      "sha256": "696d737245b064506b0bd8d26d658c269a03bf87dd0c3d8bc335af4d23f00363",
+      "start_line": 47,
+      "end_line": 2788
+    },
+    {
+      "path": "卫斯理系列/109爆炸.txt",
+      "sha256": "8b24e60995dfd947f7177e6d4026dffa36beddb79f4d247610941a89caecff7a",
+      "start_line": 16,
+      "end_line": 2745
+    },
+    {
+      "path": "卫斯理系列/110水晶宫.txt",
+      "sha256": "a0d40e22a3c9339b96dbf2835ce4c32a8fe68f5204c065e5c6288dfb47c453f6",
+      "start_line": 14,
+      "end_line": 2740
+    },
+    {
+      "path": "卫斯理系列/111前世.txt",
+      "sha256": "ae5dd4721e308752334f76d0d3c9b9057d570f007107ac68ebd59cd0a812c7e9",
+      "start_line": 14,
+      "end_line": 2764
+    },
+    {
+      "path": "卫斯理系列/112新武器.txt",
+      "sha256": "cf8602624023b9f9ec1cc4035e687d55cfbee4e582f86b689973c16c2e1dee04",
+      "start_line": 15,
+      "end_line": 2757
+    },
+    {
+      "path": "卫斯理系列/113病毒.txt",
+      "sha256": "4c25094d0b82db4751ccb35f734708d51034981b7873c8d6bccdbd6925726c0f",
+      "start_line": 19,
+      "end_line": 2870
+    },
+    {
+      "path": "卫斯理系列/114算帐.txt",
+      "sha256": "47032302950fdb9221f8346d31d40e52914050f534be8216eef8f00b516991db",
+      "start_line": 15,
+      "end_line": 2801
+    },
+    {
+      "path": "卫斯理系列/115原形.txt",
+      "sha256": "ea22d34b56ed6c7ee9c88029fcded156fa39b4d9a2e5fc1502dbd348f75c96b0",
+      "start_line": 15,
+      "end_line": 2759
+    },
+    {
+      "path": "卫斯理系列/116活路.txt",
+      "sha256": "24498549f952a032beee84fc5af7700f52be2b2f86347d4155fc2e9bc8edddc0",
+      "start_line": 16,
+      "end_line": 2718
+    },
+    {
+      "path": "卫斯理系列/117双程.txt",
+      "sha256": "ccadef71ffad651b42576fbc62c90dae4c413f68c4e6f817cba632eed82a3f61",
+      "start_line": 15,
+      "end_line": 2800
+    },
+    {
+      "path": "卫斯理系列/118洪荒.txt",
+      "sha256": "6040ae2518212e6704629d06fe1d6bc8d7100ecfad9c822d384f5fe7d9763f06",
+      "start_line": 21,
+      "end_line": 2697
+    },
+    {
+      "path": "卫斯理系列/119买命.txt",
+      "sha256": "a31941768090cd2b4f797b1be1d0d1ae5d0ea75c2c20d687785bfdad23f5861f",
+      "start_line": 27,
+      "end_line": 2703
+    },
+    {
+      "path": "卫斯理系列/120卖命.txt",
+      "sha256": "06aa3e64282e96e9a4a3bea1e1934fbad31ad9c53ea441ce4be1f19f143d9466",
+      "start_line": 23,
+      "end_line": 2718
+    },
+    {
+      "path": "卫斯理系列/121考验.txt",
+      "sha256": "355bdbb639943a7897814bae7fbea076fe6b580cdb535174eef4a7002226e71a",
+      "start_line": 11,
+      "end_line": 3262
+    },
+    {
+      "path": "卫斯理系列/122传说.txt",
+      "sha256": "1f8057466eb27a6a24258f51d3aefd1482fcd0567601d15a9d9cf753eb9e2fcd",
+      "start_line": 21,
+      "end_line": 2789
+    },
+    {
+      "path": "卫斯理系列/123豪赌.txt",
+      "sha256": "dd5ceba3058086935d25999a488734d820c7ea2c8dfdcc2cd583930501e0584f",
+      "start_line": 25,
+      "end_line": 2677
+    },
+    {
+      "path": "卫斯理系列/124真实幻境.txt",
+      "sha256": "8bf9836ccadb5eee4b8810bb5bc8521e2d449084733569d99c062dff70a63cfe",
+      "start_line": 16,
+      "end_line": 2688
+    },
+    {
+      "path": "卫斯理系列/125成精变人.txt",
+      "sha256": "693c5876eb7901a5e71f1cbdd205abe02a9cefe7bc5123d6987d74ca3a63a956",
+      "start_line": 22,
+      "end_line": 2709
+    },
+    {
+      "path": "卫斯理系列/126未来身份.txt",
+      "sha256": "e1b8e5de85ff6934958e51b30fff711ad02a76e4aa5f7566971fb6c4edc19b04",
+      "start_line": 23,
+      "end_line": 2633,
+      "change_notes": [
+        "结尾完成标记之后重复粘贴了前面的结尾正文及网站信息，已核对并移除。"
+      ]
+    },
+    {
+      "path": "卫斯理系列/127移魂怪物.txt",
+      "sha256": "3cc7b98d4340309a87c6c178215ba2e9b07c252ddaf35d1ee0d9f460a5fde13e",
+      "start_line": 36,
+      "end_line": 2725,
+      "change_notes": [
+        "结尾完成标记之后重复粘贴了前面的结尾正文及网站信息，已核对并移除。"
+      ]
+    },
+    {
+      "path": "卫斯理系列/128人面组合.txt",
+      "sha256": "46c949c45749712d35ee3998777a9c807d9bfcff1c182a80f5bdc355cecc6de8",
+      "start_line": 16,
+      "end_line": 2686,
+      "change_notes": [
+        "结尾完成标记之后重复粘贴了前面的结尾正文及网站信息，已核对并移除。"
+      ]
+    },
+    {
+      "path": "卫斯理系列/129本性难移.txt",
+      "sha256": "3934366e7d4da18cb988d575533980100b1e011e7150d58e35d9527557049f08",
+      "start_line": 12,
+      "end_line": 2589
+    },
+    {
+      "path": "卫斯理系列/130天打雷劈.txt",
+      "sha256": "914374dc0a0aca92adbf1ad0cef630e1938aa8fdc06b608935319e2bc623a23e",
+      "start_line": 39,
+      "end_line": 2604
+    },
+    {
+      "path": "卫斯理系列/131另类复制.txt",
+      "sha256": "53e1eb5ec929f47bad5e7330f4c82c977900d0c45ea4fd7556e04789d0af8f06",
+      "start_line": 25,
+      "end_line": 3944
+    },
+    {
+      "path": "卫斯理系列/132解开密码.txt",
+      "sha256": "580c958e1696048f65ece01e22ad8df24163ff9b445df9ec1d21652016c6d911"
+    },
+    {
+      "path": "卫斯理系列/133异种人生.txt",
+      "sha256": "f3c301b103caa3bd0caa80ad61c0535ba3bc90d3726e52ec25e9bf227d85fd9e",
+      "end_line": 656
+    },
+    {
+      "path": "卫斯理系列/134偷天换日.txt",
+      "sha256": "7bc0e2f3489dd0a98ce71fd677a762cd497080a20b7bc6e373efc2678f4c05dc"
+    },
+    {
+      "path": "卫斯理系列/135闭关开关.txt",
+      "sha256": "197054c5f03f3b7a5b4477d80bfde13e044079532158d4e50fc88e5570bce75f",
+      "start_line": 11,
+      "end_line": 957
+    },
+    {
+      "path": "卫斯理系列/136行动救星.txt",
+      "sha256": "1c9e3d57f6aeeb8353b3bfa1ded456ebc413cd7ab54722665dcd2bd900c09bb5",
+      "start_line": 15
+    },
+    {
+      "path": "卫斯理系列/137乾坤挪移.txt",
+      "sha256": "3941a6857a2af04e5b260e8e692f18b80fc505f63dab9c0059b33bcd0aa84139",
+      "start_line": 11,
+      "end_line": 1416
+    },
+    {
+      "path": "卫斯理系列/138财神宝库.txt",
+      "sha256": "4556ad33211edb99c37aefd07227a78ecd6457f0d4f21f78edd74bdb0b09babe",
+      "start_line": 11,
+      "end_line": 1433
+    },
+    {
+      "path": "卫斯理系列/139一半一半.txt",
+      "sha256": "523208f83af8abd6f46c45d56456f3335cc67bf666a95f41e2c469282beddff6",
+      "start_line": 8
+    },
+    {
+      "path": "卫斯理系列/140身外化身.txt",
+      "sha256": "228a4425caf4ad2bf9b1c2d41ab44760b51042a768ded15c29ea7c393f55ff89",
+      "start_line": 9,
+      "end_line": 1424
+    },
+    {
+      "path": "卫斯理系列/141非常遭遇.txt",
+      "sha256": "5a95146bcad6cddb2346f53aa27dbe6895566ab1df661fe12fb4d460fdad550d",
+      "start_line": 9,
+      "end_line": 1305
+    },
+    {
+      "path": "卫斯理系列/142一个地方.txt",
+      "sha256": "ea45df6b7ccb73f0b9bc402afd0da88fe8d67db945201852f0e15c7a355ffd37",
+      "start_line": 9,
+      "end_line": 1200
+    },
+    {
+      "path": "卫斯理系列/143须弥芥子.txt",
+      "sha256": "b3890e96a4034a4ae8007c843e03737877c3d5150febd98f542dd0e611edbd26",
+      "start_line": 10,
+      "end_line": 1371
+    },
+    {
+      "path": "卫斯理系列/144死去活来.txt",
+      "sha256": "c6f43ef2bfa0ce213114155b48848bdae9e31132275f023a68f61b4896f2e550",
+      "start_line": 14,
+      "end_line": 1412
+    },
+    {
+      "path": "卫斯理系列/145只限老友.txt",
+      "sha256": "15ad8bce893a62762138e0cf06e3d2668d4fb64abcbf187cec0a7c267f5ced8b",
+      "start_line": 21,
+      "end_line": 1424
+    },
+    {
+      "path": "卫斯理系列/52愿望猴神.txt",
+      "sha256": "5fbc504b7bb701c692e0e45eda0e939dee1ac29c822b3ba81ef6fb0d54a96490"
+    },
+    {
+      "path": "卫斯理系列/94少年卫斯理.txt",
+      "sha256": "b1605416c2625932631c8791ef4c3cb51dbba2ca3bf4b332122f15710b50f288",
+      "start_line": 15,
+      "end_line": 3359
+    },
+    {
+      "path": "卫斯理系列/卫斯理人物关系图.jpg",
+      "sha256": "fe70c95472ed8e936e9c5e101173ec8f78fa86c38c30efe76aaad563ea7680d0",
+      "exclude": "人物关系图，单独保留，不进入小说文本目录"
+    },
+    {
+      "path": "原振侠系列/000整合者序.txt",
+      "sha256": "71a32f8254b634bc88ff88230ef0769ee2de0cfd0e219db25038caa68f8317fb",
+      "exclude": "整合者说明，无小说正文"
+    },
+    {
+      "path": "原振侠系列/00原振侠传奇 序.txt",
+      "sha256": "71f73c683b8f2a6ecc5e644ddd1df09bff81dbfd431f473f6f034ff0762adbab",
+      "exclude": "电子版总序，无小说正文"
+    },
+    {
+      "path": "原振侠系列/01.天人.txt",
+      "sha256": "3c2952e953a43611692da439182e08d0e8320fa9381ea9bfdcc9c498b66fc26a",
+      "end_line": 3389
+    },
+    {
+      "path": "原振侠系列/02.迷路.txt",
+      "sha256": "64b52b9efec3e57ef20fad7a76c82cf74281b20dcc02577e1d2790e37ef27321",
+      "start_line": 19
+    },
+    {
+      "path": "原振侠系列/03.血咒.txt",
+      "sha256": "5a815600ce9f161b1c7b1a5d3daf4bb499f348a1257de61ad9c3c286429bac05",
+      "end_line": 4525
+    },
+    {
+      "path": "原振侠系列/04.海异.txt",
+      "sha256": "4522a73fcd83d1fb56224b1c50cea03f910e84a7600521b4eb34ca781667fd7d"
+    },
+    {
+      "path": "原振侠系列/05.宝狐.txt",
+      "sha256": "b746311c5a3b0bc758c0f7a76b817724c7e5a7b4b405dd6b5e8dc20d50a4387e"
+    },
+    {
+      "path": "原振侠系列/06.灵椅.txt",
+      "sha256": "3719ac9e230c8e1dd2d8716ad1445f1de3259ea17991cd574ae26be7753b7f71"
+    },
+    {
+      "path": "原振侠系列/07.奇缘.txt",
+      "sha256": "81ea32d9db52399d53a89f8af981c6c5e80a25dfdc03c40ffaa89d655f41089e"
+    },
+    {
+      "path": "原振侠系列/08.精怪.txt",
+      "sha256": "bd08ae8d63778ff5b00cb8495cf795ad6c45743acbb318389b404915ae79570a"
+    },
+    {
+      "path": "原振侠系列/09.鬼界.txt",
+      "sha256": "d5cc772e1d1d02da7e887f62c625919b91bdcb4eb1521f70e4719581274e91fd",
+      "end_line": 4137
+    },
+    {
+      "path": "原振侠系列/10.魔女.txt",
+      "sha256": "ae8a55707375e2ed41a846edb668c0a8f29c179e995d94b47f8403b0457d3173",
+      "end_line": 4173
+    },
+    {
+      "path": "原振侠系列/11.失魂.txt",
+      "sha256": "80eb7daa3722e1764cf2e94ca0e072c370fd4533702cad3a9cf91efa7bf3cc03",
+      "end_line": 3207
+    },
+    {
+      "path": "原振侠系列/12.降头.txt",
+      "sha256": "c55c9711baf0576e76b83c2cb57326a736c9e972e285dbecc7f003ee6108a839",
+      "end_line": 4471
+    },
+    {
+      "path": "原振侠系列/13.巫艳.txt",
+      "sha256": "871e1e7ce44c6904afe5aec60a58a54c35767fdd6e437e76e150ad11b311780c"
+    },
+    {
+      "path": "原振侠系列/14.爱神.txt",
+      "sha256": "06c3cdf1f79e1f169ff1194f32867230b5bab2a16394ec55341c910e053d8a95"
+    },
+    {
+      "path": "原振侠系列/15.寻找爱神.txt",
+      "sha256": "f0c455e4ec1cfddb18d99a9b85a19ecc241e9e87e5be598a107b2a8300abf286",
+      "start_line": 15,
+      "end_line": 3231
+    },
+    {
+      "path": "原振侠系列/16.大犯罪者.txt",
+      "sha256": "d61045684cef9edd813dabedb6753840c5b425c5a060d51561b7f5a1a9b66b49"
+    },
+    {
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "sha256": "c13c8b737d86d0bf97c78bb70681eb6839f637ecfc2df8c7c419c2901f74f131"
+    },
+    {
+      "path": "原振侠系列/18.黑暗天使.txt",
+      "sha256": "aa575924600031f8c5d3f0b06f63827586004cf506926d51cd251c14392f348f",
+      "literal_replacements": [
+        [
+          "黑暗天使倪匡",
+          "黑暗天使"
+        ]
+      ]
+    },
+    {
+      "path": "原振侠系列/19.迷失乐园.txt",
+      "sha256": "523501708ed87444655e8649456fd52998dbb3eb8ba3cd3376b55c4c41b865df",
+      "start_line": 23,
+      "end_line": 4403
+    },
+    {
+      "path": "原振侠系列/20.劫数.txt",
+      "sha256": "727de3a0c01a22d36b4d7eaa0e8298e593a7191be4d8b3b0bccd608ddaf733ae"
+    },
+    {
+      "path": "原振侠系列/21.快活秘方.txt",
+      "sha256": "5fed328007669b463c41a747ab5a0539052a05b18efed48290968e15e9de092a"
+    },
+    {
+      "path": "原振侠系列/22.变换双星.txt",
+      "sha256": "202e337a1342152e32f77c1d683ae082eb0da6e8ce863cdd04c8caeb095cc78b",
+      "start_line": 19,
+      "end_line": 3187
+    },
+    {
+      "path": "原振侠系列/23.血的诱惑.txt",
+      "sha256": "b2cb5b463e7287bbe57fdebf0b71cfd5075aa62b648770e26287a9a34e4e645a"
+    },
+    {
+      "path": "原振侠系列/24.催命情圣.txt",
+      "sha256": "a25d20a3f8d130b265cfee8618cd1dedc17a73f59819bdc32d2d650934968a7d"
+    },
+    {
+      "path": "原振侠系列/25.黑白无常.txt",
+      "sha256": "9b9bff249c141e722446c0dc6c5387ceaa329b65ef7b4ae2fbc7fd2849b5ed70",
+      "start_line": 15,
+      "end_line": 2799
+    },
+    {
+      "path": "原振侠系列/26.自杀阴谋.txt",
+      "sha256": "dacb4acd8c45a8bd48d06108937097d63ff828a5f497b43162717a572c91dde7"
+    },
+    {
+      "path": "原振侠系列/27.假太阳.txt",
+      "sha256": "da0a396a6e2b40ae92a3aa1b7924c220c14f5b8cdbba721cb20f952a19ca3745",
+      "end_line": 2915
+    },
+    {
+      "path": "原振侠系列/28.无间地狱.txt",
+      "sha256": "f4b082e11f40e265984cd8e810103b19988b7bfbb586d425e3799f0d4c028301",
+      "start_line": 19,
+      "end_line": 3073
+    },
+    {
+      "path": "原振侠系列/29.人鬼疑云.txt",
+      "sha256": "aedeefdbbd6164f79549cf8771ae48c7613b006f282205897ec0d2bdd8b5e850"
+    },
+    {
+      "path": "原振侠系列/30.魂飞魄散.txt",
+      "sha256": "e65be1c73f5d003ca7164e097bafd143ba59b10ee842e6c40511fe6c0a7f2513"
+    },
+    {
+      "path": "原振侠系列/31.宇宙杀手.txt",
+      "sha256": "7b4a635a252aad67da42a138ac2e9553ec5483cbfb4b2dae741d16f4f4804956"
+    },
+    {
+      "path": "原振侠系列/32.天皇巨星.txt",
+      "sha256": "530c0807ad79c586f08c059db210a6a1b8cec51c8f6133290b2c841dbead164a",
+      "end_line": 2867
+    },
+    {
+      "path": "年轻人/01手套.txt",
+      "sha256": "2d3b296f0bac2c75c02f23d99f91e8808ea6ef76c8a37a24c435ef6fb4782e87"
+    },
+    {
+      "path": "年轻人/02足球.txt",
+      "sha256": "cde1b062f3c742457ce61f7adef378b0f06c4928ff7e056d26089d1da247cbe4",
+      "end_line": 440
+    },
+    {
+      "path": "年轻人/03宝刀.txt",
+      "sha256": "5bf56a1f2961368591809cf64b7b8292cbd85b6f8af837f5eab3c3a34b11be7f",
+      "end_line": 825
+    },
+    {
+      "path": "年轻人/04尺蠖 .txt",
+      "sha256": "abc1126816409124dc3b0eea933a69f1cb6dcbc1d49b04904c5fe4b03a8e9111"
+    },
+    {
+      "path": "年轻人/05大宝藏.txt",
+      "sha256": "557e61233657ad24e7ba9a5ddd8c1f9f3d8fc942db6831fc65adad578dea5696",
+      "end_line": 1191
+    },
+    {
+      "path": "年轻人/06神机.txt",
+      "sha256": "bff95f162bc4bfc1d5b05f0379c5f1186135a20482e47500a4815303ae283d94"
+    },
+    {
+      "path": "年轻人/07暗算.txt",
+      "sha256": "871b2004c4261eb735acb29f55f1521f2e3430443f5f30822e4bc9441b49e87a",
+      "end_line": 1448
+    },
+    {
+      "path": "年轻人/08天敌.txt",
+      "sha256": "9aeac6ee523ed9003bf8997ec7bbbbc9b5fa0f7c36c2e7066c9d9cd3758e1a6a",
+      "end_line": 1576
+    },
+    {
+      "path": "年轻人/09夜归.txt",
+      "sha256": "dcc65722f73e087c2193e87b3b011c3a7e613a4885430a3375f7372925a34529"
+    },
+    {
+      "path": "年轻人/10四条金龙.txt",
+      "sha256": "b8b169b50a7de5e161132c7abf7a5ababd87a0aa8905fedbefc803196b790b89"
+    },
+    {
+      "path": "年轻人/11消失女神.txt",
+      "sha256": "1b26b1cd2d9830a0cd7a4eb773b0e2656f3195fe9ce48a80104563610ebcb70e",
+      "end_line": 1516
+    },
+    {
+      "path": "年轻人/12离魂奇遇.txt",
+      "sha256": "7cf26ad4700a44f6cf1b171551c3a407a732ba94421adb04b53f4214f61fa9e6"
+    },
+    {
+      "path": "年轻人/13神话世界.txt",
+      "sha256": "6eb8ecaaa4dc4420ff7b905fdb077d44086febf759a0c5d43af9b2251d65ff31",
+      "quality_notes": [
+        "原始文本第 376 行注明原书缺一页；已去掉求补文字，未补写缺失正文。"
+      ],
+      "end_line": 1478
+    },
+    {
+      "path": "木兰花全集/000整合者序.txt",
+      "sha256": "1b3b271467b9032e933cc8ab2d7cd30695df181c385d4c3f58c2ae9dc21cdcb7",
+      "exclude": "整合者说明，无小说正文"
+    },
+    {
+      "path": "木兰花全集/01巧夺死光表.txt",
+      "sha256": "ca67f908bac350f3d435991cbd69a98aa960f6fa679a5b590ca41380b4e78a67"
+    },
+    {
+      "path": "木兰花全集/02黑龙现爪.txt",
+      "sha256": "6b23274ed178cededce2ac6bf3b36d8579a8b64c0d5f8c82c9a1dd34ef6000ca"
+    },
+    {
+      "path": "木兰花全集/03太阳之女.txt",
+      "sha256": "0f9c7857b3a5d569bf6d4ac7713d8ffefa0d10870ddb89f40f6fe70be82c1f2e"
+    },
+    {
+      "path": "木兰花全集/04木雕人头.txt",
+      "sha256": "d1b92686ab26f55c9ae30f874f6bd86144443e209ac90e6a01e777017594387c"
+    },
+    {
+      "path": "木兰花全集/05尸变惊魂.txt",
+      "sha256": "bc6350919da14a9b91e95f34fc5f7bf541af4ef2729e52c052e44d9bea37ff4e"
+    },
+    {
+      "path": "木兰花全集/06超人集团.txt",
+      "sha256": "30de80c3c2f37a5f6fe4c82a6c6d174c188f4c7132eebfc90d277977e9eb90c9",
+      "end_line": 2370
+    },
+    {
+      "path": "木兰花全集/07高原之谜.txt",
+      "sha256": "b9a0e9b5b7f2de06cdf1c5cc854962707ca68a555b848226dbffd09f9cabeb5a"
+    },
+    {
+      "path": "木兰花全集/08雷库惊魂.txt",
+      "sha256": "a2aa69bbc1ee8968cd1eabf8bdbcabf4b77b1698d4033b155353c1a1fcc125de",
+      "end_line": 2558
+    },
+    {
+      "path": "木兰花全集/09死亡织锦.txt",
+      "sha256": "29aa1e4745fa6ace1489d9e079600ba9133b5b331a1411389ebacc7fba4eadb5",
+      "end_line": 2558
+    },
+    {
+      "path": "木兰花全集/10电眼怪客.txt",
+      "sha256": "6713554b472b5d2f8c006ab01510e85d6d11e8f44386aadb10eafdea1871ff50"
+    },
+    {
+      "path": "木兰花全集/11冰川亡魂.txt",
+      "sha256": "494473098e01a7f2cd4e2355540856f1a3c8e3c183f40e337ebea9676dc5ef78",
+      "remove_ranges": [
+        [
+          1028,
+          1129
+        ]
+      ],
+      "change_notes": [
+        "删除第五章开头误粘贴的第四章原文和截断的重复句，保留第五章标题及后续新正文。"
+      ]
+    },
+    {
+      "path": "木兰花全集/12夺命红烛.txt",
+      "sha256": "4ecbc7da76c4ca3e91ebcfcfec5ee68c8bba2033006536531a153e1bd366c24c"
+    },
+    {
+      "path": "木兰花全集/13智擒电子盗.txt",
+      "sha256": "e326f4674ff3562f66063011cb1170db09d6bedfcfd44a4016a1a50a1fca563c"
+    },
+    {
+      "path": "木兰花全集/14死亡爆炸网.txt",
+      "sha256": "62ba6ffb8ec87a1273cefb1d413f4ea539025db0c4640460b6d637903e907790"
+    },
+    {
+      "path": "木兰花全集/15杀人奖金.txt",
+      "sha256": "8e04dd8fa4f176d0581152c320101a81a108e789d81e03ce5d5c8c8a2f498279"
+    },
+    {
+      "path": "木兰花全集/16隐形奇人.txt",
+      "sha256": "56847009af0267a72127bda36cc6de421e012d6cb1518b7b3f80e4dfb0cb2015"
+    },
+    {
+      "path": "木兰花全集/17高空喋血.txt",
+      "sha256": "48f36fae3e4aa733c56396393b4c91ddb30a2dcb680b5761564b32591abf8a8a"
+    },
+    {
+      "path": "木兰花全集/18怒歼恶魔团.txt",
+      "sha256": "cbec00c5ab4bad72f16d6dff6b301db17cc66a92e2dddf19e557154b4d295d33"
+    },
+    {
+      "path": "木兰花全集/19连环毒计.txt",
+      "sha256": "01c8dc55f2e62b6345938db76b5c3d1affb8a2c8a1ff648aec7652c2479fdd0f"
+    },
+    {
+      "path": "木兰花全集/20秘密党.txt",
+      "sha256": "471f28310ba5b99ce739bb2e82caad93559740c92cb6c7bc1d997b7984a21ee9",
+      "end_line": 2402
+    },
+    {
+      "path": "木兰花全集/21旋风神偷.txt",
+      "sha256": "94c6580ee1790019dcf2fd7cb29e0455068a81a8471d7361af7298c2230abd34",
+      "end_line": 2766
+    },
+    {
+      "path": "木兰花全集/22天外恩仇.txt",
+      "sha256": "fbda90bdc1e7b56164544f7f3695529df7f7400286c021f979ad9ecd4f00c078"
+    },
+    {
+      "path": "木兰花全集/23大破暗杀党.txt",
+      "sha256": "7ac9bfc7e02fd351e8aafa06c91b5264b77bc6c9649c76cfa13f225ce6836f15",
+      "end_line": 2636
+    },
+    {
+      "path": "木兰花全集/24魔掌余生.txt",
+      "sha256": "b3e29e3e114ad5eb1c795505d3acccf72cdfc544d66b9dcdc74fbb1acb4ee0b4",
+      "end_line": 2716
+    },
+    {
+      "path": "木兰花全集/25血溅黄金柱.txt",
+      "sha256": "c4ad5273b8a776221931864bc9a95dc635cad66bde371f7cfef9455d714d4edc",
+      "end_line": 2726
+    },
+    {
+      "path": "木兰花全集/26神秘血影掌.txt",
+      "sha256": "8ea76cf7cddcabf0b71c7a1beb8340114f6f894d44a4e5e3ecf6fdf5e2965a2a",
+      "end_line": 2634
+    },
+    {
+      "path": "木兰花全集/27钻石镭射.txt",
+      "sha256": "b809b4cd174cc05837c6fa8c636353a5455b8eed19588659ee65de731fd269a4",
+      "end_line": 2652
+    },
+    {
+      "path": "木兰花全集/28北极氢弹战.txt",
+      "sha256": "328d46506bd5d2df1f227aa70b1473f65f4642cdc73a013e882ad6d97ad0b114"
+    },
+    {
+      "path": "木兰花全集/29潜艇迷宫.txt",
+      "sha256": "5e56034ab8ac6c37931c67f40037c880fa64eaf1d3025fed79fc859bd612f374",
+      "end_line": 2580
+    },
+    {
+      "path": "木兰花全集/30玻璃伪钞模.txt",
+      "sha256": "7bfec1f9f1b926e52eca105e427b9c78e47c8bd2fc7366fc0c78b3cdce918b4d",
+      "end_line": 2682
+    },
+    {
+      "path": "木兰花全集/31黑暗历险.txt",
+      "sha256": "2963ad6b78f6034cfa2845abe05b5607166145c65438083a5306aa7a8bed8280",
+      "end_line": 2774
+    },
+    {
+      "path": "木兰花全集/32人形飞弹.txt",
+      "sha256": "6506ee2c14a5699ab20d92e07f534ab670c94fa5d7125d920c3a3d509106da5a",
+      "end_line": 2490
+    },
+    {
+      "path": "木兰花全集/33军械大盗.txt",
+      "sha256": "d067c230fba7a3a76338a44005d2a56dc4f506e616e7baf1d2b3eb5a886cac3c",
+      "end_line": 2594
+    },
+    {
+      "path": "木兰花全集/34断头美人鱼.txt",
+      "sha256": "bc449ba0930e586fe1186caf0bc1bb5d186b4c1e4d6efa366e02941fa6533cdb",
+      "end_line": 2422
+    },
+    {
+      "path": "木兰花全集/35蜘蛛陷阱.txt",
+      "sha256": "eca6a008e05a8e38ddccec2816054955628d8c75c84a977157d7ef693bc451ba",
+      "end_line": 2470
+    },
+    {
+      "path": "木兰花全集/36无敌凶手.txt",
+      "sha256": "301ac1b17f620970758de5d35771ffc59904aadc3d6d8f6805e83eb3e5b52c4f",
+      "end_line": 2486
+    },
+    {
+      "path": "木兰花全集/37沉船明珠.txt",
+      "sha256": "7bd816dcba71c69f0255ebf68c0f7641be66cc187e246c3ec4367bbadb525885",
+      "end_line": 2624
+    },
+    {
+      "path": "木兰花全集/38无价奇石.txt",
+      "sha256": "fda47ac93479773878f2d6939a60af82a28c8475475c5520d4bfd69d22820813",
+      "end_line": 2370
+    },
+    {
+      "path": "木兰花全集/39失踪新娘.txt",
+      "sha256": "846139ea0c2f6cf9397737e05a45fe4a3af427faabc897228d138ddf3cdf9e98"
+    },
+    {
+      "path": "木兰花全集/40怪新郎.txt",
+      "sha256": "8b8a4885b00e4690e4cf920e17f082711918377724a5a557e5030402c9f1eb90",
+      "remove_ranges": [
+        [
+          1674,
+          1721
+        ]
+      ],
+      "line_edits": [
+        {
+          "line": 1722,
+          "keep_after": "但是，现在安妮将这个问题提出来，他们都是无法再逃避，非去想这个问题不可了！他们两人互望了一眼，也变得苍白起来！",
+          "reason": "duplicate_body_prefix"
+        }
+      ],
+      "change_notes": [
+        "删除第七章开头误粘贴的第六章原文，保留第七章标题及同一行拼接的新正文。"
+      ],
+      "end_line": 2796
+    },
+    {
+      "path": "木兰花全集/41金库奇案.txt",
+      "sha256": "3fe81341eacccb1abea46854edfe50220afa920be0cf1149375703e5b0f37b8c",
+      "end_line": 2464
+    },
+    {
+      "path": "木兰花全集/42龙宫宝贝.txt",
+      "sha256": "28d40863b354b9e4c8bc71fca7de09d8c849ac9733758148071e21d1d061f8e6",
+      "end_line": 2696
+    },
+    {
+      "path": "木兰花全集/43珊瑚古城.txt",
+      "sha256": "a47780cc44198fbb0972b73cda8dcd9bb6492f9ff08af5bc1854b306623c66da",
+      "end_line": 2848
+    },
+    {
+      "path": "木兰花全集/44猎头禁地.txt",
+      "sha256": "5eb8f605b68c46f6c8e941f13eefac1814f93624215c331dcbf667d8aea18e93",
+      "end_line": 2750
+    },
+    {
+      "path": "木兰花全集/45魔画.txt",
+      "sha256": "9b367e6ebd2d18d08ecbff48d2b0fc501585371873e3f9f6c40120182a63f185"
+    },
+    {
+      "path": "木兰花全集/46死神殿.txt",
+      "sha256": "478834051eff649f15d9bedce80a5a846c685dd01b872b8aba03a6741642e6d0",
+      "end_line": 2610
+    },
+    {
+      "path": "木兰花全集/47复活金像.txt",
+      "sha256": "788525f6184e32620744880accf22774bb29d86a6c7b6c2e80f02db13a7c9d81",
+      "end_line": 2786
+    },
+    {
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "sha256": "9af02c730ce3db5ba200a0b9a72ea2c7c192a516e9fad06d6cb721d0e258ead8",
+      "end_line": 2788
+    },
+    {
+      "path": "木兰花全集/49地道奇人.txt",
+      "sha256": "470d751e1bd7bd28b2191017a1ad4eeca866afd4c9ad65c3b346e71d510fe644",
+      "end_line": 2568
+    },
+    {
+      "path": "木兰花全集/50蜜月奇遇.txt",
+      "sha256": "7b38604ef8e3fa7a0386af7fedf79f48e6504ee340ff9264079ccec0545e2309",
+      "end_line": 2520
+    },
+    {
+      "path": "木兰花全集/51冷血人.txt",
+      "sha256": "a876d9933f50821e9fdf13556e84bf3c0907f976ed2566b5f29b8b2cf5a89c09",
+      "end_line": 2536
+    },
+    {
+      "path": "木兰花全集/52生死碧玉.txt",
+      "sha256": "f86ce766a5823fce2b87a2b06126c5ae48104b733145d788f43bee2714f68796",
+      "end_line": 2470
+    },
+    {
+      "path": "木兰花全集/53电网火花.txt",
+      "sha256": "8f69cc6de1bd8e4921531b8f8f5cb65b3f7d40448a53c106dce00fc72d5f28e5",
+      "end_line": 2430
+    },
+    {
+      "path": "木兰花全集/54古屋奇影.txt",
+      "sha256": "4fde46eb287832e5c617ca69d41e9a7fa4da66f17c8f2dfe81dba6b70347f262",
+      "end_line": 2430
+    },
+    {
+      "path": "木兰花全集/55金庙奇佛.txt",
+      "sha256": "84cae59c98148422b2bd80879b0a7c79717121838f75fd155eef2a848af36141",
+      "end_line": 2368
+    },
+    {
+      "path": "木兰花全集/56天才白痴.txt",
+      "sha256": "935cd6890db4805658f1190d0564fb52ff0738d9fac6fc00eb09ddbe53650f8f",
+      "end_line": 2336
+    },
+    {
+      "path": "木兰花全集/57生命合同.txt",
+      "sha256": "41a5aa99f36adf4140396c230f5ec8a7ed333662b7d867a5e7400dfe27305e37",
+      "end_line": 2318
+    },
+    {
+      "path": "木兰花全集/58三尸同行.txt",
+      "sha256": "fafde5d4cd1c2e91e84adddafd905b2373b9e0d85ddeb93ae3b54bbb188520b8",
+      "end_line": 2202
+    },
+    {
+      "path": "木兰花全集/59无风自动.txt",
+      "sha256": "48ea01cae9926ede2f78cbae1de467ba1605a6710dd44aef547b98af3ba548f8",
+      "end_line": 2168
+    },
+    {
+      "path": "木兰花全集/60无名怪尸.txt",
+      "sha256": "f81606dfa71a3f2631aff0c7a890522c82f7c5232506357efbe8b57952bf8669",
+      "end_line": 1972
+    },
+    {
+      "path": "浪子高达系列/000整合者序.txt",
+      "sha256": "9d41449f379751291ad077b98dc4b7730354412cdb981cdac5aa25c744768529",
+      "exclude": "整合者说明，无小说正文"
+    },
+    {
+      "path": "浪子高达系列/学美人.txt",
+      "sha256": "74a27001a005e6cc729f4ef4720849663b2482127a64f2f1f6ac261df555a0f0",
+      "start_line": 7,
+      "remove_ranges": [
+        [
+          452,
+          487
+        ]
+      ],
+      "end_line": 3853
+    },
+    {
+      "path": "浪子高达系列/微晶之密.txt",
+      "sha256": "3ee13cefda5571985eb15bc9b5d8ef2dcf80f03e79edfbc1fba26208282a435e",
+      "end_line": 7447
+    },
+    {
+      "path": "浪子高达系列/水晶艳女.txt",
+      "sha256": "4b0003973264ba01121d44d80365110911dbe06aeb4188216ae0c9c072e3cfbf",
+      "start_line": 17,
+      "end_line": 4980
+    },
+    {
+      "path": "浪子高达系列/珍珠荡妇.txt",
+      "sha256": "2f6285f827046eff8e2ddcf3929ce13d9013ff3b476ccc5e7ca40d2b209224b2",
+      "start_line": 35,
+      "end_line": 4928
+    },
+    {
+      "path": "浪子高达系列/盗尸艳遇.txt",
+      "sha256": "d0568acfa46e3333db2a881acfd5731aca8fb545c441d8c4458158ee47c4ea7d",
+      "end_line": 4626
+    },
+    {
+      "path": "浪子高达系列/红粉猫.txt",
+      "sha256": "9efb56deb510c4c2474d45a8ab9e6bcc2453f7a5591d03c83f141c99f1ebe955",
+      "end_line": 6719
+    },
+    {
+      "path": "浪子高达系列/蛇王石.txt",
+      "sha256": "f35d77c768e9f5499acbbcd229a883ffda0678bdd1868ecc4a1e420e9af997c3",
+      "quality_notes": [
+        "原始论坛标题标注 (1-9)，结尾标注待续；可能并非完整小说。"
+      ],
+      "start_line": 14,
+      "end_line": 356
+    },
+    {
+      "path": "浪子高达系列/金球红唇.txt",
+      "sha256": "dea1ac817bcd499dd06fdc8110a53cc49d7d4bd31151e2054a306826b5d2aaca",
+      "end_line": 6570
+    },
+    {
+      "path": "神探高斯系列/000整合者序.txt",
+      "sha256": "bf386109fd1e9c397dc4b697edfbbc6181591526586bc07a9ba2aec309afd252",
+      "exclude": "整合者说明，无小说正文"
+    },
+    {
+      "path": "神探高斯系列/01出术.txt",
+      "sha256": "5ace859bc49f910b045f8d519a8ca13123870458babc37876a5f3cfd87241fab",
+      "start_line": 14,
+      "end_line": 706
+    },
+    {
+      "path": "神探高斯系列/02催眠之术.txt",
+      "sha256": "528ad27ec33b217fdd67e5b9e31930bf2627b75df4b7c9c4fd8832814dabfa6c",
+      "start_line": 14,
+      "end_line": 656
+    },
+    {
+      "path": "神探高斯系列/03飞艇.txt",
+      "sha256": "21008ee3c95dd5c2d82d8b9ec54afa02d785b76a3af43daf568929cdaae5a69f",
+      "start_line": 14,
+      "end_line": 706
+    },
+    {
+      "path": "神探高斯系列/04粉红钻石.txt",
+      "sha256": "cbc9024dd2c1b6d21525b427b1b698be695bb65f3aaed2c9dc8698c0636c8f99",
+      "start_line": 14,
+      "end_line": 662
+    },
+    {
+      "path": "神探高斯系列/05风向.txt",
+      "sha256": "c94e089df22fc45b3f6272febefbc8c8ebc9b92c896507f44a448cf169d1c06c",
+      "start_line": 14,
+      "end_line": 1240
+    },
+    {
+      "path": "神探高斯系列/06古墨.txt",
+      "sha256": "d2e06756d59c97da5d68f36218da963173a66088bfedde2b20e4723c92920b38",
+      "start_line": 14,
+      "end_line": 682
+    },
+    {
+      "path": "神探高斯系列/07怪房子.txt",
+      "sha256": "bb9f0101aa80a50c54cef8f95a105f2bd9ad7c4aacf1bb7e3971da166182de45",
+      "start_line": 14,
+      "end_line": 667
+    },
+    {
+      "path": "神探高斯系列/08怪人奇骗.txt",
+      "sha256": "64a6662ef058f3975d2ce534f9a272a0441cb3a19e1695c42fc3bc153ab65849",
+      "start_line": 14,
+      "end_line": 662
+    },
+    {
+      "path": "神探高斯系列/09鬼照片.txt",
+      "sha256": "f9aaf0ba14a8569243c1ed6a66e8d5f871e8bd1073ae6b3b95978aa25d4c47ab",
+      "start_line": 14,
+      "end_line": 622
+    },
+    {
+      "path": "神探高斯系列/10黑美人.txt",
+      "sha256": "01b6cba49ab3020c55e17a7a5d5c6f1894fb585d56d56bb07392a5166a99d40b",
+      "start_line": 14,
+      "end_line": 710
+    },
+    {
+      "path": "神探高斯系列/11及时赶到.txt",
+      "sha256": "bddadc4bc621dfcad140258681aa15fa3acb9b667a5505c6d505267126d0700f",
+      "start_line": 14,
+      "end_line": 678
+    },
+    {
+      "path": "神探高斯系列/12金发女.txt",
+      "sha256": "37dcc5fae8c1cb2dd84a21e87d616626b77428e03c42de18a3fd24f003da1207",
+      "start_line": 14,
+      "end_line": 680
+    },
+    {
+      "path": "神探高斯系列/13金酋长.txt",
+      "sha256": "84094d7fd877af7a0077d1727782a10b388ef7e247872aeb8854309d9841b99b",
+      "start_line": 14,
+      "end_line": 796
+    },
+    {
+      "path": "神探高斯系列/14迷途横祸.txt",
+      "sha256": "e3dc2e70f37dab0b0021c7928fec2f4fad121080a8ec4e6dbb3cc841aded7f78",
+      "start_line": 14,
+      "end_line": 684
+    },
+    {
+      "path": "神探高斯系列/15魔鬼的舞蹈.txt",
+      "sha256": "467d2c8a1154d2cf1ebbeed801ea9aed0a349ebf587031e6b5b36d72f9f3e1aa",
+      "start_line": 14,
+      "end_line": 680
+    },
+    {
+      "path": "神探高斯系列/16弄假成真.txt",
+      "sha256": "48bb8e0c921d87ee60fb8c142b329e3243a720c85f35ee2ff331835747394907",
+      "start_line": 14,
+      "end_line": 671
+    },
+    {
+      "path": "神探高斯系列/17奇迹.txt",
+      "sha256": "9dc1d24ed7c5bfd850801e401e4ea4249fd875f79d96addeb953fb01ccb9cbc8",
+      "start_line": 14,
+      "end_line": 822
+    },
+    {
+      "path": "神探高斯系列/18奇轮.txt",
+      "sha256": "dd21e6c5f6d3bd002bf30c7adff7a0329824a267ab8ce0ef8fb3dcf2b61cd2c0",
+      "start_line": 14,
+      "end_line": 719
+    },
+    {
+      "path": "神探高斯系列/19擒凶记.txt",
+      "sha256": "7ebae0c2a2bc71741080e877bb67bb9296b4a1083790752343096fb8df123a7f",
+      "start_line": 14,
+      "end_line": 698
+    },
+    {
+      "path": "神探高斯系列/20三与四.txt",
+      "sha256": "e0e8d40c2f3789469640578a2db5b7bed2d8e9a9a6667ef84ff286d066954bdb",
+      "start_line": 14,
+      "end_line": 688
+    },
+    {
+      "path": "神探高斯系列/21闪电天.txt",
+      "sha256": "fd9ec963862f6cd9564954e4074f8115b8e053a181a8b7ccf395b04b05d76f4c",
+      "start_line": 14,
+      "end_line": 704
+    },
+    {
+      "path": "神探高斯系列/22水中宝盒.txt",
+      "sha256": "5a41e9625617c3875caf561ebabedbc68f5425e86ae36dcda513e4c0d3576b91",
+      "start_line": 14,
+      "end_line": 684
+    },
+    {
+      "path": "神探高斯系列/23太阳神.txt",
+      "sha256": "fcffd188243e7c6fd17d37f690349fca394ca1756c443c7d2e20ec7de1cbd01d",
+      "start_line": 14,
+      "end_line": 963
+    },
+    {
+      "path": "神探高斯系列/24晚礼服.txt",
+      "sha256": "55cbf8b20a4aacc3ce2565227dcd97cdd7dec895008114cd9dbf29bbdee7d1d4",
+      "start_line": 14,
+      "end_line": 680
+    },
+    {
+      "path": "神探高斯系列/25未卜先知.txt",
+      "sha256": "3c5dac4abed1bd6d172b5977abae8a335a7146f0776da52bcd07c22abb25d926",
+      "start_line": 14,
+      "end_line": 701
+    },
+    {
+      "path": "神探高斯系列/26雾夜煞星.txt",
+      "sha256": "07dd04aa54dfa0cc18afda492814d0ab2e8b54caf78bc0012822a6ee4ef4c458",
+      "start_line": 14,
+      "end_line": 672
+    },
+    {
+      "path": "神探高斯系列/27亚洲皇后.txt",
+      "sha256": "555a220222ce0e019ee832071b7365dfa81b6672f9eddd94595eaa86a7e6695f",
+      "start_line": 14,
+      "end_line": 563
+    },
+    {
+      "path": "神探高斯系列/28妖女煞星.txt",
+      "sha256": "247763c42ffbf3dec604bebe11c1572d0e0b4264d7a36d8e64ecd25719085eed",
+      "start_line": 14,
+      "end_line": 727
+    },
+    {
+      "path": "神探高斯系列/29预告.txt",
+      "sha256": "7cd5876c93e7809a3c1c5c1bf3dc5b4058a94fae22d1cfa713cc90ff3250bfea",
+      "start_line": 14,
+      "end_line": 699
+    },
+    {
+      "path": "非人协会系列/000整合者序.txt",
+      "sha256": "bf34d8909d588d34467d961b8adbc434adade258da72e01acce27875aea73712",
+      "exclude": "整合者说明，无小说正文"
+    },
+    {
+      "path": "非人协会系列/01非人协会 序.txt",
+      "sha256": "b7f9f563186e1a8c4f22671d7412eeb657f809735bd3632905ec78ec7bdf5973",
+      "start_line": 17
+    },
+    {
+      "path": "非人协会系列/02鱼人.txt",
+      "sha256": "0c75e3d3989458a91a5c36ae1cb9c85fd67a71e16f43f0094b7eab5f7e6ac753"
+    },
+    {
+      "path": "非人协会系列/03两生.txt",
+      "sha256": "8ae5a93218a75b18cd6a8d8855b08121f6f3566ccd55932d5975b7c51c654f8e"
+    },
+    {
+      "path": "非人协会系列/04大鹰.txt",
+      "sha256": "a9fe156a936d1d4c78454f4b342ab9bececd8a9ac743d19b21af5dc358a4c94d",
+      "end_line": 811
+    },
+    {
+      "path": "非人协会系列/05泥沼火人.txt",
+      "sha256": "e9dce6f4d673318b13eb985e68496d82f29ed9b09f9a8e1965abcae998986c5b",
+      "end_line": 617
+    },
+    {
+      "path": "非人协会系列/06三千年死人.txt",
+      "sha256": "8fdc132e48f5bd046b3c7abcc132f0ed9934d86cea012c983e50c47e187e3d7a",
+      "end_line": 384
+    },
+    {
+      "path": "非人协会系列/07主宰.txt",
+      "sha256": "7204d3dc3f71bc381649db8e1cddd0df13f7a4ce0d926dae7d9d52e2415ff061"
+    }
+  ]
+}
