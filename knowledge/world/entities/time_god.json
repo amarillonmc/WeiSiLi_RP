@@ -1,0 +1,38 @@
+{
+  "id": "time_god",
+  "title": "时间大神",
+  "kind": "person",
+  "summary": "利用代理、思想复制与欲望幻象施加影响的危险异类。",
+  "mechanism": {
+    "text": "神名不证明绝对时间权能；作用依赖玩偶、通讯、空间与被复制的思想。",
+    "epistemic_status": "textual_fact"
+  },
+  "access_conditions": [
+    "具体代理、装置与空间联系"
+  ],
+  "limits": [
+    "可受创、衰弱并需要敌人合作",
+    "未确认死亡，也未证明能随意改写一切历史"
+  ],
+  "last_known_state": "《怪头》与罗开合作脱困后离去，后续去向未知。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "可围绕未履行的承诺、残留代理和交易设计后续，但复出细节须标改编。"
+  },
+  "character_ids": [
+    "adventure_time_god"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_9d0ebd0f18d08c07",
+    "evidence_9859fc06837ceb51",
+    "evidence_1d8fb1f0e0b938f5",
+    "evidence_7043568fc1252fae"
+  ],
+  "book_ids": [
+    "book_3d11fdd8a762",
+    "book_4061a76cea80",
+    "book_b032f28a589d"
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0",
+  "id": "book_670aaaa7d25b",
+  "title": "鬼钟",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/01鬼钟.txt",
+  "file": "books/book_670aaaa7d25b.json",
+  "inherited_fact_count": 7,
+  "curated_links": {
+    "events": [
+      "l_refusal"
+    ],
+    "relations": [
+      "before__l_refusal__l_doll",
+      "before__l_doll__l_angel_loss",
+      "before__l_angel_loss__l_enemy_alliance"
+    ],
+    "arcs": [
+      "arc_luokai"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "ab22cd0a925e789dbaa5ffc5964a133a4fb9c0e242e41cb8b014f84fb732555b",
+  "source_lines": 766,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "宝娥",
+      "card_id": "adventure_baoe",
+      "role": "反派",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "素拉脱烈",
+      "card_id": "adventure_sulatuolie",
+      "role": "反派",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "黛娜",
+      "card_id": "adventure_daina",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "时间大神",
+      "card_id": "adventure_time_god",
+      "role": "反派",
+      "basis": "具有本书实质行动或主线作用"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "花灵",
+      "reason": "单书受害者，未见独立主视角或跨书行动"
+    },
+    {
+      "name": "组织其他杀手",
+      "reason": "未可独立识别的执行者，不虚构姓名"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_b87d2826f05c2f82",
+      "statement": "拒绝杀戮指示",
+      "annotation_character_ids": [
+        "adventure_luokai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_00e3caba3ac77832",
+      "statement": "身份与毒杀方式",
+      "annotation_character_ids": [
+        "adventure_sulatuolie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16164aa1a8c65b13",
+      "statement": "筛选、反省和死亡",
+      "annotation_character_ids": [
+        "adventure_sulatuolie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d941b1d54763bb48",
+      "statement": "持来福枪对峙回忆",
+      "annotation_character_ids": [
+        "adventure_daina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ce2defbfdaebb2e",
+      "statement": "身份、追踪与药针",
+      "annotation_character_ids": [
+        "adventure_baoe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b46462ea2c0baf56",
+      "statement": "麻醉弱点与脑训练",
+      "annotation_character_ids": [
+        "adventure_luokai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e8c046573999f537",
+      "statement": "嫉妒、麻醉与漏洞",
+      "annotation_character_ids": [
+        "adventure_baoe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

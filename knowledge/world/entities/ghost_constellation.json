@@ -1,0 +1,35 @@
+{
+  "id": "ghost_constellation",
+  "title": "幽灵星座与采集使者",
+  "kind": "institution",
+  "summary": "以灵魂采集、研究与惩罚介入地球的异星体系。",
+  "mechanism": {
+    "text": "使者有不同任务和个体选择；黑纱违反任务、受罚及牺牲，引出救援和身体交接。",
+    "epistemic_status": "textual_fact"
+  },
+  "access_conditions": [
+    "特定使者、设备与协作",
+    "返回仍需医院等条件"
+  ],
+  "limits": [
+    "不等同卫斯理的阴间",
+    "黑纱留下身体不等于本人仍存活",
+    "奥丽卡不自动继承使者全部权限"
+  ],
+  "last_known_state": "《黑暗天使》救援完成，黑纱消失，原振侠和奥丽卡分别换用身体。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "可围绕采集对象、任务背离与救援谈判写冲突，不默认机构对灵魂有正当所有权。"
+  },
+  "character_ids": [],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_a9550617d1379158",
+    "evidence_f97d09fb5a38f1b5",
+    "evidence_5e1627ed27172007"
+  ],
+  "book_ids": [
+    "book_b918ee450d56"
+  ]
+}

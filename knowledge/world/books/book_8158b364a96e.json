@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "id": "book_8158b364a96e",
+  "title": "冷血人",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/51冷血人.txt",
+  "file": "books/book_8158b364a96e.json",
+  "inherited_fact_count": 21,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "17bde8bfd220d40ede9975e6bf2c5cd47fe7d3f3403a132e73734a02fb33b217",
+  "source_lines": 2532,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "白克劳",
+      "card_id": "mulanhua_bai_kelau",
+      "role": "反派",
+      "basis": "毁坏技术、炸屋及利益逻辑。"
+    },
+    {
+      "name": "韦勃·李诺",
+      "card_id": "mulanhua_wei_bo_linuo",
+      "role": "单书主角",
+      "basis": "发明与拒绝封存导致主线。"
+    },
+    {
+      "name": "蒙蒂",
+      "card_id": "mulanhua_mengdi",
+      "role": "阶段性对立者",
+      "basis": "受命伪装接近、交接资料与保护老板。"
+    },
+    {
+      "name": "孙永泰",
+      "card_id": "mulanhua_sun_yongtai",
+      "role": "反派",
+      "basis": "代理交易及命案主使。"
+    },
+    {
+      "name": "蔡杰",
+      "card_id": "mulanhua_cai_jie",
+      "role": "阶段性对立者",
+      "basis": "犯罪交易参与后叛离供述。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "系列主角",
+      "basis": "警方调查与围捕。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "接包、避爆与受伤恢复。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "探望及终局判断。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "跨书重要配角",
+      "basis": "安妮牵挂与互动。"
+    },
+    {
+      "name": "杨科长",
+      "card_id": "mulanhua_yang_chief",
+      "role": "跨书重要配角",
+      "basis": "实际承担刑案调查；综合卡另记录59腐败与死亡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "齐警官、机组、救援军官、现场证人与匿名执行者",
+      "reason": "辅助调查、救援或缺乏独立身份的执行人员；犯罪首领和具名成员已纳入。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c3657c98de939540",
+      "statement": "匆忙交包与危险说明。",
+      "annotation_character_ids": [
+        "mulanhua_wei_bo_linuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a257a5fa1d7454a9",
+      "statement": "组织搜索和现场判断。",
+      "annotation_character_ids": [
+        "mulanhua_yang_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63392fafd6ece181",
+      "statement": "档案身份和死亡线索。",
+      "annotation_character_ids": [
+        "mulanhua_wei_bo_linuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dc76530696e56996",
+      "statement": "隐瞒目的的拜访。",
+      "annotation_character_ids": [
+        "mulanhua_mengdi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_05c74ada20684c2b",
+      "statement": "经理、船长及隶属关系。",
+      "annotation_character_ids": [
+        "mulanhua_mengdi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8520384244dc8ef2",
+      "statement": "财力、企业及动机底色。",
+      "annotation_character_ids": [
+        "mulanhua_bai_kelau"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_50f819b4aa0e536e",
+      "statement": "阻挡会面、手镯与接受命令。",
+      "annotation_character_ids": [
+        "mulanhua_mengdi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb9b1fa502fc107d",
+      "statement": "交易交接。",
+      "annotation_character_ids": [
+        "mulanhua_mengdi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f856b5c46409230",
+      "statement": "取得皮包与烧毁软片。",
+      "annotation_character_ids": [
+        "mulanhua_bai_kelau"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d71b81e5b143877e",
+      "statement": "海上身体与获救条件。",
+      "annotation_character_ids": [
+        "mulanhua_bai_kelau"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_09c07ffaa24eab1d",
+      "statement": "获救后惭愧。",
+      "annotation_character_ids": [
+        "mulanhua_mengdi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b34b36a609b5038",
+      "statement": "目的、炸屋及未主使命案。",
+      "annotation_character_ids": [
+        "mulanhua_bai_kelau"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3c9da9cb40f31bed",
+      "statement": "技术、推广争执与自毁。",
+      "annotation_character_ids": [
+        "mulanhua_wei_bo_linuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6638979f931ddcd2",
+      "statement": "对老板受斥的反应。",
+      "annotation_character_ids": [
+        "mulanhua_mengdi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47db26dbfb2c5623",
+      "statement": "索酬、叛离和保护需求。",
+      "annotation_character_ids": [
+        "mulanhua_cai_jie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f337cd70d983c631",
+      "statement": "被挟持、反击和获救。",
+      "annotation_character_ids": [
+        "mulanhua_cai_jie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7758cd1dc46b7167",
+      "statement": "身份、组织、委托与杀人命令。",
+      "annotation_character_ids": [
+        "mulanhua_sun_yongtai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_447e95069dfc0785",
+      "statement": "详细供述与留下记录。",
+      "annotation_character_ids": [
+        "mulanhua_cai_jie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_36e5b46f0368c3da",
+      "statement": "交易要求和被杀经过。",
+      "annotation_character_ids": [
+        "mulanhua_wei_bo_linuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76e6101f23788456",
+      "statement": "真正杀人命令的证实。",
+      "annotation_character_ids": [
+        "mulanhua_bai_kelau"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3772eebb9f02e374",
+      "statement": "执行经过和据点被捕。",
+      "annotation_character_ids": [
+        "mulanhua_sun_yongtai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

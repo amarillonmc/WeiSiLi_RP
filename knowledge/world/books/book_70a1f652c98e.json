@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "id": "book_70a1f652c98e",
+  "title": "爱管闲事的司机",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/爱管闲事的司机.txt",
+  "file": "books/book_70a1f652c98e.json",
+  "inherited_fact_count": 6,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "2ec89a0aae856d4f7db9882c1ae26844dc066cb793a91752be77ae2ccff41f9e",
+  "source_lines": 51,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "爱管闲事的鬼司机",
+      "card_id": "guihua_nosy_driver",
+      "role": "主角/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "鬼司机车上的许诺男子",
+      "card_id": "guihua_nosy_male",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "鬼司机车上的犹疑女子",
+      "card_id": "guihua_nosy_female",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_a5c5360a7636ae61",
+      "statement": "观察、评价与自我克制",
+      "annotation_character_ids": [
+        "guihua_nosy_driver"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ec68b3dc4ba53e8c",
+      "statement": "许诺、女方内疚与贬低他人",
+      "annotation_character_ids": [
+        "guihua_nosy_male"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ddc6a3714b7e341",
+      "statement": "对旧关系的感激和摇摆",
+      "annotation_character_ids": [
+        "guihua_nosy_female"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d4c4c7dd66b3e5cf",
+      "statement": "经济追问和危险反应",
+      "annotation_character_ids": [
+        "guihua_nosy_male"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dcba55cba2195d1c",
+      "statement": "无声影响、异域行车与身份",
+      "annotation_character_ids": [
+        "guihua_nosy_driver"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d807b0ea1e0184f4",
+      "statement": "受质问与要求停车",
+      "annotation_character_ids": [
+        "guihua_nosy_female"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,186 @@
+{
+  "schema_version": "1.0",
+  "id": "book_8b71583b37d1",
+  "title": "神秘血影掌",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/26神秘血影掌.txt",
+  "file": "books/book_8b71583b37d1.json",
+  "inherited_fact_count": 12,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "c7d3c8dc45ab21a921de84a0507261f10b9e7afdf2c918c8013f739c3ebfe1c7",
+  "source_lines": 2630,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "张连根",
+      "card_id": "mulanhua_zhang_liangen",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "皇帝号上的四名蒙面执行者",
+      "card_id": "mulanhua_bloodshadow_masked_executioners",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "梅乐（血掌影）",
+      "card_id": "mulanhua_bloodshadow",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "求助叛离的壮硕中年人",
+      "reason": "单次求救证人与被害者，未展开独立主角主线或具体反派行动；腕表刺杀作为首脑控制手段证据。"
+    },
+    {
+      "name": "歌芳伯爵",
+      "reason": "仅有祝贺兼暗示退让的电话，不足以确认与前册接待人同人，也未形成独立对抗。"
+    },
+    {
+      "name": "孙主任、军方上校、接线生、总参谋长、电影人员",
+      "reason": "一次性办案辅助、受害或信息提供角色；非跨书配角或主线反派。"
+    },
+    {
+      "name": "其他押送军官及机构人员",
+      "reason": "没有独立姓名与人物线，其行动并入梅乐条件性组织资源。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_2753cd50bb1a12b7",
+      "statement": "腕表控制",
+      "annotation_character_ids": [
+        "mulanhua_bloodshadow"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b9aaacf3e11f88ad",
+      "statement": "动员合作",
+      "annotation_character_ids": [
+        "mulanhua_fang_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5384be5a9db96372",
+      "statement": "据点及可追查线索",
+      "annotation_character_ids": [
+        "mulanhua_zhang_liangen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d22714f340881178",
+      "statement": "假投降与诱捕",
+      "annotation_character_ids": [
+        "mulanhua_zhang_liangen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_62d0ec49d5d68865",
+      "statement": "伏击、面具和杀张",
+      "annotation_character_ids": [
+        "mulanhua_bloodshadow_masked_executioners"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9593f00278c992fd",
+      "statement": "被控制后灭口",
+      "annotation_character_ids": [
+        "mulanhua_zhang_liangen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63ee09ec232165a0",
+      "statement": "屠杀、合击和撤离",
+      "annotation_character_ids": [
+        "mulanhua_bloodshadow_masked_executioners"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5db7baa5f970eb30",
+      "statement": "现身和中毒",
+      "annotation_character_ids": [
+        "mulanhua_bloodshadow"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cde853827b1c8156",
+      "statement": "求生妥协与自行解毒",
+      "annotation_character_ids": [
+        "mulanhua_bloodshadow"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ddee8d9ea296f950",
+      "statement": "指纹与真实身份",
+      "annotation_character_ids": [
+        "mulanhua_bloodshadow"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c3792b824fa6c6c5",
+      "statement": "面具发明和叛逃",
+      "annotation_character_ids": [
+        "mulanhua_bloodshadow"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_81f49833707771e5",
+      "statement": "登机与爆炸终局",
+      "annotation_character_ids": [
+        "mulanhua_bloodshadow"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

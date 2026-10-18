@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b310fc0c9328",
+  "title": "催眠之术",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/02催眠之术.txt",
+  "file": "books/book_b310fc0c9328.json",
+  "inherited_fact_count": 7,
+  "curated_links": {
+    "arcs": [
+      "arc_gaosi"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "d6a2d413a1cdf4609f143d222d4976f14a6dd115a71dfa7da75e6dcb6b6826eb",
+  "source_lines": 638,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "催眠盗窃二人组",
+      "card_id": "gaosi_hypnotist_thieves",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "肥王",
+      "card_id": "gaosi_fat_king",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "杰米、小汪",
+      "reason": "开头前事提及，未在本案实际行动。"
+    },
+    {
+      "name": "杨警官",
+      "reason": "本书一次性办案者，非跨书重要配角。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_a76ddfd663df7260",
+      "statement": "拦截、伪装、开锁和催眠",
+      "annotation_character_ids": [
+        "gaosi_hypnotist_thieves"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e56012d87198afcf",
+      "statement": "压价、说破手法与被袭",
+      "annotation_character_ids": [
+        "gaosi_fat_king"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a79e2ca92d6bb77",
+      "statement": "销赃与抢肥王",
+      "annotation_character_ids": [
+        "gaosi_hypnotist_thieves"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46e079d19e83a2a4",
+      "statement": "利用地形、踢枪失败、装催眠脱险",
+      "annotation_character_ids": [
+        "gaosi_gao_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6b24d1e53874dea4",
+      "statement": "手袋废纸",
+      "annotation_character_ids": [
+        "gaosi_fat_king"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fe4bd2aa187918e9",
+      "statement": "持枪、再施术失败与被捕",
+      "annotation_character_ids": [
+        "gaosi_hypnotist_thieves"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_324d647b4e385fa1",
+      "statement": "收赃身份与被捕",
+      "annotation_character_ids": [
+        "gaosi_fat_king"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

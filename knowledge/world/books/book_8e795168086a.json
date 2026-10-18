@@ -1,0 +1,207 @@
+{
+  "schema_version": "1.0",
+  "id": "book_8e795168086a",
+  "title": "天皇巨星",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/32.天皇巨星.txt",
+  "file": "books/book_8e795168086a.json",
+  "inherited_fact_count": 12,
+  "curated_links": {
+    "rules": [
+      "rule_tech_access"
+    ],
+    "entities": [
+      "aishen_world"
+    ],
+    "events": [
+      "y_disappearance"
+    ],
+    "relations": [
+      "before__y_maxian_origin__y_blood_spell",
+      "before__y_blood_spell__y_spell_recoil",
+      "before__y_spell_recoil__y_maxian_recovery",
+      "before__y_maxian_recovery__y_disappearance",
+      "before__y_body_rescue__y_disappearance"
+    ],
+    "arcs": [
+      "arc_yuan",
+      "arc_maxian",
+      "arc_kangwei"
+    ],
+    "issues": [
+      "issue_no_global_now",
+      "issue_adapted_resurrection"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "48538778037f6dff1876f9945b021ca78830dee45ca247f5eb404c42a4b82bf3",
+  "source_lines": 2867,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "独航后失踪"
+    },
+    {
+      "name": "玛仙",
+      "card_id": "yuanzhenxia_ma_xian",
+      "role": "主角",
+      "basis": "新爱神星重建与返回地球"
+    },
+    {
+      "name": "巨星人",
+      "card_id": "yuanzhenxia_giant_star_people",
+      "role": "主角群体",
+      "basis": "灾害、救援与责任"
+    },
+    {
+      "name": "爱神星新生机械人",
+      "card_id": "yuanzhenxia_aishen_machines",
+      "role": "重要配角",
+      "basis": "通信、防御与资料分析"
+    },
+    {
+      "name": "康维十七世",
+      "card_id": "yuanzhenxia_kangwei",
+      "role": "重要配角",
+      "basis": "未能接回原振侠"
+    },
+    {
+      "name": "海棠",
+      "card_id": "yuanzhenxia_hai_tang",
+      "role": "重要配角",
+      "basis": "联络观察地带"
+    },
+    {
+      "name": "曹银雪",
+      "card_id": "yuanzhenxia_cao_yinxue",
+      "role": "重要配角",
+      "basis": "约定寻夫"
+    },
+    {
+      "name": "曹金福",
+      "card_id": "weisili_cao_jinfu",
+      "role": "重要配角",
+      "basis": "约定寻找姐夫"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "玛仙返回见养父"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "康维引导观察地球"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e03fcbb75b14b865",
+      "statement": "接触与尺度",
+      "annotation_character_ids": [
+        "yuanzhenxia_giant_star_people"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_df7eae2b1d07b25f",
+      "statement": "飞船援助",
+      "annotation_character_ids": [
+        "yuanzhenxia_giant_star_people"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c51b7fe62bfdf72",
+      "statement": "群体防御和分析",
+      "annotation_character_ids": [
+        "yuanzhenxia_aishen_machines"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b52454807768c446",
+      "statement": "五号的情绪及通信限制",
+      "annotation_character_ids": [
+        "yuanzhenxia_aishen_machines"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_711a613d1de2ca8e",
+      "statement": "告别与牺牲推断",
+      "annotation_character_ids": [
+        "yuanzhenxia_giant_star_people"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_967e87fb0e61f703",
+      "statement": "确认责任与断讯",
+      "annotation_character_ids": [
+        "yuanzhenxia_giant_star_people"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2bf8835ee803a832",
+      "statement": "末期寻找安排",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhong_daya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f0b55873f0513a6",
+      "statement": "失踪终局和亲友的未知",
+      "annotation_character_ids": [
+        "yuanzhenxia_yuanzhenxia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_952ffef6fd830d5c",
+      "statement": "终局安排",
+      "annotation_character_ids": [
+        "yuanzhenxia_cao_yinxue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_90690e8fe5a2ea42",
+      "statement": "接送与搜寻边界",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9f482e6c65bcc94a",
+      "statement": "最后出现位置",
+      "annotation_character_ids": [
+        "yuanzhenxia_hai_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_73412a59c3cdd4ac",
+      "statement": "搜寻仍有边界",
+      "annotation_character_ids": [
+        "yuanzhenxia_ma_xian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

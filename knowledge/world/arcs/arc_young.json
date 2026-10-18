@@ -1,0 +1,55 @@
+{
+  "id": "arc_young",
+  "title": "年轻人的经历与成长",
+  "kind": "arc",
+  "character_id": "adventure_young",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "由利益、机巧和互相算计，逐渐学会珍惜伴侣并承认她判断胜过自己。"
+  },
+  "stages": [
+    {
+      "label": "阻止战争并共同生活",
+      "event_ids": [
+        "n_empire"
+      ],
+      "state": "愿为公主冒险。",
+      "rp_constraint": "早期仍有越轨和贪利。"
+    },
+    {
+      "label": "接受本人而非旧身体",
+      "event_ids": [
+        "y_body_rescue",
+        "n_new_body"
+      ],
+      "state": "面对伴侣新身体与感知。",
+      "rp_constraint": "不把身体变化理解为关系所有权。"
+    },
+    {
+      "label": "信任公主的方案",
+      "event_ids": [
+        "n_myth_return"
+      ],
+      "state": "等待她找到出路并共同返回。",
+      "rp_constraint": "依靠伴侣不等于本人拥有全部能力。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_6ebfef60c9c7607d",
+    "evidence_cf292e3c373f4aa9",
+    "evidence_78cae77c5e7acb89",
+    "evidence_0f1708bc91259ace",
+    "evidence_3d4ac0b43ae1fb2e",
+    "evidence_9b56cb49b31ba1c2"
+  ],
+  "book_ids": [
+    "book_5f4cae703ba6",
+    "book_c611c01a4c92",
+    "book_d135e392bd20",
+    "book_d2f0e3b9ed17",
+    "book_d3358ada2f8a",
+    "book_fbd86e8f5385"
+  ]
+}

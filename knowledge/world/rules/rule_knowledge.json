@@ -1,0 +1,22 @@
+{
+  "id": "rule_knowledge",
+  "title": "角色只知道有途径获得的事",
+  "kind": "rule",
+  "epistemic_status": "synthesis",
+  "statement": "共同出现在书中、同属机构、彼此相识都不足以让角色共享全部秘密。读者看到的真相需要由亲历、证词、通讯或调查进入角色知识。",
+  "rp_application": "场景单独保存 knows、believes、suspects、withheld；揭露后也允许错误理解。",
+  "limits": [
+    "齐白和李宣宣住过阴间，仍不知道一至四号的完整身份。",
+    "康维免受某类水的影响，也因此收不到同样的信息。"
+  ],
+  "schema_version": "1.0",
+  "section": "rules",
+  "evidence_ids": [
+    "evidence_226707156edd4f6b",
+    "evidence_79942ffbbb08016a"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da",
+    "book_c33c05bc68a3"
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "schema_version": "1.0",
+  "id": "book_676f75bdba78",
+  "title": "黑暗历险",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/31黑暗历险.txt",
+  "file": "books/book_676f75bdba78.json",
+  "inherited_fact_count": 25,
+  "curated_links": {
+    "rules": [
+      "rule_mortality"
+    ],
+    "events": [
+      "m_blind"
+    ],
+    "relations": [
+      "before__m_blind__m_wedding"
+    ],
+    "arcs": [
+      "arc_mulanhua",
+      "arc_muxiuzhen",
+      "arc_annie"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "8e1ee099de53004b65e0a96eb0a6704e6f5e1ae37b98037acc560270f611aae8",
+  "source_lines": 2770,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卡德勒",
+      "card_id": "mulanhua_kadele",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "陈定宇",
+      "card_id": "mulanhua_chen_dingyu",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "吉蒂",
+      "card_id": "mulanhua_jidi",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "保博士",
+      "reason": "真实眼科专家在终段治疗评估，是本书单次协作者；假博士卡德勒另立，不能互换技能。"
+    },
+    {
+      "name": "陈小珠、玲玲",
+      "reason": "前者为绑架受害者，只有助人被绑和获救线；后者仅作恋情与金钱动机提及，均未独立承担主角或反派行动。"
+    },
+    {
+      "name": "吉蒂的十五名袭击部下、酒店四名绑匪、司机与据点守卫",
+      "reason": "均未具独立姓名或持续身份；具体行动用于吉蒂、卡德勒及主角的组织和应对证据，不重复把每名执行者列为角色。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_1bdc6023f403e5a5",
+      "statement": "失明心态和听觉推断",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c0eb43cdc2e25d4",
+      "statement": "特殊手杖分工",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f2b35b6476c6d015",
+      "statement": "手杖强光部件",
+      "annotation_character_ids": [
+        "mulanhua_yun_yifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_463bf2986594e1c5",
+      "statement": "假医生、假面包师及假地址",
+      "annotation_character_ids": [
+        "mulanhua_kadele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3270ab125053a6ba",
+      "statement": "接掌组织、复仇及苛刻命令",
+      "annotation_character_ids": [
+        "mulanhua_jidi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9bbfd4a37ed6061b",
+      "statement": "军师真相、十年资历与口技",
+      "annotation_character_ids": [
+        "mulanhua_kadele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d8221e69ea144abb",
+      "statement": "诱骗失败后借势绑架",
+      "annotation_character_ids": [
+        "mulanhua_kadele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6fd6d35d0aa7f4ac",
+      "statement": "灯光扩音器与潜望镜",
+      "annotation_character_ids": [
+        "mulanhua_jidi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ab9914ccaf7d7756",
+      "statement": "误导与器械限制",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b6aa27823a374119",
+      "statement": "杀下属及夺杖执念",
+      "annotation_character_ids": [
+        "mulanhua_jidi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_21dd617bd52aaced",
+      "statement": "责怪后拒独逃",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7c395b2a9f2f60f7",
+      "statement": "监控和麻醉",
+      "annotation_character_ids": [
+        "mulanhua_kadele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f1be6626992a14a",
+      "statement": "水下发夹开铐",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7eb8fce2e3ff6a0e",
+      "statement": "夺权误认及反制",
+      "annotation_character_ids": [
+        "mulanhua_kadele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa9f0c8e9561c01a",
+      "statement": "死亡确认与通缉身份",
+      "annotation_character_ids": [
+        "mulanhua_kadele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_097054889b34499f",
+      "statement": "责备并安排保护",
+      "annotation_character_ids": [
+        "mulanhua_fang_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f90efc5458c6497",
+      "statement": "接受方保护",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bbc777197fd5f27a",
+      "statement": "绑架与收买警官",
+      "annotation_character_ids": [
+        "mulanhua_jidi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_de507dfc1c54d65f",
+      "statement": "职位、女儿被绑和中断行动",
+      "annotation_character_ids": [
+        "mulanhua_chen_dingyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_52e07390ac5a9e65",
+      "statement": "弱点、支票及屈服",
+      "annotation_character_ids": [
+        "mulanhua_chen_dingyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca709de29f14a548",
+      "statement": "担保与受控加深",
+      "annotation_character_ids": [
+        "mulanhua_chen_dingyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a3e0ef915b7d1d0b",
+      "statement": "假警鞋疑点与领导盲点",
+      "annotation_character_ids": [
+        "mulanhua_fang_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b0d585b793a7d402",
+      "statement": "麻醉安妮、抢杖失利与被捕供述",
+      "annotation_character_ids": [
+        "mulanhua_jidi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_40f86a38fd746485",
+      "statement": "告密纠错、救女及捐款",
+      "annotation_character_ids": [
+        "mulanhua_chen_dingyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7c2f9a914bb2917f",
+      "statement": "手术复明前景",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

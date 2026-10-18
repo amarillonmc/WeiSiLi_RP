@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d2f0e3b9ed17",
+  "title": "尺蠖",
+  "aliases": [],
+  "series": "年轻人",
+  "source_path": "年轻人/04尺蠖 .txt",
+  "file": "books/book_d2f0e3b9ed17.json",
+  "inherited_fact_count": 8,
+  "curated_links": {
+    "events": [
+      "n_empire"
+    ],
+    "relations": [
+      "before__n_empire__y_body_rescue",
+      "before__y_body_rescue__n_new_body",
+      "before__n_new_body__n_myth_return"
+    ],
+    "arcs": [
+      "arc_princess",
+      "arc_young"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "cc5764b4e8c69e04f8a02d25f0868f9ef08eebe1aab592dfd1c53e2a855618eb",
+  "source_lines": 1009,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "年轻人",
+      "card_id": "adventure_young",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "奥丽卡公主",
+      "card_id": "adventure_princess",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "中国人",
+      "card_id": "adventure_uncle",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "亨特",
+      "card_id": "adventure_hunter",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "两名纳粹将军",
+      "card_id": "adventure_nazi_generals",
+      "role": "阶段性对立者",
+      "basis": "共同主导军事计划且多次直接对抗"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "印地安战士及服务人员",
+      "reason": "从属部队，没有具独立身份的指挥与选择。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_8f2f2c85effff07c",
+      "statement": "外形、枪法与来意",
+      "annotation_character_ids": [
+        "adventure_hunter"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d6c107671ff001f7",
+      "statement": "报复与早期关系",
+      "annotation_character_ids": [
+        "adventure_princess"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_97ee29a0f0f8fcc1",
+      "statement": "项目转向",
+      "annotation_character_ids": [
+        "adventure_lula"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b9f0422b27154a8e",
+      "statement": "两将军的地图筹划、态度与参与计划",
+      "annotation_character_ids": [
+        "adventure_nazi_generals"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c62a76fda9452c1f",
+      "statement": "交枪与拔枪对抗",
+      "annotation_character_ids": [
+        "adventure_nazi_generals"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f3a95698380d647d",
+      "statement": "部队纪律不足及诱饵调离",
+      "annotation_character_ids": [
+        "adventure_nazi_generals"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f08151266d68a9b",
+      "statement": "计划覆灭与死亡",
+      "annotation_character_ids": [
+        "adventure_hunter"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_78cae77c5e7acb89",
+      "statement": "带走公主使其免于覆灭",
+      "annotation_character_ids": [
+        "adventure_young"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

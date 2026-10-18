@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0",
+  "id": "book_3bafae3cade4",
+  "title": "妖女煞星",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/28妖女煞星.txt",
+  "file": "books/book_3bafae3cade4.json",
+  "inherited_fact_count": 15,
+  "curated_links": {
+    "rules": [
+      "rule_mortality"
+    ],
+    "arcs": [
+      "arc_gaosi",
+      "arc_liyufang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "b5129a279214ffb005891d7b75e09c5c510d466bcb8f930a3dca3733f343e742",
+  "source_lines": 709,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "何求",
+      "card_id": "gaosi_he_qiu",
+      "role": "单书主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "何求的儿子",
+      "card_id": "gaosi_he_qiu_son",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "大煞星派出的收款女孩",
+      "card_id": "gaosi_he_son_girlfriend",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "何求的父亲",
+      "card_id": "gaosi_he_qiu_father",
+      "role": "反派/已故源头人物",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "何求两名得力伙计",
+      "reason": "电影院追人是奉主人寻高斯，误会不构成犯罪反派，且无跨书个人身份。"
+    },
+    {
+      "name": "老仆、医院护士、鉴钞人员",
+      "reason": "一次性协助和信息角色，没有独立主角线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_ca829746eab26556",
+      "statement": "生活背景、求助、擅自安排",
+      "annotation_character_ids": [
+        "gaosi_he_qiu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db6be8810fd6895e",
+      "statement": "勒索信及电话要求",
+      "annotation_character_ids": [
+        "gaosi_he_qiu_son"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_66f1b177cc29ddb0",
+      "statement": "粗哑电话催逼",
+      "annotation_character_ids": [
+        "gaosi_he_qiu_son"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_81fbe6c4953c8448",
+      "statement": "年龄、打扮、紧张与拔枪",
+      "annotation_character_ids": [
+        "gaosi_he_son_girlfriend"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77124c6baf996baf",
+      "statement": "误把真枪当玩具，受伤须手术",
+      "annotation_character_ids": [
+        "gaosi_gao_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7624dec3e372990",
+      "statement": "高斯误判、枪伤与逃离",
+      "annotation_character_ids": [
+        "gaosi_he_son_girlfriend"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_604939aba8827a40",
+      "statement": "调查亲近者不徇私，但也有先入怀疑",
+      "annotation_character_ids": [
+        "gaosi_li_yufang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3acb1d48b3c85e91",
+      "statement": "外观与父子关系",
+      "annotation_character_ids": [
+        "gaosi_he_qiu_son"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7194919b1165ff5",
+      "statement": "遗产现金与维护父亲",
+      "annotation_character_ids": [
+        "gaosi_he_qiu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5433374230b81482",
+      "statement": "现金遗产及临终叮嘱",
+      "annotation_character_ids": [
+        "gaosi_he_qiu_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_974bf349007799c5",
+      "statement": "儿子供述、地下设备与终局",
+      "annotation_character_ids": [
+        "gaosi_he_qiu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9f27fda7bfadbfc8",
+      "statement": "专业检验",
+      "annotation_character_ids": [
+        "gaosi_he_qiu_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4be9de34050c090e",
+      "statement": "男友身份和供述",
+      "annotation_character_ids": [
+        "gaosi_he_son_girlfriend"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c03983d1459e1662",
+      "statement": "跳楼、自供及买枪",
+      "annotation_character_ids": [
+        "gaosi_he_qiu_son"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_868f40b97c0aac40",
+      "statement": "地下设备、源头及海外销售",
+      "annotation_character_ids": [
+        "gaosi_he_qiu_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

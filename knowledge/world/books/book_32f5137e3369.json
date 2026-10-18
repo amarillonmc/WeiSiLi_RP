@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "id": "book_32f5137e3369",
+  "title": "北极氢弹战",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/28北极氢弹战.txt",
+  "file": "books/book_32f5137e3369.json",
+  "inherited_fact_count": 30,
+  "curated_links": {
+    "arcs": [
+      "arc_mulanhua",
+      "arc_annie"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "158ecca856e5053ed45b13474a104d60a0187c875d1062e7356f653a6d7b2508",
+  "source_lines": 2666,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "丁七手",
+      "card_id": "mulanhua_ding_qishou",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "核弹勒索组织的五号",
+      "card_id": "mulanhua_arctic_five",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "死人（核弹勒索组织二号）",
+      "card_id": "mulanhua_arctic_deadman",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "王德财（花格外套枪手）",
+      "card_id": "mulanhua_arctic_wang_decai",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "红发三号与假新婚丈夫",
+      "card_id": "mulanhua_arctic_honeymoon_pair",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "鲁克所在的冰田押送组",
+      "card_id": "mulanhua_arctic_escort_six",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "纳尔逊",
+      "card_id": "mulanhua_nelson",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "老鼠炳",
+      "reason": "单次提供丁七手行规及失主线索的助手，未有独立反派线。"
+    },
+    {
+      "name": "占·泰嘉、爱斯基摩文扬及国际警方同伴",
+      "reason": "一次性协作者，起初试手不是持续敌对；没有其他书实际行动证据。"
+    },
+    {
+      "name": "格里治中尉、保护他的上校、搜寻少将",
+      "reason": "本书飞行员证人和执行协作者；虽有逃俘与绘图贡献，仍属于单次配角，未扩为独立主角。"
+    },
+    {
+      "name": "核弹组织未现身的总部首脑、研究组人员、南美据点守卫",
+      "reason": "没有独立身份与人物行动链，作为组织资源和环境威胁记录。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_bd64d1d23cf8c5e7",
+      "statement": "技艺与自设边界",
+      "annotation_character_ids": [
+        "mulanhua_ding_qishou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0ba11b33f86f07f3",
+      "statement": "退让和被袭",
+      "annotation_character_ids": [
+        "mulanhua_ding_qishou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3bb73381bbedfcc8",
+      "statement": "不知如何寻找而拒绝",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5240de2680441573",
+      "statement": "失主跟踪与归还规则",
+      "annotation_character_ids": [
+        "mulanhua_ding_qishou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fc5bb9a1ae1d4f2b",
+      "statement": "身份、求助与骗局被揭",
+      "annotation_character_ids": [
+        "mulanhua_nelson"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff308242046ce699",
+      "statement": "引局安排被识破",
+      "annotation_character_ids": [
+        "mulanhua_ding_qishou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a74346030f70eed7",
+      "statement": "普通人自知与知识边界",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_062f84266245fd23",
+      "statement": "危机与经费动机",
+      "annotation_character_ids": [
+        "mulanhua_nelson"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d16fa8b9b576455f",
+      "statement": "尸体掩护与突然消失",
+      "annotation_character_ids": [
+        "mulanhua_arctic_deadman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_03ae1389a0a9672d",
+      "statement": "借搜尸出枪和逃车",
+      "annotation_character_ids": [
+        "mulanhua_arctic_wang_decai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b7628504d7d46018",
+      "statement": "轮椅器械",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a04c13a424d77389",
+      "statement": "翻车还击及被擒",
+      "annotation_character_ids": [
+        "mulanhua_arctic_wang_decai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_383c265356a71c29",
+      "statement": "假名与拖延",
+      "annotation_character_ids": [
+        "mulanhua_arctic_wang_decai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a5018fbbc3d80fe3",
+      "statement": "组织结构、招揽和善款说辞",
+      "annotation_character_ids": [
+        "mulanhua_arctic_five"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7612761c33514c9f",
+      "statement": "假死、自夸和内部争执",
+      "annotation_character_ids": [
+        "mulanhua_arctic_deadman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_94bb4ce28fb50b16",
+      "statement": "绑架与骗局知情",
+      "annotation_character_ids": [
+        "mulanhua_arctic_wang_decai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5c31183863858d9",
+      "statement": "骗局及部门冲突",
+      "annotation_character_ids": [
+        "mulanhua_arctic_five"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0d0d646f7ea960cb",
+      "statement": "勒索失败与人质送回",
+      "annotation_character_ids": [
+        "mulanhua_arctic_deadman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ab051f45004ea0b1",
+      "statement": "送还人质与再取承诺",
+      "annotation_character_ids": [
+        "mulanhua_arctic_five"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_adba829b45c2971f",
+      "statement": "威慑、失枪和三号身份",
+      "annotation_character_ids": [
+        "mulanhua_arctic_honeymoon_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_846d74814c39987e",
+      "statement": "求财动机与人质",
+      "annotation_character_ids": [
+        "mulanhua_arctic_honeymoon_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_981ba06e0caba7bd",
+      "statement": "假婚邀请和绑架",
+      "annotation_character_ids": [
+        "mulanhua_arctic_honeymoon_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c9b0206ea79cbee9",
+      "statement": "注射与分组看守",
+      "annotation_character_ids": [
+        "mulanhua_arctic_escort_six"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8cc84ea7d9e1e1a5",
+      "statement": "麻醉限制、有限火箭与链式爆炸",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e138da6a6934fdb",
+      "statement": "相信药效和总部接应",
+      "annotation_character_ids": [
+        "mulanhua_arctic_escort_six"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d7fb5abb93812c21",
+      "statement": "粗疏卸车、鲁克中针与全部失手",
+      "annotation_character_ids": [
+        "mulanhua_arctic_escort_six"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b86ae8bfcb027e8",
+      "statement": "搬入车厢及总部毁灭",
+      "annotation_character_ids": [
+        "mulanhua_arctic_escort_six"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8ca263ea83f5d72f",
+      "statement": "回归反制与被捕",
+      "annotation_character_ids": [
+        "mulanhua_arctic_honeymoon_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e8236429b212b0c",
+      "statement": "恢复和兑现奖金",
+      "annotation_character_ids": [
+        "mulanhua_nelson"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a92ff85145b4ac8c",
+      "statement": "疗养院计划与个人快乐",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "before__w_family_recovery__w_hongling_choices",
+  "source": "w_family_recovery",
+  "target": "w_hongling_choices",
+  "relation": "before",
+  "epistemic_status": "synthesis",
+  "reason": "家史与亲子关系从追索、相处推进到外婆投影确认；事件状态逐步增加。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "家史与亲子关系从追索、相处推进到外婆投影确认；事件状态逐步增加。",
+  "evidence_ids": [
+    "evidence_9d7ff2aa7e94f812",
+    "evidence_0bb1e9d7e786e292",
+    "evidence_ee42f3cc9a489e8c",
+    "evidence_3beea314932e36e3"
+  ],
+  "book_ids": [
+    "book_02a15832ae8a",
+    "book_6f42d4433a38"
+  ]
+}

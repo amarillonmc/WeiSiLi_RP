@@ -1,0 +1,68 @@
+{
+  "id": "arc_kangwei",
+  "title": "康维十七世的经历与成长",
+  "kind": "arc",
+  "character_id": "yuanzhenxia_kangwei",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "机械生命从性能自信转向感情、责任和承认技术失效。"
+  },
+  "stages": [
+    {
+      "label": "异星工程协作",
+      "event_ids": [
+        "y_maxian_recovery"
+      ],
+      "state": "接口和飞船等能力有设施条件。",
+      "rp_constraint": "不是所有星际问题的答案机。"
+    },
+    {
+      "label": "柳絮与主体性",
+      "event_ids": [
+        "y_liuxu_rescue"
+      ],
+      "state": "协助脱离控制，形成感情。",
+      "rp_constraint": "有信号干预能力也需面对同意问题。"
+    },
+    {
+      "label": "对寿命的期待",
+      "event_ids": [
+        "w_quota_research"
+      ],
+      "state": "为柳絮盼望配额成果。",
+      "rp_constraint": "研究未成，身体无水也带来通信盲区。"
+    },
+    {
+      "label": "寻找有边界",
+      "event_ids": [
+        "y_disappearance"
+      ],
+      "state": "可以广泛传讯，不能保证找到。",
+      "rp_constraint": "此阶段与配额调查未建立绝对同期。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_d5f8672ac7d83623",
+    "evidence_1235625f877d0b31",
+    "evidence_e7be2a98fed06f71",
+    "evidence_90690e8fe5a2ea42",
+    "evidence_085016989c36978a",
+    "evidence_808849acbe26be49",
+    "evidence_3d8062cdf0019882",
+    "evidence_ffb4721ae0737a32",
+    "evidence_db91b370c1b9beee",
+    "evidence_e0ab4720457af797",
+    "evidence_7300bc70eba702b2"
+  ],
+  "book_ids": [
+    "book_285c39eb6c50",
+    "book_6a15650b973f",
+    "book_6e1d8d6fd7c7",
+    "book_723871ef0f84",
+    "book_8e795168086a",
+    "book_b6f70bb43bd7",
+    "book_c33c05bc68a3"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rule_mortality",
+  "title": "武侠能力仍受身体和器械约束",
+  "kind": "rule",
+  "epistemic_status": "synthesis",
+  "statement": "训练、武术、胆量和经验能改变胜算，但主要人类角色仍会受伤、中毒、失明、疲劳和误判。",
+  "rp_application": "保留伤后恢复、环境与救援过程；把工具效果记给工具，把配合成果记给团队。",
+  "limits": [
+    "不能从躲枪一次推导超音速。",
+    "安妮恢复行走的原因没有确定，不能照方复制。"
+  ],
+  "schema_version": "1.0",
+  "section": "rules",
+  "evidence_ids": [
+    "evidence_1bdc6023f403e5a5",
+    "evidence_ab9914ccaf7d7756",
+    "evidence_3f90efc5458c6497",
+    "evidence_7c2f9a914bb2917f",
+    "evidence_445f2c8453f73e66",
+    "evidence_931832d78af012d5",
+    "evidence_7b0e36121feb1066",
+    "evidence_924441133b361245",
+    "evidence_55f94c9be1a8010a",
+    "evidence_10e8045857ddd18d",
+    "evidence_76356d25d426c8e3",
+    "evidence_77124c6baf996baf"
+  ],
+  "book_ids": [
+    "book_1759a14aa7d2",
+    "book_2d3443649105",
+    "book_3bafae3cade4",
+    "book_676f75bdba78"
+  ]
+}

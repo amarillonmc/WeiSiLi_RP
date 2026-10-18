@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "book_9377f55f8968",
+  "title": "非人协会 序",
+  "aliases": [],
+  "series": "非人协会系列",
+  "source_path": "非人协会系列/01非人协会 序.txt",
+  "file": "books/book_9377f55f8968.json",
+  "inherited_fact_count": 1,
+  "curated_links": {
+    "entities": [
+      "nonhuman_association"
+    ]
+  },
+  "direct_source_review": true,
+  "source_sha256": "f5b1d8077769911fb05d021e73ed21a3e4e658d98d37f57b7753a1a5ab1b6d35",
+  "source_lines": 20,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "总管",
+      "card_id": "adventure_zongguan",
+      "role": "重要配角",
+      "basis": "持续管理古堡且参与《鱼人》等正文"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "海烈根",
+      "reason": "已故引荐者，仅通过回忆建立协会史，未作为本篇行动主角；其能力未揭示"
+    },
+    {
+      "name": "罗伦斯、林白、阿姆斯特朗",
+      "reason": "背景比较或传闻人物，没有独立行动线"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_1ecabe434b8841d6",
+      "statement": "外貌、语言与总管职责",
+      "annotation_character_ids": [
+        "adventure_zongguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

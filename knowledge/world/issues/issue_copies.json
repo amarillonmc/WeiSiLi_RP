@@ -1,0 +1,30 @@
+{
+  "id": "issue_copies",
+  "title": "复制、借体、化身与同名不可自动合并",
+  "kind": "issue",
+  "claims": [
+    "高达原本和副本有不同爱情与终局。",
+    "杜良副本无法学习新知识，本尊持续创新。",
+    "奥丽卡使用黑纱身体但非双灵魂融合。"
+  ],
+  "handling": {
+    "epistemic_status": "adaptation",
+    "text": "优先沿用 character_id；身体、意识和记忆分别建状态，不用外貌或称号消除不同主体。"
+  },
+  "schema_version": "1.0",
+  "section": "issues",
+  "evidence_ids": [
+    "evidence_1ab47fa288bda2a2",
+    "evidence_f253506602afc4e0",
+    "evidence_cf0393cf1acf709f",
+    "evidence_00a673d12d539052",
+    "evidence_b28861735fbe5e57",
+    "evidence_a9550617d1379158",
+    "evidence_f97d09fb5a38f1b5"
+  ],
+  "book_ids": [
+    "book_533b28ccc313",
+    "book_b918ee450d56",
+    "book_ccfaaef512be"
+  ]
+}

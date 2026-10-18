@@ -1,0 +1,358 @@
+{
+  "schema_version": "1.0",
+  "id": "book_aaf33c6ffc7d",
+  "title": "超人集团",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/06超人集团.txt",
+  "file": "books/book_aaf33c6ffc7d.json",
+  "inherited_fact_count": 29,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "bf31ec075bd44139b231d2f3df57d84b07018adaba717d1fe54f5005c3efb466",
+  "source_lines": 2366,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "阿尔法博士",
+      "card_id": "mulanhua_alpha",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "哲道尔博士",
+      "card_id": "mulanhua_zhedaoer",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "森里美",
+      "card_id": "mulanhua_sen_limei",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "法南度",
+      "card_id": "mulanhua_fanandu",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "嘉路宾",
+      "card_id": "mulanhua_jialubin",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "超人集团游艇上的匿名上级",
+      "card_id": "mulanhua_superman_yacht_chief",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "超人集团游艇上的张姓成员",
+      "card_id": "mulanhua_zhang_boatman",
+      "role": "阶段性对立者/转为救助者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "梅将军",
+      "card_id": "mulanhua_general_mei",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "萨都拉",
+      "card_id": "mulanhua_sadula",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "阿敏娜",
+      "card_id": "mulanhua_amina",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "丁培、老妇仆人",
+      "reason": "事故参与者与受害者，非本书主角；老妇受辱中毒不自动归为反派。"
+    },
+    {
+      "name": "法道尔少校、王警官、五名蛙人",
+      "reason": "本书一次性盟友或执行人员；相应组织行动为主角的有条件协助。"
+    },
+    {
+      "name": "赛特、学校女工、参观领队及无名押送者",
+      "reason": "一次性学员或执行助手，未有独立人物目标；不能把被木兰花击昏者自动当主要反派。"
+    },
+    {
+      "name": "各国领事武官",
+      "reason": "会议背景人物，独立起主导阻碍作用的梅将军另建卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_80fedfe08a1e1b15",
+      "statement": "与同伙共同参与事故与争执",
+      "annotation_character_ids": [
+        "mulanhua_fanandu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f22a9622653248cb",
+      "statement": "两名商人的共同街头行为，未区分全部动作",
+      "annotation_character_ids": [
+        "mulanhua_sen_limei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_880b389710083718",
+      "statement": "初查身份和毒死疑点",
+      "annotation_character_ids": [
+        "mulanhua_fanandu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3debcf1054a29c11",
+      "statement": "姓名与住处",
+      "annotation_character_ids": [
+        "mulanhua_sen_limei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_903e0a37ab5caf11",
+      "statement": "姓名与住所",
+      "annotation_character_ids": [
+        "mulanhua_fanandu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_557d2d26b54a915d",
+      "statement": "假入境证件",
+      "annotation_character_ids": [
+        "mulanhua_sen_limei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dece61c6835cba57",
+      "statement": "据点清除和证件伪造",
+      "annotation_character_ids": [
+        "mulanhua_fanandu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b82c7d9e1035564",
+      "statement": "被俘、武器被弃及身体局限",
+      "annotation_character_ids": [
+        "mulanhua_alpha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a45583bb7528e322",
+      "statement": "热探测救援与首领身份",
+      "annotation_character_ids": [
+        "mulanhua_alpha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_559a2ae2731d0877",
+      "statement": "未完成火箭、强制招募与无线供能",
+      "annotation_character_ids": [
+        "mulanhua_alpha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1e30529fdf45f648",
+      "statement": "本人自报身份与接引",
+      "annotation_character_ids": [
+        "mulanhua_sen_limei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2d68044325531248",
+      "statement": "学校、真实现身、语言和教学",
+      "annotation_character_ids": [
+        "mulanhua_zhedaoer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e1e9f59433a48f53",
+      "statement": "环境实际构成囚禁",
+      "annotation_character_ids": [
+        "mulanhua_zhedaoer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_78cd27597923d611",
+      "statement": "立威失败、武器与上级制止",
+      "annotation_character_ids": [
+        "mulanhua_jialubin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ce3a7cbca172f4e6",
+      "statement": "腕表命令及并非阿尔法的声音",
+      "annotation_character_ids": [
+        "mulanhua_superman_yacht_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a786bb358c97cf73",
+      "statement": "警告、姓氏与恐惧",
+      "annotation_character_ids": [
+        "mulanhua_zhang_boatman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b83e7dc9cd6974ee",
+      "statement": "监听、招募与灭口期限",
+      "annotation_character_ids": [
+        "mulanhua_superman_yacht_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_78addd1df0b1f662",
+      "statement": "拒绝入伙与引鲨处决",
+      "annotation_character_ids": [
+        "mulanhua_jialubin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_366c6bbce8b14151",
+      "statement": "押送、反摔和鲨袭",
+      "annotation_character_ids": [
+        "mulanhua_jialubin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9be497a831c8773f",
+      "statement": "发现藏身者、敲码与默许逃离",
+      "annotation_character_ids": [
+        "mulanhua_zhang_boatman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bc43dd5d6ede4ad2",
+      "statement": "俘虏实际脱身",
+      "annotation_character_ids": [
+        "mulanhua_superman_yacht_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_144d9f984658cbcf",
+      "statement": "会议身份与质问",
+      "annotation_character_ids": [
+        "mulanhua_general_mei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_461f0be159b2af83",
+      "statement": "索证、否定与离场",
+      "annotation_character_ids": [
+        "mulanhua_general_mei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d8602d44052ddba9",
+      "statement": "拒绝救援对后续行动的影响",
+      "annotation_character_ids": [
+        "mulanhua_general_mei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a0b36e1e9104d0c",
+      "statement": "援助、情感与实力自知",
+      "annotation_character_ids": [
+        "mulanhua_sadula"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ab18f4bbf77498e4",
+      "statement": "外貌、拥抱与家庭互动",
+      "annotation_character_ids": [
+        "mulanhua_amina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_00bb4d823ec28c77",
+      "statement": "有限舰队实际部署",
+      "annotation_character_ids": [
+        "mulanhua_sadula"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9ef169e91fb6e792",
+      "statement": "集团供能体系毁灭",
+      "annotation_character_ids": [
+        "mulanhua_zhedaoer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ced966899f8acb35",
+      "statement": "总部毁灭与平台失电",
+      "annotation_character_ids": [
+        "mulanhua_alpha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,323 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f8a7c1a887d7",
+  "title": "太阳之女",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/03太阳之女.txt",
+  "file": "books/book_f8a7c1a887d7.json",
+  "inherited_fact_count": 26,
+  "curated_links": {
+    "arcs": [
+      "arc_mulanhua",
+      "arc_muxiuzhen"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "fe88f067382231943763db85889d6aeb63f3f7bb7bc368acb69b259e6f2b93f1",
+  "source_lines": 1686,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "康斯坦丁",
+      "card_id": "mulanhua_constantine",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "卡基",
+      "card_id": "mulanhua_kaji",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "儿岛谷温",
+      "card_id": "mulanhua_kojima_guwen",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "冥王星（黑龙党）",
+      "card_id": "mulanhua_pluto",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "黑龙党案的市长夫人",
+      "card_id": "mulanhua_mayor_wife",
+      "role": "受胁迫的反派/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "达拉姆盗油案的三名船长",
+      "card_id": "mulanhua_oilship_captains",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "萨都拉",
+      "card_id": "mulanhua_sadula",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "阿敏娜",
+      "card_id": "mulanhua_amina",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "儿岛强介",
+      "reason": "本书仅师承回述；与后续大庭龙男师门故事需跨书区分，不先合并。"
+    },
+    {
+      "name": "地球艾契曼及其他会议首脑",
+      "reason": "档案和会议命令中的短暂姓名，未承担本书可区分的独立行动线；保留在组织背景，后续若实际行动再纳入。"
+    },
+    {
+      "name": "两名潜水水手",
+      "reason": "一次性执行者，具体突袭归入三船长的条件性人手。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_9014f236a07d32bb",
+      "statement": "主动承担客机危机",
+      "annotation_character_ids": [
+        "mulanhua_sadula"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7a0631906cdaad46",
+      "statement": "客机危机与父女离别",
+      "annotation_character_ids": [
+        "mulanhua_amina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_353efa770c37a0b2",
+      "statement": "唇形观察",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_50db87e38a2480a7",
+      "statement": "诬认及权威姿态",
+      "annotation_character_ids": [
+        "mulanhua_mayor_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_54d8e597db590ad4",
+      "statement": "持枪、受制与勒索真相",
+      "annotation_character_ids": [
+        "mulanhua_mayor_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ac36f781f2ccad2a",
+      "statement": "控制市长夫人与身份",
+      "annotation_character_ids": [
+        "mulanhua_constantine"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86278bf7922ab824",
+      "statement": "鞋跟通讯和反擒",
+      "annotation_character_ids": [
+        "mulanhua_constantine"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aca70a02fb15852e",
+      "statement": "武术段位说法边界",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fb9637e3293de67d",
+      "statement": "柔道荣誉段位",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d4d25ca08e5a448",
+      "statement": "枪械、脱艇、拳击与饮水",
+      "annotation_character_ids": [
+        "mulanhua_sadula"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8102ef5ee9ab03e2",
+      "statement": "海上对抗",
+      "annotation_character_ids": [
+        "mulanhua_pluto"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad6c9795b4b053df",
+      "statement": "蒙眼接引与隐藏路线",
+      "annotation_character_ids": [
+        "mulanhua_constantine"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d48fec33ccb004fc",
+      "statement": "现身、报号和上级限制",
+      "annotation_character_ids": [
+        "mulanhua_pluto"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_938334cb7e90221f",
+      "statement": "器材、蒙眼及被取走注射器",
+      "annotation_character_ids": [
+        "mulanhua_pluto"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9cbfe8c5c0638104",
+      "statement": "隔空招揽与密室威胁",
+      "annotation_character_ids": [
+        "mulanhua_kaji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f75a2a96e3b97661",
+      "statement": "会议设施、决斗条件及放人",
+      "annotation_character_ids": [
+        "mulanhua_kaji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8fa4f63af6cc0326",
+      "statement": "师承关系与出走",
+      "annotation_character_ids": [
+        "mulanhua_kojima_guwen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0a0179ab49bafa3f",
+      "statement": "比试条件及对峙",
+      "annotation_character_ids": [
+        "mulanhua_kojima_guwen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9466d86acc6b39f3",
+      "statement": "连续技及重伤",
+      "annotation_character_ids": [
+        "mulanhua_kojima_guwen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d469870391739012",
+      "statement": "被俘、毒杀和线索",
+      "annotation_character_ids": [
+        "mulanhua_constantine"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_017655ce48adddc9",
+      "statement": "灭口与总部真相",
+      "annotation_character_ids": [
+        "mulanhua_kaji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff6cb4c7ee247fa0",
+      "statement": "三人现身、付款及拖延",
+      "annotation_character_ids": [
+        "mulanhua_oilship_captains"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_00fb4c7c83c961c2",
+      "statement": "突袭导致枪击、爆炸及逃生",
+      "annotation_character_ids": [
+        "mulanhua_oilship_captains"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1278bcac5dd8dfa2",
+      "statement": "动机、死亡及政局结果",
+      "annotation_character_ids": [
+        "mulanhua_kaji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0e4e7bb2a8f25166",
+      "statement": "悲愤、驾驶与任总理",
+      "annotation_character_ids": [
+        "mulanhua_sadula"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ce93d084c4ae7176",
+      "statement": "资料交还及捐校条件",
+      "annotation_character_ids": [
+        "mulanhua_mayor_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

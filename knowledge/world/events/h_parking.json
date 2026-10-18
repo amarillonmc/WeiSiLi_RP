@@ -1,0 +1,27 @@
+{
+  "id": "h_parking",
+  "title": "鬼停车场的自我认知反转",
+  "kind": "event",
+  "summary": "阿陈从指责他人走到意识自己可能是醉驾死后返回的鬼。",
+  "epistemic_status": "testimony",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "单篇封闭遭遇，和各系列主线无可靠同期锚。",
+    "narrative_layer": "present"
+  },
+  "state_before": "当事人把自己当正常取车者。",
+  "state_after": "认知反转，仍停留在地点内。",
+  "knowledge_boundary": "不让其他主角自动知道此案或给出阴间档案解释。",
+  "character_ids": [
+    "guihua_parking_chen"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_e8d923de6a12506a",
+    "evidence_5893f64ed8bf7ade"
+  ],
+  "book_ids": [
+    "book_376132b17fcd"
+  ]
+}

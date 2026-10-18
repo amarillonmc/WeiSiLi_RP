@@ -1,0 +1,33 @@
+{
+  "id": "m_marriage_swap",
+  "title": "穆秀珍婚礼、绑架和假新娘",
+  "kind": "event",
+  "summary": "穆与云四风结婚后被绑架，金妃冒充；云四风凭共同记忆察觉，真穆自救仍需警方解围。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《失踪新娘》至《怪新郎》。",
+    "narrative_layer": "present"
+  },
+  "state_before": "婚姻开始，亲友以为救回了新娘。",
+  "state_after": "替身身份揭破，真正夫妻团聚。",
+  "knowledge_boundary": "假新娘的柔弱和行动不算真穆经历；共同记忆不是读心术。",
+  "character_ids": [
+    "mulanhua_mu_xiuzhen",
+    "mulanhua_yun_sifeng",
+    "mulanhua_annie"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_1e001eaf18c344d5",
+    "evidence_ca53d0f75888babf",
+    "evidence_2379610642a8b321",
+    "evidence_e631089cc7836242",
+    "evidence_ffaf5cd196bbe0d3"
+  ],
+  "book_ids": [
+    "book_7305a311c73f",
+    "book_d891efd52524"
+  ]
+}

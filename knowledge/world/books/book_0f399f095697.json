@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "id": "book_0f399f095697",
+  "title": "快活秘方",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/21.快活秘方.txt",
+  "file": "books/book_0f399f095697.json",
+  "inherited_fact_count": 19,
+  "curated_links": {
+    "bridges": [
+      "bridge_jinte"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "c436b88f9a39165dfa397d47f3921e93fbb25af543c48eed797766d538438846",
+  "source_lines": 8275,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查与拒绝转化"
+    },
+    {
+      "name": "黄绢",
+      "card_id": "yuanzhenxia_huang_juan",
+      "role": "重要配角",
+      "basis": "国家谈判"
+    },
+    {
+      "name": "卡尔斯",
+      "card_id": "yuanzhenxia_kaersi",
+      "role": "反派",
+      "basis": "干预发掘"
+    },
+    {
+      "name": "玛仙",
+      "card_id": "yuanzhenxia_ma_xian",
+      "role": "重要配角",
+      "basis": "灵魂讨论"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "开端讨论"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "开端讨论"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "开端讨论"
+    },
+    {
+      "name": "金特",
+      "card_id": "yuanzhenxia_jinte",
+      "role": "单书主角",
+      "basis": "核心调查、讯息或选择"
+    },
+    {
+      "name": "普通教授",
+      "card_id": "yuanzhenxia_putong",
+      "role": "单书主角",
+      "basis": "核心调查、讯息或选择"
+    },
+    {
+      "name": "朗医生",
+      "card_id": "yuanzhenxia_lang",
+      "role": "单书主要行动者",
+      "basis": "核心调查、讯息或选择"
+    },
+    {
+      "name": "羽生（考古队员）",
+      "card_id": "yuanzhenxia_yusheng",
+      "role": "单书主角",
+      "basis": "核心调查、讯息或选择"
+    },
+    {
+      "name": "快活古城的无肉体生命群体",
+      "card_id": "yuanzhenxia_fastlife_people",
+      "role": "核心非人主体",
+      "basis": "核心调查、讯息或选择"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "工程队长、女保镖及其他队员",
+      "reason": "按职务出现的执行人员，无独立后续身份"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_2bcbc78c8473f60f",
+      "statement": "卫斯理旧识、既有经历与灵媒能力",
+      "annotation_character_ids": [
+        "yuanzhenxia_jinte"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad9f63f43b722e41",
+      "statement": "身份",
+      "annotation_character_ids": [
+        "yuanzhenxia_jinte"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_df83ee0255608365",
+      "statement": "追求",
+      "annotation_character_ids": [
+        "yuanzhenxia_jinte"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_30b3dfcbcb652ef4",
+      "statement": "体貌",
+      "annotation_character_ids": [
+        "yuanzhenxia_yusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_410c40975f628356",
+      "statement": "发现",
+      "annotation_character_ids": [
+        "yuanzhenxia_putong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5587a36214e8dc8",
+      "statement": "通灵石柱",
+      "annotation_character_ids": [
+        "yuanzhenxia_jinte"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_545a7787726578dc",
+      "statement": "过去的讯息",
+      "annotation_character_ids": [
+        "yuanzhenxia_fastlife_people"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_19be2d7032c3e8a6",
+      "statement": "进化理论",
+      "annotation_character_ids": [
+        "yuanzhenxia_fastlife_people"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d7f7b158a51df8c5",
+      "statement": "署名问题与资助",
+      "annotation_character_ids": [
+        "yuanzhenxia_putong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_213311039d0f9775",
+      "statement": "探查",
+      "annotation_character_ids": [
+        "yuanzhenxia_yusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1775a9d971a15159",
+      "statement": "现场冲突",
+      "annotation_character_ids": [
+        "yuanzhenxia_putong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9c983c1b4a7f3c1a",
+      "statement": "知情要求",
+      "annotation_character_ids": [
+        "yuanzhenxia_yusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a50624014d8bbdad",
+      "statement": "性格",
+      "annotation_character_ids": [
+        "yuanzhenxia_lang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f60b45a73b8b4e21",
+      "statement": "技术和坦率",
+      "annotation_character_ids": [
+        "yuanzhenxia_lang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46d538d14d094c49",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_jinte"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0a88efad9a66cf02",
+      "statement": "终局选择",
+      "annotation_character_ids": [
+        "yuanzhenxia_lang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71fb71a58301fe88",
+      "statement": "邀请与未答问题",
+      "annotation_character_ids": [
+        "yuanzhenxia_fastlife_people"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3dedee3ded4284b0",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_yusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bea0f0d6b38afd25",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_putong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

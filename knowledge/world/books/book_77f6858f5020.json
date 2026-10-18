@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "id": "book_77f6858f5020",
+  "title": "灵椅",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/06.灵椅.txt",
+  "file": "books/book_77f6858f5020.json",
+  "inherited_fact_count": 9,
+  "curated_links": {
+    "entities": [
+      "spirit_chair"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "5b2790408f171f8dde0941799afdfd913457ffb2f7fe6345348f3b5bc8ee99f7",
+  "source_lines": 9361,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查与亲历"
+    },
+    {
+      "name": "黄绢",
+      "card_id": "yuanzhenxia_huang_juan",
+      "role": "主角",
+      "basis": "行动组织"
+    },
+    {
+      "name": "卡尔斯",
+      "card_id": "yuanzhenxia_kaersi",
+      "role": "反派",
+      "basis": "争夺装置"
+    },
+    {
+      "name": "南越",
+      "card_id": "yuanzhenxia_nanyue",
+      "role": "单书主角",
+      "basis": "本书关键行动者"
+    },
+    {
+      "name": "汉烈米",
+      "card_id": "yuanzhenxia_hanliemi",
+      "role": "单书主角",
+      "basis": "本书关键行动者"
+    },
+    {
+      "name": "灵椅与石台的发声接口",
+      "card_id": "yuanzhenxia_lingyi_interface",
+      "role": "反派（装置接口）",
+      "basis": "本书关键行动者"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "沙尔贡二世、宁王等历史君主",
+      "reason": "文献回溯和类比，不据提及单独扩成完整参战者"
+    },
+    {
+      "name": "林阿生及其他古宅关系人",
+      "reason": "一次性旧事配角"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_036f566af7e62ce8",
+      "statement": "店主身份",
+      "annotation_character_ids": [
+        "yuanzhenxia_nanyue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_17e8f6afaaeb832c",
+      "statement": "考古材料依据",
+      "annotation_character_ids": [
+        "yuanzhenxia_hanliemi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d40ecd030a6bbcf6",
+      "statement": "毁椅建议与隐瞒",
+      "annotation_character_ids": [
+        "yuanzhenxia_nanyue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e4b547b92027dfb",
+      "statement": "思想交流与装置威胁",
+      "annotation_character_ids": [
+        "yuanzhenxia_hanliemi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_583fc26209394428",
+      "statement": "发声与结合主张",
+      "annotation_character_ids": [
+        "yuanzhenxia_lingyi_interface"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f4d89c00116f433",
+      "statement": "阻止与反思",
+      "annotation_character_ids": [
+        "yuanzhenxia_hanliemi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_800485255118fa6e",
+      "statement": "实际能力判断与失败验证",
+      "annotation_character_ids": [
+        "yuanzhenxia_lingyi_interface"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c7cf59ca57512db7",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_hanliemi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f4113e03ed105834",
+      "statement": "终局关系",
+      "annotation_character_ids": [
+        "yuanzhenxia_nanyue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

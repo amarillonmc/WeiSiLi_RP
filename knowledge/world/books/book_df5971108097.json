@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "id": "book_df5971108097",
+  "title": "天外金球",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/010天外金球.txt",
+  "file": "books/book_df5971108097.json",
+  "inherited_fact_count": 17,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "e9637bc936a76a902e6ec9959baf6656b55df519f8996b72635756dd6eced2b5",
+  "source_lines": 2776,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "取球、救援与坚持"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "旧交及结尾救人"
+    },
+    {
+      "name": "钱万人",
+      "card_id": "weisili_qian_wanren",
+      "role": "反派",
+      "basis": "高强武术、官方胁迫及条件释放"
+    },
+    {
+      "name": "萨仁",
+      "card_id": "weisili_saren",
+      "role": "单书主线人物",
+      "basis": "向导、护送和遇害"
+    },
+    {
+      "name": "章摩",
+      "card_id": "weisili_zhangmo",
+      "role": "跨书重要配角",
+      "basis": "行动组织及启示"
+    },
+    {
+      "name": "张将军",
+      "card_id": "weisili_tianwai_zhang_general",
+      "role": "反派",
+      "basis": "拘押和夺取象征"
+    },
+    {
+      "name": "王逢源",
+      "card_id": "weisili_wang_fengyuan",
+      "role": "单书主线人物",
+      "basis": "独立研究段落"
+    },
+    {
+      "name": "微型外星人",
+      "card_id": "weisili_goldball_micropeople",
+      "role": "非人主角",
+      "basis": "求援、能力与生存困境"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "家庭接应"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "未名僧侣、游击队负责人、章摩秘书及白老大同行老人",
+      "reason": "有协助但无姓名分化或独立跨书主线，不杜撰个人完整传记。"
+    },
+    {
+      "name": "袭击车队枪手及士兵",
+      "reason": "从属武装执行者，未证实独立指挥人格。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_2de874e3a75d0229",
+      "statement": "身份和向导路线",
+      "annotation_character_ids": [
+        "weisili_saren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_990d232dc8fb7e81",
+      "statement": "行动委员会和身份",
+      "annotation_character_ids": [
+        "weisili_zhangmo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ce95b5fa3cc504c2",
+      "statement": "身份及地图交涉",
+      "annotation_character_ids": [
+        "weisili_tianwai_zhang_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2720c5da43c8747c",
+      "statement": "身手与师门旧事",
+      "annotation_character_ids": [
+        "weisili_qian_wanren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a728cb003798501f",
+      "statement": "依靠钱万人压制和押解",
+      "annotation_character_ids": [
+        "weisili_tianwai_zhang_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7158d6c9714eae6f",
+      "statement": "白素确认俘虏身份",
+      "annotation_character_ids": [
+        "weisili_tianwai_zhang_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_006ac9a269c0eaaf",
+      "statement": "伏击死亡及影响",
+      "annotation_character_ids": [
+        "weisili_saren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a15597cc07cac330",
+      "statement": "身份、设备和承诺冲突",
+      "annotation_character_ids": [
+        "weisili_wang_fengyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2a0680f537d9acc9",
+      "statement": "切剖、耐心与无结果",
+      "annotation_character_ids": [
+        "weisili_wang_fengyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_407a444beb72cb58",
+      "statement": "启示及静坐推论",
+      "annotation_character_ids": [
+        "weisili_zhangmo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ea4a88aab9c77f99",
+      "statement": "沟通、母船和侦察",
+      "annotation_character_ids": [
+        "weisili_goldball_micropeople"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f744f5a14d16510b",
+      "statement": "家园、三十领袖、能力及重力边界",
+      "annotation_character_ids": [
+        "weisili_goldball_micropeople"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c09d97a0ac8f3f56",
+      "statement": "提醒与可见飞船",
+      "annotation_character_ids": [
+        "weisili_goldball_micropeople"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cbd4b0cc43950414",
+      "statement": "气体枯竭及无回应",
+      "annotation_character_ids": [
+        "weisili_goldball_micropeople"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ccce4e85234916e0",
+      "statement": "末期未有感应",
+      "annotation_character_ids": [
+        "weisili_zhangmo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1772e8580f437573",
+      "statement": "挟持与反制",
+      "annotation_character_ids": [
+        "weisili_qian_wanren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9f73a070aa0ffb6b",
+      "statement": "旧罪、条件与离去",
+      "annotation_character_ids": [
+        "weisili_qian_wanren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

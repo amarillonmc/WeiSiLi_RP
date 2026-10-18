@@ -1,0 +1,32 @@
+{
+  "id": "w_elder_contact",
+  "title": "长老解困计划与救世分歧",
+  "kind": "event",
+  "summary": "蓝丝盼解救长老，卫白借电脑与洞外提问改善沟通；长老提出强制减少人口的计划而继续不开关。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《闭关开关》《行动救星》现代调查阶段。",
+    "narrative_layer": "present"
+  },
+  "state_before": "信仰、筹资和信息压制妨碍判断。",
+  "state_after": "目标冲突被揭明，温宝裕陪蓝丝留下并提供资料。",
+  "knowledge_boundary": "同意理解长老来历不等于接受其人口方案。",
+  "character_ids": [
+    "weisili_chang_lao",
+    "weisili_wen_baoyu",
+    "weisili_lan_si",
+    "weisili_bai_su"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_0f87d4336d11fb38",
+    "evidence_ae777a376f977579",
+    "evidence_85e9af2934c561cd",
+    "evidence_adda98d811a74414"
+  ],
+  "book_ids": [
+    "book_202100bacdcc"
+  ]
+}

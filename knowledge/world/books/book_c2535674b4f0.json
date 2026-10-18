@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "id": "book_c2535674b4f0",
+  "title": "巧夺死光表",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/01巧夺死光表.txt",
+  "file": "books/book_c2535674b4f0.json",
+  "inherited_fact_count": 18,
+  "curated_links": {
+    "entities": [
+      "deathwatch"
+    ],
+    "events": [
+      "m_watch"
+    ],
+    "relations": [
+      "before__m_watch__m_wedding"
+    ],
+    "arcs": [
+      "arc_gaoxiang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "d17086adf4b01549f1ae00a598a20b5a19d9f5d0dfa3d6708f027929925a6171",
+  "source_lines": 3260,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "贺天雄",
+      "card_id": "mulanhua_he_tianxiong",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "陈嘉利",
+      "card_id": "mulanhua_chen_jiali",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "死光表交易的跛足联络人",
+      "card_id": "mulanhua_deathwatch_lame_contact",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "陈嘉利身边的瘦子",
+      "card_id": "mulanhua_deathwatch_thin_agent",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "翡翠号上的死光武器卖方",
+      "card_id": "mulanhua_jade_boat_arms_sellers",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "传令女郎、绑架执行者及高翔部下",
+      "reason": "一次性助手，无独立姓名或主线目标；其具体行动作为所属人物的条件性支援。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_ee621e15ed7e0ba9",
+      "statement": "走私掩护与交易",
+      "annotation_character_ids": [
+        "mulanhua_he_tianxiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d184474543fcdc67",
+      "statement": "探长外观、影片要挟与使命说辞",
+      "annotation_character_ids": [
+        "mulanhua_chen_jiali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4bab1faa63ce383f",
+      "statement": "暗号、机关车及招募",
+      "annotation_character_ids": [
+        "mulanhua_deathwatch_lame_contact"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_154cc047e6487868",
+      "statement": "假死真相及替身",
+      "annotation_character_ids": [
+        "mulanhua_he_tianxiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_02f406eb77db8878",
+      "statement": "明知假死与替死鬼安排",
+      "annotation_character_ids": [
+        "mulanhua_deathwatch_lame_contact"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_da5610e4e9d1fa03",
+      "statement": "真实集团身份",
+      "annotation_character_ids": [
+        "mulanhua_chen_jiali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e81e45b630b7bfb",
+      "statement": "杀同谋独吞",
+      "annotation_character_ids": [
+        "mulanhua_he_tianxiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7387461d22be6123",
+      "statement": "合谋和被背叛",
+      "annotation_character_ids": [
+        "mulanhua_deathwatch_lame_contact"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04dd09fdb5d50739",
+      "statement": "三号与撤离安排",
+      "annotation_character_ids": [
+        "mulanhua_chen_jiali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_624484f4d4d9b249",
+      "statement": "质疑高翔交货",
+      "annotation_character_ids": [
+        "mulanhua_deathwatch_thin_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6276e946a1661049",
+      "statement": "误判死亡及被擒",
+      "annotation_character_ids": [
+        "mulanhua_he_tianxiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_997a9828418db5f3",
+      "statement": "身份核验、护卫与交货",
+      "annotation_character_ids": [
+        "mulanhua_jade_boat_arms_sellers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b78804d5392586ce",
+      "statement": "装置实际表现",
+      "annotation_character_ids": [
+        "mulanhua_jade_boat_arms_sellers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa17a3bd1ac0f23a",
+      "statement": "验货、藏枪及受伤",
+      "annotation_character_ids": [
+        "mulanhua_deathwatch_thin_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad6484e62c8677bf",
+      "statement": "灭口、被捕及武器无效",
+      "annotation_character_ids": [
+        "mulanhua_chen_jiali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_56a6e92f6ceb9e0c",
+      "statement": "逃脱与赃物已毁",
+      "annotation_character_ids": [
+        "mulanhua_deathwatch_thin_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_59e3305b52d927fc",
+      "statement": "骗局终局与转向",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c5bc97419524dd06",
+      "statement": "装置与图样毁坏",
+      "annotation_character_ids": [
+        "mulanhua_jade_boat_arms_sellers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

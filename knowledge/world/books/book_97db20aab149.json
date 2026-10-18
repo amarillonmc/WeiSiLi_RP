@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0",
+  "id": "book_97db20aab149",
+  "title": "困兽",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/13困兽.txt",
+  "file": "books/book_97db20aab149.json",
+  "inherited_fact_count": 10,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "f60bdcbd75df85d7d54ad04ef2868f18d2fb826825b2fa2c6cac5d5bd5cf3906",
+  "source_lines": 1028,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "金艾花",
+      "card_id": "adventure_jinaihua",
+      "role": "阶段性对立者",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "云仙",
+      "card_id": "adventure_yunxian",
+      "role": "反派",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "任务执行者",
+      "card_id": "adventure_executors",
+      "role": "反派",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "韩棋手",
+      "reason": "一次性委托者和遭利用的联络者"
+    },
+    {
+      "name": "已离去的宇宙航行者",
+      "reason": "录像背景来源，不能把技术归给每一个未识别成员"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_92e55e04cbdaaeb0",
+      "statement": "身份与身体训练",
+      "annotation_character_ids": [
+        "adventure_jinaihua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e91211f6cdd87c8e",
+      "statement": "棋子目标与私人关联",
+      "annotation_character_ids": [
+        "adventure_jinaihua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f75a762a860792d4",
+      "statement": "影像造成的疑问",
+      "annotation_character_ids": [
+        "adventure_jinaihua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f94e36584e677607",
+      "statement": "来源、形态与二十成员",
+      "annotation_character_ids": [
+        "adventure_executors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_050d0ffee520f1d5",
+      "statement": "地球身份、二十执行者与监测",
+      "annotation_character_ids": [
+        "adventure_yunxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fe191477bedbe7c0",
+      "statement": "自行选择勒索和音波破坏",
+      "annotation_character_ids": [
+        "adventure_yunxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1468cf66ac363cf1",
+      "statement": "四名执行者的勒索破坏",
+      "annotation_character_ids": [
+        "adventure_executors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ac16505fce9dc84d",
+      "statement": "真正勒索执行来源",
+      "annotation_character_ids": [
+        "adventure_jinaihua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b13db9c37b6765a4",
+      "statement": "精神影响边界",
+      "annotation_character_ids": [
+        "adventure_executors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cf70caf3427e6763",
+      "statement": "学习与名字、关系认知",
+      "annotation_character_ids": [
+        "adventure_yunxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

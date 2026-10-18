@@ -1,0 +1,69 @@
+{
+  "id": "arc_yunsifeng",
+  "title": "云四风的经历与成长",
+  "kind": "arc",
+  "character_id": "mulanhua_yun_sifeng",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "从有对立背景的技术人物到伴侣和合作伙伴，力量来自工作、记忆和行动。"
+  },
+  "stages": [
+    {
+      "label": "尊重失去与陪伴",
+      "event_ids": [
+        "m_ma_loss"
+      ],
+      "state": "协助打捞和技术修复，不催迫感情。",
+      "rp_constraint": "技术工作会疲劳且有知识边界。"
+    },
+    {
+      "label": "凭共同记忆识假",
+      "event_ids": [
+        "m_marriage_swap"
+      ],
+      "state": "独自坚持对替身的怀疑并帮助真妻。",
+      "rp_constraint": "爱情不等于读心。"
+    },
+    {
+      "label": "继续学习新技术",
+      "event_ids": [
+        "m_weicrossover"
+      ],
+      "state": "认真对待新图样与人才。",
+      "rp_constraint": "企业资源需具体安排。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_0bcf398f7e51604e",
+    "evidence_46ee16545b4de25b",
+    "evidence_832f020328a5a762",
+    "evidence_8788d64835f7ab7e",
+    "evidence_ba0c3d62a8951931",
+    "evidence_ad63f05317afe0fe",
+    "evidence_99084ab6edb15cfe",
+    "evidence_f9019fdae9724e1a",
+    "evidence_0109b31c51767e5c",
+    "evidence_ed9be54abf3ab96f",
+    "evidence_e631089cc7836242",
+    "evidence_ffaf5cd196bbe0d3",
+    "evidence_7ee88fb7fabdfb03",
+    "evidence_6bc02c84d9ac5c8d",
+    "evidence_0996784c638d053a",
+    "evidence_887113b67be362c5"
+  ],
+  "book_ids": [
+    "book_0c1410b315bf",
+    "book_1905922229f9",
+    "book_40cc4a079530",
+    "book_46efdff81598",
+    "book_59d1e3e8cb38",
+    "book_7305a311c73f",
+    "book_93599e44ee3e",
+    "book_a82e320d2775",
+    "book_b75096582a1e",
+    "book_d1e263538229",
+    "book_d891efd52524"
+  ]
+}

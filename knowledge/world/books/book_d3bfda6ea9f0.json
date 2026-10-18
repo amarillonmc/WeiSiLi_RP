@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d3bfda6ea9f0",
+  "title": "电眼怪客",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/10电眼怪客.txt",
+  "file": "books/book_d3bfda6ea9f0.json",
+  "inherited_fact_count": 18,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "a2bf5c2f598b724f3e3673ea9fa39083bff4aa41649a54d9386752044306ee99",
+  "source_lines": 2668,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "冯乐安",
+      "card_id": "mulanhua_feng_lean",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "韦九",
+      "card_id": "mulanhua_wei_jiu",
+      "role": "反派/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "西华夫",
+      "card_id": "mulanhua_xihuafu",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "卡登船长",
+      "card_id": "mulanhua_captain_kaden",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "林赛德、林赛保",
+      "reason": "本书实际登场的赌术顾问与一次性助手；未证实跨书行动，不因赌徒身份自动归为反派。"
+    },
+    {
+      "name": "水晶宫胖瘦股东",
+      "reason": "求助并承诺资助诊所的委托者，有逐利背景但未承担本案敌对阴谋。"
+    },
+    {
+      "name": "花老鼠、傻仔、大头、王警官、连奥爵士及无名船员、枪手",
+      "reason": "仅提及、一次性执行助手或场景协助人员，未形成独立主线身份。"
+    },
+    {
+      "name": "马超文",
+      "reason": "原定出游被取消，本册仅提及未实际行动。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_26460a0362e27a69",
+      "statement": "外观身份",
+      "annotation_character_ids": [
+        "mulanhua_feng_lean"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3bc2ad755ded7700",
+      "statement": "转移监视与共犯",
+      "annotation_character_ids": [
+        "mulanhua_feng_lean"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_799ce8e78f974615",
+      "statement": "职业身份与诱饵作用",
+      "annotation_character_ids": [
+        "mulanhua_xihuafu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_51498d2a7cb745dc",
+      "statement": "开箱名声",
+      "annotation_character_ids": [
+        "mulanhua_wei_jiu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f2cc103c2136bcd8",
+      "statement": "自制门锁",
+      "annotation_character_ids": [
+        "mulanhua_wei_jiu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86c75d5c1de001d0",
+      "statement": "固执守密",
+      "annotation_character_ids": [
+        "mulanhua_wei_jiu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6aa38858929873a5",
+      "statement": "灭口反转与提供线索",
+      "annotation_character_ids": [
+        "mulanhua_wei_jiu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed9a99d2409aeafb",
+      "statement": "拔枪灭口、受伤逃离",
+      "annotation_character_ids": [
+        "mulanhua_xihuafu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3407f29945761a20",
+      "statement": "被控制与杀害",
+      "annotation_character_ids": [
+        "mulanhua_xihuafu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8ac2930aec521a5d",
+      "statement": "视线制人、腕刀杀人和烟幕",
+      "annotation_character_ids": [
+        "mulanhua_feng_lean"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47901030f7925563",
+      "statement": "控制穆秀珍与挟持驾驶",
+      "annotation_character_ids": [
+        "mulanhua_feng_lean"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0600f0a67e10640a",
+      "statement": "接应核验与服务",
+      "annotation_character_ids": [
+        "mulanhua_captain_kaden"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_92afe56a29666d91",
+      "statement": "伪装亲热、被反制和武装支持",
+      "annotation_character_ids": [
+        "mulanhua_captain_kaden"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad800a3b6ccc8dad",
+      "statement": "攻舱机枪爆裂死亡",
+      "annotation_character_ids": [
+        "mulanhua_captain_kaden"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_921a6a9f3331d2e6",
+      "statement": "非法业务与船只来源",
+      "annotation_character_ids": [
+        "mulanhua_captain_kaden"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_18222fcf90392ac6",
+      "statement": "电子工程及探测机制推断",
+      "annotation_character_ids": [
+        "mulanhua_feng_lean"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e3f4e5272256407",
+      "statement": "绑架病人勒索",
+      "annotation_character_ids": [
+        "mulanhua_feng_lean"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ea1ec1040d01ea3",
+      "statement": "取下假眼、催眠失败与被捕",
+      "annotation_character_ids": [
+        "mulanhua_feng_lean"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

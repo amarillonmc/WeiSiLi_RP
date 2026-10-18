@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "id": "book_4b02bc02acd9",
+  "title": "血统",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/074血统.txt",
+  "file": "books/book_4b02bc02acd9.json",
+  "inherited_fact_count": 21,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "48819f80b1bcc7419e121be858c30d7fbc39961ad153e809b8e7f086ce8f433e",
+  "source_lines": 3360,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "双星族群间调查、作战与和解"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "参与、被困与终局判断"
+    },
+    {
+      "name": "郑保云",
+      "card_id": "weisili_zheng_baoyun",
+      "role": "主角",
+      "basis": "混血身份与救朋友的选择"
+    },
+    {
+      "name": "郑天禄",
+      "card_id": "weisili_zheng_tianlu",
+      "role": "重要配角",
+      "basis": "跨《尸变》的父亲历史补全"
+    },
+    {
+      "name": "费勒",
+      "card_id": "weisili_feile",
+      "role": "主角",
+      "basis": "医疗调查的重要独立行动线"
+    },
+    {
+      "name": "红人",
+      "card_id": "weisili_red_visitors",
+      "role": "阶段性对立者",
+      "basis": "追索生命源后转友好"
+    },
+    {
+      "name": "天龙星调查三人组",
+      "card_id": "weisili_tianlong_team",
+      "role": "反派",
+      "basis": "调查、拘押和终局冲突"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "郑老太",
+      "reason": "仅追述既往行为；本人跨《尸变》归早期覆盖，不能据本书提及重复计登场"
+    },
+    {
+      "name": "良辰、美景、温宝裕",
+      "reason": "仅举例或说明没有告知，非本书实际参与"
+    },
+    {
+      "name": "其他仆人、会诊医师与假扮者",
+      "reason": "一次性职业或线索角色，缺少可辨主角生涯"
+    },
+    {
+      "name": "陈三",
+      "reason": "郑宅总管，单书提供闹鬼线索、食宿后勤，无反派行为；017尸变全文不见此人，不能误当跨书角色。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_96f689bf19b7398a",
+      "statement": "身份、年龄及延误联络",
+      "annotation_character_ids": [
+        "weisili_feile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_292d7a35113a8303",
+      "statement": "假扮者、误判及留住观察",
+      "annotation_character_ids": [
+        "weisili_feile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f7170a4ceb2740e",
+      "statement": "父亲尸体谜、留册选择与隐瞒",
+      "annotation_character_ids": [
+        "weisili_zheng_tianlu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_973aab3cf76c450c",
+      "statement": "惊吓原因和之后清醒",
+      "annotation_character_ids": [
+        "weisili_feile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9cc925ce9fbcb8d7",
+      "statement": "变形、带走与搜寻",
+      "annotation_character_ids": [
+        "weisili_red_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1cd67e9900f3e988",
+      "statement": "九名交流者及友善性格",
+      "annotation_character_ids": [
+        "weisili_red_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0eca04b09ddbb136",
+      "statement": "生命矿石与铜箱",
+      "annotation_character_ids": [
+        "weisili_zheng_tianlu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_15239a826c4e9af0",
+      "statement": "生命源及铜屏蔽",
+      "annotation_character_ids": [
+        "weisili_red_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4696add671bdac8b",
+      "statement": "寻回、致谢与还物",
+      "annotation_character_ids": [
+        "weisili_red_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f259a727f8c683ac",
+      "statement": "观察品态度、思想与干扰装置",
+      "annotation_character_ids": [
+        "weisili_tianlong_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c43259c881aef722",
+      "statement": "领队力量、心理破绽及死亡",
+      "annotation_character_ids": [
+        "weisili_tianlong_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e1026eaf6a2925a2",
+      "statement": "末员求生、放人及毁坏设备",
+      "annotation_character_ids": [
+        "weisili_tianlong_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bce8849c2f4b097d",
+      "statement": "物质分解还原传送",
+      "annotation_character_ids": [
+        "weisili_red_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fbdf34ba6939a0c0",
+      "statement": "血统猜疑和前次任务信息",
+      "annotation_character_ids": [
+        "weisili_tianlong_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ad2db4f430800b1",
+      "statement": "护子而谋杀同伴的揭示",
+      "annotation_character_ids": [
+        "weisili_zheng_tianlu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b7aab8f26011fc22",
+      "statement": "借朋友对付天龙星人的危险选择",
+      "annotation_character_ids": [
+        "weisili_zheng_baoyun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4e0a3c9e4dc81b94",
+      "statement": "快反应、红人赠船与救友",
+      "annotation_character_ids": [
+        "weisili_zheng_baoyun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46c54e3c03bf28bc",
+      "statement": "末员自尽及郑的拒绝",
+      "annotation_character_ids": [
+        "weisili_tianlong_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e70a36ee17f8fc8a",
+      "statement": "选择地球归属与最终心智能力",
+      "annotation_character_ids": [
+        "weisili_zheng_baoyun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ce2c3433ea9e6a9b",
+      "statement": "父子关系与儿子的最终认识",
+      "annotation_character_ids": [
+        "weisili_zheng_tianlu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_73e92bd1d5227b96",
+      "statement": "保持联系",
+      "annotation_character_ids": [
+        "weisili_red_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

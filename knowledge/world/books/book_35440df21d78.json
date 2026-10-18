@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "id": "book_35440df21d78",
+  "title": "（命运附篇）十七年",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/065（命运附篇）十七年.txt",
+  "file": "books/book_35440df21d78.json",
+  "inherited_fact_count": 21,
+  "curated_links": {
+    "arcs": [
+      "arc_chen"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "737a131a903e78d950a6c976f141bbe0153c21b4eafe65959558b3167dea9cab",
+  "source_lines": 1047,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "调查与观察"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "读信、接待和协助"
+    },
+    {
+      "name": "陈长青",
+      "card_id": "weisili_chen_changqing",
+      "role": "重要配角",
+      "basis": "资助敌家、帮助玉芳并失恋"
+    },
+    {
+      "name": "王玉芳",
+      "card_id": "weisili_wang_yufang",
+      "role": "主角",
+      "basis": "自述前世与寻找爱人"
+    },
+    {
+      "name": "敌家健",
+      "card_id": "weisili_di_jiajian",
+      "role": "主角",
+      "basis": "事故和疑似玉像再生"
+    },
+    {
+      "name": "敌文同",
+      "card_id": "weisili_di_wentong",
+      "role": "主角",
+      "basis": "十七年雕刻与怨恨转变"
+    },
+    {
+      "name": "敌太太",
+      "card_id": "weisili_di_mother",
+      "role": "主角",
+      "basis": "母亲线与少女来访记录"
+    },
+    {
+      "name": "王振强",
+      "card_id": "weisili_wang_zhenqiang",
+      "role": "主角",
+      "basis": "工程师父亲求助及阻挠"
+    },
+    {
+      "name": "赵自玲",
+      "card_id": "weisili_zhao_ziling",
+      "role": "主角",
+      "basis": "来信母亲与终局家庭选择"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "王玉芬",
+      "reason": "按王玉芳自述的前世身份并入同卡，明确转世有竞争解释；不再建可同时行动的重复肉身"
+    },
+    {
+      "name": "两名精神科专家",
+      "reason": "提出替代解释的一次性受询者，无独立主角线或反派目的"
+    },
+    {
+      "name": "救护者和郊游学生",
+      "reason": "事故见证及救援背景，无足够独立角色线"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_8e6804d2c59b909b",
+      "statement": "母亲来信和长期观察",
+      "annotation_character_ids": [
+        "weisili_zhao_ziling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2147eea3fe24dcc8",
+      "statement": "职业与共同求助",
+      "annotation_character_ids": [
+        "weisili_wang_zhenqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_815f2ea916b6cbef",
+      "statement": "幼年表现和父母求助",
+      "annotation_character_ids": [
+        "weisili_wang_yufang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a9eabefbc9fe017d",
+      "statement": "技艺、十七年雕刻与资助",
+      "annotation_character_ids": [
+        "weisili_di_wentong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f0493780515c14e",
+      "statement": "外形、日常与丧子情感",
+      "annotation_character_ids": [
+        "weisili_di_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8be37fd765c41926",
+      "statement": "日常哀伤",
+      "annotation_character_ids": [
+        "weisili_di_wentong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0083e8529c614bb6",
+      "statement": "少女来访的记忆",
+      "annotation_character_ids": [
+        "weisili_di_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3ef2aaf9d00f4b7a",
+      "statement": "事故现场与死亡",
+      "annotation_character_ids": [
+        "weisili_di_jiajian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_573ee3ed6d3d6287",
+      "statement": "隐去细节和割手行为",
+      "annotation_character_ids": [
+        "weisili_di_wentong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_25fd976820597f32",
+      "statement": "姓名与丧女背景",
+      "annotation_character_ids": [
+        "weisili_zhao_ziling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_287045a914e159aa",
+      "statement": "姓名及旧事故态度",
+      "annotation_character_ids": [
+        "weisili_wang_zhenqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_247bb96792f64ae9",
+      "statement": "驾驶经过和约定的自述",
+      "annotation_character_ids": [
+        "weisili_di_jiajian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_34416ca1d82f5777",
+      "statement": "事故叙述及恢复记忆",
+      "annotation_character_ids": [
+        "weisili_wang_yufang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7eca383ac8cb49d7",
+      "statement": "多年寻找和感应边界",
+      "annotation_character_ids": [
+        "weisili_wang_yufang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_55e4ede1474ad64b",
+      "statement": "痛哭与最终接纳",
+      "annotation_character_ids": [
+        "weisili_di_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0187a6bad5725ee7",
+      "statement": "玉像终局的观察界限",
+      "annotation_character_ids": [
+        "weisili_di_jiajian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dc4ef5989525ee00",
+      "statement": "认像、选择与竞争解释",
+      "annotation_character_ids": [
+        "weisili_wang_yufang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_795b0c9f24f61919",
+      "statement": "接纳和放下怨恨",
+      "annotation_character_ids": [
+        "weisili_di_wentong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_78251a47d87a645a",
+      "statement": "反对留居与检查结果",
+      "annotation_character_ids": [
+        "weisili_wang_zhenqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b2fb657fdb201e22",
+      "statement": "终局反对和停止强逼",
+      "annotation_character_ids": [
+        "weisili_zhao_ziling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa9d7aafeba7b8f8",
+      "statement": "失恋后的骄傲与痛苦",
+      "annotation_character_ids": [
+        "weisili_chen_changqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

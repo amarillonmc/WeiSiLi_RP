@@ -1,0 +1,31 @@
+{
+  "id": "y_body_rescue",
+  "title": "黑暗天使救援与两次身体交接",
+  "kind": "event",
+  "summary": "黑纱彻底牺牲，奥丽卡灵魂进入她留下的活体；原振侠的灵魂救援依赖复制身体及外部协同。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《黑暗天使》，接续幽灵星座线并连接年轻人系列。",
+    "narrative_layer": "present"
+  },
+  "state_before": "原振侠接受冒险救援，奥丽卡缺少可持续活动的身体条件。",
+  "state_after": "奥丽卡以新身体生活；原振侠灵魂延续而身体为复制体；黑纱没有作为第二灵魂共居。",
+  "knowledge_boundary": "不能把救援设备记为原振侠的不死能力，也不能给公主黑纱全部权限。",
+  "character_ids": [
+    "adventure_princess",
+    "adventure_young",
+    "yuanzhenxia_yuanzhenxia",
+    "yuanzhenxia_heisha"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_a9550617d1379158",
+    "evidence_f97d09fb5a38f1b5",
+    "evidence_5e1627ed27172007"
+  ],
+  "book_ids": [
+    "book_b918ee450d56"
+  ]
+}

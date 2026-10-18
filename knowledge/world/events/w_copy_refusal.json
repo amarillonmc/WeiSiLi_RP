@@ -1,0 +1,27 @@
+{
+  "id": "w_copy_refusal",
+  "title": "身外化身计划被反向指令阻断",
+  "kind": "event",
+  "summary": "杜良要求卫斯理指令复制人接受知识，卫斯理用相反指令阻止其计划。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《身外化身》末。",
+    "narrative_layer": "present"
+  },
+  "state_before": "知识转移计划等待受体接受。",
+  "state_after": "接受条件被干预，研究不能按原计划完成。",
+  "knowledge_boundary": "不是卫斯理从此拥有普遍控制复制人的权能。",
+  "character_ids": [
+    "weisili_du_liang",
+    "weisili_wei_sili"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_1f8f330b4dc52b31"
+  ],
+  "book_ids": [
+    "book_a25be6589e38"
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b2eac659a858",
+  "title": "尸变",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/017尸变.txt",
+  "file": "books/book_b2eac659a858.json",
+  "inherited_fact_count": 11,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "7eb28a035f77330cff9a0865a942fe5373dc739a9877aa057031ddce4fd6e764",
+  "source_lines": 2021,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "郑保云",
+      "card_id": "weisili_zheng_baoyun",
+      "role": "单书主角/阶段性对立者",
+      "basis": "身世调查、派人灭口与毁簿失常，后续血统综合"
+    },
+    {
+      "name": "郑天禄",
+      "card_id": "weisili_zheng_tianlu",
+      "role": "单书主线人物",
+      "basis": "尸变与身份核心，后续血统综合"
+    },
+    {
+      "name": "费格",
+      "card_id": "weisili_feige",
+      "role": "单书主线人物",
+      "basis": "关键旧诊证人与保密选择"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "郑老太太、船上姓邓中年人、大副、锁匠与工人",
+      "reason": "提供家庭回忆、身份确认、航行或技术支持；本书无独立反派计划。"
+    },
+    {
+      "name": "郑保云所派六名杀手",
+      "reason": "未命名执行群体，责任归明确下令者，不虚构每人背景。"
+    },
+    {
+      "name": "老蔡",
+      "reason": "仅提及远亲关系，并未实际出场；本书没有陈三姓名。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e5dcc710c31b763c",
+      "statement": "尸体活动及液滴后停止",
+      "annotation_character_ids": [
+        "weisili_zheng_tianlu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa2cd0a5681c0a2d",
+      "statement": "方言、婚配眼镜与家属转述预见",
+      "annotation_character_ids": [
+        "weisili_zheng_tianlu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45d81cf15fb46ddb",
+      "statement": "尸体腐烂、异骨",
+      "annotation_character_ids": [
+        "weisili_zheng_tianlu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c60a57b869179fa",
+      "statement": "退休生活、善意与旧事恐惧",
+      "annotation_character_ids": [
+        "weisili_feige"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1aa9b8297546f3e7",
+      "statement": "费格诊察与郑请求守密",
+      "annotation_character_ids": [
+        "weisili_zheng_tianlu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_48ca4d530b9a7700",
+      "statement": "具体诊察异常",
+      "annotation_character_ids": [
+        "weisili_feige"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e25074cb14531c46",
+      "statement": "外星推断和保密约定",
+      "annotation_character_ids": [
+        "weisili_feige"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_70aaf8dfe6f254d0",
+      "statement": "不知后续全貌",
+      "annotation_character_ids": [
+        "weisili_feige"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_55d174bac8bd6eed",
+      "statement": "受制、恐惧被解剖、灭口与合作",
+      "annotation_character_ids": [
+        "weisili_zheng_baoyun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d76fc57efbe44a46",
+      "statement": "阅读并吞毁笔记、异常状态",
+      "annotation_character_ids": [
+        "weisili_zheng_baoyun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_78e7d014c6cd3d5a",
+      "statement": "吞毁记录和早期疯狂表象",
+      "annotation_character_ids": [
+        "weisili_zheng_baoyun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

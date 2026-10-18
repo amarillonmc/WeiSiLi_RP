@@ -1,0 +1,23 @@
+{
+  "id": "bridge_jinte",
+  "title": "金特由卫斯理介绍给原振侠",
+  "kind": "bridge",
+  "series": [
+    "卫斯理系列",
+    "原振侠系列"
+  ],
+  "connection_level": "explicit_crossover",
+  "claim": "《快活秘方》明确卫斯理旧识与既有经历，后期灵媒状态属于同一人物。",
+  "schema_version": "1.0",
+  "section": "bridges",
+  "evidence_ids": [
+    "evidence_ad9f63f43b722e41",
+    "evidence_df83ee0255608365",
+    "evidence_f5587a36214e8dc8",
+    "evidence_46d538d14d094c49",
+    "evidence_2bcbc78c8473f60f"
+  ],
+  "book_ids": [
+    "book_0f399f095697"
+  ]
+}

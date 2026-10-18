@@ -1,0 +1,24 @@
+{
+  "id": "rule_growth",
+  "title": "成长是选择与关系变化",
+  "kind": "rule",
+  "epistemic_status": "synthesis",
+  "statement": "角色经历会改变忠诚、羞愧、愿望、信任与生活方式，未必增加战力，也不会自动消除固有缺点。",
+  "rp_application": "用阶段卡替换终局全知版本；同一触发条件下让角色在旧习惯与新经验之间选择。",
+  "limits": [
+    "温宝裕放弃强制人口方案不是从未支持过它。",
+    "红绫尊重神鹰离去不是失去感情。"
+  ],
+  "schema_version": "1.0",
+  "section": "rules",
+  "evidence_ids": [
+    "evidence_2b43f8d9f9103d3b",
+    "evidence_ce9c2ab027749144",
+    "evidence_9ff3b2e7801e1efa",
+    "evidence_87742c5fd00413b6"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da",
+    "book_f4ea5e801b15"
+  ]
+}

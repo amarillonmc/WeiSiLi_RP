@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.0",
+  "id": "book_256733d70464",
+  "title": "病毒",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/113病毒.txt",
+  "file": "books/book_256733d70464.json",
+  "inherited_fact_count": 16,
+  "curated_links": {
+    "events": [
+      "w_lansi_succession"
+    ],
+    "arcs": [
+      "arc_lansi"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "0e5d936e82f06811d5f772625872653eab4871dc5aa1c1342a6c316095956307",
+  "source_lines": 2851,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "实际调查和决断"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "实际调查、谈判与家庭选择"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "实际参与调查和讨论"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "主角",
+      "basis": "实际观察、与神鹰协作及家庭互动"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "主角",
+      "basis": "参与降头、失踪和亲情选择"
+    },
+    {
+      "name": "陈岛",
+      "card_id": "weisili_chen_dao",
+      "role": "重要配角",
+      "basis": "开篇演说、讨论及引介田活"
+    },
+    {
+      "name": "冷若冰",
+      "card_id": "weisili_leng_ruobing",
+      "role": "重要配角",
+      "basis": "聚会邀请及实际讨论"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "追查盗首并误疑田活"
+    },
+    {
+      "name": "田活",
+      "card_id": "weisili_tian_huo",
+      "role": "主角",
+      "basis": "引介研究、误会与单恋"
+    },
+    {
+      "name": "公主",
+      "card_id": "weisili_virus_princess",
+      "role": "阶段性对立者",
+      "basis": "秘密研究和盗首主使"
+    },
+    {
+      "name": "猜王",
+      "card_id": "weisili_cai_wang",
+      "role": "主角",
+      "basis": "盗首、献脑与死亡主线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "蜻蜓专家",
+      "reason": "一次会议讲述人物，不是主要反派或跨书配角"
+    },
+    {
+      "name": "王室外栏卫士、驾驶员和内宫侍从",
+      "reason": "临时护送与转接人物，未有独立主线"
+    },
+    {
+      "name": "奴性病毒、人奸病毒等",
+      "reason": "公主未证实的假设，不据理论创建确实存在的智能敌人"
+    },
+    {
+      "name": "其他守竹林弟子",
+      "reason": "未分姓名和独立主要行为，职责在猜王/蓝丝事件中记录"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_4e7e6eece61686d2",
+      "statement": "陈岛女友与聚会邀请",
+      "annotation_character_ids": [
+        "weisili_leng_ruobing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8268d5cb9e0f07ed",
+      "statement": "与冷若冰及卫斯理交流，对生物工程和崭新事物的态度",
+      "annotation_character_ids": [
+        "weisili_chen_dao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_98105e2338bf7597",
+      "statement": "参与生物学与人类起源讨论",
+      "annotation_character_ids": [
+        "weisili_leng_ruobing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bf3efd60aee7ff1a",
+      "statement": "波兰出身法国籍细菌学家身份",
+      "annotation_character_ids": [
+        "weisili_tian_huo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7894f01a6ff55e56",
+      "statement": "论文、公主采购合作和单恋动机",
+      "annotation_character_ids": [
+        "weisili_tian_huo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e51974b7418678d",
+      "statement": "留学研究背景、通过田活购器材、保密与接触安排",
+      "annotation_character_ids": [
+        "weisili_virus_princess"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_664beebfbacad5dc",
+      "statement": "自行蒙眼受困且仍顾公主心情",
+      "annotation_character_ids": [
+        "weisili_tian_huo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d3ea776f4afb6dd5",
+      "statement": "蒙眼薄片贴合后无法由田活自行取下",
+      "annotation_character_ids": [
+        "weisili_virus_princess"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2674d4786d04149f",
+      "statement": "外观、亲自取下薄片及承认假设未获结果",
+      "annotation_character_ids": [
+        "weisili_virus_princess"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8c811e022ab1fff0",
+      "statement": "恢复视力、首次听到核心课题",
+      "annotation_character_ids": [
+        "weisili_tian_huo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e1755620afa3fb3a",
+      "statement": "听到师父遗首所在时压住敌意，记住白素劝告后先听解释",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e27a9018261200ed",
+      "statement": "协助公主盗取死者头颅研究，多次自愿献脑被拒后自断首，公主以其禁制隐匿进出",
+      "annotation_character_ids": [
+        "weisili_cai_wang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e6342ed001933706",
+      "statement": "盗取遗首研究、猜王自愿而她多次拒绝、交还遗首",
+      "annotation_character_ids": [
+        "weisili_virus_princess"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8d9d092640e00081",
+      "statement": "盗首协助、隐匿施术、自愿献脑死亡",
+      "annotation_character_ids": [
+        "weisili_cai_wang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c38ce4fe0c483223",
+      "statement": "承认自己设想与公主研究的差异",
+      "annotation_character_ids": [
+        "weisili_tian_huo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee7510e7c6e63af6",
+      "statement": "猜王自断头后的师徒哀伤",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

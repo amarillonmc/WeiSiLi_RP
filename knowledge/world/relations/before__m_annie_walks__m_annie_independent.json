@@ -1,0 +1,29 @@
+{
+  "id": "before__m_annie_walks__m_annie_independent",
+  "source": "m_annie_walks",
+  "target": "m_annie_independent",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "入家后的轮椅阶段参与假新娘案，猎头禁地后恢复行走，后期学习和独立。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "入家后的轮椅阶段参与假新娘案，猎头禁地后恢复行走，后期学习和独立。",
+  "evidence_ids": [
+    "evidence_8533f583fddc775c",
+    "evidence_a80595c68ca0a8de",
+    "evidence_6026b2f8c8c017ad",
+    "evidence_88c3253b81ce8be0",
+    "evidence_8e01347772bb4fd5",
+    "evidence_10e8045857ddd18d",
+    "evidence_76356d25d426c8e3",
+    "evidence_4693eca5a622cf5f",
+    "evidence_787c35885040d57e",
+    "evidence_3c27ab7203ee0360"
+  ],
+  "book_ids": [
+    "book_1759a14aa7d2",
+    "book_2d3443649105",
+    "book_7305a311c73f",
+    "book_91f9ff962ece"
+  ]
+}

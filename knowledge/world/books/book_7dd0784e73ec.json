@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "id": "book_7dd0784e73ec",
+  "title": "报应",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/080报应.txt",
+  "file": "books/book_7dd0784e73ec.json",
+  "inherited_fact_count": 12,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "488a30574314ec3a7d57251398cb36a8a48bda0c0936df7ea19136784ee6e54a",
+  "source_lines": 3368,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "调查圆球与山洞"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "交流、照顾与核对"
+    },
+    {
+      "name": "陈丽雪",
+      "card_id": "weisili_chen_lixue",
+      "role": "主角",
+      "basis": "提供共同异常经历"
+    },
+    {
+      "name": "金大富",
+      "card_id": "weisili_jin_dafu",
+      "role": "主角／阶段性对立者",
+      "basis": "隐瞒前史、寻求逃避后改变"
+    },
+    {
+      "name": "金美丽",
+      "card_id": "weisili_jin_meili",
+      "role": "主角",
+      "basis": "独立求证与幻觉线索"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "引介和共同讨论"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "查身份并安排会面"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "挑夫、当地巫师",
+      "reason": "前史的线索来源和遇难者，单书辅助人物，无持续主角或反派行为"
+    },
+    {
+      "name": "陈教授夫妇",
+      "reason": "陈丽雪家世背景；未构成独立主角或跨书实际出场"
+    },
+    {
+      "name": "古装女子、受害女人、影像中的历史人物",
+      "reason": "观察影像中的角色，身份及转世链未充分核实；不将图像逐一生成人格卡"
+    },
+    {
+      "name": "果报神／外星主持者",
+      "reason": "仅为对神秘装置和现象的假设，从未正面接触，无已确认独立角色"
+    },
+    {
+      "name": "温宝裕、良辰、美景、王居风、高彩虹等",
+      "reason": "回忆或近况提及，不计本书独立行动"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_02040dde7d8fec40",
+      "statement": "交流方式及识字能力",
+      "annotation_character_ids": [
+        "weisili_chen_lixue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_078d28ce821dfa74",
+      "statement": "店铺、读唇、绘画与求证",
+      "annotation_character_ids": [
+        "weisili_chen_lixue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b273d0282fe7cfc9",
+      "statement": "幻觉陈述与拒绝再试",
+      "annotation_character_ids": [
+        "weisili_jin_meili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_38115242ebd5044d",
+      "statement": "海员经历、催眠和山洞线索",
+      "annotation_character_ids": [
+        "weisili_jin_dafu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_009ec3be88429e7b",
+      "statement": "观察年代并利用局势获利",
+      "annotation_character_ids": [
+        "weisili_jin_dafu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a9b56ceca2e1e7a5",
+      "statement": "要求前世恶行具体证据",
+      "annotation_character_ids": [
+        "weisili_jin_meili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_61854df6f844e983",
+      "statement": "挑夫之死为自述，不照收其开脱",
+      "annotation_character_ids": [
+        "weisili_jin_dafu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ae7cc9f2f112ecba",
+      "statement": "共同经历与外力感应解释",
+      "annotation_character_ids": [
+        "weisili_chen_lixue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a62e5597d9b6b8f7",
+      "statement": "承认责任、拒绝逃避并安排离开",
+      "annotation_character_ids": [
+        "weisili_jin_dafu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a102b93e5d243497",
+      "statement": "最后推测与未接触主持力量的限制",
+      "annotation_character_ids": [
+        "weisili_chen_lixue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f1546854cc664bb4",
+      "statement": "主动会面、无异常终局",
+      "annotation_character_ids": [
+        "weisili_jin_meili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0a143ac3b1515973",
+      "statement": "结尾慈善及仍未证实预言兑现",
+      "annotation_character_ids": [
+        "weisili_jin_dafu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,490 @@
+{
+  "schema_version": "1.0",
+  "id": "book_208391977d6e",
+  "title": "人面组合",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/128人面组合.txt",
+  "file": "books/book_208391977d6e.json",
+  "inherited_fact_count": 44,
+  "curated_links": {
+    "arcs": [
+      "arc_hongling"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "81b16ece0f1a7e34666dacc32f70d855b5476f4b5d53e59eda31626529cd1af2",
+  "source_lines": 2669,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "听家史、分头搜证"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "按医院接触点查获遗书线索"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "帮助少年并调查医院"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "讨论血缘及外星假说"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "重要配角",
+      "basis": "请葫芦生协助"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "与葫芦生重见并拒重提旧情"
+    },
+    {
+      "name": "葫芦生",
+      "card_id": "weisili_hu_lusheng",
+      "role": "主角",
+      "basis": "旧案证人、施血缘寻骨"
+    },
+    {
+      "name": "赛观音",
+      "card_id": "weisili_sai_guanyin",
+      "role": "重要配角",
+      "basis": "承诺与昔年关系关键人"
+    },
+    {
+      "name": "胡克强",
+      "card_id": "weisili_hu_keqiang",
+      "role": "主角",
+      "basis": "求解自身家史"
+    },
+    {
+      "name": "游宇宙",
+      "card_id": "weisili_you_yuzhou",
+      "role": "主角",
+      "basis": "为朋友叙事与质疑"
+    },
+    {
+      "name": "胡疑",
+      "card_id": "weisili_hu_yi",
+      "role": "主角",
+      "basis": "家族第二代疑案主体"
+    },
+    {
+      "name": "毒刃三郎",
+      "card_id": "weisili_duren_sanlang",
+      "role": "反派",
+      "basis": "弑师杀人、胁迫、死亡"
+    },
+    {
+      "name": "飞斧老大",
+      "card_id": "weisili_feifu_laoda",
+      "role": "主角",
+      "basis": "惩凶救人与留岛"
+    },
+    {
+      "name": "玲珑巧手仙",
+      "card_id": "weisili_linglong_qiaoshouxian",
+      "role": "主角",
+      "basis": "保存断手、抚养与终生寻疑"
+    },
+    {
+      "name": "小师妹",
+      "card_id": "weisili_renmian_xiaoshimei",
+      "role": "主角",
+      "basis": "愿望与生育决定"
+    },
+    {
+      "name": "老院长",
+      "card_id": "weisili_renmian_old_director",
+      "role": "主角",
+      "basis": "实施基因操作及毁资料"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "卢迪克医生",
+      "reason": "一次继承资料调查的合作专家，主要解释父亲遗书，未见跨书重要行动"
+    },
+    {
+      "name": "四同门师父",
+      "reason": "无姓名，主要为弑师受害背景，未展示足够独立行动"
+    },
+    {
+      "name": "其他同学、电影明星",
+      "reason": "听众或仰慕对象，无符合范围的重要独立行动"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_75961c1e2fa41337",
+      "statement": "少年外形与群体领袖印象",
+      "annotation_character_ids": [
+        "weisili_hu_keqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b9a2b9974817dc81",
+      "statement": "利用师妹与弑师的家传叙述",
+      "annotation_character_ids": [
+        "weisili_duren_sanlang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e7a0d3e9adf19e01",
+      "statement": "救人力量不足与危机",
+      "annotation_character_ids": [
+        "weisili_renmian_xiaoshimei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_88d91b0d2c800180",
+      "statement": "预判毒刃与救援实绩",
+      "annotation_character_ids": [
+        "weisili_feifu_laoda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b4f638a6357da5d7",
+      "statement": "佯弃毒刃、射杀救者及死亡",
+      "annotation_character_ids": [
+        "weisili_duren_sanlang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3c05ec260ee8ea5f",
+      "statement": "断辫及被二师兄接走",
+      "annotation_character_ids": [
+        "weisili_renmian_xiaoshimei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f7560f6dcfb712ce",
+      "statement": "断辫误解与留岛",
+      "annotation_character_ids": [
+        "weisili_feifu_laoda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7217441812746fc4",
+      "statement": "认人记忆与接过朋友叙述",
+      "annotation_character_ids": [
+        "weisili_you_yuzhou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6fc6900c7183b9cd",
+      "statement": "多年哀痛与远行",
+      "annotation_character_ids": [
+        "weisili_renmian_xiaoshimei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_89cf4ece6f52b9cd",
+      "statement": "保存断手、照料及远行",
+      "annotation_character_ids": [
+        "weisili_linglong_qiaoshouxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b73b33a7ca116046",
+      "statement": "时间强调及必须提出关键疑问",
+      "annotation_character_ids": [
+        "weisili_you_yuzhou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_977f2867485d18cb",
+      "statement": "身世触动的强烈反应",
+      "annotation_character_ids": [
+        "weisili_hu_keqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d677d35f78a28d2",
+      "statement": "成婚、语言限制及妻子临终",
+      "annotation_character_ids": [
+        "weisili_linglong_qiaoshouxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bcd6015bd2ef5113",
+      "statement": "语言天分、婚姻与临终请求",
+      "annotation_character_ids": [
+        "weisili_renmian_xiaoshimei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c041a3a20707db68",
+      "statement": "红绫帮助区分本人和身世",
+      "annotation_character_ids": [
+        "weisili_hu_keqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f95b04309eb8e08",
+      "statement": "指出身世不取消个人自我，帮助胡克强面对照片",
+      "annotation_character_ids": [
+        "weisili_hong_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a3df7bcb581c2d36",
+      "statement": "追查与访问大师兄",
+      "annotation_character_ids": [
+        "weisili_linglong_qiaoshouxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_53e6a4fff8a857e8",
+      "statement": "十年后衰老、供给与确知证词",
+      "annotation_character_ids": [
+        "weisili_feifu_laoda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_108998989e002604",
+      "statement": "教育、隐瞒与死亡",
+      "annotation_character_ids": [
+        "weisili_linglong_qiaoshouxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fab6c95db1be0592",
+      "statement": "教育、照护父亲、照片打击及后来的认识",
+      "annotation_character_ids": [
+        "weisili_hu_yi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82dc91d077c42c18",
+      "statement": "外星解释只是设想",
+      "annotation_character_ids": [
+        "weisili_hu_keqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5c878a2ee3ac9bea",
+      "statement": "假说提出与被指出证据不足",
+      "annotation_character_ids": [
+        "weisili_you_yuzhou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ec6fe35badd18d96",
+      "statement": "已经去世而疑团未解",
+      "annotation_character_ids": [
+        "weisili_hu_yi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cc225af5c1c9570e",
+      "statement": "降头寻亲机制",
+      "annotation_character_ids": [
+        "weisili_hu_lusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f0bcfea7404bcc2",
+      "statement": "见画像、听证词与少年反应",
+      "annotation_character_ids": [
+        "weisili_you_yuzhou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_29429875686d560b",
+      "statement": "向降头师胁迫、杀人责任倒置",
+      "annotation_character_ids": [
+        "weisili_duren_sanlang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8ac4913785cec54b",
+      "statement": "拒施强迫情爱降头但因承诺未伤恶徒",
+      "annotation_character_ids": [
+        "weisili_hu_lusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9fe20f71203a0697",
+      "statement": "梦降头与从外貌误认转向血缘验证",
+      "annotation_character_ids": [
+        "weisili_hu_lusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_66518738201ed59e",
+      "statement": "重见白老大并撕毁赛观音画像",
+      "annotation_character_ids": [
+        "weisili_hu_lusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1297f8cd1848e4b4",
+      "statement": "面对葫芦生以往事如烟拒绝重提赛观音，内情未证",
+      "annotation_character_ids": [
+        "weisili_bai_laoda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f67cf707fe435d61",
+      "statement": "旧屋已拆",
+      "annotation_character_ids": [
+        "weisili_hu_yi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_13516f73fd95a60e",
+      "statement": "以小飞虫寻到有血缘的骸骨",
+      "annotation_character_ids": [
+        "weisili_hu_lusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_026e4c28595ad059",
+      "statement": "儿子转述超时代研究及多年寻资料",
+      "annotation_character_ids": [
+        "weisili_renmian_old_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3c0468b3e271944b",
+      "statement": "虫群定位、误解和自尽被阻止",
+      "annotation_character_ids": [
+        "weisili_hu_lusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f8c5045b959f1ddf",
+      "statement": "仅留下遗书与断手接触",
+      "annotation_character_ids": [
+        "weisili_renmian_old_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4b1083671dc5bc33",
+      "statement": "基因操作揭晓不等于恶徒复活",
+      "annotation_character_ids": [
+        "weisili_hu_keqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_655d633311a8518a",
+      "statement": "其防腐技术间接保存基因",
+      "annotation_character_ids": [
+        "weisili_linglong_qiaoshouxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ddf6c6897a7a0e74",
+      "statement": "向医生提供断手及未知高风险",
+      "annotation_character_ids": [
+        "weisili_renmian_xiaoshimei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_347cdd9afc239377",
+      "statement": "具体手术与未告知风险",
+      "annotation_character_ids": [
+        "weisili_renmian_old_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_32fa5a8c20b12b54",
+      "statement": "断手仅提供基因，并非复活",
+      "annotation_character_ids": [
+        "weisili_duren_sanlang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e669840ca11bdb90",
+      "statement": "血缘寻骨并未失灵，混合基因解释",
+      "annotation_character_ids": [
+        "weisili_hu_lusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e8e2720c9204bd04",
+      "statement": "容貌基因技术的最终解释",
+      "annotation_character_ids": [
+        "weisili_hu_yi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_74669aaab2e9b6ba",
+      "statement": "术法未失灵",
+      "annotation_character_ids": [
+        "weisili_hu_lusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fe6fd820de88dfc4",
+      "statement": "恐惧忏悔及销毁资料",
+      "annotation_character_ids": [
+        "weisili_renmian_old_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

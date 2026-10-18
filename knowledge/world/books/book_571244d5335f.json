@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "id": "book_571244d5335f",
+  "title": "魂飞魄散",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/30.魂飞魄散.txt",
+  "file": "books/book_571244d5335f.json",
+  "inherited_fact_count": 12,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "6d349d5b4e41ebd3066c496f32e12ad9879394813107aa78cb84e20ad0dfcf92",
+  "source_lines": 7273,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查与接受异类"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "重要配角",
+      "basis": "调查与见证"
+    },
+    {
+      "name": "齐白",
+      "card_id": "weisili_qi_bai",
+      "role": "重要配角",
+      "basis": "古墓石棺线索"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "引介与结尾质询"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "聚会与引介"
+    },
+    {
+      "name": "安普伯爵（男）",
+      "card_id": "yuanzhenxia_anpu_count",
+      "role": "单书主角",
+      "basis": "石棺及复生主线"
+    },
+    {
+      "name": "翠丝",
+      "card_id": "yuanzhenxia_cuisi",
+      "role": "单书主角",
+      "basis": "石棺及复生主线"
+    },
+    {
+      "name": "贝恩",
+      "card_id": "yuanzhenxia_beien",
+      "role": "反派性协同行动者",
+      "basis": "石棺及复生主线"
+    },
+    {
+      "name": "特古拉伯爵",
+      "card_id": "yuanzhenxia_tegula",
+      "role": "单书核心人物",
+      "basis": "石棺及复生主线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "尼古拉斯伯爵",
+      "reason": "仅翠丝往事中的已故丈夫，没有独立行动线或跨书出场"
+    },
+    {
+      "name": "清除吸血僵尸的异客",
+      "reason": "历史未具名行动者，身份与31宇宙杀手没有明确同一性；不强行合并"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_3a9f105be137378e",
+      "statement": "与女伯爵区分",
+      "annotation_character_ids": [
+        "yuanzhenxia_anpu_count"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1611703eca5a8ec8",
+      "statement": "石棺和馆长关系",
+      "annotation_character_ids": [
+        "yuanzhenxia_anpu_count"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22da47b9231c9726",
+      "statement": "馆长及石棺计划",
+      "annotation_character_ids": [
+        "yuanzhenxia_beien"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f76c77522bb5fea",
+      "statement": "目击与恐惧",
+      "annotation_character_ids": [
+        "yuanzhenxia_beien"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_777c9d3710b539e6",
+      "statement": "求助及对伯爵的判断",
+      "annotation_character_ids": [
+        "yuanzhenxia_beien"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_678ccdf15c31a776",
+      "statement": "尚未完整转化",
+      "annotation_character_ids": [
+        "yuanzhenxia_anpu_count"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d82267e4a4f72717",
+      "statement": "身份与寿命",
+      "annotation_character_ids": [
+        "yuanzhenxia_cuisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_36fb427671433d8c",
+      "statement": "灵魂分离历史",
+      "annotation_character_ids": [
+        "yuanzhenxia_cuisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_39bc5b448255cde6",
+      "statement": "最后同类、容器与毁身",
+      "annotation_character_ids": [
+        "yuanzhenxia_tegula"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_67ca4ba26c1fb42e",
+      "statement": "共同生活与约定",
+      "annotation_character_ids": [
+        "yuanzhenxia_cuisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7be6ef4a8b26dc88",
+      "statement": "翠丝的独立复生结果",
+      "annotation_character_ids": [
+        "yuanzhenxia_tegula"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7ad1e0ee2a1f005d",
+      "statement": "转化、婚礼与约定",
+      "annotation_character_ids": [
+        "yuanzhenxia_anpu_count"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,32 @@
+{
+  "valid": true,
+  "stats": {
+    "source_text_count": 336,
+    "indexed_text_count": 336,
+    "character_history_count": 1409,
+    "evidence_count": 5617,
+    "inherited_annotation_count": 5578,
+    "books_linked_to_curated_world_entries": 85,
+    "books_with_direct_source_review": 8,
+    "rules_count": 14,
+    "entities_count": 30,
+    "events_count": 67,
+    "relations_count": 38,
+    "arcs_count": 24,
+    "issues_count": 12,
+    "bridges_count": 11
+  },
+  "checks": [
+    "source SHA-256 and exact inventory",
+    "line bounds",
+    "inherited annotation provenance",
+    "unique IDs and character references",
+    "event and arc references",
+    "acyclic before graph",
+    "explicit uncertainty and adaptation labels"
+  ],
+  "limitations": [
+    "Structure does not prove interpretation.",
+    "All-text indexing is not exhaustive world extraction."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "arc_qibai",
+  "title": "齐白的经历与成长",
+  "kind": "arc",
+  "character_id": "weisili_qi_bai",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "盗墓与求知把他带离常态社会，最终最在意的是与李宣宣的生活。"
+  },
+  "stages": [
+    {
+      "label": "地下探索",
+      "event_ids": [
+        "w_tomb"
+      ],
+      "state": "有古迹经验与装置接触。",
+      "rp_constraint": "还不是阴间主人。"
+    },
+    {
+      "label": "为关系结束开放通讯",
+      "event_ids": [
+        "w_underworld_shutdown"
+      ],
+      "state": "找到伴侣后主动断讯。",
+      "rp_constraint": "不把友情理解为永久提供基地和情报。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_46bc026fbd5c7506",
+    "evidence_730f9441c91451fa",
+    "evidence_92b6dc6cb47171c4",
+    "evidence_b0a009b282bd18e4",
+    "evidence_3c352150221ae52c",
+    "evidence_19c7a39e11778754"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da",
+    "book_aa5d20a2593d",
+    "book_c33c05bc68a3",
+    "book_d42304856b15"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "w_eagle_friend",
+  "title": "神鹰与红绫、伦三德的联系建立",
+  "kind": "event",
+  "summary": "受伤的鹰与卫家建立信任，金环和信件连接天工大王伦三德；载重和通讯有实际限制。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《开心》，成人之前的鹰身阶段。",
+    "narrative_layer": "present"
+  },
+  "state_before": "被误判的鹰受伤。",
+  "state_after": "形成伙伴关系和有限往返信使角色。",
+  "knowledge_boundary": "尚无后来成人身体；主人的工艺不属于鹰的技能。",
+  "character_ids": [
+    "weisili_shenying",
+    "weisili_hong_ling",
+    "weisili_lun_sande"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_e9da90c44d24e8fb",
+    "evidence_b183f8acde9f6d39",
+    "evidence_927aa68451f97497",
+    "evidence_ca42497d0237f9b8",
+    "evidence_54f8ec6255cf7a0a",
+    "evidence_cf2db6681471389e"
+  ],
+  "book_ids": [
+    "book_b75096582a1e"
+  ]
+}

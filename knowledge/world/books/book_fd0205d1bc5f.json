@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0",
+  "id": "book_fd0205d1bc5f",
+  "title": "规律",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/042规律.txt",
+  "file": "books/book_fd0205d1bc5f.json",
+  "inherited_fact_count": 10,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "881e9fb35a3ad03bdd1bfdca5338ee6b1eba4e14bbd7e860e3980cb2343091ed",
+  "source_lines": 1632,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白克·卑斯",
+      "card_id": "weisili_baike_beisi",
+      "role": "单书主角",
+      "basis": "规律案件与心理操纵"
+    },
+    {
+      "name": "康纳士博士",
+      "card_id": "weisili_kangnashi",
+      "role": "单书核心人物",
+      "basis": "规律案件与心理操纵"
+    },
+    {
+      "name": "卢达夫",
+      "card_id": "weisili_ludafu",
+      "role": "反派",
+      "basis": "规律案件与心理操纵"
+    },
+    {
+      "name": "田中正一",
+      "card_id": "weisili_tanaka_shoichi",
+      "role": "反派性行动者",
+      "basis": "规律案件与心理操纵"
+    },
+    {
+      "name": "《规律》谋害计划的心理学家",
+      "card_id": "weisili_guilyu_psychologist",
+      "role": "反派",
+      "basis": "规律案件与心理操纵"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "亨利",
+      "reason": "发现材料后遇害的少年，单书线索及受害者"
+    },
+    {
+      "name": "安桥加、达夫、乔治、丽拉、麦克",
+      "reason": "单次协助与线索人物"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_905cf46935fdbe6c",
+      "statement": "地位与死亡",
+      "annotation_character_ids": [
+        "weisili_kangnashi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8b7194ad572a8b4a",
+      "statement": "联合调查",
+      "annotation_character_ids": [
+        "weisili_baike_beisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_31c2452057b622d7",
+      "statement": "试探与突袭",
+      "annotation_character_ids": [
+        "weisili_tanaka_shoichi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f4525d2d95f26fdc",
+      "statement": "亨利死亡与身份线索",
+      "annotation_character_ids": [
+        "weisili_ludafu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3da0d8f0e626f231",
+      "statement": "死亡和未解动机",
+      "annotation_character_ids": [
+        "weisili_tanaka_shoichi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_99aaeafb17d7c5f6",
+      "statement": "职务姓名",
+      "annotation_character_ids": [
+        "weisili_baike_beisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d6df213715ae397b",
+      "statement": "秘密追查及终局心理",
+      "annotation_character_ids": [
+        "weisili_baike_beisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f64d0f48ce6fbaeb",
+      "statement": "重现、供述及执行方式",
+      "annotation_character_ids": [
+        "weisili_ludafu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_34a02cbf83651b34",
+      "statement": "策划来源与具体限制",
+      "annotation_character_ids": [
+        "weisili_guilyu_psychologist"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46a717afff8aaa52",
+      "statement": "收买失败与案件解释",
+      "annotation_character_ids": [
+        "weisili_kangnashi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

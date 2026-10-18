@@ -1,0 +1,951 @@
+[
+  {
+    "id": "rule_hidden_world",
+    "title": "日常社会与隐秘异常并存",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "警察、医院、新闻、商业、国家和家庭仍按日常制度运行；异常知识集中在少数经历者、实验机构、秘密组织与异类手里，不能由某主角知道推成全世界公开。",
+    "rp_application": "先判定现场普通人能接触的证据，再决定何时引入异常解释；警务调查、交通和资金可以继续构成实际障碍。",
+    "limits": [
+      "同一世界观是项目的整合前提；九个系列不存在已证实的统一世界政府或共同反派。",
+      "被主角写进故事不等于故事内每个人都读过或相信。"
+    ],
+    "evidence": [
+      {
+        "path": "神探高斯系列/29预告.txt",
+        "start_line": 674,
+        "end_line": 681,
+        "supports": "不替高斯取消罚单",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_li_yufang"
+        }
+      },
+      {
+        "path": "神探高斯系列/29预告.txt",
+        "start_line": 539,
+        "end_line": 674,
+        "supports": "继承事实、假救援与逐层纠正嫌疑",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_li_yufang"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/07蜂后.txt",
+        "start_line": 1133,
+        "end_line": 1138,
+        "supports": "勒曼医院的保密、政要依赖和交易会背景",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rule_plural_life",
+    "title": "生命形态多元，身份不由外形决定",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "人类、异星人、机械生命、离体意识与其他生命形式可以接触；人形不是人类的充分条件，非人形也不取消人格。",
+    "rp_application": "分别记录身体、记忆、意识连续性与本人认同，再裁定身份和关系。",
+    "limits": [
+      "不同作品的生命理论只在有证据的个案内互通。",
+      "机器具有人格不等于任意机器都已觉醒。"
+    ],
+    "evidence": [
+      {
+        "path": "原振侠系列/27.假太阳.txt",
+        "start_line": 1949,
+        "end_line": 2035,
+        "supports": "机械身份、接口、能力与自我认识",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 5179,
+        "end_line": 5237,
+        "supports": "黑纱牺牲，奥丽卡获得身体",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 6115,
+        "end_line": 6129,
+        "supports": "黑纱·奥丽卡自称",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "卫斯理系列/131另类复制.txt",
+        "start_line": 3465,
+        "end_line": 3475,
+        "supports": "人的身份及母女关系",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rule_local_mechanisms",
+    "title": "异常机制按个案成立",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "同样被称为鬼、神、灵魂、幻境的现象可能来自不同主体、设备、误认或未解原因；名称相同不足以归为一种力量。",
+    "rp_application": "先按当案证据辨别骗局、主观经验、装置效果和自主生命；跨系统相互作用需要场景约定。",
+    "limits": [
+      "不将鬼话全体改写成思想仪制造。",
+      "不把所有神话归为同一外星文明的伪装。"
+    ],
+    "evidence": [
+      {
+        "path": "原振侠系列/01.天人.txt",
+        "start_line": 3313,
+        "end_line": 3365,
+        "supports": "研究、植入、保护、灭口与终止",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_tianren_station"
+        }
+      },
+      {
+        "path": "原振侠系列/01.天人.txt",
+        "start_line": 3381,
+        "end_line": 3385,
+        "supports": "基地毁灭与记忆变化",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_tianren_station"
+        }
+      },
+      {
+        "path": "年轻人/13神话世界.txt",
+        "start_line": 1243,
+        "end_line": 1279,
+        "supports": "投影识别与返回",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_young"
+        }
+      },
+      {
+        "path": "卫斯理系列/102将来.txt",
+        "start_line": 1730,
+        "end_line": 1747,
+        "supports": "三个编号的言语与协作分工",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_1"
+        }
+      },
+      {
+        "path": "卫斯理系列/102将来.txt",
+        "start_line": 1782,
+        "end_line": 1864,
+        "supports": "仪器残缺、四人结合、失散与求助",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_1"
+        }
+      },
+      {
+        "path": "卫斯理系列/102将来.txt",
+        "start_line": 1863,
+        "end_line": 1884,
+        "supports": "模拟声音与密码限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rule_mind_body",
+    "title": "肉体、思想、知识与灵魂要分开",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "换身体、复制思想、灌输知识、保存灵魂是不同操作。知识转移不自动继承思想；复制身体不自动延续原本的人格或所有记忆。",
+    "rp_application": "每次转移明确载体、来源、程序、连续性和损失，建立独立身份记录。",
+    "limits": [
+      "不要叠加原身、复制身、鹰身与人身的互斥能力。",
+      "受试者意愿及接口可能使技术失效。"
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/137乾坤挪移.txt",
+        "start_line": 1394,
+        "end_line": 1405,
+        "supports": "知识与思想的区分及研究保密动机",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_du_liang"
+        }
+      },
+      {
+        "path": "卫斯理系列/140身外化身.txt",
+        "start_line": 1407,
+        "end_line": 1411,
+        "supports": "接受指令是计划前提，被反向指令阻断",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_du_liang"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2630,
+        "end_line": 2648,
+        "supports": "基因调整过程",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2680,
+        "end_line": 2686,
+        "supports": "自愿成人和不能飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rule_death",
+    "title": "死亡后的存在不等于普遍复活",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "部分离体意识可保留、被联络或换用身体；另一些失去联络、没有容器或只剩无法验证的愿望。任何人的死亡都不能因世界有灵魂而自动撤销。",
+    "rp_application": "记录死亡、肉身维护、意识位置、通讯条件、复归条件五项；无证据时保留未知。",
+    "limits": [
+      "陈长青仍求而未得彻底解脱。",
+      "阴间停机不等于已证所有灵魂消灭或转世。",
+      "角色卡的参战恢复方案属于改编，不能写入世界历史。"
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 2590,
+        "end_line": 2612,
+        "supports": "清醒灵魂的困境与中断沟通",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chen_changqing"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 2682,
+        "end_line": 2697,
+        "supports": "拒绝轮回和阴间安住，未找到解脱方法",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chen_changqing"
+        }
+      },
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1322,
+        "end_line": 1337,
+        "supports": "灵魂光点消失，去向仍未知",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rule_tech_access",
+    "title": "设备、机构和伙伴不是个人技能",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "异常技术依赖载体、能源、操作者、知识、位置和维护。认识制造者或经历一次操作，并不等于掌握或持有装置。",
+    "rp_application": "调用能力时核对设备现在在谁手中、是否运作、角色是否会用、能否得到帮助。",
+    "limits": [
+      "毁坏、停机、被收回和离开地球的资源不能凭历史存在直接调用。",
+      "勒曼医院和康维可以拒绝、误判、失败。"
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2531,
+        "end_line": 2575,
+        "supports": "强光导致暂时失明，外星身份和降头能力均未免疫",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_liang_sheng"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2674,
+        "end_line": 2686,
+        "supports": "三日后视力恢复、亮声仪器失效、神鹰成人不再能飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_liang_sheng"
+        }
+      },
+      {
+        "path": "原振侠系列/32.天皇巨星.txt",
+        "start_line": 2757,
+        "end_line": 2795,
+        "supports": "接送与搜寻边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 1048,
+        "end_line": 1049,
+        "supports": "长途行动中的力量与准备",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 3156,
+        "end_line": 3165,
+        "supports": "不携带背心并获得父母尊重",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 3144,
+        "end_line": 3160,
+        "supports": "祖母教用背心及基地设备，主动留下背心，不能主动召祖母",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rule_alien_ethics",
+    "title": "先进不等于正当或全知",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "研究者、拯救者、管理者与侵略者都有局部目标。先进生命也可能把人当样本、以保护为名控制、误判他者感情。",
+    "rp_application": "让角色追问谁同意、谁受益、谁承担代价；对所谓善意保持具体而非一律敌对的判断。",
+    "limits": [
+      "不能把外星人合并为意志一致的阵营。",
+      "宇宙灾难、通信盲区和技术缺口仍能限制他们。"
+    ],
+    "evidence": [
+      {
+        "path": "原振侠系列/01.天人.txt",
+        "start_line": 3313,
+        "end_line": 3365,
+        "supports": "研究、植入、保护、灭口与终止",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_tianren_station"
+        }
+      },
+      {
+        "path": "原振侠系列/01.天人.txt",
+        "start_line": 3381,
+        "end_line": 3385,
+        "supports": "基地毁灭与记忆变化",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_tianren_station"
+        }
+      },
+      {
+        "path": "原振侠系列/15.寻找爱神.txt",
+        "start_line": 3199,
+        "end_line": 3215,
+        "supports": "异星能力与投影认知",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_aishen"
+        }
+      },
+      {
+        "path": "原振侠系列/16.大犯罪者.txt",
+        "start_line": 5744,
+        "end_line": 5770,
+        "supports": "范围能力受制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_aishen"
+        }
+      },
+      {
+        "path": "原振侠系列/16.大犯罪者.txt",
+        "start_line": 5947,
+        "end_line": 5977,
+        "supports": "培育实验来历",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_aishen"
+        }
+      },
+      {
+        "path": "原振侠系列/24.催命情圣.txt",
+        "start_line": 8139,
+        "end_line": 8157,
+        "supports": "接走玛仙求治",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_aishen"
+        }
+      },
+      {
+        "path": "原振侠系列/27.假太阳.txt",
+        "start_line": 476,
+        "end_line": 480,
+        "supports": "危机与封锁",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_aishen"
+        }
+      },
+      {
+        "path": "卫斯理系列/136行动救星.txt",
+        "start_line": 1169,
+        "end_line": 1203,
+        "supports": "交流范围、电脑中介与知识吸收",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chang_lao"
+        }
+      },
+      {
+        "path": "卫斯理系列/136行动救星.txt",
+        "start_line": 1216,
+        "end_line": 1249,
+        "supports": "起源、故障、引爆能力及减人口动机",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chang_lao"
+        }
+      },
+      {
+        "path": "卫斯理系列/136行动救星.txt",
+        "start_line": 1270,
+        "end_line": 1293,
+        "supports": "拒绝开关、继续交流与不引爆原则",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chang_lao"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rule_occult",
+    "title": "巫术和降头有师承、媒介与反噬",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "巫术与降头在一些事件中确实产生作用，但对象关联、师承、媒介、禁制和施术者状态决定效果；未知科技也可能使之失灵。",
+    "rp_application": "指定已学会的术法和适用对象；处理解除、反噬、追索失败，而非一句咒语完成任意愿望。",
+    "limits": [
+      "玛仙血魇、蓝丝降头和幽灵星座技术不合并成通用法力池。",
+      "天头派长老的起源叙述不能解释全部巫术传统。"
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 2741,
+        "end_line": 2748,
+        "supports": "召灵术杂乱、凶灵难遣的明确限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 1027,
+        "end_line": 1090,
+        "supports": "毒蜗牛气味诱鹰吞食，蓝丝引导其克服冲动",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 2741,
+        "end_line": 2748,
+        "supports": "李宣宣警告召灵杂乱难送，没有已完成改良",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 1027,
+        "end_line": 1090,
+        "supports": "绿蜗牛的诱食及指导神鹰",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 2741,
+        "end_line": 2748,
+        "supports": "召灵杂乱与风险警告",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/122传说.txt",
+        "start_line": 2517,
+        "end_line": 2535,
+        "supports": "飞虫未返与二十余法失败",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/122传说.txt",
+        "start_line": 2590,
+        "end_line": 2676,
+        "supports": "设备开启和联系恢复",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "原振侠系列/23.血的诱惑.txt",
+        "start_line": 3087,
+        "end_line": 3153,
+        "supports": "血魇条件与作用",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/24.催命情圣.txt",
+        "start_line": 8093,
+        "end_line": 8157,
+        "supports": "主动解咒后的反噬与求治",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rule_relative_time",
+    "title": "相对时间优先，叙述时间不等于发生时间",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "回忆、嵌套口述、异空间经历和后来揭露穿插在当前事件中。文件编号仅供书目定位；跨系列先后必须由接续、共同事件或状态变化支持。",
+    "rp_application": "用已完成事件集合定义场景。区分事件发生、人物获知、叙述揭露三个时间；没有依据不填公历年。",
+    "limits": [
+      "《少年卫斯理》的回忆位于童年，不排在《到阴间去》之后。",
+      "新闻年份、古物年代、人物自称寿命都不是全书发生年份。"
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/102将来.txt",
+        "start_line": 1846,
+        "end_line": 1855,
+        "supports": "四号携部件离队",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_4"
+        }
+      },
+      {
+        "path": "卫斯理系列/94少年卫斯理.txt",
+        "start_line": 2217,
+        "end_line": 2264,
+        "supports": "误抓、释放、委托与识别限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_4"
+        }
+      },
+      {
+        "path": "卫斯理系列/102将来.txt",
+        "start_line": 1863,
+        "end_line": 1884,
+        "supports": "四号声音、密码与一至三号限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_4"
+        }
+      },
+      {
+        "path": "原振侠系列/01.天人.txt",
+        "start_line": 3381,
+        "end_line": 3385,
+        "supports": "文末新闻与不同人物的知情差异",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rule_mortality",
+    "title": "武侠能力仍受身体和器械约束",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "训练、武术、胆量和经验能改变胜算，但主要人类角色仍会受伤、中毒、失明、疲劳和误判。",
+    "rp_application": "保留伤后恢复、环境与救援过程；把工具效果记给工具，把配合成果记给团队。",
+    "limits": [
+      "不能从躲枪一次推导超音速。",
+      "安妮恢复行走的原因没有确定，不能照方复制。"
+    ],
+    "evidence": [
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 42,
+        "end_line": 76,
+        "supports": "失明心态和听觉推断",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 946,
+        "end_line": 1118,
+        "supports": "误导与器械限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 2370,
+        "end_line": 2396,
+        "supports": "接受方保护",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 2766,
+        "end_line": 2770,
+        "supports": "手术复明前景",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 672,
+        "end_line": 724,
+        "supports": "力量边界与恐惧",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1156,
+        "end_line": 1158,
+        "supports": "承认武术不敌",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1672,
+        "end_line": 1684,
+        "supports": "有限氧气与罩不可割",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1788,
+        "end_line": 1826,
+        "supports": "趁失防伤腿及心理制胜",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1932,
+        "end_line": 1940,
+        "supports": "不会龟息及换气装置解释",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/44猎头禁地.txt",
+        "start_line": 2440,
+        "end_line": 2508,
+        "supports": "恢复与原因未知",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/44猎头禁地.txt",
+        "start_line": 2742,
+        "end_line": 2746,
+        "supports": "机场独自行走",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "神探高斯系列/28妖女煞星.txt",
+        "start_line": 271,
+        "end_line": 302,
+        "supports": "误把真枪当玩具，受伤须手术",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_gao_si"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rule_growth",
+    "title": "成长是选择与关系变化",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "角色经历会改变忠诚、羞愧、愿望、信任与生活方式，未必增加战力，也不会自动消除固有缺点。",
+    "rp_application": "用阶段卡替换终局全知版本；同一触发条件下让角色在旧习惯与新经验之间选择。",
+    "limits": [
+      "温宝裕放弃强制人口方案不是从未支持过它。",
+      "红绫尊重神鹰离去不是失去感情。"
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1382,
+        "end_line": 1393,
+        "supports": "新生大同盟的最终倡议",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wen_baoyu"
+        }
+      },
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1361,
+        "end_line": 1380,
+        "supports": "曾受极端人口论影响，终局明确改变为离开地球",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wen_baoyu"
+        }
+      },
+      {
+        "path": "卫斯理系列/126未来身份.txt",
+        "start_line": 117,
+        "end_line": 124,
+        "supports": "亲历交流与自认沟通边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/126未来身份.txt",
+        "start_line": 130,
+        "end_line": 158,
+        "supports": "不舍而尊重离去的选择",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rule_knowledge",
+    "title": "角色只知道有途径获得的事",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "共同出现在书中、同属机构、彼此相识都不足以让角色共享全部秘密。读者看到的真相需要由亲历、证词、通讯或调查进入角色知识。",
+    "rp_application": "场景单独保存 knows、believes、suspects、withheld；揭露后也允许错误理解。",
+    "limits": [
+      "齐白和李宣宣住过阴间，仍不知道一至四号的完整身份。",
+      "康维免受某类水的影响，也因此收不到同样的信息。"
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1343,
+        "end_line": 1349,
+        "supports": "居住阴间不等于了解思想仪和管理者",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      },
+      {
+        "path": "卫斯理系列/121考验.txt",
+        "start_line": 154,
+        "end_line": 159,
+        "supports": "康维无法接收水的信息",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rule_macguffin",
+    "title": "麦高芬是争夺焦点，不是无限许愿器",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "物件、人员、信息或目标可因其被期待的价值推动行动；传闻的功用、实测效果和最终去向应分别记录。",
+    "rp_application": "每个争夺目标列明追求者、欲望、接近条件、代价和失效后还能推动什么冲突。",
+    "limits": [
+      "这里的“麦高芬”是项目的叙事功能标签，不宣称每项都是严格电影学意义的纯麦高芬。",
+      "想买命和可买到寿命是不同状态。"
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/121考验.txt",
+        "start_line": 173,
+        "end_line": 222,
+        "supports": "买命竞争强烈而通用转移仍未实现",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rule_world_origin",
+    "title": "多套起源解释并存，保留叙述层级",
+    "kind": "rule",
+    "epistemic_status": "synthesis",
+    "statement": "外星工程、生命播种、灵魂理论与宗教意象提供不同尺度的起源解释；若缺少直接连接，应保留各自证据范围。",
+    "rp_application": "可以把它们安排在同一世界，但不补写唯一创世神、统一进化阶梯或全宇宙统一时间单位。",
+    "limits": [
+      "长老自述的七种外星人及地球改造是具体历史证言。",
+      "其人口论和灾难预测是角色判断，不能当作已经发生的世界末日。"
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/136行动救星.txt",
+        "start_line": 1216,
+        "end_line": 1249,
+        "supports": "长老关于迁徙、改造事故及减人口目的的叙述",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  }
+]

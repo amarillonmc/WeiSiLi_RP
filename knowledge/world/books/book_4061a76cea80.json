@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0",
+  "id": "book_4061a76cea80",
+  "title": "魔像",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/03魔像.txt",
+  "file": "books/book_4061a76cea80.json",
+  "inherited_fact_count": 6,
+  "curated_links": {
+    "entities": [
+      "time_god",
+      "angel_prize"
+    ],
+    "events": [
+      "l_angel_loss"
+    ],
+    "relations": [
+      "before__l_refusal__l_doll",
+      "before__l_doll__l_angel_loss",
+      "before__l_angel_loss__l_enemy_alliance"
+    ],
+    "arcs": [
+      "arc_luokai"
+    ],
+    "issues": [
+      "issue_adapted_resurrection"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "fdbad61b635a4efc344a381183ae9124dbdf216993c953443c6aea7c669a83f5",
+  "source_lines": 1268,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "天使",
+      "card_id": "adventure_tianshi",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "时间大神",
+      "card_id": "adventure_time_god",
+      "role": "反派",
+      "basis": "具有本书实质行动或主线作用"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "哥耶三世",
+      "reason": "单书艺术鉴定协助者；与年轻人的哥耶四世不同"
+    },
+    {
+      "name": "天使同族来访者",
+      "reason": "身份未区分的说明者，不按全族建战斗卡"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_bb015999e4c17ce8",
+      "statement": "族属、伪装与敌方利用",
+      "annotation_character_ids": [
+        "adventure_tianshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9859fc06837ceb51",
+      "statement": "感官陷阱",
+      "annotation_character_ids": [
+        "adventure_time_god"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee74e8fe97b1a055",
+      "statement": "协同攻击",
+      "annotation_character_ids": [
+        "adventure_tianshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_98c4eff68d44a597",
+      "statement": "牺牲原因与结局",
+      "annotation_character_ids": [
+        "adventure_tianshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1d8fb1f0e0b938f5",
+      "statement": "受创",
+      "annotation_character_ids": [
+        "adventure_time_god"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c80b9bee246219b5",
+      "statement": "天使牺牲",
+      "annotation_character_ids": [
+        "adventure_luokai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

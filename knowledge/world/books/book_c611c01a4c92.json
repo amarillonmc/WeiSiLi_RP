@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "id": "book_c611c01a4c92",
+  "title": "宝刀",
+  "aliases": [],
+  "series": "年轻人",
+  "source_path": "年轻人/03宝刀.txt",
+  "file": "books/book_c611c01a4c92.json",
+  "inherited_fact_count": 6,
+  "curated_links": {
+    "arcs": [
+      "arc_young"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "a887655ae3f54a50a58a885cca5f03ab2fe5a4fb7edf84973d787913b8d2dbc9",
+  "source_lines": 685,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "年轻人",
+      "card_id": "adventure_young",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "奥丽卡公主",
+      "card_id": "adventure_princess",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "中国人",
+      "card_id": "adventure_uncle",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "哥耶四世",
+      "card_id": "adventure_goya4",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "卢拉酋长",
+      "card_id": "adventure_lula",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "伊通、彭斯",
+      "reason": "一次性交易与线索协助者，无独立主要冲突。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_3569361ab729853e",
+      "statement": "古董计划",
+      "annotation_character_ids": [
+        "adventure_goya4"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e57fc1ab55fe141",
+      "statement": "威逼与冒充",
+      "annotation_character_ids": [
+        "adventure_goya4"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_822ec96ed9dbbbae",
+      "statement": "假成功终局",
+      "annotation_character_ids": [
+        "adventure_goya4"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d0e30431266ed6f7",
+      "statement": "接货、知情与赝品",
+      "annotation_character_ids": [
+        "adventure_lula"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_122837e6ce66367b",
+      "statement": "古董与开箱",
+      "annotation_character_ids": [
+        "adventure_uncle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cf292e3c373f4aa9",
+      "statement": "反向调包和叔侄合作",
+      "annotation_character_ids": [
+        "adventure_young"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

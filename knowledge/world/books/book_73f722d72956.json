@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "id": "book_73f722d72956",
+  "title": "太阳神",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/23太阳神.txt",
+  "file": "books/book_73f722d72956.json",
+  "inherited_fact_count": 21,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "d850d36504d39316efd609af965a6d73f2ce5e40d3371d227718e3c3d4224c08",
+  "source_lines": 945,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "包守望",
+      "card_id": "gaosi_bao_shouwang",
+      "role": "单书主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "马凤莉",
+      "card_id": "gaosi_ma_fengli",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "马立德",
+      "card_id": "gaosi_ma_lide",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "朱金",
+      "card_id": "gaosi_zhu_jin",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "陈中（太阳神）",
+      "card_id": "gaosi_chen_zhong",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "阿根（太阳神）",
+      "card_id": "gaosi_a_gen",
+      "role": "单书主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "朱振香、黄应方、汪律师",
+      "reason": "前两人依附或工作关系不自动证明独立犯罪；律师放任财务弊病但仅作一次性信息提供者，无主角或跨书线。"
+    },
+    {
+      "name": "太阳神蝎子",
+      "reason": "被用作临终线索的生物，无拟人意志，且非真正致死来源，不单列反派。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_6f82c44de2205357",
+      "statement": "摄影委托及蝎子命名",
+      "annotation_character_ids": [
+        "gaosi_bao_shouwang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f53654688f8bf824",
+      "statement": "扣回佣与争执",
+      "annotation_character_ids": [
+        "gaosi_zhu_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_398c21a05a645c8f",
+      "statement": "关系与人事",
+      "annotation_character_ids": [
+        "gaosi_ma_lide"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3bf27854c0ebda4b",
+      "statement": "身份与依附关系",
+      "annotation_character_ids": [
+        "gaosi_ma_fengli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76b27b2bc37b8c1f",
+      "statement": "任职背景",
+      "annotation_character_ids": [
+        "gaosi_zhu_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a842c6d2faa86487",
+      "statement": "身份",
+      "annotation_character_ids": [
+        "gaosi_chen_zhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45f27176bdb52a6c",
+      "statement": "一生兴趣、财务与遗嘱",
+      "annotation_character_ids": [
+        "gaosi_bao_shouwang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_200b6a9a5b68cc49",
+      "statement": "巧立开支",
+      "annotation_character_ids": [
+        "gaosi_ma_lide"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8d924f9b2e576fc2",
+      "statement": "终身工作保障",
+      "annotation_character_ids": [
+        "gaosi_a_gen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_285fba1381176ab0",
+      "statement": "驱仆、解释大谋和为侄女解围",
+      "annotation_character_ids": [
+        "gaosi_ma_lide"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6e4049f635a4625f",
+      "statement": "受压与揭露",
+      "annotation_character_ids": [
+        "gaosi_a_gen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_efa24f81c28211f4",
+      "statement": "冻结与追问",
+      "annotation_character_ids": [
+        "gaosi_zhu_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_464aaa52c341f11e",
+      "statement": "拒绝、打人和毒死事实",
+      "annotation_character_ids": [
+        "gaosi_ma_fengli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7f62a4d51d4688ea",
+      "statement": "毒液线索与武断",
+      "annotation_character_ids": [
+        "gaosi_a_gen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c03a5d9c41d26c06",
+      "statement": "偷卖、自辩与拘捕",
+      "annotation_character_ids": [
+        "gaosi_chen_zhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83f3b443b20f0250",
+      "statement": "利益对比",
+      "annotation_character_ids": [
+        "gaosi_chen_zhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c49988d304b2987f",
+      "statement": "责骂陈中",
+      "annotation_character_ids": [
+        "gaosi_zhu_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_40a0e5fea0ede6d7",
+      "statement": "原不知遗嘱、敬爱主人",
+      "annotation_character_ids": [
+        "gaosi_a_gen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1d3491329f8b97f5",
+      "statement": "线索与被捕",
+      "annotation_character_ids": [
+        "gaosi_ma_fengli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7976b31f2b567aca",
+      "statement": "临终线索及凶手",
+      "annotation_character_ids": [
+        "gaosi_bao_shouwang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ae446c641b0f0208",
+      "statement": "释放与真正凶手",
+      "annotation_character_ids": [
+        "gaosi_chen_zhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

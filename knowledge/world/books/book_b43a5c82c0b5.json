@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b43a5c82c0b5",
+  "title": "古墨",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/06古墨.txt",
+  "file": "books/book_b43a5c82c0b5.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "a4ab5c8c409e89f0eba4a1f28260bf40d833b16c28ad89c87f61295b754b594f",
+  "source_lines": 663,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "商大庆",
+      "card_id": "gaosi_shang_daqing",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "古墨案中的酒吧女郎",
+      "card_id": "gaosi_ink_bar_woman",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "小吴",
+      "reason": "单书助手和保释协助者，未发现第二部实际登场。"
+    },
+    {
+      "name": "李玉芳",
+      "reason": "此篇部分出现为高斯药物幻觉，不能用来证明实际参与。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_17a06b5dc3820dc9",
+      "statement": "家世与宅院",
+      "annotation_character_ids": [
+        "gaosi_shang_daqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3331a75cc983d8c3",
+      "statement": "接近、提供药丸和抽钱",
+      "annotation_character_ids": [
+        "gaosi_ink_bar_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c8430e8c4cc8e04e",
+      "statement": "高斯失控与后果",
+      "annotation_character_ids": [
+        "gaosi_ink_bar_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1e703cce9ad31d83",
+      "statement": "等待、羞辱、赌式开价及交货",
+      "annotation_character_ids": [
+        "gaosi_shang_daqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

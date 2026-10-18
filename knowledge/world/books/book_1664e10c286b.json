@@ -1,0 +1,310 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1664e10c286b",
+  "title": "探险",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/086探险.txt",
+  "file": "books/book_1664e10c286b.json",
+  "inherited_fact_count": 20,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "8f1198a9aa041ea0138134cb32cd32a92b83c9f43bb9cf684c0aa76972934908",
+  "source_lines": 3160,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "亲自调查、决断与叙述"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "实际参与调查、家庭选择与行动"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "实际参与线索和行动"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "主角",
+      "basis": "关系与自主能力发展的中心人物"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "到卫家观看录像并托请整理"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "实际接待和遗物线索"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "主角",
+      "basis": "前史与隐瞒真相的中心人物"
+    },
+    {
+      "name": "白奇伟",
+      "card_id": "weisili_bai_qiwei",
+      "role": "重要配角",
+      "basis": "与白素共同查访父母前史"
+    },
+    {
+      "name": "殷大德",
+      "card_id": "weisili_yin_dade",
+      "role": "主角",
+      "basis": "亲自作证并回忆获救"
+    },
+    {
+      "name": "殷的保镖",
+      "card_id": "weisili_yin_bodyguard",
+      "role": "重要配角",
+      "basis": "阻止盘问、武术与师承线索"
+    },
+    {
+      "name": "败兵团长",
+      "card_id": "weisili_tanxian_bad_colonel",
+      "role": "反派",
+      "basis": "劫持拷打并遭击落"
+    },
+    {
+      "name": "金币团长",
+      "card_id": "weisili_coin_colonel",
+      "role": "阶段性对立者",
+      "basis": "金币、背叛与旧史证言"
+    },
+    {
+      "name": "陈天豪",
+      "card_id": "weisili_chen_tianhao",
+      "role": "重要配角",
+      "basis": "帅府及家庭前史"
+    },
+    {
+      "name": "陈月梅",
+      "card_id": "weisili_chen_yuemei",
+      "role": "主角",
+      "basis": "来访寻姊、托付身世"
+    },
+    {
+      "name": "何先达",
+      "card_id": "weisili_he_xianda",
+      "role": "重要配角",
+      "basis": "随护来访与旧史证言"
+    },
+    {
+      "name": "陈月兰",
+      "card_id": "weisili_chen_yuelan",
+      "role": "主角",
+      "basis": "独立出走、与白老大往事"
+    },
+    {
+      "name": "哥老会尚书",
+      "card_id": "weisili_paoge_shangshu",
+      "role": "重要配角",
+      "basis": "首领问话与后续证词"
+    },
+    {
+      "name": "总坛未分名首领",
+      "card_id": "weisili_paoge_hostile_heads",
+      "role": "阶段性对立者",
+      "basis": "围攻、追缉和逼问"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "金贩与伙伴",
+      "reason": "单次传信与受询证言，未达跨书重要配角；原文提醒可能有添饰"
+    },
+    {
+      "name": "陈天豪女佣、宴客和普通败兵",
+      "reason": "未分出独立主要人物，行动受首领与现场驱动"
+    },
+    {
+      "name": "无名两个连长",
+      "reason": "由团长回述图财冲突，一次背景执行者；没有可独立展开的主要叙事"
+    },
+    {
+      "name": "猛哥、猜王等旧交",
+      "reason": "本书主要为回顾与通行建议，不因提名追加登场"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e4ea06b2458a24ac",
+      "statement": "认出救命恩人遭否认",
+      "annotation_character_ids": [
+        "weisili_yin_dade"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_13bd52a26e9a06a4",
+      "statement": "随护与初次冲突",
+      "annotation_character_ids": [
+        "weisili_yin_bodyguard"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5260315412db4867",
+      "statement": "款待、藤杖与翻译",
+      "annotation_character_ids": [
+        "weisili_yin_dade"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d3200232c92678f",
+      "statement": "侍立、果酒与忠诚",
+      "annotation_character_ids": [
+        "weisili_yin_bodyguard"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_171d821a12f46fd7",
+      "statement": "烟土商务背景",
+      "annotation_character_ids": [
+        "weisili_yin_dade"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f7894a3d862e64a",
+      "statement": "外观、伤势、劫夺与施暴",
+      "annotation_character_ids": [
+        "weisili_tanxian_bad_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_973d8dd23d512e19",
+      "statement": "遭劫、获救和分货",
+      "annotation_character_ids": [
+        "weisili_yin_dade"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a1087ebc87a17b0a",
+      "statement": "阳光土司身份、制服败兵团长和释放分配",
+      "annotation_character_ids": [
+        "weisili_bai_laoda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_df11f6f7b40d5b66",
+      "statement": "命令失败、举枪不及及死亡",
+      "annotation_character_ids": [
+        "weisili_tanxian_bad_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7e66245b6f3014e",
+      "statement": "身份、寻姊和求助",
+      "annotation_character_ids": [
+        "weisili_chen_yuemei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ae2987450b621179",
+      "statement": "随护、谈吐与器物知识",
+      "annotation_character_ids": [
+        "weisili_he_xianda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_37173924b7c61c4c",
+      "statement": "一愿神虫与父女往事",
+      "annotation_character_ids": [
+        "weisili_chen_yuemei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82d2f60f1728672f",
+      "statement": "督军身份和两女关系",
+      "annotation_character_ids": [
+        "weisili_chen_tianhao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_209e99d4f6b34685",
+      "statement": "总坛争斗、五首领出场与追缉",
+      "annotation_character_ids": [
+        "weisili_paoge_hostile_heads"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7a0a5be89def9223",
+      "statement": "问话、畏惧蛊苗与金贩证言",
+      "annotation_character_ids": [
+        "weisili_paoge_hostile_heads"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_61423e82c8ac6fb9",
+      "statement": "五名首领与金贩问话背景",
+      "annotation_character_ids": [
+        "weisili_paoge_shangshu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e511362c50c8695f",
+      "statement": "陈天豪姓名、寿币及遇害时间",
+      "annotation_character_ids": [
+        "weisili_chen_tianhao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82640bf7745e7a52",
+      "statement": "携金币、杀同伴与售币",
+      "annotation_character_ids": [
+        "weisili_coin_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3a0b666578f93e83",
+      "statement": "晚年生活及叙述习惯",
+      "annotation_character_ids": [
+        "weisili_coin_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_625f9a7989638948",
+      "statement": "获救、余币和关键对话",
+      "annotation_character_ids": [
+        "weisili_coin_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

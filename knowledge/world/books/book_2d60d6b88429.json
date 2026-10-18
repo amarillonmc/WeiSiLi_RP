@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0",
+  "id": "book_2d60d6b88429",
+  "title": "鱼人",
+  "aliases": [],
+  "series": "非人协会系列",
+  "source_path": "非人协会系列/02鱼人.txt",
+  "file": "books/book_2d60d6b88429.json",
+  "inherited_fact_count": 9,
+  "curated_links": {
+    "events": [
+      "f_fish_refusal"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "eb32b441475afc0ae19eacea0025cf11eaf55cb10c3a7b2f6aa6fbad60f63a0d",
+  "source_lines": 677,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "范先生",
+      "card_id": "adventure_fan",
+      "role": "主角",
+      "basis": "全程寻找、教育鱼人并处理战争选择"
+    },
+    {
+      "name": "都连加农",
+      "card_id": "adventure_dulian",
+      "role": "主角",
+      "basis": "标题人物与独立伦理选择"
+    },
+    {
+      "name": "总管",
+      "card_id": "adventure_zongguan",
+      "role": "重要配角",
+      "basis": "实地翻译与后勤"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "阿里",
+      "reason": "单书恋爱与生活伙伴，没有跨书行动，非独立主视角"
+    },
+    {
+      "name": "巴奴、摩里、杰勿生、林达、保杰士、雷色慕、辛加基、加曼",
+      "reason": "单书辅助人物；不是独立反派"
+    },
+    {
+      "name": "日本潜艇官兵",
+      "reason": "无可区分个体身份的战时目标，未提供共同人格逻辑"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_563466c7bf16a550",
+      "statement": "指挥章鱼救船",
+      "annotation_character_ids": [
+        "adventure_dulian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_01577f97c1716d0c",
+      "statement": "召集专家与远征准备",
+      "annotation_character_ids": [
+        "adventure_fan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6da27b1fd5af05c6",
+      "statement": "翻译和对巴奴行为的评价",
+      "annotation_character_ids": [
+        "adventure_zongguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_39e94221a12787cd",
+      "statement": "静坐与漂流条件差别",
+      "annotation_character_ids": [
+        "adventure_fan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_94da5e9b8ebefacc",
+      "statement": "对独立性的关切",
+      "annotation_character_ids": [
+        "adventure_zongguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_362ab717a44b20eb",
+      "statement": "身体与陆上动作",
+      "annotation_character_ids": [
+        "adventure_dulian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e31a6efedaa3b9e2",
+      "statement": "潜艇事件和拒绝战争",
+      "annotation_character_ids": [
+        "adventure_dulian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c538874727de88a1",
+      "statement": "接受鱼人拒绝战争并送行",
+      "annotation_character_ids": [
+        "adventure_fan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_579599ebeb0fa44e",
+      "statement": "海上归宿与接纳",
+      "annotation_character_ids": [
+        "adventure_dulian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

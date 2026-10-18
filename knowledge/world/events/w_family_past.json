@@ -1,0 +1,31 @@
+{
+  "id": "w_family_past",
+  "title": "白老大与陈月兰离散、红绫的早年",
+  "kind": "event",
+  "summary": "调查重建白家婚姻误会、陈月兰隐居复仇及抱走外孙女的经历，解释红绫早年失散。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "回溯跨度包括白素出生前后和红绫幼年，非《继续探险》当下同时发生。",
+    "narrative_layer": "recollection"
+  },
+  "state_before": "家族对过往保有误会和空白。",
+  "state_after": "离散、抚育及隐瞒为当代寻女留下线索。",
+  "knowledge_boundary": "发生时间与被卫白发现的时间分开；这不是当时每位家属都知道的完整家史。",
+  "character_ids": [
+    "weisili_bai_laoda",
+    "weisili_chen_yuelan",
+    "weisili_hong_ling"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_318e289b38da960d",
+    "evidence_94c91f9606dc3c2b",
+    "evidence_b68bbc86fcf830e8",
+    "evidence_48ad0b3d897f0574"
+  ],
+  "book_ids": [
+    "book_afc4b3885657"
+  ]
+}

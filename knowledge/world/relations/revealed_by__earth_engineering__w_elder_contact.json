@@ -1,0 +1,17 @@
+{
+  "id": "revealed_by__earth_engineering__w_elder_contact",
+  "source": "earth_engineering",
+  "target": "w_elder_contact",
+  "relation": "revealed_by",
+  "epistemic_status": "testimony",
+  "reason": "远古工程发生与现代得知分开，不以揭露书号给古史排序。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "远古工程发生与现代得知分开，不以揭露书号给古史排序。",
+  "evidence_ids": [
+    "evidence_e8b9207a34b6eb16"
+  ],
+  "book_ids": [
+    "book_202100bacdcc"
+  ]
+}

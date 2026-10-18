@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "id": "book_530107178547",
+  "title": "鬼哭之二",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/鬼哭之二.txt",
+  "file": "books/book_530107178547.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "4d108c616660dcb781c891dfb0692971fb34934de329199f3629472ed39d5778",
+  "source_lines": 49,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "阿唐",
+      "card_id": "guihua_mahjong_tang",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "旧楼厕所的掐颈者",
+      "card_id": "guihua_toilet_entity",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_822d5e3b591f795c",
+      "statement": "邀约与厕所久候",
+      "annotation_character_ids": [
+        "guihua_mahjong_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_89589cb6e4f915f6",
+      "statement": "警告、异常反应及尸体",
+      "annotation_character_ids": [
+        "guihua_mahjong_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_004a14f3b05e7d81",
+      "statement": "阿唐描述袭击",
+      "annotation_character_ids": [
+        "guihua_toilet_entity"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ae4e92fc00d54760",
+      "statement": "尸体位置与死亡印证",
+      "annotation_character_ids": [
+        "guihua_toilet_entity"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

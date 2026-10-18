@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "id": "book_723871ef0f84",
+  "title": "在数难逃",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/106在数难逃.txt",
+  "file": "books/book_723871ef0f84.json",
+  "inherited_fact_count": 17,
+  "curated_links": {
+    "arcs": [
+      "arc_kangwei",
+      "arc_muxiuzhen"
+    ],
+    "bridges": [
+      "bridge_kangwei"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "55e8fa566d17cc3a3516985e73b565261287ff51be7137182e53d76e33237ec7",
+  "source_lines": 2744,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "卫七",
+      "card_id": "weisili_wei_qishu",
+      "role": "重要配角",
+      "basis": "参与数字与身份调查"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "参与数字与身份调查"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "参与数字与身份调查"
+    },
+    {
+      "name": "齐白",
+      "card_id": "weisili_qi_bai",
+      "role": "重要配角",
+      "basis": "参与数字与身份调查"
+    },
+    {
+      "name": "李宣宣",
+      "card_id": "weisili_li_xuanxuan",
+      "role": "重要配角",
+      "basis": "参与数字与身份调查"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "参与数字与身份调查"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "参与数字与身份调查"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "重要配角",
+      "basis": "实际到场或通讯"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "实际到场或通讯"
+    },
+    {
+      "name": "康维",
+      "card_id": "yuanzhenxia_kangwei",
+      "role": "重要配角",
+      "basis": "实际到场或通讯"
+    },
+    {
+      "name": "柳絮",
+      "card_id": "yuanzhenxia_liu_xu",
+      "role": "重要配角",
+      "basis": "实际到场或通讯"
+    },
+    {
+      "name": "穆秀珍之母",
+      "card_id": "weisili_mu_xiuzhen_mother",
+      "role": "单书主角",
+      "basis": "托孤与身世事件的关键行动者"
+    },
+    {
+      "name": "李达承",
+      "card_id": "weisili_li_dacheng",
+      "role": "单书重要人物",
+      "basis": "托孤与身世事件的关键行动者"
+    },
+    {
+      "name": "穆秀珍生父（异国头号人物）",
+      "card_id": "weisili_foreign_first_leader",
+      "role": "反派",
+      "basis": "托孤与身世事件的关键行动者"
+    },
+    {
+      "name": "胡队长（江船搜捕）",
+      "card_id": "weisili_hu_captain_shunshao",
+      "role": "反派",
+      "basis": "托孤与身世事件的关键行动者"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "穆家庄主",
+      "reason": "收养女婴的一次性辅助人物；未发现独立反派行动或多书实际参与。"
+    },
+    {
+      "name": "被称仙人的青年",
+      "reason": "来历仍以往事转述与推测说明；与原振侠联系未在本书充分落实，不增造一个全知仙人。"
+    },
+    {
+      "name": "电脑异常的幕后制造者",
+      "reason": "白羽星或陈月兰只是卫斯理推测，不能认定具体实施者。"
+    },
+    {
+      "name": "船员、画师、士兵与工作人员",
+      "reason": "单次辅助人员或未独立刻画的执行群体。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_b415c1bdd2663368",
+      "statement": "船上托孤与入水",
+      "annotation_character_ids": [
+        "weisili_mu_xiuzhen_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0261170027891b28",
+      "statement": "搜捕过程与误判",
+      "annotation_character_ids": [
+        "weisili_hu_captain_shunshao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_699cb9f5567b914a",
+      "statement": "改容、军旅与寻人",
+      "annotation_character_ids": [
+        "weisili_wei_qishu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0bcd6755b73354b5",
+      "statement": "身世与共情",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_xu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_085016989c36978a",
+      "statement": "仪器装设",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_808849acbe26be49",
+      "statement": "星际研究会议",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_28eb0c00d046e0d5",
+      "statement": "认出母女",
+      "annotation_character_ids": [
+        "weisili_wei_qishu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e7e708a2fb0ca03b",
+      "statement": "梦像及身份识别",
+      "annotation_character_ids": [
+        "weisili_mu_xiuzhen_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c993c8c7ca827db1",
+      "statement": "数字梦与母亲形象",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2c03f1631cf372ac",
+      "statement": "身份、重逢与安排",
+      "annotation_character_ids": [
+        "weisili_li_dacheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fd824e7aca6d566f",
+      "statement": "韦司令旧恩",
+      "annotation_character_ids": [
+        "weisili_wei_qishu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_082c2b9c574accbb",
+      "statement": "生父承认杀害",
+      "annotation_character_ids": [
+        "weisili_mu_xiuzhen_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_43d73ba81aee4488",
+      "statement": "会面、罪责与寻找女儿",
+      "annotation_character_ids": [
+        "weisili_foreign_first_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7c052ed1e094d255",
+      "statement": "生母和政治身世的较晚揭示",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9043569bb075d537",
+      "statement": "隐瞒穆下落",
+      "annotation_character_ids": [
+        "weisili_wei_qishu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1228db0ff890aa4b",
+      "statement": "数字含义与未解条件",
+      "annotation_character_ids": [
+        "weisili_foreign_first_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3d8062cdf0019882",
+      "statement": "未解条件",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

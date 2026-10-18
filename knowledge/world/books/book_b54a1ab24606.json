@@ -1,0 +1,318 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b54a1ab24606",
+  "title": "本性难移",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/129本性难移.txt",
+  "file": "books/book_b54a1ab24606.json",
+  "inherited_fact_count": 25,
+  "curated_links": {
+    "arcs": [
+      "arc_wen"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "2da8230df04196d86719ba5c70b1c1d3a316a5eca56d6665880505ba3bb56409",
+  "source_lines": 2577,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "身份与投药调查"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "尊重痛苦当事人、推理身份"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "推理与核证"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "参与调查，拒绝忍术戒条"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "维护委托人并搜证"
+    },
+    {
+      "name": "张泰丰",
+      "card_id": "weisili_zhang_taifeng",
+      "role": "重要配角",
+      "basis": "供水危机协调、送样"
+    },
+    {
+      "name": "亮声",
+      "card_id": "weisili_liang_sheng",
+      "role": "重要配角",
+      "basis": "化验与终局交流"
+    },
+    {
+      "name": "廉正风",
+      "card_id": "weisili_lian_zhengfeng",
+      "role": "阶段性对立者",
+      "basis": "投药合作、隐匿及解释"
+    },
+    {
+      "name": "游救国",
+      "card_id": "weisili_you_jiuguo",
+      "role": "主角",
+      "basis": "战后研究与投药"
+    },
+    {
+      "name": "陈名富",
+      "card_id": "weisili_chen_mingfu",
+      "role": "主角",
+      "basis": "冒名往事与求和"
+    },
+    {
+      "name": "卢喜鹊",
+      "card_id": "weisili_lu_xique",
+      "role": "主角",
+      "basis": "婚姻与共同秘密"
+    },
+    {
+      "name": "典希微",
+      "card_id": "weisili_dian_xiwei",
+      "role": "重要配角",
+      "basis": "证人、武术教练与参与查证"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "卢振中、卢夫人",
+      "reason": "婚约与接待的单书家族背景，未见跨书重要行动或反派定位"
+    },
+    {
+      "name": "游道圣",
+      "reason": "以信、旧事及后续待述线索出现，本篇无独立现身"
+    },
+    {
+      "name": "真正平地青雄及父亲",
+      "reason": "死者衣服和身份继承背景，无足够独立行动"
+    },
+    {
+      "name": "忍术最高高手、管理员、旧男伴",
+      "reason": "传承背景或一次证人，没有可分辨的跨书身份"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_66307912c212ae24",
+      "statement": "火车顶帮助邻座",
+      "annotation_character_ids": [
+        "weisili_chen_mingfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ea56a7c792ad84e6",
+      "statement": "报讯本意与误认开始",
+      "annotation_character_ids": [
+        "weisili_chen_mingfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2c563dcf3660c793",
+      "statement": "初见与自我介绍、性格风貌",
+      "annotation_character_ids": [
+        "weisili_lu_xique"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_07cd4ba235bcad60",
+      "statement": "明知冒名、婚姻和银行经营",
+      "annotation_character_ids": [
+        "weisili_chen_mingfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee49590f79b0608d",
+      "statement": "长期婚姻、去世及学养",
+      "annotation_character_ids": [
+        "weisili_lu_xique"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ccd456eed8b71297",
+      "statement": "教练与遭遇两鬼时观察",
+      "annotation_character_ids": [
+        "weisili_dian_xiwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c83d891e24f1a91a",
+      "statement": "用水囊假人示警兼示范潜入，未解释药物",
+      "annotation_character_ids": [
+        "weisili_lian_zhengfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ad39a123aafb8b6",
+      "statement": "运送样本和应变会议",
+      "annotation_character_ids": [
+        "weisili_zhang_taifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa9c39bb4f341caa",
+      "statement": "供水责任争论",
+      "annotation_character_ids": [
+        "weisili_zhang_taifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b305af632c59fcad",
+      "statement": "恐惧又希望说明",
+      "annotation_character_ids": [
+        "weisili_chen_mingfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5edf18f7b1e5e348",
+      "statement": "平地院长及医学研究地位",
+      "annotation_character_ids": [
+        "weisili_you_jiuguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7c65b4427169a450",
+      "statement": "丈夫遗憾她未见和解，二人共负秘密",
+      "annotation_character_ids": [
+        "weisili_lu_xique"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c94da03cbba96585",
+      "statement": "和解与自述意愿",
+      "annotation_character_ids": [
+        "weisili_you_jiuguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d1b1299065fc7e7d",
+      "statement": "获谅解与妻已去世",
+      "annotation_character_ids": [
+        "weisili_chen_mingfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2a18a74724db7597",
+      "statement": "身份误认、忍术传承和口音",
+      "annotation_character_ids": [
+        "weisili_you_jiuguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cef9bd73161b7c6b",
+      "statement": "平地青雄是更高地位的忍术传人",
+      "annotation_character_ids": [
+        "weisili_lian_zhengfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_08bfcb4e95f33235",
+      "statement": "研究、鸭试验、未同意投药及人体结果不定",
+      "annotation_character_ids": [
+        "weisili_you_jiuguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d3aed2cd9dffeaf7",
+      "statement": "协助大规模未同意投药",
+      "annotation_character_ids": [
+        "weisili_lian_zhengfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b7002372d82a7ee3",
+      "statement": "保守组织秘密、收徒要求使温放弃",
+      "annotation_character_ids": [
+        "weisili_lian_zhengfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_396e8f9492a6184a",
+      "statement": "读99戒条后放弃拜师，不能因此获得廉的忍术",
+      "annotation_character_ids": [
+        "weisili_wen_baoyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ce2f62125925bc8c",
+      "statement": "动物成果尚初步，院方也无成熟永久改变人类本性方法",
+      "annotation_character_ids": [
+        "weisili_leman_hospital"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f121630143699184",
+      "statement": "研究仍初步、独立交流协议",
+      "annotation_character_ids": [
+        "weisili_you_jiuguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e9081f6903f90dfd",
+      "statement": "再度致歉感激与对善意起点的回看",
+      "annotation_character_ids": [
+        "weisili_chen_mingfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a30aefc88689cf84",
+      "statement": "主动说明本性研究困难，非随时可改人性",
+      "annotation_character_ids": [
+        "weisili_liang_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5255f5ce70afa004",
+      "statement": "对人性研究限制的承认",
+      "annotation_character_ids": [
+        "weisili_liang_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

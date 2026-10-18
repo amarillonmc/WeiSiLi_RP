@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "id": "book_87a4d0bf6b68",
+  "title": "生死锁",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/070生死锁.txt",
+  "file": "books/book_87a4d0bf6b68.json",
+  "inherited_fact_count": 18,
+  "curated_links": {
+    "arcs": [
+      "arc_jinwei"
+    ],
+    "bridges": [
+      "bridge_jinwei"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "a630f7ba4b6a9a1e92be1e10538b3b82c6570fdada0cae89d72b07ddf549a339",
+  "source_lines": 3462,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "调查与生命讨论"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "重要配角",
+      "basis": "回应与分析"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "探索兴趣与身体自由讨论"
+    },
+    {
+      "name": "陈长青",
+      "card_id": "weisili_chen_changqing",
+      "role": "主角",
+      "basis": "开始入山修道"
+    },
+    {
+      "name": "金维",
+      "card_id": "adventure_jinwei",
+      "role": "重要配角",
+      "basis": "联系导师与以鹰渡山"
+    },
+    {
+      "name": "布平",
+      "card_id": "weisili_bu_ping",
+      "role": "重要配角",
+      "basis": "岩样调查与寻友"
+    },
+    {
+      "name": "天池上人",
+      "card_id": "weisili_tianchi",
+      "role": "主角",
+      "basis": "生命研究及指导再生"
+    },
+    {
+      "name": "五散喇嘛",
+      "card_id": "weisili_wu_san",
+      "role": "主角",
+      "basis": "两次转换身体"
+    },
+    {
+      "name": "班德",
+      "card_id": "weisili_ban_de",
+      "role": "主角",
+      "basis": "坠崖救同伴的独立回忆线"
+    },
+    {
+      "name": "来贝喇嘛",
+      "card_id": "weisili_lai_bei",
+      "role": "主角",
+      "basis": "借身后失去灵慧"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "丹妮",
+      "reason": "通过布平叙述参与寻夫与恋爱，未具独立主线或已核跨书行动"
+    },
+    {
+      "name": "那鲁岛女孩母亲",
+      "reason": "有限探视与受惊，未具独立主线"
+    },
+    {
+      "name": "那鲁岛瘦子和酒店青年",
+      "reason": "一次性地方线索与冲突配角"
+    },
+    {
+      "name": "五散再生的父母及接生老妇",
+      "reason": "只呈现再生现场与父亲不满，非独立主角"
+    },
+    {
+      "name": "七首徒中的早期无名喇嘛",
+      "reason": "107仅确认其中两人参与旧事，无法将070每位无名僧强行对应具体成员"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_04ac51bdbcffee30",
+      "statement": "作为天池老人助手的经历。",
+      "annotation_character_ids": [
+        "adventure_jinwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_43c9d11a139cf4de",
+      "statement": "灵魂理论与追踪",
+      "annotation_character_ids": [
+        "weisili_tianchi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ea0b23e97b2cf84",
+      "statement": "旧能力与第一次失控转世",
+      "annotation_character_ids": [
+        "weisili_wu_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_349cea14dc22934b",
+      "statement": "当时明确没有掌握任何神通。",
+      "annotation_character_ids": [
+        "adventure_jinwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_edcd17f2e99345c9",
+      "statement": "与孤峰旧事衔接及未掌握神通。",
+      "annotation_character_ids": [
+        "adventure_jinwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b23f8eca6af2f1e",
+      "statement": "形象感应仅猜想",
+      "annotation_character_ids": [
+        "weisili_wu_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_695cff432d5ce911",
+      "statement": "接受婴儿途径",
+      "annotation_character_ids": [
+        "weisili_wu_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1e73a5cc9631c375",
+      "statement": "班德事故现场调查",
+      "annotation_character_ids": [
+        "weisili_bu_ping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cd81b97ee6e66ff2",
+      "statement": "身份和断绳",
+      "annotation_character_ids": [
+        "weisili_ban_de"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1e6b5acf7758948b",
+      "statement": "岩层研究与救同伴解释",
+      "annotation_character_ids": [
+        "weisili_ban_de"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f2b1c400c983956",
+      "statement": "身份与身体关系冲突",
+      "annotation_character_ids": [
+        "weisili_lai_bei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2295415c1b1234e9",
+      "statement": "借身机制、气功与能力损失",
+      "annotation_character_ids": [
+        "weisili_lai_bei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bce7d5758eda0a38",
+      "statement": "原灵魂离体、来贝另人及不可复归",
+      "annotation_character_ids": [
+        "weisili_ban_de"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6dabdeed61a14208",
+      "statement": "借身失败后的指导",
+      "annotation_character_ids": [
+        "weisili_tianchi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_832e6102cc4ca618",
+      "statement": "爱情与诚实的犹疑",
+      "annotation_character_ids": [
+        "weisili_bu_ping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_03ccb632e5ddd07b",
+      "statement": "重修及态度变化",
+      "annotation_character_ids": [
+        "weisili_lai_bei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_587be51803a5d3b1",
+      "statement": "地球范围限制与再生确认",
+      "annotation_character_ids": [
+        "weisili_tianchi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e591c3f4b888a7dc",
+      "statement": "婴儿限制和确认身份",
+      "annotation_character_ids": [
+        "weisili_wu_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

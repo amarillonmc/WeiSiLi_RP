@@ -1,0 +1,178 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d3358ada2f8a",
+  "title": "手套",
+  "aliases": [],
+  "series": "年轻人",
+  "source_path": "年轻人/01手套.txt",
+  "file": "books/book_d3358ada2f8a.json",
+  "inherited_fact_count": 12,
+  "curated_links": {
+    "arcs": [
+      "arc_young"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "2b99befe90eb0ccc14811a7021b608d7d076e1a5d37989d9c344e5e57bb95afb",
+  "source_lines": 806,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "年轻人",
+      "card_id": "adventure_young",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "奥丽卡公主",
+      "card_id": "adventure_princess",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "中国人",
+      "card_id": "adventure_uncle",
+      "role": "重要配角",
+      "basis": "训练年轻人并主持盗窃考验"
+    },
+    {
+      "name": "玲珑手",
+      "card_id": "adventure_linglong",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "土耳其皇",
+      "card_id": "adventure_turkish",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "哥耶四世",
+      "card_id": "adventure_goya4",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "斋泰维伯爵",
+      "card_id": "adventure_zhaitai",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "苏振民",
+      "card_id": "adventure_suzhenmin",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "阿德巴酋长",
+      "reason": "只作为背景关系被提及，无独立行动线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_8c549178025f790f",
+      "statement": "身份、设备和挑战反应",
+      "annotation_character_ids": [
+        "adventure_suzhenmin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_00bd281fe768270e",
+      "statement": "展示现场的观察",
+      "annotation_character_ids": [
+        "adventure_uncle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd02cd5a5192a54d",
+      "statement": "对手观察与宣传判断",
+      "annotation_character_ids": [
+        "adventure_suzhenmin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2633730d58d2afc1",
+      "statement": "身份、古堡费用与鉴定",
+      "annotation_character_ids": [
+        "adventure_zhaitai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_da2f19a32b2615d8",
+      "statement": "早期身份与手艺",
+      "annotation_character_ids": [
+        "adventure_linglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5dbed6ce45ec98df",
+      "statement": "外貌、血统自述与专长",
+      "annotation_character_ids": [
+        "adventure_turkish"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2251521767121483",
+      "statement": "形象和职业机制",
+      "annotation_character_ids": [
+        "adventure_goya4"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7eaaa7cceec01029",
+      "statement": "召集与年轻人",
+      "annotation_character_ids": [
+        "adventure_zhaitai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_15004cfadca1bee4",
+      "statement": "骗局终局",
+      "annotation_character_ids": [
+        "adventure_uncle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6ebfef60c9c7607d",
+      "statement": "手套与调包结果",
+      "annotation_character_ids": [
+        "adventure_young"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_80a5a0b2eff74d35",
+      "statement": "失败后讨论",
+      "annotation_character_ids": [
+        "adventure_zhaitai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8fccb92035160bb9",
+      "statement": "调包失败后的反应",
+      "annotation_character_ids": [
+        "adventure_linglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

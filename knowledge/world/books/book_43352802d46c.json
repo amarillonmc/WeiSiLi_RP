@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0",
+  "id": "book_43352802d46c",
+  "title": "偷天换日",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/134偷天换日.txt",
+  "file": "books/book_43352802d46c.json",
+  "inherited_fact_count": 14,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "7c07f878a130f1971e9bfe8b715b90539d44174d4b9b96f1bd6bee9e946eb9a3",
+  "source_lines": 1287,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "赛观音",
+      "card_id": "weisili_sai_guanyin",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "于是",
+      "card_id": "weisili_yu_shi",
+      "role": "阶段性对立者",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "于放",
+      "card_id": "weisili_yu_fang",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "葫芦生",
+      "card_id": "weisili_hu_lusheng",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "军师",
+      "card_id": "adventure_junshi",
+      "role": "阶段性对立者",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "军师娘子",
+      "card_id": "adventure_junshi_wife",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "铁旦",
+      "card_id": "weisili_tie_dan",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "黄蝉",
+      "card_id": "weisili_huang_chan",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "黄玫瑰",
+      "reason": "仅以美貌作比较，不据同名或容貌并入罗开玫瑰"
+    },
+    {
+      "name": "二百零三名幼儿及女兵",
+      "reason": "共同历史任务对象，无逐人身份和独立角色线，不虚构名单"
+    },
+    {
+      "name": "主持政治迫害的组织人员",
+      "reason": "未区分个体，只记录制度性背景，不给匿名群体无限统一意识"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_6b86061f08f17405",
+      "statement": "负伤、独眼独臂",
+      "annotation_character_ids": [
+        "weisili_yu_fang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a561e46fd9d8b88",
+      "statement": "容貌身份与家庭创痛",
+      "annotation_character_ids": [
+        "weisili_yu_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb59d3fc9455dafe",
+      "statement": "姓名、土匪领袖与不弃丈夫",
+      "annotation_character_ids": [
+        "weisili_sai_guanyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c622b623e198e125",
+      "statement": "婚姻与迫害死亡",
+      "annotation_character_ids": [
+        "weisili_yu_fang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dcf31dde7eff534e",
+      "statement": "江湖往事与葫芦生关系",
+      "annotation_character_ids": [
+        "weisili_sai_guanyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9e90dfac2bb8b1d0",
+      "statement": "动员、搏斗和夜视证据边界",
+      "annotation_character_ids": [
+        "weisili_yu_fang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_42164de91581f3e5",
+      "statement": "早年武术、布置与失败",
+      "annotation_character_ids": [
+        "weisili_sai_guanyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4daee9f21b4e2064",
+      "statement": "三十公尺救人、迁徙与不强迫邀请",
+      "annotation_character_ids": [
+        "adventure_junshi_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b69808ed09028c7b",
+      "statement": "拒绝抗日、受排斥后带部属家属入关",
+      "annotation_character_ids": [
+        "adventure_junshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63e11ff11de50f0a",
+      "statement": "死亡",
+      "annotation_character_ids": [
+        "weisili_sai_guanyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_92a119cf37ccd631",
+      "statement": "病逝与无法挽救",
+      "annotation_character_ids": [
+        "weisili_hu_lusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_18ad6fe0bfa3e117",
+      "statement": "争执、取证与自行公开文件",
+      "annotation_character_ids": [
+        "weisili_yu_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1be6a1b05aed5185",
+      "statement": "档案内容及离去",
+      "annotation_character_ids": [
+        "weisili_yu_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d2f5a0b5011c673",
+      "statement": "手书档案及矛盾",
+      "annotation_character_ids": [
+        "weisili_sai_guanyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

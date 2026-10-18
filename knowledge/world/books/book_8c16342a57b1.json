@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "id": "book_8c16342a57b1",
+  "title": "不死药",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/012不死药.txt",
+  "file": "books/book_8c16342a57b1.json",
+  "inherited_fact_count": 25,
+  "curated_links": {
+    "entities": [
+      "immortality_drug"
+    ],
+    "events": [
+      "w_immortality"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "add3e531fa3d2d7c2767b9c3b0e194fb54b7d61e4b81561efb86d8825848b14d",
+  "source_lines": 2991,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "骆致谦",
+      "card_id": "weisili_luo_zhiqian",
+      "role": "反派",
+      "basis": "冒名弑兄、依赖控制及屠杀"
+    },
+    {
+      "name": "骆致逊",
+      "card_id": "weisili_luo_zhixun",
+      "role": "单书主线人物",
+      "basis": "长期寻弟与身份被盗用"
+    },
+    {
+      "name": "柏秀琼",
+      "card_id": "weisili_bai_xiuqiong",
+      "role": "反派",
+      "basis": "明知身份而共谋"
+    },
+    {
+      "name": "波金",
+      "card_id": "weisili_bojin",
+      "role": "反派",
+      "basis": "走私和药源控制"
+    },
+    {
+      "name": "汉同架友人",
+      "card_id": "weisili_hantongjia_friend",
+      "role": "单书主角",
+      "basis": "逃亡向导与保护选择"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "后期照护和面对治疗"
+    },
+    {
+      "name": "杰克",
+      "card_id": "weisili_jieke",
+      "role": "重要配角",
+      "basis": "案件与结尾押回"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "潜艇日本驾驶员、两名报信少年、医生与其他岛民",
+      "reason": "执行、报信、治疗或未分化群体，无独立反派计划；不能因旁人夸机械天才就编造个人技术树。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_f44634e0f88fc9a1",
+      "statement": "遗产与长期寻弟",
+      "annotation_character_ids": [
+        "weisili_luo_zhixun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a3e8d8a5e62c4d5",
+      "statement": "公开辩白",
+      "annotation_character_ids": [
+        "weisili_bai_xiuqiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_118f1c25877e476a",
+      "statement": "监狱会见姿态",
+      "annotation_character_ids": [
+        "weisili_bai_xiuqiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_684071c9ddcad444",
+      "statement": "中断追问",
+      "annotation_character_ids": [
+        "weisili_bai_xiuqiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9ba3f57a7e2c3588",
+      "statement": "财势与接应",
+      "annotation_character_ids": [
+        "weisili_bojin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3d3c67fd22324908",
+      "statement": "被控制及宅中岛民",
+      "annotation_character_ids": [
+        "weisili_bojin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_161d64539becf1be",
+      "statement": "真相后态度",
+      "annotation_character_ids": [
+        "weisili_bai_xiuqiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2eff2649d8b6ecf1",
+      "statement": "身份揭示",
+      "annotation_character_ids": [
+        "weisili_luo_zhixun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_676c1242104deb79",
+      "statement": "真实身份反转",
+      "annotation_character_ids": [
+        "weisili_luo_zhiqian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7a170b1e028ff308",
+      "statement": "药物商业化与走私合作",
+      "annotation_character_ids": [
+        "weisili_luo_zhiqian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_21603f02bcd1ddc5",
+      "statement": "走私合作",
+      "annotation_character_ids": [
+        "weisili_bojin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1dfd6b7f2663a1d5",
+      "statement": "逃亡、航行与呼救",
+      "annotation_character_ids": [
+        "weisili_hantongjia_friend"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2671e6e9cf04a88",
+      "statement": "拒绝药物与地位",
+      "annotation_character_ids": [
+        "weisili_hantongjia_friend"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_99b81682c62c6bdd",
+      "statement": "寻求武力保护",
+      "annotation_character_ids": [
+        "weisili_hantongjia_friend"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f34575a41644b8c6",
+      "statement": "持续解释真正代价",
+      "annotation_character_ids": [
+        "weisili_hantongjia_friend"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7f42fce0fc615162",
+      "statement": "伏击死亡",
+      "annotation_character_ids": [
+        "weisili_bojin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff88cab692b47711",
+      "statement": "强迫依赖及弑兄原因",
+      "annotation_character_ids": [
+        "weisili_luo_zhiqian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff0e381d14a0da7a",
+      "statement": "被害原因",
+      "annotation_character_ids": [
+        "weisili_luo_zhixun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b7035d2e864bccb",
+      "statement": "屠杀计划",
+      "annotation_character_ids": [
+        "weisili_luo_zhiqian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f0ca950e1d85fc7",
+      "statement": "死亡引发道德诘问",
+      "annotation_character_ids": [
+        "weisili_bojin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4970e5414b2c5272",
+      "statement": "实际屠杀、恢复及制服",
+      "annotation_character_ids": [
+        "weisili_luo_zhiqian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a44a13b9b8fd5c74",
+      "statement": "屠杀",
+      "annotation_character_ids": [
+        "weisili_hantongjia_friend"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a6f1f2b78d4132a5",
+      "statement": "全岛死亡的确认",
+      "annotation_character_ids": [
+        "weisili_hantongjia_friend"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0fcdf5294634ada6",
+      "statement": "处刑和药源终局",
+      "annotation_character_ids": [
+        "weisili_luo_zhiqian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c20f16af9cbadf7b",
+      "statement": "共谋、动机及失能",
+      "annotation_character_ids": [
+        "weisili_bai_xiuqiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,235 @@
+{
+  "schema_version": "1.0",
+  "id": "book_af8e58126391",
+  "title": "消失",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/024消失.txt",
+  "file": "books/book_af8e58126391.json",
+  "inherited_fact_count": 20,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "8528c71e8193ffda7163ccd355a0e9b90feed5a9c7ea397fd70b95a8ee01213c",
+  "source_lines": 976,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "跨书重要配角",
+      "basis": "余的成长关系锚点。"
+    },
+    {
+      "name": "余全祥",
+      "card_id": "weisili_yu_quanxiang",
+      "role": "单书主角",
+      "basis": "工程师、新郎与消失事件核心。"
+    },
+    {
+      "name": "云妮",
+      "card_id": "weisili_yunni",
+      "role": "单书主角",
+      "basis": "新娘、受俘和表达回家意愿。"
+    },
+    {
+      "name": "正村薰子",
+      "card_id": "weisili_zhengcun_xunzi",
+      "role": "单书主角",
+      "basis": "长期留居者与跨文明中介。"
+    },
+    {
+      "name": "卵形研究者",
+      "card_id": "weisili_egg_researchers",
+      "role": "阶段性对立者",
+      "basis": "未经同意收集、控制环境与部分释放。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "宾纳及警员",
+      "reason": "一次性仪器调查与搜救人员，无独立主角或反派线。"
+    },
+    {
+      "name": "云妮父亲、勤务兵及余父辈",
+      "reason": "职业、家庭和成长背景，没有独立现时行动。"
+    },
+    {
+      "name": "开篇各失踪传说人物",
+      "reason": "用于引出主题的传闻，不建立与正文主人公同等事实卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_3c0508aa32b58f72",
+      "statement": "身世、自学、职业和婚姻",
+      "annotation_character_ids": [
+        "weisili_yu_quanxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_314dc21d61823e20",
+      "statement": "工程师与共同生活",
+      "annotation_character_ids": [
+        "weisili_yunni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_df305f3df10d1d4f",
+      "statement": "新娘消失求助",
+      "annotation_character_ids": [
+        "weisili_yu_quanxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7db33c5cc0c6afb9",
+      "statement": "自身被转移",
+      "annotation_character_ids": [
+        "weisili_yu_quanxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b9a4861a7ee477b2",
+      "statement": "转移记忆",
+      "annotation_character_ids": [
+        "weisili_yunni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_168c81dc578a3e95",
+      "statement": "理解受俘处境",
+      "annotation_character_ids": [
+        "weisili_yunni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0219fff6b8d06e91",
+      "statement": "试图破墙失败",
+      "annotation_character_ids": [
+        "weisili_yu_quanxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c52670483ef43472",
+      "statement": "穿墙供食、绿光转移与终端",
+      "annotation_character_ids": [
+        "weisili_egg_researchers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cddcb3dcbe1adbd5",
+      "statement": "身份、遭遇和长期失踪",
+      "annotation_character_ids": [
+        "weisili_zhengcun_xunzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5852ce57d8837d5c",
+      "statement": "未见救援者与感应经验",
+      "annotation_character_ids": [
+        "weisili_zhengcun_xunzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1fedf813622064df",
+      "statement": "反驳无害论并要求回家",
+      "annotation_character_ids": [
+        "weisili_yunni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8b9e2ba7fed12e42",
+      "statement": "愿望、创伤与机制猜想",
+      "annotation_character_ids": [
+        "weisili_zhengcun_xunzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45f0f7bdde36d490",
+      "statement": "原子分解仅为推测",
+      "annotation_character_ids": [
+        "weisili_egg_researchers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_207091fe58284e59",
+      "statement": "再度失去伴侣",
+      "annotation_character_ids": [
+        "weisili_yu_quanxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2393bbb646eb423a",
+      "statement": "离开现场",
+      "annotation_character_ids": [
+        "weisili_zhengcun_xunzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f65afe3a59720f3",
+      "statement": "再次被移走",
+      "annotation_character_ids": [
+        "weisili_yunni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5d18f27b9b7c81f",
+      "statement": "个体形态及载具",
+      "annotation_character_ids": [
+        "weisili_egg_researchers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cd8a885263c22090",
+      "statement": "送返卫斯理及他人未返",
+      "annotation_character_ids": [
+        "weisili_egg_researchers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_170ac20ce2f4d972",
+      "statement": "失踪名册",
+      "annotation_character_ids": [
+        "weisili_zhengcun_xunzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6caa796688b66fd0",
+      "statement": "未再出现",
+      "annotation_character_ids": [
+        "weisili_yu_quanxiang",
+        "weisili_yunni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

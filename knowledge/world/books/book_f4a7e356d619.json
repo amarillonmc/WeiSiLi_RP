@@ -1,0 +1,437 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f4a7e356d619",
+  "title": "洪荒",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/118洪荒.txt",
+  "file": "books/book_f4a7e356d619.json",
+  "inherited_fact_count": 34,
+  "curated_links": {
+    "entities": [
+      "water"
+    ],
+    "events": [
+      "w_water_reveal"
+    ],
+    "relations": [
+      "before__w_water_reveal__w_quota_research"
+    ],
+    "arcs": [
+      "arc_baisu"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "52cf61b764ba4439cb6f1a87ba8784e826fbea1379fa6a76e6262e68c146275d",
+  "source_lines": 2675,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "实际参与联络或调查"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "实际参与联络或调查"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "实际参与联络或调查"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "实际参与联络或调查"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "实际参与联络或调查"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "实际参与联络或调查"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "实际参与联络或调查"
+    },
+    {
+      "name": "伦三德",
+      "card_id": "weisili_lun_sande",
+      "role": "重要配角",
+      "basis": "实际参与联络或调查"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "重要配角",
+      "basis": "实际参与联络或调查"
+    },
+    {
+      "name": "金秀四嫂",
+      "card_id": "weisili_jinxiu_sisao",
+      "role": "重要配角",
+      "basis": "实际参与联络或调查"
+    },
+    {
+      "name": "旧警务总监",
+      "card_id": "weisili_shuangcheng_commissioner",
+      "role": "重要配角",
+      "basis": "实际参与联络或调查"
+    },
+    {
+      "name": "廉不负",
+      "card_id": "weisili_lian_bufu",
+      "role": "单书主角",
+      "basis": "家史或水生命主线"
+    },
+    {
+      "name": "张泰丰",
+      "card_id": "weisili_zhang_taifeng",
+      "role": "单书主角",
+      "basis": "家史或水生命主线"
+    },
+    {
+      "name": "黄天功",
+      "card_id": "weisili_huang_tiangong",
+      "role": "关键背景主角",
+      "basis": "家史或水生命主线"
+    },
+    {
+      "name": "杀害黄天功的旧盟友集团",
+      "card_id": "weisili_huang_tiangong_betrayers",
+      "role": "反派",
+      "basis": "家史或水生命主线"
+    },
+    {
+      "name": "黄而",
+      "card_id": "weisili_huang_er",
+      "role": "跨书主角",
+      "basis": "家史或水生命主线"
+    },
+    {
+      "name": "水（地球水生命）",
+      "card_id": "weisili_water_life",
+      "role": "跨书主角",
+      "basis": "家史或水生命主线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "都连加农",
+      "reason": "通过师承和入会推荐明确相关；此书只转述，实际跨书角色已在非人协会批有卡。"
+    },
+    {
+      "name": "大山、空气生命",
+      "reason": "此书为讨论与探索对象，未展示可以独立核验的具体人格和沟通行为，不把设想写成已实证全能自然人格。"
+    },
+    {
+      "name": "多巴湖蒙面二人",
+      "reason": "卫斯理认为是黄堂与四嫂，未获证实；作为既有角色的身份疑点保存，不虚构两名新姓名。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_539b6c96bb0d00a4",
+      "statement": "小石子伤牙",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c706c19227f0b11a",
+      "statement": "近距小石袭击",
+      "annotation_character_ids": [
+        "weisili_shuangcheng_commissioner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed90db0c499911c0",
+      "statement": "师承与礼节",
+      "annotation_character_ids": [
+        "weisili_zhang_taifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ade437d6e3932a70",
+      "statement": "记忆与职业",
+      "annotation_character_ids": [
+        "weisili_lian_bufu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_96d355d9e85d13fd",
+      "statement": "解开具体多重机关",
+      "annotation_character_ids": [
+        "weisili_lun_sande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9eb51e420a75e49f",
+      "statement": "退休与处分取消",
+      "annotation_character_ids": [
+        "weisili_shuangcheng_commissioner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee931ddc27ccc76f",
+      "statement": "处分取消并获召回",
+      "annotation_character_ids": [
+        "weisili_huang_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86f695431091a600",
+      "statement": "监视和调查动机",
+      "annotation_character_ids": [
+        "weisili_zhang_taifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fd23444baf108dfd",
+      "statement": "安排焦尸",
+      "annotation_character_ids": [
+        "weisili_lian_bufu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1c14397e2ca0a1b5",
+      "statement": "与金秀四嫂的母子关系",
+      "annotation_character_ids": [
+        "weisili_huang_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d6c9b7eb0b0416aa",
+      "statement": "合作与拜访",
+      "annotation_character_ids": [
+        "weisili_zhang_taifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_982507c7a5eabdea",
+      "statement": "身手和反应",
+      "annotation_character_ids": [
+        "weisili_lian_bufu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bacf87da3836c358",
+      "statement": "母命、退出与不回任",
+      "annotation_character_ids": [
+        "weisili_huang_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5431faad8fdc109",
+      "statement": "主张隐退与亲属边界",
+      "annotation_character_ids": [
+        "weisili_jinxiu_sisao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8543d084e0872143",
+      "statement": "四嫂、托养与未知下落",
+      "annotation_character_ids": [
+        "weisili_lian_bufu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16666b1d2079c674",
+      "statement": "抚养黄堂的旧事",
+      "annotation_character_ids": [
+        "weisili_jinxiu_sisao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7f62abda7ee88fa3",
+      "statement": "父母和托养身世",
+      "annotation_character_ids": [
+        "weisili_huang_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c0e8b11bbc4ff1e8",
+      "statement": "身份与败亡",
+      "annotation_character_ids": [
+        "weisili_huang_tiangong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ede9f05af30fe574",
+      "statement": "谋害、抹功与潜在威胁",
+      "annotation_character_ids": [
+        "weisili_huang_tiangong_betrayers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3c066860525c8551",
+      "statement": "家人",
+      "annotation_character_ids": [
+        "weisili_huang_tiangong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4947d69137993bc6",
+      "statement": "身世与性格",
+      "annotation_character_ids": [
+        "weisili_huang_er"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_448f96148170a47c",
+      "statement": "婚姻、体格与水性",
+      "annotation_character_ids": [
+        "weisili_huang_tiangong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_329858c60a8196bc",
+      "statement": "连续生命设想",
+      "annotation_character_ids": [
+        "weisili_water_life"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a460b1ac2190ce84",
+      "statement": "沟通尝试未获证实",
+      "annotation_character_ids": [
+        "weisili_lun_sande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_52706060e7103b6e",
+      "statement": "水性与陆上限制",
+      "annotation_character_ids": [
+        "weisili_huang_er"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0897ee4a0b80baca",
+      "statement": "自练水性及发现者更正",
+      "annotation_character_ids": [
+        "weisili_jinxiu_sisao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5c5fd13b6fa66225",
+      "statement": "沟通和使命",
+      "annotation_character_ids": [
+        "weisili_huang_er"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f858a570dde0c17e",
+      "statement": "传讯和警告",
+      "annotation_character_ids": [
+        "weisili_water_life"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_97cfa9facdbb0bcf",
+      "statement": "婚姻与都连旧缘",
+      "annotation_character_ids": [
+        "weisili_jinxiu_sisao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f73acce0e1875b2c",
+      "statement": "求教与离开",
+      "annotation_character_ids": [
+        "weisili_lun_sande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aae988b2a0713c59",
+      "statement": "怕母亲、妨见白与蒙面身份推断",
+      "annotation_character_ids": [
+        "weisili_huang_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b2bdce5b777e22f9",
+      "statement": "身份和隐居去向的证据边界",
+      "annotation_character_ids": [
+        "weisili_jinxiu_sisao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4493be35774d4ed6",
+      "statement": "蒙面身份与隐居仅为推断",
+      "annotation_character_ids": [
+        "weisili_huang_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa796f0c330e0550",
+      "statement": "失败、确认身世与尊重隐居",
+      "annotation_character_ids": [
+        "weisili_xiao_guo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

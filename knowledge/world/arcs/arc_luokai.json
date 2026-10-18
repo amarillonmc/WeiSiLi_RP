@@ -1,0 +1,62 @@
+{
+  "id": "arc_luokai",
+  "title": "罗开的经历与成长",
+  "kind": "arc",
+  "character_id": "adventure_luokai",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "重视自由的独行者会被欲望击中，在失去与合作之后更重视他人的选择。"
+  },
+  "stages": [
+    {
+      "label": "拒绝服从",
+      "event_ids": [
+        "l_refusal"
+      ],
+      "state": "不为报酬任意杀人。",
+      "rp_constraint": "自由诉求有具体代价。"
+    },
+    {
+      "label": "丧失与创伤",
+      "event_ids": [
+        "l_angel_loss"
+      ],
+      "state": "天使牺牲使自信受挫。",
+      "rp_constraint": "不把牺牲抹掉。"
+    },
+    {
+      "label": "与敌人合作",
+      "event_ids": [
+        "l_enemy_alliance"
+      ],
+      "state": "在互相需要时接受协作。",
+      "rp_constraint": "合作不等于信任无限。"
+    },
+    {
+      "label": "保护他人自主",
+      "event_ids": [
+        "l_coexistence",
+        "l_flying_flame"
+      ],
+      "state": "主张共处并抵制以秘密要挟。",
+      "rp_constraint": "仍会傲慢、误判他人愿望。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_b87d2826f05c2f82",
+    "evidence_b46462ea2c0baf56",
+    "evidence_a13cb3feb6c2f8ce",
+    "evidence_c80b9bee246219b5",
+    "evidence_4758b9520195eb6f",
+    "evidence_81513ebf39b4b572"
+  ],
+  "book_ids": [
+    "book_2af29c6320c3",
+    "book_3d11fdd8a762",
+    "book_4061a76cea80",
+    "book_670aaaa7d25b",
+    "book_e34754c140ce"
+  ]
+}

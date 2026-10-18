@@ -1,0 +1,31 @@
+{
+  "id": "y_black_white",
+  "title": "胡怀玉与黑白无常装置调查",
+  "kind": "event",
+  "summary": "《黑白无常》明确回指《犀照》的海洋生物研究所与主持人，旧关系进入新的器物谜案。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "晚于《犀照》所述经历；与别的卫斯理案件同期关系未定。",
+    "narrative_layer": "present"
+  },
+  "state_before": "胡怀玉已有犀照经历及感知疑虑。",
+  "state_after": "继续以研究者参与；没有因此获得全部装置技术。",
+  "knowledge_boundary": "一个明确回指只约束这两件事，不足以排序两个系列的全部书。",
+  "character_ids": [
+    "weisili_hu_huaiyu",
+    "yuanzhenxia_yuanzhenxia"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_ac7a614eb71390c8",
+    "evidence_d6fd2ba28b19ca8b",
+    "evidence_c25174562708af65",
+    "evidence_be1086ed785b4cc2",
+    "evidence_7ccd6a5fda503fb2"
+  ],
+  "book_ids": [
+    "book_b3303d3266ed"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "id": "book_0ea77cc5e212",
+  "title": "鬼子",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/038鬼子.txt",
+  "file": "books/book_0ea77cc5e212.json",
+  "inherited_fact_count": 3,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "82f1ddf86d3b97ba54b29a2fe1a87601d8ca79db40f460d2bf3daf4a0c50ac38",
+  "source_lines": 1394,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "调查及与唐婉儿交往"
+    },
+    {
+      "name": "铃木正直",
+      "card_id": "weisili_suzuki_masanao",
+      "role": "反派",
+      "basis": "战争罪行揭露"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "唐婉儿",
+      "reason": "本书导游及小郭恋爱对象，后书未具名新婚太太不在缺乏身份链时强并"
+    },
+    {
+      "name": "藤泽",
+      "reason": "单书调查协助者；个人错误观念记录在事件中，不将其自动定为战争加害者"
+    },
+    {
+      "name": "未具名受害女子",
+      "reason": "由日记记述的受害者，与唐婉儿关系仅为推测"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c2a9d72ba7e3c3de",
+      "statement": "衣物日记与身份",
+      "annotation_character_ids": [
+        "weisili_suzuki_masanao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b5bbae17d312794d",
+      "statement": "罪行、相似与动机不确定",
+      "annotation_character_ids": [
+        "weisili_suzuki_masanao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b3c43522da43ee9c",
+      "statement": "死亡消息",
+      "annotation_character_ids": [
+        "weisili_suzuki_masanao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "disassembly_box",
+  "title": "支离装置与盒子",
+  "kind": "object",
+  "summary": "使人体出现支离现象的技术物件，牵连夺物杀人及被封存的异星工程。",
+  "mechanism": {
+    "text": "异常身体表现与设备有关；救治胡明同样依赖具体装置和操作。",
+    "epistemic_status": "textual_fact"
+  },
+  "access_conditions": [
+    "取得设备",
+    "知道操作及能源条件"
+  ],
+  "limits": [
+    "支离不是持有者天生体质",
+    "不能据盒子存在给任何人肢解免疫"
+  ],
+  "last_known_state": "胡明获救；牛头人大祭师再次冬眠，设施破坏、洞口封闭，关键盒子被丢入太平洋。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "可作历史寻物目标，后续的打捞、修复与安全操作都需新证据或明确改编。"
+  },
+  "character_ids": [],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_f3186491f4356b21",
+    "evidence_1ed957d408928c3b",
+    "evidence_4db4a6c00a3475d7",
+    "evidence_0214a90e7208ac06",
+    "evidence_8c92d4426eb262a8",
+    "evidence_0ee774ff711ce11e",
+    "evidence_4661317a160a1001"
+  ],
+  "book_ids": [
+    "book_1099a60e7d4e"
+  ]
+}

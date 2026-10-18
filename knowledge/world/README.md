@@ -1,0 +1,529 @@
+# 统一世界与时间线知识库
+
+按同一世界前提组织 336 个文本。先读 [世界与演绎说明](../../docs/worldbuilding_guide.md)，再按场景检索。
+
+全量逐书证据入口 336；重点事件 67；世界规则 14；机构与争夺目标 30；成长线 24。
+
+全部文本复用已有角色证据；另行整理与直接回读的数量见 [coverage.json](coverage.json)。没有声称本轮重读全部正文或穷尽一切设定。
+
+## 核心入口
+
+- [检索索引](index.json)、[事件偏序](timeline.json)、[来源证据](evidence.json)
+- [统一前提与证据口径](policy.json)、[场景状态模板](scene_template.json)、[全部角色的经历入口](character_history_index.json)
+
+## 世界规则
+
+- [日常社会与隐秘异常并存](rules/rule_hidden_world.md)
+- [生命形态多元，身份不由外形决定](rules/rule_plural_life.md)
+- [异常机制按个案成立](rules/rule_local_mechanisms.md)
+- [肉体、思想、知识与灵魂要分开](rules/rule_mind_body.md)
+- [死亡后的存在不等于普遍复活](rules/rule_death.md)
+- [设备、机构和伙伴不是个人技能](rules/rule_tech_access.md)
+- [先进不等于正当或全知](rules/rule_alien_ethics.md)
+- [巫术和降头有师承、媒介与反噬](rules/rule_occult.md)
+- [相对时间优先，叙述时间不等于发生时间](rules/rule_relative_time.md)
+- [武侠能力仍受身体和器械约束](rules/rule_mortality.md)
+- [成长是选择与关系变化](rules/rule_growth.md)
+- [角色只知道有途径获得的事](rules/rule_knowledge.md)
+- [麦高芬是争夺焦点，不是无限许愿器](rules/rule_macguffin.md)
+- [多套起源解释并存，保留叙述层级](rules/rule_world_origin.md)
+
+## 机构、地点与争夺目标
+
+- [勒曼医院](entities/leman.md)
+- [非常物品交易会](entities/extraordinary_exchange.md)
+- [非人协会](entities/nonhuman_association.md)
+- [阴间及思想仪](entities/underworld.md)
+- [思想仪关键部件／“灵魂”误会](entities/thought_core.md)
+- [生命配额](entities/life_quota.md)
+- [水／地球水生命](entities/water.md)
+- [山腹长老与未爆工程](entities/elder.md)
+- [新生大同盟](entities/new_life_alliance.md)
+- [天人研究站及脑内金属装置](entities/tianren_station.md)
+- [爱神星、培育计划与新爱神星](entities/aishen_world.md)
+- [幽灵星座与采集使者](entities/ghost_constellation.md)
+- [时间大神](entities/time_god.md)
+- [时间大神握有的重要之物](entities/angel_prize.md)
+- [后备人／复制身体与复制人格](entities/leman_copy.md)
+- [知识转移技术](entities/knowledge_transfer.md)
+- [苗疆基地与飞行背心](entities/miao_base.md)
+- [神话世界的投影与入口](entities/myth_projection.md)
+- [不死药](entities/immortality_drug.md)
+- [支离装置与盒子](entities/disassembly_box.md)
+- [天书、戒指与镜像宇宙解释](entities/heaven_book.md)
+- [命运石纹与计划论](entities/fate_patterns.md)
+- [催命环与许愿误解](entities/death_ring.md)
+- [灵椅与石台](entities/spirit_chair.md)
+- [微晶、博士与显示器](entities/microcrystal.md)
+- [死光表及图样](entities/deathwatch.md)
+- [粉红钻石与珠宝案件](entities/pink_diamonds.md)
+- [雨夜留下的七位号码](entities/rain_number.md)
+- [鬼停车场与重复归来](entities/ghost_parking.md)
+- [猫头鹰眼珠的试验传说](entities/owl_eyes.md)
+
+## 关键事件
+
+- [七方改造工程及一处失灵](events/earth_engineering.md)
+- [少年卫斯理与神秘声音](events/w_childhood.md)
+- [钻石花争夺与黎明玫之死](events/w_diamond.md)
+- [地底追索后的白家关系确立](events/w_bai_union.md)
+- [蓝血人与寄生危机](events/w_blue_blood.md)
+- [不死药的依赖、屠杀与药源终局](events/w_immortality.md)
+- [勒曼医院后备人体秘密被揭](events/w_leman.md)
+- [盗墓使齐白接近异常遗迹](events/w_tomb.md)
+- [犀照研究与温宝裕进入冒险圈](events/w_rhino.md)
+- [白老大与陈月兰离散、红绫的早年](events/w_family_past.md)
+- [探险中的家史追索与女儿归来](events/w_family_recovery.md)
+- [红绫保护银猿](events/w_hongling_choices.md)
+- [陈月兰异星身份及基地联系确认](events/w_miao_contact.md)
+- [许愿重释催命环和曹家旧案](events/w_ring_explanation.md)
+- [阴主身份与四号分离被揭](events/w_underworld_reveal.md)
+- [四号与游侠夫妇协商](events/w_four_negotiation.md)
+- [陈长青以灵魂求解脱](events/w_chen_spirit.md)
+- [猜王死亡与蓝丝继任](events/w_lansi_succession.md)
+- [洪荒中的水生命警告](events/w_water_reveal.md)
+- [买命争夺、非人协会研究与白素入会](events/w_quota_research.md)
+- [神鹰与红绫、伦三德的联系建立](events/w_eagle_friend.md)
+- [金维与卫斯理共同进入真实幻境](events/w_real_illusion.md)
+- [神鹰选择成为人](events/w_eagle_human.md)
+- [成人神鹰与金维再赴孤峰](events/w_eagle_departure.md)
+- [杜良替身及思想植入实验曝光](events/w_du_copy_reveal.md)
+- [长老解困计划与救世分歧](events/w_elder_contact.md)
+- [杜良完成具体知识转移](events/w_knowledge_transfer.md)
+- [身外化身计划被反向指令阻断](events/w_copy_refusal.md)
+- [思想仪停摆与齐白团聚](events/w_underworld_shutdown.md)
+- [温宝裕放弃强制人口方案并邀请远行](events/w_alliance.md)
+- [天人观察终止](events/y_tianren.md)
+- [玛仙身世与培育实验揭露](events/y_maxian_origin.md)
+- [黑纱违背任务与受罚](events/y_heisha.md)
+- [黑暗天使救援与两次身体交接](events/y_body_rescue.md)
+- [玛仙对李固施血魇](events/y_blood_spell.md)
+- [玛仙解咒反噬、黄绢与李固离去](events/y_spell_recoil.md)
+- [胡怀玉与黑白无常装置调查](events/y_black_white.md)
+- [假太阳危机与玛仙恢复](events/y_maxian_recovery.md)
+- [柳絮脱离控制与康维感情变化](events/y_liuxu_rescue.md)
+- [原振侠返航失踪](events/y_disappearance.md)
+- [罗开拒绝秘密组织杀戮命令](events/l_refusal.md)
+- [罗开利用思想复制联系反制玩偶](events/l_doll.md)
+- [天使牺牲、重要之物毁去](events/l_angel_loss.md)
+- [罗开与衰弱的时间大神共同脱困](events/l_enemy_alliance.md)
+- [蜂后计划受阻与高达复制体分流](events/l_beehive.md)
+- [罗开主张异类和平共处](events/l_coexistence.md)
+- [罗开保护卡娅并帮助受困灵魂](events/l_flying_flame.md)
+- [高达陪伴水晶死亡](events/g_crystal_loss.md)
+- [微晶争夺后希伯德选择归返](events/g_microcrystal.md)
+- [年轻人阻止公主的帝国计划](events/n_empire.md)
+- [奥丽卡在新身体中学习行动](events/n_new_body.md)
+- [年轻人与公主从神话投影返回](events/n_myth_return.md)
+- [木兰花毁掉死光表、高翔转向警方](events/m_watch.md)
+- [马超文遇难及穆秀珍哀悼](events/m_ma_loss.md)
+- [安妮被救并加入家庭](events/m_annie_family.md)
+- [木兰花眼伤与黑暗历险](events/m_blind.md)
+- [穆秀珍婚礼、绑架和假新娘](events/m_marriage_swap.md)
+- [安妮恢复行走](events/m_annie_walks.md)
+- [木兰花与高翔结婚](events/m_wedding.md)
+- [安妮成长为可承担任务的同伴](events/m_annie_independent.md)
+- [木兰花一方参与白家与技术调查](events/m_weicrossover.md)
+- [鱼人拒绝继续参与战争](events/f_fish_refusal.md)
+- [金维救大鹰并追索孤峰](events/f_eagle_origin.md)
+- [高斯的奇迹案骗局被识破](events/s_magic_exposed.md)
+- [高斯破案仍不能免交通罚单](events/s_police_boundary.md)
+- [鬼停车场的自我认知反转](events/h_parking.md)
+- [雨夜留号而身份未解](events/h_rain.md)
+
+## 角色经历与成长
+
+- [卫斯理的经历与成长](arcs/arc_weisili.md)
+- [白素的经历与成长](arcs/arc_baisu.md)
+- [卫红绫的经历与成长](arcs/arc_hongling.md)
+- [温宝裕的经历与成长](arcs/arc_wen.md)
+- [蓝丝的经历与成长](arcs/arc_lansi.md)
+- [陈长青的经历与成长](arcs/arc_chen.md)
+- [齐白的经历与成长](arcs/arc_qibai.md)
+- [神鹰的经历与成长](arcs/arc_shenying.md)
+- [原振侠的经历与成长](arcs/arc_yuan.md)
+- [玛仙的经历与成长](arcs/arc_maxian.md)
+- [康维十七世的经历与成长](arcs/arc_kangwei.md)
+- [黄绢的经历与成长](arcs/arc_huangjuan.md)
+- [罗开的经历与成长](arcs/arc_luokai.md)
+- [高达的经历与成长](arcs/arc_gaoda.md)
+- [奥丽卡公主的经历与成长](arcs/arc_princess.md)
+- [年轻人的经历与成长](arcs/arc_young.md)
+- [木兰花的经历与成长](arcs/arc_mulanhua.md)
+- [穆秀珍的经历与成长](arcs/arc_muxiuzhen.md)
+- [安妮的经历与成长](arcs/arc_annie.md)
+- [云四风的经历与成长](arcs/arc_yunsifeng.md)
+- [高翔的经历与成长](arcs/arc_gaoxiang.md)
+- [金维的经历与成长](arcs/arc_jinwei.md)
+- [高斯的经历与成长](arcs/arc_gaosi.md)
+- [李玉芳的经历与成长](arcs/arc_liyufang.md)
+
+## 跨系列连接
+
+- [勒曼医院连接卫斯理、罗开与高达](bridges/bridge_leman.md)
+- [黑暗天使连接原振侠与年轻人](bridges/bridge_princess.md)
+- [木兰花一方进入白家调查网](bridges/bridge_mulanhua.md)
+- [胡怀玉与研究所跨书同一性](bridges/bridge_hu.md)
+- [金特由卫斯理介绍给原振侠](bridges/bridge_jinte.md)
+- [康维与柳絮连接星际及配额调查](bridges/bridge_kangwei.md)
+- [非人协会的金维与孤峰线](bridges/bridge_jinwei.md)
+- [阿尼密参与原振侠灵魂调查](bridges/bridge_animi.md)
+- [水银将军及黛娜的情报网络](bridges/bridge_shuiyin.md)
+- [白素成为非人协会会员](bridges/bridge_baisu.md)
+- [高斯与鬼话系列的统一世界归入](bridges/bridge_unified_unproven.md)
+
+## 争议与未决项
+
+- [统一世界是项目前提，不是九系列已经互证](issues/issue_shared_world.md)
+- [各系列最后状态不证明同时发生](issues/issue_no_global_now.md)
+- [文件编号、书名和排序不等于年代](issues/issue_catalog_order.md)
+- [孤峰旧事的后书重述差异](issues/issue_retelling.md)
+- [复制、借体、化身与同名不可自动合并](issues/issue_copies.md)
+- [缺页、未完与乱码保留](issues/issue_missing_sources.md)
+- [神名不等于宇宙法则权限](issues/issue_nature_gods.md)
+- [思想仪已停与原因未知可以同时成立](issues/issue_underworld_end.md)
+- [存在特殊转移个案不等于通用买命成功](issues/issue_quota_promise.md)
+- [预见、幻境和未来愿望不是已发生历史](issues/issue_foreknowledge.md)
+- [角色解释可被后书更正](issues/issue_truthful_views.md)
+- [角色卡的部署约定不写入原作历史](issues/issue_adapted_resurrection.md)
+
+## 全部文本的事件证据入口
+
+表中顺序只是目录顺序，不代表时间。
+
+- 亚洲之鹰罗开系列／[鬼钟](books/book_670aaaa7d25b.md)（7 条定位注释）
+- 亚洲之鹰罗开系列／[妖偶](books/book_3d11fdd8a762.md)（8 条定位注释）
+- 亚洲之鹰罗开系列／[魔像](books/book_4061a76cea80.md)（6 条定位注释）
+- 亚洲之鹰罗开系列／[怪头](books/book_b032f28a589d.md)（7 条定位注释）
+- 亚洲之鹰罗开系列／[巨龙](books/book_f621f4d4d1a7.md)（6 条定位注释）
+- 亚洲之鹰罗开系列／[蛇神](books/book_947d367a6cc7.md)（6 条定位注释）
+- 亚洲之鹰罗开系列／[蜂后](books/book_533b28ccc313.md)（7 条定位注释）
+- 亚洲之鹰罗开系列／[火凤](books/book_f9892461e5c9.md)（3 条定位注释）
+- 亚洲之鹰罗开系列／[夜光](books/book_ddec6bbb144f.md)（5 条定位注释）
+- 亚洲之鹰罗开系列／[异人](books/book_2af29c6320c3.md)（11 条定位注释）
+- 亚洲之鹰罗开系列／[死结](books/book_0326b81e179c.md)（1 条定位注释）
+- 亚洲之鹰罗开系列／[解开死结](books/book_3a49bb1a897a.md)（4 条定位注释）
+- 亚洲之鹰罗开系列／[困兽](books/book_97db20aab149.md)（10 条定位注释）
+- 亚洲之鹰罗开系列／[游魂](books/book_804e073c33f0.md)（3 条定位注释）
+- 亚洲之鹰罗开系列／[飞焰](books/book_e34754c140ce.md)（12 条定位注释）
+- 倪匡之鬼话系列／[不祥之兆](books/book_6b61c4198ab2.md)（4 条定位注释）
+- 倪匡之鬼话系列／[不要问我从那里来](books/book_e563b13b0248.md)（6 条定位注释）
+- 倪匡之鬼话系列／[先生，别打尖](books/book_05ac5649a416.md)（4 条定位注释）
+- 倪匡之鬼话系列／[寻人](books/book_e6319f803729.md)（8 条定位注释）
+- 倪匡之鬼话系列／[恒娘](books/book_437d04c42917.md)（6 条定位注释）
+- 倪匡之鬼话系列／[房客](books/book_8a1b4568eb22.md)（4 条定位注释）
+- 倪匡之鬼话系列／[择时剖腹](books/book_c3aed44133b8.md)（3 条定位注释）
+- 倪匡之鬼话系列／[搭电梯](books/book_02ed3ef7a4bc.md)（4 条定位注释）
+- 倪匡之鬼话系列／[放屁](books/book_156587d30b6f.md)（10 条定位注释）
+- 倪匡之鬼话系列／[明天我们怎么联络](books/book_9e24f6c8380c.md)（4 条定位注释）
+- 倪匡之鬼话系列／[橘树](books/book_648f720528b8.md)（4 条定位注释）
+- 倪匡之鬼话系列／[爱管闲事的司机](books/book_70a1f652c98e.md)（6 条定位注释）
+- 倪匡之鬼话系列／[猫头鹰的眼睛](books/book_7f3a54ace15f.md)（2 条定位注释）
+- 倪匡之鬼话系列／[衬衫](books/book_cb8837ef6517.md)（2 条定位注释）
+- 倪匡之鬼话系列／[选美记](books/book_9509770ca7ed.md)（12 条定位注释）
+- 倪匡之鬼话系列／[陆判](books/book_1e5a6bf2a99c.md)（5 条定位注释）
+- 倪匡之鬼话系列／[顾客](books/book_63d1b23c0960.md)（2 条定位注释）
+- 倪匡之鬼话系列／[鬼停车场](books/book_376132b17fcd.md)（2 条定位注释）
+- 倪匡之鬼话系列／[鬼哭之一](books/book_e7cd82853e6d.md)（4 条定位注释）
+- 倪匡之鬼话系列／[鬼哭之二](books/book_530107178547.md)（4 条定位注释）
+- 倪匡之鬼话系列／[鬼屋](books/book_fb8c67191e7b.md)（4 条定位注释）
+- 倪匡之鬼话系列／[鬼胎之一](books/book_3e28f2404d41.md)（4 条定位注释）
+- 倪匡之鬼话系列／[鬼胎之二](books/book_98e89d39e8fa.md)（6 条定位注释）
+- 倪匡之鬼话系列／[鬼脑](books/book_07208b79cd65.md)（2 条定位注释）
+- 倪匡之鬼话系列／[鸡蛋](books/book_6626bbf2eb31.md)（4 条定位注释）
+- 卫斯理系列／[钻石花](books/book_93d047542c1e.md)（37 条定位注释）
+- 卫斯理系列／[卫斯理与白素](books/book_4d22028f17c9.md)（2 条定位注释）
+- 卫斯理系列／[地底奇人](books/book_93164b8bdda7.md)（32 条定位注释）
+- 卫斯理系列／[妖火](books/book_02a848422833.md)（28 条定位注释）
+- 卫斯理系列／[蓝血人](books/book_c1ab2fa68267.md)（33 条定位注释）
+- 卫斯理系列／[透明光](books/book_6b3eeebde32f.md)（28 条定位注释）
+- 卫斯理系列／[地心洪炉](books/book_67824b4b3cde.md)（19 条定位注释）
+- 卫斯理系列／[蜂云](books/book_eeb0e48b439a.md)（34 条定位注释）
+- 卫斯理系列／[奇玉](books/book_51825627918a.md)（19 条定位注释）
+- 卫斯理系列／[原子空间](books/book_de2f4244184c.md)（20 条定位注释）
+- 卫斯理系列／[天外金球](books/book_df5971108097.md)（17 条定位注释）
+- 卫斯理系列／[支离人](books/book_1099a60e7d4e.md)（19 条定位注释）
+- 卫斯理系列／[不死药](books/book_8c16342a57b1.md)（25 条定位注释）
+- 卫斯理系列／[红月亮](books/book_f20f28b33b99.md)（22 条定位注释）
+- 卫斯理系列／[换头记](books/book_7667762f571b.md)（34 条定位注释）
+- 卫斯理系列／[蛊惑](books/book_ba6b0285889a.md)（27 条定位注释）
+- 卫斯理系列／[奇门](books/book_b0c91e969080.md)（36 条定位注释）
+- 卫斯理系列／[尸变](books/book_b2eac659a858.md)（11 条定位注释）
+- 卫斯理系列／[合成](books/book_2598cbf0d529.md)（22 条定位注释）
+- 卫斯理系列／[笔友](books/book_65541b38f010.md)（34 条定位注释）
+- 卫斯理系列／[丛林之神](books/book_87f0380e112a.md)（13 条定位注释）
+- 卫斯理系列／[再来一次](books/book_07eec800156a.md)（17 条定位注释）
+- 卫斯理系列／[尽头](books/book_be7289b09195.md)（26 条定位注释）
+- 卫斯理系列／[湖水](books/book_9e9a90d46cf4.md)（16 条定位注释）
+- 卫斯理系列／[消失](books/book_af8e58126391.md)（20 条定位注释）
+- 卫斯理系列／[影子](books/book_c2c7964f9840.md)（20 条定位注释）
+- 卫斯理系列／[多了一个](books/book_3fe21b786740.md)（17 条定位注释）
+- 卫斯理系列／[仙境](books/book_8c0de180ffa0.md)（20 条定位注释）
+- 卫斯理系列／[狐变](books/book_dc04cfea7731.md)（6 条定位注释）
+- 卫斯理系列／[古声](books/book_751de23926f2.md)（5 条定位注释）
+- 卫斯理系列／[虚像](books/book_3d80de744c98.md)（8 条定位注释）
+- 卫斯理系列／[访客](books/book_60095d4a7e40.md)（6 条定位注释）
+- 卫斯理系列／[风水](books/book_fdfbc165519b.md)（7 条定位注释）
+- 卫斯理系列／[环](books/book_a71da721a4c4.md)（4 条定位注释）
+- 卫斯理系列／[聚宝盆](books/book_699681a8e91e.md)（3 条定位注释）
+- 卫斯理系列／[雨花台石](books/book_7c390651f4cf.md)（7 条定位注释）
+- 卫斯理系列／[魔磁](books/book_72db0c764585.md)（13 条定位注释）
+- 卫斯理系列／[创造](books/book_2ce28fcf4698.md)（8 条定位注释）
+- 卫斯理系列／[鬼子](books/book_0ea77cc5e212.md)（3 条定位注释）
+- 卫斯理系列／[老猫](books/book_45347fc50ecc.md)（10 条定位注释）
+- 卫斯理系列／[贝壳](books/book_312a777eded3.md)（4 条定位注释）
+- 卫斯理系列／[地图](books/book_1a18c351cf2d.md)（6 条定位注释）
+- 卫斯理系列／[规律](books/book_fd0205d1bc5f.md)（10 条定位注释）
+- 卫斯理系列／[沉船](books/book_4ddcf710cddf.md)（16 条定位注释）
+- 卫斯理系列／[大厦](books/book_c808082c466e.md)（9 条定位注释）
+- 卫斯理系列／[新年](books/book_59553fc35355.md)（11 条定位注释）
+- 卫斯理系列／[头发](books/book_f080c8aa29f2.md)（23 条定位注释）
+- 卫斯理系列／[眼睛](books/book_1fd78fe599aa.md)（19 条定位注释）
+- 卫斯理系列／[迷藏](books/book_5a6e91fc41bf.md)（16 条定位注释）
+- 卫斯理系列／[天书](books/book_47d92f518f4c.md)（16 条定位注释）
+- 卫斯理系列／[木炭](books/book_9023fbdb662f.md)（34 条定位注释）
+- 卫斯理系列／[玩具](books/book_4999cd7d1822.md)（27 条定位注释）
+- 卫斯理系列／[连锁](books/book_88353a40dda4.md)（16 条定位注释）
+- 卫斯理系列／[寻梦](books/book_68310af66701.md)（30 条定位注释）
+- 卫斯理系列／[第二种人](books/book_a597455f4c69.md)（30 条定位注释）
+- 卫斯理系列／[后备](books/book_17ded030e4d8.md)（27 条定位注释）
+- 卫斯理系列／[盗墓](books/book_aa5d20a2593d.md)（17 条定位注释）
+- 卫斯理系列／[搜灵](books/book_0e286a75c508.md)（27 条定位注释）
+- 卫斯理系列／[茫点](books/book_0b41ffb1dbac.md)（40 条定位注释）
+- 卫斯理系列／[神仙](books/book_d97faef2bea3.md)（19 条定位注释）
+- 卫斯理系列／[追龙](books/book_1b890f7e9c36.md)（7 条定位注释）
+- 卫斯理系列／[洞天](books/book_960709238b18.md)（19 条定位注释）
+- 卫斯理系列／[活俑](books/book_295bb4ee2949.md)（25 条定位注释）
+- 卫斯理系列／[犀照](books/book_1eceb61f788e.md)（16 条定位注释）
+- 卫斯理系列／[命运](books/book_1e1e601ec986.md)（7 条定位注释）
+- 卫斯理系列／[（命运附篇）十七年](books/book_35440df21d78.md)（21 条定位注释）
+- 卫斯理系列／[异宝](books/book_859ed7023fbf.md)（9 条定位注释）
+- 卫斯理系列／[极刑](books/book_2cbde07c2bc4.md)（20 条定位注释）
+- 卫斯理系列／[电王](books/book_d00aaaa4bf0c.md)（12 条定位注释）
+- 卫斯理系列／[游戏](books/book_a29d882bf206.md)（23 条定位注释）
+- 卫斯理系列／[生死锁](books/book_87a4d0bf6b68.md)（18 条定位注释）
+- 卫斯理系列／[黄金故事](books/book_cb3010eb1b45.md)（29 条定位注释）
+- 卫斯理系列／[废墟](books/book_368ae83e2abe.md)（25 条定位注释）
+- 卫斯理系列／[密码](books/book_1c6d305a7482.md)（6 条定位注释）
+- 卫斯理系列／[血统](books/book_4b02bc02acd9.md)（21 条定位注释）
+- 卫斯理系列／[谜踪](books/book_f7287efb3d54.md)（20 条定位注释）
+- 卫斯理系列／[瘟神](books/book_4c2c25adb6fa.md)（30 条定位注释）
+- 卫斯理系列／[招魂](books/book_2229d47a9403.md)（13 条定位注释）
+- 卫斯理系列／[背叛](books/book_20c82d7b018b.md)（19 条定位注释）
+- 卫斯理系列／[鬼混](books/book_c23bc58a3f43.md)（21 条定位注释）
+- 卫斯理系列／[报应](books/book_7dd0784e73ec.md)（12 条定位注释）
+- 卫斯理系列／[错手](books/book_0e73a43298e9.md)（8 条定位注释）
+- 卫斯理系列／[真相](books/book_439488d0010e.md)（31 条定位注释）
+- 卫斯理系列／[毒誓](books/book_0c1cbe649a9a.md)（32 条定位注释）
+- 卫斯理系列／[拼命](books/book_44a0ac928c15.md)（15 条定位注释）
+- 卫斯理系列／[怪物](books/book_e2ec5e693740.md)（17 条定位注释）
+- 卫斯理系列／[探险](books/book_1664e10c286b.md)（20 条定位注释）
+- 卫斯理系列／[继续探险](books/book_afc4b3885657.md)（39 条定位注释）
+- 卫斯理系列／[圈套](books/book_7a07f286d660.md)（23 条定位注释）
+- 卫斯理系列／[烈火女](books/book_6f42d4433a38.md)（18 条定位注释）
+- 卫斯理系列／[大秘密](books/book_e968e0af1390.md)（14 条定位注释）
+- 卫斯理系列／[祸根](books/book_02a15832ae8a.md)（28 条定位注释）
+- 卫斯理系列／[从阴间来](books/book_d33ed0dd790d.md)（3 条定位注释）
+- 卫斯理系列／[到阴间去](books/book_914104aeec48.md)（2 条定位注释）
+- 卫斯理系列／[阴差阳错](books/book_7f97554a99f6.md)（6 条定位注释）
+- 卫斯理系列／[阴魂不散](books/book_46069e874c48.md)（8 条定位注释）
+- 卫斯理系列／[许愿](books/book_b6cdd6772328.md)（13 条定位注释）
+- 卫斯理系列／[还阳](books/book_79cff9a289b5.md)（22 条定位注释）
+- 卫斯理系列／[运气](books/book_feef27707791.md)（26 条定位注释）
+- 卫斯理系列／[开心](books/book_b75096582a1e.md)（16 条定位注释）
+- 卫斯理系列／[转世暗号](books/book_051368140ce0.md)（18 条定位注释）
+- 卫斯理系列／[将来](books/book_ede3a34d0069.md)（9 条定位注释）
+- 卫斯理系列／[改变](books/book_460f6aca3017.md)（10 条定位注释）
+- 卫斯理系列／[暗号之二](books/book_62f7b50febce.md)（19 条定位注释）
+- 卫斯理系列／[闯祸](books/book_b60f03e1be18.md)（30 条定位注释）
+- 卫斯理系列／[在数难逃](books/book_723871ef0f84.md)（17 条定位注释）
+- 卫斯理系列／[解脱](books/book_daabf1bd27ce.md)（16 条定位注释）
+- 卫斯理系列／[遗传](books/book_f1f38a987ab8.md)（25 条定位注释）
+- 卫斯理系列／[爆炸](books/book_8f5e88561a93.md)（21 条定位注释）
+- 卫斯理系列／[水晶宫](books/book_d42304856b15.md)（22 条定位注释）
+- 卫斯理系列／[前世](books/book_df365f75c27c.md)（40 条定位注释）
+- 卫斯理系列／[新武器](books/book_543cc7939a66.md)（34 条定位注释）
+- 卫斯理系列／[病毒](books/book_256733d70464.md)（16 条定位注释）
+- 卫斯理系列／[算帐](books/book_bfd34177adbe.md)（39 条定位注释）
+- 卫斯理系列／[原形](books/book_c3eb683408d9.md)（26 条定位注释）
+- 卫斯理系列／[活路](books/book_d98888b9b835.md)（31 条定位注释）
+- 卫斯理系列／[双程](books/book_c61574d6d706.md)（22 条定位注释）
+- 卫斯理系列／[洪荒](books/book_f4a7e356d619.md)（34 条定位注释）
+- 卫斯理系列／[买命](books/book_ab36d2b6adeb.md)（3 条定位注释）
+- 卫斯理系列／[卖命](books/book_285c39eb6c50.md)（22 条定位注释）
+- 卫斯理系列／[考验](books/book_c33c05bc68a3.md)（44 条定位注释）
+- 卫斯理系列／[传说](books/book_5f3fbef0e5c5.md)（24 条定位注释）
+- 卫斯理系列／[豪赌](books/book_24d705c0bdc0.md)（53 条定位注释）
+- 卫斯理系列／[真实幻境](books/book_6e319aaba962.md)（24 条定位注释）
+- 卫斯理系列／[成精变人](books/book_9a4da2ea3ef3.md)（11 条定位注释）
+- 卫斯理系列／[未来身份](books/book_f4ea5e801b15.md)（9 条定位注释）
+- 卫斯理系列／[移魂怪物](books/book_2d7fca10f0c2.md)（18 条定位注释）
+- 卫斯理系列／[人面组合](books/book_208391977d6e.md)（44 条定位注释）
+- 卫斯理系列／[本性难移](books/book_b54a1ab24606.md)（25 条定位注释）
+- 卫斯理系列／[天打雷劈](books/book_b4abf1afb96c.md)（27 条定位注释）
+- 卫斯理系列／[另类复制](books/book_ccfaaef512be.md)（45 条定位注释）
+- 卫斯理系列／[解开密码](books/book_42d8c174fce1.md)（7 条定位注释）
+- 卫斯理系列／[异种人生](books/book_3ce9d442f6f5.md)（3 条定位注释）
+- 卫斯理系列／[偷天换日](books/book_43352802d46c.md)（14 条定位注释）
+- 卫斯理系列／[闭关开关](books/book_0041f4c9e250.md)（6 条定位注释）
+- 卫斯理系列／[行动救星](books/book_202100bacdcc.md)（7 条定位注释）
+- 卫斯理系列／[乾坤挪移](books/book_1a10e56018a3.md)（16 条定位注释）
+- 卫斯理系列／[财神宝库](books/book_5dba74386b36.md)（7 条定位注释）
+- 卫斯理系列／[一半一半](books/book_b457a6d0232b.md)（9 条定位注释）
+- 卫斯理系列／[身外化身](books/book_a25be6589e38.md)（2 条定位注释）
+- 卫斯理系列／[非常遭遇](books/book_ab0673a37fb6.md)（30 条定位注释）
+- 卫斯理系列／[一个地方](books/book_fdbc69603f88.md)（3 条定位注释）
+- 卫斯理系列／[须弥芥子](books/book_b1d274cab5de.md)（6 条定位注释）
+- 卫斯理系列／[死去活来](books/book_9e50e2320f44.md)（13 条定位注释）
+- 卫斯理系列／[只限老友](books/book_1fb6bf0030da.md)（23 条定位注释）
+- 卫斯理系列／[愿望猴神](books/book_3e607a62aa6b.md)（38 条定位注释）
+- 卫斯理系列／[少年卫斯理](books/book_7eed28bd703f.md)（41 条定位注释）
+- 原振侠系列／[天人](books/book_36e3d4c8cce1.md)（19 条定位注释）
+- 原振侠系列／[迷路](books/book_7ee77fb86e3e.md)（22 条定位注释）
+- 原振侠系列／[血咒](books/book_2789d5cc76fb.md)（17 条定位注释）
+- 原振侠系列／[海异](books/book_39fb00415b22.md)（14 条定位注释）
+- 原振侠系列／[宝狐](books/book_e0f35641e223.md)（10 条定位注释）
+- 原振侠系列／[灵椅](books/book_77f6858f5020.md)（9 条定位注释）
+- 原振侠系列／[奇缘](books/book_c26941f0be81.md)（14 条定位注释）
+- 原振侠系列／[精怪](books/book_5685f34b259c.md)（11 条定位注释）
+- 原振侠系列／[鬼界](books/book_226fcca28cf8.md)（9 条定位注释）
+- 原振侠系列／[魔女](books/book_cb528bd708df.md)（19 条定位注释）
+- 原振侠系列／[失魂](books/book_3ce22cd3ec25.md)（10 条定位注释）
+- 原振侠系列／[降头](books/book_db2b59ea878a.md)（15 条定位注释）
+- 原振侠系列／[巫艳](books/book_07cad85786b0.md)（15 条定位注释）
+- 原振侠系列／[爱神](books/book_62d753bf9176.md)（11 条定位注释）
+- 原振侠系列／[寻找爱神](books/book_e56e749e59f8.md)（19 条定位注释）
+- 原振侠系列／[大犯罪者](books/book_16e87a9465f3.md)（9 条定位注释）
+- 原振侠系列／[幽灵星座](books/book_4b64c28681b2.md)（21 条定位注释）
+- 原振侠系列／[黑暗天使](books/book_b918ee450d56.md)（14 条定位注释）
+- 原振侠系列／[迷失乐园](books/book_77ccd1a6eaff.md)（16 条定位注释）
+- 原振侠系列／[劫数](books/book_28699f25b62e.md)（19 条定位注释）
+- 原振侠系列／[快活秘方](books/book_0f399f095697.md)（19 条定位注释）
+- 原振侠系列／[变换双星](books/book_6fc25920ef91.md)（23 条定位注释）
+- 原振侠系列／[血的诱惑](books/book_51ac5b7920ea.md)（4 条定位注释）
+- 原振侠系列／[催命情圣](books/book_1b2ce90d0135.md)（6 条定位注释）
+- 原振侠系列／[黑白无常](books/book_b3303d3266ed.md)（15 条定位注释）
+- 原振侠系列／[自杀阴谋](books/book_16465c78ff52.md)（14 条定位注释）
+- 原振侠系列／[假太阳](books/book_6a15650b973f.md)（9 条定位注释）
+- 原振侠系列／[无间地狱](books/book_b6f70bb43bd7.md)（7 条定位注释）
+- 原振侠系列／[人鬼疑云](books/book_6e1d8d6fd7c7.md)（18 条定位注释）
+- 原振侠系列／[魂飞魄散](books/book_571244d5335f.md)（12 条定位注释）
+- 原振侠系列／[宇宙杀手](books/book_fa4a01f100bb.md)（13 条定位注释）
+- 原振侠系列／[天皇巨星](books/book_8e795168086a.md)（12 条定位注释）
+- 年轻人／[手套](books/book_d3358ada2f8a.md)（12 条定位注释）
+- 年轻人／[足球](books/book_1095fd0d1b57.md)（4 条定位注释）
+- 年轻人／[宝刀](books/book_c611c01a4c92.md)（6 条定位注释）
+- 年轻人／[尺蠖](books/book_d2f0e3b9ed17.md)（8 条定位注释）
+- 年轻人／[大宝藏](books/book_b227612aca17.md)（6 条定位注释）
+- 年轻人／[神机](books/book_5f4cae703ba6.md)（9 条定位注释）
+- 年轻人／[暗算](books/book_fbd86e8f5385.md)（6 条定位注释）
+- 年轻人／[天敌](books/book_005dc3e62dd2.md)（5 条定位注释）
+- 年轻人／[夜归](books/book_00387402bed3.md)（15 条定位注释）
+- 年轻人／[四条金龙](books/book_dee2f7fcccdd.md)（20 条定位注释）
+- 年轻人／[消失女神](books/book_deacb6b2ffbe.md)（18 条定位注释）
+- 年轻人／[离魂奇遇](books/book_057b15b2db0f.md)（2 条定位注释）
+- 年轻人／[神话世界](books/book_d135e392bd20.md)（11 条定位注释）
+- 木兰花全集／[巧夺死光表](books/book_c2535674b4f0.md)（18 条定位注释）
+- 木兰花全集／[黑龙现爪](books/book_c58b72d1bd18.md)（21 条定位注释）
+- 木兰花全集／[太阳之女](books/book_f8a7c1a887d7.md)（26 条定位注释）
+- 木兰花全集／[木雕人头](books/book_f41d7fd92d2e.md)（20 条定位注释）
+- 木兰花全集／[尸变惊魂](books/book_8c8ae73418a5.md)（30 条定位注释）
+- 木兰花全集／[超人集团](books/book_aaf33c6ffc7d.md)（29 条定位注释）
+- 木兰花全集／[高原之谜](books/book_6270ef0eb81c.md)（22 条定位注释）
+- 木兰花全集／[雷库惊魂](books/book_bc1b8be792b0.md)（21 条定位注释）
+- 木兰花全集／[死亡织锦](books/book_e316efa41fb7.md)（20 条定位注释）
+- 木兰花全集／[电眼怪客](books/book_d3bfda6ea9f0.md)（18 条定位注释）
+- 木兰花全集／[冰川亡魂](books/book_15495f0e72b6.md)（20 条定位注释）
+- 木兰花全集／[夺命红烛](books/book_dde73ad52f3d.md)（29 条定位注释）
+- 木兰花全集／[智擒电子盗](books/book_0050207a2763.md)（18 条定位注释）
+- 木兰花全集／[死亡爆炸网](books/book_2c323b3cec3b.md)（19 条定位注释）
+- 木兰花全集／[杀人奖金](books/book_383d3f6c3c1b.md)（19 条定位注释）
+- 木兰花全集／[隐形奇人](books/book_951e382811f4.md)（19 条定位注释）
+- 木兰花全集／[高空喋血](books/book_f2a010e21eca.md)（26 条定位注释）
+- 木兰花全集／[怒歼恶魔团](books/book_83fa0efc7010.md)（20 条定位注释）
+- 木兰花全集／[连环毒计](books/book_acfa0c7d39e7.md)（12 条定位注释）
+- 木兰花全集／[秘密党](books/book_28b211db8b99.md)（29 条定位注释）
+- 木兰花全集／[旋风神偷](books/book_0c1410b315bf.md)（19 条定位注释）
+- 木兰花全集／[天外恩仇](books/book_d1e263538229.md)（34 条定位注释）
+- 木兰花全集／[大破暗杀党](books/book_1905922229f9.md)（31 条定位注释）
+- 木兰花全集／[魔掌余生](books/book_3e7d2d337f26.md)（31 条定位注释）
+- 木兰花全集／[血溅黄金柱](books/book_5abac49bbff2.md)（28 条定位注释）
+- 木兰花全集／[神秘血影掌](books/book_8b71583b37d1.md)（12 条定位注释）
+- 木兰花全集／[钻石镭射](books/book_91f9ff962ece.md)（35 条定位注释）
+- 木兰花全集／[北极氢弹战](books/book_32f5137e3369.md)（30 条定位注释）
+- 木兰花全集／[潜艇迷宫](books/book_37e234b81722.md)（14 条定位注释）
+- 木兰花全集／[玻璃伪钞模](books/book_0b0a0d1dcca5.md)（29 条定位注释）
+- 木兰花全集／[黑暗历险](books/book_676f75bdba78.md)（25 条定位注释）
+- 木兰花全集／[人形飞弹](books/book_f598f34a5dc4.md)（24 条定位注释）
+- 木兰花全集／[军械大盗](books/book_15309e2595f9.md)（17 条定位注释）
+- 木兰花全集／[断头美人鱼](books/book_59d1e3e8cb38.md)（38 条定位注释）
+- 木兰花全集／[蜘蛛陷阱](books/book_184aed6ad276.md)（33 条定位注释）
+- 木兰花全集／[无敌凶手](books/book_40cc4a079530.md)（42 条定位注释）
+- 木兰花全集／[沉船明珠](books/book_847963d3484e.md)（20 条定位注释）
+- 木兰花全集／[无价奇石](books/book_46efdff81598.md)（49 条定位注释）
+- 木兰花全集／[失踪新娘](books/book_d891efd52524.md)（35 条定位注释）
+- 木兰花全集／[怪新郎](books/book_7305a311c73f.md)（25 条定位注释）
+- 木兰花全集／[金库奇案](books/book_227fb88cd97f.md)（19 条定位注释）
+- 木兰花全集／[龙宫宝贝](books/book_f19bdfa70499.md)（21 条定位注释）
+- 木兰花全集／[珊瑚古城](books/book_ac1506254b91.md)（23 条定位注释）
+- 木兰花全集／[猎头禁地](books/book_2d3443649105.md)（22 条定位注释）
+- 木兰花全集／[魔画](books/book_010028e53ed7.md)（18 条定位注释）
+- 木兰花全集／[死神殿](books/book_6b37f675c3ee.md)（19 条定位注释）
+- 木兰花全集／[复活金像](books/book_1d06718d42da.md)（18 条定位注释）
+- 木兰花全集／[遥控谋杀案](books/book_93599e44ee3e.md)（24 条定位注释）
+- 木兰花全集／[地道奇人](books/book_1532f53d7550.md)（19 条定位注释）
+- 木兰花全集／[蜜月奇遇](books/book_3a4be15d72e1.md)（28 条定位注释）
+- 木兰花全集／[冷血人](books/book_8158b364a96e.md)（21 条定位注释）
+- 木兰花全集／[生死碧玉](books/book_0987c189c610.md)（29 条定位注释）
+- 木兰花全集／[电网火花](books/book_984efdcbbe6f.md)（27 条定位注释）
+- 木兰花全集／[古屋奇影](books/book_d8d609e865fc.md)（20 条定位注释）
+- 木兰花全集／[金庙奇佛](books/book_dfed8fba4c8b.md)（39 条定位注释）
+- 木兰花全集／[天才白痴](books/book_859f2b1ca2cd.md)（26 条定位注释）
+- 木兰花全集／[生命合同](books/book_0d683e643d16.md)（27 条定位注释）
+- 木兰花全集／[三尸同行](books/book_a82e320d2775.md)（34 条定位注释）
+- 木兰花全集／[无风自动](books/book_ed5ec379acc3.md)（30 条定位注释）
+- 木兰花全集／[无名怪尸](books/book_1759a14aa7d2.md)（54 条定位注释）
+- 浪子高达系列／[血美人](books/book_040db2e01a69.md)（18 条定位注释）
+- 浪子高达系列／[微晶之密](books/book_b10cefcfc4f2.md)（42 条定位注释）
+- 浪子高达系列／[水晶艳女](books/book_76747244fea3.md)（17 条定位注释）
+- 浪子高达系列／[珍珠荡妇](books/book_d68d23537d9a.md)（12 条定位注释）
+- 浪子高达系列／[盗尸艳遇](books/book_9f92503739c8.md)（20 条定位注释）
+- 浪子高达系列／[红粉猫](books/book_901a4d30a01c.md)（15 条定位注释）
+- 浪子高达系列／[蛇王石](books/book_3f0598f348f0.md)（7 条定位注释）
+- 浪子高达系列／[金球红唇](books/book_f99d9d511884.md)（10 条定位注释）
+- 神探高斯系列／[出术](books/book_2601c5718f2f.md)（5 条定位注释）
+- 神探高斯系列／[催眠之术](books/book_b310fc0c9328.md)（7 条定位注释）
+- 神探高斯系列／[飞艇](books/book_9cbc6b143845.md)（6 条定位注释）
+- 神探高斯系列／[粉红钻石](books/book_c157bc6751a0.md)（4 条定位注释）
+- 神探高斯系列／[风向](books/book_2dbbf3325895.md)（9 条定位注释）
+- 神探高斯系列／[古墨](books/book_b43a5c82c0b5.md)（4 条定位注释）
+- 神探高斯系列／[怪房子](books/book_9eb8a7e88e3a.md)（2 条定位注释）
+- 神探高斯系列／[怪人奇骗](books/book_fd2acebfac26.md)（4 条定位注释）
+- 神探高斯系列／[鬼照片](books/book_5c42ac4d403f.md)（6 条定位注释）
+- 神探高斯系列／[黑美人](books/book_f96d2e2fcb1e.md)（9 条定位注释）
+- 神探高斯系列／[及时赶到](books/book_77a3940e2f05.md)（4 条定位注释）
+- 神探高斯系列／[金发女](books/book_48b549bd762f.md)（9 条定位注释）
+- 神探高斯系列／[金酋长](books/book_898be4810fdd.md)（5 条定位注释）
+- 神探高斯系列／[迷途横祸](books/book_34c10b16ba3f.md)（6 条定位注释）
+- 神探高斯系列／[魔鬼的舞蹈](books/book_119053ededd4.md)（10 条定位注释）
+- 神探高斯系列／[弄假成真](books/book_e022953c8c50.md)（9 条定位注释）
+- 神探高斯系列／[奇迹](books/book_fcb6d8e88204.md)（11 条定位注释）
+- 神探高斯系列／[奇轮](books/book_d0e0ef61d706.md)（5 条定位注释）
+- 神探高斯系列／[擒凶记](books/book_fc4c949d05cd.md)（7 条定位注释）
+- 神探高斯系列／[三与四](books/book_46988f61c642.md)（3 条定位注释）
+- 神探高斯系列／[闪电天](books/book_9d6719f86209.md)（9 条定位注释）
+- 神探高斯系列／[水中宝盒](books/book_431747bbc9f2.md)（12 条定位注释）
+- 神探高斯系列／[太阳神](books/book_73f722d72956.md)（21 条定位注释）
+- 神探高斯系列／[晚礼服](books/book_928de33dd33f.md)（11 条定位注释）
+- 神探高斯系列／[未卜先知](books/book_6ba794ffcd2a.md)（9 条定位注释）
+- 神探高斯系列／[雾夜煞星](books/book_eb6dffe8a108.md)（11 条定位注释）
+- 神探高斯系列／[亚洲皇后](books/book_bf2a7aef7294.md)（13 条定位注释）
+- 神探高斯系列／[妖女煞星](books/book_3bafae3cade4.md)（15 条定位注释）
+- 神探高斯系列／[预告](books/book_6223e2d26cdb.md)（15 条定位注释）
+- 非人协会系列／[非人协会 序](books/book_9377f55f8968.md)（1 条定位注释）
+- 非人协会系列／[鱼人](books/book_2d60d6b88429.md)（9 条定位注释）
+- 非人协会系列／[两生](books/book_230ac1f98cc8.md)（8 条定位注释）
+- 非人协会系列／[大鹰](books/book_31c94dd237eb.md)（8 条定位注释）
+- 非人协会系列／[泥沼火人](books/book_752e950f39e6.md)（11 条定位注释）
+- 非人协会系列／[三千年死人](books/book_f0c4d721d353.md)（6 条定位注释）
+- 非人协会系列／[主宰](books/book_7edbe27121e1.md)（7 条定位注释）

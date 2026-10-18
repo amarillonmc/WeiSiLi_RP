@@ -1,0 +1,528 @@
+{
+  "schema_version": "1.0",
+  "id": "book_ccfaaef512be",
+  "title": "另类复制",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/131另类复制.txt",
+  "file": "books/book_ccfaaef512be.json",
+  "inherited_fact_count": 45,
+  "curated_links": {
+    "rules": [
+      "rule_plural_life"
+    ],
+    "entities": [
+      "leman",
+      "leman_copy"
+    ],
+    "events": [
+      "w_du_copy_reveal"
+    ],
+    "arcs": [
+      "arc_weisili",
+      "arc_baisu"
+    ],
+    "issues": [
+      "issue_copies"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "34d35dafc5fb21fb08d6f32ad5423d0e17703c521c7199bbb1c87a0ade1aa47b",
+  "source_lines": 3919,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "思想复制与母女之谜调查"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "找霍医生、维护人的身份"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "追查替身医生及受试妇女"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "费南度项目支持、案件参与"
+    },
+    {
+      "name": "大亨",
+      "card_id": "weisili_da_heng",
+      "role": "重要配角",
+      "basis": "母女保护、旧事目击与资助提议"
+    },
+    {
+      "name": "朱槿",
+      "card_id": "weisili_zhu_jin",
+      "role": "重要配角",
+      "basis": "调查联络与网络查询"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "重要配角",
+      "basis": "伴娘、暗语目击及查问"
+    },
+    {
+      "name": "典希微",
+      "card_id": "weisili_dian_xiwei",
+      "role": "重要配角",
+      "basis": "催眠后续与记忆边界"
+    },
+    {
+      "name": "费南度",
+      "card_id": "weisili_feinandu",
+      "role": "重要配角",
+      "basis": "继续调查计划"
+    },
+    {
+      "name": "金翡翠",
+      "card_id": "weisili_jin_feicui",
+      "role": "主角",
+      "basis": "生育与家庭伤害的核心当事人"
+    },
+    {
+      "name": "小翠",
+      "card_id": "weisili_xiao_cui",
+      "role": "主角",
+      "basis": "婚礼失踪与受试者人格"
+    },
+    {
+      "name": "储中望",
+      "card_id": "weisili_chu_zhongwang",
+      "role": "主角",
+      "basis": "婚姻回忆、临终冲突"
+    },
+    {
+      "name": "霍建平",
+      "card_id": "weisili_huo_jianping",
+      "role": "阶段性对立者",
+      "basis": "替身手术隐瞒和身份线索"
+    },
+    {
+      "name": "杜良",
+      "card_id": "weisili_du_liang",
+      "role": "阶段性对立者",
+      "basis": "未经同意实施思想实验"
+    },
+    {
+      "name": "复制杜良",
+      "card_id": "weisili_du_liang_copy",
+      "role": "主角",
+      "basis": "留院掩护及学习停滞"
+    },
+    {
+      "name": "罗克",
+      "card_id": "weisili_luo_ke",
+      "role": "重要配角",
+      "basis": "复制体研究与劝阻"
+    },
+    {
+      "name": "亮声",
+      "card_id": "weisili_liang_sheng",
+      "role": "重要配角",
+      "basis": "医院协调及研究边界"
+    },
+    {
+      "name": "哥登",
+      "card_id": "weisili_ge_deng",
+      "role": "重要配角",
+      "basis": "参与异常研究和旧友关系"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "努力大师",
+      "reason": "仅开头回顾前篇能力损耗，没有本篇新行动；主卡保留并补后续对照"
+    },
+    {
+      "name": "温宝裕、红绫",
+      "reason": "开篇社会位置或既有经历简提，未在本案形成独立新行动"
+    },
+    {
+      "name": "新郎、其他婚礼宾客、其他受试者",
+      "reason": "一次背景和未具身份的样本集合，无独立角色逻辑或反派行动"
+    },
+    {
+      "name": "其他催眠师、医院青年研究者、驾驶员",
+      "reason": "一次协助或未分名的调查背景，不据职称补造人物"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0334fd597f531e81",
+      "statement": "九名催眠师的结果与记忆仍封存",
+      "annotation_character_ids": [
+        "weisili_dian_xiwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e5c8a6ed33cc8b9",
+      "statement": "其他大师失败和原有代价背景",
+      "annotation_character_ids": [
+        "weisili_nuli_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_878ad664025b9028",
+      "statement": "未经知情的催眠尝试",
+      "annotation_character_ids": [
+        "weisili_wei_sili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6005b6d31a6b6954",
+      "statement": "监视计划、猜测与资助",
+      "annotation_character_ids": [
+        "weisili_feinandu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6ab65b88462f5a5a",
+      "statement": "监视计划与资助",
+      "annotation_character_ids": [
+        "weisili_tao_qiquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f77fd0300dbe062",
+      "statement": "婚姻、怀孕与丈夫患病",
+      "annotation_character_ids": [
+        "weisili_jin_feicui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_765846723a24134b",
+      "statement": "婚姻和病史",
+      "annotation_character_ids": [
+        "weisili_chu_zhongwang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c62edf2e1c5dd4bf",
+      "statement": "多处检查与不育事实",
+      "annotation_character_ids": [
+        "weisili_chu_zhongwang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f37c95365240f8d0",
+      "statement": "不育报告、质问、崩溃及丈夫死亡",
+      "annotation_character_ids": [
+        "weisili_jin_feicui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d9e3690fc020710f",
+      "statement": "临终质问与死亡",
+      "annotation_character_ids": [
+        "weisili_chu_zhongwang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1e85502b8c2d2a29",
+      "statement": "幼年性情与大亨结识",
+      "annotation_character_ids": [
+        "weisili_xiao_cui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e583bd32f8eb961a",
+      "statement": "婚礼中的异常暗语",
+      "annotation_character_ids": [
+        "weisili_xiao_cui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_100ee82de30321e2",
+      "statement": "神怪猜疑与不愿失去女儿",
+      "annotation_character_ids": [
+        "weisili_jin_feicui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2a22a8cfd190d454",
+      "statement": "回家与记忆缺口",
+      "annotation_character_ids": [
+        "weisili_xiao_cui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f253506602afc4e0",
+      "statement": "复制体与长期未被察觉",
+      "annotation_character_ids": [
+        "weisili_du_liang_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b495e7f055d3439",
+      "statement": "长期观察及复制体限制",
+      "annotation_character_ids": [
+        "weisili_luo_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cf0393cf1acf709f",
+      "statement": "新知识不能接收、六年周期",
+      "annotation_character_ids": [
+        "weisili_du_liang_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3c89a0441a8f1a09",
+      "statement": "方法缺陷或故意限制未定",
+      "annotation_character_ids": [
+        "weisili_liang_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_43c6118da5aa9010",
+      "statement": "与罗克尝试检查",
+      "annotation_character_ids": [
+        "weisili_ge_deng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_00a673d12d539052",
+      "statement": "身份不自知及同步录像",
+      "annotation_character_ids": [
+        "weisili_du_liang_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3bd387cc3cb6e21d",
+      "statement": "本尊留下复制体和信，早期所见身份也有不确定性",
+      "annotation_character_ids": [
+        "weisili_du_liang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a41c4bb4444a752a",
+      "statement": "麻醉取片及信确认",
+      "annotation_character_ids": [
+        "weisili_luo_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b28861735fbe5e57",
+      "statement": "取牙中微片及本尊信确认",
+      "annotation_character_ids": [
+        "weisili_du_liang_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ddd2fcde1d96f19e",
+      "statement": "本尊信中的老友关系",
+      "annotation_character_ids": [
+        "weisili_ge_deng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b5efe172303ba04",
+      "statement": "风险态度与推理纠正",
+      "annotation_character_ids": [
+        "weisili_liang_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6709ac466ac502fd",
+      "statement": "反对广泛思想复制",
+      "annotation_character_ids": [
+        "weisili_luo_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c8a874199c604dc9",
+      "statement": "姓名及名医身份",
+      "annotation_character_ids": [
+        "weisili_huo_jianping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8235407d97febdfa",
+      "statement": "对好友保密的气愤",
+      "annotation_character_ids": [
+        "weisili_luo_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c4e018aec7908ca2",
+      "statement": "退休、替身收费与自我辩护",
+      "annotation_character_ids": [
+        "weisili_huo_jianping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_289434449ca62764",
+      "statement": "夫妻回忆及指认卢医生",
+      "annotation_character_ids": [
+        "weisili_huo_jianping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d0a706721077f8f6",
+      "statement": "卢医生的实际工作规模",
+      "annotation_character_ids": [
+        "weisili_huo_jianping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6ec94a5456d34594",
+      "statement": "人的身份及母女关系",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fd6d9b15cb21d7fe",
+      "statement": "白素维护人的身份与母女关系",
+      "annotation_character_ids": [
+        "weisili_xiao_cui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d03fcfb51487ff13",
+      "statement": "追踪方案",
+      "annotation_character_ids": [
+        "weisili_xiao_guo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_12d56684518aeea4",
+      "statement": "筹婚、重复暗语已无效",
+      "annotation_character_ids": [
+        "weisili_xiao_cui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_96e5a78fceb29f72",
+      "statement": "同意联络调查",
+      "annotation_character_ids": [
+        "weisili_zhu_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0634e8486d271658",
+      "statement": "确证人数及后续十六人",
+      "annotation_character_ids": [
+        "weisili_xiao_guo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_489d4ab53b051989",
+      "statement": "调查仍无消息",
+      "annotation_character_ids": [
+        "weisili_zhu_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bbd314967b2c23d9",
+      "statement": "公开压力与杜良指其祸延无辜",
+      "annotation_character_ids": [
+        "weisili_wei_sili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82d34fd7e22a6090",
+      "statement": "对卫和外星人的敌意",
+      "annotation_character_ids": [
+        "weisili_du_liang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8399b4852b52cb65",
+      "statement": "假说、受精卵实验、伤害与停止旧暗示",
+      "annotation_character_ids": [
+        "weisili_du_liang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1230ec6d5ba64279",
+      "statement": "受精卵实验解释与暗示取消",
+      "annotation_character_ids": [
+        "weisili_jin_feicui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f32e8f2a8fcb944",
+      "statement": "杜良得知家庭伤害",
+      "annotation_character_ids": [
+        "weisili_chu_zhongwang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3570c3c62af08082",
+      "statement": "原暗示取消及第二次婚礼",
+      "annotation_character_ids": [
+        "weisili_xiao_cui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6edc8d90dddcf4b8",
+      "statement": "小翠关系仍属未证实猜测",
+      "annotation_character_ids": [
+        "weisili_da_heng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,360 @@
+{
+  "schema_version": "1.0",
+  "id": "book_e968e0af1390",
+  "title": "大秘密",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/090大秘密.txt",
+  "file": "books/book_e968e0af1390.json",
+  "inherited_fact_count": 14,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "7edeb79459c8dc416ca4b405b32ecedbb3d4284f77bbc5cb2e0d44c8e9df682f",
+  "source_lines": 3211,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "亲自调查、决断与叙述"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "实际参与调查、家庭选择与行动"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "实际参与线索和行动"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "主角",
+      "basis": "关系与自主能力发展的中心人物"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "主角",
+      "basis": "身世、婚配与苗疆行动中心"
+    },
+    {
+      "name": "猛哥",
+      "card_id": "weisili_mengge",
+      "role": "重要配角",
+      "basis": "亲自保证不夺养女与接受感谢"
+    },
+    {
+      "name": "温妈妈",
+      "card_id": "weisili_wen_mama",
+      "role": "重要配角",
+      "basis": "对红绫和婚配态度的实际行动"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "迎接红绫与家庭变化"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "与温研究并安排博物馆知识"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "受白素委托实际调查线索"
+    },
+    {
+      "name": "陈耳",
+      "card_id": "weisili_chen_er",
+      "role": "重要配角",
+      "basis": "安排警车、证件与送机"
+    },
+    {
+      "name": "猜王",
+      "card_id": "weisili_cai_wang",
+      "role": "重要配角",
+      "basis": "协助红绫证件的明确行动"
+    },
+    {
+      "name": "铁天音",
+      "card_id": "weisili_tie_tianyin",
+      "role": "主角",
+      "basis": "翻阅记录、取走页和相关调查"
+    },
+    {
+      "name": "铁蛋",
+      "card_id": "weisili_tie_dan",
+      "role": "主角",
+      "basis": "军旅和亲历秘密的主叙事"
+    },
+    {
+      "name": "雷九天",
+      "card_id": "yuanzhenxia_lei_jiutian",
+      "role": "重要配角",
+      "basis": "顾问、护卫与被领袖利用的前史"
+    },
+    {
+      "name": "铁蛋旧主领袖",
+      "card_id": "weisili_tie_leader",
+      "role": "反派",
+      "basis": "剿灭命令与寻子秘令"
+    },
+    {
+      "name": "前代龙天官",
+      "card_id": "weisili_old_dragon_tg",
+      "role": "反派",
+      "basis": "冒名、血统夺权与脱险"
+    },
+    {
+      "name": "前代其余天官",
+      "card_id": "weisili_old_tianguan_companions",
+      "role": "反派",
+      "basis": "夺权同谋及遇伏逃脱"
+    },
+    {
+      "name": "困敦（当代鼠天官）",
+      "card_id": "weisili_tg_kun_dun",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "赤奋若（当代牛天官）",
+      "card_id": "weisili_tg_chi_fenruo",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "摄提格（当代虎天官）",
+      "card_id": "weisili_tg_she_tige",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "单阏（当代兔天官）",
+      "card_id": "weisili_tg_dan_e",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "执徐（当代龙天官）",
+      "card_id": "weisili_tg_zhi_xu",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "大荒落（当代蛇天官）",
+      "card_id": "weisili_tg_da_huangluo",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "敦牂（当代马天官）",
+      "card_id": "weisili_tg_dun_zang",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "协洽（当代羊天官）",
+      "card_id": "weisili_tg_xie_qia",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "涒滩（当代猴天官）",
+      "card_id": "weisili_tg_tun_tan",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "作噩（当代鸡天官）",
+      "card_id": "weisili_tg_zuo_e",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "阉茂（当代狗天官）",
+      "card_id": "weisili_tg_yan_mao",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "大渊献（当代猪天官）",
+      "card_id": "weisili_tg_da_yuanxian",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "陶启泉",
+      "reason": "干亲和财富身份被用于解释婚配，未在本书实际到场"
+    },
+    {
+      "name": "白老大",
+      "reason": "武术、酒与旧交比较，未有独立当前行动"
+    },
+    {
+      "name": "扬州收养商人",
+      "reason": "一次救助背景人物，未具名也无独立主线"
+    },
+    {
+      "name": "普通军官、警卫和士兵",
+      "reason": "执行命令群体，未独立具名或分出主要人物"
+    },
+    {
+      "name": "原振侠、年轻人、公主",
+      "reason": "聚会惯例和往事提及，不因此确定本书实际出场"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_26c2e75973f437f8",
+      "statement": "养亲感情与接受身世关系",
+      "annotation_character_ids": [
+        "weisili_tg_chi_fenruo",
+        "weisili_tg_da_huangluo",
+        "weisili_tg_da_yuanxian",
+        "weisili_tg_dan_e",
+        "weisili_tg_dun_zang",
+        "weisili_tg_kun_dun",
+        "weisili_tg_she_tige",
+        "weisili_tg_tun_tan",
+        "weisili_tg_xie_qia",
+        "weisili_tg_yan_mao",
+        "weisili_tg_zhi_xu",
+        "weisili_tg_zuo_e"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_980a5c95180366d0",
+      "statement": "名字、特征与交付记录",
+      "annotation_character_ids": [
+        "weisili_tg_chi_fenruo",
+        "weisili_tg_da_huangluo",
+        "weisili_tg_da_yuanxian",
+        "weisili_tg_dan_e",
+        "weisili_tg_dun_zang",
+        "weisili_tg_kun_dun",
+        "weisili_tg_she_tige",
+        "weisili_tg_tun_tan",
+        "weisili_tg_xie_qia",
+        "weisili_tg_yan_mao",
+        "weisili_tg_zhi_xu",
+        "weisili_tg_zuo_e"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e48fcc4d690025a6",
+      "statement": "从军与将军身份",
+      "annotation_character_ids": [
+        "weisili_tie_dan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e1647e3412ded35a",
+      "statement": "剿灭任务与猪肉汤比喻",
+      "annotation_character_ids": [
+        "weisili_tie_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb3089391f6cbaff",
+      "statement": "隐秘寻找、威势与利用雷九天",
+      "annotation_character_ids": [
+        "weisili_tie_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f5604452818da12",
+      "statement": "失散之子和兄弟计划",
+      "annotation_character_ids": [
+        "weisili_old_dragon_tg"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c561ef183dd4f559",
+      "statement": "牛天官身体与饮酒记录",
+      "annotation_character_ids": [
+        "weisili_old_tianguan_companions"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d494b5463e3e336",
+      "statement": "夺权与弑父冒名讨论",
+      "annotation_character_ids": [
+        "weisili_old_dragon_tg"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dd5837fdbcd6bfea",
+      "statement": "三名女子的明确不同发言",
+      "annotation_character_ids": [
+        "weisili_old_tianguan_companions"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_565f5419b23a94b7",
+      "statement": "扬州失散者被提及及保密",
+      "annotation_character_ids": [
+        "weisili_yangzhou_successor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_30d80bc2ea80af4f",
+      "statement": "被诱离与同门不分行动",
+      "annotation_character_ids": [
+        "weisili_old_dragon_tg"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4e76c5afdc8a0450",
+      "statement": "攀壁及集体规则",
+      "annotation_character_ids": [
+        "weisili_old_tianguan_companions"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e26257ea4451cecd",
+      "statement": "天象下脱险与重伤隐居",
+      "annotation_character_ids": [
+        "weisili_old_tianguan_companions"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa35de3fa7612c1b",
+      "statement": "隐居仍保留领袖忠诚",
+      "annotation_character_ids": [
+        "weisili_tie_dan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

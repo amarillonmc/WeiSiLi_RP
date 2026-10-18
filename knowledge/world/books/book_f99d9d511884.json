@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f99d9d511884",
+  "title": "金球红唇",
+  "aliases": [],
+  "series": "浪子高达系列",
+  "source_path": "浪子高达系列/金球红唇.txt",
+  "file": "books/book_f99d9d511884.json",
+  "inherited_fact_count": 10,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "308f4846668524daa62e5fe136c97e795078a60aca8eb69f71ca30ec3a942e86",
+  "source_lines": 5206,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "高达",
+      "card_id": "adventure_gaoda",
+      "role": "主角",
+      "basis": "全书核心行动视角"
+    },
+    {
+      "name": "杜雪",
+      "card_id": "adventure_du_xue",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "克鲁斯",
+      "card_id": "adventure_kelusi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "时重池",
+      "card_id": "adventure_shi_lushi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "费经理",
+      "card_id": "adventure_fei",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "阿发",
+      "card_id": "adventure_afa",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "万夹",
+      "card_id": "adventure_wanjia",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "韦松石",
+      "card_id": "adventure_wei_songshi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "黎探长",
+      "card_id": "adventure_li_tanzhang",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "贝茜",
+      "card_id": "adventure_beixi",
+      "role": "阶段性对立者",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "芳婷",
+      "card_id": "adventure_fangting",
+      "role": "单书主角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "其余五名富家女",
+      "reason": "共同参与行动但没有稳定姓名和独立主要决定，合同行动条件记于贝茜与芳婷卡。"
+    },
+    {
+      "name": "伊莎",
+      "reason": "赌约对手，只通过转述及结果出现；没有展开可独立评级的主要行动。"
+    },
+    {
+      "name": "邮船船员、码头人员",
+      "reason": "单书工作与警戒辅助身份。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_8401cd607958830d",
+      "statement": "影像要挟",
+      "annotation_character_ids": [
+        "adventure_beixi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5087b8ebdeb4b8f1",
+      "statement": "财富、计划和强迫",
+      "annotation_character_ids": [
+        "adventure_beixi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2603706ae8776680",
+      "statement": "高达请求其取影片",
+      "annotation_character_ids": [
+        "adventure_fangting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9792b2f44fe6e410",
+      "statement": "失败与受惩罚",
+      "annotation_character_ids": [
+        "adventure_fangting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e2f0b5371e289c20",
+      "statement": "打赌动机",
+      "annotation_character_ids": [
+        "adventure_beixi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_62539685db30369b",
+      "statement": "登船探询与行动",
+      "annotation_character_ids": [
+        "adventure_fangting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a294d788e318c50",
+      "statement": "风暴中传递消息",
+      "annotation_character_ids": [
+        "adventure_fangting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a207d88a10558c77",
+      "statement": "盗金任务分工",
+      "annotation_character_ids": [
+        "adventure_wanjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d1fc20162b795df1",
+      "statement": "执行与成功",
+      "annotation_character_ids": [
+        "adventure_beixi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5ff2c250822c55ea",
+      "statement": "白金归还和高达仍将离开",
+      "annotation_character_ids": [
+        "adventure_beixi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

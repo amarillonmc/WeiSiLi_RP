@@ -1,0 +1,370 @@
+{
+  "schema_version": "1.0",
+  "id": "book_68310af66701",
+  "title": "寻梦",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/053寻梦.txt",
+  "file": "books/book_68310af66701.json",
+  "inherited_fact_count": 30,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "1d73ea7cd15abfbc42b891ff547eb5d13cc4e89cf66ff4ce2748d7665eba2655",
+  "source_lines": 4046,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "调查两起死亡"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "接待与挡客"
+    },
+    {
+      "name": "杨立群",
+      "card_id": "weisili_yang_liqun",
+      "role": "单书主角",
+      "basis": "现代案件或完整旧案角色"
+    },
+    {
+      "name": "刘丽玲",
+      "card_id": "weisili_liu_liling",
+      "role": "单书主角",
+      "basis": "现代案件或完整旧案角色"
+    },
+    {
+      "name": "孔玉贞",
+      "card_id": "weisili_kong_yuzhen",
+      "role": "单书主角",
+      "basis": "现代案件或完整旧案角色"
+    },
+    {
+      "name": "胡协成",
+      "card_id": "weisili_hu_xiecheng",
+      "role": "单书主角",
+      "basis": "现代案件或完整旧案角色"
+    },
+    {
+      "name": "简云",
+      "card_id": "weisili_jian_yun",
+      "role": "单书主角",
+      "basis": "现代案件或完整旧案角色"
+    },
+    {
+      "name": "展大义",
+      "card_id": "weisili_zhan_dayi",
+      "role": "单书主角",
+      "basis": "现代案件或完整旧案角色"
+    },
+    {
+      "name": "翠莲",
+      "card_id": "weisili_cuilian",
+      "role": "反派",
+      "basis": "现代案件或完整旧案角色"
+    },
+    {
+      "name": "王成（寻梦）",
+      "card_id": "weisili_wang_cheng_xunmeng",
+      "role": "反派",
+      "basis": "现代案件或完整旧案角色"
+    },
+    {
+      "name": "梁柏宗",
+      "card_id": "weisili_liang_baizong",
+      "role": "反派",
+      "basis": "现代案件或完整旧案角色"
+    },
+    {
+      "name": "曾祖尧",
+      "card_id": "weisili_zeng_zuyao",
+      "role": "反派",
+      "basis": "现代案件或完整旧案角色"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "李得富、孙姓陪同者",
+      "reason": "地方回忆与查档协助，无独立主角线或跨书重要出场。"
+    },
+    {
+      "name": "四名皮货商人",
+      "reason": "旧案集体受害者，无可分辨的个人行为。"
+    },
+    {
+      "name": "孔父、通话女子及路人证人",
+      "reason": "一次性旁证或亲属，无独立剧情线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c1eda9ccee2755e4",
+      "statement": "商人与梦",
+      "annotation_character_ids": [
+        "weisili_yang_liqun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_337b1c487c256cf0",
+      "statement": "相识起点",
+      "annotation_character_ids": [
+        "weisili_jian_yun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1c73b46df3e1814f",
+      "statement": "引导",
+      "annotation_character_ids": [
+        "weisili_jian_yun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82c95e288c58c902",
+      "statement": "逼供",
+      "annotation_character_ids": [
+        "weisili_zhan_dayi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f0171d5d69f50bd2",
+      "statement": "态度变化",
+      "annotation_character_ids": [
+        "weisili_jian_yun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa8ed758dd63ffed",
+      "statement": "具体逼供",
+      "annotation_character_ids": [
+        "weisili_liang_baizong",
+        "weisili_wang_cheng_xunmeng",
+        "weisili_zeng_zuyao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d57239943a9b247c",
+      "statement": "生活与性格",
+      "annotation_character_ids": [
+        "weisili_liu_liling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_155ab1d1cb87902d",
+      "statement": "另一视角梦境",
+      "annotation_character_ids": [
+        "weisili_liu_liling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eebe3c5ba8ff5a26",
+      "statement": "应急反应",
+      "annotation_character_ids": [
+        "weisili_jian_yun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b6700d8390f4a77f",
+      "statement": "婚姻冲突",
+      "annotation_character_ids": [
+        "weisili_kong_yuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_21153e3deb8f3eab",
+      "statement": "栽赃与离去",
+      "annotation_character_ids": [
+        "weisili_cuilian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_260852e60c94f1af",
+      "statement": "旧案与身份",
+      "annotation_character_ids": [
+        "weisili_zhan_dayi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_321f180d8d50c2f9",
+      "statement": "王成与逃亡",
+      "annotation_character_ids": [
+        "weisili_liang_baizong",
+        "weisili_wang_cheng_xunmeng",
+        "weisili_zeng_zuyao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d54d67b130e8960e",
+      "statement": "旧案调查",
+      "annotation_character_ids": [
+        "weisili_yang_liqun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b5defb4339639aa3",
+      "statement": "旧档姓名及重建",
+      "annotation_character_ids": [
+        "weisili_liang_baizong",
+        "weisili_wang_cheng_xunmeng",
+        "weisili_zeng_zuyao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3eab8f36ad7e204f",
+      "statement": "临终旧事",
+      "annotation_character_ids": [
+        "weisili_hu_xiecheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7f0e9e9b9d354d81",
+      "statement": "被翠莲利用",
+      "annotation_character_ids": [
+        "weisili_liang_baizong",
+        "weisili_wang_cheng_xunmeng",
+        "weisili_zeng_zuyao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d036bf21b7492ae6",
+      "statement": "临终指认",
+      "annotation_character_ids": [
+        "weisili_cuilian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_02869e38007244b4",
+      "statement": "毒药欺骗及谋害",
+      "annotation_character_ids": [
+        "weisili_zhan_dayi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8bdb3a7e74a636da",
+      "statement": "骗局推断",
+      "annotation_character_ids": [
+        "weisili_cuilian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1aae76c6860b4f50",
+      "statement": "承认行凶和假口供",
+      "annotation_character_ids": [
+        "weisili_yang_liqun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f5d179d1f267a26",
+      "statement": "实际遇害与假口供",
+      "annotation_character_ids": [
+        "weisili_hu_xiecheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b1552604875dd78a",
+      "statement": "求助与无前世记忆",
+      "annotation_character_ids": [
+        "weisili_kong_yuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6d52d6cda1004bd3",
+      "statement": "承认假口供",
+      "annotation_character_ids": [
+        "weisili_liu_liling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_965238fdf3ef52fe",
+      "statement": "后期身份",
+      "annotation_character_ids": [
+        "weisili_cuilian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7df123c7f9e4dcd1",
+      "statement": "车祸及推测",
+      "annotation_character_ids": [
+        "weisili_kong_yuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa17ed26428fd3bd",
+      "statement": "车祸证据与怀疑",
+      "annotation_character_ids": [
+        "weisili_yang_liqun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2a3e442921e5ea7d",
+      "statement": "终局与解释边界",
+      "annotation_character_ids": [
+        "weisili_yang_liqun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4af0fcb874e8eb2a",
+      "statement": "结局及不确定性",
+      "annotation_character_ids": [
+        "weisili_liu_liling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b78b7e1a8157a554",
+      "statement": "终局讨论",
+      "annotation_character_ids": [
+        "weisili_jian_yun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

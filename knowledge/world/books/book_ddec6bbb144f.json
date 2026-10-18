@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "id": "book_ddec6bbb144f",
+  "title": "夜光",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/09夜光.txt",
+  "file": "books/book_ddec6bbb144f.json",
+  "inherited_fact_count": 5,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "4e186c829052e788ba68ad824f4ac4e2fe3d2c13a7156b169cfd475d9ea57cba",
+  "source_lines": 1292,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "玫瑰",
+      "card_id": "adventure_meigui",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "康维十七世",
+      "card_id": "yuanzhenxia_kangwei",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "夜光机械人",
+      "card_id": "adventure_night_robot",
+      "role": "阶段性对立者",
+      "basis": "具有本书实质行动或主线作用"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "远",
+      "reason": "仅寻找未见，不把提及算实质登场"
+    },
+    {
+      "name": "香港另一玫瑰",
+      "reason": "无法确认同人或独立具体人物，不替原文解谜"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_bfb901fc2fdcacb7",
+      "statement": "名字、外貌和苦衷",
+      "annotation_character_ids": [
+        "adventure_meigui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a6601cc5c41ce96",
+      "statement": "水红写法及形象",
+      "annotation_character_ids": [
+        "adventure_shui_hong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d45d040b17592d29",
+      "statement": "资料程序与查验",
+      "annotation_character_ids": [
+        "adventure_night_robot"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b309a8131ce636fb",
+      "statement": "同名线索、保密与外部调查",
+      "annotation_character_ids": [
+        "adventure_meigui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_23da8e345229ab98",
+      "statement": "反叛、沉默和未解终局",
+      "annotation_character_ids": [
+        "adventure_night_robot"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

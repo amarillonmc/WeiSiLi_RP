@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "id": "book_aa5d20a2593d",
+  "title": "盗墓",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/056盗墓.txt",
+  "file": "books/book_aa5d20a2593d.json",
+  "inherited_fact_count": 17,
+  "curated_links": {
+    "events": [
+      "w_tomb"
+    ],
+    "relations": [
+      "before__w_tomb__w_underworld_shutdown"
+    ],
+    "arcs": [
+      "arc_qibai"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "3192f142ac157bd356418e370e72d4e2fe638de8dfe52ef9a37187bd101bf4b6",
+  "source_lines": 4117,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "调查失踪与灭口"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "协作调查与外交讨论"
+    },
+    {
+      "name": "齐白",
+      "card_id": "weisili_qi_bai",
+      "role": "主角",
+      "basis": "误入藏尸区并寻求帮助"
+    },
+    {
+      "name": "单思",
+      "card_id": "weisili_shan_si",
+      "role": "主角",
+      "basis": "发现秘密、受惊并被灭口"
+    },
+    {
+      "name": "病毒",
+      "card_id": "adventure_bingdu",
+      "role": "主角",
+      "basis": "接受访客任务并委托盗墓者"
+    },
+    {
+      "name": "胡明",
+      "card_id": "weisili_hu_ming",
+      "role": "重要配角",
+      "basis": "提供考古联系、设备与行动支持"
+    },
+    {
+      "name": "胡非尔",
+      "card_id": "adventure_hufeier",
+      "role": "反派",
+      "basis": "秘密机构对未知威胁的行动"
+    },
+    {
+      "name": "泰丰将军",
+      "card_id": "weisili_tai_feng",
+      "role": "反派",
+      "basis": "指挥保密及高层联络"
+    },
+    {
+      "name": "三名白袍访客",
+      "card_id": "weisili_white_robes",
+      "role": "主角",
+      "basis": "取回遗体与记录"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "阿达、都宝",
+      "reason": "病毒学生和一次性证人，虽有具体证词和专业背景，未达跨书重要配角或独立主角标准"
+    },
+    {
+      "name": "亚伦、李沙摩夫",
+      "reason": "发现飞船的任务队员及受害者，历史短段没有独立持续人物线"
+    },
+    {
+      "name": "最高领导人及其他军政官员",
+      "reason": "会谈中未分别展开的机构代表，其保密立场并入泰丰和胡非尔相关事件证据"
+    },
+    {
+      "name": "齐白的递送者",
+      "reason": "一次性失信递送者，拿阅读仪当红宝石出售，无进一步角色身份"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_bd82ad94dae2c92c",
+      "statement": "身份装束和专业背景",
+      "annotation_character_ids": [
+        "weisili_shan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45363d914e3b3a21",
+      "statement": "激愤偷袭",
+      "annotation_character_ids": [
+        "weisili_shan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_737a2cd08178bbd7",
+      "statement": "教授身份与取材伦理",
+      "annotation_character_ids": [
+        "weisili_hu_ming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_35aa77b371f47d08",
+      "statement": "古物兴趣和实际判断",
+      "annotation_character_ids": [
+        "weisili_hu_ming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_27d67368f0cb4b4d",
+      "statement": "盗墓师徒关系与收藏背景",
+      "annotation_character_ids": [
+        "adventure_bingdu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_05ddc6e5b5d212f3",
+      "statement": "白袍造成的误判",
+      "annotation_character_ids": [
+        "weisili_white_robes"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_229492204b979c81",
+      "statement": "灭口行动来源",
+      "annotation_character_ids": [
+        "weisili_shan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f7eb12432fab1f2",
+      "statement": "受保护后仍行动与死亡",
+      "annotation_character_ids": [
+        "weisili_shan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_84168efb82718e04",
+      "statement": "拘押后的转运与高层会谈",
+      "annotation_character_ids": [
+        "weisili_tai_feng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72cabf6d66421faf",
+      "statement": "技术差距与恐惧",
+      "annotation_character_ids": [
+        "weisili_tai_feng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_49d2748039ca3547",
+      "statement": "保密、恐惧与被上级叫停的灭口行动",
+      "annotation_character_ids": [
+        "adventure_hufeier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_276e5292dab5df67",
+      "statement": "宣传安排、联络与放行",
+      "annotation_character_ids": [
+        "weisili_tai_feng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9730bc350b9b3b4a",
+      "statement": "仍追查器物及卫斯理因单思死亡拒绝其私人示好",
+      "annotation_character_ids": [
+        "adventure_hufeier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7ed38da09a762d17",
+      "statement": "真实大小、纯氮边界与离开",
+      "annotation_character_ids": [
+        "weisili_white_robes"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eb22ba066686d43e",
+      "statement": "价值观、记录机制及跨洲转送",
+      "annotation_character_ids": [
+        "weisili_white_robes"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_632738b106b34c20",
+      "statement": "死亡及藏品捐埃及博物馆",
+      "annotation_character_ids": [
+        "adventure_bingdu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46bc026fbd5c7506",
+      "statement": "古物阅读装置与研究态度",
+      "annotation_character_ids": [
+        "weisili_qi_bai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

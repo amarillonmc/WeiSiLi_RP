@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "id": "book_eb6dffe8a108",
+  "title": "雾夜煞星",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/26雾夜煞星.txt",
+  "file": "books/book_eb6dffe8a108.json",
+  "inherited_fact_count": 11,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "830030acf92f35d4e7442081e6727f220f8ad865bcebc2638c25abceb6abc489",
+  "source_lines": 653,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "陆阿毛",
+      "card_id": "gaosi_lu_amao",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "雾夜案的中年走私首领",
+      "card_id": "gaosi_fog_smuggling_boss",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "陆阿毛的两名潜艇手下",
+      "card_id": "gaosi_fog_submarine_men",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "赶到的水警人员",
+      "reason": "一次性执法救援群体，无独立主角或跨书个人身份。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_446acf9ddd0e4a55",
+      "statement": "囚禁、限时与警戒",
+      "annotation_character_ids": [
+        "gaosi_lu_amao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ef4ff59bcf8f3676",
+      "statement": "初见身份外观",
+      "annotation_character_ids": [
+        "gaosi_fog_smuggling_boss"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d04b8f96977df00c",
+      "statement": "识破部分诱敌动作、近身败北",
+      "annotation_character_ids": [
+        "gaosi_lu_amao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_93069d3d0e313e76",
+      "statement": "夺枪、胁迫与处决",
+      "annotation_character_ids": [
+        "gaosi_fog_smuggling_boss"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d500abbe4b483aed",
+      "statement": "被首领处决",
+      "annotation_character_ids": [
+        "gaosi_lu_amao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ca7480420f0c348",
+      "statement": "潜艇灯光和接应者出现",
+      "annotation_character_ids": [
+        "gaosi_fog_submarine_men"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_798bbed173bda229",
+      "statement": "潜艇、杀人、对峙与水警",
+      "annotation_character_ids": [
+        "gaosi_fog_smuggling_boss"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3807bd871edc38ba",
+      "statement": "遭枪击、夺枪及死亡",
+      "annotation_character_ids": [
+        "gaosi_fog_submarine_men"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e9a6845b98a76a15",
+      "statement": "真实动机",
+      "annotation_character_ids": [
+        "gaosi_lu_amao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d03e7df02828c1f",
+      "statement": "与陆阿毛的从属关系",
+      "annotation_character_ids": [
+        "gaosi_fog_submarine_men"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d44afb66fa2346e",
+      "statement": "集团地位及绑架缘由",
+      "annotation_character_ids": [
+        "gaosi_fog_smuggling_boss"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

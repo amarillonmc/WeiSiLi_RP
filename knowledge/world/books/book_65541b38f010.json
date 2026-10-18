@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0",
+  "id": "book_65541b38f010",
+  "title": "笔友",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/019笔友.txt",
+  "file": "books/book_65541b38f010.json",
+  "inherited_fact_count": 34,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "01f6d100064c6eead5e3b7d16b845f332d28bf400f381c686354d9e277de4c74",
+  "source_lines": 1538,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "高彩虹",
+      "card_id": "weisili_gao_caihong",
+      "role": "单书主角",
+      "basis": "少女笔友关系及后续迷藏综合"
+    },
+    {
+      "name": "伊乐",
+      "card_id": "weisili_yile",
+      "role": "单书主角/反派",
+      "basis": "自主电脑与核系统威胁"
+    },
+    {
+      "name": "曼中尉",
+      "card_id": "weisili_man_zhongwei",
+      "role": "单书主角/阶段性对立者",
+      "basis": "发起游戏、隐瞒与补救"
+    },
+    {
+      "name": "谭中校",
+      "card_id": "weisili_tan_zhongxiao",
+      "role": "阶段性对立者",
+      "basis": "资料查询和限制调查"
+    },
+    {
+      "name": "麦隆",
+      "card_id": "weisili_mailong",
+      "role": "单书主线人物",
+      "basis": "接待与结尾私人关系"
+    },
+    {
+      "name": "基地司令",
+      "card_id": "weisili_biyou_commander",
+      "role": "阶段性对立者",
+      "basis": "危机调度与归咎"
+    },
+    {
+      "name": "基地副司令",
+      "card_id": "weisili_biyou_deputy",
+      "role": "阶段性对立者",
+      "basis": "暴力施压与后续合作"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "亲属关系和协助"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "其余五位违规女军官、两名技术顾问及其他值班人员",
+      "reason": "共同提供操作与技术判断；未分列姓名及独立人生主线，团队支持作为条件记录。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_fe441812c71da8ce",
+      "statement": "年龄与亲属关系",
+      "annotation_character_ids": [
+        "weisili_gao_caihong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_819426237f472be5",
+      "statement": "姓名和联络职位",
+      "annotation_character_ids": [
+        "weisili_mailong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cac2f78323874b05",
+      "statement": "麦隆身份",
+      "annotation_character_ids": [
+        "weisili_gao_caihong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_366aa0fa1141167d",
+      "statement": "查询和信件追踪",
+      "annotation_character_ids": [
+        "weisili_tan_zhongxiao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_43c79ff0769ba956",
+      "statement": "转入资料查询",
+      "annotation_character_ids": [
+        "weisili_mailong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_34424a32bd5a9ff2",
+      "statement": "送别",
+      "annotation_character_ids": [
+        "weisili_mailong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_190eaba99b6ef094",
+      "statement": "道歉与追责",
+      "annotation_character_ids": [
+        "weisili_tan_zhongxiao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_391f6b7e0ee8ccf8",
+      "statement": "发起通信游戏",
+      "annotation_character_ids": [
+        "weisili_man_zhongwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d93a253ea43c1889",
+      "statement": "通信来源与命名",
+      "annotation_character_ids": [
+        "weisili_yile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_976d1e7cd6ddb4ac",
+      "statement": "自主诉求及思想判断",
+      "annotation_character_ids": [
+        "weisili_yile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d9dd263cd90bba0f",
+      "statement": "警告和隐瞒",
+      "annotation_character_ids": [
+        "weisili_man_zhongwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cda2d5a662b23396",
+      "statement": "从否认到上报",
+      "annotation_character_ids": [
+        "weisili_tan_zhongxiao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_55f168d809d84c70",
+      "statement": "跨班输出广告",
+      "annotation_character_ids": [
+        "weisili_yile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b6381fc3fc7eb91",
+      "statement": "原发射系统连接",
+      "annotation_character_ids": [
+        "weisili_yile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0da48a13a76c7568",
+      "statement": "副司令身份",
+      "annotation_character_ids": [
+        "weisili_biyou_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46720114e68fdce7",
+      "statement": "协调专家",
+      "annotation_character_ids": [
+        "weisili_tan_zhongxiao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9ca430fabf6bba50",
+      "statement": "职位和验证安排",
+      "annotation_character_ids": [
+        "weisili_biyou_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a235b50126416cb",
+      "statement": "接口操作",
+      "annotation_character_ids": [
+        "weisili_man_zhongwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_533b27d4eb367d92",
+      "statement": "威胁、观察点及防毁安排",
+      "annotation_character_ids": [
+        "weisili_yile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_249a4b526d81094d",
+      "statement": "面对威胁的反应",
+      "annotation_character_ids": [
+        "weisili_biyou_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_75b797c6c231c948",
+      "statement": "拆电源与改道失败",
+      "annotation_character_ids": [
+        "weisili_biyou_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_55feddae2cb80b70",
+      "statement": "抓提与被制止",
+      "annotation_character_ids": [
+        "weisili_biyou_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d80ddc9141553f88",
+      "statement": "归咎与防毁限制",
+      "annotation_character_ids": [
+        "weisili_biyou_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_75547a2e4d542520",
+      "statement": "维持现场",
+      "annotation_character_ids": [
+        "weisili_tan_zhongxiao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5da21c3da4485466",
+      "statement": "否定方案与情绪",
+      "annotation_character_ids": [
+        "weisili_biyou_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d03fb974d5806657",
+      "statement": "主动补救方案",
+      "annotation_character_ids": [
+        "weisili_man_zhongwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d7afb33aaa5b552",
+      "statement": "感知盲区和伪装安抚",
+      "annotation_character_ids": [
+        "weisili_yile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_add2d1d81d4c74ad",
+      "statement": "采用方案",
+      "annotation_character_ids": [
+        "weisili_biyou_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f8f9a5059602913a",
+      "statement": "情绪投入与处分",
+      "annotation_character_ids": [
+        "weisili_man_zhongwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0bb12fe2d0cd6f0f",
+      "statement": "互相道歉",
+      "annotation_character_ids": [
+        "weisili_biyou_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7c0529e186e38e68",
+      "statement": "恢复合作",
+      "annotation_character_ids": [
+        "weisili_biyou_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_95fb12ecfec9b6c4",
+      "statement": "拆除终局",
+      "annotation_character_ids": [
+        "weisili_yile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e7f4caeb331d8af",
+      "statement": "后续与彩虹关系",
+      "annotation_character_ids": [
+        "weisili_mailong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d42d934777441cdb",
+      "statement": "早期关系",
+      "annotation_character_ids": [
+        "weisili_gao_caihong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

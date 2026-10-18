@@ -1,0 +1,36 @@
+{
+  "id": "death_ring",
+  "title": "催命环与许愿误解",
+  "kind": "object",
+  "summary": "引发旧案仇恨与生死解释冲突的阴间器物。",
+  "mechanism": {
+    "text": "《许愿》解释为令灵魂暂时离体并需另一侧处理；并非阴老二个人任意判人生死。",
+    "epistemic_status": "testimony"
+  },
+  "access_conditions": [
+    "器物及相应时段的阴间处理条件"
+  ],
+  "limits": [
+    "受害者与解释者不必接受同一说法",
+    "离体不自动代表不可逆死亡",
+    "终局不默认仍在原持有者手里"
+  ],
+  "last_known_state": "催命环交由李宣宣处理；阴老二失踪，生死未知。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "可写追索、证词对质与责任追究，不用新解释抹去旧案伤害。"
+  },
+  "character_ids": [],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_c3496540924bd169",
+    "evidence_61da283d4f845f8e",
+    "evidence_33b6a0711c5cb6a0",
+    "evidence_14ade03a57573706",
+    "evidence_e099f8d518f7c390"
+  ],
+  "book_ids": [
+    "book_b6cdd6772328"
+  ]
+}

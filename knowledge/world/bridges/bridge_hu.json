@@ -1,0 +1,23 @@
+{
+  "id": "bridge_hu",
+  "title": "胡怀玉与研究所跨书同一性",
+  "kind": "bridge",
+  "series": [
+    "卫斯理系列",
+    "原振侠系列"
+  ],
+  "connection_level": "explicit_crossover",
+  "claim": "《黑白无常》明确称研究所与主持人曾见于《犀照》。",
+  "schema_version": "1.0",
+  "section": "bridges",
+  "evidence_ids": [
+    "evidence_ac7a614eb71390c8",
+    "evidence_d6fd2ba28b19ca8b",
+    "evidence_c25174562708af65",
+    "evidence_be1086ed785b4cc2",
+    "evidence_7ccd6a5fda503fb2"
+  ],
+  "book_ids": [
+    "book_b3303d3266ed"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "issue_foreknowledge",
+  "title": "预见、幻境和未来愿望不是已发生历史",
+  "kind": "issue",
+  "claims": [
+    "神鹰曾在未来幻境出现混合形态，但后来稳定成人不能飞。",
+    "温宝裕提出先头部队即将出发，没有记述成行。"
+  ],
+  "handling": {
+    "epistemic_status": "adaptation",
+    "text": "分别使用 observed、experienced、predicted、planned 和 unknown 状态；不得凭愿景增添现实军队、领地、技能。"
+  },
+  "schema_version": "1.0",
+  "section": "issues",
+  "evidence_ids": [
+    "evidence_c0ea364e1da92276",
+    "evidence_613c8b92ec2ad7ab",
+    "evidence_d90d90f29684c376",
+    "evidence_7efaaf365ec8c345",
+    "evidence_79844f5ea8f52fcc",
+    "evidence_f683362fa39d727c"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da",
+    "book_6e319aaba962",
+    "book_9a4da2ea3ef3"
+  ]
+}

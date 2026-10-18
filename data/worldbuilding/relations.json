@@ -1,0 +1,2457 @@
+[
+  {
+    "id": "before__w_childhood__w_underworld_reveal",
+    "source": "w_childhood",
+    "target": "w_underworld_reveal",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "少年经历在先，成年《将来》才识明声音及组织关系。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/102将来.txt",
+        "start_line": 1846,
+        "end_line": 1855,
+        "supports": "四号携部件离队",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_4"
+        }
+      },
+      {
+        "path": "卫斯理系列/94少年卫斯理.txt",
+        "start_line": 2217,
+        "end_line": 2264,
+        "supports": "误抓、释放、委托与识别限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_4"
+        }
+      },
+      {
+        "path": "卫斯理系列/102将来.txt",
+        "start_line": 1863,
+        "end_line": 1884,
+        "supports": "四号声音、密码与一至三号限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_4"
+        }
+      }
+    ]
+  },
+  {
+    "id": "revealed_by__earth_engineering__w_elder_contact",
+    "source": "earth_engineering",
+    "target": "w_elder_contact",
+    "relation": "revealed_by",
+    "epistemic_status": "testimony",
+    "reason": "远古工程发生与现代得知分开，不以揭露书号给古史排序。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/136行动救星.txt",
+        "start_line": 1216,
+        "end_line": 1249,
+        "supports": "古史及当下说明",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "revealed_by__w_family_past__w_family_recovery",
+    "source": "w_family_past",
+    "target": "w_family_recovery",
+    "relation": "revealed_by",
+    "epistemic_status": "textual_fact",
+    "reason": "调查重建过去，不把回忆中的婚育事件搬到调查当下。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/087继续探险.txt",
+        "start_line": 715,
+        "end_line": 846,
+        "supports": "弟子回忆、时间和灵猴随行",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chen_yuelan"
+        }
+      },
+      {
+        "path": "卫斯理系列/087继续探险.txt",
+        "start_line": 2782,
+        "end_line": 2849,
+        "supports": "夫妻离散原因及误会分析",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chen_yuelan"
+        }
+      },
+      {
+        "path": "卫斯理系列/087继续探险.txt",
+        "start_line": 2937,
+        "end_line": 3038,
+        "supports": "复仇、云一风证词与外孙女",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chen_yuelan"
+        }
+      },
+      {
+        "path": "卫斯理系列/087继续探险.txt",
+        "start_line": 3177,
+        "end_line": 3211,
+        "supports": "儿歌、居所和失踪线索",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chen_yuelan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_family_recovery__w_hongling_choices",
+    "source": "w_family_recovery",
+    "target": "w_hongling_choices",
+    "relation": "before",
+    "epistemic_status": "synthesis",
+    "reason": "家史与亲子关系从追索、相处推进到外婆投影确认；事件状态逐步增加。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/089烈火女.txt",
+        "start_line": 3096,
+        "end_line": 3105,
+        "supports": "保护银猿与母女关系中的成长",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 1048,
+        "end_line": 1049,
+        "supports": "长途行动中的力量与准备",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 3156,
+        "end_line": 3165,
+        "supports": "不携带背心并获得父母尊重",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 3144,
+        "end_line": 3160,
+        "supports": "祖母教用背心及基地设备，主动留下背心，不能主动召祖母",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_hongling_choices__w_miao_contact",
+    "source": "w_hongling_choices",
+    "target": "w_miao_contact",
+    "relation": "before",
+    "epistemic_status": "synthesis",
+    "reason": "家史与亲子关系从追索、相处推进到外婆投影确认；事件状态逐步增加。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/089烈火女.txt",
+        "start_line": 3096,
+        "end_line": 3105,
+        "supports": "保护银猿与母女关系中的成长",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 1048,
+        "end_line": 1049,
+        "supports": "长途行动中的力量与准备",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 3156,
+        "end_line": 3165,
+        "supports": "不携带背心并获得父母尊重",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 3144,
+        "end_line": 3160,
+        "supports": "祖母教用背心及基地设备，主动留下背心，不能主动召祖母",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_underworld_reveal__w_four_negotiation",
+    "source": "w_underworld_reveal",
+    "target": "w_four_negotiation",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "先知小组分离并处理四号纠纷，后期才见思想仪停摆；不把中间所有书纳入总年代。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/105闯祸.txt",
+        "start_line": 2699,
+        "end_line": 2744,
+        "supports": "拘禁、消灭威胁和协商",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_4"
+        }
+      },
+      {
+        "path": "卫斯理系列/105闯祸.txt",
+        "start_line": 2773,
+        "end_line": 2794,
+        "supports": "夫妇独立与纠纷解决",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_4"
+        }
+      },
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1297,
+        "end_line": 1337,
+        "supports": "思想仪停摆、去向和灵魂结局未明",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_four_negotiation__w_underworld_shutdown",
+    "source": "w_four_negotiation",
+    "target": "w_underworld_shutdown",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "先知小组分离并处理四号纠纷，后期才见思想仪停摆；不把中间所有书纳入总年代。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/105闯祸.txt",
+        "start_line": 2699,
+        "end_line": 2744,
+        "supports": "拘禁、消灭威胁和协商",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_4"
+        }
+      },
+      {
+        "path": "卫斯理系列/105闯祸.txt",
+        "start_line": 2773,
+        "end_line": 2794,
+        "supports": "夫妇独立与纠纷解决",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_4"
+        }
+      },
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1297,
+        "end_line": 1337,
+        "supports": "思想仪停摆、去向和灵魂结局未明",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_tomb__w_underworld_shutdown",
+    "source": "w_tomb",
+    "target": "w_underworld_shutdown",
+    "relation": "before",
+    "epistemic_status": "synthesis",
+    "reason": "盗墓者的早期经历先于后来改造与团聚；未给中间每个阶段具体日期。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/056盗墓.txt",
+        "start_line": 4106,
+        "end_line": 4113,
+        "supports": "古物阅读装置与研究态度",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_qi_bai"
+        }
+      },
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 101,
+        "end_line": 101,
+        "supports": "改造后空间通行来源",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_qi_bai"
+        }
+      },
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1306,
+        "end_line": 1349,
+        "supports": "思想仪停机、团聚及主动断讯",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_qi_bai"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_water_reveal__w_quota_research",
+    "source": "w_water_reveal",
+    "target": "w_quota_research",
+    "relation": "before",
+    "epistemic_status": "synthesis",
+    "reason": "先接触水生命，之后由水参与配额研究和接送。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/118洪荒.txt",
+        "start_line": 2254,
+        "end_line": 2259,
+        "supports": "连续生命设想",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_water_life"
+        }
+      },
+      {
+        "path": "卫斯理系列/118洪荒.txt",
+        "start_line": 2549,
+        "end_line": 2597,
+        "supports": "传讯和警告",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_water_life"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 2410,
+        "end_line": 2454,
+        "supports": "感知和干预解释",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_water_life"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 2624,
+        "end_line": 2666,
+        "supports": "未成研究与水路",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_water_life"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_eagle_friend__w_real_illusion",
+    "source": "w_eagle_friend",
+    "target": "w_real_illusion",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "鹰身、幻境经历、成人和成人后须被背负的状态接续。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2630,
+        "end_line": 2648,
+        "supports": "基因调整过程",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2680,
+        "end_line": 2686,
+        "supports": "自愿成人和不能飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/126未来身份.txt",
+        "start_line": 117,
+        "end_line": 153,
+        "supports": "成人后仍通鹰语、须被背飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1415,
+        "end_line": 1521,
+        "supports": "鹰身争执与和解",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1621,
+        "end_line": 1631,
+        "supports": "当时仍可飞行",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2338,
+        "end_line": 2416,
+        "supports": "未来幻境的形态与逃避",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_real_illusion__w_eagle_human",
+    "source": "w_real_illusion",
+    "target": "w_eagle_human",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "鹰身、幻境经历、成人和成人后须被背负的状态接续。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2630,
+        "end_line": 2648,
+        "supports": "基因调整过程",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2680,
+        "end_line": 2686,
+        "supports": "自愿成人和不能飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/126未来身份.txt",
+        "start_line": 117,
+        "end_line": 153,
+        "supports": "成人后仍通鹰语、须被背飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1415,
+        "end_line": 1521,
+        "supports": "鹰身争执与和解",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1621,
+        "end_line": 1631,
+        "supports": "当时仍可飞行",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2338,
+        "end_line": 2416,
+        "supports": "未来幻境的形态与逃避",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_eagle_human__w_eagle_departure",
+    "source": "w_eagle_human",
+    "target": "w_eagle_departure",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "鹰身、幻境经历、成人和成人后须被背负的状态接续。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2630,
+        "end_line": 2648,
+        "supports": "基因调整过程",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2680,
+        "end_line": 2686,
+        "supports": "自愿成人和不能飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/126未来身份.txt",
+        "start_line": 117,
+        "end_line": 153,
+        "supports": "成人后仍通鹰语、须被背飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1415,
+        "end_line": 1521,
+        "supports": "鹰身争执与和解",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1621,
+        "end_line": 1631,
+        "supports": "当时仍可飞行",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2338,
+        "end_line": 2416,
+        "supports": "未来幻境的形态与逃避",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_knowledge_transfer__w_copy_refusal",
+    "source": "w_knowledge_transfer",
+    "target": "w_copy_refusal",
+    "relation": "before",
+    "epistemic_status": "synthesis",
+    "reason": "已有知识转移成果后，另一复制体受体计划仍能被拒绝。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/137乾坤挪移.txt",
+        "start_line": 1394,
+        "end_line": 1405,
+        "supports": "知识与思想的区分及研究保密动机",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_du_liang"
+        }
+      },
+      {
+        "path": "卫斯理系列/140身外化身.txt",
+        "start_line": 1407,
+        "end_line": 1411,
+        "supports": "接受指令是计划前提，被反向指令阻断",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_du_liang"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_elder_contact__w_alliance",
+    "source": "w_elder_contact",
+    "target": "w_alliance",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "温宝裕受到长老人口论影响，终局明确反省并转向自愿远行。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1361,
+        "end_line": 1393,
+        "supports": "对早期思想变化的回顾与当前转向",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_underworld_shutdown__w_alliance",
+    "source": "w_underworld_shutdown",
+    "target": "w_alliance",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "终章按先见停机、回家、来访叙述；停机本身日期仍不明。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1340,
+        "end_line": 1378,
+        "supports": "断讯后回家与温宝裕来访",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_leman__l_beehive",
+    "source": "w_leman",
+    "target": "l_beehive",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "《蜂后》明确说明《后备》秘密曝光后医院迁址，是可靠跨系列锚。",
+    "evidence": [
+      {
+        "path": "亚洲之鹰罗开系列/07蜂后.txt",
+        "start_line": 1133,
+        "end_line": 1135,
+        "supports": "直接回指后备",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_rhino__y_black_white",
+    "source": "w_rhino",
+    "target": "y_black_white",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "《黑白无常》直接回指《犀照》研究所和主持人。",
+    "evidence": [
+      {
+        "path": "原振侠系列/25.黑白无常.txt",
+        "start_line": 1,
+        "end_line": 145,
+        "supports": "海洋生物学者与调查开端",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hu_huaiyu"
+        }
+      },
+      {
+        "path": "原振侠系列/25.黑白无常.txt",
+        "start_line": 2639,
+        "end_line": 2775,
+        "supports": "装置真相与研究边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hu_huaiyu"
+        }
+      },
+      {
+        "path": "原振侠系列/25.黑白无常.txt",
+        "start_line": 85,
+        "end_line": 107,
+        "supports": "明确跨书指认",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hu_huaiyu"
+        }
+      },
+      {
+        "path": "原振侠系列/25.黑白无常.txt",
+        "start_line": 291,
+        "end_line": 295,
+        "supports": "后期仍有对自身感知的疑虑",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hu_huaiyu"
+        }
+      },
+      {
+        "path": "原振侠系列/25.黑白无常.txt",
+        "start_line": 2255,
+        "end_line": 2257,
+        "supports": "合格潜水及实际出海",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hu_huaiyu"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__y_heisha__y_body_rescue",
+    "source": "y_heisha",
+    "target": "y_body_rescue",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "受罚的黑纱后来在救援中牺牲并留下身体。",
+    "evidence": [
+      {
+        "path": "原振侠系列/17.幽灵星座.txt",
+        "start_line": 7777,
+        "end_line": 7827,
+        "supports": "放弃任务与理解爱情",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_heisha"
+        }
+      },
+      {
+        "path": "原振侠系列/17.幽灵星座.txt",
+        "start_line": 8073,
+        "end_line": 8157,
+        "supports": "惩罚与形态",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_heisha"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 5171,
+        "end_line": 5301,
+        "supports": "消失与接送方案",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_heisha"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 5473,
+        "end_line": 5519,
+        "supports": "低温与感情",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_heisha"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 6115,
+        "end_line": 6129,
+        "supports": "身体的后来使用者",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_heisha"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__y_maxian_origin__y_blood_spell",
+    "source": "y_maxian_origin",
+    "target": "y_blood_spell",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+    "evidence": [
+      {
+        "path": "原振侠系列/13.巫艳.txt",
+        "start_line": 3105,
+        "end_line": 3133,
+        "supports": "收养、外貌及巫术来历争论",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/16.大犯罪者.txt",
+        "start_line": 5947,
+        "end_line": 5977,
+        "supports": "实验身世和秘密",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/23.血的诱惑.txt",
+        "start_line": 3087,
+        "end_line": 3153,
+        "supports": "血魇条件与作用",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/24.催命情圣.txt",
+        "start_line": 8093,
+        "end_line": 8157,
+        "supports": "主动解咒后的反噬与求治",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/27.假太阳.txt",
+        "start_line": 2827,
+        "end_line": 2905,
+        "supports": "脑活动恢复增强",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/32.天皇巨星.txt",
+        "start_line": 2791,
+        "end_line": 2863,
+        "supports": "搜寻仍有边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__y_blood_spell__y_spell_recoil",
+    "source": "y_blood_spell",
+    "target": "y_spell_recoil",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+    "evidence": [
+      {
+        "path": "原振侠系列/13.巫艳.txt",
+        "start_line": 3105,
+        "end_line": 3133,
+        "supports": "收养、外貌及巫术来历争论",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/16.大犯罪者.txt",
+        "start_line": 5947,
+        "end_line": 5977,
+        "supports": "实验身世和秘密",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/23.血的诱惑.txt",
+        "start_line": 3087,
+        "end_line": 3153,
+        "supports": "血魇条件与作用",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/24.催命情圣.txt",
+        "start_line": 8093,
+        "end_line": 8157,
+        "supports": "主动解咒后的反噬与求治",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/27.假太阳.txt",
+        "start_line": 2827,
+        "end_line": 2905,
+        "supports": "脑活动恢复增强",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/32.天皇巨星.txt",
+        "start_line": 2791,
+        "end_line": 2863,
+        "supports": "搜寻仍有边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__y_spell_recoil__y_maxian_recovery",
+    "source": "y_spell_recoil",
+    "target": "y_maxian_recovery",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+    "evidence": [
+      {
+        "path": "原振侠系列/13.巫艳.txt",
+        "start_line": 3105,
+        "end_line": 3133,
+        "supports": "收养、外貌及巫术来历争论",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/16.大犯罪者.txt",
+        "start_line": 5947,
+        "end_line": 5977,
+        "supports": "实验身世和秘密",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/23.血的诱惑.txt",
+        "start_line": 3087,
+        "end_line": 3153,
+        "supports": "血魇条件与作用",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/24.催命情圣.txt",
+        "start_line": 8093,
+        "end_line": 8157,
+        "supports": "主动解咒后的反噬与求治",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/27.假太阳.txt",
+        "start_line": 2827,
+        "end_line": 2905,
+        "supports": "脑活动恢复增强",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/32.天皇巨星.txt",
+        "start_line": 2791,
+        "end_line": 2863,
+        "supports": "搜寻仍有边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__y_maxian_recovery__y_disappearance",
+    "source": "y_maxian_recovery",
+    "target": "y_disappearance",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+    "evidence": [
+      {
+        "path": "原振侠系列/13.巫艳.txt",
+        "start_line": 3105,
+        "end_line": 3133,
+        "supports": "收养、外貌及巫术来历争论",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/16.大犯罪者.txt",
+        "start_line": 5947,
+        "end_line": 5977,
+        "supports": "实验身世和秘密",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/23.血的诱惑.txt",
+        "start_line": 3087,
+        "end_line": 3153,
+        "supports": "血魇条件与作用",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/24.催命情圣.txt",
+        "start_line": 8093,
+        "end_line": 8157,
+        "supports": "主动解咒后的反噬与求治",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/27.假太阳.txt",
+        "start_line": 2827,
+        "end_line": 2905,
+        "supports": "脑活动恢复增强",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/32.天皇巨星.txt",
+        "start_line": 2791,
+        "end_line": 2863,
+        "supports": "搜寻仍有边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__y_body_rescue__y_disappearance",
+    "source": "y_body_rescue",
+    "target": "y_disappearance",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "原振侠终局身体沿用黑暗天使后的复制体，失踪在后。",
+    "evidence": [
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 5289,
+        "end_line": 5405,
+        "supports": "灵魂救援、复制体及冒险动机",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_yuanzhenxia"
+        }
+      },
+      {
+        "path": "原振侠系列/32.天皇巨星.txt",
+        "start_line": 2731,
+        "end_line": 2865,
+        "supports": "失踪终局和亲友的未知",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_yuanzhenxia"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__y_liuxu_rescue__w_quota_research",
+    "source": "y_liuxu_rescue",
+    "target": "w_quota_research",
+    "relation": "before",
+    "epistemic_status": "synthesis",
+    "reason": "康维后期关心配额是为了与其相伴的柳絮，故救治及关系建立在前。",
+    "evidence": [
+      {
+        "path": "原振侠系列/29.人鬼疑云.txt",
+        "start_line": 1976,
+        "end_line": 1980,
+        "supports": "可干预感情信号的伦理问题",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 976,
+        "end_line": 978,
+        "supports": "为柳絮而关注",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 1080,
+        "end_line": 1083,
+        "supports": "不能保证阻止",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 2457,
+        "end_line": 2460,
+        "supports": "无水机器的界限",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__l_refusal__l_doll",
+    "source": "l_refusal",
+    "target": "l_doll",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "组织控制、思想玩偶、天使牺牲及受创后的脱困接续。",
+    "evidence": [
+      {
+        "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+        "start_line": 222,
+        "end_line": 227,
+        "supports": "拒绝杀戮指示",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+        "start_line": 746,
+        "end_line": 766,
+        "supports": "麻醉弱点与脑训练",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/02妖偶.txt",
+        "start_line": 1300,
+        "end_line": 1315,
+        "supports": "有条件反制复制人",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/03魔像.txt",
+        "start_line": 1252,
+        "end_line": 1268,
+        "supports": "天使牺牲",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/04怪头.txt",
+        "start_line": 1287,
+        "end_line": 1346,
+        "supports": "虚弱与合作脱困",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_time_god"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__l_doll__l_angel_loss",
+    "source": "l_doll",
+    "target": "l_angel_loss",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "组织控制、思想玩偶、天使牺牲及受创后的脱困接续。",
+    "evidence": [
+      {
+        "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+        "start_line": 222,
+        "end_line": 227,
+        "supports": "拒绝杀戮指示",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+        "start_line": 746,
+        "end_line": 766,
+        "supports": "麻醉弱点与脑训练",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/02妖偶.txt",
+        "start_line": 1300,
+        "end_line": 1315,
+        "supports": "有条件反制复制人",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/03魔像.txt",
+        "start_line": 1252,
+        "end_line": 1268,
+        "supports": "天使牺牲",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/04怪头.txt",
+        "start_line": 1287,
+        "end_line": 1346,
+        "supports": "虚弱与合作脱困",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_time_god"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__l_angel_loss__l_enemy_alliance",
+    "source": "l_angel_loss",
+    "target": "l_enemy_alliance",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "组织控制、思想玩偶、天使牺牲及受创后的脱困接续。",
+    "evidence": [
+      {
+        "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+        "start_line": 222,
+        "end_line": 227,
+        "supports": "拒绝杀戮指示",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+        "start_line": 746,
+        "end_line": 766,
+        "supports": "麻醉弱点与脑训练",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/02妖偶.txt",
+        "start_line": 1300,
+        "end_line": 1315,
+        "supports": "有条件反制复制人",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/03魔像.txt",
+        "start_line": 1252,
+        "end_line": 1268,
+        "supports": "天使牺牲",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/04怪头.txt",
+        "start_line": 1287,
+        "end_line": 1346,
+        "supports": "虚弱与合作脱困",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_time_god"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__n_empire__y_body_rescue",
+    "source": "n_empire",
+    "target": "y_body_rescue",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "早期帝国与伴侣经历在前；黑暗天使换身是夜归飞行及后续神话经历的身体条件。",
+    "evidence": [
+      {
+        "path": "年轻人/04尺蠖 .txt",
+        "start_line": 95,
+        "end_line": 111,
+        "supports": "报复与早期关系",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/05大宝藏.txt",
+        "start_line": 1008,
+        "end_line": 1026,
+        "supports": "对财富和关系的选择",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 5179,
+        "end_line": 5237,
+        "supports": "黑纱牺牲，奥丽卡获得身体",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 6115,
+        "end_line": 6129,
+        "supports": "黑纱·奥丽卡自称",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/09夜归.txt",
+        "start_line": 174,
+        "end_line": 174,
+        "supports": "飞行来源",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/09夜归.txt",
+        "start_line": 1379,
+        "end_line": 1389,
+        "supports": "花时间解读记录",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/13神话世界.txt",
+        "start_line": 1219,
+        "end_line": 1279,
+        "supports": "利用潘的畏惧与投影条件返回",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/13神话世界.txt",
+        "start_line": 932,
+        "end_line": 1008,
+        "supports": "新身体与年轻人在异界返回上的差别",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__y_body_rescue__n_new_body",
+    "source": "y_body_rescue",
+    "target": "n_new_body",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "早期帝国与伴侣经历在前；黑暗天使换身是夜归飞行及后续神话经历的身体条件。",
+    "evidence": [
+      {
+        "path": "年轻人/04尺蠖 .txt",
+        "start_line": 95,
+        "end_line": 111,
+        "supports": "报复与早期关系",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/05大宝藏.txt",
+        "start_line": 1008,
+        "end_line": 1026,
+        "supports": "对财富和关系的选择",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 5179,
+        "end_line": 5237,
+        "supports": "黑纱牺牲，奥丽卡获得身体",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 6115,
+        "end_line": 6129,
+        "supports": "黑纱·奥丽卡自称",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/09夜归.txt",
+        "start_line": 174,
+        "end_line": 174,
+        "supports": "飞行来源",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/09夜归.txt",
+        "start_line": 1379,
+        "end_line": 1389,
+        "supports": "花时间解读记录",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/13神话世界.txt",
+        "start_line": 1219,
+        "end_line": 1279,
+        "supports": "利用潘的畏惧与投影条件返回",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/13神话世界.txt",
+        "start_line": 932,
+        "end_line": 1008,
+        "supports": "新身体与年轻人在异界返回上的差别",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__n_new_body__n_myth_return",
+    "source": "n_new_body",
+    "target": "n_myth_return",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "早期帝国与伴侣经历在前；黑暗天使换身是夜归飞行及后续神话经历的身体条件。",
+    "evidence": [
+      {
+        "path": "年轻人/04尺蠖 .txt",
+        "start_line": 95,
+        "end_line": 111,
+        "supports": "报复与早期关系",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/05大宝藏.txt",
+        "start_line": 1008,
+        "end_line": 1026,
+        "supports": "对财富和关系的选择",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 5179,
+        "end_line": 5237,
+        "supports": "黑纱牺牲，奥丽卡获得身体",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 6115,
+        "end_line": 6129,
+        "supports": "黑纱·奥丽卡自称",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/09夜归.txt",
+        "start_line": 174,
+        "end_line": 174,
+        "supports": "飞行来源",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/09夜归.txt",
+        "start_line": 1379,
+        "end_line": 1389,
+        "supports": "花时间解读记录",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/13神话世界.txt",
+        "start_line": 1219,
+        "end_line": 1279,
+        "supports": "利用潘的畏惧与投影条件返回",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/13神话世界.txt",
+        "start_line": 932,
+        "end_line": 1008,
+        "supports": "新身体与年轻人在异界返回上的差别",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__m_watch__m_wedding",
+    "source": "m_watch",
+    "target": "m_wedding",
+    "relation": "before",
+    "epistemic_status": "synthesis",
+    "reason": "高翔从早期交易关系转入警方合作，婚姻为后来阶段；并非只由篇号推断。",
+    "evidence": [
+      {
+        "path": "木兰花全集/01巧夺死光表.txt",
+        "start_line": 3206,
+        "end_line": 3222,
+        "supports": "骗局终局与转向",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/50蜜月奇遇.txt",
+        "start_line": 2,
+        "end_line": 16,
+        "supports": "结婚",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/50蜜月奇遇.txt",
+        "start_line": 1044,
+        "end_line": 1082,
+        "supports": "床单救木",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__m_ma_loss__m_marriage_swap",
+    "source": "m_ma_loss",
+    "target": "m_marriage_swap",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "穆秀珍先失去马超文，后与云四风结婚；双方关系接续。",
+    "evidence": [
+      {
+        "path": "木兰花全集/22天外恩仇.txt",
+        "start_line": 14,
+        "end_line": 98,
+        "supports": "马超文遇难",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/22天外恩仇.txt",
+        "start_line": 180,
+        "end_line": 246,
+        "supports": "慰问与重新行动",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/22天外恩仇.txt",
+        "start_line": 2694,
+        "end_line": 2740,
+        "supports": "纪念马与接受陪伴",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/39失踪新娘.txt",
+        "start_line": 208,
+        "end_line": 234,
+        "supports": "结婚",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__m_annie_family__m_marriage_swap",
+    "source": "m_annie_family",
+    "target": "m_marriage_swap",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "入家后的轮椅阶段参与假新娘案，猎头禁地后恢复行走，后期学习和独立。",
+    "evidence": [
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 2,
+        "end_line": 56,
+        "supports": "初遇救援",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 1164,
+        "end_line": 1176,
+        "supports": "家庭与维护父亲",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 2602,
+        "end_line": 2638,
+        "supports": "以钻换人及加入家庭",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/40怪新郎.txt",
+        "start_line": 1594,
+        "end_line": 1670,
+        "supports": "识假和窃听",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/40怪新郎.txt",
+        "start_line": 2580,
+        "end_line": 2612,
+        "supports": "记短停找到巢穴",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/44猎头禁地.txt",
+        "start_line": 2440,
+        "end_line": 2508,
+        "supports": "恢复与原因未知",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/44猎头禁地.txt",
+        "start_line": 2742,
+        "end_line": 2746,
+        "supports": "机场独自行走",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 20,
+        "end_line": 46,
+        "supports": "大学课程与不盲闯火场",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1876,
+        "end_line": 1878,
+        "supports": "治疗苏醒和脑震荡限度",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1916,
+        "end_line": 1938,
+        "supports": "清醒与先推药液换气",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__m_marriage_swap__m_annie_walks",
+    "source": "m_marriage_swap",
+    "target": "m_annie_walks",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "入家后的轮椅阶段参与假新娘案，猎头禁地后恢复行走，后期学习和独立。",
+    "evidence": [
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 2,
+        "end_line": 56,
+        "supports": "初遇救援",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 1164,
+        "end_line": 1176,
+        "supports": "家庭与维护父亲",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 2602,
+        "end_line": 2638,
+        "supports": "以钻换人及加入家庭",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/40怪新郎.txt",
+        "start_line": 1594,
+        "end_line": 1670,
+        "supports": "识假和窃听",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/40怪新郎.txt",
+        "start_line": 2580,
+        "end_line": 2612,
+        "supports": "记短停找到巢穴",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/44猎头禁地.txt",
+        "start_line": 2440,
+        "end_line": 2508,
+        "supports": "恢复与原因未知",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/44猎头禁地.txt",
+        "start_line": 2742,
+        "end_line": 2746,
+        "supports": "机场独自行走",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 20,
+        "end_line": 46,
+        "supports": "大学课程与不盲闯火场",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1876,
+        "end_line": 1878,
+        "supports": "治疗苏醒和脑震荡限度",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1916,
+        "end_line": 1938,
+        "supports": "清醒与先推药液换气",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__m_annie_walks__m_annie_independent",
+    "source": "m_annie_walks",
+    "target": "m_annie_independent",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "入家后的轮椅阶段参与假新娘案，猎头禁地后恢复行走，后期学习和独立。",
+    "evidence": [
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 2,
+        "end_line": 56,
+        "supports": "初遇救援",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 1164,
+        "end_line": 1176,
+        "supports": "家庭与维护父亲",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 2602,
+        "end_line": 2638,
+        "supports": "以钻换人及加入家庭",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/40怪新郎.txt",
+        "start_line": 1594,
+        "end_line": 1670,
+        "supports": "识假和窃听",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/40怪新郎.txt",
+        "start_line": 2580,
+        "end_line": 2612,
+        "supports": "记短停找到巢穴",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/44猎头禁地.txt",
+        "start_line": 2440,
+        "end_line": 2508,
+        "supports": "恢复与原因未知",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/44猎头禁地.txt",
+        "start_line": 2742,
+        "end_line": 2746,
+        "supports": "机场独自行走",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 20,
+        "end_line": 46,
+        "supports": "大学课程与不盲闯火场",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1876,
+        "end_line": 1878,
+        "supports": "治疗苏醒和脑震荡限度",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1916,
+        "end_line": 1938,
+        "supports": "清醒与先推药液换气",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__m_blind__m_wedding",
+    "source": "m_blind",
+    "target": "m_wedding",
+    "relation": "before",
+    "epistemic_status": "synthesis",
+    "reason": "眼伤恢复发生于后续正常行动和结婚之前，按人物状态约束。",
+    "evidence": [
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 42,
+        "end_line": 76,
+        "supports": "失明心态和听觉推断",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 946,
+        "end_line": 1118,
+        "supports": "误导与器械限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 2370,
+        "end_line": 2396,
+        "supports": "接受方保护",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 2766,
+        "end_line": 2770,
+        "supports": "手术复明前景",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/50蜜月奇遇.txt",
+        "start_line": 2,
+        "end_line": 16,
+        "supports": "婚姻",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/50蜜月奇遇.txt",
+        "start_line": 1044,
+        "end_line": 1082,
+        "supports": "力竭获救",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/50蜜月奇遇.txt",
+        "start_line": 2384,
+        "end_line": 2400,
+        "supports": "海上获救幸运与生理限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__f_eagle_origin__w_real_illusion",
+    "source": "f_eagle_origin",
+    "target": "w_real_illusion",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "金维在后书明确重述孤峰旧经历，后来与成人神鹰再赴孤峰。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 447,
+        "end_line": 490,
+        "supports": "重述孤峰经历，与早书结局存在差异。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1279,
+        "end_line": 1327,
+        "supports": "自制哨子、有限交流、不能由小鹰载人与半日山路。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1843,
+        "end_line": 1847,
+        "supports": "黑暗中可看清陈设。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2022,
+        "end_line": 2102,
+        "supports": "静坐与进入幻境的过程。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2156,
+        "end_line": 2234,
+        "supports": "掌心接触共同入境及精神远游推测。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2489,
+        "end_line": 2501,
+        "supports": "持续一月尝试不能再次进入。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/126未来身份.txt",
+        "start_line": 95,
+        "end_line": 153,
+        "supports": "神鹰更完全的鹰语及与金维同乘大鹰赴孤峰。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      }
+    ]
+  },
+  {
+    "id": "before__w_real_illusion__w_eagle_departure",
+    "source": "w_real_illusion",
+    "target": "w_eagle_departure",
+    "relation": "before",
+    "epistemic_status": "textual_fact",
+    "reason": "金维在后书明确重述孤峰旧经历，后来与成人神鹰再赴孤峰。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 447,
+        "end_line": 490,
+        "supports": "重述孤峰经历，与早书结局存在差异。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1279,
+        "end_line": 1327,
+        "supports": "自制哨子、有限交流、不能由小鹰载人与半日山路。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1843,
+        "end_line": 1847,
+        "supports": "黑暗中可看清陈设。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2022,
+        "end_line": 2102,
+        "supports": "静坐与进入幻境的过程。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2156,
+        "end_line": 2234,
+        "supports": "掌心接触共同入境及精神远游推测。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2489,
+        "end_line": 2501,
+        "supports": "持续一月尝试不能再次进入。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/126未来身份.txt",
+        "start_line": 95,
+        "end_line": 153,
+        "supports": "神鹰更完全的鹰语及与金维同乘大鹰赴孤峰。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      }
+    ]
+  }
+]

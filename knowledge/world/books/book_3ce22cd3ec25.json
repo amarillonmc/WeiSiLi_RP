@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0",
+  "id": "book_3ce22cd3ec25",
+  "title": "失魂",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/11.失魂.txt",
+  "file": "books/book_3ce22cd3ec25.json",
+  "inherited_fact_count": 10,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "8026c89f19e32652c09d52356b75ac90dd14f02aa2dc9e88ed92f67caf216a1d",
+  "source_lines": 3205,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查与援救"
+    },
+    {
+      "name": "黄绢",
+      "card_id": "yuanzhenxia_huang_juan",
+      "role": "重要配角",
+      "basis": "组织救援"
+    },
+    {
+      "name": "鲁大发",
+      "card_id": "yuanzhenxia_lu_dafa",
+      "role": "跨书主要人物",
+      "basis": "核心相聚、照护或阻止线"
+    },
+    {
+      "name": "玉宝",
+      "card_id": "yuanzhenxia_yu_bao",
+      "role": "单书主角",
+      "basis": "核心相聚、照护或阻止线"
+    },
+    {
+      "name": "鲁旺财",
+      "card_id": "yuanzhenxia_lu_wangcai",
+      "role": "重要配角",
+      "basis": "核心相聚、照护或阻止线"
+    },
+    {
+      "name": "玉宝所属的土王",
+      "card_id": "yuanzhenxia_yubao_king",
+      "role": "反派",
+      "basis": "核心相聚、照护或阻止线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "十七号女侍卫",
+      "reason": "一次性泄密执行者，未形成独立叙事线"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_fa39847e844e2af4",
+      "statement": "少年相遇",
+      "annotation_character_ids": [
+        "yuanzhenxia_lu_dafa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_57ace09b4488a408",
+      "statement": "宫廷经历与相见",
+      "annotation_character_ids": [
+        "yuanzhenxia_yu_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ab21d388a931af12",
+      "statement": "资源威胁与反救援",
+      "annotation_character_ids": [
+        "yuanzhenxia_yubao_king"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fc2f8d50439d0665",
+      "statement": "收买泄密",
+      "annotation_character_ids": [
+        "yuanzhenxia_yubao_king"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_44c918f6cc81f2a6",
+      "statement": "离体及推测的边界",
+      "annotation_character_ids": [
+        "yuanzhenxia_lu_dafa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d67866577abad1f",
+      "statement": "救援失败",
+      "annotation_character_ids": [
+        "yuanzhenxia_yu_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7e1fc2e97a10d4a",
+      "statement": "虐待和终局失控",
+      "annotation_character_ids": [
+        "yuanzhenxia_yubao_king"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_03c6ab83dce6cff4",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_lu_dafa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_58537d5cc0cf452a",
+      "statement": "灵魂终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_yu_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8230e09b2a46377f",
+      "statement": "共同离体告别与肉身另行护理",
+      "annotation_character_ids": [
+        "yuanzhenxia_lu_dafa",
+        "yuanzhenxia_yu_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

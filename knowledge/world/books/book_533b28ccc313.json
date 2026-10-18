@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "id": "book_533b28ccc313",
+  "title": "蜂后",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/07蜂后.txt",
+  "file": "books/book_533b28ccc313.json",
+  "inherited_fact_count": 7,
+  "curated_links": {
+    "rules": [
+      "rule_hidden_world"
+    ],
+    "entities": [
+      "leman",
+      "extraordinary_exchange",
+      "leman_copy"
+    ],
+    "events": [
+      "w_leman",
+      "l_beehive"
+    ],
+    "relations": [
+      "before__w_leman__l_beehive"
+    ],
+    "arcs": [
+      "arc_gaoda"
+    ],
+    "issues": [
+      "issue_copies"
+    ],
+    "bridges": [
+      "bridge_leman"
+    ]
+  },
+  "direct_source_review": true,
+  "source_sha256": "5ebaf946c9d6c675fdec8c8be34ba0071a3af2aa7bc5c92823f003c0078c59d1",
+  "source_lines": 1166,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "高达",
+      "card_id": "adventure_gaoda",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "高达复制体",
+      "card_id": "adventure_gaoda_copy",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "蜂后",
+      "card_id": "adventure_fenghou",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "水晶妙人儿",
+      "card_id": "adventure_shuijing",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "勒曼医院",
+      "card_id": "weisili_leman_hospital",
+      "role": "阶段性对立者",
+      "basis": "具有本书实质行动或主线作用"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_5872d0d75997e1a6",
+      "statement": "组织结构与安全感",
+      "annotation_character_ids": [
+        "adventure_fenghou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_462b198d90aac33c",
+      "statement": "爱情来源、复制与抗命救人",
+      "annotation_character_ids": [
+        "adventure_gaoda_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fbce1282533295ea",
+      "statement": "复制人的爱情与离去",
+      "annotation_character_ids": [
+        "adventure_fenghou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b2fb2e558232e286",
+      "statement": "原本与复制体爱情、行动和终局分开",
+      "annotation_character_ids": [
+        "adventure_gaoda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e5fd3818030e108b",
+      "statement": "非常物品交易会、高达复制体与植入命令遭抗拒",
+      "annotation_character_ids": [
+        "weisili_leman_hospital"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7a061b42e05a83fa",
+      "statement": "原体与复制体分离终局",
+      "annotation_character_ids": [
+        "adventure_gaoda_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_81eb79ef4a469738",
+      "statement": "与高达及罗开关系",
+      "annotation_character_ids": [
+        "adventure_shui_hong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

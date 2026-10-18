@@ -1,0 +1,217 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f4ea5e801b15",
+  "title": "未来身份",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/126未来身份.txt",
+  "file": "books/book_f4ea5e801b15.json",
+  "inherited_fact_count": 9,
+  "curated_links": {
+    "rules": [
+      "rule_growth"
+    ],
+    "events": [
+      "w_eagle_departure"
+    ],
+    "relations": [
+      "before__w_eagle_friend__w_real_illusion",
+      "before__w_real_illusion__w_eagle_human",
+      "before__w_eagle_human__w_eagle_departure",
+      "before__f_eagle_origin__w_real_illusion",
+      "before__w_real_illusion__w_eagle_departure"
+    ],
+    "arcs": [
+      "arc_hongling",
+      "arc_shenying",
+      "arc_jinwei"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "1724f940e2703308b4a116e593e429ebe41d136fb1c4ea2b5f5fc9b11bc1bb83",
+  "source_lines": 2609,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "参与调查并修正前案解释"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "质疑解释并推动查证"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "发现容器、参与辨认及调查"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "调查器物及接触万"
+    },
+    {
+      "name": "何艳容",
+      "card_id": "weisili_he_yanrong",
+      "role": "主角",
+      "basis": "身体变化和串谋、关系改变"
+    },
+    {
+      "name": "冒名万",
+      "card_id": "weisili_wan_impostor",
+      "role": "反派",
+      "basis": "归来骗局及最终身份限制"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "重要配角",
+      "basis": "海上讨论与同行"
+    },
+    {
+      "name": "金维",
+      "card_id": "adventure_jinwei",
+      "role": "重要配角",
+      "basis": "带鹰会面并带神鹰探查"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "重要配角",
+      "basis": "以鹰语交流后离去"
+    },
+    {
+      "name": "温妈妈",
+      "card_id": "weisili_wen_mama",
+      "role": "重要配角",
+      "basis": "为万夫人强行牵线"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "接待与误解、送走温妈妈"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "追查何去向和体重变化"
+    },
+    {
+      "name": "张泰丰",
+      "card_id": "weisili_zhang_taifeng",
+      "role": "重要配角",
+      "basis": "尊重濒死者请求并联络卫"
+    },
+    {
+      "name": "大羊鹰",
+      "card_id": "adventure_daying",
+      "role": "重要配角",
+      "basis": "124重述孤峰身份；126与成人神鹰以鹰语沟通，载金维和神鹰去山顶"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "借身的无名女吸毒者",
+      "reason": "以濒死宿主出现，关键对话属于冒名万；未有独立人格行动足以主卡"
+    },
+    {
+      "name": "陈医生与护士",
+      "reason": "一次医疗协助，陈仅说曾为原助手，未确证其他同姓医生身份"
+    },
+    {
+      "name": "原万良生",
+      "reason": "前案及假冒对象；本篇没有被确认为原本人之新行动"
+    },
+    {
+      "name": "亮声",
+      "reason": "开篇回述未能复制成精的方法，后续主要工作另在127记录"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_5bb402bbf1f569d5",
+      "statement": "三米左右站高、鹰语、不同于神鹰及同时负重两人离船。",
+      "annotation_character_ids": [
+        "adventure_daying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c14134b6688b8d70",
+      "statement": "神鹰更完全的鹰语及与金维同乘大鹰赴孤峰。",
+      "annotation_character_ids": [
+        "adventure_jinwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_53954a717fce6da5",
+      "statement": "成人后仍通鹰语、须被背飞",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9ff3b2e7801e1efa",
+      "statement": "亲历交流与自认沟通边界",
+      "annotation_character_ids": [
+        "weisili_hong_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_87742c5fd00413b6",
+      "statement": "不舍而尊重离去的选择",
+      "annotation_character_ids": [
+        "weisili_hong_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2c59116527508f78",
+      "statement": "借温妈妈牵线及社交地位动机",
+      "annotation_character_ids": [
+        "weisili_he_yanrong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa6967ae6c9dfbfc",
+      "statement": "回应濒死者请求",
+      "annotation_character_ids": [
+        "weisili_zhang_taifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71fcbe072aba36b5",
+      "statement": "安慰与守候",
+      "annotation_character_ids": [
+        "weisili_zhang_taifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e434ce57ad481825",
+      "statement": "身体变化、减肥说明及开始恋爱",
+      "annotation_character_ids": [
+        "weisili_he_yanrong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

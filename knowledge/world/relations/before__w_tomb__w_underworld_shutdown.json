@@ -1,0 +1,20 @@
+{
+  "id": "before__w_tomb__w_underworld_shutdown",
+  "source": "w_tomb",
+  "target": "w_underworld_shutdown",
+  "relation": "before",
+  "epistemic_status": "synthesis",
+  "reason": "盗墓者的早期经历先于后来改造与团聚；未给中间每个阶段具体日期。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "盗墓者的早期经历先于后来改造与团聚；未给中间每个阶段具体日期。",
+  "evidence_ids": [
+    "evidence_46bc026fbd5c7506",
+    "evidence_730f9441c91451fa",
+    "evidence_92b6dc6cb47171c4"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da",
+    "book_aa5d20a2593d"
+  ]
+}

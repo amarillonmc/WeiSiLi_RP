@@ -1,0 +1,27 @@
+{
+  "id": "y_heisha",
+  "title": "黑纱违背任务与受罚",
+  "kind": "event",
+  "summary": "黑纱对感情的理解与采集任务冲突，背离任务后受到惩罚。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《幽灵星座》，先于《黑暗天使》的救援和牺牲。",
+    "narrative_layer": "present"
+  },
+  "state_before": "使者受任务体系约束。",
+  "state_after": "黑纱陷入新的受罚状态，人与使者的关系不再只是研究关系。",
+  "knowledge_boundary": "她的个人选择不代表全部采集使者都已改变目标。",
+  "character_ids": [
+    "yuanzhenxia_heisha"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_54e6041b00751529",
+    "evidence_ee4464a82b653c4e"
+  ],
+  "book_ids": [
+    "book_4b64c28681b2"
+  ]
+}

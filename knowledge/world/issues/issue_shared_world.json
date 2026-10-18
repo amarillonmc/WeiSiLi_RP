@@ -1,0 +1,17 @@
+{
+  "id": "issue_shared_world",
+  "title": "统一世界是项目前提，不是九系列已经互证",
+  "kind": "issue",
+  "claims": [
+    "直接串场和身份回指可以建立局部连接。",
+    "高斯、鬼话并入共同世界主要来自本次整合假设。"
+  ],
+  "handling": {
+    "epistemic_status": "adaptation",
+    "text": "使用同一地球和兼容的日常制度；没有证据时不虚构共同幕后主脑、全民知情或主角曾经会面。"
+  },
+  "schema_version": "1.0",
+  "section": "issues",
+  "evidence_ids": [],
+  "book_ids": []
+}

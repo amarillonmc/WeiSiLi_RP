@@ -1,0 +1,21 @@
+{
+  "id": "before__m_ma_loss__m_marriage_swap",
+  "source": "m_ma_loss",
+  "target": "m_marriage_swap",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "穆秀珍先失去马超文，后与云四风结婚；双方关系接续。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "穆秀珍先失去马超文，后与云四风结婚；双方关系接续。",
+  "evidence_ids": [
+    "evidence_a2eb02b3e1f9ba61",
+    "evidence_ffbe897bdb029d1a",
+    "evidence_f81ae344e6f51791",
+    "evidence_1e001eaf18c344d5"
+  ],
+  "book_ids": [
+    "book_d1e263538229",
+    "book_d891efd52524"
+  ]
+}

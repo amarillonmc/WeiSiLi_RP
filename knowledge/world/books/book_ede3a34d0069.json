@@ -1,0 +1,205 @@
+{
+  "schema_version": "1.0",
+  "id": "book_ede3a34d0069",
+  "title": "将来",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/102将来.txt",
+  "file": "books/book_ede3a34d0069.json",
+  "inherited_fact_count": 9,
+  "curated_links": {
+    "rules": [
+      "rule_local_mechanisms",
+      "rule_relative_time"
+    ],
+    "entities": [
+      "underworld"
+    ],
+    "events": [
+      "w_underworld_reveal"
+    ],
+    "relations": [
+      "before__w_childhood__w_underworld_reveal"
+    ],
+    "issues": [
+      "issue_nature_gods"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "1084f9541690fd96c10731cd079b8419ed309a760377021d7a010a404d315122",
+  "source_lines": 2904,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "实际会面、通讯或技术行动"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "实际会面、通讯或技术行动"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "实际会面、通讯或技术行动"
+    },
+    {
+      "name": "李宣宣",
+      "card_id": "weisili_li_xuanxuan",
+      "role": "重要配角",
+      "basis": "实际会面、通讯或技术行动"
+    },
+    {
+      "name": "狄可",
+      "card_id": "weisili_di_ke",
+      "role": "重要配角",
+      "basis": "实际会面、通讯或技术行动"
+    },
+    {
+      "name": "伦三德",
+      "card_id": "weisili_lun_sande",
+      "role": "重要配角",
+      "basis": "实际会面、通讯或技术行动"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "重要配角",
+      "basis": "实际会面、通讯或技术行动"
+    },
+    {
+      "name": "阴间一号",
+      "card_id": "weisili_yin_1",
+      "role": "重要配角",
+      "basis": "实际会面、通讯或技术行动"
+    },
+    {
+      "name": "阴间二号",
+      "card_id": "weisili_yin_2",
+      "role": "重要配角",
+      "basis": "实际会面、通讯或技术行动"
+    },
+    {
+      "name": "阴间三号",
+      "card_id": "weisili_yin_3",
+      "role": "重要配角",
+      "basis": "实际会面、通讯或技术行动"
+    },
+    {
+      "name": "阴间四号",
+      "card_id": "weisili_yin_4",
+      "role": "重要配角",
+      "basis": "实际会面、通讯或技术行动"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "原振侠、黄绢、海棠、玛仙",
+      "reason": "画像、记忆和既往经历中的人物，本书无新身体登场。"
+    },
+    {
+      "name": "王天兵与卫七",
+      "reason": "用于解释往事和提出时间假设，不据此确认其穿越或死亡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c11586d68e925250",
+      "statement": "寻找原振侠与记忆频率资料边界",
+      "annotation_character_ids": [
+        "weisili_di_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5435c9b31d66a76e",
+      "statement": "思想仪珍贵、失踪组与生活习惯输入",
+      "annotation_character_ids": [
+        "weisili_di_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_08c338ffea038ba3",
+      "statement": "进入其他时间方向仅为卫的假设",
+      "annotation_character_ids": [
+        "weisili_wang_tianbing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aee546978e362bb4",
+      "statement": "三个编号的言语与协作分工",
+      "annotation_character_ids": [
+        "weisili_yin_1",
+        "weisili_yin_2",
+        "weisili_yin_3"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2213a8685c61f34a",
+      "statement": "仪器残缺、四人结合、失散与求助",
+      "annotation_character_ids": [
+        "weisili_yin_1",
+        "weisili_yin_2",
+        "weisili_yin_3"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_55145d37457acfee",
+      "statement": "四号携部件离队",
+      "annotation_character_ids": [
+        "weisili_yin_4"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47c4faa4a3841ba4",
+      "statement": "模拟声音与密码限制",
+      "annotation_character_ids": [
+        "weisili_yin_1"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7ffd3ff3793510d2",
+      "statement": "四号声音、密码与一至三号限制",
+      "annotation_character_ids": [
+        "weisili_yin_4"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f4470521cafb022b",
+      "statement": "取脑方案与拒绝后的克制",
+      "annotation_character_ids": [
+        "weisili_di_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

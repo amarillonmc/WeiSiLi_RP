@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "id": "book_437d04c42917",
+  "title": "恒娘",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/恒娘.txt",
+  "file": "books/book_437d04c42917.json",
+  "inherited_fact_count": 6,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "da475937c087b162e0274cd984d076ca867ed4b3362c8568b0d19773c1cda576",
+  "source_lines": 85,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "恒娘",
+      "card_id": "guihua_heng_niang",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "洪大业之妻",
+      "card_id": "guihua_hong_wife",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "洪大业",
+      "card_id": "guihua_hong_daye",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "宝带",
+      "reason": "本篇一次性配角；受宠及遭斥责，未见独立伤害或阴谋行动。"
+    },
+    {
+      "name": "狄姓布商",
+      "reason": "仅用来交代恒娘婚姻身份。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_35c6ece23e0e7ef8",
+      "statement": "主动接近与阶段计划",
+      "annotation_character_ids": [
+        "guihua_heng_niang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1560621b8c646c50",
+      "statement": "被冷落与求助",
+      "annotation_character_ids": [
+        "guihua_hong_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b01aee5367171143",
+      "statement": "纳妾冷落与嫌弃",
+      "annotation_character_ids": [
+        "guihua_hong_daye"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4094825df167ba7b",
+      "statement": "梳妆、延迟回应和结果",
+      "annotation_character_ids": [
+        "guihua_heng_niang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e0d1729d419a6c63",
+      "statement": "有意改变回应方式及结局",
+      "annotation_character_ids": [
+        "guihua_hong_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a5316f44192504a",
+      "statement": "被重新吸引、等待与许诺",
+      "annotation_character_ids": [
+        "guihua_hong_daye"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

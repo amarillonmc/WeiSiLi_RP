@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "id": "book_9d6719f86209",
+  "title": "闪电天",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/21闪电天.txt",
+  "file": "books/book_9d6719f86209.json",
+  "inherited_fact_count": 9,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "4674066457619074fa9fea682e07bda016639c5e4651996c32bdc4f04820a7a1",
+  "source_lines": 686,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "阿凤（闪电天）",
+      "card_id": "gaosi_a_feng",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "阿凤的摄影师情人",
+      "card_id": "gaosi_feng_photographer",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "阿凤家中持刀的客人",
+      "card_id": "gaosi_feng_dead_customer",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "阿凤临时找来的移尸同谋",
+      "reason": "仅在结尾一句供述提及，未具身份、个性或独立行动场面；共同移尸保留在阿凤卡中。"
+    },
+    {
+      "name": "认出画像的街头女子、小流氓、邻居",
+      "reason": "一次性线索或街景人物，不是主角、跨书配角或主要对立者。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_609ce84f6d3b35b8",
+      "statement": "接待、诱导移尸及高斯遇袭",
+      "annotation_character_ids": [
+        "gaosi_a_feng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_144dbda5097ae852",
+      "statement": "现场尸体",
+      "annotation_character_ids": [
+        "gaosi_feng_photographer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f45ed7de2cc24822",
+      "statement": "现场与尸体",
+      "annotation_character_ids": [
+        "gaosi_feng_dead_customer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7cc83dc88f5aba6e",
+      "statement": "弃置与凶刀",
+      "annotation_character_ids": [
+        "gaosi_a_feng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d6d7d96446f36c5",
+      "statement": "双方死因",
+      "annotation_character_ids": [
+        "gaosi_feng_dead_customer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_23f0cdc73fdf2a7c",
+      "statement": "关系和过往照片线索",
+      "annotation_character_ids": [
+        "gaosi_feng_photographer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b831d0ba8c9e15db",
+      "statement": "真相确认",
+      "annotation_character_ids": [
+        "gaosi_feng_photographer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c4c9aecb745f0055",
+      "statement": "摄影师关系、真相及控罪",
+      "annotation_character_ids": [
+        "gaosi_a_feng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0781855f74947105",
+      "statement": "冲突还原与阿凤证言",
+      "annotation_character_ids": [
+        "gaosi_feng_dead_customer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

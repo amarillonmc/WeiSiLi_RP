@@ -1,0 +1,197 @@
+{
+  "schema_version": "1.0",
+  "id": "book_9e50e2320f44",
+  "title": "死去活来",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/144死去活来.txt",
+  "file": "books/book_9e50e2320f44.json",
+  "inherited_fact_count": 13,
+  "curated_links": {
+    "arcs": [
+      "arc_weisili",
+      "arc_baisu"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "36833443e5bbfe7bf3762fb469bd76ac76619a1bc25b4c8b972bb69bdef5d655",
+  "source_lines": 1388,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "王莲",
+      "card_id": "weisili_wang_lian",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "光辉",
+      "card_id": "weisili_guang_hui",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "言王",
+      "card_id": "weisili_yan_wang",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "朱槿",
+      "card_id": "weisili_zhu_jin",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "伯劳鸟",
+      "reason": "受训动物与藏毒窃听道具，不附会独立人格"
+    },
+    {
+      "name": "光辉脑数据构成的虚拟人",
+      "reason": "计划和数据存在，但结局没有证实实际复活人格，不再造已成功版本"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e296b9af3bf03d3e",
+      "statement": "求救邮件",
+      "annotation_character_ids": [
+        "weisili_guang_hui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c7465a955b642f6",
+      "statement": "光辉家庭与她所知的边界",
+      "annotation_character_ids": [
+        "weisili_wang_lian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_494ad991a572f5c1",
+      "statement": "真实职权、话术与组织观念",
+      "annotation_character_ids": [
+        "weisili_yan_wang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cc7742387037fe81",
+      "statement": "童年训鸟经验与现场使用",
+      "annotation_character_ids": [
+        "weisili_wei_sili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63e511818ae274cf",
+      "statement": "抓鸟、警告剧毒圆片救卫斯理与保护手套",
+      "annotation_character_ids": [
+        "weisili_yan_wang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_579f444a8b460d9e",
+      "statement": "芯片实验、唯一持续成功记录与本人知情",
+      "annotation_character_ids": [
+        "weisili_guang_hui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a87b4c01d3a29e5",
+      "statement": "秘密实验的具体机制和失败边界",
+      "annotation_character_ids": [
+        "weisili_yan_wang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8e11813b819a3ca7",
+      "statement": "言王揭示其编故事和窃听",
+      "annotation_character_ids": [
+        "weisili_wang_lian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_830385920ca3e87a",
+      "statement": "不能解读但愿继续配合",
+      "annotation_character_ids": [
+        "weisili_guang_hui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_23fc78d6ff21947f",
+      "statement": "牺牲要求及愿亲自尝试的未完成结局",
+      "annotation_character_ids": [
+        "weisili_yan_wang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e8d35eeaab290485",
+      "statement": "逃亡缘由",
+      "annotation_character_ids": [
+        "weisili_guang_hui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_625d6b9f69ea9de5",
+      "statement": "非人协会中的独立判断",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1ba9e7600bc86ff2",
+      "statement": "下落仍不明",
+      "annotation_character_ids": [
+        "weisili_guang_hui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

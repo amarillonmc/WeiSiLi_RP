@@ -1,0 +1,566 @@
+{
+  "schema_version": "1.0",
+  "id": "book_24d705c0bdc0",
+  "title": "豪赌",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/123豪赌.txt",
+  "file": "books/book_24d705c0bdc0.json",
+  "inherited_fact_count": 53,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "54f37d040e7c5c6d867f11f6532aa93ab654c814d05a586ee60261ea01be299b",
+  "source_lines": 2651,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "生念祖（寻宝者）",
+      "card_id": "weisili_sheng_nianzu",
+      "role": "单书主角",
+      "basis": "寻宝主线或完整回忆行动线"
+    },
+    {
+      "name": "王常胜",
+      "card_id": "weisili_wang_changsheng",
+      "role": "回忆主角",
+      "basis": "寻宝主线或完整回忆行动线"
+    },
+    {
+      "name": "李司令（豪赌）",
+      "card_id": "weisili_haodu_li_commander",
+      "role": "回忆主角",
+      "basis": "寻宝主线或完整回忆行动线"
+    },
+    {
+      "name": "老太爷（豪赌银行创办人）",
+      "card_id": "weisili_haodu_banker_elder",
+      "role": "单书主角",
+      "basis": "寻宝主线或完整回忆行动线"
+    },
+    {
+      "name": "董事长（豪赌）",
+      "card_id": "weisili_haodu_banker",
+      "role": "单书主角",
+      "basis": "寻宝主线或完整回忆行动线"
+    },
+    {
+      "name": "生副官（豪赌）",
+      "card_id": "weisili_sheng_adjutant",
+      "role": "回忆主角",
+      "basis": "寻宝主线或完整回忆行动线"
+    },
+    {
+      "name": "生副官之父",
+      "card_id": "weisili_sheng_adjutant_father",
+      "role": "回忆主角",
+      "basis": "寻宝主线或完整回忆行动线"
+    },
+    {
+      "name": "年羹尧（豪赌传说）",
+      "card_id": "weisili_nian_gengyao",
+      "role": "传说主角",
+      "basis": "寻宝主线或完整回忆行动线"
+    },
+    {
+      "name": "波斯赌客三人（豪赌传说）",
+      "card_id": "weisili_haodu_persian_gamblers",
+      "role": "反派小组",
+      "basis": "寻宝主线或完整回忆行动线"
+    },
+    {
+      "name": "雍正皇帝（豪赌传说）",
+      "card_id": "weisili_haodu_yongzheng",
+      "role": "背景反派",
+      "basis": "寻宝主线或完整回忆行动线"
+    },
+    {
+      "name": "年家忠仆（豪赌）",
+      "card_id": "weisili_haodu_loyal_retainer",
+      "role": "回忆主角",
+      "basis": "寻宝主线或完整回忆行动线"
+    },
+    {
+      "name": "大赢家（豪赌匿名人物）",
+      "card_id": "weisili_haodu_great_winner",
+      "role": "背景反派",
+      "basis": "寻宝主线或完整回忆行动线"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "介绍生念祖并亲自追查宝物"
+    },
+    {
+      "name": "铁蛋",
+      "card_id": "weisili_tie_dan",
+      "role": "重要配角",
+      "basis": "终局交谈和本人旧经历"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "黄金赌场庄家、估价者和打手",
+      "reason": "内嵌短篇的辅助背景，无独立持续行动线。"
+    },
+    {
+      "name": "守洞老者、游人、饭局客人",
+      "reason": "一次性提供背景信息或话题的辅助人物。"
+    },
+    {
+      "name": "相邻军阀势力",
+      "reason": "对李司令的胜者没有独立人物刻画，仅存战果转述；不虚构领袖姓名和设定。"
+    },
+    {
+      "name": "独臂神尼、明清八大侠、吕四娘等",
+      "reason": "谈论武侠故事系统的举例，不视为本小说实际登场人物。"
+    },
+    {
+      "name": "必胜石及未知制造者",
+      "reason": "没有独立人格；存在、用途、来源均未解决，不建立万能概率神。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_48dc75afedc968fa",
+      "statement": "文学化赌局和暗器",
+      "annotation_character_ids": [
+        "weisili_nian_gengyao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd7fb68cff924e3d",
+      "statement": "赌局和袭击",
+      "annotation_character_ids": [
+        "weisili_haodu_persian_gamblers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4e5eb731adcfb20d",
+      "statement": "生死未明与传说层级",
+      "annotation_character_ids": [
+        "weisili_haodu_persian_gamblers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d632d9afbd39943e",
+      "statement": "初会轻功",
+      "annotation_character_ids": [
+        "weisili_sheng_nianzu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e394f8027725208a",
+      "statement": "轻身功夫",
+      "annotation_character_ids": [
+        "weisili_sheng_nianzu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_84b011fac2fff4d9",
+      "statement": "血滴子传说边界",
+      "annotation_character_ids": [
+        "weisili_haodu_yongzheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b0e85c3c99d73ae0",
+      "statement": "身份与托孤",
+      "annotation_character_ids": [
+        "weisili_nian_gengyao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_252a9da6d8b4f93c",
+      "statement": "托孤和后续",
+      "annotation_character_ids": [
+        "weisili_haodu_loyal_retainer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c80cbca8583da3d",
+      "statement": "后续无下落",
+      "annotation_character_ids": [
+        "weisili_haodu_persian_gamblers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_675249f45be1bb90",
+      "statement": "诛杀和追捕故事",
+      "annotation_character_ids": [
+        "weisili_haodu_yongzheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e445c3b62d926fb5",
+      "statement": "临危言语",
+      "annotation_character_ids": [
+        "weisili_nian_gengyao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d23d21aa4a25690",
+      "statement": "合并和赌约",
+      "annotation_character_ids": [
+        "weisili_haodu_li_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b9dbb1322bb8a45b",
+      "statement": "军阀处境",
+      "annotation_character_ids": [
+        "weisili_wang_changsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63fb30bb06582049",
+      "statement": "饭局引线",
+      "annotation_character_ids": [
+        "weisili_haodu_banker"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e12497edf006b073",
+      "statement": "副官和赌局",
+      "annotation_character_ids": [
+        "weisili_sheng_adjutant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0033a697da46111e",
+      "statement": "赌约",
+      "annotation_character_ids": [
+        "weisili_wang_changsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d74acdd8b9da09d8",
+      "statement": "惊惧与偶然胜局",
+      "annotation_character_ids": [
+        "weisili_haodu_li_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4de7703595342138",
+      "statement": "认输与离开",
+      "annotation_character_ids": [
+        "weisili_wang_changsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0208715524fbb06f",
+      "statement": "允许离去",
+      "annotation_character_ids": [
+        "weisili_haodu_li_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f933e29b494d9b7",
+      "statement": "随行与去世",
+      "annotation_character_ids": [
+        "weisili_sheng_adjutant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a869ed67f4b06b89",
+      "statement": "经商及终局",
+      "annotation_character_ids": [
+        "weisili_wang_changsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2a83dcec8a3a30b0",
+      "statement": "事业和年龄",
+      "annotation_character_ids": [
+        "weisili_haodu_banker_elder"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd6d3c2c1bc2c2e3",
+      "statement": "同名父子",
+      "annotation_character_ids": [
+        "weisili_sheng_adjutant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8cbdaeb2548607d1",
+      "statement": "暗器与被制伏",
+      "annotation_character_ids": [
+        "weisili_sheng_nianzu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_73ca9618de22c354",
+      "statement": "持杖制止",
+      "annotation_character_ids": [
+        "weisili_haodu_banker_elder"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ef91f764b7d07d65",
+      "statement": "败亡",
+      "annotation_character_ids": [
+        "weisili_haodu_li_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_89520ca24a257839",
+      "statement": "父子关系",
+      "annotation_character_ids": [
+        "weisili_haodu_banker"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c9b4ff4aa2f7071d",
+      "statement": "成仙愿望",
+      "annotation_character_ids": [
+        "weisili_haodu_banker_elder"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_adea2c6437ee610c",
+      "statement": "摄影调查",
+      "annotation_character_ids": [
+        "weisili_sheng_nianzu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_324033600947050a",
+      "statement": "拳术冲突",
+      "annotation_character_ids": [
+        "weisili_haodu_banker"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4310241800d8d5ce",
+      "statement": "地图识别",
+      "annotation_character_ids": [
+        "weisili_sheng_nianzu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f3d22933d2c540fc",
+      "statement": "调查组织",
+      "annotation_character_ids": [
+        "weisili_haodu_banker"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a758301a1cce7935",
+      "statement": "木牌与藏匿推断",
+      "annotation_character_ids": [
+        "weisili_haodu_loyal_retainer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_636e573a3f117197",
+      "statement": "调查",
+      "annotation_character_ids": [
+        "weisili_haodu_banker_elder"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d7d012f72b0695af",
+      "statement": "相术及救助",
+      "annotation_character_ids": [
+        "weisili_sheng_adjutant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b5a11a069455c8b4",
+      "statement": "救命旧恩",
+      "annotation_character_ids": [
+        "weisili_haodu_banker_elder"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3364ab6f13892823",
+      "statement": "年家所述关系",
+      "annotation_character_ids": [
+        "weisili_haodu_yongzheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b6f1a87828d69d3e",
+      "statement": "相术传闻",
+      "annotation_character_ids": [
+        "weisili_nian_gengyao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_deef5b1c10c44b03",
+      "statement": "托付与传承",
+      "annotation_character_ids": [
+        "weisili_sheng_adjutant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ec63ad6a76cd3ced",
+      "statement": "家传与出遇",
+      "annotation_character_ids": [
+        "weisili_sheng_adjutant_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_61c798c0937b6c9b",
+      "statement": "青年外貌",
+      "annotation_character_ids": [
+        "weisili_haodu_great_winner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5780076b7304e99e",
+      "statement": "惊惧行为",
+      "annotation_character_ids": [
+        "weisili_sheng_adjutant_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5edffc6ec0460202",
+      "statement": "鸟笼与自由",
+      "annotation_character_ids": [
+        "weisili_haodu_great_winner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0fd57e744aedc21e",
+      "statement": "献图和寻访",
+      "annotation_character_ids": [
+        "weisili_sheng_adjutant_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2e1266480fcd5c3",
+      "statement": "还图和抱负",
+      "annotation_character_ids": [
+        "weisili_haodu_great_winner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f4d46037b304fdd1",
+      "statement": "未用宝物的假说",
+      "annotation_character_ids": [
+        "weisili_nian_gengyao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8b5bd02bf9fb4cc3",
+      "statement": "利益和终局",
+      "annotation_character_ids": [
+        "weisili_haodu_banker"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f6600bc734fec4b9",
+      "statement": "最终选择",
+      "annotation_character_ids": [
+        "weisili_haodu_banker_elder"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c4423928a8b7cf3f",
+      "statement": "保护后人的解释",
+      "annotation_character_ids": [
+        "weisili_sheng_adjutant_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6698ff2e79d8ea94",
+      "statement": "终局信息边界",
+      "annotation_character_ids": [
+        "weisili_sheng_nianzu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd5b180a85f141e3",
+      "statement": "政治关联",
+      "annotation_character_ids": [
+        "weisili_haodu_great_winner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4fb3c5c8f4875697",
+      "statement": "无宝物证据",
+      "annotation_character_ids": [
+        "weisili_haodu_great_winner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f188955860b08887",
+      "statement": "开放解释",
+      "annotation_character_ids": [
+        "weisili_haodu_great_winner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

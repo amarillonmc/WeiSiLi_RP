@@ -1,0 +1,166 @@
+{
+  "schema_version": "1.0",
+  "id": "book_acfa0c7d39e7",
+  "title": "连环毒计",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/19连环毒计.txt",
+  "file": "books/book_acfa0c7d39e7.json",
+  "inherited_fact_count": 12,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "85356acd31140b312f37dfd80fa5b6625e37d5945a799e18af28256d162d0db6",
+  "source_lines": 2390,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "孤克",
+      "card_id": "mulanhua_gu_ke",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "王大通",
+      "card_id": "mulanhua_wang_datong",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "丁工程师、徐警官、芭丝、祁先生、文妮",
+      "reason": "丁为受利用后被灭口的受害者，未证实自愿犯罪；徐、芭丝与祁为一次性协助或执行角色；文妮仅旧案受害背景，结尾现身者是演员。"
+    },
+    {
+      "name": "红树、毒蜘蛛与匿名实验室职员",
+      "reason": "植物及非人格化毒物不独立建角色；蜘蛛是生物风险，不能自动当主动反派。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_634f5f0b38e14ded",
+      "statement": "地下据点、标记门禁及工程履历",
+      "annotation_character_ids": [
+        "mulanhua_wang_datong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_328021127cbed1be",
+      "statement": "求助诱饵、药物名片及通讯",
+      "annotation_character_ids": [
+        "mulanhua_wang_datong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_992e3c09ae2b6b9a",
+      "statement": "辩解与全局圈套说明",
+      "annotation_character_ids": [
+        "mulanhua_wang_datong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_31a70698c7fbe48c",
+      "statement": "外貌、教育与身份自述",
+      "annotation_character_ids": [
+        "mulanhua_gu_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c102c1aac06c4681",
+      "statement": "见首领后受罚",
+      "annotation_character_ids": [
+        "mulanhua_wang_datong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d813ade9f485e487",
+      "statement": "处死王大通与虚伪礼节",
+      "annotation_character_ids": [
+        "mulanhua_gu_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b9514fbbeeefdcd0",
+      "statement": "求情变成立即死令",
+      "annotation_character_ids": [
+        "mulanhua_wang_datong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2c9b55e51ad720c4",
+      "statement": "研究机制、勒索及范围条件",
+      "annotation_character_ids": [
+        "mulanhua_gu_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f84c93f433780bb6",
+      "statement": "身份与杀妻旧案",
+      "annotation_character_ids": [
+        "mulanhua_gu_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_946902722be08a3e",
+      "statement": "助手被毒物反噬",
+      "annotation_character_ids": [
+        "mulanhua_gu_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c1afca3aa83d4458",
+      "statement": "假妻骗局与组织解散",
+      "annotation_character_ids": [
+        "mulanhua_gu_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fc13d4609ca3f7b9",
+      "statement": "假腿中枪、毒物反噬及死亡",
+      "annotation_character_ids": [
+        "mulanhua_gu_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

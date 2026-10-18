@@ -1,0 +1,34 @@
+{
+  "id": "g_microcrystal",
+  "title": "微晶争夺后希伯德选择归返",
+  "kind": "event",
+  "summary": "高达救出博士并经历夺物交易，希伯德最后选择返回妻女；微晶仍在哈利手中。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《微晶之密》终局；缺少八部书整体绝对年代。",
+    "narrative_layer": "present"
+  },
+  "state_before": "物、博士、读取器和人质分处各方。",
+  "state_after": "博士主动离去，家庭是否实际重聚未展示。",
+  "knowledge_boundary": "结尾意愿不能写成已经获释的家庭大团圆。",
+  "character_ids": [
+    "adventure_gaoda",
+    "adventure_xibode"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_7fdad6f98a121fe1",
+    "evidence_c12e69face30d3b3",
+    "evidence_2c2605a66f2ee9bb",
+    "evidence_f7c4bcd622baded5",
+    "evidence_2d2b9cce0cf5dc0f",
+    "evidence_e6f1bd96b5732906",
+    "evidence_99475adda59255f3",
+    "evidence_a474f4986b07db4f"
+  ],
+  "book_ids": [
+    "book_b10cefcfc4f2"
+  ]
+}

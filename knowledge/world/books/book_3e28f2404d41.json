@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "id": "book_3e28f2404d41",
+  "title": "鬼胎之一",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/鬼胎之一.txt",
+  "file": "books/book_3e28f2404d41.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "6656cf0802c51f9f935ea3f28d6fe2df2b46db8ce594d39292291c0d713bd86f",
+  "source_lines": 59,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "阿碧",
+      "card_id": "guihua_a_bi",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "丁老太太",
+      "card_id": "guihua_ding_matriarch",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "丁少爷",
+      "reason": "一次性被安排婚姻者及目击者，认知障碍不构成反派；未作为独立主角展开。"
+    },
+    {
+      "name": "丁家男婴",
+      "reason": "疑似阿碧复仇载体但主体未知；按未明事件记录，避免虚构独立意志与可控技能。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_04905be6671f3764",
+      "statement": "权力来源与安排婚姻",
+      "annotation_character_ids": [
+        "guihua_ding_matriarch"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fef8b47ebf698d09",
+      "statement": "贫困背景、婚姻条件与监视",
+      "annotation_character_ids": [
+        "guihua_a_bi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bcf11052c534551b",
+      "statement": "求生、死亡与疑似复仇",
+      "annotation_character_ids": [
+        "guihua_a_bi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_90490737e26921f3",
+      "statement": "舍弃媳妇、照料孙儿与死亡",
+      "annotation_character_ids": [
+        "guihua_ding_matriarch"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

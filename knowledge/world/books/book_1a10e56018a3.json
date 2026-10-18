@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1a10e56018a3",
+  "title": "乾坤挪移",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/137乾坤挪移.txt",
+  "file": "books/book_1a10e56018a3.json",
+  "inherited_fact_count": 16,
+  "curated_links": {
+    "rules": [
+      "rule_mind_body"
+    ],
+    "entities": [
+      "leman",
+      "knowledge_transfer"
+    ],
+    "events": [
+      "w_knowledge_transfer"
+    ],
+    "relations": [
+      "before__w_knowledge_transfer__w_copy_refusal"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "2fb84ddf03fc2217f4fa2da1b2ce24e2f1be77d3b71f97d4095f5effe740c6e9",
+  "source_lines": 1405,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "姚女士",
+      "card_id": "weisili_yao_nushi",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "姚专营",
+      "card_id": "weisili_yao_zhuanying",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "姚大达",
+      "card_id": "weisili_yao_dada",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "姚董事长",
+      "card_id": "weisili_yao_dongshizhang",
+      "role": "阶段性对立者",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "杜良",
+      "card_id": "weisili_du_liang",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "警卫、殡仪与公司职员",
+      "reason": "一次性职业执行者，未显示独立主要对抗或跨书身份"
+    },
+    {
+      "name": "假人头",
+      "reason": "替代道具，不具独立人格"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0dba86c4046e834d",
+      "statement": "学问、家族关系和死亡",
+      "annotation_character_ids": [
+        "weisili_yao_zhuanying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3392cac52dd1ab9f",
+      "statement": "身份、企业能力与委托背景",
+      "annotation_character_ids": [
+        "weisili_yao_nushi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_368264469d721009",
+      "statement": "兄弟和子女关系",
+      "annotation_character_ids": [
+        "weisili_yao_dongshizhang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a4ed1eb1711e7f56",
+      "statement": "家族身份与资料缺席",
+      "annotation_character_ids": [
+        "weisili_yao_dada"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_31bdc64d4ba0cb6c",
+      "statement": "外貌与反讽",
+      "annotation_character_ids": [
+        "weisili_yao_nushi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c986712c6a18a649",
+      "statement": "误认姚女士并被主人纠正",
+      "annotation_character_ids": [
+        "weisili_lao_cai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f0f9854fb1f37f0",
+      "statement": "认知状况及家庭保护",
+      "annotation_character_ids": [
+        "weisili_yao_dada"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_44a9cb8e5142be14",
+      "statement": "家庭调查边界",
+      "annotation_character_ids": [
+        "weisili_yao_nushi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a51c99ffb477147f",
+      "statement": "隐藏儿子与医疗安排",
+      "annotation_character_ids": [
+        "weisili_yao_dongshizhang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_811d39e7064532be",
+      "statement": "心理交锋和杜良介入",
+      "annotation_character_ids": [
+        "weisili_yao_dongshizhang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b7ca9072f4e9bc1",
+      "statement": "取头与同意仅属推断",
+      "annotation_character_ids": [
+        "weisili_yao_zhuanying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_932eeec0cf0067c9",
+      "statement": "仍不知全部细节",
+      "annotation_character_ids": [
+        "weisili_yao_nushi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_058844e00cbabd52",
+      "statement": "知识与思想的区分",
+      "annotation_character_ids": [
+        "weisili_yao_dada"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_85c10e3a6699f960",
+      "statement": "姓名及知识不是思想的边界",
+      "annotation_character_ids": [
+        "weisili_yao_zhuanying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ba9b1be66e78d7b3",
+      "statement": "实验结果的真实边界",
+      "annotation_character_ids": [
+        "weisili_yao_dongshizhang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aac593bf0e5b450b",
+      "statement": "知识与思想的区分及研究保密动机",
+      "annotation_character_ids": [
+        "weisili_du_liang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

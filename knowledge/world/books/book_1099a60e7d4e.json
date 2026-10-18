@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1099a60e7d4e",
+  "title": "支离人",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/011支离人.txt",
+  "file": "books/book_1099a60e7d4e.json",
+  "inherited_fact_count": 19,
+  "curated_links": {
+    "entities": [
+      "disassembly_box"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "1c4eb914a01b9a6a9de1a2a16acd6d7560789f574e9371fb0f3ff971a5b757c8",
+  "source_lines": 4189,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "共同观察和判断"
+    },
+    {
+      "name": "胡明",
+      "card_id": "weisili_hu_ming",
+      "role": "重要配角",
+      "basis": "考古线索、受害与恢复"
+    },
+    {
+      "name": "邓石",
+      "card_id": "weisili_deng_shi",
+      "role": "反派",
+      "basis": "独占装置与谋害学者"
+    },
+    {
+      "name": "牛头人大祭师",
+      "card_id": "weisili_niutou_priest",
+      "role": "反派／非人主角",
+      "basis": "装置原主和移民计划"
+    },
+    {
+      "name": "鹿答",
+      "card_id": "weisili_lu_da",
+      "role": "单书主线人物",
+      "basis": "前持有者、独立行动与遇害"
+    },
+    {
+      "name": "拉达克",
+      "card_id": "weisili_ladake",
+      "role": "阶段性对立者",
+      "basis": "专案调查与责任切割"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "成立青",
+      "reason": "异常目击者与失物证人，无独立主角或反派行动线。"
+    },
+    {
+      "name": "占美、古勒奇、其他五学者",
+      "reason": "技术鉴定或受害群体，单书辅助；占美没有被证实发明盒子。"
+    },
+    {
+      "name": "伯雷特法老、无名中间人、引路人及卫兵",
+      "reason": "古代回述、交易受害或局部辅助；法老真实动机与后续流转是推测，未单列虚构传记。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_f3186491f4356b21",
+      "statement": "考古教授与邀请调查",
+      "annotation_character_ids": [
+        "weisili_hu_ming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f3948a3bd8d9ac9e",
+      "statement": "身份、倾听与病情",
+      "annotation_character_ids": [
+        "weisili_ladake"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1ed957d408928c3b",
+      "statement": "麻醉造成脑伤",
+      "annotation_character_ids": [
+        "weisili_hu_ming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ecd0b952553f6600",
+      "statement": "伤害学者",
+      "annotation_character_ids": [
+        "weisili_deng_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb62456fbbbeead2",
+      "statement": "切割正式关系",
+      "annotation_character_ids": [
+        "weisili_ladake"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1ce485652d60217b",
+      "statement": "被控制、撞伤与死亡",
+      "annotation_character_ids": [
+        "weisili_deng_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_539c9a0ca12d37ec",
+      "statement": "外貌及遮面",
+      "annotation_character_ids": [
+        "weisili_lu_da"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a97695cf08725d0d",
+      "statement": "被逼交易与拒绝",
+      "annotation_character_ids": [
+        "weisili_lu_da"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_98345c2d7f04c5bc",
+      "statement": "能力、夺物和死亡",
+      "annotation_character_ids": [
+        "weisili_lu_da"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a785e17c1ce77778",
+      "statement": "夺物杀人及占美",
+      "annotation_character_ids": [
+        "weisili_deng_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_747c8099821d11ed",
+      "statement": "试验、能力和盲点",
+      "annotation_character_ids": [
+        "weisili_deng_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f707b375d59b419",
+      "statement": "同类机制归因",
+      "annotation_character_ids": [
+        "weisili_lu_da"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0214a90e7208ac06",
+      "statement": "愤怒与无法判断人心",
+      "annotation_character_ids": [
+        "weisili_niutou_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8c92d4426eb262a8",
+      "statement": "工程、移民和辐射阻碍",
+      "annotation_character_ids": [
+        "weisili_niutou_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0ee774ff711ce11e",
+      "statement": "原子机制及首次冬眠",
+      "annotation_character_ids": [
+        "weisili_niutou_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a95c30373069b0e",
+      "statement": "真实机制",
+      "annotation_character_ids": [
+        "weisili_deng_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4661317a160a1001",
+      "statement": "再次冬眠和封存",
+      "annotation_character_ids": [
+        "weisili_niutou_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4db4a6c00a3475d7",
+      "statement": "设备修复、断电接回与盒子丢海",
+      "annotation_character_ids": [
+        "weisili_hu_ming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d9ee2788764ed294",
+      "statement": "救人后警方态度",
+      "annotation_character_ids": [
+        "weisili_ladake"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

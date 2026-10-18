@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "id": "book_010028e53ed7",
+  "title": "魔画",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/45魔画.txt",
+  "file": "books/book_010028e53ed7.json",
+  "inherited_fact_count": 18,
+  "curated_links": {
+    "arcs": [
+      "arc_mulanhua",
+      "arc_muxiuzhen"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "6c4f19529505f2b797e210b083e243e6ff6de58ac13a71b08c7301e7cd346125",
+  "source_lines": 2638,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "曾保",
+      "card_id": "mulanhua_zeng_bao",
+      "role": "反派",
+      "basis": "偷画旧案、海盗及暴力收购首领。"
+    },
+    {
+      "name": "李彬",
+      "card_id": "mulanhua_li_bin_magic_painting",
+      "role": "反派／单书主角",
+      "basis": "盗画引发旧案，带画求助启动本案。"
+    },
+    {
+      "name": "都曼",
+      "card_id": "mulanhua_duman",
+      "role": "单书主角",
+      "basis": "当地反抗和新生活的主要行动者。"
+    },
+    {
+      "name": "霍大哥",
+      "card_id": "mulanhua_huo_nansha",
+      "role": "反派",
+      "basis": "当地压迫据点负责人。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "推理、麻醉枪与阻断逃路。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "据点近战与炸毁逃生直升机。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "跨书重要配角",
+      "basis": "协助调查及援救云四风。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "被劫后与曾保交锋。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "何妈妈、王五叔",
+      "reason": "一次性旧案讲述及长辈关系人物，未单独承担本书主线冲突；既往江湖经历不是本案反派身份。"
+    },
+    {
+      "name": "穆家长辈、云旋风、儿岛师父",
+      "reason": "在本书为背景或追忆，相关核心履历交主卡作者核合。"
+    },
+    {
+      "name": "未名收购员、打手、军警、村长",
+      "reason": "一次性执行或支援人物，已由具体负责人和都曼覆盖主要逻辑。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c7d6d24b69e49c3a",
+      "statement": "寄存请求与落魄现状。",
+      "annotation_character_ids": [
+        "mulanhua_li_bin_magic_painting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_720d25a0dd88acd4",
+      "statement": "父母旧案与拒复仇循环",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d9a3650d25147725",
+      "statement": "历史身份与犯罪组织。",
+      "annotation_character_ids": [
+        "mulanhua_zeng_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8b2ff4e03d6379be",
+      "statement": "偷画自述、执念和保护请求。",
+      "annotation_character_ids": [
+        "mulanhua_li_bin_magic_painting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0727f8d06a1b29dd",
+      "statement": "指使偷画而遭背叛。",
+      "annotation_character_ids": [
+        "mulanhua_zeng_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6085842599ce5b56",
+      "statement": "受胁迫说为调查者推测。",
+      "annotation_character_ids": [
+        "mulanhua_li_bin_magic_painting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e8ff107b02bbc2cf",
+      "statement": "改追同伴、截住云四风。",
+      "annotation_character_ids": [
+        "mulanhua_zeng_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5a3bec7154cad4fb",
+      "statement": "脱身、枪法与谨慎识骗。",
+      "annotation_character_ids": [
+        "mulanhua_zeng_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8dd06c9065786575",
+      "statement": "教育、向导身份和被打后的处境。",
+      "annotation_character_ids": [
+        "mulanhua_duman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bbe23c2c876453d1",
+      "statement": "海产公司的掩护及负责人身份。",
+      "annotation_character_ids": [
+        "mulanhua_huo_nansha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f199ac8559367711",
+      "statement": "愿动员村民但接受节制。",
+      "annotation_character_ids": [
+        "mulanhua_duman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_39a5cff788d6cb55",
+      "statement": "三分钟制八人",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_52faf31217bf9eae",
+      "statement": "隐藏、被迫现身、威胁和呼叫上级。",
+      "annotation_character_ids": [
+        "mulanhua_huo_nansha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5f5bf940b8c110c",
+      "statement": "疏散和应对海盗实力。",
+      "annotation_character_ids": [
+        "mulanhua_duman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_39d8b91a88cce57d",
+      "statement": "围攻、误认宝藏、坠亡和组织瓦解。",
+      "annotation_character_ids": [
+        "mulanhua_zeng_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f9e012d842fdee60",
+      "statement": "战场联络及胜利。",
+      "annotation_character_ids": [
+        "mulanhua_duman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6d99050c33e3fc9b",
+      "statement": "军警接收俘虏、组织崩溃。",
+      "annotation_character_ids": [
+        "mulanhua_huo_nansha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_91e2aa61cac30e68",
+      "statement": "废钞与开发前景。",
+      "annotation_character_ids": [
+        "mulanhua_duman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

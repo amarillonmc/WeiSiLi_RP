@@ -1,0 +1,376 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b60f03e1be18",
+  "title": "闯祸",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/105闯祸.txt",
+  "file": "books/book_b60f03e1be18.json",
+  "inherited_fact_count": 30,
+  "curated_links": {
+    "events": [
+      "w_four_negotiation"
+    ],
+    "relations": [
+      "before__w_underworld_reveal__w_four_negotiation",
+      "before__w_four_negotiation__w_underworld_shutdown"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "0f1d301ef14d58c4f9fa1c0983c38f64ae33f22ab2cc117f4ed604b2a279ed2c",
+  "source_lines": 2798,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "实际参与或直接联络"
+    },
+    {
+      "name": "曹金福",
+      "card_id": "weisili_cao_jinfu",
+      "role": "重要配角",
+      "basis": "实际参与或直接联络"
+    },
+    {
+      "name": "铁天音",
+      "card_id": "weisili_tie_tianyin",
+      "role": "重要配角",
+      "basis": "实际参与或直接联络"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "实际参与或直接联络"
+    },
+    {
+      "name": "游侠",
+      "card_id": "weisili_you_xia",
+      "role": "重要配角",
+      "basis": "实际参与或直接联络"
+    },
+    {
+      "name": "游夫人",
+      "card_id": "weisili_you_furen",
+      "role": "重要配角",
+      "basis": "实际参与或直接联络"
+    },
+    {
+      "name": "四号",
+      "card_id": "weisili_yin_4",
+      "role": "重要配角",
+      "basis": "实际参与或直接联络"
+    },
+    {
+      "name": "宣保",
+      "card_id": "weisili_xuan_bao",
+      "role": "单书重要人物",
+      "basis": "推动保护区、权力与追索事件"
+    },
+    {
+      "name": "雷日头",
+      "card_id": "weisili_lei_ritou",
+      "role": "单书重要人物",
+      "basis": "推动保护区、权力与追索事件"
+    },
+    {
+      "name": "杜彰",
+      "card_id": "weisili_du_zhang",
+      "role": "反派",
+      "basis": "推动保护区、权力与追索事件"
+    },
+    {
+      "name": "杜彰之子",
+      "card_id": "weisili_du_zhang_son",
+      "role": "反派",
+      "basis": "推动保护区、权力与追索事件"
+    },
+    {
+      "name": "文物库事件的老人家",
+      "card_id": "yuanzhenxia_oriental_sun_leader",
+      "role": "反派",
+      "basis": "推动保护区、权力与追索事件"
+    },
+    {
+      "name": "文物案首长",
+      "card_id": "weisili_chuanghuo_chief",
+      "role": "反派",
+      "basis": "推动保护区、权力与追索事件"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "老人家的小女儿",
+      "reason": "单次现场制止开枪、聚会叙述的辅助人物，未显示独立反派计划或多书实际行动。"
+    },
+    {
+      "name": "女副主任、护卫、警卫排长及会所人员",
+      "reason": "一次性工作人员与执行者，无独立主角线。"
+    },
+    {
+      "name": "前最高领袖及开篇神话人物",
+      "reason": "政治评论、历史推断或神话比喻，不把叙述性类比变成新出场角色。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0cca3d883126d0f7",
+      "statement": "伤情与冲突",
+      "annotation_character_ids": [
+        "weisili_du_zhang_son"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aaa50ea552209afa",
+      "statement": "金权网络及案情",
+      "annotation_character_ids": [
+        "weisili_du_zhang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8fabafbc90d273e3",
+      "statement": "亲属关系和聘请",
+      "annotation_character_ids": [
+        "weisili_lei_ritou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1fafe2b8184ed715",
+      "statement": "身分与治疗转述",
+      "annotation_character_ids": [
+        "yuanzhenxia_oriental_sun_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_df5b28b0cf8c14c6",
+      "statement": "同一交易旧史",
+      "annotation_character_ids": [
+        "yuanzhenxia_oriental_sun_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_36f12afddd1480ae",
+      "statement": "危机反应",
+      "annotation_character_ids": [
+        "yuanzhenxia_oriental_sun_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76eb50eadf7ab284",
+      "statement": "指认与省略起因",
+      "annotation_character_ids": [
+        "weisili_du_zhang_son"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2be954ce1ba628cc",
+      "statement": "天音拟交涉",
+      "annotation_character_ids": [
+        "weisili_du_zhang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6fcb365ef1529e76",
+      "statement": "背景与初见",
+      "annotation_character_ids": [
+        "weisili_xuan_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c99129dc5f1f76a8",
+      "statement": "协助与冒险",
+      "annotation_character_ids": [
+        "weisili_xuan_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_daf2883fca3bca06",
+      "statement": "录音线索",
+      "annotation_character_ids": [
+        "weisili_xuan_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_557569fefd3f9449",
+      "statement": "受审与军职",
+      "annotation_character_ids": [
+        "weisili_lei_ritou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6196b8d68875fd6e",
+      "statement": "审查与保密",
+      "annotation_character_ids": [
+        "weisili_chuanghuo_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_047d7988de1bf6d2",
+      "statement": "消息限制",
+      "annotation_character_ids": [
+        "weisili_xuan_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a291ef46ce749756",
+      "statement": "能量工具、目标选择及无法刺激视觉",
+      "annotation_character_ids": [
+        "weisili_you_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e2ac8e291f31ee4",
+      "statement": "由游侠濒死真情产生独立爱情",
+      "annotation_character_ids": [
+        "weisili_you_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a9de8203d5e10245",
+      "statement": "打捞濒死与夫妻关系变化",
+      "annotation_character_ids": [
+        "weisili_you_xia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2883f59d04a2655b",
+      "statement": "施压和上级介入",
+      "annotation_character_ids": [
+        "weisili_chuanghuo_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b9c0716e338c5c08",
+      "statement": "会面及宝物",
+      "annotation_character_ids": [
+        "yuanzhenxia_oriental_sun_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7878f2325d7e8aaa",
+      "statement": "交涉后允许行动",
+      "annotation_character_ids": [
+        "yuanzhenxia_oriental_sun_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a26f7c850a018eeb",
+      "statement": "顾忌协议",
+      "annotation_character_ids": [
+        "weisili_chuanghuo_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45572bd17b3137a0",
+      "statement": "拘禁、消灭威胁和协商",
+      "annotation_character_ids": [
+        "weisili_yin_4"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed93d7e43b855000",
+      "statement": "结合不可分及成实体条件",
+      "annotation_character_ids": [
+        "weisili_you_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4a9c393ef86e0138",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "weisili_xuan_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5db6350a305a0c64",
+      "statement": "夫妇独立与纠纷解决",
+      "annotation_character_ids": [
+        "weisili_yin_4"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f954a69e606da39",
+      "statement": "最终实体来访",
+      "annotation_character_ids": [
+        "weisili_you_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86fdf4ab6fa75509",
+      "statement": "实体外貌、共同来访及承诺",
+      "annotation_character_ids": [
+        "weisili_you_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8fabbe204353bf0e",
+      "statement": "夫妻终局以实体来访",
+      "annotation_character_ids": [
+        "weisili_you_xia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a4e0d9269f0dca30",
+      "statement": "外貌、实体妻子及终局",
+      "annotation_character_ids": [
+        "weisili_you_xia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_53199df125502c1a",
+      "statement": "与红绫闯祸后的回归",
+      "annotation_character_ids": [
+        "weisili_cao_jinfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

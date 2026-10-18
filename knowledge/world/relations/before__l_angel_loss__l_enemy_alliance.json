@@ -1,0 +1,24 @@
+{
+  "id": "before__l_angel_loss__l_enemy_alliance",
+  "source": "l_angel_loss",
+  "target": "l_enemy_alliance",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "组织控制、思想玩偶、天使牺牲及受创后的脱困接续。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "组织控制、思想玩偶、天使牺牲及受创后的脱困接续。",
+  "evidence_ids": [
+    "evidence_b87d2826f05c2f82",
+    "evidence_b46462ea2c0baf56",
+    "evidence_a13cb3feb6c2f8ce",
+    "evidence_c80b9bee246219b5",
+    "evidence_7043568fc1252fae"
+  ],
+  "book_ids": [
+    "book_3d11fdd8a762",
+    "book_4061a76cea80",
+    "book_670aaaa7d25b",
+    "book_b032f28a589d"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "mode": "historical",
+  "completed_event_ids": [],
+  "current_location": [],
+  "participant_character_ids": [],
+  "body_state": [],
+  "relationships": [],
+  "knows": [],
+  "believes": [],
+  "suspects": [],
+  "resources_present": [],
+  "unavailable_resources": [],
+  "open_questions": [],
+  "scenario_overrides": [],
+  "notice": "先定已完成事件，再逐角色确认身体、知识及资源；终局部署不能自动回填。"
+}

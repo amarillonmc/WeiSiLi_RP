@@ -1,0 +1,30 @@
+{
+  "id": "h_rain",
+  "title": "雨夜留号而身份未解",
+  "kind": "event",
+  "summary": "合乘男子留下洗不掉的号码痕迹，司机否认曾有女子，男子未敢追查。",
+  "epistemic_status": "unresolved",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "单篇夜间遭遇；无绝对时间锚。",
+    "narrative_layer": "present"
+  },
+  "state_before": "一次普通合乘与接近。",
+  "state_after": "痕迹存在而解释和再次联系未知。",
+  "knowledge_boundary": "这是未决异常，不先定鬼、外星人或阴间使者。",
+  "character_ids": [
+    "guihua_rain_man",
+    "guihua_rain_woman"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_abb3de904aeb433b",
+    "evidence_77ef408ec6c594f2",
+    "evidence_6ce6a30e7c261b98",
+    "evidence_eb6d0c27e605c3fc"
+  ],
+  "book_ids": [
+    "book_9e24f6c8380c"
+  ]
+}

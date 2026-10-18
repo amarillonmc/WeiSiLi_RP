@@ -1,0 +1,348 @@
+{
+  "schema_version": "1.0",
+  "id": "book_5abac49bbff2",
+  "title": "血溅黄金柱",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/25血溅黄金柱.txt",
+  "file": "books/book_5abac49bbff2.json",
+  "inherited_fact_count": 28,
+  "curated_links": {
+    "arcs": [
+      "arc_muxiuzhen"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "5f29828f34ad9ecda0a6452099ea8030449d8ad816e0fbd7e779086347c5d75b",
+  "source_lines": 2722,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "梅乐（血掌影）",
+      "card_id": "mulanhua_bloodshadow",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "追索手杖的领馆特务",
+      "card_id": "mulanhua_goldpillar_consular_agent",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "受雇窃取手杖的惯窃",
+      "card_id": "mulanhua_goldpillar_thief",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "贵族集团的绑架交涉人",
+      "card_id": "mulanhua_goldpillar_noble_envoy",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "奥拉婷夫人",
+      "card_id": "mulanhua_olatine",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "贵族集团的晚宴接待人",
+      "card_id": "mulanhua_goldpillar_noble_host",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "牵猴画家的毒针杀手",
+      "card_id": "mulanhua_goldpillar_monkey_painter",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "伞骨雕塑者",
+      "card_id": "mulanhua_goldpillar_umbrella_sculptor",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "郭尔准、西蒙、果德",
+      "reason": "是文件流转与命案背景中的死者；未以在场主要对立行动展开，其盗卖和中介经历作为案情保留，不扩成独立战斗角色。"
+    },
+    {
+      "name": "歌芳伯爵",
+      "reason": "仅作为神秘集团首领被提及；晚宴接待人明确否认就是他，证据不足合并或另立实际出场卡。"
+    },
+    {
+      "name": "费利准将、总领事、雷贝、谭院长",
+      "reason": "一次性职务阻碍或协助角色，未构成独立主线对抗与跨书角色。"
+    },
+    {
+      "name": "车祸司机、接应枪手及其他无名监视者",
+      "reason": "仅作所属组织当场执行者，无独立身份和目标。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_47483bb96c5151ab",
+      "statement": "武装取走尸体",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_consular_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_18f52119150f70e7",
+      "statement": "索杖与受制",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_consular_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f788b2fc39b4e144",
+      "statement": "威胁、包围和被反制",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_noble_envoy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5ca9fad104b331e6",
+      "statement": "名片、组织说明和离去",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_noble_envoy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4e9e56b92425ead6",
+      "statement": "登记身份与外观",
+      "annotation_character_ids": [
+        "mulanhua_olatine"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_55c4f224d9ec203d",
+      "statement": "本人被绑与信号",
+      "annotation_character_ids": [
+        "mulanhua_olatine"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b6dd416c26e9aa9d",
+      "statement": "外观、否认伯爵身份",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_noble_host"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f383656078b785b3",
+      "statement": "道歉、放人和推理",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_noble_host"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7ec737225ebd73da",
+      "statement": "集团后来的道歉与放人",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_noble_envoy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c5642acd081da30",
+      "statement": "专业分工和假扮破绽",
+      "annotation_character_ids": [
+        "mulanhua_olatine"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aeb0ff29a01c486b",
+      "statement": "保密与利益逻辑",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_noble_host"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a8709cbf1741687a",
+      "statement": "精确射击",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d6683c38d4d3a893",
+      "statement": "潜入、射击与被擒",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_thief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_88e305727b0b7d13",
+      "statement": "受雇条件和雇主描述",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_thief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5460d9e9b75ea6ed",
+      "statement": "雇主辨认",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_consular_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_580718ed3f13eed6",
+      "statement": "口供和犯罪履历",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_thief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5602eeea100fcab2",
+      "statement": "情报解释与被释放",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_consular_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ccf19f5426d462fc",
+      "statement": "毒针袭击、假死反制与身份",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_monkey_painter"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f3d7124f2cdcef4",
+      "statement": "闹剧掩护判断",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_monkey_painter"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f11780b2cfa4893",
+      "statement": "被擒、自杀与组织约束",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_monkey_painter"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f20bd4f4338a074",
+      "statement": "身份、恐惧与劝说",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_umbrella_sculptor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_57cae890b6557ecf",
+      "statement": "远程纪律迫自杀",
+      "annotation_character_ids": [
+        "mulanhua_bloodshadow"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed1bd9d0d4d97ed9",
+      "statement": "通讯命令和死亡",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_umbrella_sculptor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_de033c7497799777",
+      "statement": "施令者未被找到",
+      "annotation_character_ids": [
+        "mulanhua_goldpillar_umbrella_sculptor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_df47d037394c5eae",
+      "statement": "心理挑衅",
+      "annotation_character_ids": [
+        "mulanhua_bloodshadow"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6ee3d4f4675463d5",
+      "statement": "代号与动机",
+      "annotation_character_ids": [
+        "mulanhua_bloodshadow"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1e571f18e096687e",
+      "statement": "被擒与突袭脱身",
+      "annotation_character_ids": [
+        "mulanhua_bloodshadow"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_43a8e9ec7451f0ce",
+      "statement": "结局仅推断逃走",
+      "annotation_character_ids": [
+        "mulanhua_bloodshadow"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

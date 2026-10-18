@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "id": "book_dc04cfea7731",
+  "title": "狐变",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/028狐变.txt",
+  "file": "books/book_dc04cfea7731.json",
+  "inherited_fact_count": 6,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "ea0bcff3bbc830a04ad0ee856c6792daff5b5f4250d41c630ba9d48c35aeae40",
+  "source_lines": 1764,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "酒博新",
+      "card_id": "weisili_jiu_boxin",
+      "role": "单书主角",
+      "basis": "时间实验与家族冲突"
+    },
+    {
+      "name": "酒博新的叔叔",
+      "card_id": "weisili_jiu_boxin_uncle",
+      "role": "单书核心人物",
+      "basis": "时间实验与家族冲突"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "酒博新的父亲",
+      "reason": "自愿实验后缩小死亡，主要为被述及的受害者，关系与后果归入两张主线卡"
+    },
+    {
+      "name": "老仆人",
+      "reason": "单次见证者"
+    },
+    {
+      "name": "天文学家",
+      "reason": "结尾讨论假说的未具名专家"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d90b2a27b96762d2",
+      "statement": "家世和生活",
+      "annotation_character_ids": [
+        "weisili_jiu_boxin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_27262225bd5880db",
+      "statement": "假死与坦白",
+      "annotation_character_ids": [
+        "weisili_jiu_boxin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f56ccf2528a7813f",
+      "statement": "神秘来客",
+      "annotation_character_ids": [
+        "weisili_jiu_boxin_uncle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f19d7ac3504df870",
+      "statement": "实际能力与失败",
+      "annotation_character_ids": [
+        "weisili_jiu_boxin_uncle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a406fb168235497d",
+      "statement": "实验后果、遮掩与杀人",
+      "annotation_character_ids": [
+        "weisili_jiu_boxin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6fb5441fe4a7395c",
+      "statement": "科学才能、隐瞒与终局",
+      "annotation_character_ids": [
+        "weisili_jiu_boxin_uncle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

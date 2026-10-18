@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0",
+  "id": "book_859f2b1ca2cd",
+  "title": "天才白痴",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/56天才白痴.txt",
+  "file": "books/book_859f2b1ca2cd.json",
+  "inherited_fact_count": 26,
+  "curated_links": {
+    "events": [
+      "m_annie_independent"
+    ],
+    "arcs": [
+      "arc_mulanhua",
+      "arc_annie"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "8b58d5e526602be97d5fdebc04671858f9a4b662f752aca7c5429beb3e163ba1",
+  "source_lines": 2322,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "狄诺",
+      "card_id": "mulanhua_dinuo",
+      "role": "单书主角",
+      "basis": "被改造的核心人物；旧经历与当前损伤均纳入。"
+    },
+    {
+      "name": "图烈少将",
+      "card_id": "mulanhua_tulie",
+      "role": "反派",
+      "basis": "计划主持、追击与投诚终局。"
+    },
+    {
+      "name": "领事馆机关干部",
+      "card_id": "mulanhua_r_consulate_trap_officer",
+      "role": "反派",
+      "basis": "直接机关诱捕。"
+    },
+    {
+      "name": "两名押送特务",
+      "card_id": "mulanhua_r_escort_pair",
+      "role": "反派群体",
+      "basis": "固定双人押送与机内交锋。"
+    },
+    {
+      "name": "记忆读取小组",
+      "card_id": "mulanhua_r_memory_team",
+      "role": "反派群体",
+      "basis": "固定四人技术操作。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "系列主角",
+      "basis": "调查、搜救与安妮独立行动争议。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "独自潜入发现记忆系统，获承认成熟。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "深海搜寻。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "工厂调查与救援。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "跨书重要配角",
+      "basis": "技术与恢复可能追问。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "跨书重要配角",
+      "basis": "国际档案确认狄诺旧经历。"
+    },
+    {
+      "name": "杨科长",
+      "card_id": "mulanhua_yang_chief",
+      "role": "跨书重要配角",
+      "basis": "实际承担刑案调查；综合卡另记录59腐败与死亡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "黄江、目击证人",
+      "reason": "被灭口的一次性受害者，未发展独立行动主线。"
+    },
+    {
+      "name": "院长、脑科专家、齐瓦列夫博士",
+      "reason": "提供研究线索或仅被提及的发明者，没有独立主角线；不凭博士称谓扩写其动机。"
+    },
+    {
+      "name": "领事、匿名接待者、守卫、潜艇其余人员与机师",
+      "reason": "一次性职能人员，无法证实和具行为的主要特务同人；不为每个匿名警卫复制卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_dfe6aa85dd02c46a",
+      "statement": "绑架调查。",
+      "annotation_character_ids": [
+        "mulanhua_yang_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d112ba4bddcd3298",
+      "statement": "工厂工作与当前能力。",
+      "annotation_character_ids": [
+        "mulanhua_dinuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_89072e7b8a5fb955",
+      "statement": "证人保护未及和现场追查。",
+      "annotation_character_ids": [
+        "mulanhua_yang_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_17888a59392e621c",
+      "statement": "旧职业和化装经历。",
+      "annotation_character_ids": [
+        "mulanhua_dinuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_809d7791b585c6ca",
+      "statement": "赫尔辛基旧行动。",
+      "annotation_character_ids": [
+        "mulanhua_dinuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bcd2642c0df7199f",
+      "statement": "发现、识别、触发机关与火箭枪。",
+      "annotation_character_ids": [
+        "mulanhua_r_consulate_trap_officer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d3eaf77fad200ec9",
+      "statement": "玻璃与封堵麻醉的实际效果。",
+      "annotation_character_ids": [
+        "mulanhua_r_consulate_trap_officer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cf7a6bc524d7b775",
+      "statement": "仍可被麻醉",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_766baf9de113ead9",
+      "statement": "再次麻醉与伪装出境。",
+      "annotation_character_ids": [
+        "mulanhua_r_escort_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83a51565f570e245",
+      "statement": "当前反应与失去自主。",
+      "annotation_character_ids": [
+        "mulanhua_dinuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ba2898a05e67a7d8",
+      "statement": "人数、分工、仪器及发明归属。",
+      "annotation_character_ids": [
+        "mulanhua_r_memory_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d00fd6a481e2c656",
+      "statement": "仪器配合显示记忆。",
+      "annotation_character_ids": [
+        "mulanhua_dinuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_24467e9bc6bd88d5",
+      "statement": "催眠与影像显示。",
+      "annotation_character_ids": [
+        "mulanhua_r_memory_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_58aa51630dd216e2",
+      "statement": "第一次机内被制服。",
+      "annotation_character_ids": [
+        "mulanhua_r_escort_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_687d1a03996f940a",
+      "statement": "无线电与第二次夺枪交锋。",
+      "annotation_character_ids": [
+        "mulanhua_r_escort_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f90c00327d0ddf81",
+      "statement": "留在坠海飞机内。",
+      "annotation_character_ids": [
+        "mulanhua_r_escort_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa3f8f7c6e91df11",
+      "statement": "身份、失败追击与潜艇获救。",
+      "annotation_character_ids": [
+        "mulanhua_tulie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ae30b592ca7c75e",
+      "statement": "图烈评价与任务。",
+      "annotation_character_ids": [
+        "mulanhua_r_escort_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e1d449a9b83d680b",
+      "statement": "周密诱捕与错误。",
+      "annotation_character_ids": [
+        "mulanhua_tulie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_038e97d0718f83de",
+      "statement": "准备与气功有限提前醒",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c9c918d9e4d0ff0",
+      "statement": "责任、投诚和未完成计划。",
+      "annotation_character_ids": [
+        "mulanhua_tulie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0378b1e107dcf1f6",
+      "statement": "已实现与未实现计划的区别。",
+      "annotation_character_ids": [
+        "mulanhua_r_memory_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f38aacf573ac607a",
+      "statement": "手术及恢复仅理论可能。",
+      "annotation_character_ids": [
+        "mulanhua_dinuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_540b4679b7bc321a",
+      "statement": "技术边界。",
+      "annotation_character_ids": [
+        "mulanhua_tulie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6f83baebd752a128",
+      "statement": "投诚及名单。",
+      "annotation_character_ids": [
+        "mulanhua_tulie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_355635b8eed9f298",
+      "statement": "要求独立与被承认",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

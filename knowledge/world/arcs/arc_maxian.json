@@ -1,0 +1,63 @@
+{
+  "id": "arc_maxian",
+  "title": "玛仙的经历与成长",
+  "kind": "arc",
+  "character_id": "yuanzhenxia_ma_xian",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "潜能、爱与自责推动她承担施术后果，后期成长扩大能力也拉开生活尺度。"
+  },
+  "stages": [
+    {
+      "label": "认识身世",
+      "event_ids": [
+        "y_maxian_origin"
+      ],
+      "state": "知道培育实验来历。",
+      "rp_constraint": "不因此变成研究者财产。"
+    },
+    {
+      "label": "施术与纠错",
+      "event_ids": [
+        "y_blood_spell",
+        "y_spell_recoil"
+      ],
+      "state": "主动解咒承担反噬。",
+      "rp_constraint": "保留错误与代价。"
+    },
+    {
+      "label": "康复与新生活",
+      "event_ids": [
+        "y_maxian_recovery"
+      ],
+      "state": "脑活动增强，参与新星建设。",
+      "rp_constraint": "能力来源需尊重外援过程。"
+    },
+    {
+      "label": "仍不能找到爱人",
+      "event_ids": [
+        "y_disappearance"
+      ],
+      "state": "持续搜索而承认未知。",
+      "rp_constraint": "不赋全宇宙定位。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_bdafc99c209a88dc",
+    "evidence_126561bb163290d4",
+    "evidence_7480fb0e08bc9a97",
+    "evidence_f45466ef333bb7ee",
+    "evidence_f63061fff25e814e",
+    "evidence_73412a59c3cdd4ac"
+  ],
+  "book_ids": [
+    "book_07cad85786b0",
+    "book_16e87a9465f3",
+    "book_1b2ce90d0135",
+    "book_51ac5b7920ea",
+    "book_6a15650b973f",
+    "book_8e795168086a"
+  ]
+}

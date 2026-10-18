@@ -1,0 +1,17 @@
+{
+  "id": "before__w_leman__l_beehive",
+  "source": "w_leman",
+  "target": "l_beehive",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "《蜂后》明确说明《后备》秘密曝光后医院迁址，是可靠跨系列锚。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "《蜂后》明确说明《后备》秘密曝光后医院迁址，是可靠跨系列锚。",
+  "evidence_ids": [
+    "evidence_5bcc7c8fce49c85c"
+  ],
+  "book_ids": [
+    "book_533b28ccc313"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "schema_version": "1.0",
+  "id": "book_6223e2d26cdb",
+  "title": "预告",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/29预告.txt",
+  "file": "books/book_6223e2d26cdb.json",
+  "inherited_fact_count": 15,
+  "curated_links": {
+    "rules": [
+      "rule_hidden_world"
+    ],
+    "events": [
+      "s_police_boundary"
+    ],
+    "arcs": [
+      "arc_gaosi",
+      "arc_liyufang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "6a8f7af2b8d9d636e2aba71a84deed626cd2aad958bc741c659d4018857a3dfa",
+  "source_lines": 681,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "许千钧",
+      "card_id": "gaosi_xu_qianjun",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "陈生发",
+      "card_id": "gaosi_chen_shengfa",
+      "role": "单书主角/阶段性嫌疑人",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "陈生保",
+      "card_id": "gaosi_chen_shengbao",
+      "role": "单书主角/阶段性嫌疑人",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "戚云",
+      "reason": "本篇核心受害者，绘画职业、报案与死亡均由他人回述；没有独立主角视角、反派行为或跨书经历，作为案件证据人物保留。"
+    },
+    {
+      "name": "许千钧之妻",
+      "reason": "通过陈生保转述出现，未证实知情参与谋杀；不因暧昧关系直接列反派。"
+    },
+    {
+      "name": "伪装袭击陈生保的警方人员",
+      "reason": "警方演示行动，未具个人身份，不误列犯罪团伙。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_fbb7b0f90e5b214b",
+      "statement": "连续预告与真实谋杀",
+      "annotation_character_ids": [
+        "gaosi_xu_qianjun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e815b21243982d43",
+      "statement": "用铁丝开启简单门锁",
+      "annotation_character_ids": [
+        "gaosi_gao_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_029ae5cf28d35b8d",
+      "statement": "摄影分析成功，但把嫌疑当结论遭纠正",
+      "annotation_character_ids": [
+        "gaosi_gao_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b1e5c42409956b15",
+      "statement": "仿造布景及第一层嫌疑",
+      "annotation_character_ids": [
+        "gaosi_xu_qianjun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e3eea832a54cf74d",
+      "statement": "职业及酬劳争执",
+      "annotation_character_ids": [
+        "gaosi_chen_shengfa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b7efc0a788011975",
+      "statement": "扣留、否认及继承事实",
+      "annotation_character_ids": [
+        "gaosi_chen_shengfa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a26f6b8fcebefc0a",
+      "statement": "继承事实、假救援与逐层纠正嫌疑",
+      "annotation_character_ids": [
+        "gaosi_li_yufang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_09285fbf2b839d66",
+      "statement": "候补继承人及陷害假说",
+      "annotation_character_ids": [
+        "gaosi_chen_shengfa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4a7123ca5db4ce11",
+      "statement": "候补继承与警方怀疑",
+      "annotation_character_ids": [
+        "gaosi_chen_shengbao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_33eb8daa9c35678b",
+      "statement": "假救援、私人关系及恐惧",
+      "annotation_character_ids": [
+        "gaosi_chen_shengbao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_60ca5aafedbddd19",
+      "statement": "动机、连锁布局与承认",
+      "annotation_character_ids": [
+        "gaosi_xu_qianjun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1a2ff517072e3e5f",
+      "statement": "真正布局与结案",
+      "annotation_character_ids": [
+        "gaosi_chen_shengfa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fbe058cf547e54c0",
+      "statement": "其实际被陷害的位置",
+      "annotation_character_ids": [
+        "gaosi_chen_shengbao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e55eb6f4016f9f09",
+      "statement": "推理比喻与交通罚单结局",
+      "annotation_character_ids": [
+        "gaosi_gao_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_52ba029183f768a6",
+      "statement": "不替高斯取消罚单",
+      "annotation_character_ids": [
+        "gaosi_li_yufang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

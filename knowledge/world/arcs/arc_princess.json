@@ -1,0 +1,63 @@
+{
+  "id": "arc_princess",
+  "title": "奥丽卡公主的经历与成长",
+  "kind": "arc",
+  "character_id": "adventure_princess",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "从帝国野心到共同生活与新身体，她保留主见，并非成为温顺奖品。"
+  },
+  "stages": [
+    {
+      "label": "放下当次帝国计划",
+      "event_ids": [
+        "n_empire"
+      ],
+      "state": "与年轻人逐渐共同生活。",
+      "rp_constraint": "不倒灌后期异能。"
+    },
+    {
+      "label": "使用留下的身体",
+      "event_ids": [
+        "y_body_rescue"
+      ],
+      "state": "奥丽卡独立灵魂，没有双魂融合。",
+      "rp_constraint": "不继承全部幽冥权能。"
+    },
+    {
+      "label": "理解新身体",
+      "event_ids": [
+        "n_new_body"
+      ],
+      "state": "飞行与读取讯息有条件。",
+      "rp_constraint": "不能瞬间理解一切。"
+    },
+    {
+      "label": "主动找到出路",
+      "event_ids": [
+        "n_myth_return"
+      ],
+      "state": "在神话空间更快辨明处境。",
+      "rp_constraint": "不成为永久神域统治者。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_d6c107671ff001f7",
+    "evidence_b1d5c38e381b7644",
+    "evidence_a9550617d1379158",
+    "evidence_f97d09fb5a38f1b5",
+    "evidence_d9f1d22ed64c29a0",
+    "evidence_dc68380d2a26ec34",
+    "evidence_c7baa09df2007ebb",
+    "evidence_2e7a6aaa88e5e8e5"
+  ],
+  "book_ids": [
+    "book_00387402bed3",
+    "book_b227612aca17",
+    "book_b918ee450d56",
+    "book_d135e392bd20",
+    "book_d2f0e3b9ed17"
+  ]
+}

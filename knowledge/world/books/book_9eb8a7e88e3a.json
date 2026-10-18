@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "id": "book_9eb8a7e88e3a",
+  "title": "怪房子",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/07怪房子.txt",
+  "file": "books/book_9eb8a7e88e3a.json",
+  "inherited_fact_count": 2,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "a9221d5e042630bbc5c6691e35e13e8a31a54ad2d3cfb3002390c6f24afd7b7f",
+  "source_lines": 649,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "彭士元",
+      "card_id": "gaosi_peng_shiyuan",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "罗夫、王余、杨坚及聚会主人",
+      "reason": "本书一次性朋友，推动赌赛与讨论，未找到跨书实际登场。"
+    },
+    {
+      "name": "彭家建屋先祖",
+      "reason": "仅经遗留机关和留言出现的历史人物；设计求知测试，不确定属于反派。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e69d47eb411e0c3c",
+      "statement": "记录、机械假说与动力疑问",
+      "annotation_character_ids": [
+        "gaosi_peng_shiyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f1eaaf9eee2c0a49",
+      "statement": "决定破墙、发现装置和先祖本意",
+      "annotation_character_ids": [
+        "gaosi_peng_shiyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

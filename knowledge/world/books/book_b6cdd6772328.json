@@ -1,0 +1,217 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b6cdd6772328",
+  "title": "许愿",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/097许愿.txt",
+  "file": "books/book_b6cdd6772328.json",
+  "inherited_fact_count": 13,
+  "curated_links": {
+    "entities": [
+      "death_ring"
+    ],
+    "events": [
+      "w_ring_explanation"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "ac0e2b19299dd6a5546d02076649be09587ef4d96b1b4a017357e3729380225e",
+  "source_lines": 2699,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "祖天开",
+      "card_id": "weisili_zu_tiankai",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "曹金福",
+      "card_id": "weisili_cao_jinfu",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "曹普照",
+      "card_id": "weisili_cao_puzhao",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "李宣宣",
+      "card_id": "weisili_li_xuanxuan",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "崔三娘",
+      "card_id": "weisili_cui_sanniang",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "黄豪",
+      "card_id": "weisili_huang_hao",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "花五",
+      "card_id": "weisili_hua_wu",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "阴老二",
+      "card_id": "weisili_yin_laoer",
+      "role": "反派",
+      "basis": "追寻对象与其行为后果为本书核心"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "王大同",
+      "reason": "本书为祖天开许愿所关心的人，未另算实际参与"
+    },
+    {
+      "name": "曹家其余灵魂",
+      "reason": "共同选择留下但缺少可区分人格，不虚构每名家庭成员卡"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_33b6a0711c5cb6a0",
+      "statement": "使用催命环报仇及对机制解释的质疑",
+      "annotation_character_ids": [
+        "weisili_cui_sanniang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c3496540924bd169",
+      "statement": "催命环机制和既有死亡解释的差异",
+      "annotation_character_ids": [
+        "weisili_yin_laoer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b6e15e7078e567c",
+      "statement": "为王大同许愿",
+      "annotation_character_ids": [
+        "weisili_zu_tiankai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a520a7ba604f984b",
+      "statement": "祖天开仍为其许愿",
+      "annotation_character_ids": [
+        "weisili_wang_datong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_14ade03a57573706",
+      "statement": "交付危险器物引发白老大不满",
+      "annotation_character_ids": [
+        "weisili_cui_sanniang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_08916afc1896c829",
+      "statement": "希望离开身体",
+      "annotation_character_ids": [
+        "weisili_huang_hao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_61da283d4f845f8e",
+      "statement": "寻找失败与生死未证实",
+      "annotation_character_ids": [
+        "weisili_yin_laoer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2be2364aef84b8ed",
+      "statement": "偷盒子时完全不同的外貌",
+      "annotation_character_ids": [
+        "weisili_hua_wu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4bec8a19b93fe0ad",
+      "statement": "家族灵魂自愿不返回",
+      "annotation_character_ids": [
+        "weisili_cao_puzhao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6dc6b04799562360",
+      "statement": "境界解释、借身和离去",
+      "annotation_character_ids": [
+        "weisili_cao_puzhao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e099f8d518f7c390",
+      "statement": "拒绝全无境界并与黄老四离开",
+      "annotation_character_ids": [
+        "weisili_cui_sanniang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_092203a9894cbdf9",
+      "statement": "未解决处境的最终离去",
+      "annotation_character_ids": [
+        "weisili_huang_hao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e211a7ce3e12cdf4",
+      "statement": "祖父离开与仇恨消解",
+      "annotation_character_ids": [
+        "weisili_cao_jinfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

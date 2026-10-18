@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "id": "book_312a777eded3",
+  "title": "贝壳",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/040贝壳.txt",
+  "file": "books/book_312a777eded3.json",
+  "inherited_fact_count": 4,
+  "curated_links": {
+    "arcs": [
+      "arc_baisu"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "4e8d519f4f86bf86da2ecdd88ea183e4940c7a8568baf9287c642c3fe912ad5d",
+  "source_lines": 2196,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "受托追查"
+    },
+    {
+      "name": "何艳容",
+      "card_id": "weisili_he_yanrong",
+      "role": "重要配角",
+      "basis": "委托寻找丈夫，后书实际继续登场"
+    },
+    {
+      "name": "万良生（原本人）",
+      "card_id": "weisili_wan_liangsheng",
+      "role": "单书主角",
+      "basis": "自主转换事件"
+    },
+    {
+      "name": "《贝壳》的两名异星来客",
+      "card_id": "weisili_beike_visitors",
+      "role": "非人主角群体",
+      "basis": "自主转换事件"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "红兰、徐谅",
+      "reason": "单次船上关系和线索人物"
+    },
+    {
+      "name": "小郭新婚太太",
+      "reason": "未具名短暂出场，不凭相邻书恋情强行赋名"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_5f19506bdaab280d",
+      "statement": "误伤、救援和双重躯体",
+      "annotation_character_ids": [
+        "weisili_beike_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_52c7a1d864e53d39",
+      "statement": "主张、转换及离去",
+      "annotation_character_ids": [
+        "weisili_beike_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca007572115ed760",
+      "statement": "转换与自愿入海",
+      "annotation_character_ids": [
+        "weisili_wan_liangsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b73e6f6693d2093c",
+      "statement": "尊重万良生作为海螺生活的选择",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

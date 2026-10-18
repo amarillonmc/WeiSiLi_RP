@@ -1,0 +1,23 @@
+{
+  "id": "rule_hidden_world",
+  "title": "日常社会与隐秘异常并存",
+  "kind": "rule",
+  "epistemic_status": "synthesis",
+  "statement": "警察、医院、新闻、商业、国家和家庭仍按日常制度运行；异常知识集中在少数经历者、实验机构、秘密组织与异类手里，不能由某主角知道推成全世界公开。",
+  "rp_application": "先判定现场普通人能接触的证据，再决定何时引入异常解释；警务调查、交通和资金可以继续构成实际障碍。",
+  "limits": [
+    "同一世界观是项目的整合前提；九个系列不存在已证实的统一世界政府或共同反派。",
+    "被主角写进故事不等于故事内每个人都读过或相信。"
+  ],
+  "schema_version": "1.0",
+  "section": "rules",
+  "evidence_ids": [
+    "evidence_52ba029183f768a6",
+    "evidence_a26f6b8fcebefc0a",
+    "evidence_963988ec8dc481db"
+  ],
+  "book_ids": [
+    "book_533b28ccc313",
+    "book_6223e2d26cdb"
+  ]
+}

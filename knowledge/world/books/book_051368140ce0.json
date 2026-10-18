@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "id": "book_051368140ce0",
+  "title": "转世暗号",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/101转世暗号.txt",
+  "file": "books/book_051368140ce0.json",
+  "inherited_fact_count": 18,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "0a69f3bc3ba2204d20f2a34622e6f5f9cfaec09649a08efd0c40c7f1682287f1",
+  "source_lines": 2736,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "系列主角",
+      "basis": "处理来信与参与"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "系列主角",
+      "basis": "参与讨论及会面"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "寻访与被迫求助"
+    },
+    {
+      "name": "黄蝉",
+      "card_id": "weisili_huang_chan",
+      "role": "阶段性对立者",
+      "basis": "介入法物与识别计划"
+    },
+    {
+      "name": "章摩",
+      "card_id": "weisili_zhangmo",
+      "role": "重要配角",
+      "basis": "亲自来访邀请"
+    },
+    {
+      "name": "卫七",
+      "card_id": "weisili_wei_qishu",
+      "role": "重要配角",
+      "basis": "参与法物托付、真实身份与权力冲突"
+    },
+    {
+      "name": "大活佛（转世暗号）",
+      "card_id": "weisili_great_living_buddha",
+      "role": "单书主角",
+      "basis": "参与法物托付、真实身份与权力冲突"
+    },
+    {
+      "name": "二活佛（真正转世者）",
+      "card_id": "weisili_second_living_buddha",
+      "role": "单书主角",
+      "basis": "参与法物托付、真实身份与权力冲突"
+    },
+    {
+      "name": "登珠活佛",
+      "card_id": "weisili_dengzhu",
+      "role": "单书主角",
+      "basis": "参与法物托付、真实身份与权力冲突"
+    },
+    {
+      "name": "宁活佛",
+      "card_id": "weisili_ning_living_buddha",
+      "role": "反派",
+      "basis": "参与法物托付、真实身份与权力冲突"
+    },
+    {
+      "name": "拉休寺行凶的叛教者",
+      "card_id": "weisili_lahiu_betrayer",
+      "role": "反派",
+      "basis": "参与法物托付、真实身份与权力冲突"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "三老太爷和其他卫家长辈",
+      "reason": "本书辅助家族人物，无独立主角或反派线。"
+    },
+    {
+      "name": "假二活佛",
+      "reason": "被扶植为替代者是背景事实，未写其个人知情与主动恶行；不凭假身份直接判作独立反派。"
+    },
+    {
+      "name": "台湾来信少年与巴西少年",
+      "reason": "开篇旁枝见闻，未具名且未参与后续主线。"
+    },
+    {
+      "name": "穆家庄主与女婴",
+      "reason": "有关穆秀珍的身世线索尚未确认同一身份，保留疑问而不新造另一张女侠卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_44ff8bf1e71aa4b5",
+      "statement": "索物冲突",
+      "annotation_character_ids": [
+        "weisili_ning_living_buddha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_44de8eb3d81118b7",
+      "statement": "守约与武艺",
+      "annotation_character_ids": [
+        "weisili_wei_qishu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8230baf04063585b",
+      "statement": "相遇与神游",
+      "annotation_character_ids": [
+        "weisili_dengzhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6eb10f689852882a",
+      "statement": "转世问题",
+      "annotation_character_ids": [
+        "weisili_dengzhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8762c722eed798bd",
+      "statement": "地位、有限思想感应与未知奇遇",
+      "annotation_character_ids": [
+        "weisili_zhangmo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e86ed66a62d66f0",
+      "statement": "邀访、被拒与斡旋",
+      "annotation_character_ids": [
+        "weisili_zhangmo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_afbe9d9822db1038",
+      "statement": "观湖转述",
+      "annotation_character_ids": [
+        "weisili_ning_living_buddha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_58cc63b649108d5d",
+      "statement": "持刃抢夺令",
+      "annotation_character_ids": [
+        "weisili_ning_living_buddha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cd83629cc4d32c01",
+      "statement": "误判与停止",
+      "annotation_character_ids": [
+        "weisili_ning_living_buddha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9782b4aeb81a2cf6",
+      "statement": "白素答应代访",
+      "annotation_character_ids": [
+        "weisili_zhangmo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_20fcaa97972f8955",
+      "statement": "神会与计划",
+      "annotation_character_ids": [
+        "weisili_great_living_buddha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5601346af0ccfe29",
+      "statement": "责任争议",
+      "annotation_character_ids": [
+        "weisili_great_living_buddha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_64ab6e3198f581fc",
+      "statement": "政治目标",
+      "annotation_character_ids": [
+        "weisili_great_living_buddha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_347b0989eb7bea39",
+      "statement": "前生和认证",
+      "annotation_character_ids": [
+        "weisili_second_living_buddha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a601f7711ae5207",
+      "statement": "行凶、追杀与死亡",
+      "annotation_character_ids": [
+        "weisili_lahiu_betrayer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa13546016cadf24",
+      "statement": "救出法物与追杀",
+      "annotation_character_ids": [
+        "weisili_dengzhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22f2c1af9b801be2",
+      "statement": "神会与表述限制",
+      "annotation_character_ids": [
+        "weisili_second_living_buddha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff6a9cccb70282b2",
+      "statement": "另一渠道目击叙述",
+      "annotation_character_ids": [
+        "weisili_lahiu_betrayer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

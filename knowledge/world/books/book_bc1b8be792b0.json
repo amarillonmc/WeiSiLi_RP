@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "id": "book_bc1b8be792b0",
+  "title": "雷库惊魂",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/08雷库惊魂.txt",
+  "file": "books/book_bc1b8be792b0.json",
+  "inherited_fact_count": 21,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "f9ff771a65251368f76167a97402c496eaa5e35bdb6443bbd0621b3cb5a6748c",
+  "source_lines": 2554,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "马里坦男爵",
+      "card_id": "mulanhua_malitan",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "屈莱",
+      "card_id": "mulanhua_qu_lai",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "柯克船长（雷库号）",
+      "card_id": "mulanhua_captain_kirk",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "麦声同",
+      "card_id": "mulanhua_mai_shengtong",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "泰维许",
+      "card_id": "mulanhua_taiweixu",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "马超文",
+      "card_id": "mulanhua_ma_chaowen",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "受贿直升机正副驾驶员",
+      "reason": "一次性运输助手，明知受贿但不知箱中人物；记录为腐败链条证据，不扩写独立主角线。"
+    },
+    {
+      "name": "其余宴会会员、夜袭枪手、船员、蛙人和警员内奸",
+      "reason": "无可区分身份的一次性执行助手；各类行动作为策划者的有条件组织支援记录。"
+    },
+    {
+      "name": "勃列斯登",
+      "reason": "本书仅死后追述，不算实际跨书登场；补充其专长证据到第七册主卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_70787083f703654d",
+      "statement": "副主席身份及珠宝专长的追述",
+      "annotation_character_ids": [
+        "mulanhua_boliesideng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_78db555b3c5c2605",
+      "statement": "主位、身份及假画生意",
+      "annotation_character_ids": [
+        "mulanhua_taiweixu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_73b9c4fd2b93a905",
+      "statement": "身份、恶名及代表式介绍",
+      "annotation_character_ids": [
+        "mulanhua_mai_shengtong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_66fddc53e82a0313",
+      "statement": "共同宴会陷阱",
+      "annotation_character_ids": [
+        "mulanhua_mai_shengtong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9e6b600eb472c9db",
+      "statement": "关键离席动作与机关触发",
+      "annotation_character_ids": [
+        "mulanhua_taiweixu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d5a21f501ca0896b",
+      "statement": "所谓会长缺席被事实推翻",
+      "annotation_character_ids": [
+        "mulanhua_mai_shengtong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_650ac4f072d8c47d",
+      "statement": "贿赂运输、雷库号与首领动机",
+      "annotation_character_ids": [
+        "mulanhua_malitan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9668bdb006385d3c",
+      "statement": "招募、器械与橡皮替身",
+      "annotation_character_ids": [
+        "mulanhua_malitan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7daa063e7647142a",
+      "statement": "判刑及越狱解释",
+      "annotation_character_ids": [
+        "mulanhua_malitan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5736b5d6058b51c5",
+      "statement": "蜡尸诱捕",
+      "annotation_character_ids": [
+        "mulanhua_malitan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6b0c27841f305f71",
+      "statement": "勒索方局长及失败",
+      "annotation_character_ids": [
+        "mulanhua_malitan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3fda46b423a16f2c",
+      "statement": "亲属关系、晋升目标和谈判逆转",
+      "annotation_character_ids": [
+        "mulanhua_qu_lai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_59b4657926546a00",
+      "statement": "亲自设计与最终被击昏",
+      "annotation_character_ids": [
+        "mulanhua_malitan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8387ac9d84f82a4d",
+      "statement": "船上机关明确归马里坦设计",
+      "annotation_character_ids": [
+        "mulanhua_mai_shengtong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e77899deb3988379",
+      "statement": "受挟掩护与被击昏",
+      "annotation_character_ids": [
+        "mulanhua_qu_lai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2bc8babd37527b06",
+      "statement": "推进器逃离及反被利用",
+      "annotation_character_ids": [
+        "mulanhua_qu_lai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dad6004086601cef",
+      "statement": "身份、表面服从和撤离命令",
+      "annotation_character_ids": [
+        "mulanhua_captain_kirk"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04cb4d7203a64ed8",
+      "statement": "岸上伏击及本人指挥",
+      "annotation_character_ids": [
+        "mulanhua_captain_kirk"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_08d8b59275ff3d6b",
+      "statement": "再入狱",
+      "annotation_character_ids": [
+        "mulanhua_malitan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_909d4db47f80a6ef",
+      "statement": "负伤被捕与拒供",
+      "annotation_character_ids": [
+        "mulanhua_captain_kirk"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bea24961c572bc9d",
+      "statement": "拘留待审",
+      "annotation_character_ids": [
+        "mulanhua_qu_lai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

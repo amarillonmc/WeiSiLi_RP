@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "id": "book_20c82d7b018b",
+  "title": "背叛",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/078背叛.txt",
+  "file": "books/book_20c82d7b018b.json",
+  "inherited_fact_count": 19,
+  "curated_links": {
+    "arcs": [
+      "arc_weisili"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "344388a9a413e99b34a1aa2d0b1fc5daa50b1ba06cb5d88652a279ba1b2a9aab",
+  "source_lines": 3511,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "读稿与调查；其偏见是具体行为而非正确结论"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "辨认隐去人物和共同调查"
+    },
+    {
+      "name": "甘铁生",
+      "card_id": "weisili_gan_tiesheng",
+      "role": "主角",
+      "basis": "被背叛、生还和释怀"
+    },
+    {
+      "name": "方铁生",
+      "card_id": "weisili_fang_tiesheng",
+      "role": "阶段性对立者",
+      "basis": "伪令、离开和自主欲望"
+    },
+    {
+      "name": "君花",
+      "card_id": "weisili_junhua",
+      "role": "主角",
+      "basis": "作者、参谋长与主动追问者"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "材料与讨论"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "照片与讨论协作"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "小牛、团营军官与守军指挥官",
+      "reason": "单次战役背景，未具独立持续角色线；师长指甘铁生，不另拆卡"
+    },
+    {
+      "name": "县资料机构负责人、向导和站长",
+      "reason": "一次性协助或相遇人物"
+    },
+    {
+      "name": "未知外星力量",
+      "reason": "被终局否认，不建立假想幕后实体"
+    },
+    {
+      "name": "虬髯客、李靖、红拂女、金毛狮王",
+      "reason": "戏剧或外貌比喻，非本书实际复生者"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0adfd28256f6e291",
+      "statement": "外形、性格和军职",
+      "annotation_character_ids": [
+        "weisili_fang_tiesheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_351a524f3bd7598d",
+      "statement": "早年军职与治军",
+      "annotation_character_ids": [
+        "weisili_gan_tiesheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_69432786fc85324b",
+      "statement": "童年求生",
+      "annotation_character_ids": [
+        "weisili_fang_tiesheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2eae9f0205b9e7ea",
+      "statement": "隐去的参谋长与敢死队行动线",
+      "annotation_character_ids": [
+        "weisili_junhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2bd5beda7441e132",
+      "statement": "暗处观察",
+      "annotation_character_ids": [
+        "weisili_fang_tiesheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_425eaee97473b454",
+      "statement": "伪令、覆灭及离开",
+      "annotation_character_ids": [
+        "weisili_fang_tiesheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_522e9647f7d2e7a2",
+      "statement": "信任命令及灾难",
+      "annotation_character_ids": [
+        "weisili_junhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6dfd7a50046d3722",
+      "statement": "君花抗辩其偏见",
+      "annotation_character_ids": [
+        "weisili_wei_sili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b17236e01a301681",
+      "statement": "面对偏见的抗辩",
+      "annotation_character_ids": [
+        "weisili_junhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dc1346cf2c0627fe",
+      "statement": "终局身体、怨恨及施恩心理",
+      "annotation_character_ids": [
+        "weisili_gan_tiesheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b2f4dc2e7ffac7af",
+      "statement": "蜷缩和野外生活",
+      "annotation_character_ids": [
+        "weisili_gan_tiesheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2df43b01a383c8e5",
+      "statement": "战败回忆",
+      "annotation_character_ids": [
+        "weisili_gan_tiesheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4fbb4beeac868110",
+      "statement": "驾车和重访地形",
+      "annotation_character_ids": [
+        "weisili_junhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_01112d0b0491d51c",
+      "statement": "坚持求解",
+      "annotation_character_ids": [
+        "weisili_junhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c48b711084c8c2a3",
+      "statement": "放下恨的转变",
+      "annotation_character_ids": [
+        "weisili_gan_tiesheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_318791e350606217",
+      "statement": "现时力量与自述终局",
+      "annotation_character_ids": [
+        "weisili_fang_tiesheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f3e69a63b70cc49",
+      "statement": "本人对女性身份的说明",
+      "annotation_character_ids": [
+        "weisili_junhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1fc915d9911ef858",
+      "statement": "仍不释怀的终局",
+      "annotation_character_ids": [
+        "weisili_junhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d201b45246bc0da8",
+      "statement": "独立人格的最终理解",
+      "annotation_character_ids": [
+        "weisili_gan_tiesheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

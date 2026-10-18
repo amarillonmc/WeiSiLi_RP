@@ -309,7 +309,9 @@ def main():
     write(dest/'coverage.json',sorted(coverage,key=lambda c:c['path']))
     write(dest/'rules.json',rules)
     write(dest/'manifest.json',{'schema_version':'1.0','source_files':catalog['files'],'card_count':len(cards),'rating_count':len(ratings),'reviewed_books':report['reviewed'],'complete':not args.allow_incomplete,'build_command':'python tools/build_character_kb.py'})
-    lines=['# 倪匡小说角色知识库','','每张角色卡均有独立的 JSON、可读卡片和另存的强度档案。原文不随知识库重复分发。','',f'当前角色 {len(cards)}，评级 {len(ratings)}，已核对文本 {report["reviewed"]}/{len(catalog["files"])}。','', '| 角色 | 系列 | 身份 | 强度 |', '|---|---|---|---|']
+    lines=['# 倪匡小说角色知识库','','每张角色卡均有独立的 JSON、可读卡片和另存的强度档案。原文不随知识库重复分发。','',
+           '世界运行、事件时间关系与角色阶段另见 [世界知识库](world/README.md)及 [RP 使用说明](../docs/worldbuilding_guide.md)。','',
+           f'当前角色 {len(cards)}，评级 {len(ratings)}，已核对文本 {report["reviewed"]}/{len(catalog["files"])}。','', '| 角色 | 系列 | 身份 | 强度 |', '|---|---|---|---|']
     for x in index:lines.append(f'| [{x["name"]}](characters/{x["id"]}.md) | {"、".join(x["series"])} | {"、".join(x["roles"])} | [{x["tier"]}](ratings/{x["id"]}.md) |')
     write(dest/'README.md','\n'.join(lines)+'\n')
 

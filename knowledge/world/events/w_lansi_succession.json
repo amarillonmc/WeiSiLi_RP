@@ -1,0 +1,29 @@
+{
+  "id": "w_lansi_succession",
+  "title": "猜王死亡与蓝丝继任",
+  "kind": "event",
+  "summary": "蓝丝面对师父遗首，在哀伤中接任天头派掌门。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《病毒》死亡后至《算帐》继任。",
+    "narrative_layer": "present"
+  },
+  "state_before": "师徒传承仍以猜王为中心。",
+  "state_after": "蓝丝失师并承担门派责任。",
+  "knowledge_boundary": "继任不意味着自动获得全部师门秘密和更高战力。",
+  "character_ids": [
+    "weisili_lan_si"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_ee7510e7c6e63af6",
+    "evidence_e1755620afa3fb3a",
+    "evidence_f6a4a64e7861588c"
+  ],
+  "book_ids": [
+    "book_256733d70464",
+    "book_bfd34177adbe"
+  ]
+}

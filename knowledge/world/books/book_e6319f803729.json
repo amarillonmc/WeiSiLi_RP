@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "id": "book_e6319f803729",
+  "title": "寻人",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/寻人.txt",
+  "file": "books/book_e6319f803729.json",
+  "inherited_fact_count": 8,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "a35c6a54583baf829c4403fb52a2acda46ce195bbef014a1b1d8345a96652d49",
+  "source_lines": 41,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "李三根的外祖母",
+      "card_id": "guihua_li_grandmother",
+      "role": "主角/反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "寻人骗局的老大",
+      "card_id": "guihua_search_leader",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "寻人骗局的老二",
+      "card_id": "guihua_search_talker",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "寻人骗局的老三",
+      "card_id": "guihua_search_lookout",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "李三根",
+      "reason": "寻人对象只在启事及对话中提及，未实际参与本篇行动。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_09785d566773985f",
+      "statement": "结伙、分工及软硬两套方案",
+      "annotation_character_ids": [
+        "guihua_search_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0438982a587f482b",
+      "statement": "参与决策与默契接应",
+      "annotation_character_ids": [
+        "guihua_search_lookout"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5dabe516fbe99d49",
+      "statement": "驱赶少女、虚构照料与孤立目标",
+      "annotation_character_ids": [
+        "guihua_search_talker"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_84635e4285d8d2d4",
+      "statement": "寻亲诉求与被骗赴约",
+      "annotation_character_ids": [
+        "guihua_li_grandmother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_30de3072cc94f1f9",
+      "statement": "替异常找理由及死亡",
+      "annotation_character_ids": [
+        "guihua_search_talker"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb4885a91ab98710",
+      "statement": "接人、试拿钱袋与死亡",
+      "annotation_character_ids": [
+        "guihua_search_lookout"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ab5c1ff96c8a7a27",
+      "statement": "等待、抢钱与死亡",
+      "annotation_character_ids": [
+        "guihua_search_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fbf897c063f6ae29",
+      "statement": "识破、张口袭击与死亡结果",
+      "annotation_character_ids": [
+        "guihua_li_grandmother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

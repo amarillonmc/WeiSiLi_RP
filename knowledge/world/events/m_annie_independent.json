@@ -1,0 +1,32 @@
+{
+  "id": "m_annie_independent",
+  "title": "安妮成长为可承担任务的同伴",
+  "kind": "event",
+  "summary": "恢复后学习武技和大学课程，争取独立，终案受伤后恢复并推断木兰花的换气办法。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《金庙奇佛》《天才白痴》到《无名怪尸》的成长阶段。",
+    "narrative_layer": "present"
+  },
+  "state_before": "已能行走但仍被过度保护。",
+  "state_after": "知识、判断与责任增加，仍会受伤和需要治疗。",
+  "knowledge_boundary": "终局没有婚约或永久脑伤；不能退回永远被救的幼年状态。",
+  "character_ids": [
+    "mulanhua_annie"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_523003f7e744e07e",
+    "evidence_355635b8eed9f298",
+    "evidence_4693eca5a622cf5f",
+    "evidence_787c35885040d57e",
+    "evidence_3c27ab7203ee0360"
+  ],
+  "book_ids": [
+    "book_1759a14aa7d2",
+    "book_859f2b1ca2cd",
+    "book_dfed8fba4c8b"
+  ]
+}

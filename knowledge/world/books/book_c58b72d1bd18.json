@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "id": "book_c58b72d1bd18",
+  "title": "黑龙现爪",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/02黑龙现爪.txt",
+  "file": "books/book_c58b72d1bd18.json",
+  "inherited_fact_count": 21,
+  "curated_links": {
+    "arcs": [
+      "arc_gaoxiang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "288f5d8b671cae2a2db5e96d92b2dccdb71f260bc437d53b4669a02a7d0ec47e",
+  "source_lines": 1880,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "金星（黑龙党）",
+      "card_id": "mulanhua_venus",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "里宾度",
+      "card_id": "mulanhua_libindu",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "彭可",
+      "card_id": "mulanhua_peng_ke",
+      "role": "单书主角/由反派转为保护者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "黑龙党的假护士绑架组",
+      "card_id": "mulanhua_blackdragon_hospital_team",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "萨都拉",
+      "card_id": "mulanhua_sadula",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "阿敏娜",
+      "card_id": "mulanhua_amina",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "陆尚",
+      "reason": "本书一次性探员报告火灾，后续是否成为重要配角将另作跨书核对。"
+    },
+    {
+      "name": "地球及未出场行星首脑",
+      "reason": "本书仅档案资料提及，实际在其他书出场者另建卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_794d29997a3e32fb",
+      "statement": "外观、飞行判断与行动",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a9affddd6ced0b53",
+      "statement": "身份、外观与现场关切",
+      "annotation_character_ids": [
+        "mulanhua_fang_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f4c5b1916673fee",
+      "statement": "履历",
+      "annotation_character_ids": [
+        "mulanhua_libindu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_54a7f4f79f5ea1dc",
+      "statement": "受伤父亲与营救决策",
+      "annotation_character_ids": [
+        "mulanhua_sadula"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f1ab7436f1ad44b",
+      "statement": "说服、刀术、失眼及等级服从",
+      "annotation_character_ids": [
+        "mulanhua_libindu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c37de9b45f5720d6",
+      "statement": "外观和绑架自认",
+      "annotation_character_ids": [
+        "mulanhua_venus"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_edf34309a8d8a88d",
+      "statement": "近身受袭与失枪",
+      "annotation_character_ids": [
+        "mulanhua_libindu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d946631ef2204490",
+      "statement": "炸药弱点及党内处罚",
+      "annotation_character_ids": [
+        "mulanhua_venus"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d6bea4d3d5ff808",
+      "statement": "爆炸关联",
+      "annotation_character_ids": [
+        "mulanhua_libindu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_33e8b787ce84e83a",
+      "statement": "绑架与被捕",
+      "annotation_character_ids": [
+        "mulanhua_blackdragon_hospital_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_148ad85e7b55e1ed",
+      "statement": "地下设施与利诱",
+      "annotation_character_ids": [
+        "mulanhua_venus"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_35c004d0fef23056",
+      "statement": "假昏、伪装和人质后手",
+      "annotation_character_ids": [
+        "mulanhua_venus"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca07568012353984",
+      "statement": "服毒死亡",
+      "annotation_character_ids": [
+        "mulanhua_blackdragon_hospital_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_044adf1fd20b441c",
+      "statement": "被威胁时的直接问话",
+      "annotation_character_ids": [
+        "mulanhua_amina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e9666d8dd41f1b85",
+      "statement": "金星命令与木兰花劝说",
+      "annotation_character_ids": [
+        "mulanhua_peng_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3d4a089cbaaa7557",
+      "statement": "控制失效与死亡",
+      "annotation_character_ids": [
+        "mulanhua_venus"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d0216aef5d61b673",
+      "statement": "拒令救人和情绪",
+      "annotation_character_ids": [
+        "mulanhua_peng_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e53410f064eb4109",
+      "statement": "救出、认彭可为友与亲吻",
+      "annotation_character_ids": [
+        "mulanhua_amina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b4ba6936f4196e9f",
+      "statement": "死亡确认",
+      "annotation_character_ids": [
+        "mulanhua_libindu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a1a55b302b635735",
+      "statement": "受聘结局",
+      "annotation_character_ids": [
+        "mulanhua_peng_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff2ab3dc8a7a6d93",
+      "statement": "聘彭可",
+      "annotation_character_ids": [
+        "mulanhua_sadula"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "extraordinary_exchange",
+  "title": "非常物品交易会",
+  "kind": "institution",
+  "summary": "勒曼医院主持的异常物品交易与干预网络。",
+  "mechanism": {
+    "text": "借医疗依赖联系政要豪富，以维持和平均衡为自述目标；与蜂后替代计划冲突。",
+    "epistemic_status": "testimony"
+  },
+  "access_conditions": [
+    "交易网络的邀请、对象与保密安排"
+  ],
+  "limits": [
+    "自称维护和平不是伦理免责",
+    "物品存在不代表每件都可买到"
+  ],
+  "last_known_state": "《蜂后》揭明幕后；该次拍卖蜂后计划在协商中取消。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "可用作争夺物件、营救被商品化的人或调查交易条件的入口。"
+  },
+  "character_ids": [],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_a509ac3eb2327640"
+  ],
+  "book_ids": [
+    "book_533b28ccc313"
+  ]
+}

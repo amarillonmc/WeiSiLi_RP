@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "id": "book_2601c5718f2f",
+  "title": "出术",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/01出术.txt",
+  "file": "books/book_2601c5718f2f.json",
+  "inherited_fact_count": 5,
+  "curated_links": {
+    "arcs": [
+      "arc_gaosi",
+      "arc_liyufang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "ca4b4290baa156b4b0a12f1c2fa238cc34672f4c32ede8201243d5404dddb8a1",
+  "source_lines": 688,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "雪花方",
+      "card_id": "gaosi_snow_fang",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d17ce29331a2ebb5",
+      "statement": "隐藏摄影机",
+      "annotation_character_ids": [
+        "gaosi_gao_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_17f1018ef82d5541",
+      "statement": "外号来源",
+      "annotation_character_ids": [
+        "gaosi_snow_fang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_569b3a3935e5892f",
+      "statement": "与高斯关系和忍不住看影片",
+      "annotation_character_ids": [
+        "gaosi_snow_fang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa64df67c84eb806",
+      "statement": "伪钞揭发与贴牌出千",
+      "annotation_character_ids": [
+        "gaosi_snow_fang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c26af60d80c86e8f",
+      "statement": "拘捕与警方布局",
+      "annotation_character_ids": [
+        "gaosi_li_yufang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

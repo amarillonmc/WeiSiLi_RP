@@ -1,0 +1,34 @@
+{
+  "id": "new_life_alliance",
+  "title": "新生大同盟",
+  "kind": "institution",
+  "summary": "温宝裕从强制改变地球人口转向寻找新生活的组织倡议。",
+  "mechanism": {
+    "text": "终局提出让愿意离开者寻找新的生存地点，尚非已成功的迁星政权。",
+    "epistemic_status": "textual_fact"
+  },
+  "access_conditions": [
+    "自愿加入",
+    "另行解决航行和目的地问题"
+  ],
+  "limits": [
+    "卫白一家未明确答应",
+    "地球毁灭是倡议者的判断，不是已经发生的未来"
+  ],
+  "last_known_state": "《只限老友》以即将出发的邀请结束，是否成行未知。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "作为终局之后的公开改编入口：先决定技术协助、成员意愿和目的地。"
+  },
+  "character_ids": [
+    "weisili_wen_baoyu"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_0e9ac8ca2bd0bb94"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da"
+  ]
+}

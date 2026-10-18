@@ -1,0 +1,64 @@
+{
+  "id": "arc_wen",
+  "title": "温宝裕的经历与成长",
+  "kind": "arc",
+  "character_id": "weisili_wen_baoyu",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "好奇少年经爱情、信仰冲突及极端方案，终局学会把对世界的不满转为自愿选择。"
+  },
+  "stages": [
+    {
+      "label": "好奇入局",
+      "event_ids": [
+        "w_rhino"
+      ],
+      "state": "敢试也会出错。",
+      "rp_constraint": "没有全套异常学识。"
+    },
+    {
+      "label": "面对死亡欲望",
+      "event_ids": [
+        "w_chen_spirit"
+      ],
+      "state": "认真考虑解脱而承认有所牵挂。",
+      "rp_constraint": "求解脱不是已有能力。"
+    },
+    {
+      "label": "长老影响",
+      "event_ids": [
+        "w_elder_contact"
+      ],
+      "state": "陪蓝丝并不断接触人口论。",
+      "rp_constraint": "不能忽略后来思想走偏的历史。"
+    },
+    {
+      "label": "改变办法",
+      "event_ids": [
+        "w_alliance"
+      ],
+      "state": "承认强制人口方案错误，提出远行。",
+      "rp_constraint": "组织愿望不是现成舰队。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_b6b07c7c56420cb9",
+    "evidence_adda98d811a74414",
+    "evidence_2b43f8d9f9103d3b",
+    "evidence_ce9c2ab027749144",
+    "evidence_e0738df150f85354",
+    "evidence_2fe4a3686dec9265",
+    "evidence_396e8f9492a6184a",
+    "evidence_011319e66aeaefc4"
+  ],
+  "book_ids": [
+    "book_1eceb61f788e",
+    "book_1fb6bf0030da",
+    "book_202100bacdcc",
+    "book_5f3fbef0e5c5",
+    "book_9a4da2ea3ef3",
+    "book_b54a1ab24606"
+  ]
+}

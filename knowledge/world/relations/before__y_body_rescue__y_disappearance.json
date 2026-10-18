@@ -1,0 +1,19 @@
+{
+  "id": "before__y_body_rescue__y_disappearance",
+  "source": "y_body_rescue",
+  "target": "y_disappearance",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "原振侠终局身体沿用黑暗天使后的复制体，失踪在后。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "原振侠终局身体沿用黑暗天使后的复制体，失踪在后。",
+  "evidence_ids": [
+    "evidence_5e1627ed27172007",
+    "evidence_3f0b55873f0513a6"
+  ],
+  "book_ids": [
+    "book_8e795168086a",
+    "book_b918ee450d56"
+  ]
+}

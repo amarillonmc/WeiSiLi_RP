@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0",
+  "id": "book_4ddcf710cddf",
+  "title": "沉船",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/043沉船.txt",
+  "file": "books/book_4ddcf710cddf.json",
+  "inherited_fact_count": 16,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "58e530fd32abf622efa6fb9fd12fb0ed7a8a47f525a838388a281f5b242ae6c3",
+  "source_lines": 2857,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "白奇伟",
+      "card_id": "weisili_bai_qiwei",
+      "role": "重要配角",
+      "basis": "参与救援和调查"
+    },
+    {
+      "name": "摩亚船长",
+      "card_id": "weisili_moya_captain",
+      "role": "单书主角",
+      "basis": "沉船与家族秘密"
+    },
+    {
+      "name": "麦尔伦",
+      "card_id": "weisili_maierlun",
+      "role": "单书主要行动者",
+      "basis": "沉船与家族秘密"
+    },
+    {
+      "name": "狄加度（后人）",
+      "card_id": "weisili_dijiadu_young",
+      "role": "单书主角",
+      "basis": "沉船与家族秘密"
+    },
+    {
+      "name": "维司狄加度",
+      "card_id": "weisili_weisi_dijiadu",
+      "role": "神秘对立者",
+      "basis": "沉船与家族秘密"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "彼得摩亚",
+      "reason": "船长父亲，照护与救援协助者，无跨书实际出场"
+    },
+    {
+      "name": "两条人鱼",
+      "reason": "仅剩骸骨和推测背景，无可确立独立意志与行动的角色资料"
+    },
+    {
+      "name": "海洋生物学家、潜水助手",
+      "reason": "未具名专业协助者"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_f57c800fbfbed0ac",
+      "statement": "求助",
+      "annotation_character_ids": [
+        "weisili_moya_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d79c76bde3a2199",
+      "statement": "寻找沉船",
+      "annotation_character_ids": [
+        "weisili_moya_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3d7496359bf71410",
+      "statement": "同行潜水",
+      "annotation_character_ids": [
+        "weisili_maierlun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_960a5591513783a1",
+      "statement": "不安反应",
+      "annotation_character_ids": [
+        "weisili_maierlun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2a291327bf238a5b",
+      "statement": "死亡与未明行程",
+      "annotation_character_ids": [
+        "weisili_maierlun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2d79df61cc1db6d5",
+      "statement": "失常消息",
+      "annotation_character_ids": [
+        "weisili_moya_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7819cd5b693f8aa3",
+      "statement": "职业地位",
+      "annotation_character_ids": [
+        "weisili_maierlun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ee32cc294f81ebc",
+      "statement": "死亡与临终清醒",
+      "annotation_character_ids": [
+        "weisili_moya_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b0e3eed08a2a6757",
+      "statement": "历史性格",
+      "annotation_character_ids": [
+        "weisili_weisi_dijiadu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e14db9345a01232b",
+      "statement": "祖先签名",
+      "annotation_character_ids": [
+        "weisili_dijiadu_young"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_442c4d86146c3b3a",
+      "statement": "急切探索",
+      "annotation_character_ids": [
+        "weisili_dijiadu_young"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0fab07549454f975",
+      "statement": "冲突",
+      "annotation_character_ids": [
+        "weisili_dijiadu_young"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04fbef87cab82253",
+      "statement": "船只与机械",
+      "annotation_character_ids": [
+        "weisili_weisi_dijiadu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47f23847c5ed2f81",
+      "statement": "消失和留字",
+      "annotation_character_ids": [
+        "weisili_dijiadu_young"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c0bdc7d279d0a00",
+      "statement": "骸骨与推测链",
+      "annotation_character_ids": [
+        "weisili_weisi_dijiadu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_262695761ce4c856",
+      "statement": "结局不确定",
+      "annotation_character_ids": [
+        "weisili_dijiadu_young"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

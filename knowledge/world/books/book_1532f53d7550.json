@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1532f53d7550",
+  "title": "地道奇人",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/49地道奇人.txt",
+  "file": "books/book_1532f53d7550.json",
+  "inherited_fact_count": 19,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "0b0625f5a37f0ea0d92677fe333d1a6633ccc62e4d44ecfdc4bf4df32bfd1cd9",
+  "source_lines": 2564,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "奇异先生",
+      "card_id": "mulanhua_qiyi_xiansheng",
+      "role": "单书主角",
+      "basis": "地下出身、救助族人愿望与遇害。"
+    },
+    {
+      "name": "宫木大佐",
+      "card_id": "mulanhua_gongmu",
+      "role": "反派",
+      "basis": "旧军权威转向个人帝国。"
+    },
+    {
+      "name": "小泽吉源",
+      "card_id": "mulanhua_oze_yoshimoto",
+      "role": "阶段性对立者",
+      "basis": "带路后因惧上司背离。"
+    },
+    {
+      "name": "太仓一郎",
+      "card_id": "mulanhua_taicang_yilang",
+      "role": "阶段性对立者",
+      "basis": "带路后因惧上司背离。"
+    },
+    {
+      "name": "洛丁尼",
+      "card_id": "mulanhua_luodingni",
+      "role": "反派",
+      "basis": "谋财杀人及绑架向导。"
+    },
+    {
+      "name": "汉德",
+      "card_id": "mulanhua_hande",
+      "role": "反派",
+      "basis": "夜总会总管与人质胁迫。"
+    },
+    {
+      "name": "卡罗",
+      "card_id": "mulanhua_kaluo",
+      "role": "反派",
+      "basis": "具名绑架同伙。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "跨书重要配角",
+      "basis": "戴防毒面具潜近救出木兰花。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "救援、找到地道口。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "接待与调查宫殿。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "救援和探险。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "齐密教授",
+      "reason": "已故背景学者，只以经历回述和著作佐证出现。"
+    },
+    {
+      "name": "丹警官",
+      "reason": "单书协助向导与警员，非独立主角或反派；不因失误毁宫自动列反派。"
+    },
+    {
+      "name": "其他未名绑匪、地下族人及皇帝",
+      "reason": "执行群体或历史背景，缺乏可确认的独立人物身份。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_24909e66a7a7c727",
+      "statement": "听觉与感觉表现。",
+      "annotation_character_ids": [
+        "mulanhua_qiyi_xiansheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a53c6a05b595cb77",
+      "statement": "地下出身、外界教育与救助族人的愿望。",
+      "annotation_character_ids": [
+        "mulanhua_qiyi_xiansheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_986c8fb80f400564",
+      "statement": "身份、旧军逻辑与收音机。",
+      "annotation_character_ids": [
+        "mulanhua_gongmu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f1e3b51f59003f0f",
+      "statement": "姓名和同意带路。",
+      "annotation_character_ids": [
+        "mulanhua_oze_yoshimoto",
+        "mulanhua_taicang_yilang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b64ab63315626a2b",
+      "statement": "经验、用刀、地图与对宫木的恐惧。",
+      "annotation_character_ids": [
+        "mulanhua_oze_yoshimoto",
+        "mulanhua_taicang_yilang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b2c60dd8453098b7",
+      "statement": "地图、空枪和四枚手榴弹。",
+      "annotation_character_ids": [
+        "mulanhua_gongmu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f7cc915f47b5b979",
+      "statement": "接受战败却另谋帝国，投弹。",
+      "annotation_character_ids": [
+        "mulanhua_gongmu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a837e5df97751cc8",
+      "statement": "死亡确认。",
+      "annotation_character_ids": [
+        "mulanhua_gongmu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_541f894121a33ace",
+      "statement": "个人死亡状态。",
+      "annotation_character_ids": [
+        "mulanhua_oze_yoshimoto"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d9ffe2ced8ac715",
+      "statement": "个人死亡状态。",
+      "annotation_character_ids": [
+        "mulanhua_taicang_yilang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fc5d265f3e68de8f",
+      "statement": "途中背离与死亡总结。",
+      "annotation_character_ids": [
+        "mulanhua_oze_yoshimoto",
+        "mulanhua_taicang_yilang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b9f2659330b1e9e",
+      "statement": "保护来客、预警与被射杀。",
+      "annotation_character_ids": [
+        "mulanhua_qiyi_xiansheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_efe2470248c61271",
+      "statement": "绑架现场与成员被麻醉。",
+      "annotation_character_ids": [
+        "mulanhua_hande",
+        "mulanhua_kaluo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4e85922e047145c1",
+      "statement": "机枪袭击杀死奇异先生。",
+      "annotation_character_ids": [
+        "mulanhua_luodingni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9c965c1077ebef30",
+      "statement": "夜总会身份、半年调查及绑架。",
+      "annotation_character_ids": [
+        "mulanhua_luodingni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b8c8d8f8ff157a4e",
+      "statement": "姓名、被淋醒与出发命令。",
+      "annotation_character_ids": [
+        "mulanhua_hande",
+        "mulanhua_kaluo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_329c6fdb47dace3d",
+      "statement": "追入毒雾与条件性结局。",
+      "annotation_character_ids": [
+        "mulanhua_luodingni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca3d966d61b530e5",
+      "statement": "六人组失败和未定结局。",
+      "annotation_character_ids": [
+        "mulanhua_hande",
+        "mulanhua_kaluo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e894a81f9765a263",
+      "statement": "地道遗骨年代及未知死因。",
+      "annotation_character_ids": [
+        "mulanhua_qiyi_xiansheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

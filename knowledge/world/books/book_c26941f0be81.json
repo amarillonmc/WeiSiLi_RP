@@ -1,0 +1,182 @@
+{
+  "schema_version": "1.0",
+  "id": "book_c26941f0be81",
+  "title": "奇缘",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/07.奇缘.txt",
+  "file": "books/book_c26941f0be81.json",
+  "inherited_fact_count": 14,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "c92952812cc636c9577255f8272c935998de207a6d97919014250e3f28638719",
+  "source_lines": 9655,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查与亲历"
+    },
+    {
+      "name": "苏耀西",
+      "card_id": "yuanzhenxia_su_yaoxi",
+      "role": "重要配角",
+      "basis": "聚会联络"
+    },
+    {
+      "name": "宋维",
+      "card_id": "yuanzhenxia_song_wei",
+      "role": "反派",
+      "basis": "本书独立主要行动线"
+    },
+    {
+      "name": "青龙",
+      "card_id": "yuanzhenxia_qinglong",
+      "role": "单书主角",
+      "basis": "本书独立主要行动线"
+    },
+    {
+      "name": "杰西",
+      "card_id": "yuanzhenxia_jiexi",
+      "role": "单书主角",
+      "basis": "本书独立主要行动线"
+    },
+    {
+      "name": "莱恩",
+      "card_id": "yuanzhenxia_laien",
+      "role": "单书主角",
+      "basis": "本书独立主要行动线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "阮秀珍、彩云",
+      "reason": "单书关系中心与叙事配角，未见多书实际参与"
+    },
+    {
+      "name": "游击队员与边境人员",
+      "reason": "非独立命名的现场群体"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_2014d542a5081d70",
+      "statement": "出场身份",
+      "annotation_character_ids": [
+        "yuanzhenxia_laien"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_000ec36cd38f377d",
+      "statement": "行动能力与冲突",
+      "annotation_character_ids": [
+        "yuanzhenxia_laien"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ba4c6a9ec9bf27b1",
+      "statement": "毒物与战争",
+      "annotation_character_ids": [
+        "yuanzhenxia_song_wei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_818cd9bd59714d4f",
+      "statement": "小刀战斗",
+      "annotation_character_ids": [
+        "yuanzhenxia_song_wei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad76a3f434a254b5",
+      "statement": "环境警觉",
+      "annotation_character_ids": [
+        "yuanzhenxia_qinglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5460bd99b44535be",
+      "statement": "死亡",
+      "annotation_character_ids": [
+        "yuanzhenxia_qinglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e3e9ce79a593453",
+      "statement": "死亡与复生猜想",
+      "annotation_character_ids": [
+        "yuanzhenxia_song_wei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_621212bd2fbf4732",
+      "statement": "身份、恐惧与拒绝检查",
+      "annotation_character_ids": [
+        "yuanzhenxia_jiexi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c3c849f8c0f23258",
+      "statement": "复生恐惧与拒绝研究",
+      "annotation_character_ids": [
+        "yuanzhenxia_qinglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_466affcf61884352",
+      "statement": "感情与非人恐惧",
+      "annotation_character_ids": [
+        "yuanzhenxia_jiexi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d20d57525d7cf02",
+      "statement": "隐匿计划",
+      "annotation_character_ids": [
+        "yuanzhenxia_qinglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b71d96e0a7acdfdd",
+      "statement": "告别信与隐居",
+      "annotation_character_ids": [
+        "yuanzhenxia_jiexi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1a356fb7d6641d62",
+      "statement": "尸体未复生",
+      "annotation_character_ids": [
+        "yuanzhenxia_song_wei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b5b0602db30ee36b",
+      "statement": "辞职、离婚与寻找",
+      "annotation_character_ids": [
+        "yuanzhenxia_laien"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

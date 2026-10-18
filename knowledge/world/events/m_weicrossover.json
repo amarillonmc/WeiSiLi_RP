@@ -1,0 +1,40 @@
+{
+  "id": "m_weicrossover",
+  "title": "木兰花一方参与白家与技术调查",
+  "kind": "event",
+  "summary": "木兰花核验幼童证词；穆秀珍及云四风后来参与红绫、飞机图样及潜水等调查。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "分别发生于继续探险、祸根、开心等案件，作为跨线联系组而非同一天。",
+    "narrative_layer": "multi_event_group"
+  },
+  "state_before": "各自已有职业、家庭和冒险经历。",
+  "state_after": "证词与专长在朋友网络中流动；不产生统一组织。",
+  "knowledge_boundary": "联系只授予实际提供的信息，不共享全部前案。",
+  "character_ids": [
+    "mulanhua_mu_lanhua",
+    "mulanhua_mu_xiuzhen",
+    "mulanhua_yun_sifeng"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_bc61895854f3a2b6",
+    "evidence_c0713dd186aae719",
+    "evidence_bce6b4bac2c1a32f",
+    "evidence_32c32868e07ea777",
+    "evidence_4bacd04f75b8ac3f",
+    "evidence_fad17112bb1f236f",
+    "evidence_0c71c51f121537ba",
+    "evidence_cb358fb4066ee181",
+    "evidence_0996784c638d053a",
+    "evidence_887113b67be362c5"
+  ],
+  "book_ids": [
+    "book_02a15832ae8a",
+    "book_543cc7939a66",
+    "book_afc4b3885657",
+    "book_b75096582a1e"
+  ]
+}

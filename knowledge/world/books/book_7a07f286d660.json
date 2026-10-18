@@ -1,0 +1,388 @@
+{
+  "schema_version": "1.0",
+  "id": "book_7a07f286d660",
+  "title": "圈套",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/088圈套.txt",
+  "file": "books/book_7a07f286d660.json",
+  "inherited_fact_count": 23,
+  "curated_links": {
+    "arcs": [
+      "arc_weisili"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "b4c56fe35f08cd88fd9b83bcaa2ced669c1f051c325fa9497563e1ba2032671f",
+  "source_lines": 3152,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "亲自调查、决断与叙述"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "实际参与调查、家庭选择与行动"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "实际参与线索和行动"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "主角",
+      "basis": "关系与自主能力发展的中心人物"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "接待来访者、处理风雨夜线索"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "卫家生活与联络"
+    },
+    {
+      "name": "温妈妈",
+      "card_id": "weisili_wen_mama",
+      "role": "重要配角",
+      "basis": "剪彩及寻子风波、婚配承诺"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "现场调查、报警响应与协调"
+    },
+    {
+      "name": "宋天然",
+      "card_id": "weisili_song_tianran",
+      "role": "重要配角",
+      "basis": "温家亲属实际参与寻找与协调"
+    },
+    {
+      "name": "铁天音",
+      "card_id": "weisili_tie_tianyin",
+      "role": "主角",
+      "basis": "医院诊察、推理与两家协调"
+    },
+    {
+      "name": "铁蛋",
+      "card_id": "weisili_tie_dan",
+      "role": "重要配角",
+      "basis": "德国与卫相会及父子联系"
+    },
+    {
+      "name": "陶格",
+      "card_id": "weisili_taoge",
+      "role": "主角",
+      "basis": "急老、解释圈套、死亡终局"
+    },
+    {
+      "name": "陶格夫人",
+      "card_id": "weisili_taoge_furen",
+      "role": "主角",
+      "basis": "回光证言、与唐娜共躯、死亡"
+    },
+    {
+      "name": "伊凡",
+      "card_id": "weisili_yifan",
+      "role": "主角",
+      "basis": "来访、临终线索与死亡"
+    },
+    {
+      "name": "唐娜",
+      "card_id": "weisili_tangna",
+      "role": "主角",
+      "basis": "附体求援、两次离体及拒绝重生"
+    },
+    {
+      "name": "玩具管理机械人",
+      "card_id": "weisili_wanju_robots",
+      "role": "反派",
+      "basis": "执行黄光控制，末期失能解体"
+    },
+    {
+      "name": "未来控制中心",
+      "card_id": "weisili_future_control",
+      "role": "反派",
+      "basis": "以生命历史为娱乐的上层系统"
+    },
+    {
+      "name": "原本陈安安",
+      "card_id": "weisili_chen_anan_original",
+      "role": "主角",
+      "basis": "原人格受损与身体被使用的中心受害者"
+    },
+    {
+      "name": "陈父",
+      "card_id": "weisili_chen_anan_father",
+      "role": "阶段性对立者",
+      "basis": "就医、报警、交涉和态度转变"
+    },
+    {
+      "name": "陈母",
+      "card_id": "weisili_chen_anan_mother",
+      "role": "阶段性对立者",
+      "basis": "照护、阻止会面、寻找与婚配安排"
+    },
+    {
+      "name": "黄豪",
+      "card_id": "weisili_huang_hao",
+      "role": "阶段性对立者",
+      "basis": "末尾借身者，后096确认身份"
+    },
+    {
+      "name": "穿背心银猿",
+      "card_id": "weisili_silver_ape_vest",
+      "role": "重要配角",
+      "basis": "与红绫实际相处，个体按后续终局区分"
+    },
+    {
+      "name": "银猿同伴",
+      "card_id": "weisili_silver_ape_companion",
+      "role": "重要配角",
+      "basis": "与红绫实际相处，个体按后续终局区分"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "法籍护士",
+      "reason": "提供关键苏醒证词但仅本书一次协助，无独立主视角"
+    },
+    {
+      "name": "出租司机、快艇送船者、校方宾客",
+      "reason": "一次性运送、服务或场景人物"
+    },
+    {
+      "name": "康维、阿尼密、原振侠、良辰美景",
+      "reason": "回忆、假设与比较，未参与本案"
+    },
+    {
+      "name": "陶启泉",
+      "reason": "基金会身份被引用，并未因此在本案亲自登场"
+    },
+    {
+      "name": "未来彩衣老人",
+      "reason": "只是051旧经历回述，卡由中段拥有"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_4a3789b438a21c32",
+      "statement": "玩具一家受未来系统控制与年龄状态",
+      "annotation_character_ids": [
+        "weisili_future_control"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04488cfe1cd3c1f7",
+      "statement": "温宝裕记忆与学过手段",
+      "annotation_character_ids": [
+        "weisili_gu_jiufei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e9299a1dbdd1826",
+      "statement": "病情、陪护、孩子要求与父母选择",
+      "annotation_character_ids": [
+        "weisili_chen_anan_father",
+        "weisili_chen_anan_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_65a6539aed5ea76d",
+      "statement": "病前家庭、发烧脑损伤与所谓苏醒",
+      "annotation_character_ids": [
+        "weisili_chen_anan_original"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0e5e5d5a8b4d5275",
+      "statement": "对卫施压寻找",
+      "annotation_character_ids": [
+        "weisili_chen_anan_father",
+        "weisili_chen_anan_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a62b5c952ca6fcdf",
+      "statement": "法语和唐娜身份的证据",
+      "annotation_character_ids": [
+        "weisili_chen_anan_original"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e72ab3026cce46bb",
+      "statement": "报警为拐带",
+      "annotation_character_ids": [
+        "weisili_chen_anan_father",
+        "weisili_chen_anan_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_44b0efa1ce9f03cd",
+      "statement": "急速衰老在先、跌石死亡在后",
+      "annotation_character_ids": [
+        "weisili_tangna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a4225cbb184b05ae",
+      "statement": "失控与死亡",
+      "annotation_character_ids": [
+        "weisili_tangna",
+        "weisili_taoge",
+        "weisili_taoge_furen",
+        "weisili_yifan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c4e130697ab850a2",
+      "statement": "能力衰退、驾车及黄光失控",
+      "annotation_character_ids": [
+        "weisili_future_control"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0d044e67920d7715",
+      "statement": "唐娜离开后失去反应",
+      "annotation_character_ids": [
+        "weisili_chen_anan_original"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0fa4b4171bd2e39e",
+      "statement": "唐娜离入的限制",
+      "annotation_character_ids": [
+        "weisili_tangna",
+        "weisili_taoge",
+        "weisili_taoge_furen",
+        "weisili_yifan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5ef80fe7a15426f",
+      "statement": "失能与脆弱",
+      "annotation_character_ids": [
+        "weisili_wanju_robots"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8d542abf819084ff",
+      "statement": "小机械人解体与控制层级",
+      "annotation_character_ids": [
+        "weisili_future_control"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_57a8613957c0ac2b",
+      "statement": "小石破坏",
+      "annotation_character_ids": [
+        "weisili_wanju_robots"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d352de0d457fbaa",
+      "statement": "明知刺激垂死者可能缩短生命仍为求信息使用，人物价值选择不是医学指引",
+      "annotation_character_ids": [
+        "weisili_wei_sili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c6b9c489a6feb1cf",
+      "statement": "母女共躯与母亡",
+      "annotation_character_ids": [
+        "weisili_tangna",
+        "weisili_taoge",
+        "weisili_taoge_furen",
+        "weisili_yifan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76544d8079c38a39",
+      "statement": "逆时布置解释",
+      "annotation_character_ids": [
+        "weisili_future_control"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a46883c97ad2d80b",
+      "statement": "得知基金会身份后的态度变化",
+      "annotation_character_ids": [
+        "weisili_chen_anan_father",
+        "weisili_chen_anan_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82a4e4147153ff62",
+      "statement": "未来结局和陶格死亡",
+      "annotation_character_ids": [
+        "weisili_tangna",
+        "weisili_taoge",
+        "weisili_taoge_furen",
+        "weisili_yifan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_91acf145f52d0204",
+      "statement": "主宰结束与遗传密码圈套终局",
+      "annotation_character_ids": [
+        "weisili_future_control"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_14e73af97d040863",
+      "statement": "不再做人、不争夺其他灵魂",
+      "annotation_character_ids": [
+        "weisili_tangna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_61061ff3804b043c",
+      "statement": "新灵魂进入身体而身份未明",
+      "annotation_character_ids": [
+        "weisili_chen_anan_original"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

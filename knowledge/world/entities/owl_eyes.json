@@ -1,0 +1,32 @@
+{
+  "id": "owl_eyes",
+  "title": "猫头鹰眼珠的试验传说",
+  "kind": "concept",
+  "summary": "传闻能够见鬼的试验目标，驱动人物验证并付出代价。",
+  "mechanism": {
+    "text": "文本给出传说、试验及惊恐死亡，不确证所见自己的本体含义。",
+    "epistemic_status": "unresolved"
+  },
+  "access_conditions": [
+    "原作中的特定试验语境"
+  ],
+  "limits": [
+    "不能列作已验证的通用见鬼技能",
+    "不把惊恐造成的死亡证明为灵魂遭攻击"
+  ],
+  "last_known_state": "食客试验后惊恐死亡；现象解释未定。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "用于传闻与风险判断，不要求角色复制现实中的危险试验。"
+  },
+  "character_ids": [],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_157fc48daffed49a",
+    "evidence_52aa0092518c3a72"
+  ],
+  "book_ids": [
+    "book_7f3a54ace15f"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "id": "book_7f97554a99f6",
+  "title": "阴差阳错",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/095阴差阳错.txt",
+  "file": "books/book_7f97554a99f6.json",
+  "inherited_fact_count": 6,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "f0a6ca5936e52b47f88218300d5c37b67b1c3bdb6cee9a410836f6b0eb757976",
+  "source_lines": 2628,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "祖天开",
+      "card_id": "weisili_zu_tiankai",
+      "role": "主角",
+      "basis": "旧案叙述、罪责与救助的中心"
+    },
+    {
+      "name": "曹金福",
+      "card_id": "weisili_cao_jinfu",
+      "role": "主角",
+      "basis": "复仇与认恩推动新调查"
+    },
+    {
+      "name": "王朝",
+      "card_id": "weisili_wang_zhao",
+      "role": "反派",
+      "basis": "策划夺镜并利用祖天开"
+    },
+    {
+      "name": "曹普照",
+      "card_id": "weisili_cao_puzhao",
+      "role": "主角",
+      "basis": "曹宅事件的主要当事人"
+    },
+    {
+      "name": "阴老二",
+      "card_id": "weisili_yin_laoer",
+      "role": "反派",
+      "basis": "以阴差身份觊觎曹夫人并滥用器物"
+    },
+    {
+      "name": "齐白",
+      "card_id": "weisili_qi_bai",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "陈长青",
+      "card_id": "weisili_chen_changqing",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "曹夫人",
+      "reason": "旧案重要受害者，未显示跨独立书目持续行动，也非本书独立主视角或反派；遭侵犯与自尽不转写为能力"
+    },
+    {
+      "name": "曹家七岁幸存孩子",
+      "reason": "承担家族记忆的历史配角，未虚构姓名或独立技能"
+    },
+    {
+      "name": "曹银雪、雷九天",
+      "reason": "在本书为亲属和师承背景提及，主卡归原振侠批"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_3201a1b31a9fc484",
+      "statement": "读音别号、阴差接近和信息差",
+      "annotation_character_ids": [
+        "weisili_wang_zhao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_241aaa489ad1bf6d",
+      "statement": "夺物退走与借祖天开出手",
+      "annotation_character_ids": [
+        "weisili_wang_zhao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0a6161e29a02ba9e",
+      "statement": "听命动手的旧事",
+      "annotation_character_ids": [
+        "weisili_zu_tiankai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f20722d950efcf5b",
+      "statement": "责任、已死与拒还宝镜",
+      "annotation_character_ids": [
+        "weisili_wang_zhao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5a5784e254962775",
+      "statement": "曹金福认恩与祖天开的内疚",
+      "annotation_character_ids": [
+        "weisili_zu_tiankai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c88d049bb804dc06",
+      "statement": "认恩与寻仇的最初动机",
+      "annotation_character_ids": [
+        "weisili_cao_jinfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

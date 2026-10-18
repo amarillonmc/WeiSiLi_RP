@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "id": "book_2598cbf0d529",
+  "title": "合成",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/018合成.txt",
+  "file": "books/book_2598cbf0d529.json",
+  "inherited_fact_count": 22,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "34ddbc82895dbf00e86740da49f68a157e79f615a76f6b836dd06eaeb9ec34b0",
+  "source_lines": 1838,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "裴达",
+      "card_id": "weisili_peida",
+      "role": "反派",
+      "basis": "活体研究主导者"
+    },
+    {
+      "name": "贝兴国",
+      "card_id": "weisili_bei_xingguo",
+      "role": "单书主角",
+      "basis": "伦理反对、误认与羁押死亡"
+    },
+    {
+      "name": "裴珍妮",
+      "card_id": "weisili_pei_zhenni",
+      "role": "单书主角",
+      "basis": "委托和关键日常线索"
+    },
+    {
+      "name": "亚昆",
+      "card_id": "weisili_yakun",
+      "role": "单书主角/阶段性对立者",
+      "basis": "受试者及术后危险行动"
+    },
+    {
+      "name": "杰克",
+      "card_id": "weisili_jieke",
+      "role": "重要配角",
+      "basis": "调查围捕与救援开枪"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "照护与调查支持"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "委托及警方联络"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "村长、村童、刘寡妇、卫斯理父执与解剖专家",
+      "reason": "提供旧日性情、现场提醒或理论辅助；没有独立主线目标或反派计划。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_df48b61b7962efcd",
+      "statement": "生活规律",
+      "annotation_character_ids": [
+        "weisili_peida"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f4148354a718829",
+      "statement": "助手、婚约与被捕",
+      "annotation_character_ids": [
+        "weisili_bei_xingguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_89d73e8c8f081be9",
+      "statement": "死亡及助手关系",
+      "annotation_character_ids": [
+        "weisili_peida"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_74a8269ac71d888a",
+      "statement": "家庭与婚约",
+      "annotation_character_ids": [
+        "weisili_pei_zhenni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4dc93f95c6f45ca1",
+      "statement": "委托并接受真相",
+      "annotation_character_ids": [
+        "weisili_pei_zhenni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee83f7d42d824ef6",
+      "statement": "姓名触发的激烈攻击",
+      "annotation_character_ids": [
+        "weisili_bei_xingguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e14a38b0c3d230e",
+      "statement": "蝌蚪被保留",
+      "annotation_character_ids": [
+        "weisili_yakun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d1094e20a3493ea0",
+      "statement": "羁押死亡",
+      "annotation_character_ids": [
+        "weisili_bei_xingguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7a458eae2fefea34",
+      "statement": "近战重创卫斯理",
+      "annotation_character_ids": [
+        "weisili_yakun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46da787ad90b30cf",
+      "statement": "丧失后的线索与日记",
+      "annotation_character_ids": [
+        "weisili_pei_zhenni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_177f9decb8a9d1a0",
+      "statement": "明确反对理由",
+      "annotation_character_ids": [
+        "weisili_bei_xingguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_324e40431843fddc",
+      "statement": "对研究反对的回应",
+      "annotation_character_ids": [
+        "weisili_peida"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_99313ae97838a7a8",
+      "statement": "原来身份、年龄与性情",
+      "annotation_character_ids": [
+        "weisili_yakun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7924a3c165fc4ef0",
+      "statement": "力量、儿童互动及头部边界",
+      "annotation_character_ids": [
+        "weisili_yakun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_85c96dd7c19a5fdd",
+      "statement": "活体实验与责任推断",
+      "annotation_character_ids": [
+        "weisili_peida"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_67d879f815a62a60",
+      "statement": "参与和内疚推断",
+      "annotation_character_ids": [
+        "weisili_bei_xingguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c83f7230b5a8523d",
+      "statement": "实际凶手与误认",
+      "annotation_character_ids": [
+        "weisili_bei_xingguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d54bfb2b56fbeaee",
+      "statement": "得到澄清",
+      "annotation_character_ids": [
+        "weisili_pei_zhenni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76c34367e1e03d64",
+      "statement": "诱捕、反击和死亡",
+      "annotation_character_ids": [
+        "weisili_yakun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db18c8e99ca509c5",
+      "statement": "三枪处理亚昆的袭击",
+      "annotation_character_ids": [
+        "weisili_jieke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_adf675470d5bd1cd",
+      "statement": "猿脑确认",
+      "annotation_character_ids": [
+        "weisili_yakun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd751aec6f0a6af7",
+      "statement": "猿脑确认及笔记散失",
+      "annotation_character_ids": [
+        "weisili_peida"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

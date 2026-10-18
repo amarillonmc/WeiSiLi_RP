@@ -1,0 +1,46 @@
+{
+  "id": "microcrystal",
+  "title": "微晶、博士与显示器",
+  "kind": "object",
+  "summary": "高价值异星资料的争夺目标；有物件、懂技术的人和读取器三重瓶颈。",
+  "mechanism": {
+    "text": "微晶资料的利用须相应显示器与希伯德的知识，单拿到微晶不足以获得全部科技。",
+    "epistemic_status": "textual_fact"
+  },
+  "access_conditions": [
+    "微晶本体",
+    "适配显示器",
+    "博士知识与合作"
+  ],
+  "limits": [
+    "强迫技术人员不能自动复制专业知识",
+    "人质是否获释没有结尾实证"
+  ],
+  "last_known_state": "微晶仍由哈利控制；希伯德选择归返妻女，未展示重聚和母女获释。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "争夺对象可以在物、人、工具之间转移；救人和夺取知识可能发生冲突。"
+  },
+  "character_ids": [
+    "adventure_xibode",
+    "adventure_hali"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_e6f1bd96b5732906",
+    "evidence_99475adda59255f3",
+    "evidence_a474f4986b07db4f",
+    "evidence_c12e69face30d3b3",
+    "evidence_2c2605a66f2ee9bb",
+    "evidence_f7c4bcd622baded5",
+    "evidence_2d2b9cce0cf5dc0f",
+    "evidence_241dd107394d539d",
+    "evidence_d6d39ca730bee036",
+    "evidence_1cd662ff1d49a124",
+    "evidence_e3552486914a997a"
+  ],
+  "book_ids": [
+    "book_b10cefcfc4f2"
+  ]
+}

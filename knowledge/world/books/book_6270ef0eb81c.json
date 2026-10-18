@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "id": "book_6270ef0eb81c",
+  "title": "高原之谜",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/07高原之谜.txt",
+  "file": "books/book_6270ef0eb81c.json",
+  "inherited_fact_count": 22,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "ee8daab386da10eed672a5caa23ff83ed8ae56d27ab5041abb025a3bfed01d07",
+  "source_lines": 2488,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "马超武",
+      "card_id": "mulanhua_ma_chaowu",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "蒋方亭",
+      "card_id": "mulanhua_jiang_fangting",
+      "role": "反派/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "雷慎行",
+      "card_id": "mulanhua_lei_shenxing",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "勃列斯登",
+      "card_id": "mulanhua_boliesideng",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "班姬",
+      "card_id": "mulanhua_banji",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "马超文",
+      "card_id": "mulanhua_ma_chaowen",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "马多禄",
+      "card_id": "mulanhua_ma_duolu",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "马夫人",
+      "card_id": "mulanhua_mrs_ma",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "谷柏·汉烈",
+      "reason": "以他人转述提供探险、救助和钻石线索，无本书当前主角行动线；未证实为反派，也不凭精神失常推定危险立场。"
+    },
+    {
+      "name": "刀疤脸、原绑架者、雷氏侦探社助手、马家保镖、夏威夷误捕警员",
+      "reason": "一次性执行者或误判者，主要动作已附属于明确的策划者和事件，不独立扩写。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_fac7c9a1580946af",
+      "statement": "产业外观与求助",
+      "annotation_character_ids": [
+        "mulanhua_ma_duolu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee553aee6db364aa",
+      "statement": "外貌、求助和母亲身份",
+      "annotation_character_ids": [
+        "mulanhua_mrs_ma"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_59c9bc252342d067",
+      "statement": "求学、独立及探险",
+      "annotation_character_ids": [
+        "mulanhua_ma_chaowen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ea12cb86a76a2a96",
+      "statement": "父子分歧和包机",
+      "annotation_character_ids": [
+        "mulanhua_ma_duolu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_13c8cacf6acedbb3",
+      "statement": "轻薄、依赖保镖与嘲笑弟弟",
+      "annotation_character_ids": [
+        "mulanhua_ma_chaowu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d79cdf842426a0f8",
+      "statement": "等待与调查者修正判断",
+      "annotation_character_ids": [
+        "mulanhua_mrs_ma"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_927d41ece96dd163",
+      "statement": "身份、专业、戒指和排斥合作",
+      "annotation_character_ids": [
+        "mulanhua_lei_shenxing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_690f31dab6c3a857",
+      "statement": "阴谋被截、承认及被捕",
+      "annotation_character_ids": [
+        "mulanhua_ma_chaowu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8d49016896bcdf2a",
+      "statement": "护长子、行贿暗示与昏倒",
+      "annotation_character_ids": [
+        "mulanhua_ma_duolu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9ff257e6417991af",
+      "statement": "诊所试探、麻醉针与被制",
+      "annotation_character_ids": [
+        "mulanhua_jiang_fangting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bf3e06a92ecd23b1",
+      "statement": "身份、真实学历及犯罪方式",
+      "annotation_character_ids": [
+        "mulanhua_jiang_fangting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d255b765cf2d1c4c",
+      "statement": "毒因判断、骗病人与寻宝计划",
+      "annotation_character_ids": [
+        "mulanhua_jiang_fangting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1be3ed79a78c7609",
+      "statement": "派助手麻醉阻挠及失败",
+      "annotation_character_ids": [
+        "mulanhua_lei_shenxing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d9ae4ae898ba568c",
+      "statement": "护穆行动",
+      "annotation_character_ids": [
+        "mulanhua_ma_chaowen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cae68e38708378d7",
+      "statement": "组织、目标、谷柏线索和控制俘虏",
+      "annotation_character_ids": [
+        "mulanhua_boliesideng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_92de2daa5a8a1b33",
+      "statement": "无跳伞经验",
+      "annotation_character_ids": [
+        "mulanhua_ma_chaowen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_595b15246f3886cb",
+      "statement": "烟戒、护具与反向报警",
+      "annotation_character_ids": [
+        "mulanhua_boliesideng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e8fa39cb0b22901",
+      "statement": "姓名、修甲外观与紧张",
+      "annotation_character_ids": [
+        "mulanhua_banji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_15c33eca5258ff61",
+      "statement": "配合反击、持枪封路与被遮蔽",
+      "annotation_character_ids": [
+        "mulanhua_banji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bfaf2b687c09464e",
+      "statement": "识破暗号反应、炮击与坠死",
+      "annotation_character_ids": [
+        "mulanhua_boliesideng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8037879fce29027e",
+      "statement": "幻景真相与感情选择",
+      "annotation_character_ids": [
+        "mulanhua_ma_chaowen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f5054bbba27901b",
+      "statement": "所谓钻石的最终真相",
+      "annotation_character_ids": [
+        "mulanhua_jiang_fangting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

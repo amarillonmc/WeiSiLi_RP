@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "id": "book_77a3940e2f05",
+  "title": "及时赶到",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/11及时赶到.txt",
+  "file": "books/book_77a3940e2f05.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "5eda4b0597fbd09f6b40f9c1265dace0d7be5b13c77e05204f358c80fcb1d34e",
+  "source_lines": 660,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "费大通的司机",
+      "card_id": "gaosi_fei_driver",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "费大通",
+      "reason": "急症死亡的案件起因，生前财富来源可疑但未展开可确认的反派行动。"
+    },
+    {
+      "name": "假扮出租车司机的警员、医生",
+      "reason": "单书职务性协助者，非独立主角或跨书重要配角。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_fc788a0c7f639e6e",
+      "statement": "司机接近",
+      "annotation_character_ids": [
+        "gaosi_fei_driver"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1b4a15959218a683",
+      "statement": "机关、戒指及烟头",
+      "annotation_character_ids": [
+        "gaosi_fei_driver"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_afad2b14986bd5ac",
+      "statement": "袭击与火灾",
+      "annotation_character_ids": [
+        "gaosi_fei_driver"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2d5fca8d8f2656d5",
+      "statement": "死亡与财物未知",
+      "annotation_character_ids": [
+        "gaosi_fei_driver"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

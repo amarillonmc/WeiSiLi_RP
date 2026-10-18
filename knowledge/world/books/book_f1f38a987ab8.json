@@ -1,0 +1,329 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f1f38a987ab8",
+  "title": "遗传",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/108遗传.txt",
+  "file": "books/book_f1f38a987ab8.json",
+  "inherited_fact_count": 25,
+  "curated_links": {
+    "arcs": [
+      "arc_weisili"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "ff11592ee72617244679af84c7989a4675a5cda238df0774e26154a524903aad",
+  "source_lines": 2740,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "参与查访与治疗合作"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "参与查访与治疗合作"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "参与查访与治疗合作"
+    },
+    {
+      "name": "朱槿",
+      "card_id": "weisili_zhu_jin",
+      "role": "重要配角",
+      "basis": "参与查访与治疗合作"
+    },
+    {
+      "name": "黄蝉",
+      "card_id": "weisili_huang_chan",
+      "role": "重要配角",
+      "basis": "参与查访与治疗合作"
+    },
+    {
+      "name": "大亨",
+      "card_id": "weisili_da_heng",
+      "role": "重要配角",
+      "basis": "参与查访与治疗合作"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "参与查访与治疗合作"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "重要配角",
+      "basis": "参与查访与治疗合作"
+    },
+    {
+      "name": "米寄生",
+      "card_id": "weisili_mi_jisheng",
+      "role": "单书主角",
+      "basis": "人树生命与还阳的主线对象"
+    },
+    {
+      "name": "人树结合研究者",
+      "card_id": "weisili_tree_human_creator",
+      "role": "重要配角",
+      "basis": "人树生命与还阳的主线对象"
+    },
+    {
+      "name": "木质男人（还阳实验）",
+      "card_id": "weisili_wood_man",
+      "role": "跨书核心对象",
+      "basis": "人树生命与还阳的主线对象"
+    },
+    {
+      "name": "木质女人（还阳实验）",
+      "card_id": "weisili_wood_woman",
+      "role": "跨书核心对象",
+      "basis": "人树生命与还阳的主线对象"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "米寄生的植物学家情侣",
+      "reason": "只在身世说明中出现，未有独立实际行动或可确认的多书出场。"
+    },
+    {
+      "name": "曲先生",
+      "reason": "错址情节中的称呼，缺少可独立确认身份和行动的证据。"
+    },
+    {
+      "name": "贵由与海迷失",
+      "reason": "作为遗传来源的历史背景，不把木质生命或后裔合并为古人本身。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_a2c15a459474cca1",
+      "statement": "名字与求助",
+      "annotation_character_ids": [
+        "weisili_mi_jisheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1ccb266a6e8239d2",
+      "statement": "朱槿丈夫明确为大亨，并非陶启泉",
+      "annotation_character_ids": [
+        "weisili_tao_qiquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a805e9edd3ed0c02",
+      "statement": "与大亨的伴侣身份及米博士接触",
+      "annotation_character_ids": [
+        "weisili_zhu_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6409cc01673ec6e0",
+      "statement": "与还阳的同一研究者",
+      "annotation_character_ids": [
+        "weisili_tree_human_creator"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_988ae27eb2f8e1fb",
+      "statement": "区别第二种人",
+      "annotation_character_ids": [
+        "weisili_mi_jisheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c2e24ce64566c83",
+      "statement": "体貌和观察",
+      "annotation_character_ids": [
+        "weisili_da_heng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9baf0ad20c2a55be",
+      "statement": "知监视仍有感情",
+      "annotation_character_ids": [
+        "weisili_da_heng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_918dcbcba6fc05e1",
+      "statement": "木质化与治疗机制",
+      "annotation_character_ids": [
+        "weisili_wood_man",
+        "weisili_wood_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b9c7eb6116c561d",
+      "statement": "四名实验生命",
+      "annotation_character_ids": [
+        "weisili_tree_human_creator"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cd9ef2407868bf46",
+      "statement": "生命起源与年龄",
+      "annotation_character_ids": [
+        "weisili_mi_jisheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_956de9defe792345",
+      "statement": "实验条件",
+      "annotation_character_ids": [
+        "weisili_tree_human_creator"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71df53b59b3f38af",
+      "statement": "情侣与生育未成功",
+      "annotation_character_ids": [
+        "weisili_mi_jisheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e4a38e638264a9d4",
+      "statement": "周期合作换健康延寿",
+      "annotation_character_ids": [
+        "weisili_da_heng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c3ea387a05ef3b42",
+      "statement": "遗传来源",
+      "annotation_character_ids": [
+        "weisili_wood_man",
+        "weisili_wood_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b436120ceefa1d9f",
+      "statement": "后裔而非古人本人",
+      "annotation_character_ids": [
+        "weisili_da_heng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2a666dc365928d0",
+      "statement": "后裔关系不取消当代人格",
+      "annotation_character_ids": [
+        "weisili_zhu_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fc53ffbefa4b9d06",
+      "statement": "怨气导致拖延及白素纠正",
+      "annotation_character_ids": [
+        "weisili_wei_sili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bc368c6544e9c4bb",
+      "statement": "治疗紧迫性与还阳定义",
+      "annotation_character_ids": [
+        "weisili_tree_human_creator"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_91c4887d54abd44e",
+      "statement": "还阳后不干涉的承诺",
+      "annotation_character_ids": [
+        "weisili_huang_chan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f79c6d84c9ed55bc",
+      "statement": "身体与隐私边界",
+      "annotation_character_ids": [
+        "weisili_mi_jisheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f8ca4e8e79fbde7e",
+      "statement": "网络笔记本与隐私",
+      "annotation_character_ids": [
+        "weisili_tree_human_creator"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7dee308fb2da15a3",
+      "statement": "主动合作、遗传延续与自愿条件",
+      "annotation_character_ids": [
+        "weisili_da_heng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8bc37993256dfeb5",
+      "statement": "治疗进度和自愿",
+      "annotation_character_ids": [
+        "weisili_tree_human_creator"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_91b68bd0ddba0912",
+      "statement": "未完成的生长阶段",
+      "annotation_character_ids": [
+        "weisili_wood_man",
+        "weisili_wood_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b3488497af4345f2",
+      "statement": "后续及自愿条件",
+      "annotation_character_ids": [
+        "weisili_mi_jisheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

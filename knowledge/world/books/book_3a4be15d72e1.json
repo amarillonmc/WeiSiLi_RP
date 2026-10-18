@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0",
+  "id": "book_3a4be15d72e1",
+  "title": "蜜月奇遇",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/50蜜月奇遇.txt",
+  "file": "books/book_3a4be15d72e1.json",
+  "inherited_fact_count": 28,
+  "curated_links": {
+    "events": [
+      "m_wedding"
+    ],
+    "relations": [
+      "before__m_watch__m_wedding",
+      "before__m_blind__m_wedding"
+    ],
+    "arcs": [
+      "arc_mulanhua",
+      "arc_gaoxiang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "de51e9859e8375de803abd0a6a33cd1788b96f08ec3037d55c229458bc4597e0",
+  "source_lines": 2516,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "年轻贵人",
+      "card_id": "mulanhua_honeymoon_youth",
+      "role": "单书主角",
+      "basis": "独自政治行动、被救及观念转变。"
+    },
+    {
+      "name": "贵妇",
+      "card_id": "mulanhua_honeymoon_mother",
+      "role": "单书主角",
+      "basis": "发起保密寻找儿子的委托。"
+    },
+    {
+      "name": "法勒·韦定",
+      "card_id": "mulanhua_fale_weiding",
+      "role": "阶段性对立者",
+      "basis": "非法便利及出卖行踪。"
+    },
+    {
+      "name": "使馆上校",
+      "card_id": "mulanhua_embassy_colonel",
+      "role": "反派",
+      "basis": "秘密拘禁与阻挠。"
+    },
+    {
+      "name": "亨利",
+      "card_id": "mulanhua_henry_gibraltar",
+      "role": "反派",
+      "basis": "抢劫拘禁和反扑。"
+    },
+    {
+      "name": "佐治",
+      "card_id": "mulanhua_george_gibraltar",
+      "role": "反派",
+      "basis": "看守被抢青年。"
+    },
+    {
+      "name": "机队领队",
+      "card_id": "mulanhua_honeymoon_abductor",
+      "role": "反派",
+      "basis": "政治绑架与死亡威胁。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "系列主角",
+      "basis": "与木兰花结婚并共同救援。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "面对婚后分离与独立生活。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "婚礼和接机后的互动。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "跨书重要配角",
+      "basis": "婚礼及公开说明双方意愿。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "婚礼协助。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "跨书重要配角",
+      "basis": "送行。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "管家、引路人、直布罗陀接待官员与渔船人员",
+      "reason": "一次性委托传递或救援辅助，无独立主角线。"
+    },
+    {
+      "name": "灭口枪手及其他警卫、劫匪、机队军人",
+      "reason": "匿名执行者，未提供足够独立身份；主要指挥与具名者已纳入。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_66728cf971b27062",
+      "statement": "婚姻",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa6af1fed9557685",
+      "statement": "结婚",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22f5fe832d211837",
+      "statement": "沿旅行资料找受托者。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cee3665aedab7d9a",
+      "statement": "屏风会谈和委托条件。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4d62cf97863a28fe",
+      "statement": "母亲所述身份与化装行踪。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_youth"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a9a34291cd589b73",
+      "statement": "母亲的担忧。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dea1323d233b885a",
+      "statement": "酒吧线索与被制。",
+      "annotation_character_ids": [
+        "mulanhua_fale_weiding"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1ba993ca1071204b",
+      "statement": "商人身份、出租模式和船名。",
+      "annotation_character_ids": [
+        "mulanhua_fale_weiding"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04eb5535bae10b3b",
+      "statement": "卖消息及死亡。",
+      "annotation_character_ids": [
+        "mulanhua_fale_weiding"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0b6d07b1de00def9",
+      "statement": "盘问、身份与躲开高翔拳击。",
+      "annotation_character_ids": [
+        "mulanhua_embassy_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_33de46028aa0bd94",
+      "statement": "床单救木",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_982856be5aa23afb",
+      "statement": "力竭获救",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_40b33f54c34f1a08",
+      "statement": "监视和拖延目的。",
+      "annotation_character_ids": [
+        "mulanhua_embassy_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db8e9ee798cd8025",
+      "statement": "失去耐心并派人检查。",
+      "annotation_character_ids": [
+        "mulanhua_embassy_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3fcc5534ec271e3d",
+      "statement": "因记者曝光风险放行。",
+      "annotation_character_ids": [
+        "mulanhua_embassy_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_17e924a8bc858b78",
+      "statement": "亨利身份、抢劫和求同伙袭击。",
+      "annotation_character_ids": [
+        "mulanhua_george_gibraltar",
+        "mulanhua_henry_gibraltar"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f609598c4084bd85",
+      "statement": "被抢劫拘禁。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_youth"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b21219870774b556",
+      "statement": "佐治失守及两匪争执。",
+      "annotation_character_ids": [
+        "mulanhua_george_gibraltar",
+        "mulanhua_henry_gibraltar"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_23403b291faff99f",
+      "statement": "打昏看守脱逃。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_youth"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_736856997fb29b9c",
+      "statement": "目标与地位的局限。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_youth"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ec596bddeda5fb0",
+      "statement": "服役和射击经历。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_youth"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b236bd2fc316b175",
+      "statement": "机队、军人和威胁。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_abductor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2709747905ce9c80",
+      "statement": "同机谈判。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_abductor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_66ae596f8b2dea97",
+      "statement": "飞行风险、补给和救生设备。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_abductor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d5c196b5f3993eaf",
+      "statement": "中枪及逃脱后继续射击。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_abductor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_24eb6725086290a0",
+      "statement": "海上获救幸运与生理限制",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e488a788c50942d2",
+      "statement": "改变决定并团聚。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_youth"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_02e691665a78e2a0",
+      "statement": "团聚与私下谢礼。",
+      "annotation_character_ids": [
+        "mulanhua_honeymoon_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

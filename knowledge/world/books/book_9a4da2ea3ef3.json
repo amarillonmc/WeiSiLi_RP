@@ -1,0 +1,203 @@
+{
+  "schema_version": "1.0",
+  "id": "book_9a4da2ea3ef3",
+  "title": "成精变人",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/125成精变人.txt",
+  "file": "books/book_9a4da2ea3ef3.json",
+  "inherited_fact_count": 11,
+  "curated_links": {
+    "rules": [
+      "rule_mind_body",
+      "rule_tech_access"
+    ],
+    "events": [
+      "w_eagle_human"
+    ],
+    "relations": [
+      "before__w_eagle_friend__w_real_illusion",
+      "before__w_real_illusion__w_eagle_human",
+      "before__w_eagle_human__w_eagle_departure"
+    ],
+    "arcs": [
+      "arc_weisili",
+      "arc_hongling",
+      "arc_wen",
+      "arc_lansi",
+      "arc_shenying"
+    ],
+    "issues": [
+      "issue_foreknowledge"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "2b9b3fdfe2b26cbfa394ffc551b1591152549e105edae0836c75b2221dc68f7f",
+  "source_lines": 2688,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "多次进入幻境、调查与救家人"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "伴随复制、发掘尸体与返现世"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "主角",
+      "basis": "陪伴神鹰并保护其转化过程"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "提出寻装置、讨论与协助"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "重要配角",
+      "basis": "尝试帮忙、失明与返现世"
+    },
+    {
+      "name": "亮声",
+      "card_id": "weisili_liang_sheng",
+      "role": "重要配角",
+      "basis": "识复制过程、探测动力及仪器损毁"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "主角",
+      "basis": "完成由鹰成人的稳定终局"
+    },
+    {
+      "name": "鸡场工作者",
+      "card_id": "weisili_chicken_transformers",
+      "role": "阶段性对立者",
+      "basis": "连续复制、空间接触与技术保密"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "金维",
+      "reason": "承接124提及其经历和初始意见，本书未见独立新行动，后续共享卡由冒险负责"
+    },
+    {
+      "name": "陈长青、何可人",
+      "reason": "比较性或地点名称提及，无新行动"
+    },
+    {
+      "name": "作为传说的上帝、天使、保罗",
+      "reason": "宗教比较不是另一组已直接出场人物；可见工作群体已另卡"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_89a139a10c3206b6",
+      "statement": "白红不知道地洞内具体过程",
+      "annotation_character_ids": [
+        "weisili_chicken_transformers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee8c11f3dade71fc",
+      "statement": "神鹰受召进入、不要跟随与空间变化",
+      "annotation_character_ids": [
+        "weisili_chicken_transformers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c0f058f3e5269c5",
+      "statement": "尚未施降头，卫即被鸡场力量送入幻境，不把此次跨空间归给蓝丝",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71e1533b77fb133c",
+      "statement": "复制解释与勒曼无法使鹰成人",
+      "annotation_character_ids": [
+        "weisili_chicken_transformers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eec971fb577b0f3f",
+      "statement": "探测到工作者与强光，惩戒为后推断",
+      "annotation_character_ids": [
+        "weisili_chicken_transformers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e0738df150f85354",
+      "statement": "强光导致暂时失明，外星身份和降头能力均未免疫",
+      "annotation_character_ids": [
+        "weisili_lan_si",
+        "weisili_liang_sheng",
+        "weisili_wei_sili",
+        "weisili_wen_baoyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c0ea364e1da92276",
+      "statement": "基因调整过程",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_de45bce4b401b042",
+      "statement": "神鹰复述复制替换方法、保密与异空间结论",
+      "annotation_character_ids": [
+        "weisili_chicken_transformers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2fe4a3686dec9265",
+      "statement": "三日后视力恢复、亮声仪器失效、神鹰成人不再能飞",
+      "annotation_character_ids": [
+        "weisili_lan_si",
+        "weisili_liang_sheng",
+        "weisili_wei_sili",
+        "weisili_wen_baoyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f88d60f60b2a7ab",
+      "statement": "神鹰化人后的互动",
+      "annotation_character_ids": [
+        "weisili_hong_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_613c8b92ec2ad7ab",
+      "statement": "自愿成人和不能飞",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bridge_animi",
+  "title": "阿尼密参与原振侠灵魂调查",
+  "kind": "bridge",
+  "series": [
+    "非人协会系列",
+    "原振侠系列"
+  ],
+  "connection_level": "explicit_crossover",
+  "claim": "阿尼密在《人鬼疑云》中讨论个案并与康维合作；仪器显鬼并非阿尼密个人权能。",
+  "schema_version": "1.0",
+  "section": "bridges",
+  "evidence_ids": [
+    "evidence_2b462198065ee53b",
+    "evidence_dddd56f23921a4f0",
+    "evidence_e1582899370d154d",
+    "evidence_1887aca9ebd8dd25"
+  ],
+  "book_ids": [
+    "book_6e1d8d6fd7c7"
+  ]
+}

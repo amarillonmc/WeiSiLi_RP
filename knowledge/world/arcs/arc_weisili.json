@@ -1,0 +1,87 @@
+{
+  "id": "arc_weisili",
+  "title": "卫斯理的经历与成长",
+  "kind": "arc",
+  "character_id": "weisili_wei_sili",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "从江湖与财富争夺进入异星和人格伦理问题；知识扩展不自动消除好胜、偏见与求知越界。"
+  },
+  "stages": [
+    {
+      "label": "少年有限认知",
+      "event_ids": [
+        "w_childhood"
+      ],
+      "state": "有冒险与神秘联络经验，未知幕后身份。",
+      "rp_constraint": "不能带成年调查结论。"
+    },
+    {
+      "label": "江湖与家庭",
+      "event_ids": [
+        "w_diamond",
+        "w_bai_union"
+      ],
+      "state": "经历失去并建立亲密支点。",
+      "rp_constraint": "宽赦与偏爱不等于一贯不杀人。"
+    },
+    {
+      "label": "制度与生命疑问",
+      "event_ids": [
+        "w_leman"
+      ],
+      "state": "认识技术可救人也可剥夺他人。",
+      "rp_constraint": "不自动取得技术。"
+    },
+    {
+      "label": "复制伦理中的抵抗",
+      "event_ids": [
+        "w_copy_refusal"
+      ],
+      "state": "仍以自己的选择干预杜良计划。",
+      "rp_constraint": "该次反向指令不升级为通用控制。"
+    },
+    {
+      "label": "开放终点",
+      "event_ids": [
+        "w_alliance"
+      ],
+      "state": "理解远行倡议但未明示决定。",
+      "rp_constraint": "不能默认已离地球。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_429e04a3ab98a413",
+    "evidence_5a48f9d39b7af55f",
+    "evidence_a78b60a520a681db",
+    "evidence_73e598182cffa5a0",
+    "evidence_e8ff9c59dc4380ab",
+    "evidence_cc7742387037fe81",
+    "evidence_2d953237b6938ecb",
+    "evidence_6dfd7a50046d3722",
+    "evidence_5d352de0d457fbaa",
+    "evidence_e0738df150f85354",
+    "evidence_2fe4a3686dec9265",
+    "evidence_6baa6c7ece0e82d1",
+    "evidence_878ad664025b9028",
+    "evidence_bbd314967b2c23d9",
+    "evidence_fc53ffbefa4b9d06"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da",
+    "book_20c82d7b018b",
+    "book_285c39eb6c50",
+    "book_2d7fca10f0c2",
+    "book_7a07f286d660",
+    "book_93d047542c1e",
+    "book_9a4da2ea3ef3",
+    "book_9e50e2320f44",
+    "book_a25be6589e38",
+    "book_a597455f4c69",
+    "book_a71da721a4c4",
+    "book_ccfaaef512be",
+    "book_f1f38a987ab8"
+  ]
+}

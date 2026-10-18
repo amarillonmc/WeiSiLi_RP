@@ -1,0 +1,31 @@
+{
+  "id": "m_wedding",
+  "title": "木兰花与高翔结婚",
+  "kind": "event",
+  "summary": "长期合作与情感发展后，木兰花和高翔结婚，蜜月仍遇险并需彼此救助。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《蜜月奇遇》。",
+    "narrative_layer": "present"
+  },
+  "state_before": "长期亲密但尚未结婚。",
+  "state_after": "夫妻关系确立，冒险和身体限制仍在。",
+  "knowledge_boundary": "婚姻不能让一方失去独立行动或免受危险。",
+  "character_ids": [
+    "mulanhua_mu_lanhua",
+    "mulanhua_gao_xiang"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_66728cf971b27062",
+    "evidence_982856be5aa23afb",
+    "evidence_24eb6725086290a0",
+    "evidence_fa6af1fed9557685",
+    "evidence_33de46028aa0bd94"
+  ],
+  "book_ids": [
+    "book_3a4be15d72e1"
+  ]
+}

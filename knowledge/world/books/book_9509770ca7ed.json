@@ -1,0 +1,166 @@
+{
+  "schema_version": "1.0",
+  "id": "book_9509770ca7ed",
+  "title": "选美记",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/选美记.txt",
+  "file": "books/book_9509770ca7ed.json",
+  "inherited_fact_count": 12,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "59884d41ab9284a55ebfe354e90416bc5e2bd15c2520f0a55668e37a5568488f",
+  "source_lines": 239,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "齐作宣",
+      "card_id": "guihua_qi_zuoxuan",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "江落花",
+      "card_id": "guihua_jiang_luohua",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "何流水",
+      "card_id": "guihua_he_liushui",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "齐作宣的年轻妻子",
+      "card_id": "guihua_qi_widow",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "主角/重要配角",
+      "basis": "调查候选者、临危制作光形驱鬼、追查齐死因，21-239行。"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "集团总裁在会议为小郭担保，23-25行。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "瑞士侦探",
+      "reason": "一次性专业协作者，提供调查结果；没有独立主线或对抗。"
+    },
+    {
+      "name": "其余三名入围者",
+      "reason": "仅在结尾被推测身份，不能据小郭恐惧编成女鬼。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_b3e69ae81797ee24",
+      "statement": "学历、职位与单向玻璃",
+      "annotation_character_ids": [
+        "guihua_qi_zuoxuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c7e37d2bad10468",
+      "statement": "资料与疑点",
+      "annotation_character_ids": [
+        "guihua_jiang_luohua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e218a06169a5efc9",
+      "statement": "资料相同与遮面形象",
+      "annotation_character_ids": [
+        "guihua_he_liushui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bff92a4c0531c3b5",
+      "statement": "选择性忽略调查与嫌恶",
+      "annotation_character_ids": [
+        "guihua_qi_zuoxuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b71afbec2bc04e0",
+      "statement": "身体差异、历史杀人与死亡",
+      "annotation_character_ids": [
+        "guihua_jiang_luohua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f5987afbe3c502e",
+      "statement": "身体真相及旧案",
+      "annotation_character_ids": [
+        "guihua_he_liushui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7cdbece998a0478d",
+      "statement": "拼合、穿透和被驱离",
+      "annotation_character_ids": [
+        "guihua_jiang_luohua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6d9d20e14d454292",
+      "statement": "出让头部、组合和消失",
+      "annotation_character_ids": [
+        "guihua_he_liushui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3eab0af67a5155e9",
+      "statement": "恐怖经历、结婚与死亡",
+      "annotation_character_ids": [
+        "guihua_qi_zuoxuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10743e8cfc080674",
+      "statement": "剪纸十字架配台灯的特定事件应急",
+      "annotation_character_ids": [
+        "weisili_xiao_guo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_964de15283479cd8",
+      "statement": "被聘与成婚",
+      "annotation_character_ids": [
+        "guihua_qi_widow"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_285303e48f2516f2",
+      "statement": "死亡经过、含混回答与小郭逃离",
+      "annotation_character_ids": [
+        "guihua_qi_widow"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

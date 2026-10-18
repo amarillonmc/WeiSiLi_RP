@@ -1,0 +1,52 @@
+{
+  "id": "arc_gaosi",
+  "title": "高斯的经历与成长",
+  "kind": "arc",
+  "character_id": "gaosi_gao_si",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "经验增加但仍会贪心、鲁莽和自以为是；他靠摄影和核验参与这个世界。"
+  },
+  "stages": [
+    {
+      "label": "被骗与纠正",
+      "event_ids": [
+        "s_magic_exposed"
+      ],
+      "state": "知道人造骗局能制造奇迹外观。",
+      "rp_constraint": "不能据此否认全世界异常。"
+    },
+    {
+      "label": "成功仍有边界",
+      "event_ids": [
+        "s_police_boundary"
+      ],
+      "state": "能破案也得缴罚单。",
+      "rp_constraint": "不借关系获得执法豁免。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_d17ce29331a2ebb5",
+    "evidence_46e079d19e83a2a4",
+    "evidence_c71b30eb75a86dbe",
+    "evidence_09aee2e7b209fe9e",
+    "evidence_7c56fce44899a278",
+    "evidence_e55eb6f4016f9f09",
+    "evidence_72d5754df02955ae",
+    "evidence_77124c6baf996baf",
+    "evidence_e815b21243982d43",
+    "evidence_029ae5cf28d35b8d"
+  ],
+  "book_ids": [
+    "book_2601c5718f2f",
+    "book_3bafae3cade4",
+    "book_431747bbc9f2",
+    "book_5c42ac4d403f",
+    "book_6223e2d26cdb",
+    "book_9cbc6b143845",
+    "book_b310fc0c9328",
+    "book_bf2a7aef7294"
+  ]
+}

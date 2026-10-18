@@ -1,0 +1,35 @@
+{
+  "id": "w_blue_blood",
+  "title": "蓝血人与寄生危机",
+  "kind": "event",
+  "summary": "方天的异星身世、寄生生命及纳尔逊死亡使“人形与人格不同”成为切身问题。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "成年卫斯理调查时期；不与其他系列强排同期。",
+    "narrative_layer": "present"
+  },
+  "state_before": "异常被当作身份与犯罪谜团。",
+  "state_after": "寄生者被处置，纳尔逊原人格已死；方天后续去向未有确证。",
+  "knowledge_boundary": "保留原人格死亡与身体被使用的区别；卫斯理知道个案，不因此知道全部外星生命。",
+  "character_ids": [
+    "weisili_wei_sili"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_754a09c0d9f78b99",
+    "evidence_1f96e67b977c0182",
+    "evidence_27b939265138cc5f",
+    "evidence_7b3ede89324e8a33",
+    "evidence_1bdec9421ad08eba",
+    "evidence_98db66bfa5ab48d2",
+    "evidence_fbd385caafd79b16",
+    "evidence_94f1952c57993592",
+    "evidence_9980fe5bfd9a8fa6",
+    "evidence_86efb6ebb660a9c0"
+  ],
+  "book_ids": [
+    "book_c1ab2fa68267"
+  ]
+}

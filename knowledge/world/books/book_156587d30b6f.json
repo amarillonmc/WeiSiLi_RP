@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "id": "book_156587d30b6f",
+  "title": "放屁",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/放屁.txt",
+  "file": "books/book_156587d30b6f.json",
+  "inherited_fact_count": 10,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "a3393c2d86c1eb96b299dc74c7d37d4127508e1bdea6d52bdbc34922e3b92f5b",
+  "source_lines": 53,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "失窃集团董事长",
+      "card_id": "guihua_company_chairman",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高经理（放屁）",
+      "card_id": "guihua_manager_gao",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "幸存的工程部副经理",
+      "card_id": "guihua_young_engineer",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "集团高层侵吞组织",
+      "card_id": "guihua_embezzlement_ring",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "亲自率侦探录像调查，35-37行。"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0d2a3cdcb6598396",
+      "statement": "资历、涉嫌挪款与死亡",
+      "annotation_character_ids": [
+        "guihua_manager_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_240bc1a4ccf92c08",
+      "statement": "宽限、悔意、丧礼与布置调查",
+      "annotation_character_ids": [
+        "guihua_company_chairman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2151f78d7de96e9",
+      "statement": "跨地转款与隐藏",
+      "annotation_character_ids": [
+        "guihua_embezzlement_ring"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db5ee6e5d30b769f",
+      "statement": "组织工具的调查结论",
+      "annotation_character_ids": [
+        "guihua_manager_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7359c31cecc7ede8",
+      "statement": "组织微型录像调查且没有得到结果",
+      "annotation_character_ids": [
+        "weisili_xiao_guo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0ab7fc5cec8e86fe",
+      "statement": "任命担忧与灾难后结果",
+      "annotation_character_ids": [
+        "guihua_company_chairman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e1da9d161d642774",
+      "statement": "报仇猜测而非确证",
+      "annotation_character_ids": [
+        "guihua_manager_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46106b7f0138d02d",
+      "statement": "同梯死亡和现金证据",
+      "annotation_character_ids": [
+        "guihua_embezzlement_ring"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5300facf1c4fa38f",
+      "statement": "职位、心态和离梯",
+      "annotation_character_ids": [
+        "guihua_young_engineer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eeb8ad39720261b6",
+      "statement": "电梯灾难、幸存与清白",
+      "annotation_character_ids": [
+        "guihua_young_engineer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

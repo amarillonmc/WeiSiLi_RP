@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "id": "book_39fb00415b22",
+  "title": "海异",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/04.海异.txt",
+  "file": "books/book_39fb00415b22.json",
+  "inherited_fact_count": 14,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+  "source_lines": 7913,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查者"
+    },
+    {
+      "name": "黄绢",
+      "card_id": "yuanzhenxia_huang_juan",
+      "role": "重要角色",
+      "basis": "政治委托"
+    },
+    {
+      "name": "苏耀东",
+      "card_id": "yuanzhenxia_su_yaodong",
+      "role": "重要配角",
+      "basis": "现场参与并支持研究"
+    },
+    {
+      "name": "温谷",
+      "card_id": "yuanzhenxia_wengu",
+      "role": "重要配角",
+      "basis": "实际后续联络"
+    },
+    {
+      "name": "李邦殊",
+      "card_id": "yuanzhenxia_li_bangshu",
+      "role": "单书主角",
+      "basis": "本书主要行动线"
+    },
+    {
+      "name": "白恩",
+      "card_id": "yuanzhenxia_bai_en",
+      "role": "单书主角",
+      "basis": "本书主要行动线"
+    },
+    {
+      "name": "海异智慧微生物群",
+      "card_id": "yuanzhenxia_marine_microbes",
+      "role": "阶段性对立者（集体）",
+      "basis": "本书主要行动线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "乔丝、玛姬、雷亭、哈逊等",
+      "reason": "单书证人、受害者或委托辅助人物"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_2ae44960b9b8d654",
+      "statement": "地图与常规排查",
+      "annotation_character_ids": [
+        "yuanzhenxia_bai_en"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8bcdb33a3da7a87e",
+      "statement": "家属照片证据",
+      "annotation_character_ids": [
+        "yuanzhenxia_bai_en"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7cf68d71eeda2545",
+      "statement": "异常死因",
+      "annotation_character_ids": [
+        "yuanzhenxia_bai_en"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e76af1d15717909",
+      "statement": "理解微生物与生态立场",
+      "annotation_character_ids": [
+        "yuanzhenxia_li_bangshu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a3d159ccee989d47",
+      "statement": "不同微生物与生态动机",
+      "annotation_character_ids": [
+        "yuanzhenxia_marine_microbes"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f4cdaada70d8b82e",
+      "statement": "腐蚀与数量代价",
+      "annotation_character_ids": [
+        "yuanzhenxia_marine_microbes"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a83ae96df931aa64",
+      "statement": "证据、推断及共存",
+      "annotation_character_ids": [
+        "yuanzhenxia_li_bangshu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7eae21f6b1811f35",
+      "statement": "组织和感官干预",
+      "annotation_character_ids": [
+        "yuanzhenxia_marine_microbes"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2cdae7a02450685a",
+      "statement": "协商与送离",
+      "annotation_character_ids": [
+        "yuanzhenxia_marine_microbes"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5a4f0f6bdf45b422",
+      "statement": "决定支持研究与组织行动",
+      "annotation_character_ids": [
+        "yuanzhenxia_su_yaodong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c0b9a8fe433b7d24",
+      "statement": "研究计划与受挫",
+      "annotation_character_ids": [
+        "yuanzhenxia_li_bangshu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c393a76f5342009",
+      "statement": "会议受挫仍继续",
+      "annotation_character_ids": [
+        "yuanzhenxia_su_yaodong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5cacc0f17341aa43",
+      "statement": "终局被遗忘",
+      "annotation_character_ids": [
+        "yuanzhenxia_bai_en"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f440da518c9aacd8",
+      "statement": "对微生物说法的立场",
+      "annotation_character_ids": [
+        "yuanzhenxia_wengu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

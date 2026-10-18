@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f0c4d721d353",
+  "title": "三千年死人",
+  "aliases": [],
+  "series": "非人协会系列",
+  "source_path": "非人协会系列/06三千年死人.txt",
+  "file": "books/book_f0c4d721d353.json",
+  "inherited_fact_count": 6,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "30e2b1e60a2ca0c15263917398f2df5cd2fa47a78f0a0e5bb3d4b6987fc8a6fa",
+  "source_lines": 377,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卓力克",
+      "card_id": "adventure_zhuolike",
+      "role": "主角",
+      "basis": "遗迹发现者"
+    },
+    {
+      "name": "鲁巴",
+      "card_id": "adventure_luba",
+      "role": "主角",
+      "basis": "遗产与知识的中心人物"
+    },
+    {
+      "name": "史保",
+      "card_id": "adventure_shibao",
+      "role": "重要配角",
+      "basis": "讨论相对论"
+    },
+    {
+      "name": "范先生",
+      "card_id": "adventure_fan",
+      "role": "重要配角",
+      "basis": "质疑证据"
+    },
+    {
+      "name": "阿尼密",
+      "card_id": "adventure_animi",
+      "role": "重要配角",
+      "basis": "协会讨论"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "战场双方未具名人员",
+      "reason": "任务背景，没有可辨个人"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d086166e5e76caf8",
+      "statement": "外貌、身份与沙漠本领",
+      "annotation_character_ids": [
+        "adventure_zhuolike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1403e33c10d8fbbd",
+      "statement": "读文和出口困境",
+      "annotation_character_ids": [
+        "adventure_zhuolike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9218894b14ba166f",
+      "statement": "宫殿、尸体与自述",
+      "annotation_character_ids": [
+        "adventure_luba"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2eae9f5fe96f1385",
+      "statement": "出口装置和传承限制",
+      "annotation_character_ids": [
+        "adventure_luba"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1063ca0c1a784177",
+      "statement": "任务取舍、两卷和解释不确定性",
+      "annotation_character_ids": [
+        "adventure_zhuolike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_30d0d30f5ecd603e",
+      "statement": "知识解释、质疑和接纳",
+      "annotation_character_ids": [
+        "adventure_luba"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

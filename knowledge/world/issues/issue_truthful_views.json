@@ -1,0 +1,26 @@
+{
+  "id": "issue_truthful_views",
+  "title": "角色解释可被后书更正",
+  "kind": "issue",
+  "claims": [
+    "陈月兰的早期异星改造说法仍是假说，《祸根》才提供新联络。",
+    "卖命中的监视失误被解释为意识干预，不能永远维持较早的投影猜想。"
+  ],
+  "handling": {
+    "epistemic_status": "adaptation",
+    "text": "事实与认知各自保留时间。新证据更新当前解释，旧场景仍允许角色不知道。"
+  },
+  "schema_version": "1.0",
+  "section": "issues",
+  "evidence_ids": [
+    "evidence_aab59b6dd291df33",
+    "evidence_2b1dd125d9f6d5be",
+    "evidence_374f890b0cb5a343",
+    "evidence_e1686d46546a4fdc"
+  ],
+  "book_ids": [
+    "book_02a15832ae8a",
+    "book_285c39eb6c50",
+    "book_6f42d4433a38"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "arc_baisu",
+  "title": "白素的经历与成长",
+  "kind": "arc",
+  "character_id": "weisili_bai_su",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "从白家女儿到伴侣、母亲及协会成员，重心是保护与尊重当事人选择之间的张力。"
+  },
+  "stages": [
+    {
+      "label": "危局独立决断",
+      "event_ids": [
+        "w_bai_union"
+      ],
+      "state": "能以财富换取众人生命。",
+      "rp_constraint": "不是卫斯理的附庸。"
+    },
+    {
+      "label": "母女重新学习相处",
+      "event_ids": [
+        "w_hongling_choices",
+        "w_miao_contact"
+      ],
+      "state": "认识女儿和母亲各有秘密与选择。",
+      "rp_constraint": "不能替所有亲人安排生活。"
+    },
+    {
+      "label": "参与分配与组织",
+      "event_ids": [
+        "w_quota_research"
+      ],
+      "state": "提出思想家价值并入会。",
+      "rp_constraint": "会员不等于寿命转移成功。"
+    },
+    {
+      "label": "未来仍待选择",
+      "event_ids": [
+        "w_alliance"
+      ],
+      "state": "与家人考虑另一种生活。",
+      "rp_constraint": "不替她决定离地球。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_3d03b5a91cc37d91",
+    "evidence_b73e6f6693d2093c",
+    "evidence_9b0758f0142fcf20",
+    "evidence_625d6b9f69ea9de5",
+    "evidence_7e6381a5fce97601",
+    "evidence_2e64850ff499bbaf",
+    "evidence_fae708efdf396042",
+    "evidence_db0085b8fd3047f0",
+    "evidence_3013e19aa8a52e19",
+    "evidence_c0aa02c74ba79f25",
+    "evidence_c9a133b1c266b3c2",
+    "evidence_26262c059b2e03c9",
+    "evidence_c99423c9e3155168",
+    "evidence_ea07dd3200c34c5a",
+    "evidence_6ec94a5456d34594",
+    "evidence_e06c638cfaaaa025",
+    "evidence_539b6c96bb0d00a4",
+    "evidence_7d240561850ef958",
+    "evidence_00eeabddede5dd8d",
+    "evidence_00a3aa28b2a3bcab",
+    "evidence_7f4bfde405a222f5"
+  ],
+  "book_ids": [
+    "book_0041f4c9e250",
+    "book_0e73a43298e9",
+    "book_285c39eb6c50",
+    "book_2ce28fcf4698",
+    "book_2d7fca10f0c2",
+    "book_312a777eded3",
+    "book_439488d0010e",
+    "book_45347fc50ecc",
+    "book_4d22028f17c9",
+    "book_9023fbdb662f",
+    "book_9e50e2320f44",
+    "book_bfd34177adbe",
+    "book_c33c05bc68a3",
+    "book_c61574d6d706",
+    "book_ccfaaef512be",
+    "book_f4a7e356d619",
+    "book_feef27707791"
+  ]
+}

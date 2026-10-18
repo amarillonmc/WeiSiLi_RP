@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0",
+  "id": "book_6ba794ffcd2a",
+  "title": "未卜先知",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/25未卜先知.txt",
+  "file": "books/book_6ba794ffcd2a.json",
+  "inherited_fact_count": 9,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "1e913cf5febf460101b5d687d25dab40f73375bcb98f0d0ec50afa46eb8a0991",
+  "source_lines": 683,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "张皋木",
+      "card_id": "gaosi_zhang_gaomu",
+      "role": "单书主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "甘金忠",
+      "card_id": "gaosi_gan_jinzhong",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "活神仙骗局的女诱饵与三名壮汉",
+      "card_id": "gaosi_fortune_honeytrap_team",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "供述中制造车祸或火灾的其他同伙",
+      "reason": "只作概括犯罪方法出现，没有可区分人物和独立场面，列入甘金忠的条件性组织资源。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_1ecac3e8fd96557b",
+      "statement": "背景及破财预言",
+      "annotation_character_ids": [
+        "gaosi_zhang_gaomu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cab957c9d416a7e4",
+      "statement": "仙人跳经过与拒绝劝说",
+      "annotation_character_ids": [
+        "gaosi_zhang_gaomu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_50876b1cbb9a8b5d",
+      "statement": "接近、私处包围、照片及三万元支票",
+      "annotation_character_ids": [
+        "gaosi_fortune_honeytrap_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5a9d69a210e48de9",
+      "statement": "跟踪安排的推理",
+      "annotation_character_ids": [
+        "gaosi_fortune_honeytrap_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a32fc2a70384ba1",
+      "statement": "监视住宅及交盒禁令",
+      "annotation_character_ids": [
+        "gaosi_gan_jinzhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47bb8ff6300aa682",
+      "statement": "护盒并求警方干预",
+      "annotation_character_ids": [
+        "gaosi_zhang_gaomu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4e80801fa970dd65",
+      "statement": "毒品与骗局揭晓",
+      "annotation_character_ids": [
+        "gaosi_zhang_gaomu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cbbed7a16ee6e32a",
+      "statement": "真实身份、被捕与完整供述",
+      "annotation_character_ids": [
+        "gaosi_gan_jinzhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_531b0a39ddc9dd86",
+      "statement": "供述确认制造应验的机制",
+      "annotation_character_ids": [
+        "gaosi_fortune_honeytrap_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

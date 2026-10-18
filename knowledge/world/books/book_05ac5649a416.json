@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "id": "book_05ac5649a416",
+  "title": "先生，别打尖",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/先生，别打尖.txt",
+  "file": "books/book_05ac5649a416.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "bf5ae19ee3fb259305c0560b178ec7cbd4cec410cb6c8938de7bfafb7189b06b",
+  "source_lines": 71,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "阴阳队伍中的年轻文员",
+      "card_id": "guihua_queue_clerk",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "阴阳队伍中的插队壮汉",
+      "card_id": "guihua_queue_bully",
+      "role": "反派/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_eb186facedac699e",
+      "statement": "外貌、插队与恫吓",
+      "annotation_character_ids": [
+        "guihua_queue_bully"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aeb7b0c54572bf15",
+      "statement": "反对插队及被推走",
+      "annotation_character_ids": [
+        "guihua_queue_clerk"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_14132cf999b3a380",
+      "statement": "抓提、推倒并回队列",
+      "annotation_character_ids": [
+        "guihua_queue_bully"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d058a2ef6b00926f",
+      "statement": "车祸与醒来",
+      "annotation_character_ids": [
+        "guihua_queue_clerk"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

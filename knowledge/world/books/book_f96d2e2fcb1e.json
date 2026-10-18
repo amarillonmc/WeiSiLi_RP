@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f96d2e2fcb1e",
+  "title": "黑美人",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/10黑美人.txt",
+  "file": "books/book_f96d2e2fcb1e.json",
+  "inherited_fact_count": 9,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "e6871f7a92e084a3d037b095fbaa9665261e9638ba98004c6c01ae76e4e11b9c",
+  "source_lines": 692,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "亚黄",
+      "card_id": "gaosi_a_huang",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "老鼠（黑美人）",
+      "card_id": "gaosi_mouse",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "亚黄雇来的三名劫匪",
+      "card_id": "gaosi_mannequin_robbers",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "黑美人案的敌方间谍",
+      "card_id": "gaosi_opposing_spies",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "韦奇",
+      "reason": "情报员与被害人，提供案件缘起；未以独立主角线或对立行动展开。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7f7a6d3e657ced4d",
+      "statement": "高斯认识及判断",
+      "annotation_character_ids": [
+        "gaosi_mouse"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0045f09bf2b422d9",
+      "statement": "偷物、逃跑与钱包内容",
+      "annotation_character_ids": [
+        "gaosi_mouse"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f2be3dd0c2ae7a43",
+      "statement": "枪杀现场与疑点",
+      "annotation_character_ids": [
+        "gaosi_opposing_spies"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2c54335db7fc313e",
+      "statement": "抢劫动作与人数",
+      "annotation_character_ids": [
+        "gaosi_mannequin_robbers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b0a86621b3e2f95a",
+      "statement": "高价、雇人抢劫及暴露",
+      "annotation_character_ids": [
+        "gaosi_a_huang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_373e181923746064",
+      "statement": "委托及藏物地点",
+      "annotation_character_ids": [
+        "gaosi_mannequin_robbers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c088d5ce2befb44f",
+      "statement": "交赃",
+      "annotation_character_ids": [
+        "gaosi_a_huang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6791a926b626aecd",
+      "statement": "自首",
+      "annotation_character_ids": [
+        "gaosi_a_huang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_17d7604fd4e1c220",
+      "statement": "敌方间谍身份说明",
+      "annotation_character_ids": [
+        "gaosi_opposing_spies"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

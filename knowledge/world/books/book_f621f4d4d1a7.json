@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f621f4d4d1a7",
+  "title": "巨龙",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/05巨龙.txt",
+  "file": "books/book_f621f4d4d1a7.json",
+  "inherited_fact_count": 6,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "f95bef993e8bbdd496b465c52726bd16b9ccb158964c7ca50cfb47e501ea6629",
+  "source_lines": 1308,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "燕艳",
+      "card_id": "adventure_yanyan",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "巨龙机械机组",
+      "card_id": "adventure_dragon_crew",
+      "role": "阶段性对立者",
+      "basis": "具有本书实质行动或主线作用"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "古代半人半马王及无名武士",
+      "reason": "遗迹回忆中的历史角色，现存叙事没有足够独立行动逻辑"
+    },
+    {
+      "name": "十名被运输女性",
+      "reason": "未区分的历史受害者"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_5b9b046489003d3b",
+      "statement": "名字、现代身份与目标",
+      "annotation_character_ids": [
+        "adventure_yanyan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6e14d79ee28454e9",
+      "statement": "感应与发现",
+      "annotation_character_ids": [
+        "adventure_yanyan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1cbba022a13bf9fc",
+      "statement": "光源、攻击与机体毁坏",
+      "annotation_character_ids": [
+        "adventure_dragon_crew"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ef03935f5cd11e23",
+      "statement": "古语、光源与回乡受阻",
+      "annotation_character_ids": [
+        "adventure_yanyan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5259a3f583dd8604",
+      "statement": "录像、运输、停机与九个存留",
+      "annotation_character_ids": [
+        "adventure_dragon_crew"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_da9e3adf5c01d36f",
+      "statement": "平台威力仍在但未掌握",
+      "annotation_character_ids": [
+        "adventure_dragon_crew"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arc_gaoxiang",
+  "title": "高翔的经历与成长",
+  "kind": "arc",
+  "character_id": "mulanhua_gao_xiang",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "由早期越轨者转向警务责任，仍有感情导致的误判及愿承担后果的选择。"
+  },
+  "stages": [
+    {
+      "label": "转向",
+      "event_ids": [
+        "m_watch"
+      ],
+      "state": "犯罪交易失败后走向另一生活。",
+      "rp_constraint": "早期不用后期警衔。"
+    },
+    {
+      "label": "关系成熟",
+      "event_ids": [
+        "m_wedding"
+      ],
+      "state": "与木兰花结婚并互救。",
+      "rp_constraint": "不把爱人当受保护的附属。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_59e3305b52d927fc",
+    "evidence_794d29997a3e32fb",
+    "evidence_f588f5db8b6f6dbb",
+    "evidence_63281edff53582e5",
+    "evidence_9a9397fefb850b62",
+    "evidence_f599ecd0432b079f",
+    "evidence_122e9373619e9c16",
+    "evidence_ae9bc3dd6c02aa89",
+    "evidence_0a2cc73d709d0e59",
+    "evidence_e5a0b4bec7398b28",
+    "evidence_abe15c333dd1f43a",
+    "evidence_3f568afeecbe3b10",
+    "evidence_fa6af1fed9557685",
+    "evidence_33de46028aa0bd94",
+    "evidence_5e8a151385bd3bd7"
+  ],
+  "book_ids": [
+    "book_0b0a0d1dcca5",
+    "book_0d683e643d16",
+    "book_184aed6ad276",
+    "book_37e234b81722",
+    "book_3a4be15d72e1",
+    "book_40cc4a079530",
+    "book_6b37f675c3ee",
+    "book_91f9ff962ece",
+    "book_93599e44ee3e",
+    "book_c2535674b4f0",
+    "book_c58b72d1bd18",
+    "book_d891efd52524"
+  ]
+}

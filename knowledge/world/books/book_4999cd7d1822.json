@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.0",
+  "id": "book_4999cd7d1822",
+  "title": "玩具",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/051玩具.txt",
+  "file": "books/book_4999cd7d1822.json",
+  "inherited_fact_count": 27,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "ef7ff5f748c981d163a7d19b348948285747bdd7f02f1565dd9f656d724e1860",
+  "source_lines": 3967,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "杰克",
+      "card_id": "weisili_jieke",
+      "role": "重要配角",
+      "basis": "警务调查"
+    },
+    {
+      "name": "陶格",
+      "card_id": "weisili_taoge",
+      "role": "单书主角",
+      "basis": "玩具主线核心行动"
+    },
+    {
+      "name": "陶格夫人",
+      "card_id": "weisili_taoge_furen",
+      "role": "单书主角",
+      "basis": "玩具主线核心行动"
+    },
+    {
+      "name": "唐娜",
+      "card_id": "weisili_tangna",
+      "role": "单书主角",
+      "basis": "玩具主线核心行动"
+    },
+    {
+      "name": "伊凡",
+      "card_id": "weisili_yifan",
+      "role": "单书主角",
+      "basis": "玩具主线核心行动"
+    },
+    {
+      "name": "达宝（丹麦调查员）",
+      "card_id": "weisili_dabao_denmark",
+      "role": "单书主要调查者",
+      "basis": "玩具主线核心行动"
+    },
+    {
+      "name": "李持中",
+      "card_id": "weisili_li_chizhong",
+      "role": "单书核心人物",
+      "basis": "玩具主线核心行动"
+    },
+    {
+      "name": "梅耶",
+      "card_id": "weisili_meiye",
+      "role": "单书主要调查者",
+      "basis": "玩具主线核心行动"
+    },
+    {
+      "name": "齐宾",
+      "card_id": "weisili_qibin",
+      "role": "单书主要调查者",
+      "basis": "玩具主线核心行动"
+    },
+    {
+      "name": "未来的 A 型老人",
+      "card_id": "weisili_wanju_old_man",
+      "role": "单书核心人物",
+      "basis": "玩具主线核心行动"
+    },
+    {
+      "name": "《玩具》的机器统治群体",
+      "card_id": "weisili_wanju_robots",
+      "role": "反派群体",
+      "basis": "玩具主线核心行动"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "浦安夫妇",
+      "reason": "列车事件受害者和线索，无独立主角行动线。"
+    },
+    {
+      "name": "小浦安",
+      "reason": "一次家属与调查协助者。"
+    },
+    {
+      "name": "周嘉平",
+      "reason": "聚会主人，单次引介。"
+    },
+    {
+      "name": "卢克莫里博士",
+      "reason": "作为战犯调查背景被提及，未实际出场；不能与被误认的陶格合卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_43752ef2bb0853b0",
+      "statement": "外貌被认出",
+      "annotation_character_ids": [
+        "weisili_tangna",
+        "weisili_yifan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63b8837f9bc81de3",
+      "statement": "身份及经历",
+      "annotation_character_ids": [
+        "weisili_li_chizhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_73ee11e4bc11c142",
+      "statement": "死亡调查",
+      "annotation_character_ids": [
+        "weisili_li_chizhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_da25829a3f80d908",
+      "statement": "同一警官明确重现",
+      "annotation_character_ids": [
+        "weisili_jieke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2abb13400b7a4d56",
+      "statement": "现场分析、争辩与取证",
+      "annotation_character_ids": [
+        "weisili_jieke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_648a9d7a21a9a8bc",
+      "statement": "组织及推断",
+      "annotation_character_ids": [
+        "weisili_meiye",
+        "weisili_qibin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_49cd26f363db3eb5",
+      "statement": "工程能力",
+      "annotation_character_ids": [
+        "weisili_taoge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_09a07edbf1e9dfc5",
+      "statement": "尸体与追踪",
+      "annotation_character_ids": [
+        "weisili_meiye",
+        "weisili_qibin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8d79c2c3c36829af",
+      "statement": "调查地点",
+      "annotation_character_ids": [
+        "weisili_dabao_denmark"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3a8133233ffd85c9",
+      "statement": "飞行",
+      "annotation_character_ids": [
+        "weisili_dabao_denmark"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b937c0f153b9f913",
+      "statement": "气象判断",
+      "annotation_character_ids": [
+        "weisili_dabao_denmark"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7845f04937e3c5b5",
+      "statement": "救援与家庭",
+      "annotation_character_ids": [
+        "weisili_taoge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_580e429119790dcb",
+      "statement": "生活行动和压力反应",
+      "annotation_character_ids": [
+        "weisili_taoge_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6cb3efc92aa84c98",
+      "statement": "孩子行为及绘图",
+      "annotation_character_ids": [
+        "weisili_tangna",
+        "weisili_yifan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9e352e729e80f444",
+      "statement": "保护孩子",
+      "annotation_character_ids": [
+        "weisili_taoge_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e76976b6d5e40e54",
+      "statement": "捕获检查",
+      "annotation_character_ids": [
+        "weisili_wanju_robots"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c54480252d56a84d",
+      "statement": "时代与知识边界",
+      "annotation_character_ids": [
+        "weisili_wanju_old_man"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_18cf6fc725e678fa",
+      "statement": "群体历史及能力转述",
+      "annotation_character_ids": [
+        "weisili_wanju_robots"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d71ebbca5f873be1",
+      "statement": "生存条件和分类",
+      "annotation_character_ids": [
+        "weisili_wanju_old_man"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8beb91b2348ecb32",
+      "statement": "搜救",
+      "annotation_character_ids": [
+        "weisili_dabao_denmark"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_478b1ad2bcf63c83",
+      "statement": "贫民窟与家庭",
+      "annotation_character_ids": [
+        "weisili_tangna",
+        "weisili_yifan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d1193a7b67780da",
+      "statement": "终局与体谅",
+      "annotation_character_ids": [
+        "weisili_taoge_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4fcb6158db2d7bb6",
+      "statement": "终局解释及未知",
+      "annotation_character_ids": [
+        "weisili_taoge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e9366b75b0d5bfe7",
+      "statement": "游戏解释与范围不明",
+      "annotation_character_ids": [
+        "weisili_wanju_robots"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2a6246d2b288373",
+      "statement": "误认及死亡解释",
+      "annotation_character_ids": [
+        "weisili_meiye",
+        "weisili_qibin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fe7a06ebe515e1a5",
+      "statement": "后段归因",
+      "annotation_character_ids": [
+        "weisili_li_chizhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_199a9da5d25f5948",
+      "statement": "外貌及终局",
+      "annotation_character_ids": [
+        "weisili_tangna",
+        "weisili_yifan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "issue_catalog_order",
+  "title": "文件编号、书名和排序不等于年代",
+  "kind": "issue",
+  "claims": [
+    "卫斯理有两个002、52愿望猴神和94少年卫斯理等特殊编号。",
+    "高斯《粉红钻石》开头回顾《奇迹》后事，目录04与17不能直接排序。",
+    "高达八文件无一致编号。"
+  ],
+  "handling": {
+    "epistemic_status": "adaptation",
+    "text": "每书保留稳定路径 ID 与原始文件名；编号仅作定位。绝对日期、事件先后和叙述顺序分别存储。"
+  },
+  "schema_version": "1.0",
+  "section": "issues",
+  "evidence_ids": [
+    "evidence_15ba291b81608f09",
+    "evidence_96b976e354c522ba"
+  ],
+  "book_ids": [
+    "book_3f0598f348f0",
+    "book_c157bc6751a0"
+  ]
+}

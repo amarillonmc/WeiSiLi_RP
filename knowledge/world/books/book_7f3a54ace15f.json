@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "id": "book_7f3a54ace15f",
+  "title": "猫头鹰的眼睛",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/猫头鹰的眼睛.txt",
+  "file": "books/book_7f3a54ace15f.json",
+  "inherited_fact_count": 2,
+  "curated_links": {
+    "entities": [
+      "owl_eyes"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "25e7baacc7d078ca66a9010e7eff9f98011efab51c6c46e07fa30d5bc6c9d594",
+  "source_lines": 87,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "试验猫头鹰眼珠的食客",
+      "card_id": "guihua_owl_experimenter",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "E及其他食客",
+      "reason": "一次性讨论者；提出传说未见独立阴谋。"
+    },
+    {
+      "name": "猫头鹰",
+      "reason": "未表现独立人格与主动对抗；不把被害动物自动作恶灵。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_157fc48daffed49a",
+      "statement": "传说与争论",
+      "annotation_character_ids": [
+        "guihua_owl_experimenter"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_52aa0092518c3a72",
+      "statement": "取得材料、试验与死亡",
+      "annotation_character_ids": [
+        "guihua_owl_experimenter"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

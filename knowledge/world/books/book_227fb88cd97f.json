@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "id": "book_227fb88cd97f",
+  "title": "金库奇案",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/41金库奇案.txt",
+  "file": "books/book_227fb88cd97f.json",
+  "inherited_fact_count": 19,
+  "curated_links": {
+    "arcs": [
+      "arc_mulanhua",
+      "arc_annie"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "f6e9a2488c30f56274efa24fcec54d8c4947a26bb56b69fb4396a03047ae2844",
+  "source_lines": 2460,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "系列主角",
+      "basis": "刑事追查与伪装接头。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "质疑金库、驾驶和劫车反击。"
+    },
+    {
+      "name": "陆德",
+      "card_id": "mulanhua_lu_de",
+      "role": "反派",
+      "basis": "内部合谋及买凶。"
+    },
+    {
+      "name": "杜将军",
+      "card_id": "mulanhua_du_general",
+      "role": "反派",
+      "basis": "主导金融计划与决斗。"
+    },
+    {
+      "name": "卢得",
+      "card_id": "mulanhua_lu_de_killer",
+      "role": "反派",
+      "basis": "杀手和劫车者。"
+    },
+    {
+      "name": "副董事长与副总经理",
+      "card_id": "mulanhua_jintong_conspirator_pair",
+      "role": "反派群体",
+      "basis": "统一假证词的固定双人组。"
+    },
+    {
+      "name": "总经理",
+      "card_id": "mulanhua_jintong_manager",
+      "role": "主线人物",
+      "basis": "清白高层主动求助与遇害。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "盛保源",
+      "reason": "被怀疑但实际希望保住持股及银行，是一次性委托线索人物，无确定反派行为。"
+    },
+    {
+      "name": "杨林",
+      "reason": "前杀手经纪人已切断关系，本案核明未参与；提供住址的一次性线索，不以拒绝突袭搜问认定反派。"
+    },
+    {
+      "name": "卢得未名伙伴、杜将军两枪手",
+      "reason": "从属行动并入相应主卡的实际组队条件，无分化身份与独立经历。"
+    },
+    {
+      "name": "穆秀珍、云五风",
+      "reason": "仅相关提及，本书不补独立行动。"
+    },
+    {
+      "name": "银行专家、警卫、护士、油站职员和宾客",
+      "reason": "职务、遇害或场景辅助，不具独立主角弧。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_2ba56cc25e7384ac",
+      "statement": "形象、宣传与权限",
+      "annotation_character_ids": [
+        "mulanhua_lu_de"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_be1e0c9a7333801b",
+      "statement": "高级权限与指纹",
+      "annotation_character_ids": [
+        "mulanhua_jintong_conspirator_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_05e804571a789237",
+      "statement": "解释防卫系统",
+      "annotation_character_ids": [
+        "mulanhua_jintong_manager"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ef62abe65e7b6b80",
+      "statement": "重伤驾车和死亡",
+      "annotation_character_ids": [
+        "mulanhua_jintong_manager"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_92e6f5663d54a663",
+      "statement": "致命火箭后受责",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a613d33f9caf001a",
+      "statement": "劫车、反击和伤亡",
+      "annotation_character_ids": [
+        "mulanhua_lu_de_killer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f740651d33833ac7",
+      "statement": "致命武器使用原则边界",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4bff143d9211e274",
+      "statement": "报姓名与死亡",
+      "annotation_character_ids": [
+        "mulanhua_lu_de_killer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f94a5a598fd2dd62",
+      "statement": "赌博、旧关系和潦倒",
+      "annotation_character_ids": [
+        "mulanhua_lu_de_killer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_49eca060569dd255",
+      "statement": "秘密暴露及要求灭口",
+      "annotation_character_ids": [
+        "mulanhua_lu_de"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b74b18244c95d432",
+      "statement": "反控制及要求比武",
+      "annotation_character_ids": [
+        "mulanhua_du_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_413779d8815c1023",
+      "statement": "身份、计划及单方面爱慕",
+      "annotation_character_ids": [
+        "mulanhua_du_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1887c5b8637ef518",
+      "statement": "共同出卖银行",
+      "annotation_character_ids": [
+        "mulanhua_lu_de"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d9b1bc0c8596a6bc",
+      "statement": "三人串通与总经理清白",
+      "annotation_character_ids": [
+        "mulanhua_jintong_conspirator_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f3858d20be57abe",
+      "statement": "独为清白及揭发动机",
+      "annotation_character_ids": [
+        "mulanhua_jintong_manager"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e1027039f00ea01a",
+      "statement": "桌面裂纹、假跌反制与断腿",
+      "annotation_character_ids": [
+        "mulanhua_du_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_de9d158e823e8f4c",
+      "statement": "守约、改计划及放人",
+      "annotation_character_ids": [
+        "mulanhua_du_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4213325762272598",
+      "statement": "投资亏损、借款及买凶责任",
+      "annotation_character_ids": [
+        "mulanhua_lu_de"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dd49ff4c7494ea26",
+      "statement": "新安排与地位",
+      "annotation_character_ids": [
+        "mulanhua_jintong_conspirator_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

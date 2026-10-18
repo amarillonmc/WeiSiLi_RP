@@ -1,0 +1,328 @@
+{
+  "schema_version": "1.0",
+  "id": "book_6b3eeebde32f",
+  "title": "透明光",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/005透明光.txt",
+  "file": "books/book_6b3eeebde32f.json",
+  "inherited_fact_count": 28,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+  "source_lines": 5341,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "王彦",
+      "card_id": "weisili_wang_yan",
+      "role": "单书主角",
+      "basis": "身体异变与终局试验"
+    },
+    {
+      "name": "燕芬",
+      "card_id": "weisili_yan_fen",
+      "role": "单书主角",
+      "basis": "共同困境与独立推理"
+    },
+    {
+      "name": "勃拉克",
+      "card_id": "weisili_bolake",
+      "role": "反派",
+      "basis": "职业杀手和隐身失控"
+    },
+    {
+      "name": "假罗蒙诺",
+      "card_id": "weisili_false_luomengnuo",
+      "role": "反派",
+      "basis": "犯罪经纪与冒名"
+    },
+    {
+      "name": "艾泊",
+      "card_id": "weisili_aibo",
+      "role": "单书主角",
+      "basis": "沙漠引导、异变与死亡"
+    },
+    {
+      "name": "依格",
+      "card_id": "weisili_yige",
+      "role": "单书主线人物",
+      "basis": "最后族人的冒险与遇害"
+    },
+    {
+      "name": "费沙",
+      "card_id": "weisili_feisha",
+      "role": "阶段性对立者",
+      "basis": "掌握古城准入及比武决定"
+    },
+    {
+      "name": "尤普多",
+      "card_id": "weisili_you_puduo",
+      "role": "阶段性对立者",
+      "basis": "实际刀手"
+    },
+    {
+      "name": "杰克",
+      "card_id": "weisili_jieke",
+      "role": "重要配角",
+      "basis": "警方秘密工作与事件后联络"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "联络与家庭接应"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "王俊",
+      "reason": "提供器物、家属线索和交通的单书辅助，无独立跨书行动证据。"
+    },
+    {
+      "name": "葛地那教授、张技师、舍特、拉利",
+      "reason": "研究、设施或服务辅助，未形成自主主角或反派线。"
+    },
+    {
+      "name": "无名情报员及驾驶员",
+      "reason": "组织从属人物，受害或协助不自动满足独立角色范围。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_01752b22b4ec38cc",
+      "statement": "身份和风度",
+      "annotation_character_ids": [
+        "weisili_wang_yan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1d97b2255f4acdce",
+      "statement": "柔道与知识",
+      "annotation_character_ids": [
+        "weisili_yan_fen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9cdd25381d28f5d7",
+      "statement": "难以取证的暗杀声名",
+      "annotation_character_ids": [
+        "weisili_bolake"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5aca974cea03a845",
+      "statement": "数学家",
+      "annotation_character_ids": [
+        "weisili_wang_yan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3ff8c7f8714b3809",
+      "statement": "独立历史推理和情绪差别",
+      "annotation_character_ids": [
+        "weisili_yan_fen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cbce841d81374cee",
+      "statement": "离岛情绪与透明形态",
+      "annotation_character_ids": [
+        "weisili_wang_yan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bec56a622b5648a9",
+      "statement": "身份、孤独与尊严",
+      "annotation_character_ids": [
+        "weisili_yige"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_beccc0936aa80dc2",
+      "statement": "拷打和杀死依格",
+      "annotation_character_ids": [
+        "weisili_false_luomengnuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4b1fba3548e07521",
+      "statement": "伤中带路及不识古文",
+      "annotation_character_ids": [
+        "weisili_yige"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f15bd7da952448da",
+      "statement": "死亡",
+      "annotation_character_ids": [
+        "weisili_yige"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8d085ba666426d9b",
+      "statement": "招揽与犯罪生意",
+      "annotation_character_ids": [
+        "weisili_false_luomengnuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bfdfc25d4975ca2d",
+      "statement": "两人犯罪分工",
+      "annotation_character_ids": [
+        "weisili_bolake"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4476212922e85ace",
+      "statement": "贪财、枪战和反制",
+      "annotation_character_ids": [
+        "weisili_false_luomengnuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_54c76e376790c65a",
+      "statement": "假身份与死亡",
+      "annotation_character_ids": [
+        "weisili_false_luomengnuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_09b2e731275ead4e",
+      "statement": "身份与向导应募",
+      "annotation_character_ids": [
+        "weisili_aibo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_81e8a3a361b50822",
+      "statement": "刀手身份和声望",
+      "annotation_character_ids": [
+        "weisili_you_puduo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e4ea377d788392dc",
+      "statement": "礼仪冲突和比斗",
+      "annotation_character_ids": [
+        "weisili_feisha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1fb799dc779afc88",
+      "statement": "恩义与威压",
+      "annotation_character_ids": [
+        "weisili_feisha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_28d8c0b3ac56695a",
+      "statement": "救命旧交与危险",
+      "annotation_character_ids": [
+        "weisili_aibo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3dce595512a52890",
+      "statement": "真实胜负与和解",
+      "annotation_character_ids": [
+        "weisili_you_puduo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8be4fb5c00e540df",
+      "statement": "承认胜负与和解",
+      "annotation_character_ids": [
+        "weisili_feisha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_531e94427deffaab",
+      "statement": "自由方案与联络",
+      "annotation_character_ids": [
+        "weisili_feisha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_286c1f95fad63cd1",
+      "statement": "比试危险的回顾",
+      "annotation_character_ids": [
+        "weisili_you_puduo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_79afd41a190c633e",
+      "statement": "必须等待氧气",
+      "annotation_character_ids": [
+        "weisili_aibo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4d92a49c0e236f8f",
+      "statement": "失败、死亡与尸体状态",
+      "annotation_character_ids": [
+        "weisili_aibo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_68a2d2e959620846",
+      "statement": "求助、推定自杀和未知遗物",
+      "annotation_character_ids": [
+        "weisili_bolake"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b5cdd05f73bdab6",
+      "statement": "试验及未明终局",
+      "annotation_character_ids": [
+        "weisili_wang_yan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_51a21ff3fdab1ef6",
+      "statement": "试验及终局",
+      "annotation_character_ids": [
+        "weisili_yan_fen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

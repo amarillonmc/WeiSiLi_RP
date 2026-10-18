@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b6f70bb43bd7",
+  "title": "无间地狱",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/28.无间地狱.txt",
+  "file": "books/book_b6f70bb43bd7.json",
+  "inherited_fact_count": 7,
+  "curated_links": {
+    "events": [
+      "y_liuxu_rescue"
+    ],
+    "arcs": [
+      "arc_kangwei"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "45ca2d7799e1574489ec2076453f50d705939923e2a71ce26946d35e9a6ef512",
+  "source_lines": 3053,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "接触与援助"
+    },
+    {
+      "name": "柳絮",
+      "card_id": "yuanzhenxia_liu_xu",
+      "role": "主角",
+      "basis": "逃离与控制谜题"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "重要配角",
+      "basis": "识别组织控制"
+    },
+    {
+      "name": "曹金福",
+      "card_id": "weisili_cao_jinfu",
+      "role": "重要配角",
+      "basis": "护送与协助"
+    },
+    {
+      "name": "康维十七世",
+      "card_id": "yuanzhenxia_kangwei",
+      "role": "重要配角",
+      "basis": "揭露改造"
+    },
+    {
+      "name": "东方太阳最高领导人",
+      "card_id": "yuanzhenxia_oriental_sun_leader",
+      "role": "反派",
+      "basis": "组织控制"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_f2837cdd8a676cd1",
+      "statement": "骗上车实为护送逃离",
+      "annotation_character_ids": [
+        "weisili_cao_jinfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_74f0a3d5e338f3a2",
+      "statement": "交出装备与历史配备",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_xu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f2abca0fb2f72046",
+      "statement": "不懂柳絮武器且意识保护判断有限",
+      "annotation_character_ids": [
+        "weisili_cao_jinfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_079f3bc14e2c063d",
+      "statement": "组织核心与控制",
+      "annotation_character_ids": [
+        "yuanzhenxia_oriental_sun_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83de6129436d6bf7",
+      "statement": "保护动作被康维单手压回",
+      "annotation_character_ids": [
+        "weisili_cao_jinfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d6d33a98176f86f",
+      "statement": "控制装置与失明原因",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_xu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1235625f877d0b31",
+      "statement": "识别柳絮体内装置",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,294 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f598f34a5dc4",
+  "title": "人形飞弹",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/32人形飞弹.txt",
+  "file": "books/book_f598f34a5dc4.json",
+  "inherited_fact_count": 24,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "848a4aba7d36efa84b46fdfbdad94a328d0523fb539ab93797e3a027969f8702",
+  "source_lines": 2486,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "大庭龙男",
+      "card_id": "mulanhua_dating_longnan",
+      "role": "主角/重要配角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "原杉大郎",
+      "card_id": "mulanhua_yuanshan_dalang",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "化装成威勒的袭击者",
+      "card_id": "mulanhua_fake_weile",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "三井",
+      "card_id": "mulanhua_mitsui",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "威勒（萨氏马戏团炮手）",
+      "card_id": "mulanhua_circus_weile",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "萨克廉、小丑寇利及马戏团团员",
+      "reason": "被错误调查的无辜一方，依法抗议与配合搜查不当作犯罪反派；未形成跨书重要配角。"
+    },
+    {
+      "name": "儿岛强介",
+      "reason": "仅作为两人师门与格言回忆提及，本书没有独立实际行动。"
+    },
+    {
+      "name": "第八号、第三号、酒吧老板娘和其他探员",
+      "reason": "本书单次调查协作者；八号牺牲有记录但没有跨书身份链，三号数字与其他组织同号人物无关。"
+    },
+    {
+      "name": "原杉普通守卫及抛示踪器者",
+      "reason": "无独立姓名和持续动机的组织执行者；三井因明确身份和独立交锋另建卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d6a88db484f1945a",
+      "statement": "师门与邀请",
+      "annotation_character_ids": [
+        "mulanhua_dating_longnan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5a0ab83a4cf6866c",
+      "statement": "秘密职务及既往行动",
+      "annotation_character_ids": [
+        "mulanhua_dating_longnan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8d62a46ee8c41b37",
+      "statement": "马戏炮手节目位置",
+      "annotation_character_ids": [
+        "mulanhua_circus_weile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_346905157eb9a68d",
+      "statement": "外观、自尊与不愿求助",
+      "annotation_character_ids": [
+        "mulanhua_dating_longnan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_00bedbea61a89980",
+      "statement": "勒索方式",
+      "annotation_character_ids": [
+        "mulanhua_yuanshan_dalang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_99e9342dff0a422e",
+      "statement": "麻倒穆、控制安妮与套话",
+      "annotation_character_ids": [
+        "mulanhua_fake_weile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_553cff2a8ed86b44",
+      "statement": "受撞、腿伤及逃走",
+      "annotation_character_ids": [
+        "mulanhua_fake_weile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d6e4fc18df3089cf",
+      "statement": "误围马戏团、核查及道歉",
+      "annotation_character_ids": [
+        "mulanhua_dating_longnan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f996974f74b019e",
+      "statement": "拘留不在场证据",
+      "annotation_character_ids": [
+        "mulanhua_circus_weile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f2848abd3afa5b6f",
+      "statement": "真威勒不在场",
+      "annotation_character_ids": [
+        "mulanhua_fake_weile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b7ef31de9d8ea0bc",
+      "statement": "故意留下等警察",
+      "annotation_character_ids": [
+        "mulanhua_circus_weile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4347996563f33f97",
+      "statement": "收钱打架及认人",
+      "annotation_character_ids": [
+        "mulanhua_circus_weile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c7023730f8cbdc99",
+      "statement": "安排威勒骗局、身份及公司",
+      "annotation_character_ids": [
+        "mulanhua_yuanshan_dalang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83258d27b2ff4108",
+      "statement": "假身份圈套的解释",
+      "annotation_character_ids": [
+        "mulanhua_fake_weile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0542af57b7231b12",
+      "statement": "被停职与继续侦察",
+      "annotation_character_ids": [
+        "mulanhua_dating_longnan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9191f894eb738da3",
+      "statement": "近身反击、摔投与枪被夺",
+      "annotation_character_ids": [
+        "mulanhua_mitsui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee14ce60751d7aa0",
+      "statement": "限时漏洞、三井姓名及秘密联络",
+      "annotation_character_ids": [
+        "mulanhua_mitsui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_34ec3cd7e17982b9",
+      "statement": "儒雅外观与机关拘禁",
+      "annotation_character_ids": [
+        "mulanhua_yuanshan_dalang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f4ee077faef1701b",
+      "statement": "实见工厂、弹头未定",
+      "annotation_character_ids": [
+        "mulanhua_yuanshan_dalang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6212115d4ec0f806",
+      "statement": "跟踪仪骗局",
+      "annotation_character_ids": [
+        "mulanhua_yuanshan_dalang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2a0844003d4b62d0",
+      "statement": "追踪器、驾车截击与救人",
+      "annotation_character_ids": [
+        "mulanhua_dating_longnan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5127d9e2946d9ec4",
+      "statement": "放人误判、翻脸、自杀发射",
+      "annotation_character_ids": [
+        "mulanhua_yuanshan_dalang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d54fbfd0f6ad2aa6",
+      "statement": "部下牺牲、围剿及危机解除",
+      "annotation_character_ids": [
+        "mulanhua_dating_longnan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bed984431108c5b9",
+      "statement": "飞弹未校准落海",
+      "annotation_character_ids": [
+        "mulanhua_yuanshan_dalang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

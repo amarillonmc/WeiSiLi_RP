@@ -1,0 +1,362 @@
+{
+  "schema_version": "1.0",
+  "id": "book_a597455f4c69",
+  "title": "第二种人",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/054第二种人.txt",
+  "file": "books/book_a597455f4c69.json",
+  "inherited_fact_count": 30,
+  "curated_links": {
+    "arcs": [
+      "arc_weisili"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "b8431a163f8d71a21f99e272280c77c4c20372e402932aa9632343818c3e06c5",
+  "source_lines": 4332,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "辨认交通事故中的同貌者"
+    },
+    {
+      "name": "达宝（飞行工程师）",
+      "card_id": "weisili_dabao_plant",
+      "role": "单书主角",
+      "basis": "空难、身份调查或关键冲突"
+    },
+    {
+      "name": "白辽士",
+      "card_id": "weisili_bailiaoshi",
+      "role": "单书主角",
+      "basis": "空难、身份调查或关键冲突"
+    },
+    {
+      "name": "文斯",
+      "card_id": "weisili_wensi_plant",
+      "role": "单书主角",
+      "basis": "空难、身份调查或关键冲突"
+    },
+    {
+      "name": "连能",
+      "card_id": "weisili_lianneng",
+      "role": "单书主角",
+      "basis": "空难、身份调查或关键冲突"
+    },
+    {
+      "name": "奥昆",
+      "card_id": "weisili_aokun",
+      "role": "单书主角",
+      "basis": "空难、身份调查或关键冲突"
+    },
+    {
+      "name": "白辽士二世",
+      "card_id": "weisili_bailiaoshi_second",
+      "role": "单书主角",
+      "basis": "空难、身份调查或关键冲突"
+    },
+    {
+      "name": "马基机长",
+      "card_id": "weisili_maji_pilot",
+      "role": "单书主角",
+      "basis": "空难、身份调查或关键冲突"
+    },
+    {
+      "name": "祁士域",
+      "card_id": "weisili_qi_shiyu",
+      "role": "单书主角",
+      "basis": "空难、身份调查或关键冲突"
+    },
+    {
+      "name": "采紫菜的老人",
+      "card_id": "weisili_zicai_old_robber",
+      "role": "反派",
+      "basis": "空难、身份调查或关键冲突"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "单相",
+      "reason": "单书专家录音协助；后文056仅提及，132将盗墓者写单相疑与弟弟单思混名，不据此强合并。"
+    },
+    {
+      "name": "学校老教师",
+      "reason": "一次回忆达宝少年性格的协助者。"
+    },
+    {
+      "name": "其余同貌下一代",
+      "reason": "确为独立个体，只有群体航海及接应信息；未表现独立主角或反派线，不能当五人的分身。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_33c2fb8e741fc9c4",
+      "statement": "飞行经验",
+      "annotation_character_ids": [
+        "weisili_maji_pilot"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_683a24f5a9afc772",
+      "statement": "友谊与事业",
+      "annotation_character_ids": [
+        "weisili_qi_shiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_657d01499fb35a0e",
+      "statement": "事故争论",
+      "annotation_character_ids": [
+        "weisili_aokun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1da0980c46d347ed",
+      "statement": "机上行动",
+      "annotation_character_ids": [
+        "weisili_lianneng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f49c96e235ef5048",
+      "statement": "机上通讯与行动",
+      "annotation_character_ids": [
+        "weisili_wensi_plant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_124938e609d0f68f",
+      "statement": "关心与越界想法",
+      "annotation_character_ids": [
+        "weisili_qi_shiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1662a01aad7a4ec6",
+      "statement": "沉默",
+      "annotation_character_ids": [
+        "weisili_maji_pilot"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72e989ff15a6714b",
+      "statement": "隐私与追问",
+      "annotation_character_ids": [
+        "weisili_lianneng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0532eceeffbf8e1e",
+      "statement": "遗书及死亡",
+      "annotation_character_ids": [
+        "weisili_qi_shiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0ac35dc9e0c60e08",
+      "statement": "学生时的坚持",
+      "annotation_character_ids": [
+        "weisili_dabao_plant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee9a81129ed38782",
+      "statement": "生命观",
+      "annotation_character_ids": [
+        "weisili_dabao_plant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b597691e06fc6642",
+      "statement": "离职消失",
+      "annotation_character_ids": [
+        "weisili_aokun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3fbd0247c8d981b7",
+      "statement": "演化讨论",
+      "annotation_character_ids": [
+        "weisili_dabao_plant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f9967478e377cd5c",
+      "statement": "终局心情",
+      "annotation_character_ids": [
+        "weisili_maji_pilot"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_05011c73a92f0c95",
+      "statement": "历史与自述",
+      "annotation_character_ids": [
+        "weisili_aokun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7054f152eb0d09b3",
+      "statement": "生理",
+      "annotation_character_ids": [
+        "weisili_aokun",
+        "weisili_bailiaoshi",
+        "weisili_dabao_plant",
+        "weisili_lianneng",
+        "weisili_wensi_plant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_213a24cdfce7b73e",
+      "statement": "事故与掩饰",
+      "annotation_character_ids": [
+        "weisili_bailiaoshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_99f0e29f76eb7cf2",
+      "statement": "事故自述与心理",
+      "annotation_character_ids": [
+        "weisili_maji_pilot"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b2471f16190525a",
+      "statement": "自述与责任",
+      "annotation_character_ids": [
+        "weisili_wensi_plant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_626f996237030362",
+      "statement": "保密与人口",
+      "annotation_character_ids": [
+        "weisili_aokun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_36b434e037997be5",
+      "statement": "后代独立与通讯距离",
+      "annotation_character_ids": [
+        "weisili_aokun",
+        "weisili_bailiaoshi",
+        "weisili_dabao_plant",
+        "weisili_lianneng",
+        "weisili_wensi_plant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1008a90f0791688d",
+      "statement": "代际区别",
+      "annotation_character_ids": [
+        "weisili_bailiaoshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a359293a751428f8",
+      "statement": "独立身份与性格",
+      "annotation_character_ids": [
+        "weisili_bailiaoshi_second"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e8417ac10037110e",
+      "statement": "身份与受助",
+      "annotation_character_ids": [
+        "weisili_zicai_old_robber"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e8686a604675b862",
+      "statement": "朋友及信任边界",
+      "annotation_character_ids": [
+        "weisili_lianneng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c1cfdd362be4b94d",
+      "statement": "航海、催眠及伤害",
+      "annotation_character_ids": [
+        "weisili_bailiaoshi_second"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2080b253496ff882",
+      "statement": "袭击及逃离",
+      "annotation_character_ids": [
+        "weisili_zicai_old_robber"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f2f3ac26192596b8",
+      "statement": "承诺",
+      "annotation_character_ids": [
+        "weisili_bailiaoshi_second"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d0513bb7218aedc",
+      "statement": "终局接送",
+      "annotation_character_ids": [
+        "weisili_dabao_plant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2d953237b6938ecb",
+      "statement": "偷样本打算与写出秘密的违诺",
+      "annotation_character_ids": [
+        "weisili_wei_sili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

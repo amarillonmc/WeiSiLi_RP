@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "id": "book_e0f35641e223",
+  "title": "宝狐",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/05.宝狐.txt",
+  "file": "books/book_e0f35641e223.json",
+  "inherited_fact_count": 10,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "64e25f2593c53315029bc368bdc38d5bf104ee781d40dfe46a454057fb9ba2a5",
+  "source_lines": 3333,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查者"
+    },
+    {
+      "name": "苏耀西",
+      "card_id": "yuanzhenxia_su_yaoxi",
+      "role": "重要配角",
+      "basis": "交往引介"
+    },
+    {
+      "name": "冷自泉",
+      "card_id": "yuanzhenxia_leng_ziquan",
+      "role": "单书主角",
+      "basis": "本书主要人物或追捕方"
+    },
+    {
+      "name": "宝狐",
+      "card_id": "yuanzhenxia_baohu",
+      "role": "单书主角",
+      "basis": "本书主要人物或追捕方"
+    },
+    {
+      "name": "刘由",
+      "card_id": "yuanzhenxia_liu_you",
+      "role": "单书主角（开篇视角）",
+      "basis": "本书主要人物或追捕方"
+    },
+    {
+      "name": "宝狐的同类追捕者",
+      "card_id": "yuanzhenxia_baohu_pursuers",
+      "role": "阶段性对立者（集体）",
+      "basis": "本书主要人物或追捕方"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "鲁柱、冷二及家族长辈",
+      "reason": "单书家族或侍从配角"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c06255a0d8ff7aa8",
+      "statement": "义庄开场视角",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_you"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c37f701ce146f711",
+      "statement": "开棺所见与空棺说法",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_you"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b152ba3773602563",
+      "statement": "前途冲突与迷路保护",
+      "annotation_character_ids": [
+        "yuanzhenxia_leng_ziquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d8b87ca633649f4",
+      "statement": "外观形成与欲望",
+      "annotation_character_ids": [
+        "yuanzhenxia_baohu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aaff0025c9e7ce07",
+      "statement": "长年等待",
+      "annotation_character_ids": [
+        "yuanzhenxia_leng_ziquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b219d2f0a1c554f",
+      "statement": "无形生命、能量、追捕与伦理",
+      "annotation_character_ids": [
+        "yuanzhenxia_baohu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_60df91e40079c4f8",
+      "statement": "追捕限制、主动被捕与情感研究",
+      "annotation_character_ids": [
+        "yuanzhenxia_baohu_pursuers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7dbf8690ce024a33",
+      "statement": "保护意念与外部能力",
+      "annotation_character_ids": [
+        "yuanzhenxia_leng_ziquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aad450647f8930a7",
+      "statement": "相聚条件及未知结尾",
+      "annotation_character_ids": [
+        "yuanzhenxia_baohu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dba2c8faf2f73675",
+      "statement": "死亡与相聚未证实",
+      "annotation_character_ids": [
+        "yuanzhenxia_leng_ziquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

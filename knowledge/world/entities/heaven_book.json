@@ -1,0 +1,48 @@
+{
+  "id": "heaven_book",
+  "title": "天书、戒指与镜像宇宙解释",
+  "kind": "information",
+  "summary": "看似预知的信息及求援装置，牵动迷航者的归乡和地球人的恐惧。",
+  "mechanism": {
+    "text": "镜像宇宙解释是具体叙述中的解释框架；不能把天书理解成任意未来检索器。",
+    "epistemic_status": "testimony"
+  },
+  "access_conditions": [
+    "原稿、戒指信号或飞船设备",
+    "理解叙述来源"
+  ],
+  "limits": [
+    "姬娜戒指能量已耗尽",
+    "迷航者与船后来毁去",
+    "不是全宇宙固定宿命的通则"
+  ],
+  "last_known_state": "迷航者死亡，稿件及设备毁去；祖斯基未被告知姬娜死亡真相。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "可以围绕信息被误读、被保密及归乡愿望展开历史场景。"
+  },
+  "character_ids": [],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_9d9ab57cf4151978",
+    "evidence_5571c24f7e4e13b9",
+    "evidence_e6390d4aacee56ad",
+    "evidence_eda3a345134a1ab2",
+    "evidence_5361ba5df7515376",
+    "evidence_37cad2859bd7b3c4",
+    "evidence_fe069bb783db888c",
+    "evidence_7d5f4f16474de04e",
+    "evidence_c89f623f0358c5ef",
+    "evidence_f04803e08a6fb3dc",
+    "evidence_eb41c5a79f539bc2",
+    "evidence_807c0ef083b60f1e",
+    "evidence_15ad427b2a1ca126",
+    "evidence_7e3cd88d3e73a159",
+    "evidence_be86389ddac2ac72"
+  ],
+  "book_ids": [
+    "book_47d92f518f4c",
+    "book_b0c91e969080"
+  ]
+}

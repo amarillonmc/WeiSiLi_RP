@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "id": "book_fdfbc165519b",
+  "title": "风水",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/032风水.txt",
+  "file": "books/book_fdfbc165519b.json",
+  "inherited_fact_count": 7,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "41de77ea89f98833de1b5570bf583f1c9efce674242a134f42f40a84b7746f99",
+  "source_lines": 1294,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "信心与祖坟风水冲突"
+    },
+    {
+      "name": "孟先生（风水）",
+      "card_id": "weisili_meng_xiansheng_fengshui",
+      "role": "反派",
+      "basis": "阻挠与现场行动"
+    },
+    {
+      "name": "万世穷",
+      "card_id": "weisili_wan_shiqiong",
+      "role": "单书主要行动者",
+      "basis": "阻挠与现场行动"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "杨子兵、容百宜",
+      "reason": "家族往事中的堪舆者，预测不确认为可主动战斗能力"
+    },
+    {
+      "name": "李恩业及三子",
+      "reason": "被转述的历史因果，不擅自映射现实人物"
+    },
+    {
+      "name": "杨董事长",
+      "reason": "结尾对谈者，不与杨子兵混同"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_618a17270f2b7b39",
+      "statement": "身份、目的与心理战",
+      "annotation_character_ids": [
+        "weisili_meng_xiansheng_fengshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5468ed6aafde0848",
+      "statement": "被群众拘住",
+      "annotation_character_ids": [
+        "weisili_meng_xiansheng_fengshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e453eb86dfcc6b43",
+      "statement": "群众力量改变拘押关系",
+      "annotation_character_ids": [
+        "weisili_wan_shiqiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db269d166af44214",
+      "statement": "救援与行动",
+      "annotation_character_ids": [
+        "weisili_wan_shiqiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_efacc20582cf0481",
+      "statement": "再拘押及阻断",
+      "annotation_character_ids": [
+        "weisili_meng_xiansheng_fengshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d1746edb50c79646",
+      "statement": "离开与革命信念",
+      "annotation_character_ids": [
+        "weisili_wan_shiqiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_57e299acdbf0cc10",
+      "statement": "风水争论中的判断",
+      "annotation_character_ids": [
+        "weisili_tao_qiquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

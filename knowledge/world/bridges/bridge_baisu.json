@@ -1,0 +1,19 @@
+{
+  "id": "bridge_baisu",
+  "title": "白素成为非人协会会员",
+  "kind": "bridge",
+  "series": [
+    "卫斯理系列",
+    "非人协会系列"
+  ],
+  "connection_level": "explicit_crossover",
+  "claim": "后期白素入会是组织阶段变化；不把早期六会员名单当恒定设定。",
+  "schema_version": "1.0",
+  "section": "bridges",
+  "evidence_ids": [
+    "evidence_6a0746f8242285b9"
+  ],
+  "book_ids": [
+    "book_285c39eb6c50"
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "id": "book_960709238b18",
+  "title": "洞天",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/061洞天.txt",
+  "file": "books/book_960709238b18.json",
+  "inherited_fact_count": 19,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "507f48f0dc87e96b3119eb57874270445ff95dbd6c0f519e220dbf0d712245fb",
+  "source_lines": 3383,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "追查失踪并经历接引空间"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "独立追踪、提问和选择留地"
+    },
+    {
+      "name": "布平",
+      "card_id": "weisili_bu_ping",
+      "role": "重要配角",
+      "basis": "山地专家与线索提供者"
+    },
+    {
+      "name": "李一心",
+      "card_id": "weisili_li_yixin",
+      "role": "主角",
+      "basis": "接引者"
+    },
+    {
+      "name": "李天范",
+      "card_id": "weisili_li_tianfan",
+      "role": "主角",
+      "basis": "失子父亲与科学家"
+    },
+    {
+      "name": "贡云",
+      "card_id": "weisili_gong_yun",
+      "role": "主角",
+      "basis": "被接引的修行者"
+    },
+    {
+      "name": "恩吉",
+      "card_id": "weisili_en_ji",
+      "role": "主角",
+      "basis": "主持寺院调查"
+    },
+    {
+      "name": "摇铃大师",
+      "card_id": "weisili_bell_lama",
+      "role": "主角",
+      "basis": "有独立对话与最终接引选择"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "其他上师和登山队员",
+      "reason": "未提供足以区分的个人身份或独立反派行动，不拆成虚构单人"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_9f194b2a07b8cdfb",
+      "statement": "身份与专业",
+      "annotation_character_ids": [
+        "weisili_bu_ping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e86fbb5f112b345",
+      "statement": "山区语言",
+      "annotation_character_ids": [
+        "weisili_bu_ping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff110fd0c8b9ff42",
+      "statement": "住持身份及研究",
+      "annotation_character_ids": [
+        "weisili_en_ji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d87399895502d669",
+      "statement": "感知来客与威望",
+      "annotation_character_ids": [
+        "weisili_gong_yun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5a835b7247d67d32",
+      "statement": "处理大石与师长",
+      "annotation_character_ids": [
+        "weisili_en_ji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c55ef6018cceeea",
+      "statement": "外形与寻找意志",
+      "annotation_character_ids": [
+        "weisili_li_yixin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f08d1ebc6c3fe931",
+      "statement": "科学身份和求助",
+      "annotation_character_ids": [
+        "weisili_li_tianfan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a0702ec3655e0bbf",
+      "statement": "儿子经过的叙述",
+      "annotation_character_ids": [
+        "weisili_li_tianfan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca433aabbd59c140",
+      "statement": "感应、忧虑及允许调查",
+      "annotation_character_ids": [
+        "weisili_en_ji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ea7b1b21d59ac814",
+      "statement": "引导摇铃大师",
+      "annotation_character_ids": [
+        "weisili_gong_yun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed81ae2f0acadb4e",
+      "statement": "惊疑、对答与反省",
+      "annotation_character_ids": [
+        "weisili_bell_lama"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6fea6940f307eab2",
+      "statement": "身份、肉身限制与工具",
+      "annotation_character_ids": [
+        "weisili_li_yixin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2044d984438aedc9",
+      "statement": "接引目标",
+      "annotation_character_ids": [
+        "weisili_bell_lama"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a00d9b4bdcde9bda",
+      "statement": "失明与接引目标",
+      "annotation_character_ids": [
+        "weisili_gong_yun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_61735a4dc64d02a2",
+      "statement": "接引原则、拒绝和离开",
+      "annotation_character_ids": [
+        "weisili_li_yixin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9187033fd62830b2",
+      "statement": "未选择改变生命形态",
+      "annotation_character_ids": [
+        "weisili_bu_ping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7561c62598ef34a6",
+      "statement": "离去结果",
+      "annotation_character_ids": [
+        "weisili_gong_yun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b1037821a012a450",
+      "statement": "随接引离去",
+      "annotation_character_ids": [
+        "weisili_bell_lama"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1cbba50a211662f6",
+      "statement": "获知结果仍不能接受",
+      "annotation_character_ids": [
+        "weisili_li_tianfan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

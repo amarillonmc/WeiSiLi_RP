@@ -1,0 +1,37 @@
+{
+  "id": "nonhuman_association",
+  "title": "非人协会",
+  "kind": "institution",
+  "summary": "以独特经历和能力为入会标准的隐秘协会；名称不是物种分类。",
+  "mechanism": {
+    "text": "早期会员全体认可、会费及寻找继任者构成组织规则；后期开展生命配额研究，白素成为当然会员。",
+    "epistemic_status": "textual_fact"
+  },
+  "access_conditions": [
+    "具体时代的邀请与资格",
+    "早期设定每年三月一日在瑞士古堡聚会"
+  ],
+  "limits": [
+    "两百年历史、会费数额等在序言中多为“据说”",
+    "早期六会员不能冻结为后期恒定人数",
+    "会员身份不共享所有成员的能力"
+  ],
+  "last_known_state": "《卖命》以后白素加入；《死去活来》仍有讨论活动。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "可围绕邀请、资格争论、调查任务或寿命分配意见冲突组织 RP。"
+  },
+  "character_ids": [
+    "weisili_bai_su"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_943a83dd3ca9c12e",
+    "evidence_4544edd46fa6cf35"
+  ],
+  "book_ids": [
+    "book_285c39eb6c50",
+    "book_9377f55f8968"
+  ]
+}

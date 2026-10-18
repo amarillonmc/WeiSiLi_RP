@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "id": "book_36e3d4c8cce1",
+  "title": "天人",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/01.天人.txt",
+  "file": "books/book_36e3d4c8cce1.json",
+  "inherited_fact_count": 19,
+  "curated_links": {
+    "rules": [
+      "rule_local_mechanisms",
+      "rule_alien_ethics",
+      "rule_relative_time"
+    ],
+    "entities": [
+      "tianren_station"
+    ],
+    "events": [
+      "y_tianren"
+    ],
+    "arcs": [
+      "arc_huangjuan"
+    ]
+  },
+  "direct_source_review": true,
+  "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+  "source_lines": 3387,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "持续调查者"
+    },
+    {
+      "name": "原林",
+      "card_id": "yuanzhenxia_yuan_lin",
+      "role": "主角",
+      "basis": "战地叙事视角"
+    },
+    {
+      "name": "轻见小剑",
+      "card_id": "yuanzhenxia_qingjian_xiaojian",
+      "role": "主角",
+      "basis": "战地与医学疑案核心"
+    },
+    {
+      "name": "黄应驹",
+      "card_id": "yuanzhenxia_huang_yingju",
+      "role": "主角",
+      "basis": "异国经历独立叙事线"
+    },
+    {
+      "name": "铁男",
+      "card_id": "yuanzhenxia_tie_nan",
+      "role": "主角",
+      "basis": "共同调查者"
+    },
+    {
+      "name": "泉吟香",
+      "card_id": "yuanzhenxia_quan_yinxiang",
+      "role": "主角",
+      "basis": "异常经历与终局选择"
+    },
+    {
+      "name": "黄绢",
+      "card_id": "yuanzhenxia_huang_juan",
+      "role": "主角",
+      "basis": "调查与权力选择"
+    },
+    {
+      "name": "卡尔斯",
+      "card_id": "yuanzhenxia_kaersi",
+      "role": "反派",
+      "basis": "统治野心"
+    },
+    {
+      "name": "天人研究站观察者",
+      "card_id": "yuanzhenxia_tianren_station",
+      "role": "反派",
+      "basis": "控制与灭口机制"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "羽仁五郎／五朗",
+      "reason": "医学院同学和受害者；仅此书配角，非独立主要行动线"
+    },
+    {
+      "name": "陈山",
+      "reason": "被灭口的样本；单书受害配角"
+    },
+    {
+      "name": "井田、罗惠、孟雄等",
+      "reason": "一次性教学、联络或现场辅助角色"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_1a046e2d92a0cdf3",
+      "statement": "救援经过与日记",
+      "annotation_character_ids": [
+        "yuanzhenxia_yuan_lin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2165a18b8d89dfe",
+      "statement": "战地被救",
+      "annotation_character_ids": [
+        "yuanzhenxia_qingjian_xiaojian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_454e79997cbdd171",
+      "statement": "医学事业、死亡及档案",
+      "annotation_character_ids": [
+        "yuanzhenxia_qingjian_xiaojian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5ec54cfd9fbdde37",
+      "statement": "父子关系与军官身份",
+      "annotation_character_ids": [
+        "yuanzhenxia_yuan_lin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22392949ca66e9f3",
+      "statement": "查证照片记录",
+      "annotation_character_ids": [
+        "yuanzhenxia_tie_nan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_70ae92d43b12d1ab",
+      "statement": "开棺时恐惧和敬意",
+      "annotation_character_ids": [
+        "yuanzhenxia_tie_nan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_39eb8211ee7a10f5",
+      "statement": "异国工作与家庭动机",
+      "annotation_character_ids": [
+        "yuanzhenxia_huang_yingju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8db6c6366a2b82fe",
+      "statement": "轮胎线索",
+      "annotation_character_ids": [
+        "yuanzhenxia_tie_nan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5305ddef6082019",
+      "statement": "演员身份与追查",
+      "annotation_character_ids": [
+        "yuanzhenxia_quan_yinxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_724239cfe5b67917",
+      "statement": "驾驶与通话",
+      "annotation_character_ids": [
+        "yuanzhenxia_tie_nan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_88742ef93fefbce3",
+      "statement": "死亡",
+      "annotation_character_ids": [
+        "yuanzhenxia_tie_nan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_410b1c457e58325c",
+      "statement": "接受普通身份",
+      "annotation_character_ids": [
+        "yuanzhenxia_quan_yinxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b9e15d233aaa3604",
+      "statement": "天人真相后的人生选择",
+      "annotation_character_ids": [
+        "yuanzhenxia_huang_juan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d0b364c621834c06",
+      "statement": "否认样本地位与植入物消退",
+      "annotation_character_ids": [
+        "yuanzhenxia_kaersi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f6defc93bb8a442e",
+      "statement": "研究、植入、保护、灭口与终止",
+      "annotation_character_ids": [
+        "yuanzhenxia_tianren_station"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c12e162d458c9808",
+      "statement": "外部保护和实验终止",
+      "annotation_character_ids": [
+        "yuanzhenxia_qingjian_xiaojian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5858d07a3d70483d",
+      "statement": "样本灭口机制",
+      "annotation_character_ids": [
+        "yuanzhenxia_huang_yingju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4fe445774edce8f1",
+      "statement": "控制机制、实验终结与记忆变化",
+      "annotation_character_ids": [
+        "yuanzhenxia_quan_yinxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa17af95d7b462c6",
+      "statement": "基地毁灭与记忆变化",
+      "annotation_character_ids": [
+        "yuanzhenxia_tianren_station"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

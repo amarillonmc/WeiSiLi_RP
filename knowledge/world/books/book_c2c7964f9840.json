@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "id": "book_c2c7964f9840",
+  "title": "影子",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/025影子.txt",
+  "file": "books/book_c2c7964f9840.json",
+  "inherited_fact_count": 20,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "c042ebd25b879cac218aaed6e54bf389ce6103e3f578c27a6e82df92c8a1ed9c",
+  "source_lines": 1660,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "跨书重要配角",
+      "basis": "帮助许信联络卫斯理。"
+    },
+    {
+      "name": "许信",
+      "card_id": "weisili_xu_xin",
+      "role": "单书主角",
+      "basis": "从少年冒险者到长期照护研究者。"
+    },
+    {
+      "name": "毛雪屏",
+      "card_id": "weisili_mao_xueping",
+      "role": "单书主角",
+      "basis": "追索并买屋接近第一影子。"
+    },
+    {
+      "name": "大屋影子",
+      "card_id": "weisili_shadow_house",
+      "role": "未知主角",
+      "basis": "少年事件与毛教授关系核心。"
+    },
+    {
+      "name": "第二影子",
+      "card_id": "weisili_shadow_xuxin",
+      "role": "未知主角",
+      "basis": "多年后许信带来的不同个体。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "老锁匠、阿尚、许氏夫妇",
+      "reason": "开锁、财产旧事和后续证言的重要单次辅助，未形成独立主角或反派线。"
+    },
+    {
+      "name": "古庙老和尚及新主持",
+      "reason": "来源与交流的前史辅助；降头能力只有泛述，不杜撰术法卡。"
+    },
+    {
+      "name": "农民、实验所人员、末尾科学家及传话职员",
+      "reason": "来源、检验或传讯的单次辅助，未确立独立角色弧。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_763989b4233eefe1",
+      "statement": "早期友情",
+      "annotation_character_ids": [
+        "weisili_xu_xin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0208345344b50cd3",
+      "statement": "主人弃屋记述",
+      "annotation_character_ids": [
+        "weisili_shadow_house"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_990ba698aec0fd07",
+      "statement": "挤缝与镇纸接触",
+      "annotation_character_ids": [
+        "weisili_shadow_house"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b78f61d77e6bc221",
+      "statement": "学术身份",
+      "annotation_character_ids": [
+        "weisili_mao_xueping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_09b726e253f6c0d6",
+      "statement": "目击与追查物件",
+      "annotation_character_ids": [
+        "weisili_mao_xueping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d06d57983d09eaf",
+      "statement": "石球与和尚交流",
+      "annotation_character_ids": [
+        "weisili_shadow_house"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_684c7cc0ee476d81",
+      "statement": "沿墙和招手",
+      "annotation_character_ids": [
+        "weisili_shadow_house"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f95d48f636c47d3",
+      "statement": "交易和排他保密",
+      "annotation_character_ids": [
+        "weisili_mao_xueping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77cc4a678fef1ccb",
+      "statement": "宝物猜想与离乡",
+      "annotation_character_ids": [
+        "weisili_xu_xin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_51d44a36380d2ef3",
+      "statement": "修箱、火灾及未解原因",
+      "annotation_character_ids": [
+        "weisili_mao_xueping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8c8047b965f21d6e",
+      "statement": "触球、火灾和疑问",
+      "annotation_character_ids": [
+        "weisili_shadow_house"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_38fa43a14bad11cb",
+      "statement": "长期居庙及不同影子",
+      "annotation_character_ids": [
+        "weisili_xu_xin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c3fb2a3d3dab17a",
+      "statement": "明确为另一个个体",
+      "annotation_character_ids": [
+        "weisili_shadow_xuxin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b70ba7f1606f5eb",
+      "statement": "石球和显形",
+      "annotation_character_ids": [
+        "weisili_shadow_xuxin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_af50e6325d00fba1",
+      "statement": "移向窗外",
+      "annotation_character_ids": [
+        "weisili_shadow_xuxin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d3e0aeb5cc89c759",
+      "statement": "游移与回归",
+      "annotation_character_ids": [
+        "weisili_shadow_xuxin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee02ff0e46fccd7e",
+      "statement": "友谊立场、争执和邀约",
+      "annotation_character_ids": [
+        "weisili_xu_xin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c00d572e80632bae",
+      "statement": "容器破损和异声",
+      "annotation_character_ids": [
+        "weisili_shadow_xuxin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_90c0653405e2803d",
+      "statement": "材质检查及火灾失踪",
+      "annotation_character_ids": [
+        "weisili_shadow_xuxin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8b718d34bb0b94a2",
+      "statement": "火灾与失踪",
+      "annotation_character_ids": [
+        "weisili_xu_xin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

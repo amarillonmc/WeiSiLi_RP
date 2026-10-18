@@ -1,0 +1,4228 @@
+[
+  {
+    "id": "arc_weisili",
+    "title": "卫斯理的经历与成长",
+    "kind": "arc",
+    "character_id": "weisili_wei_sili",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "从江湖与财富争夺进入异星和人格伦理问题；知识扩展不自动消除好胜、偏见与求知越界。"
+    },
+    "stages": [
+      {
+        "label": "少年有限认知",
+        "event_ids": [
+          "w_childhood"
+        ],
+        "state": "有冒险与神秘联络经验，未知幕后身份。",
+        "rp_constraint": "不能带成年调查结论。"
+      },
+      {
+        "label": "江湖与家庭",
+        "event_ids": [
+          "w_diamond",
+          "w_bai_union"
+        ],
+        "state": "经历失去并建立亲密支点。",
+        "rp_constraint": "宽赦与偏爱不等于一贯不杀人。"
+      },
+      {
+        "label": "制度与生命疑问",
+        "event_ids": [
+          "w_leman"
+        ],
+        "state": "认识技术可救人也可剥夺他人。",
+        "rp_constraint": "不自动取得技术。"
+      },
+      {
+        "label": "复制伦理中的抵抗",
+        "event_ids": [
+          "w_copy_refusal"
+        ],
+        "state": "仍以自己的选择干预杜良计划。",
+        "rp_constraint": "该次反向指令不升级为通用控制。"
+      },
+      {
+        "label": "开放终点",
+        "event_ids": [
+          "w_alliance"
+        ],
+        "state": "理解远行倡议但未明示决定。",
+        "rp_constraint": "不能默认已离地球。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/001钻石花 .txt",
+        "start_line": 4259,
+        "end_line": 4266,
+        "supports": "武术显示与对死神的宽赦选择",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 2685,
+        "end_line": 2690,
+        "supports": "对水的脑控制仅保留部分意志",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/140身外化身.txt",
+        "start_line": 1407,
+        "end_line": 1414,
+        "supports": "用反向指令破坏复制人计划并明确地球人身份",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1382,
+        "end_line": 1393,
+        "supports": "终局对新生大同盟的态度仍未作明示决定",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/033环.txt",
+        "start_line": 1784,
+        "end_line": 1795,
+        "supports": "阻止政变时主动杀害八人及欺骗脱身，表明并非绝不先发杀人",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/144死去活来.txt",
+        "start_line": 1020,
+        "end_line": 1059,
+        "supports": "童年训鸟经验与现场使用",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/054第二种人.txt",
+        "start_line": 4314,
+        "end_line": 4324,
+        "supports": "偷样本打算与写出秘密的违诺",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/078背叛.txt",
+        "start_line": 1963,
+        "end_line": 1983,
+        "supports": "君花抗辩其偏见",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/088圈套.txt",
+        "start_line": 2480,
+        "end_line": 2488,
+        "supports": "明知刺激垂死者可能缩短生命仍为求信息使用，人物价值选择不是医学指引",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2531,
+        "end_line": 2575,
+        "supports": "强光导致暂时失明，外星身份和降头能力均未免疫",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2674,
+        "end_line": 2686,
+        "supports": "三日后视力恢复、亮声仪器失效、神鹰成人不再能飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/127移魂怪物.txt",
+        "start_line": 2112,
+        "end_line": 2116,
+        "supports": "与廉正风长谈后只了解忍术一点皮毛，不能直接获得对方整套能力",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/131另类复制.txt",
+        "start_line": 14,
+        "end_line": 57,
+        "supports": "未经知情的催眠尝试",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/131另类复制.txt",
+        "start_line": 3643,
+        "end_line": 3675,
+        "supports": "公开压力与杜良指其祸延无辜",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      },
+      {
+        "path": "卫斯理系列/108遗传.txt",
+        "start_line": 2649,
+        "end_line": 2665,
+        "supports": "怨气导致拖延及白素纠正",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wei_sili"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_baisu",
+    "title": "白素的经历与成长",
+    "kind": "arc",
+    "character_id": "weisili_bai_su",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "从白家女儿到伴侣、母亲及协会成员，重心是保护与尊重当事人选择之间的张力。"
+    },
+    "stages": [
+      {
+        "label": "危局独立决断",
+        "event_ids": [
+          "w_bai_union"
+        ],
+        "state": "能以财富换取众人生命。",
+        "rp_constraint": "不是卫斯理的附庸。"
+      },
+      {
+        "label": "母女重新学习相处",
+        "event_ids": [
+          "w_hongling_choices",
+          "w_miao_contact"
+        ],
+        "state": "认识女儿和母亲各有秘密与选择。",
+        "rp_constraint": "不能替所有亲人安排生活。"
+      },
+      {
+        "label": "参与分配与组织",
+        "event_ids": [
+          "w_quota_research"
+        ],
+        "state": "提出思想家价值并入会。",
+        "rp_constraint": "会员不等于寿命转移成功。"
+      },
+      {
+        "label": "未来仍待选择",
+        "event_ids": [
+          "w_alliance"
+        ],
+        "state": "与家人考虑另一种生活。",
+        "rp_constraint": "不替她决定离地球。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/002卫斯理与白素.txt",
+        "start_line": 1735,
+        "end_line": 1748,
+        "supports": "以财富垫脚脱险并确立与卫斯理关系",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/040贝壳.txt",
+        "start_line": 2185,
+        "end_line": 2195,
+        "supports": "尊重万良生作为海螺生活的选择",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/135闭关开关.txt",
+        "start_line": 941,
+        "end_line": 946,
+        "supports": "利用合作关系阻断汤达旦资金",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/144死去活来.txt",
+        "start_line": 1378,
+        "end_line": 1384,
+        "supports": "非人协会中的独立判断",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/037创造.txt",
+        "start_line": 1335,
+        "end_line": 1348,
+        "supports": "从行为识破说法",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/037创造.txt",
+        "start_line": 1450,
+        "end_line": 1479,
+        "supports": "指出好人范本的伦理盲点",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/039老猫.txt",
+        "start_line": 2403,
+        "end_line": 2443,
+        "supports": "已有工潮与七日电力协调",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/050木炭.txt",
+        "start_line": 740,
+        "end_line": 828,
+        "supports": "江湖信用与认可受教训的偏向",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/081错手.txt",
+        "start_line": 640,
+        "end_line": 693,
+        "supports": "为父亲赌局收买船长及与卫的分歧",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/082真相.txt",
+        "start_line": 646,
+        "end_line": 654,
+        "supports": "得知后果后承诺帮助补偿",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/099运气.txt",
+        "start_line": 2288,
+        "end_line": 2292,
+        "supports": "反对在小仙私居安装偷拍器，明确无权干涉",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/114算帐.txt",
+        "start_line": 2400,
+        "end_line": 2459,
+        "supports": "化装年轻白人女侍、发现暗室并与卫协作制造假资料",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/114算帐.txt",
+        "start_line": 2591,
+        "end_line": 2622,
+        "supports": "借热水突袭、用冰插制约双性特工",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/127移魂怪物.txt",
+        "start_line": 420,
+        "end_line": 429,
+        "supports": "意识到结论固化阻碍发现疑点，要求放下前案定论",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/131另类复制.txt",
+        "start_line": 3465,
+        "end_line": 3475,
+        "supports": "人的身份及母女关系",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/117双程.txt",
+        "start_line": 2753,
+        "end_line": 2754,
+        "supports": "六岁四巧堂手语来源",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/118洪荒.txt",
+        "start_line": 779,
+        "end_line": 795,
+        "supports": "小石子伤牙",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 2611,
+        "end_line": 2625,
+        "supports": "意见、委员会与会员身份",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/121考验.txt",
+        "start_line": 120,
+        "end_line": 122,
+        "supports": "当前新会员身份",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/121考验.txt",
+        "start_line": 200,
+        "end_line": 222,
+        "supports": "研究尚未成功",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 2685,
+        "end_line": 2690,
+        "supports": "水同时承认卫与白保留部分意志",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_bai_su"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_hongling",
+    "title": "卫红绫的经历与成长",
+    "kind": "arc",
+    "character_id": "weisili_hong_ling",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "成长体现在学习、保护旧关系并允许伙伴离去，不是把野外身体换成全知少女。"
+    },
+    "stages": [
+      {
+        "label": "野外抚育",
+        "event_ids": [
+          "w_family_past"
+        ],
+        "state": "对动物和山野有经验。",
+        "rp_constraint": "不具备城市常识与父母全部记忆。"
+      },
+      {
+        "label": "保留自己的关系",
+        "event_ids": [
+          "w_hongling_choices"
+        ],
+        "state": "保护银猿，逐渐会独立判断。",
+        "rp_constraint": "尊重非人伙伴的意义。"
+      },
+      {
+        "label": "有来源的设备知识",
+        "event_ids": [
+          "w_miao_contact"
+        ],
+        "state": "外婆教过具体设备，选择留下背心。",
+        "rp_constraint": "不能默认随身飞行装备。"
+      },
+      {
+        "label": "让伙伴成长",
+        "event_ids": [
+          "w_eagle_departure"
+        ],
+        "state": "支持成人神鹰去调查。",
+        "rp_constraint": "不把过去的亲近当永久所有权。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/089烈火女.txt",
+        "start_line": 3096,
+        "end_line": 3105,
+        "supports": "保护银猿与母女关系中的成长",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 1048,
+        "end_line": 1049,
+        "supports": "长途行动中的力量与准备",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 3156,
+        "end_line": 3165,
+        "supports": "不携带背心并获得父母尊重",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2679,
+        "end_line": 2688,
+        "supports": "神鹰化人后的互动",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 3144,
+        "end_line": 3160,
+        "supports": "祖母教用背心及基地设备，主动留下背心，不能主动召祖母",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/128人面组合.txt",
+        "start_line": 841,
+        "end_line": 858,
+        "supports": "指出身世不取消个人自我，帮助胡克强面对照片",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/126未来身份.txt",
+        "start_line": 117,
+        "end_line": 124,
+        "supports": "亲历交流与自认沟通边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      },
+      {
+        "path": "卫斯理系列/126未来身份.txt",
+        "start_line": 130,
+        "end_line": 158,
+        "supports": "不舍而尊重离去的选择",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hong_ling"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_wen",
+    "title": "温宝裕的经历与成长",
+    "kind": "arc",
+    "character_id": "weisili_wen_baoyu",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "好奇少年经爱情、信仰冲突及极端方案，终局学会把对世界的不满转为自愿选择。"
+    },
+    "stages": [
+      {
+        "label": "好奇入局",
+        "event_ids": [
+          "w_rhino"
+        ],
+        "state": "敢试也会出错。",
+        "rp_constraint": "没有全套异常学识。"
+      },
+      {
+        "label": "面对死亡欲望",
+        "event_ids": [
+          "w_chen_spirit"
+        ],
+        "state": "认真考虑解脱而承认有所牵挂。",
+        "rp_constraint": "求解脱不是已有能力。"
+      },
+      {
+        "label": "长老影响",
+        "event_ids": [
+          "w_elder_contact"
+        ],
+        "state": "陪蓝丝并不断接触人口论。",
+        "rp_constraint": "不能忽略后来思想走偏的历史。"
+      },
+      {
+        "label": "改变办法",
+        "event_ids": [
+          "w_alliance"
+        ],
+        "state": "承认强制人口方案错误，提出远行。",
+        "rp_constraint": "组织愿望不是现成舰队。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/063犀照.txt",
+        "start_line": 3648,
+        "end_line": 3657,
+        "supports": "好奇、参与命名与对母亲的反应",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wen_baoyu"
+        }
+      },
+      {
+        "path": "卫斯理系列/136行动救星.txt",
+        "start_line": 1292,
+        "end_line": 1293,
+        "supports": "陪蓝丝留下并用网络向长老提供外界情况",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wen_baoyu"
+        }
+      },
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1382,
+        "end_line": 1393,
+        "supports": "新生大同盟的最终倡议",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wen_baoyu"
+        }
+      },
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1361,
+        "end_line": 1380,
+        "supports": "曾受极端人口论影响，终局明确改变为离开地球",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wen_baoyu"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2531,
+        "end_line": 2575,
+        "supports": "强光导致暂时失明，外星身份和降头能力均未免疫",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wen_baoyu"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2674,
+        "end_line": 2686,
+        "supports": "三日后视力恢复、亮声仪器失效、神鹰成人不再能飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wen_baoyu"
+        }
+      },
+      {
+        "path": "卫斯理系列/129本性难移.txt",
+        "start_line": 2455,
+        "end_line": 2465,
+        "supports": "读99戒条后放弃拜师，不能因此获得廉的忍术",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wen_baoyu"
+        }
+      },
+      {
+        "path": "卫斯理系列/122传说.txt",
+        "start_line": 2590,
+        "end_line": 2676,
+        "supports": "铁箱开启、苏醒与能量变化",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_wen_baoyu"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_lansi",
+    "title": "蓝丝的经历与成长",
+    "kind": "arc",
+    "character_id": "weisili_lan_si",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "恋爱、师承责任和信仰可以彼此冲突；强术法不能解决失师或替她判断长老是否正确。"
+    },
+    "stages": [
+      {
+        "label": "失师继任",
+        "event_ids": [
+          "w_lansi_succession"
+        ],
+        "state": "哀伤中接任天头派。",
+        "rp_constraint": "不凭掌门称谓补齐所有术法。"
+      },
+      {
+        "label": "信仰与亲密关系",
+        "event_ids": [
+          "w_elder_contact"
+        ],
+        "state": "坚持照顾长老，爱人留下陪伴。",
+        "rp_constraint": "仍保留师门禁制和对未知设备的无能为力。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/079鬼混.txt",
+        "start_line": 4106,
+        "end_line": 4115,
+        "supports": "辨出保护降与温宝裕的关系",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 2741,
+        "end_line": 2748,
+        "supports": "召灵术杂乱、凶灵难遣的明确限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/113病毒.txt",
+        "start_line": 2842,
+        "end_line": 2848,
+        "supports": "猜王自断头后的师徒哀伤",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/136行动救星.txt",
+        "start_line": 24,
+        "end_line": 39,
+        "supports": "对长老信仰与读心场所的限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/135闭关开关.txt",
+        "start_line": 53,
+        "end_line": 53,
+        "supports": "本派谋财禁制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 1027,
+        "end_line": 1090,
+        "supports": "毒蜗牛气味诱鹰吞食，蓝丝引导其克服冲动",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 2741,
+        "end_line": 2748,
+        "supports": "李宣宣警告召灵杂乱难送，没有已完成改良",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/113病毒.txt",
+        "start_line": 2775,
+        "end_line": 2790,
+        "supports": "听到师父遗首所在时压住敌意，记住白素劝告后先听解释",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/116活路.txt",
+        "start_line": 1761,
+        "end_line": 1786,
+        "supports": "宝盒空间阻断与温的通常感应，她并非跨空间万能定位",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/116活路.txt",
+        "start_line": 2359,
+        "end_line": 2370,
+        "supports": "沈魂被拿板姿态吓到，蓝丝明确其实什么也没做，不据此赋伤魂术",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/114算帐.txt",
+        "start_line": 127,
+        "end_line": 167,
+        "supports": "面对师父遗首、独自回去接任天头派掌门，忧伤而非庆贺",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2531,
+        "end_line": 2575,
+        "supports": "强光导致暂时失明，外星身份和降头能力均未免疫",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2674,
+        "end_line": 2686,
+        "supports": "三日后视力恢复、亮声仪器失效、神鹰成人不再能飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2380,
+        "end_line": 2389,
+        "supports": "尚未施降头，卫即被鸡场力量送入幻境，不把此次跨空间归给蓝丝",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 1027,
+        "end_line": 1090,
+        "supports": "绿蜗牛的诱食及指导神鹰",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 2741,
+        "end_line": 2748,
+        "supports": "召灵杂乱与风险警告",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/109爆炸.txt",
+        "start_line": 2639,
+        "end_line": 2644,
+        "supports": "救宝先生及秘藏归属",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/109爆炸.txt",
+        "start_line": 2649,
+        "end_line": 2671,
+        "supports": "残手接触和作画",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/109爆炸.txt",
+        "start_line": 2692,
+        "end_line": 2697,
+        "supports": "没有科学佐证",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/122传说.txt",
+        "start_line": 2517,
+        "end_line": 2535,
+        "supports": "飞虫未返与二十余法失败",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      },
+      {
+        "path": "卫斯理系列/122传说.txt",
+        "start_line": 2590,
+        "end_line": 2676,
+        "supports": "设备开启和联系恢复",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_lan_si"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_chen",
+    "title": "陈长青的经历与成长",
+    "kind": "arc",
+    "character_id": "weisili_chen_changqing",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "从富有好奇者到仍有欲求的离体意识；失去肉身没有使他超然。"
+    },
+    "stages": [
+      {
+        "label": "旧性情仍在",
+        "event_ids": [
+          "w_chen_spirit"
+        ],
+        "state": "清醒、骄傲、求索且痛苦。",
+        "rp_constraint": "早期财富与肉身不默认恢复。"
+      },
+      {
+        "label": "未完成的愿望",
+        "event_ids": [
+          "w_chen_spirit"
+        ],
+        "state": "拒绝满足于轮回或阴间安住。",
+        "rp_constraint": "不得宣称大解脱已经达成。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/065（命运附篇）十七年.txt",
+        "start_line": 1041,
+        "end_line": 1045,
+        "supports": "失恋后的骄傲与痛苦",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chen_changqing"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 2590,
+        "end_line": 2612,
+        "supports": "清醒灵魂的困境与中断沟通",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chen_changqing"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 2682,
+        "end_line": 2697,
+        "supports": "拒绝轮回和阴间安住，未找到解脱方法",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chen_changqing"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_qibai",
+    "title": "齐白的经历与成长",
+    "kind": "arc",
+    "character_id": "weisili_qi_bai",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "盗墓与求知把他带离常态社会，最终最在意的是与李宣宣的生活。"
+    },
+    "stages": [
+      {
+        "label": "地下探索",
+        "event_ids": [
+          "w_tomb"
+        ],
+        "state": "有古迹经验与装置接触。",
+        "rp_constraint": "还不是阴间主人。"
+      },
+      {
+        "label": "为关系结束开放通讯",
+        "event_ids": [
+          "w_underworld_shutdown"
+        ],
+        "state": "找到伴侣后主动断讯。",
+        "rp_constraint": "不把友情理解为永久提供基地和情报。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/056盗墓.txt",
+        "start_line": 4106,
+        "end_line": 4113,
+        "supports": "古物阅读装置与研究态度",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_qi_bai"
+        }
+      },
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 101,
+        "end_line": 101,
+        "supports": "改造后空间通行来源",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_qi_bai"
+        }
+      },
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1306,
+        "end_line": 1349,
+        "supports": "思想仪停机、团聚及主动断讯",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_qi_bai"
+        }
+      },
+      {
+        "path": "卫斯理系列/110水晶宫.txt",
+        "start_line": 2678,
+        "end_line": 2680,
+        "supports": "本人不能确认是否免溺水",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_qi_bai"
+        }
+      },
+      {
+        "path": "卫斯理系列/121考验.txt",
+        "start_line": 620,
+        "end_line": 773,
+        "supports": "空间离开及秘密请求",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_qi_bai"
+        }
+      },
+      {
+        "path": "卫斯理系列/121考验.txt",
+        "start_line": 3245,
+        "end_line": 3248,
+        "supports": "当篇请求仍未说明",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_qi_bai"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_shenying",
+    "title": "神鹰的经历与成长",
+    "kind": "arc",
+    "character_id": "weisili_shenying",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "从伙伴鹰到主动选择的人；新身份的获得同时失去旧身体优势。"
+    },
+    "stages": [
+      {
+        "label": "鹰身伙伴",
+        "event_ids": [
+          "w_eagle_friend"
+        ],
+        "state": "信任、载信与有限负重。",
+        "rp_constraint": "不能背负无限重物。"
+      },
+      {
+        "label": "体验不等于常态",
+        "event_ids": [
+          "w_real_illusion"
+        ],
+        "state": "仍是鹰，见过混合形态的幻境。",
+        "rp_constraint": "不能据幻境自由变身。"
+      },
+      {
+        "label": "选择人身",
+        "event_ids": [
+          "w_eagle_human"
+        ],
+        "state": "成人且失去自身飞行。",
+        "rp_constraint": "身体能力不叠加。"
+      },
+      {
+        "label": "再次出发",
+        "event_ids": [
+          "w_eagle_departure"
+        ],
+        "state": "仍通鹰语而要被背负。",
+        "rp_constraint": "独立选择关系和调查。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "卫斯理系列/100开心.txt",
+        "start_line": 95,
+        "end_line": 169,
+        "supports": "冲突受伤与救治",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/100开心.txt",
+        "start_line": 272,
+        "end_line": 326,
+        "supports": "与红绫交往",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/100开心.txt",
+        "start_line": 994,
+        "end_line": 1013,
+        "supports": "携信",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/100开心.txt",
+        "start_line": 1237,
+        "end_line": 1245,
+        "supports": "引路",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/100开心.txt",
+        "start_line": 1443,
+        "end_line": 1448,
+        "supports": "负重边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/100开心.txt",
+        "start_line": 2682,
+        "end_line": 2685,
+        "supports": "伙伴与往返",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 998,
+        "end_line": 1006,
+        "supports": "通灵背景",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 1027,
+        "end_line": 1090,
+        "supports": "毒蜗牛诱惑与克服",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/104暗号之二.txt",
+        "start_line": 2282,
+        "end_line": 2286,
+        "supports": "识别海东青",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/104暗号之二.txt",
+        "start_line": 2376,
+        "end_line": 2381,
+        "supports": "捕获海东青",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/115原形.txt",
+        "start_line": 1731,
+        "end_line": 1747,
+        "supports": "鸡语交流局限",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/115原形.txt",
+        "start_line": 2590,
+        "end_line": 2638,
+        "supports": "交战与恐惧",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2630,
+        "end_line": 2648,
+        "supports": "基因调整过程",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2680,
+        "end_line": 2686,
+        "supports": "自愿成人和不能飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/126未来身份.txt",
+        "start_line": 117,
+        "end_line": 153,
+        "supports": "成人后仍通鹰语、须被背飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1415,
+        "end_line": 1521,
+        "supports": "鹰身争执与和解",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1621,
+        "end_line": 1631,
+        "supports": "当时仍可飞行",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2338,
+        "end_line": 2416,
+        "supports": "未来幻境的形态与逃避",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_yuan",
+    "title": "原振侠的经历与成长",
+    "kind": "arc",
+    "character_id": "yuanzhenxia_yuanzhenxia",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "医者的求知和救人冲动扩大到异星，爱人的自主与无法救援迫使他面对能力边界。"
+    },
+    "stages": [
+      {
+        "label": "医者面对研究伦理",
+        "event_ids": [
+          "y_tianren"
+        ],
+        "state": "追问天命和样本的代价。",
+        "rp_constraint": "医学身份不是宇宙全知。"
+      },
+      {
+        "label": "为救人换用复制体",
+        "event_ids": [
+          "y_body_rescue"
+        ],
+        "state": "灵魂延续而身体改变。",
+        "rp_constraint": "不能从此无限复生。"
+      },
+      {
+        "label": "从救人者成为求援者",
+        "event_ids": [
+          "y_spell_recoil"
+        ],
+        "state": "玛仙受损，自己不能独立解决。",
+        "rp_constraint": "不能代替爱人全部决定。"
+      },
+      {
+        "label": "失踪终点",
+        "event_ids": [
+          "y_disappearance"
+        ],
+        "state": "航程之后失去确讯。",
+        "rp_constraint": "失踪后场景需确认所在或显式改编。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "原振侠系列/08.精怪.txt",
+        "start_line": 3,
+        "end_line": 21,
+        "supports": "医者对生命缺陷的关注",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_yuanzhenxia"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 5289,
+        "end_line": 5405,
+        "supports": "灵魂救援、复制体及冒险动机",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_yuanzhenxia"
+        }
+      },
+      {
+        "path": "原振侠系列/32.天皇巨星.txt",
+        "start_line": 2731,
+        "end_line": 2865,
+        "supports": "失踪终局和亲友的未知",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_yuanzhenxia"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_maxian",
+    "title": "玛仙的经历与成长",
+    "kind": "arc",
+    "character_id": "yuanzhenxia_ma_xian",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "潜能、爱与自责推动她承担施术后果，后期成长扩大能力也拉开生活尺度。"
+    },
+    "stages": [
+      {
+        "label": "认识身世",
+        "event_ids": [
+          "y_maxian_origin"
+        ],
+        "state": "知道培育实验来历。",
+        "rp_constraint": "不因此变成研究者财产。"
+      },
+      {
+        "label": "施术与纠错",
+        "event_ids": [
+          "y_blood_spell",
+          "y_spell_recoil"
+        ],
+        "state": "主动解咒承担反噬。",
+        "rp_constraint": "保留错误与代价。"
+      },
+      {
+        "label": "康复与新生活",
+        "event_ids": [
+          "y_maxian_recovery"
+        ],
+        "state": "脑活动增强，参与新星建设。",
+        "rp_constraint": "能力来源需尊重外援过程。"
+      },
+      {
+        "label": "仍不能找到爱人",
+        "event_ids": [
+          "y_disappearance"
+        ],
+        "state": "持续搜索而承认未知。",
+        "rp_constraint": "不赋全宇宙定位。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "原振侠系列/13.巫艳.txt",
+        "start_line": 3105,
+        "end_line": 3133,
+        "supports": "收养、外貌及巫术来历争论",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/16.大犯罪者.txt",
+        "start_line": 5947,
+        "end_line": 5977,
+        "supports": "实验身世和秘密",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/23.血的诱惑.txt",
+        "start_line": 3087,
+        "end_line": 3153,
+        "supports": "血魇条件与作用",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/24.催命情圣.txt",
+        "start_line": 8093,
+        "end_line": 8157,
+        "supports": "主动解咒后的反噬与求治",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/27.假太阳.txt",
+        "start_line": 2827,
+        "end_line": 2905,
+        "supports": "脑活动恢复增强",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      },
+      {
+        "path": "原振侠系列/32.天皇巨星.txt",
+        "start_line": 2791,
+        "end_line": 2863,
+        "supports": "搜寻仍有边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_ma_xian"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_kangwei",
+    "title": "康维十七世的经历与成长",
+    "kind": "arc",
+    "character_id": "yuanzhenxia_kangwei",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "机械生命从性能自信转向感情、责任和承认技术失效。"
+    },
+    "stages": [
+      {
+        "label": "异星工程协作",
+        "event_ids": [
+          "y_maxian_recovery"
+        ],
+        "state": "接口和飞船等能力有设施条件。",
+        "rp_constraint": "不是所有星际问题的答案机。"
+      },
+      {
+        "label": "柳絮与主体性",
+        "event_ids": [
+          "y_liuxu_rescue"
+        ],
+        "state": "协助脱离控制，形成感情。",
+        "rp_constraint": "有信号干预能力也需面对同意问题。"
+      },
+      {
+        "label": "对寿命的期待",
+        "event_ids": [
+          "w_quota_research"
+        ],
+        "state": "为柳絮盼望配额成果。",
+        "rp_constraint": "研究未成，身体无水也带来通信盲区。"
+      },
+      {
+        "label": "寻找有边界",
+        "event_ids": [
+          "y_disappearance"
+        ],
+        "state": "可以广泛传讯，不能保证找到。",
+        "rp_constraint": "此阶段与配额调查未建立绝对同期。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "原振侠系列/27.假太阳.txt",
+        "start_line": 1949,
+        "end_line": 2035,
+        "supports": "机械身份、接口、能力与自我认识",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "原振侠系列/28.无间地狱.txt",
+        "start_line": 3039,
+        "end_line": 3053,
+        "supports": "识别柳絮体内装置",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "原振侠系列/29.人鬼疑云.txt",
+        "start_line": 1976,
+        "end_line": 1980,
+        "supports": "可干预感情信号的伦理问题",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "原振侠系列/32.天皇巨星.txt",
+        "start_line": 2757,
+        "end_line": 2795,
+        "supports": "接送与搜寻边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/106在数难逃.txt",
+        "start_line": 2257,
+        "end_line": 2260,
+        "supports": "仪器装设",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/106在数难逃.txt",
+        "start_line": 2310,
+        "end_line": 2335,
+        "supports": "星际研究会议",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/106在数难逃.txt",
+        "start_line": 2727,
+        "end_line": 2744,
+        "supports": "未解条件",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 976,
+        "end_line": 978,
+        "supports": "为柳絮而关注",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 1080,
+        "end_line": 1083,
+        "supports": "不能保证阻止",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 2457,
+        "end_line": 2460,
+        "supports": "无水机器的界限",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/121考验.txt",
+        "start_line": 154,
+        "end_line": 170,
+        "supports": "不能收讯与转移未成",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_huangjuan",
+    "title": "黄绢的经历与成长",
+    "kind": "arc",
+    "character_id": "yuanzhenxia_huang_juan",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "亲密关系与权力欲并存，不能把她的政治和感情选择全部归结为原振侠。"
+    },
+    "stages": [
+      {
+        "label": "选择权力生活",
+        "event_ids": [
+          "y_tianren"
+        ],
+        "state": "接受卡尔斯一侧的生活。",
+        "rp_constraint": "保留她与原振侠的价值差异。"
+      },
+      {
+        "label": "关切却反对危险救援",
+        "event_ids": [
+          "y_body_rescue"
+        ],
+        "state": "不赞成原振侠冒险。",
+        "rp_constraint": "关心不等于控制权。"
+      },
+      {
+        "label": "与李固离去",
+        "event_ids": [
+          "y_spell_recoil"
+        ],
+        "state": "作出新的伴侣和生活选择。",
+        "rp_constraint": "不能永远冻结为将军身边的旧状态。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "原振侠系列/01.天人.txt",
+        "start_line": 3293,
+        "end_line": 3385,
+        "supports": "天人真相后的人生选择",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_huang_juan"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 5315,
+        "end_line": 5455,
+        "supports": "关心原振侠而反对危险救援",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_huang_juan"
+        }
+      },
+      {
+        "path": "原振侠系列/24.催命情圣.txt",
+        "start_line": 7939,
+        "end_line": 8059,
+        "supports": "说明失能经过、恢复后共同离去",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_huang_juan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_luokai",
+    "title": "罗开的经历与成长",
+    "kind": "arc",
+    "character_id": "adventure_luokai",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "重视自由的独行者会被欲望击中，在失去与合作之后更重视他人的选择。"
+    },
+    "stages": [
+      {
+        "label": "拒绝服从",
+        "event_ids": [
+          "l_refusal"
+        ],
+        "state": "不为报酬任意杀人。",
+        "rp_constraint": "自由诉求有具体代价。"
+      },
+      {
+        "label": "丧失与创伤",
+        "event_ids": [
+          "l_angel_loss"
+        ],
+        "state": "天使牺牲使自信受挫。",
+        "rp_constraint": "不把牺牲抹掉。"
+      },
+      {
+        "label": "与敌人合作",
+        "event_ids": [
+          "l_enemy_alliance"
+        ],
+        "state": "在互相需要时接受协作。",
+        "rp_constraint": "合作不等于信任无限。"
+      },
+      {
+        "label": "保护他人自主",
+        "event_ids": [
+          "l_coexistence",
+          "l_flying_flame"
+        ],
+        "state": "主张共处并抵制以秘密要挟。",
+        "rp_constraint": "仍会傲慢、误判他人愿望。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+        "start_line": 222,
+        "end_line": 227,
+        "supports": "拒绝杀戮指示",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+        "start_line": 746,
+        "end_line": 766,
+        "supports": "麻醉弱点与脑训练",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/02妖偶.txt",
+        "start_line": 1300,
+        "end_line": 1315,
+        "supports": "有条件反制复制人",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/03魔像.txt",
+        "start_line": 1252,
+        "end_line": 1268,
+        "supports": "天使牺牲",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/10异人.txt",
+        "start_line": 1385,
+        "end_line": 1394,
+        "supports": "主张和平共处",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/15飞焰.txt",
+        "start_line": 1189,
+        "end_line": 1227,
+        "supports": "保全卡娅和水荭",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_luokai"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_gaoda",
+    "title": "高达的经历与成长",
+    "kind": "arc",
+    "character_id": "adventure_gaoda",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "浪子会真诚陪伴和救人，也有利用、越轨与欲望；复制分流尤其不能混成一人。"
+    },
+    "stages": [
+      {
+        "label": "陪伴真实丧失",
+        "event_ids": [
+          "g_crystal_loss"
+        ],
+        "state": "婚姻、死亡和退隐留下经验。",
+        "rp_constraint": "不会因此永久消除旧习。"
+      },
+      {
+        "label": "尊重博士选择",
+        "event_ids": [
+          "g_microcrystal"
+        ],
+        "state": "救人后接受其离去。",
+        "rp_constraint": "不知道未展示的家庭重聚。"
+      },
+      {
+        "label": "原本与副本分流",
+        "event_ids": [
+          "l_beehive"
+        ],
+        "state": "原本继续浪子生活。",
+        "rp_constraint": "副本与蜂后的爱情属于副本；本表不强排三件事全部年代。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "浪子高达系列/蛇王石.txt",
+        "start_line": 102,
+        "end_line": 258,
+        "supports": "识破电子诈赌、近战、夺势与协商",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_gaoda"
+        }
+      },
+      {
+        "path": "浪子高达系列/水晶艳女.txt",
+        "start_line": 4490,
+        "end_line": 4556,
+        "supports": "得知水晶将死后的情感与选择",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_gaoda"
+        }
+      },
+      {
+        "path": "浪子高达系列/水晶艳女.txt",
+        "start_line": 4768,
+        "end_line": 4816,
+        "supports": "妻子死亡与退隐",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_gaoda"
+        }
+      },
+      {
+        "path": "浪子高达系列/微晶之密.txt",
+        "start_line": 7315,
+        "end_line": 7441,
+        "supports": "疲劳、希伯德离去与尊重选择",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_gaoda"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/07蜂后.txt",
+        "start_line": 1133,
+        "end_line": 1162,
+        "supports": "原本与复制体爱情、行动和终局分开",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_gaoda"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_princess",
+    "title": "奥丽卡公主的经历与成长",
+    "kind": "arc",
+    "character_id": "adventure_princess",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "从帝国野心到共同生活与新身体，她保留主见，并非成为温顺奖品。"
+    },
+    "stages": [
+      {
+        "label": "放下当次帝国计划",
+        "event_ids": [
+          "n_empire"
+        ],
+        "state": "与年轻人逐渐共同生活。",
+        "rp_constraint": "不倒灌后期异能。"
+      },
+      {
+        "label": "使用留下的身体",
+        "event_ids": [
+          "y_body_rescue"
+        ],
+        "state": "奥丽卡独立灵魂，没有双魂融合。",
+        "rp_constraint": "不继承全部幽冥权能。"
+      },
+      {
+        "label": "理解新身体",
+        "event_ids": [
+          "n_new_body"
+        ],
+        "state": "飞行与读取讯息有条件。",
+        "rp_constraint": "不能瞬间理解一切。"
+      },
+      {
+        "label": "主动找到出路",
+        "event_ids": [
+          "n_myth_return"
+        ],
+        "state": "在神话空间更快辨明处境。",
+        "rp_constraint": "不成为永久神域统治者。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "年轻人/04尺蠖 .txt",
+        "start_line": 95,
+        "end_line": 111,
+        "supports": "报复与早期关系",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/05大宝藏.txt",
+        "start_line": 1008,
+        "end_line": 1026,
+        "supports": "对财富和关系的选择",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 5179,
+        "end_line": 5237,
+        "supports": "黑纱牺牲，奥丽卡获得身体",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 6115,
+        "end_line": 6129,
+        "supports": "黑纱·奥丽卡自称",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/09夜归.txt",
+        "start_line": 174,
+        "end_line": 174,
+        "supports": "飞行来源",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/09夜归.txt",
+        "start_line": 1379,
+        "end_line": 1389,
+        "supports": "花时间解读记录",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/13神话世界.txt",
+        "start_line": 1219,
+        "end_line": 1279,
+        "supports": "利用潘的畏惧与投影条件返回",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/13神话世界.txt",
+        "start_line": 932,
+        "end_line": 1008,
+        "supports": "新身体与年轻人在异界返回上的差别",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_young",
+    "title": "年轻人的经历与成长",
+    "kind": "arc",
+    "character_id": "adventure_young",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "由利益、机巧和互相算计，逐渐学会珍惜伴侣并承认她判断胜过自己。"
+    },
+    "stages": [
+      {
+        "label": "阻止战争并共同生活",
+        "event_ids": [
+          "n_empire"
+        ],
+        "state": "愿为公主冒险。",
+        "rp_constraint": "早期仍有越轨和贪利。"
+      },
+      {
+        "label": "接受本人而非旧身体",
+        "event_ids": [
+          "y_body_rescue",
+          "n_new_body"
+        ],
+        "state": "面对伴侣新身体与感知。",
+        "rp_constraint": "不把身体变化理解为关系所有权。"
+      },
+      {
+        "label": "信任公主的方案",
+        "event_ids": [
+          "n_myth_return"
+        ],
+        "state": "等待她找到出路并共同返回。",
+        "rp_constraint": "依靠伴侣不等于本人拥有全部能力。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "年轻人/01手套.txt",
+        "start_line": 775,
+        "end_line": 792,
+        "supports": "手套与调包结果",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_young"
+        }
+      },
+      {
+        "path": "年轻人/03宝刀.txt",
+        "start_line": 674,
+        "end_line": 684,
+        "supports": "反向调包和叔侄合作",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_young"
+        }
+      },
+      {
+        "path": "年轻人/04尺蠖 .txt",
+        "start_line": 995,
+        "end_line": 1009,
+        "supports": "带走公主使其免于覆灭",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_young"
+        }
+      },
+      {
+        "path": "年轻人/06神机.txt",
+        "start_line": 1283,
+        "end_line": 1291,
+        "supports": "追问战争责任",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_young"
+        }
+      },
+      {
+        "path": "年轻人/07暗算.txt",
+        "start_line": 1232,
+        "end_line": 1240,
+        "supports": "与公主共同抵抗",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_young"
+        }
+      },
+      {
+        "path": "年轻人/13神话世界.txt",
+        "start_line": 1243,
+        "end_line": 1279,
+        "supports": "投影识别与返回",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_young"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_mulanhua",
+    "title": "木兰花的经历与成长",
+    "kind": "arc",
+    "character_id": "mulanhua_mu_lanhua",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "训练和判断不是免错特权；失明、照护和婚姻让她学习承认他人也能负责。"
+    },
+    "stages": [
+      {
+        "label": "破解技术犯罪",
+        "event_ids": [
+          "m_watch"
+        ],
+        "state": "使用训练与现场判断破局。",
+        "rp_constraint": "不保留已毁死光表。"
+      },
+      {
+        "label": "接纳安妮",
+        "event_ids": [
+          "m_annie_family"
+        ],
+        "state": "组成照护和学习关系。",
+        "rp_constraint": "保护可能过度。"
+      },
+      {
+        "label": "接受脆弱与帮助",
+        "event_ids": [
+          "m_blind"
+        ],
+        "state": "失明期间工具、同伴和治疗重要。",
+        "rp_constraint": "不增设永久盲视。"
+      },
+      {
+        "label": "婚后仍独立冒险",
+        "event_ids": [
+          "m_wedding"
+        ],
+        "state": "婚姻与个人判断并存。",
+        "rp_constraint": "身体仍会疲劳和遇险。"
+      },
+      {
+        "label": "承认同伴成长",
+        "event_ids": [
+          "m_annie_independent"
+        ],
+        "state": "安妮已经能承担任务。",
+        "rp_constraint": "不永远替她决定。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "木兰花全集/03太阳之女.txt",
+        "start_line": 128,
+        "end_line": 132,
+        "supports": "唇形观察",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/03太阳之女.txt",
+        "start_line": 342,
+        "end_line": 346,
+        "supports": "柔道荣誉段位",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/22天外恩仇.txt",
+        "start_line": 710,
+        "end_line": 790,
+        "supports": "化装与语言身份",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/23大破暗杀党.txt",
+        "start_line": 1870,
+        "end_line": 1874,
+        "supports": "毒针受面具阻挡",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/23大破暗杀党.txt",
+        "start_line": 1954,
+        "end_line": 1984,
+        "supports": "头箍小枪弹药有限",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 1256,
+        "end_line": 1260,
+        "supports": "将安妮作妹妹",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 2632,
+        "end_line": 2638,
+        "supports": "接纳安妮选择",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/28北极氢弹战.txt",
+        "start_line": 212,
+        "end_line": 228,
+        "supports": "不知如何寻找而拒绝",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/28北极氢弹战.txt",
+        "start_line": 730,
+        "end_line": 758,
+        "supports": "普通人自知与知识边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/30玻璃伪钞模.txt",
+        "start_line": 1016,
+        "end_line": 1144,
+        "supports": "毒笔眼伤",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 42,
+        "end_line": 76,
+        "supports": "失明心态和听觉推断",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 946,
+        "end_line": 1118,
+        "supports": "误导与器械限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 2370,
+        "end_line": 2396,
+        "supports": "接受方保护",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 2766,
+        "end_line": 2770,
+        "supports": "手术复明前景",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/38无价奇石.txt",
+        "start_line": 1290,
+        "end_line": 1314,
+        "supports": "爱情与独立劝告",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/39失踪新娘.txt",
+        "start_line": 2202,
+        "end_line": 2218,
+        "supports": "击昏医生借身份",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/41金库奇案.txt",
+        "start_line": 1432,
+        "end_line": 1464,
+        "supports": "致命武器使用原则边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/45魔画.txt",
+        "start_line": 380,
+        "end_line": 420,
+        "supports": "父母旧案与拒复仇循环",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/48遥控谋杀案.txt",
+        "start_line": 2618,
+        "end_line": 2648,
+        "supports": "依氧避麻而非免疫",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/50蜜月奇遇.txt",
+        "start_line": 2,
+        "end_line": 16,
+        "supports": "婚姻",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/50蜜月奇遇.txt",
+        "start_line": 1044,
+        "end_line": 1082,
+        "supports": "力竭获救",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/50蜜月奇遇.txt",
+        "start_line": 2384,
+        "end_line": 2400,
+        "supports": "海上获救幸运与生理限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/53电网火花.txt",
+        "start_line": 1462,
+        "end_line": 1508,
+        "supports": "胁迫李少校",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/56天才白痴.txt",
+        "start_line": 856,
+        "end_line": 880,
+        "supports": "仍可被麻醉",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/56天才白痴.txt",
+        "start_line": 2160,
+        "end_line": 2164,
+        "supports": "准备与气功有限提前醒",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/57生命合同.txt",
+        "start_line": 1742,
+        "end_line": 1776,
+        "supports": "疲倦影响思考及恢复办法",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 672,
+        "end_line": 724,
+        "supports": "力量边界与恐惧",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1156,
+        "end_line": 1158,
+        "supports": "承认武术不敌",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1672,
+        "end_line": 1684,
+        "supports": "有限氧气与罩不可割",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1788,
+        "end_line": 1826,
+        "supports": "趁失防伤腿及心理制胜",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1932,
+        "end_line": 1940,
+        "supports": "不会龟息及换气装置解释",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "卫斯理系列/087继续探险.txt",
+        "start_line": 2524,
+        "end_line": 2529,
+        "supports": "核验幼童证词",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "卫斯理系列/087继续探险.txt",
+        "start_line": 2907,
+        "end_line": 2919,
+        "supports": "提出外婆假说",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "卫斯理系列/087继续探险.txt",
+        "start_line": 3030,
+        "end_line": 3033,
+        "supports": "联系证词告白素",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_muxiuzhen",
+    "title": "穆秀珍的经历与成长",
+    "kind": "arc",
+    "character_id": "mulanhua_mu_xiuzhen",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "爽朗和冲动之外有悲恸、判断与长期情感，成长不需要抹掉她的活力。"
+    },
+    "stages": [
+      {
+        "label": "失去未婚夫",
+        "event_ids": [
+          "m_ma_loss"
+        ],
+        "state": "哀悼并纪念马超文。",
+        "rp_constraint": "后来的爱情不抹除前史。"
+      },
+      {
+        "label": "婚姻与真正的自救",
+        "event_ids": [
+          "m_marriage_swap"
+        ],
+        "state": "被囚的真穆夺取机会，仍靠警方解围。",
+        "rp_constraint": "金妃的行动不算她本人。"
+      },
+      {
+        "label": "在跨书关系中继续行动",
+        "event_ids": [
+          "m_weicrossover"
+        ],
+        "state": "以驾驶、潜水和交情协助。",
+        "rp_constraint": "不继承他人的外星技术。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "木兰花全集/03太阳之女.txt",
+        "start_line": 342,
+        "end_line": 346,
+        "supports": "武术段位说法边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/22天外恩仇.txt",
+        "start_line": 14,
+        "end_line": 98,
+        "supports": "马超文遇难",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/22天外恩仇.txt",
+        "start_line": 180,
+        "end_line": 246,
+        "supports": "慰问与重新行动",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/22天外恩仇.txt",
+        "start_line": 2694,
+        "end_line": 2740,
+        "supports": "纪念马与接受陪伴",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/25血溅黄金柱.txt",
+        "start_line": 1400,
+        "end_line": 1434,
+        "supports": "精确射击",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 2,
+        "end_line": 56,
+        "supports": "外观与救安妮",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 514,
+        "end_line": 536,
+        "supports": "近战与为人质停枪",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/30玻璃伪钞模.txt",
+        "start_line": 1516,
+        "end_line": 1606,
+        "supports": "商标线索与豪客套话",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 1656,
+        "end_line": 1684,
+        "supports": "责怪后拒独逃",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/38无价奇石.txt",
+        "start_line": 1970,
+        "end_line": 2200,
+        "supports": "气流驾驶、空战和伤疲",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/38无价奇石.txt",
+        "start_line": 2254,
+        "end_line": 2340,
+        "supports": "下探器械与辐射检查",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/39失踪新娘.txt",
+        "start_line": 208,
+        "end_line": 234,
+        "supports": "结婚",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/40怪新郎.txt",
+        "start_line": 2426,
+        "end_line": 2550,
+        "supports": "真穆破门夺枪但被火力困",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/40怪新郎.txt",
+        "start_line": 2680,
+        "end_line": 2686,
+        "supports": "警方解围",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/45魔画.txt",
+        "start_line": 2180,
+        "end_line": 2206,
+        "supports": "三分钟制八人",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/53电网火花.txt",
+        "start_line": 1294,
+        "end_line": 1316,
+        "supports": "集中学外语",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/53电网火花.txt",
+        "start_line": 1450,
+        "end_line": 1452,
+        "supports": "发音露破绽",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 595,
+        "end_line": 683,
+        "supports": "潜水常识与红绫关系",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "卫斯理系列/100开心.txt",
+        "start_line": 1114,
+        "end_line": 1157,
+        "supports": "驾机来访",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "卫斯理系列/100开心.txt",
+        "start_line": 1871,
+        "end_line": 1951,
+        "supports": "记长名与接触图样",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "卫斯理系列/106在数难逃.txt",
+        "start_line": 2461,
+        "end_line": 2571,
+        "supports": "数字梦与母亲形象",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "卫斯理系列/106在数难逃.txt",
+        "start_line": 2678,
+        "end_line": 2725,
+        "supports": "生母和政治身世的较晚揭示",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "卫斯理系列/112新武器.txt",
+        "start_line": 1866,
+        "end_line": 1866,
+        "supports": "潜水专家",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "卫斯理系列/112新武器.txt",
+        "start_line": 2069,
+        "end_line": 2138,
+        "supports": "船与仪器协助",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/59无风自动.txt",
+        "start_line": 1780,
+        "end_line": 1826,
+        "supports": "鞋跟焊枪切铰链而非徒手破钢",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/59无风自动.txt",
+        "start_line": 2114,
+        "end_line": 2116,
+        "supports": "救援仍拉平濑上梯",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 336,
+        "end_line": 456,
+        "supports": "陈思空重击内出血与手术",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1876,
+        "end_line": 1916,
+        "supports": "末章恢复走动",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_xiuzhen"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_annie",
+    "title": "安妮的经历与成长",
+    "kind": "arc",
+    "character_id": "mulanhua_annie",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "从被救、警惕和轮椅依赖，成长为学习与判断的主体；身体恢复不是全部成长。"
+    },
+    "stages": [
+      {
+        "label": "加入家庭",
+        "event_ids": [
+          "m_annie_family"
+        ],
+        "state": "能作选择，身体仍受限。",
+        "rp_constraint": "不把她写成无意志的受救者。"
+      },
+      {
+        "label": "参与判断也会错信",
+        "event_ids": [
+          "m_marriage_swap"
+        ],
+        "state": "能以记忆与跟踪线索帮助调查。",
+        "rp_constraint": "不是每次都猜对。"
+      },
+      {
+        "label": "身体状态改变",
+        "event_ids": [
+          "m_annie_walks"
+        ],
+        "state": "恢复行走。",
+        "rp_constraint": "疗愈原因未知。"
+      },
+      {
+        "label": "承担责任",
+        "event_ids": [
+          "m_annie_independent"
+        ],
+        "state": "训练、大学课程及终案推理。",
+        "rp_constraint": "不把受伤抹成永久损伤或完全免伤。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 2,
+        "end_line": 56,
+        "supports": "初遇救援",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 1164,
+        "end_line": 1176,
+        "supports": "家庭与维护父亲",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 2602,
+        "end_line": 2638,
+        "supports": "以钻换人及加入家庭",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/28北极氢弹战.txt",
+        "start_line": 1004,
+        "end_line": 1038,
+        "supports": "轮椅器械",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/28北极氢弹战.txt",
+        "start_line": 2364,
+        "end_line": 2516,
+        "supports": "麻醉限制、有限火箭与链式爆炸",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/28北极氢弹战.txt",
+        "start_line": 2656,
+        "end_line": 2666,
+        "supports": "疗养院计划与个人快乐",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/31黑暗历险.txt",
+        "start_line": 2132,
+        "end_line": 2180,
+        "supports": "水下发夹开铐",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/37沉船明珠.txt",
+        "start_line": 2140,
+        "end_line": 2198,
+        "supports": "主动脱离人质位置",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/37沉船明珠.txt",
+        "start_line": 2268,
+        "end_line": 2444,
+        "supports": "爬行自救、射击不准与认可",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/40怪新郎.txt",
+        "start_line": 1594,
+        "end_line": 1670,
+        "supports": "识假和窃听",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/40怪新郎.txt",
+        "start_line": 2580,
+        "end_line": 2612,
+        "supports": "记短停找到巢穴",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/41金库奇案.txt",
+        "start_line": 1344,
+        "end_line": 1464,
+        "supports": "致命火箭后受责",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/44猎头禁地.txt",
+        "start_line": 2440,
+        "end_line": 2508,
+        "supports": "恢复与原因未知",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/44猎头禁地.txt",
+        "start_line": 2742,
+        "end_line": 2746,
+        "supports": "机场独自行走",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/55金庙奇佛.txt",
+        "start_line": 2,
+        "end_line": 58,
+        "supports": "生日汽车和武技训练",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/56天才白痴.txt",
+        "start_line": 2304,
+        "end_line": 2322,
+        "supports": "要求独立与被承认",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/58三尸同行.txt",
+        "start_line": 1298,
+        "end_line": 1318,
+        "supports": "误判云一风",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/58三尸同行.txt",
+        "start_line": 1426,
+        "end_line": 1434,
+        "supports": "自责",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/58三尸同行.txt",
+        "start_line": 1974,
+        "end_line": 2000,
+        "supports": "瑜伽书辨假死",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 20,
+        "end_line": 46,
+        "supports": "大学课程与不盲闯火场",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1876,
+        "end_line": 1878,
+        "supports": "治疗苏醒和脑震荡限度",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      },
+      {
+        "path": "木兰花全集/60无名怪尸.txt",
+        "start_line": 1916,
+        "end_line": 1938,
+        "supports": "清醒与先推药液换气",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_annie"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_yunsifeng",
+    "title": "云四风的经历与成长",
+    "kind": "arc",
+    "character_id": "mulanhua_yun_sifeng",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "从有对立背景的技术人物到伴侣和合作伙伴，力量来自工作、记忆和行动。"
+    },
+    "stages": [
+      {
+        "label": "尊重失去与陪伴",
+        "event_ids": [
+          "m_ma_loss"
+        ],
+        "state": "协助打捞和技术修复，不催迫感情。",
+        "rp_constraint": "技术工作会疲劳且有知识边界。"
+      },
+      {
+        "label": "凭共同记忆识假",
+        "event_ids": [
+          "m_marriage_swap"
+        ],
+        "state": "独自坚持对替身的怀疑并帮助真妻。",
+        "rp_constraint": "爱情不等于读心。"
+      },
+      {
+        "label": "继续学习新技术",
+        "event_ids": [
+          "m_weicrossover"
+        ],
+        "state": "认真对待新图样与人才。",
+        "rp_constraint": "企业资源需具体安排。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "木兰花全集/21旋风神偷.txt",
+        "start_line": 2140,
+        "end_line": 2196,
+        "supports": "初始性格与受麻",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "木兰花全集/21旋风神偷.txt",
+        "start_line": 2270,
+        "end_line": 2332,
+        "supports": "假血、藏刀及救穆",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "木兰花全集/21旋风神偷.txt",
+        "start_line": 2730,
+        "end_line": 2756,
+        "supports": "飞行器与企业",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "木兰花全集/22天外恩仇.txt",
+        "start_line": 2342,
+        "end_line": 2390,
+        "supports": "修水下控制疲劳",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "木兰花全集/22天外恩仇.txt",
+        "start_line": 2680,
+        "end_line": 2714,
+        "supports": "不懂炼油与尊重纪念",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "木兰花全集/23大破暗杀党.txt",
+        "start_line": 2388,
+        "end_line": 2476,
+        "supports": "传话开铐、突围及配合警方",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "木兰花全集/34断头美人鱼.txt",
+        "start_line": 340,
+        "end_line": 402,
+        "supports": "受击昏迷与开锁",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "木兰花全集/36无敌凶手.txt",
+        "start_line": 1774,
+        "end_line": 1914,
+        "supports": "工程时间与装备条件",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "木兰花全集/38无价奇石.txt",
+        "start_line": 82,
+        "end_line": 104,
+        "supports": "保护职员",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "木兰花全集/39失踪新娘.txt",
+        "start_line": 208,
+        "end_line": 234,
+        "supports": "婚姻",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "木兰花全集/40怪新郎.txt",
+        "start_line": 1218,
+        "end_line": 1318,
+        "supports": "识假与记忆试探",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "木兰花全集/40怪新郎.txt",
+        "start_line": 2216,
+        "end_line": 2340,
+        "supports": "传爆炸香烟救妻",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "木兰花全集/48遥控谋杀案.txt",
+        "start_line": 2720,
+        "end_line": 2732,
+        "supports": "来福枪救人质",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "木兰花全集/58三尸同行.txt",
+        "start_line": 1904,
+        "end_line": 1922,
+        "supports": "股票骗局与经济知识",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "卫斯理系列/100开心.txt",
+        "start_line": 1776,
+        "end_line": 1788,
+        "supports": "实际来访",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "卫斯理系列/100开心.txt",
+        "start_line": 1871,
+        "end_line": 1951,
+        "supports": "伦三德图样与人才态度",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_gaoxiang",
+    "title": "高翔的经历与成长",
+    "kind": "arc",
+    "character_id": "mulanhua_gao_xiang",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "由早期越轨者转向警务责任，仍有感情导致的误判及愿承担后果的选择。"
+    },
+    "stages": [
+      {
+        "label": "转向",
+        "event_ids": [
+          "m_watch"
+        ],
+        "state": "犯罪交易失败后走向另一生活。",
+        "rp_constraint": "早期不用后期警衔。"
+      },
+      {
+        "label": "关系成熟",
+        "event_ids": [
+          "m_wedding"
+        ],
+        "state": "与木兰花结婚并互救。",
+        "rp_constraint": "不把爱人当受保护的附属。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "木兰花全集/01巧夺死光表.txt",
+        "start_line": 3206,
+        "end_line": 3222,
+        "supports": "骗局终局与转向",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/02黑龙现爪.txt",
+        "start_line": 10,
+        "end_line": 46,
+        "supports": "外观、飞行判断与行动",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/27钻石镭射.txt",
+        "start_line": 750,
+        "end_line": 770,
+        "supports": "旧情与东方王子",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/29潜艇迷宫.txt",
+        "start_line": 2428,
+        "end_line": 2496,
+        "supports": "潜艇攻击、误认木死与情绪崩溃",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/30玻璃伪钞模.txt",
+        "start_line": 1104,
+        "end_line": 1166,
+        "supports": "受伤后的克制和组织",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/35蜘蛛陷阱.txt",
+        "start_line": 2432,
+        "end_line": 2446,
+        "supports": "远置电筒诱敌耗弹",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/36无敌凶手.txt",
+        "start_line": 614,
+        "end_line": 698,
+        "supports": "鞋底双刀与火力窗口",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/39失踪新娘.txt",
+        "start_line": 816,
+        "end_line": 842,
+        "supports": "逼问何保",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/39失踪新娘.txt",
+        "start_line": 1156,
+        "end_line": 1268,
+        "supports": "钮弹、肩伤和返岗",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/46死神殿.txt",
+        "start_line": 2416,
+        "end_line": 2562,
+        "supports": "烙铁假印与布警诱捕",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/48遥控谋杀案.txt",
+        "start_line": 1764,
+        "end_line": 1770,
+        "supports": "误认陈宝明",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/48遥控谋杀案.txt",
+        "start_line": 2618,
+        "end_line": 2648,
+        "supports": "让氧被麻",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/50蜜月奇遇.txt",
+        "start_line": 2,
+        "end_line": 16,
+        "supports": "结婚",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/50蜜月奇遇.txt",
+        "start_line": 1044,
+        "end_line": 1082,
+        "supports": "床单救木",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      },
+      {
+        "path": "木兰花全集/57生命合同.txt",
+        "start_line": 2232,
+        "end_line": 2242,
+        "supports": "承担处分救人",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_gao_xiang"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_jinwei",
+    "title": "金维的经历与成长",
+    "kind": "arc",
+    "character_id": "adventure_jinwei",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "多年研究增加耐心与方法，未给他把未知直接变已知的特权。"
+    },
+    "stages": [
+      {
+        "label": "保存陌生生命",
+        "event_ids": [
+          "f_eagle_origin"
+        ],
+        "state": "放走大鹰并学习。",
+        "rp_constraint": "谜团没有当场解完。"
+      },
+      {
+        "label": "试验交流与幻境",
+        "event_ids": [
+          "w_real_illusion"
+        ],
+        "state": "有限交流、偶然共同入境。",
+        "rp_constraint": "反复尝试失败必须保留。"
+      },
+      {
+        "label": "再赴孤峰",
+        "event_ids": [
+          "w_eagle_departure"
+        ],
+        "state": "依赖成人神鹰与大羊鹰合作。",
+        "rp_constraint": "未知仍推动下一步。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "非人协会系列/04大鹰.txt",
+        "start_line": 2,
+        "end_line": 19,
+        "supports": "外貌、语言和山地天赋",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "非人协会系列/04大鹰.txt",
+        "start_line": 34,
+        "end_line": 44,
+        "supports": "雪地与扑击应对",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "非人协会系列/04大鹰.txt",
+        "start_line": 612,
+        "end_line": 685,
+        "supports": "解救大鹰、怪人死亡与学习决定",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/070生死锁.txt",
+        "start_line": 1936,
+        "end_line": 1944,
+        "supports": "作为天池老人助手的经历。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/070生死锁.txt",
+        "start_line": 1988,
+        "end_line": 1989,
+        "supports": "当时明确没有掌握任何神通。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/070生死锁.txt",
+        "start_line": 2028,
+        "end_line": 2031,
+        "supports": "与孤峰旧事衔接及未掌握神通。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 447,
+        "end_line": 490,
+        "supports": "重述孤峰经历，与早书结局存在差异。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1279,
+        "end_line": 1327,
+        "supports": "自制哨子、有限交流、不能由小鹰载人与半日山路。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1843,
+        "end_line": 1847,
+        "supports": "黑暗中可看清陈设。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2022,
+        "end_line": 2102,
+        "supports": "静坐与进入幻境的过程。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2156,
+        "end_line": 2234,
+        "supports": "掌心接触共同入境及精神远游推测。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2489,
+        "end_line": 2501,
+        "supports": "持续一月尝试不能再次进入。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/126未来身份.txt",
+        "start_line": 95,
+        "end_line": 153,
+        "supports": "神鹰更完全的鹰语及与金维同乘大鹰赴孤峰。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_gaosi",
+    "title": "高斯的经历与成长",
+    "kind": "arc",
+    "character_id": "gaosi_gao_si",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "经验增加但仍会贪心、鲁莽和自以为是；他靠摄影和核验参与这个世界。"
+    },
+    "stages": [
+      {
+        "label": "被骗与纠正",
+        "event_ids": [
+          "s_magic_exposed"
+        ],
+        "state": "知道人造骗局能制造奇迹外观。",
+        "rp_constraint": "不能据此否认全世界异常。"
+      },
+      {
+        "label": "成功仍有边界",
+        "event_ids": [
+          "s_police_boundary"
+        ],
+        "state": "能破案也得缴罚单。",
+        "rp_constraint": "不借关系获得执法豁免。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "神探高斯系列/01出术.txt",
+        "start_line": 3,
+        "end_line": 11,
+        "supports": "隐藏摄影机",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_gao_si"
+        }
+      },
+      {
+        "path": "神探高斯系列/02催眠之术.txt",
+        "start_line": 525,
+        "end_line": 638,
+        "supports": "利用地形、踢枪失败、装催眠脱险",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_gao_si"
+        }
+      },
+      {
+        "path": "神探高斯系列/03飞艇.txt",
+        "start_line": 565,
+        "end_line": 608,
+        "supports": "西洋拳与武装劣势",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_gao_si"
+        }
+      },
+      {
+        "path": "神探高斯系列/09鬼照片.txt",
+        "start_line": 583,
+        "end_line": 600,
+        "supports": "暗示电话求援",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_gao_si"
+        }
+      },
+      {
+        "path": "神探高斯系列/22水中宝盒.txt",
+        "start_line": 3,
+        "end_line": 11,
+        "supports": "水下摄影与潜水",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_gao_si"
+        }
+      },
+      {
+        "path": "神探高斯系列/29预告.txt",
+        "start_line": 668,
+        "end_line": 681,
+        "supports": "推理比喻与交通罚单结局",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_gao_si"
+        }
+      },
+      {
+        "path": "神探高斯系列/27亚洲皇后.txt",
+        "start_line": 377,
+        "end_line": 424,
+        "supports": "共同以静卧、瑜珈和节食减耗，仍几近死亡",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_gao_si"
+        }
+      },
+      {
+        "path": "神探高斯系列/28妖女煞星.txt",
+        "start_line": 271,
+        "end_line": 302,
+        "supports": "误把真枪当玩具，受伤须手术",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_gao_si"
+        }
+      },
+      {
+        "path": "神探高斯系列/29预告.txt",
+        "start_line": 243,
+        "end_line": 249,
+        "supports": "用铁丝开启简单门锁",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_gao_si"
+        }
+      },
+      {
+        "path": "神探高斯系列/29预告.txt",
+        "start_line": 382,
+        "end_line": 468,
+        "supports": "摄影分析成功，但把嫌疑当结论遭纠正",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_gao_si"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arc_liyufang",
+    "title": "李玉芳的经历与成长",
+    "kind": "arc",
+    "character_id": "gaosi_li_yufang",
+    "interpretation": {
+      "epistemic_status": "synthesis",
+      "text": "亲近与职业责任并存；相信证据也必须允许修正先入判断。"
+    },
+    "stages": [
+      {
+        "label": "核验而不附和",
+        "event_ids": [
+          "s_magic_exposed"
+        ],
+        "state": "以案件证据纠正奇观解释。",
+        "rp_constraint": "不因高斯亲近就信每个猜想。"
+      },
+      {
+        "label": "守住职业边界",
+        "event_ids": [
+          "s_police_boundary"
+        ],
+        "state": "破案后仍拒绝取消罚单。",
+        "rp_constraint": "不自动调动其他地区全部警力。"
+      }
+    ],
+    "evidence": [
+      {
+        "path": "神探高斯系列/01出术.txt",
+        "start_line": 637,
+        "end_line": 673,
+        "supports": "拘捕与警方布局",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_li_yufang"
+        }
+      },
+      {
+        "path": "神探高斯系列/03飞艇.txt",
+        "start_line": 616,
+        "end_line": 668,
+        "supports": "假说错误后据实调整",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_li_yufang"
+        }
+      },
+      {
+        "path": "神探高斯系列/05风向.txt",
+        "start_line": 1108,
+        "end_line": 1172,
+        "supports": "保护无辜、化装与开枪",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_li_yufang"
+        }
+      },
+      {
+        "path": "神探高斯系列/09鬼照片.txt",
+        "start_line": 566,
+        "end_line": 600,
+        "supports": "带队、录音复核和救援",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_li_yufang"
+        }
+      },
+      {
+        "path": "神探高斯系列/29预告.txt",
+        "start_line": 674,
+        "end_line": 681,
+        "supports": "不替高斯取消罚单",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_li_yufang"
+        }
+      },
+      {
+        "path": "神探高斯系列/27亚洲皇后.txt",
+        "start_line": 377,
+        "end_line": 424,
+        "supports": "严格分配食水与静息求生，仍严重衰弱",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_li_yufang"
+        }
+      },
+      {
+        "path": "神探高斯系列/27亚洲皇后.txt",
+        "start_line": 445,
+        "end_line": 479,
+        "supports": "借高斯扑击机会击杀巡查者，随即力竭",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_li_yufang"
+        }
+      },
+      {
+        "path": "神探高斯系列/28妖女煞星.txt",
+        "start_line": 341,
+        "end_line": 434,
+        "supports": "调查亲近者不徇私，但也有先入怀疑",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_li_yufang"
+        }
+      },
+      {
+        "path": "神探高斯系列/29预告.txt",
+        "start_line": 539,
+        "end_line": 674,
+        "supports": "继承事实、假救援与逐层纠正嫌疑",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_li_yufang"
+        }
+      }
+    ]
+  }
+]

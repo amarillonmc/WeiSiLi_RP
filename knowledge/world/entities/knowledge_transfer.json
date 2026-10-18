@@ -1,0 +1,36 @@
+{
+  "id": "knowledge_transfer",
+  "title": "知识转移技术",
+  "kind": "concept",
+  "summary": "保存知识与复制人的实验相交，但知识本身不等于人格和判断。",
+  "mechanism": {
+    "text": "杜良把姚教授知识转给姚大达，另在卫斯理复制人方案中依赖接受指令。",
+    "epistemic_status": "textual_fact"
+  },
+  "access_conditions": [
+    "专门设施、操作流程和受体条件"
+  ],
+  "limits": [
+    "知道知识不等于能正确运用",
+    "无法靠一次接触永久偷走全人格",
+    "接受环节可能被拒绝或干预"
+  ],
+  "last_known_state": "已展示具体转移；《身外化身》的计划受阻。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "围绕知识继承、同意、误用与受体自主展开，不写成通用灌顶。"
+  },
+  "character_ids": [
+    "weisili_du_liang"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_aac593bf0e5b450b",
+    "evidence_1f8f330b4dc52b31"
+  ],
+  "book_ids": [
+    "book_1a10e56018a3",
+    "book_a25be6589e38"
+  ]
+}

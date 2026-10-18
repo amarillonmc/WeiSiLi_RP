@@ -1,0 +1,28 @@
+{
+  "id": "w_bai_union",
+  "title": "地底追索后的白家关系确立",
+  "kind": "event",
+  "summary": "白素用装钱的麻袋垫熔岩帮助脱险，卫斯理与白家由冲突走向亲密关系。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《地底奇人》续段《卫斯理与白素》的脱险阶段。",
+    "narrative_layer": "present"
+  },
+  "state_before": "财富争执与危险未解。",
+  "state_after": "卫白关系确立，白奇伟保留独立判断。",
+  "knowledge_boundary": "晚年家族秘密和失散女儿不能在此提前透露。",
+  "character_ids": [
+    "weisili_wei_sili",
+    "weisili_bai_su",
+    "weisili_bai_qiwei"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_3d03b5a91cc37d91"
+  ],
+  "book_ids": [
+    "book_4d22028f17c9"
+  ]
+}

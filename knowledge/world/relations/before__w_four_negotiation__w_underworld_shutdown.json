@@ -1,0 +1,20 @@
+{
+  "id": "before__w_four_negotiation__w_underworld_shutdown",
+  "source": "w_four_negotiation",
+  "target": "w_underworld_shutdown",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "先知小组分离并处理四号纠纷，后期才见思想仪停摆；不把中间所有书纳入总年代。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "先知小组分离并处理四号纠纷，后期才见思想仪停摆；不把中间所有书纳入总年代。",
+  "evidence_ids": [
+    "evidence_45572bd17b3137a0",
+    "evidence_5db6350a305a0c64",
+    "evidence_791be8874d033d73"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da",
+    "book_b60f03e1be18"
+  ]
+}

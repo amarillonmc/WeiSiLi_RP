@@ -1,0 +1,222 @@
+{
+  "schema_version": "1.0",
+  "id": "book_67824b4b3cde",
+  "title": "地心洪炉",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/006地心洪炉.txt",
+  "file": "books/book_67824b4b3cde.json",
+  "inherited_fact_count": 19,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "17ac5ffa74c0a0d790126106b4ec6a1762edf345c875242e884a235784b5b38c",
+  "source_lines": 3044,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "张坚",
+      "card_id": "weisili_zhang_jian",
+      "role": "重要配角",
+      "basis": "极地副队长和共同生还者"
+    },
+    {
+      "name": "杰弗生",
+      "card_id": "weisili_jiefusheng",
+      "role": "反派",
+      "basis": "控制设施、胁迫与杀人"
+    },
+    {
+      "name": "藤清泉",
+      "card_id": "weisili_teng_qingquan",
+      "role": "单书主角",
+      "basis": "科学研究和道德选择"
+    },
+    {
+      "name": "罗勃·强脱",
+      "card_id": "weisili_luobo_qiangtuo",
+      "role": "单书主线人物",
+      "basis": "冰原研究与被杀"
+    },
+    {
+      "name": "绿色外星人二人",
+      "card_id": "weisili_green_earth_pair",
+      "role": "阶段性对立者",
+      "basis": "地心计划执行者与反转"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "史谷脱、史沙尔",
+      "reason": "探险队组织、调查和医疗辅助，错误怀疑未形成独立反派计划。"
+    },
+    {
+      "name": "电子人",
+      "reason": "同型执行机器，权限及自毁统一归设施机制，没有独立个体人格线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_977438818d5b0fd7",
+      "statement": "探险队副队长",
+      "annotation_character_ids": [
+        "weisili_zhang_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_35be4df7f150d2f5",
+      "statement": "失踪与身份",
+      "annotation_character_ids": [
+        "weisili_luobo_qiangtuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_726233a26236b83f",
+      "statement": "身份与加入研究",
+      "annotation_character_ids": [
+        "weisili_teng_qingquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2782e6298a75b01c",
+      "statement": "电子人权限与学习条件",
+      "annotation_character_ids": [
+        "weisili_jiefusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7f6d74f1065e35db",
+      "statement": "对电子人的追问",
+      "annotation_character_ids": [
+        "weisili_luobo_qiangtuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_342c58bfb4fb6066",
+      "statement": "地质立场与方案条件",
+      "annotation_character_ids": [
+        "weisili_teng_qingquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a6734992dba29723",
+      "statement": "压力设备、基地报复与机器人毁灭",
+      "annotation_character_ids": [
+        "weisili_jiefusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_88a5ecb529cb8870",
+      "statement": "冰原专长与获救代价",
+      "annotation_character_ids": [
+        "weisili_luobo_qiangtuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22a0727639769524",
+      "statement": "尸体及遗书来源",
+      "annotation_character_ids": [
+        "weisili_green_earth_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ec776b1a7d0f31a1",
+      "statement": "任务、工程和首次灾害",
+      "annotation_character_ids": [
+        "weisili_green_earth_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_14f0d51128ebb69a",
+      "statement": "自我牺牲与防滥用设计",
+      "annotation_character_ids": [
+        "weisili_green_earth_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb7c58a296758e42",
+      "statement": "以灾害胁迫夺权",
+      "annotation_character_ids": [
+        "weisili_jiefusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a6e8383eed16887d",
+      "statement": "看守失误",
+      "annotation_character_ids": [
+        "weisili_zhang_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e66079b4edc0d99",
+      "statement": "死亡",
+      "annotation_character_ids": [
+        "weisili_luobo_qiangtuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c11cde8b77056ac0",
+      "statement": "杀害罗勃、威胁藤清泉",
+      "annotation_character_ids": [
+        "weisili_jiefusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_add910d151eb0fd0",
+      "statement": "拒绝权位和暴力",
+      "annotation_character_ids": [
+        "weisili_teng_qingquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_450f05cfb0a275be",
+      "statement": "平台毁灭与未证实终局",
+      "annotation_character_ids": [
+        "weisili_jiefusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fd10cb760c30b671",
+      "statement": "平台爆炸后的推测",
+      "annotation_character_ids": [
+        "weisili_teng_qingquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1c7e1be234f016b6",
+      "statement": "获救与失去平台供能",
+      "annotation_character_ids": [
+        "weisili_zhang_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

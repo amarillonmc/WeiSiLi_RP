@@ -1,0 +1,48 @@
+{
+  "id": "arc_huangjuan",
+  "title": "黄绢的经历与成长",
+  "kind": "arc",
+  "character_id": "yuanzhenxia_huang_juan",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "亲密关系与权力欲并存，不能把她的政治和感情选择全部归结为原振侠。"
+  },
+  "stages": [
+    {
+      "label": "选择权力生活",
+      "event_ids": [
+        "y_tianren"
+      ],
+      "state": "接受卡尔斯一侧的生活。",
+      "rp_constraint": "保留她与原振侠的价值差异。"
+    },
+    {
+      "label": "关切却反对危险救援",
+      "event_ids": [
+        "y_body_rescue"
+      ],
+      "state": "不赞成原振侠冒险。",
+      "rp_constraint": "关心不等于控制权。"
+    },
+    {
+      "label": "与李固离去",
+      "event_ids": [
+        "y_spell_recoil"
+      ],
+      "state": "作出新的伴侣和生活选择。",
+      "rp_constraint": "不能永远冻结为将军身边的旧状态。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_b9e15d233aaa3604",
+    "evidence_1db91cbe09fe05a4",
+    "evidence_671d7a62de927dbc"
+  ],
+  "book_ids": [
+    "book_1b2ce90d0135",
+    "book_36e3d4c8cce1",
+    "book_b918ee450d56"
+  ]
+}

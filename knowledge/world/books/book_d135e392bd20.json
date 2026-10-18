@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d135e392bd20",
+  "title": "神话世界",
+  "aliases": [],
+  "series": "年轻人",
+  "source_path": "年轻人/13神话世界.txt",
+  "file": "books/book_d135e392bd20.json",
+  "inherited_fact_count": 11,
+  "curated_links": {
+    "rules": [
+      "rule_local_mechanisms"
+    ],
+    "entities": [
+      "myth_projection"
+    ],
+    "events": [
+      "n_myth_return"
+    ],
+    "relations": [
+      "before__n_empire__y_body_rescue",
+      "before__y_body_rescue__n_new_body",
+      "before__n_new_body__n_myth_return"
+    ],
+    "arcs": [
+      "arc_princess",
+      "arc_young"
+    ],
+    "issues": [
+      "issue_missing_sources"
+    ]
+  },
+  "direct_source_review": true,
+  "source_sha256": "4fc6ab65fbdb0e9621df5e12713ea6dfd934422da981794244be376e706b7914",
+  "source_lines": 1279,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "年轻人",
+      "card_id": "adventure_young",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "奥丽卡公主",
+      "card_id": "adventure_princess",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "冯瑞",
+      "card_id": "adventure_feng_rui",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "韦先生",
+      "card_id": "adventure_wei_neighbor",
+      "role": "单书主角",
+      "basis": "独立开端视角与邻居观察"
+    },
+    {
+      "name": "雪伦克丝",
+      "card_id": "adventure_syrinx",
+      "role": "单书主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "潘",
+      "card_id": "adventure_pan",
+      "role": "反派",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "赫拉、宙斯等",
+      "reason": "出现在传说、推想和威慑话语中，不能当作已证实亲自出场或全部神话能力。"
+    },
+    {
+      "name": "其他未具姓名女神",
+      "reason": "群体遭遇背景，未展开独立人格与主要行动。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_ed96997dbacf26f4",
+      "statement": "失物、动机和推断",
+      "annotation_character_ids": [
+        "adventure_wei_neighbor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f4a5f34d465885b3",
+      "statement": "体面焦虑与接触选择",
+      "annotation_character_ids": [
+        "adventure_wei_neighbor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6d506b0ef201c088",
+      "statement": "神话解释",
+      "annotation_character_ids": [
+        "adventure_feng_rui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_068b768f37fba049",
+      "statement": "不同通行条件与人间失能",
+      "annotation_character_ids": [
+        "adventure_syrinx"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e7a6aaa88e5e8e5",
+      "statement": "新身体与年轻人在异界返回上的差别",
+      "annotation_character_ids": [
+        "adventure_princess"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_28456af862dc8c8b",
+      "statement": "改变命运的讨论、条件与照看承诺",
+      "annotation_character_ids": [
+        "adventure_syrinx"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4a9c32df10c2d185",
+      "statement": "威压、弱于场面的伤害与赌约",
+      "annotation_character_ids": [
+        "adventure_pan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0e98d1c660d8baf8",
+      "statement": "公主抵抗及赫拉牵制",
+      "annotation_character_ids": [
+        "adventure_pan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c7baa09df2007ebb",
+      "statement": "利用潘的畏惧与投影条件返回",
+      "annotation_character_ids": [
+        "adventure_princess"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b56cb49b31ba1c2",
+      "statement": "投影识别与返回",
+      "annotation_character_ids": [
+        "adventure_young"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a16a4ab8edfe7dfa",
+      "statement": "投影与入迷宫",
+      "annotation_character_ids": [
+        "adventure_pan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

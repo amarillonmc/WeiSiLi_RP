@@ -1,0 +1,15 @@
+{
+  "id": "bridge_unified_unproven",
+  "title": "高斯与鬼话系列的统一世界归入",
+  "kind": "bridge",
+  "series": [
+    "神探高斯系列",
+    "倪匡之鬼话系列"
+  ],
+  "connection_level": "user_unification_assumption",
+  "claim": "按用户统一世界的前提共存于日常社会与局部异常层；本批未建立两系列与主线角色的直接会面证据。不得写成已证实不存在连接。",
+  "schema_version": "1.0",
+  "section": "bridges",
+  "evidence_ids": [],
+  "book_ids": []
+}

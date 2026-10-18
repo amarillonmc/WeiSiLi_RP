@@ -1,0 +1,402 @@
+{
+  "schema_version": "1.0",
+  "id": "book_0c1cbe649a9a",
+  "title": "毒誓",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/083毒誓.txt",
+  "file": "books/book_0c1cbe649a9a.json",
+  "inherited_fact_count": 32,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "7cbd4e94603d697ecb560154dfb9401d01c39f9d1ea949b5a7b1b4507b59e2b2",
+  "source_lines": 3227,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "整理古案和复生调查"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "推理与联络"
+    },
+    {
+      "name": "裴思庆",
+      "card_id": "weisili_pei_siqing",
+      "role": "主角／反派",
+      "basis": "前史主要叙述者及谋害"
+    },
+    {
+      "name": "金月亮",
+      "card_id": "weisili_jin_yueliang",
+      "role": "主角",
+      "basis": "古今经历与自主选择"
+    },
+    {
+      "name": "杜令",
+      "card_id": "weisili_du_ling",
+      "role": "主角",
+      "basis": "复制及混血寻回任务"
+    },
+    {
+      "name": "柔娘之兄",
+      "card_id": "weisili_rouniang_brother",
+      "role": "主角",
+      "basis": "翻译、揭案及救助"
+    },
+    {
+      "name": "女主",
+      "card_id": "weisili_desert_queen",
+      "role": "主角／对立者",
+      "basis": "救裴及群体返乡"
+    },
+    {
+      "name": "白衣女子",
+      "card_id": "weisili_desert_white_women",
+      "role": "主角群体／对立者",
+      "basis": "记录、封存及返乡"
+    },
+    {
+      "name": "阿拉伯酋长",
+      "card_id": "weisili_jinmoon_sheikh",
+      "role": "主角／对立者",
+      "basis": "委托与复生愿望"
+    },
+    {
+      "name": "匈奴大盗",
+      "card_id": "weisili_xiongnu_bandit",
+      "role": "反派",
+      "basis": "抢掠、支配金月亮及刀战"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "整理与论证"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "研究文字与讨论"
+    },
+    {
+      "name": "胡明",
+      "card_id": "weisili_hu_ming",
+      "role": "重要配角",
+      "basis": "介绍汉烈米"
+    },
+    {
+      "name": "汉烈米",
+      "card_id": "yuanzhenxia_hanliemi",
+      "role": "重要配角",
+      "basis": "考古委托及陪同调查"
+    },
+    {
+      "name": "苏耀西",
+      "card_id": "yuanzhenxia_su_yaoxi",
+      "role": "重要配角",
+      "basis": "拍卖协助"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "基金及拍卖支持"
+    },
+    {
+      "name": "阿潘特王子",
+      "card_id": "weisili_a_pante",
+      "role": "重要配角",
+      "basis": "电话担保医院"
+    },
+    {
+      "name": "温宝裕之父温伯如",
+      "card_id": "weisili_wen_boru",
+      "role": "重要配角",
+      "basis": "向妻子建议、暗示儿子不要争执；与133父亲身份互认，不和其他系列温先生合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "柔娘、荀十九",
+      "reason": "古案关键受害者，但仅一次前史中呈现家庭关系与被害，没有独立主角行动线"
+    },
+    {
+      "name": "第二个金月亮复制体",
+      "reason": "无旧记忆的另一人格，制造与送达仅转述，没有独立可核行动或反派性；不能合并主卡"
+    },
+    {
+      "name": "老向导、驼队护卫、拍卖职员",
+      "reason": "一次性工作角色及受灾群像"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_413e5464f07ff3fe",
+      "statement": "父亲在家庭中的建议与眼色",
+      "annotation_character_ids": [
+        "weisili_wen_boru"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb31c532de0b8e99",
+      "statement": "古物及慈善拍卖协助",
+      "annotation_character_ids": [
+        "yuanzhenxia_su_yaoxi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16566d897fb75b4f",
+      "statement": "救援、外观与骑行",
+      "annotation_character_ids": [
+        "weisili_desert_queen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_62031a8635f9eb39",
+      "statement": "八名记录者及群体活动",
+      "annotation_character_ids": [
+        "weisili_desert_white_women"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eae88a787d804530",
+      "statement": "问话与族群关系",
+      "annotation_character_ids": [
+        "weisili_desert_queen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_300b69b5db37d13d",
+      "statement": "盗伙方式与兵器",
+      "annotation_character_ids": [
+        "weisili_xiongnu_bandit"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dddf515afc35a39b",
+      "statement": "骑战、匈奴大盗受创与追击",
+      "annotation_character_ids": [
+        "weisili_pei_siqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_357a85f9385050e1",
+      "statement": "面子驱动交战、受伤逃离",
+      "annotation_character_ids": [
+        "weisili_xiongnu_bandit"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6595cdcefe912b4f",
+      "statement": "询问位置而非全知",
+      "annotation_character_ids": [
+        "weisili_desert_white_women"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5ba84c15ebddc9e9",
+      "statement": "外观、匕首先手及自主放下",
+      "annotation_character_ids": [
+        "weisili_jin_yueliang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_54e184895cf1d45a",
+      "statement": "死亡信息",
+      "annotation_character_ids": [
+        "weisili_xiongnu_bandit"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d3b441f6d3a93760",
+      "statement": "隐瞒语言、辨旧案和亲属身份",
+      "annotation_character_ids": [
+        "weisili_rouniang_brother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1d6e983b36e47b49",
+      "statement": "旧案被侏儒揭穿",
+      "annotation_character_ids": [
+        "weisili_pei_siqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1b24f2ac95691041",
+      "statement": "六十二人及封存事实",
+      "annotation_character_ids": [
+        "weisili_desert_white_women"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_32b5a79662b7ca71",
+      "statement": "不老观察及封存金月亮",
+      "annotation_character_ids": [
+        "weisili_desert_queen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d59bb6540784b7e",
+      "statement": "群体观察、临终帮助与死亡",
+      "annotation_character_ids": [
+        "weisili_rouniang_brother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_105a779f110692aa",
+      "statement": "封存原因",
+      "annotation_character_ids": [
+        "weisili_jin_yueliang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_07dddaecef1fe990",
+      "statement": "恶意假解释与离开、当时终局未知",
+      "annotation_character_ids": [
+        "weisili_pei_siqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4182dfe6e03b1f2b",
+      "statement": "经胡明求助卫斯理",
+      "annotation_character_ids": [
+        "yuanzhenxia_hanliemi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5c974e900b362d9",
+      "statement": "后续埃及联络汉烈米",
+      "annotation_character_ids": [
+        "weisili_hu_ming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a1be2e408726c113",
+      "statement": "体格与保护古物",
+      "annotation_character_ids": [
+        "yuanzhenxia_hanliemi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b16adf79ad8ccfb7",
+      "statement": "身份、财富、委托与外观",
+      "annotation_character_ids": [
+        "weisili_jinmoon_sheikh"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6511349879651b4c",
+      "statement": "水晶女尸线索",
+      "annotation_character_ids": [
+        "yuanzhenxia_hanliemi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_472f1a83fa52e161",
+      "statement": "联络医院及安抚",
+      "annotation_character_ids": [
+        "yuanzhenxia_hanliemi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f7a62ee5fd4143fa",
+      "statement": "询问王子、允许运送及祈祷",
+      "annotation_character_ids": [
+        "weisili_jinmoon_sheikh"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fc1ad4ffb5c3798b",
+      "statement": "医院代表、飞行及带走金月亮",
+      "annotation_character_ids": [
+        "weisili_du_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fc1d66dacee9a940",
+      "statement": "培养身体和恢复知识",
+      "annotation_character_ids": [
+        "weisili_du_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9ec847fb23f36737",
+      "statement": "复生知识、拒绝酋长安排及恋情",
+      "annotation_character_ids": [
+        "weisili_jin_yueliang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2ae902b2e33a332",
+      "statement": "主要金月亮拒绝与另造安排",
+      "annotation_character_ids": [
+        "weisili_jinmoon_sheikh"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c79442eb66b2739",
+      "statement": "金月亮对其支配关系的回顾",
+      "annotation_character_ids": [
+        "weisili_xiongnu_bandit"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0155077173047f45",
+      "statement": "混血身份和储存机制",
+      "annotation_character_ids": [
+        "weisili_desert_queen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ac1c54b394403226",
+      "statement": "任务及储魂装置",
+      "annotation_character_ids": [
+        "weisili_du_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

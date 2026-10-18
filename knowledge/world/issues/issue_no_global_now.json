@@ -1,0 +1,23 @@
+{
+  "id": "issue_no_global_now",
+  "title": "各系列最后状态不证明同时发生",
+  "kind": "issue",
+  "claims": [
+    "原振侠有失踪终局，卫斯理有远行邀请的开放终局。",
+    "没有足够日期把每个人的最后出场固定到同一天。"
+  ],
+  "handling": {
+    "epistemic_status": "adaptation",
+    "text": "“综合终局沙盒”可以作为明确改编，但历史场景按事件偏序取状态；不宣称终局矩阵是一张已证实的同期合照。"
+  },
+  "schema_version": "1.0",
+  "section": "issues",
+  "evidence_ids": [
+    "evidence_3f0b55873f0513a6",
+    "evidence_af38bb8b6613408a"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da",
+    "book_8e795168086a"
+  ]
+}

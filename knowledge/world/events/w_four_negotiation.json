@@ -1,0 +1,28 @@
+{
+  "id": "w_four_negotiation",
+  "title": "四号与游侠夫妇协商",
+  "kind": "event",
+  "summary": "四号要求独立却控制游侠夫妇；卫斯理促使其接受自愿协助而非消灭威胁。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《改变》《暗号之二》追索后的《闯祸》收束。",
+    "narrative_layer": "present"
+  },
+  "state_before": "失物、身体能量及控制权纠缠。",
+  "state_after": "游侠夫妇独立来访，眼前纠纷解除。",
+  "knowledge_boundary": "四号并未交出或获得整座完整思想仪。",
+  "character_ids": [
+    "weisili_wei_sili",
+    "weisili_yin_4"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_45572bd17b3137a0",
+    "evidence_5db6350a305a0c64"
+  ],
+  "book_ids": [
+    "book_b60f03e1be18"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "revealed_by__w_family_past__w_family_recovery",
+  "source": "w_family_past",
+  "target": "w_family_recovery",
+  "relation": "revealed_by",
+  "epistemic_status": "textual_fact",
+  "reason": "调查重建过去，不把回忆中的婚育事件搬到调查当下。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "调查重建过去，不把回忆中的婚育事件搬到调查当下。",
+  "evidence_ids": [
+    "evidence_318e289b38da960d",
+    "evidence_94c91f9606dc3c2b",
+    "evidence_b68bbc86fcf830e8",
+    "evidence_48ad0b3d897f0574"
+  ],
+  "book_ids": [
+    "book_afc4b3885657"
+  ]
+}

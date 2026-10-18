@@ -1,0 +1,20 @@
+{
+  "id": "rule_macguffin",
+  "title": "麦高芬是争夺焦点，不是无限许愿器",
+  "kind": "rule",
+  "epistemic_status": "synthesis",
+  "statement": "物件、人员、信息或目标可因其被期待的价值推动行动；传闻的功用、实测效果和最终去向应分别记录。",
+  "rp_application": "每个争夺目标列明追求者、欲望、接近条件、代价和失效后还能推动什么冲突。",
+  "limits": [
+    "这里的“麦高芬”是项目的叙事功能标签，不宣称每项都是严格电影学意义的纯麦高芬。",
+    "想买命和可买到寿命是不同状态。"
+  ],
+  "schema_version": "1.0",
+  "section": "rules",
+  "evidence_ids": [
+    "evidence_74f864c35a33191e"
+  ],
+  "book_ids": [
+    "book_c33c05bc68a3"
+  ]
+}

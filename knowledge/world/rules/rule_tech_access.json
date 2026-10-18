@@ -1,0 +1,27 @@
+{
+  "id": "rule_tech_access",
+  "title": "设备、机构和伙伴不是个人技能",
+  "kind": "rule",
+  "epistemic_status": "synthesis",
+  "statement": "异常技术依赖载体、能源、操作者、知识、位置和维护。认识制造者或经历一次操作，并不等于掌握或持有装置。",
+  "rp_application": "调用能力时核对设备现在在谁手中、是否运作、角色是否会用、能否得到帮助。",
+  "limits": [
+    "毁坏、停机、被收回和离开地球的资源不能凭历史存在直接调用。",
+    "勒曼医院和康维可以拒绝、误判、失败。"
+  ],
+  "schema_version": "1.0",
+  "section": "rules",
+  "evidence_ids": [
+    "evidence_e0738df150f85354",
+    "evidence_2fe4a3686dec9265",
+    "evidence_90690e8fe5a2ea42",
+    "evidence_0bb1e9d7e786e292",
+    "evidence_ee42f3cc9a489e8c",
+    "evidence_3beea314932e36e3"
+  ],
+  "book_ids": [
+    "book_02a15832ae8a",
+    "book_8e795168086a",
+    "book_9a4da2ea3ef3"
+  ]
+}

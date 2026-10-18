@@ -1,0 +1,365 @@
+{
+  "schema_version": "1.0",
+  "id": "book_285c39eb6c50",
+  "title": "卖命",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/120卖命.txt",
+  "file": "books/book_285c39eb6c50.json",
+  "inherited_fact_count": 22,
+  "curated_links": {
+    "entities": [
+      "nonhuman_association",
+      "life_quota",
+      "water"
+    ],
+    "events": [
+      "w_quota_research"
+    ],
+    "relations": [
+      "before__w_water_reveal__w_quota_research",
+      "before__y_liuxu_rescue__w_quota_research"
+    ],
+    "arcs": [
+      "arc_weisili",
+      "arc_baisu",
+      "arc_kangwei"
+    ],
+    "issues": [
+      "issue_truthful_views"
+    ],
+    "bridges": [
+      "bridge_kangwei",
+      "bridge_baisu"
+    ]
+  },
+  "direct_source_review": true,
+  "source_sha256": "e93d550015c33f8006240ac842783e731e022ba572d0e09de11cdddfc3eb296d",
+  "source_lines": 2694,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "大亨",
+      "card_id": "weisili_da_heng",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "朱槿",
+      "card_id": "weisili_zhu_jin",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "亮声",
+      "card_id": "weisili_liang_sheng",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "康维",
+      "card_id": "yuanzhenxia_kangwei",
+      "role": "跨系列主角",
+      "basis": "实际调查与交流"
+    },
+    {
+      "name": "柳絮",
+      "card_id": "yuanzhenxia_liu_xu",
+      "role": "跨系列主角",
+      "basis": "实际调查与交流"
+    },
+    {
+      "name": "陈景德",
+      "card_id": "yuanzhenxia_chen_jingde",
+      "role": "跨系列主角",
+      "basis": "实际调查与交流"
+    },
+    {
+      "name": "陈宜兴",
+      "card_id": "yuanzhenxia_chen_yixing",
+      "role": "跨系列主角",
+      "basis": "实际调查与交流"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "联络、实验或回述行动"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "联络、实验或回述行动"
+    },
+    {
+      "name": "黄而",
+      "card_id": "weisili_huang_er",
+      "role": "重要配角",
+      "basis": "联络、实验或回述行动"
+    },
+    {
+      "name": "水",
+      "card_id": "weisili_water_life",
+      "role": "重要配角",
+      "basis": "联络、实验或回述行动"
+    },
+    {
+      "name": "文依来",
+      "card_id": "weisili_wen_yilai",
+      "role": "重要配角",
+      "basis": "联络、实验或回述行动"
+    },
+    {
+      "name": "文依来兄弟中的另一位",
+      "card_id": "weisili_wen_yilai_brother",
+      "role": "重要配角",
+      "basis": "联络、实验或回述行动"
+    },
+    {
+      "name": "范总管",
+      "card_id": "weisili_fan_zongguan",
+      "role": "重要配角",
+      "basis": "研究负责人"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "其他六位当期非人会员",
+      "reason": "未明确身份，不按七人数目自动套入早期会员名单；共同会议不据此虚构个人能力。"
+    },
+    {
+      "name": "文依来兄弟之母",
+      "reason": "救母旧事承接既有角色，后期证据并入负责电王人物的主卡。"
+    },
+    {
+      "name": "原有多名匿名应征者",
+      "reason": "无独立人物线，不将水的干预算作他们的个人能力。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_be7d2df0642808a5",
+      "statement": "两兄弟重新参与事件",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_jingde",
+        "yuanzhenxia_chen_yixing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1ea22c20a449e308",
+      "statement": "受讯号影响与水中引导",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_jingde",
+        "yuanzhenxia_chen_yixing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cd154db76a342e5f",
+      "statement": "联系可被阻断和伪装",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_jingde",
+        "yuanzhenxia_chen_yixing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ffb4721ae0737a32",
+      "statement": "为柳絮而关注",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db91b370c1b9beee",
+      "statement": "不能保证阻止",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5145260633c6be09",
+      "statement": "安慰与判断",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_xu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_40735182de459a53",
+      "statement": "尝试重建联络",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_jingde",
+        "yuanzhenxia_chen_yixing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2532b0752d0a4822",
+      "statement": "观察不等于读心",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_xu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_67f9864b34b92290",
+      "statement": "飞行器与负责人",
+      "annotation_character_ids": [
+        "weisili_fan_zongguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_30da9af1f5b577b7",
+      "statement": "水遁和意识作用",
+      "annotation_character_ids": [
+        "weisili_huang_er"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_374f890b0cb5a343",
+      "statement": "感知和干预解释",
+      "annotation_character_ids": [
+        "weisili_water_life"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e0ab4720457af797",
+      "statement": "无水机器的界限",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_027ba0458ecc50a0",
+      "statement": "冲突与解释",
+      "annotation_character_ids": [
+        "weisili_fan_zongguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f2533a6fcea3ac1e",
+      "statement": "确认电王兄弟与返地",
+      "annotation_character_ids": [
+        "weisili_wen_yilai",
+        "weisili_wen_yilai_brother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_12baa96b9f2eb479",
+      "statement": "理想、邀请与研究边界",
+      "annotation_character_ids": [
+        "weisili_fan_zongguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e0f775648477cd6",
+      "statement": "双子完成探索返地、母弥留获配额救助，准备赴父星及转移方法局限。",
+      "annotation_character_ids": [
+        "adventure_lunlun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8be0bcc05ef7e8e8",
+      "statement": "救母、转自身配额和方法边界",
+      "annotation_character_ids": [
+        "weisili_wen_yilai",
+        "weisili_wen_yilai_brother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fc9200748db64b33",
+      "statement": "求救母亲",
+      "annotation_character_ids": [
+        "weisili_huang_er"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d240561850ef958",
+      "statement": "意见、委员会与会员身份",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e1686d46546a4fdc",
+      "statement": "未成研究与水路",
+      "annotation_character_ids": [
+        "weisili_water_life"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5a48f9d39b7af55f",
+      "statement": "对水的脑控制仅保留部分意志",
+      "annotation_character_ids": [
+        "weisili_wei_sili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7f4bfde405a222f5",
+      "statement": "水同时承认卫与白保留部分意志",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

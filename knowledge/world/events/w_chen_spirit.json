@@ -1,0 +1,28 @@
+{
+  "id": "w_chen_spirit",
+  "title": "陈长青以灵魂求解脱",
+  "kind": "event",
+  "summary": "陈长青失去肉身仍有清醒欲求，拒绝以轮回或阴间安住作为终点，未找到大解脱。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《解脱》会面；肉身死亡不是本场才发生。",
+    "narrative_layer": "present"
+  },
+  "state_before": "友人不清楚其离去后的处境。",
+  "state_after": "确认灵魂仍在，痛苦和求索继续。",
+  "knowledge_boundary": "他可以提出愿望而不能施展“彻底解脱”能力；朋友无法保证解决。",
+  "character_ids": [
+    "weisili_chen_changqing",
+    "weisili_wen_baoyu"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_65f0c0ecdf5792cb",
+    "evidence_87d5af21ab4b92fd"
+  ],
+  "book_ids": [
+    "book_daabf1bd27ce"
+  ]
+}

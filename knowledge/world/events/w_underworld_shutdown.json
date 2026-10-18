@@ -1,0 +1,28 @@
+{
+  "id": "w_underworld_shutdown",
+  "title": "思想仪停摆与齐白团聚",
+  "kind": "event",
+  "summary": "关键部件误会解开；所见阴间仪器停止运行，灵魂光点消失，齐白和李宣宣团聚后主动断讯。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《只限老友》末段；停机已在他们进入前发生，具体日期不明。",
+    "narrative_layer": "present"
+  },
+  "state_before": "齐白仍追寻李宣宣与借灵魂线索。",
+  "state_after": "阴间不能按早期状态调用；团聚者停止分享所见。",
+  "knowledge_boundary": "停机原因、管理者及灵魂去向均有未知；观察者的分析不是全知事实。",
+  "character_ids": [
+    "weisili_qi_bai",
+    "weisili_wei_sili",
+    "weisili_bai_su"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_ef90928d6d37540b"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da"
+  ]
+}

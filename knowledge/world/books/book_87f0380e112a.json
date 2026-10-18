@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "id": "book_87f0380e112a",
+  "title": "丛林之神",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/020丛林之神.txt",
+  "file": "books/book_87f0380e112a.json",
+  "inherited_fact_count": 13,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "51d7b84e50cb29c2d9ab2589ceb6ac6d78626d969197093d5907f018278da78d",
+  "source_lines": 1642,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "跨书重要配角",
+      "basis": "被预警救出航班，制服歇夫并参与沉柱。"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "跨书重要配角",
+      "basis": "接霍家委托并调查。"
+    },
+    {
+      "name": "霍景伟",
+      "card_id": "weisili_huo_jingwei",
+      "role": "单书主角",
+      "basis": "预知来源与悲剧核心。"
+    },
+    {
+      "name": "歇夫",
+      "card_id": "weisili_xiefu",
+      "role": "反派",
+      "basis": "杀害史都华并威胁人质。"
+    },
+    {
+      "name": "史都华",
+      "card_id": "weisili_shiduhua",
+      "role": "单书主线人物",
+      "basis": "试验预知并成为凶案关键人物。"
+    },
+    {
+      "name": "勒根",
+      "card_id": "weisili_legen",
+      "role": "单书主线人物",
+      "basis": "参与研究、见证凶案并推动隔绝圆柱。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "霍惠盛、殷伯、律师",
+      "reason": "分别为委托发起、屋宅管理及遗产转移的单次辅助人物。"
+    },
+    {
+      "name": "丛林巫师及向导",
+      "reason": "由霍回忆交代圆柱来源与条件，未构成独立主角或身份明确的反派线。"
+    },
+    {
+      "name": "总工程师、实验室主任及各地专家",
+      "reason": "集体检验圆柱材质的单次技术辅助，未见跨书身份链。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_2c8cf4cc7cc077e4",
+      "statement": "警告白素航班失事",
+      "annotation_character_ids": [
+        "weisili_huo_jingwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f090d9fada03b10e",
+      "statement": "小事可改变、欲摆脱预知",
+      "annotation_character_ids": [
+        "weisili_huo_jingwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ce7a5360fa6ab563",
+      "statement": "巫师、接触圆柱与偷运",
+      "annotation_character_ids": [
+        "weisili_huo_jingwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_59e21bac0f35f923",
+      "statement": "七十二小时限度与手术死亡",
+      "annotation_character_ids": [
+        "weisili_huo_jingwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_896f47578ccdda77",
+      "statement": "身份与同行",
+      "annotation_character_ids": [
+        "weisili_shiduhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9fce2c98dd857aa7",
+      "statement": "研究领域及预感讨论",
+      "annotation_character_ids": [
+        "weisili_xiefu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_50d7fa0ce21af87e",
+      "statement": "阻止失礼及支持假说",
+      "annotation_character_ids": [
+        "weisili_shiduhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63253b089755da94",
+      "statement": "脑科专业与承认未知",
+      "annotation_character_ids": [
+        "weisili_legen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e3aaddca8285409",
+      "statement": "接触、先攻击与死亡",
+      "annotation_character_ids": [
+        "weisili_shiduhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3a0c7939b03061db",
+      "statement": "杀人、劫持失败与扑柱",
+      "annotation_character_ids": [
+        "weisili_xiefu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_41db3fbb63dc1036",
+      "statement": "质问、劝阻与试图救阻",
+      "annotation_character_ids": [
+        "weisili_legen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9ac0f7570d5d0d47",
+      "statement": "预知刑罚并最终处死",
+      "annotation_character_ids": [
+        "weisili_xiefu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0016b80f74b00813",
+      "statement": "作证、探视与离开",
+      "annotation_character_ids": [
+        "weisili_legen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

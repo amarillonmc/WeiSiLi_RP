@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "id": "book_947d367a6cc7",
+  "title": "蛇神",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/06蛇神.txt",
+  "file": "books/book_947d367a6cc7.json",
+  "inherited_fact_count": 6,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "09a3ab2ff1e1361f2693d3a97ae6d9fea563fb9de31b7343e00654d2d0d629d1",
+  "source_lines": 1452,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "安歌人",
+      "card_id": "adventure_angeren",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "高达",
+      "card_id": "adventure_gaoda",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "蜂后",
+      "card_id": "adventure_fenghou",
+      "role": "反派",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "水晶妙人儿",
+      "card_id": "adventure_shuijing",
+      "role": "阶段性对立者",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "勒曼医院",
+      "card_id": "weisili_leman_hospital",
+      "role": "阶段性对立者",
+      "basis": "非常物品交易会背后机构，身份在续书揭示"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "蛇形外星人",
+      "reason": "仅遗留文件说明且早已离去，未证主动对抗"
+    },
+    {
+      "name": "组织无名雇员",
+      "reason": "个体未获独立身份"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_1dc6204913b6579e",
+      "statement": "同名双人及组织身份",
+      "annotation_character_ids": [
+        "adventure_shuijing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45ba39e195d0477a",
+      "statement": "同步感受",
+      "annotation_character_ids": [
+        "adventure_shuijing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a4e9f278b861744",
+      "statement": "组织信条、委托与保密",
+      "annotation_character_ids": [
+        "adventure_fenghou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d94b011415885b8b",
+      "statement": "委托、反驳与保密",
+      "annotation_character_ids": [
+        "adventure_shuijing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d0ac344c16f57ec6",
+      "statement": "水下行动与情报代价",
+      "annotation_character_ids": [
+        "adventure_angeren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_da18f198eb38a548",
+      "statement": "计划失败",
+      "annotation_character_ids": [
+        "adventure_fenghou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

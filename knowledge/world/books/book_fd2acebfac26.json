@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "id": "book_fd2acebfac26",
+  "title": "怪人奇骗",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/08怪人奇骗.txt",
+  "file": "books/book_fd2acebfac26.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "01c279b846049d0c90303c654f86365840dffba568e2e17a9b3afc4938b7d7e4",
+  "source_lines": 644,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "张炳",
+      "card_id": "gaosi_zhang_bing",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "王阿毛（怪人奇骗）",
+      "card_id": "gaosi_wang_amao",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_9669f847ab53f234",
+      "statement": "不愿出售姿态与抬价",
+      "annotation_character_ids": [
+        "gaosi_wang_amao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e388052477a6b902",
+      "statement": "装缺钱、分成许诺与幻想",
+      "annotation_character_ids": [
+        "gaosi_zhang_bing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1fbf5ff9beb842c1",
+      "statement": "交易、被捕与真实搭档关系",
+      "annotation_character_ids": [
+        "gaosi_wang_amao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ae87d53a8f07b17",
+      "statement": "本名曝光及骗局解释",
+      "annotation_character_ids": [
+        "gaosi_zhang_bing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

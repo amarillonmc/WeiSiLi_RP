@@ -1,0 +1,158 @@
+{
+  "schema_version": "1.0",
+  "id": "book_ab36d2b6adeb",
+  "title": "买命",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/119买命.txt",
+  "file": "books/book_ab36d2b6adeb.json",
+  "inherited_fact_count": 3,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "b8130b72d83c448ca2e73be58bfe12fad966ebc4b44a6de1f77606903b505314",
+  "source_lines": 2675,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "大亨",
+      "card_id": "weisili_da_heng",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "朱槿",
+      "card_id": "weisili_zhu_jin",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "亮声",
+      "card_id": "weisili_liang_sheng",
+      "role": "重要配角",
+      "basis": "实际参与配额调查"
+    },
+    {
+      "name": "康维",
+      "card_id": "yuanzhenxia_kangwei",
+      "role": "跨系列主角",
+      "basis": "调查或委托"
+    },
+    {
+      "name": "柳絮",
+      "card_id": "yuanzhenxia_liu_xu",
+      "role": "跨系列主角",
+      "basis": "调查或委托"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "跨系列主角",
+      "basis": "调查或委托"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "具体交流"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "具体交流"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "具体交流"
+    },
+    {
+      "name": "宋天然（宋自然）",
+      "card_id": "weisili_song_tianran",
+      "role": "重要配角",
+      "basis": "具体交流"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "各地收信三人小组",
+      "reason": "未个体化的受雇执行人；没有证据证明掌握核心技术或主动施害。"
+    },
+    {
+      "name": "匿名买家及代表",
+      "reason": "推动市场需求的背景群体，具名大亨、陶启泉及后续陈氏兄弟已合并主卡。"
+    },
+    {
+      "name": "应征者",
+      "reason": "大规模被研究者，不将贫困或自愿出让配额者自动归类为反派。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_6044f075415d16fc",
+      "statement": "后书明确回述记忆被清除",
+      "annotation_character_ids": [
+        "weisili_huang_chan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a10555f169b7d20e",
+      "statement": "同一身份及清除记忆回述",
+      "annotation_character_ids": [
+        "weisili_song_tianran"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_701a34ea4abc4641",
+      "statement": "后续与温实际登场",
+      "annotation_character_ids": [
+        "weisili_song_tianran"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

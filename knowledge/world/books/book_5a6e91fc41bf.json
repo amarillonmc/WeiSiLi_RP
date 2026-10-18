@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0",
+  "id": "book_5a6e91fc41bf",
+  "title": "迷藏",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/048迷藏.txt",
+  "file": "books/book_5a6e91fc41bf.json",
+  "inherited_fact_count": 16,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "aac97f2b37dbce1bff76008fb5c02e79072fa9b59c7f403cb34044c946faf34a",
+  "source_lines": 3358,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "高彩虹",
+      "card_id": "weisili_gao_caihong",
+      "role": "跨书主角",
+      "basis": "古堡与时间旅行核心"
+    },
+    {
+      "name": "王居风",
+      "card_id": "weisili_wang_jufeng",
+      "role": "跨书主角",
+      "basis": "古堡与时间旅行核心"
+    },
+    {
+      "name": "古昂",
+      "card_id": "weisili_guang_castle",
+      "role": "单书核心人物",
+      "basis": "古堡与时间旅行核心"
+    },
+    {
+      "name": "康司",
+      "card_id": "weisili_kangsi",
+      "role": "单书主要调查者",
+      "basis": "古堡与时间旅行核心"
+    },
+    {
+      "name": "保能大公",
+      "card_id": "weisili_baoneng_duke",
+      "role": "反派",
+      "basis": "古堡与时间旅行核心"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "费逊",
+      "reason": "一次传递录音并获安置的协助者，未证实跨书。"
+    },
+    {
+      "name": "亚里逊",
+      "reason": "地方警员，单次转交线索。"
+    },
+    {
+      "name": "奇勒储君",
+      "reason": "失踪前史，无独立行动线。"
+    },
+    {
+      "name": "史塔温斯基",
+      "reason": "时间旅行叙述中的短暂历史客串，非主角或反派。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_2369002013f44ebd",
+      "statement": "表妹与早期笔友",
+      "annotation_character_ids": [
+        "weisili_gao_caihong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_42269aba6863ec87",
+      "statement": "学术自信",
+      "annotation_character_ids": [
+        "weisili_wang_jufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_081b756d84e57a6a",
+      "statement": "工作与亲人",
+      "annotation_character_ids": [
+        "weisili_guang_castle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_770871b7d61f008b",
+      "statement": "冒险性格",
+      "annotation_character_ids": [
+        "weisili_gao_caihong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1dcaaef64ce932df",
+      "statement": "莫拉经历",
+      "annotation_character_ids": [
+        "weisili_wang_jufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04d0d95c012bc505",
+      "statement": "恐惧和解释",
+      "annotation_character_ids": [
+        "weisili_guang_castle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b0924d7509dec0d8",
+      "statement": "莫拉遭下令绞刑",
+      "annotation_character_ids": [
+        "weisili_baoneng_duke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ef84e6f55f66d8f9",
+      "statement": "被激将",
+      "annotation_character_ids": [
+        "weisili_guang_castle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_330fcf8063fa4546",
+      "statement": "死亡及责任区别",
+      "annotation_character_ids": [
+        "weisili_guang_castle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b3b7bc7a5fd4de00",
+      "statement": "调查与区分",
+      "annotation_character_ids": [
+        "weisili_kangsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7d8d350b86c7f2a",
+      "statement": "经历与能力边界",
+      "annotation_character_ids": [
+        "weisili_gao_caihong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2a5495bfef4ca65b",
+      "statement": "追随救援",
+      "annotation_character_ids": [
+        "weisili_wang_jufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_490071e9f30ef8b2",
+      "statement": "打火机、储君失踪与杀人",
+      "annotation_character_ids": [
+        "weisili_baoneng_duke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db6ec5ef1a1cdf7b",
+      "statement": "质疑后修正",
+      "annotation_character_ids": [
+        "weisili_kangsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b21570a3e1b8a3d",
+      "statement": "多生旅行与分歧",
+      "annotation_character_ids": [
+        "weisili_wang_jufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a3586ca9946b8b2e",
+      "statement": "结局安排",
+      "annotation_character_ids": [
+        "weisili_kangsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "before__w_childhood__w_underworld_reveal",
+  "source": "w_childhood",
+  "target": "w_underworld_reveal",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "少年经历在先，成年《将来》才识明声音及组织关系。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "少年经历在先，成年《将来》才识明声音及组织关系。",
+  "evidence_ids": [
+    "evidence_55145d37457acfee",
+    "evidence_5aac8f8ec213639b",
+    "evidence_7ffd3ff3793510d2"
+  ],
+  "book_ids": [
+    "book_7eed28bd703f",
+    "book_ede3a34d0069"
+  ]
+}

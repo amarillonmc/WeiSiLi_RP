@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0",
+  "id": "book_7edbe27121e1",
+  "title": "主宰",
+  "aliases": [],
+  "series": "非人协会系列",
+  "source_path": "非人协会系列/07主宰.txt",
+  "file": "books/book_7edbe27121e1.json",
+  "inherited_fact_count": 7,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "d8890669ac925d6702046ac32103abfa3686d35e319426d325ddc8f5e542857e",
+  "source_lines": 296,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "史保",
+      "card_id": "adventure_shibao",
+      "role": "主角",
+      "basis": "植物世界探查者"
+    },
+    {
+      "name": "亚马逊古树",
+      "card_id": "adventure_gushu",
+      "role": "主角/阶段性对立者",
+      "basis": "有独立召唤行为的中心生命"
+    },
+    {
+      "name": "范先生",
+      "card_id": "adventure_fan",
+      "role": "重要配角",
+      "basis": "讨论古树资格"
+    },
+    {
+      "name": "阿尼密",
+      "card_id": "adventure_animi",
+      "role": "重要配角",
+      "basis": "制止争论要求补全经历"
+    },
+    {
+      "name": "端纳",
+      "card_id": "adventure_duanna",
+      "role": "重要配角",
+      "basis": "提出延期和进一步研究"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "拉维兹、赖图",
+      "reason": "单书官僚/研究协助者，不合主角或反派条件"
+    },
+    {
+      "name": "聊斋与子不语所引人物",
+      "reason": "嵌入文学引例，不作为本系列独立行动角色"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_9b84cd71c23a8a6f",
+      "statement": "性格与玫瑰事件",
+      "annotation_character_ids": [
+        "adventure_shibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca4cbbf6bcbfd712",
+      "statement": "感知及植物生存知识",
+      "annotation_character_ids": [
+        "adventure_shibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f7aa7909cc249c11",
+      "statement": "童年与观察",
+      "annotation_character_ids": [
+        "adventure_shibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8fdd8e517295aaad",
+      "statement": "植物搬运机制推断与路径",
+      "annotation_character_ids": [
+        "adventure_gushu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cfe16ad469d4ad17",
+      "statement": "体型、召唤解释和未通语言",
+      "annotation_character_ids": [
+        "adventure_gushu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_05409bc1491e4787",
+      "statement": "研究未完成",
+      "annotation_character_ids": [
+        "adventure_gushu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9ae8cf7024adc6a7",
+      "statement": "只掌握初步规律和后续计划",
+      "annotation_character_ids": [
+        "adventure_shibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "id": "book_119053ededd4",
+  "title": "魔鬼的舞蹈",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/15魔鬼的舞蹈.txt",
+  "file": "books/book_119053ededd4.json",
+  "inherited_fact_count": 10,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "3bc34ffc4eacad6577d85b725a21c7ec3b59903e43e4efdf03e42bee1d19df1b",
+  "source_lines": 662,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "王阿巧",
+      "card_id": "gaosi_wang_aqiao",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "西班牙踢跶舞毒贩首领",
+      "card_id": "gaosi_spanish_dancer",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "魔鬼的舞蹈案贩毒行动人员",
+      "card_id": "gaosi_tapdance_enforcers",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "夜总会经理与其他舞者",
+      "reason": "经理的营业抗议不是犯罪证据；其他舞者的否认也未被证实为共谋，均为一次性配角。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_f1d31451ff656073",
+      "statement": "悬楼求救和死亡",
+      "annotation_character_ids": [
+        "gaosi_wang_aqiao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_edd116cdb0841cf7",
+      "statement": "致死坠物",
+      "annotation_character_ids": [
+        "gaosi_tapdance_enforcers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3dbb3a9c39d1def8",
+      "statement": "撤离与警方灭口推理",
+      "annotation_character_ids": [
+        "gaosi_tapdance_enforcers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_194134e07b1f55ad",
+      "statement": "身份及警方推测",
+      "annotation_character_ids": [
+        "gaosi_wang_aqiao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1784954519ef567a",
+      "statement": "抢袋与藏匿",
+      "annotation_character_ids": [
+        "gaosi_tapdance_enforcers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16ea4e5eab223045",
+      "statement": "舞者所在场景",
+      "annotation_character_ids": [
+        "gaosi_spanish_dancer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_69df257933195c84",
+      "statement": "枪击",
+      "annotation_character_ids": [
+        "gaosi_tapdance_enforcers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fe3249e8871944dd",
+      "statement": "调查范围与掩护",
+      "annotation_character_ids": [
+        "gaosi_spanish_dancer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72a2cd42d2110478",
+      "statement": "指认、逃跑、证据与身份",
+      "annotation_character_ids": [
+        "gaosi_spanish_dancer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8ac8682453cc04e5",
+      "statement": "遗言意义",
+      "annotation_character_ids": [
+        "gaosi_wang_aqiao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

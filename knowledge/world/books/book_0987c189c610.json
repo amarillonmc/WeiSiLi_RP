@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0",
+  "id": "book_0987c189c610",
+  "title": "生死碧玉",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/52生死碧玉.txt",
+  "file": "books/book_0987c189c610.json",
+  "inherited_fact_count": 29,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "c0ac26bcec0deffa9338cf4a9fdd490f70c8dc1ed553f185e7cba799811af141",
+  "source_lines": 2466,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "叶安",
+      "card_id": "mulanhua_ye_an",
+      "role": "反派",
+      "basis": "全案策划、假死和灭口。"
+    },
+    {
+      "name": "叶全",
+      "card_id": "mulanhua_ye_quan",
+      "role": "反派",
+      "basis": "化装盗宝与前期谋杀。"
+    },
+    {
+      "name": "叶山",
+      "card_id": "mulanhua_ye_shan",
+      "role": "反派",
+      "basis": "投毒主人、隐瞒同谋。"
+    },
+    {
+      "name": "杜三",
+      "card_id": "mulanhua_du_san",
+      "role": "反派",
+      "basis": "假证人及杀人同谋。"
+    },
+    {
+      "name": "杜大姑",
+      "card_id": "mulanhua_du_dagu",
+      "role": "阶段性对立者",
+      "basis": "协助假家庭骗局后供述。"
+    },
+    {
+      "name": "玉商",
+      "card_id": "mulanhua_yu_shang",
+      "role": "单书主角",
+      "basis": "财产、遗嘱与死亡构成全案核心。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "系列主角",
+      "basis": "被冒充、调查和逮捕。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "随木兰花推理辨认。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "察觉空盒和终局参观。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "跨书重要配角",
+      "basis": "调查责任及参与终局盘问。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "秦联发",
+      "reason": "单书律师，执行遗嘱与协助查证，无独立主角或反派线。"
+    },
+    {
+      "name": "林阿彩、陈阿根、朱文勤及妻儿、金吉等遇害者",
+      "reason": "作为被灭口的身份线索与继承关系出现，无独立行动主线；朱旧年盗卖古董只作背景。"
+    },
+    {
+      "name": "李昭华",
+      "reason": "骗子房间内图章给出的假身份线索，未证独立人物。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_14758db948bb3020",
+      "statement": "脾气、毁碗与展示玉船。",
+      "annotation_character_ids": [
+        "mulanhua_yu_shang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6f2838dab3418d81",
+      "statement": "杜亭的假身份与引开高翔。",
+      "annotation_character_ids": [
+        "mulanhua_du_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9312dcdff45472dd",
+      "statement": "假高翔窃取玉船的调查。",
+      "annotation_character_ids": [
+        "mulanhua_ye_quan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72ed9715a5cd6de7",
+      "statement": "身份和日常关系。",
+      "annotation_character_ids": [
+        "mulanhua_yu_shang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f49a4156e3713f56",
+      "statement": "失明、宅内经验与隐瞒。",
+      "annotation_character_ids": [
+        "mulanhua_ye_shan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b450cc002a29bab",
+      "statement": "遗嘱具体安排。",
+      "annotation_character_ids": [
+        "mulanhua_yu_shang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c98aeec60d4a338d",
+      "statement": "遗嘱和继承。",
+      "annotation_character_ids": [
+        "mulanhua_ye_shan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5193422dea024717",
+      "statement": "真实经营规模与继承关系。",
+      "annotation_character_ids": [
+        "mulanhua_ye_an"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fdf653794da98b6a",
+      "statement": "死亡。",
+      "annotation_character_ids": [
+        "mulanhua_ye_shan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d310965f2f415426",
+      "statement": "跨国通话线索。",
+      "annotation_character_ids": [
+        "mulanhua_ye_an"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_da78aa150a47aec0",
+      "statement": "联络及化装能力线索。",
+      "annotation_character_ids": [
+        "mulanhua_ye_quan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1291a382825477e5",
+      "statement": "杜亭等于杜三。",
+      "annotation_character_ids": [
+        "mulanhua_du_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_38651c8ca8811669",
+      "statement": "日常劳动、亲情冲突与拒赴岛。",
+      "annotation_character_ids": [
+        "mulanhua_du_dagu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f36a5af4543a17c3",
+      "statement": "姐弟经历与大富岛线索。",
+      "annotation_character_ids": [
+        "mulanhua_du_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c5225e94c4c348c",
+      "statement": "死亡。",
+      "annotation_character_ids": [
+        "mulanhua_du_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_287026bf7b7b45fe",
+      "statement": "承认说谎及提供证言。",
+      "annotation_character_ids": [
+        "mulanhua_du_dagu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4b5fd8e463641434",
+      "statement": "金戒指交易及抢回。",
+      "annotation_character_ids": [
+        "mulanhua_du_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_800f7730979a6f0e",
+      "statement": "相貌和分工。",
+      "annotation_character_ids": [
+        "mulanhua_ye_quan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f80361ae550c14ee",
+      "statement": "双胞胎和分阶段行动。",
+      "annotation_character_ids": [
+        "mulanhua_ye_an"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_05992301d77b84ac",
+      "statement": "合谋、投毒与被杀的最终解释。",
+      "annotation_character_ids": [
+        "mulanhua_ye_shan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fd17c6715cd721ad",
+      "statement": "同谋执行。",
+      "annotation_character_ids": [
+        "mulanhua_du_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9afd7cbb05c03bde",
+      "statement": "助手选择、谋杀与被兄长毒杀，后经供述证实整体经过。",
+      "annotation_character_ids": [
+        "mulanhua_ye_quan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77ca6a91ee6ef5e7",
+      "statement": "下毒解释。",
+      "annotation_character_ids": [
+        "mulanhua_yu_shang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45c7103afd38edba",
+      "statement": "杀亲、假死与继续灭口。",
+      "annotation_character_ids": [
+        "mulanhua_ye_an"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b40a3d6e28040cf2",
+      "statement": "破绽、伪装揭露、供述与判刑。",
+      "annotation_character_ids": [
+        "mulanhua_ye_an"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_be3040c22ab5d152",
+      "statement": "戒指事实击破管理员谎言。",
+      "annotation_character_ids": [
+        "mulanhua_du_dagu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2fef69633f8ec86b",
+      "statement": "供述和玉船终局。",
+      "annotation_character_ids": [
+        "mulanhua_yu_shang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8c9feafc967c442a",
+      "statement": "供述印证。",
+      "annotation_character_ids": [
+        "mulanhua_ye_shan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e285920a1b6c398c",
+      "statement": "供述印证与全案终局。",
+      "annotation_character_ids": [
+        "mulanhua_ye_quan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

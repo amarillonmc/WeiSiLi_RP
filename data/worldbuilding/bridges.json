@@ -1,0 +1,649 @@
+[
+  {
+    "id": "bridge_leman",
+    "title": "勒曼医院连接卫斯理、罗开与高达",
+    "kind": "bridge",
+    "series": [
+      "卫斯理系列",
+      "亚洲之鹰罗开系列",
+      "浪子高达系列"
+    ],
+    "connection_level": "explicit_crossover",
+    "claim": "《蜂后》直接回指《后备》；高达原本和复制体同场但身份必须分开。",
+    "evidence": [
+      {
+        "path": "亚洲之鹰罗开系列/07蜂后.txt",
+        "start_line": 1133,
+        "end_line": 1162,
+        "supports": "医院与高达复制体的明确联系",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bridge_princess",
+    "title": "黑暗天使连接原振侠与年轻人",
+    "kind": "bridge",
+    "series": [
+      "原振侠系列",
+      "年轻人"
+    ],
+    "connection_level": "explicit_crossover",
+    "claim": "奥丽卡使用黑纱留下的身体，是跨系列持续生效的身体变更。",
+    "evidence": [
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 5179,
+        "end_line": 5237,
+        "supports": "黑纱牺牲，奥丽卡获得身体",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 6115,
+        "end_line": 6129,
+        "supports": "黑纱·奥丽卡自称",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/09夜归.txt",
+        "start_line": 174,
+        "end_line": 174,
+        "supports": "飞行来源",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/09夜归.txt",
+        "start_line": 1379,
+        "end_line": 1389,
+        "supports": "花时间解读记录",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bridge_mulanhua",
+    "title": "木兰花一方进入白家调查网",
+    "kind": "bridge",
+    "series": [
+      "木兰花全集",
+      "卫斯理系列"
+    ],
+    "connection_level": "explicit_crossover",
+    "claim": "木兰花提供证词联系；穆秀珍、云四风以各自专长参与后续事件。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/087继续探险.txt",
+        "start_line": 2524,
+        "end_line": 2529,
+        "supports": "核验幼童证词",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "卫斯理系列/087继续探险.txt",
+        "start_line": 2907,
+        "end_line": 2919,
+        "supports": "提出外婆假说",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "卫斯理系列/087继续探险.txt",
+        "start_line": 3030,
+        "end_line": 3033,
+        "supports": "联系证词告白素",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_mu_lanhua"
+        }
+      },
+      {
+        "path": "卫斯理系列/100开心.txt",
+        "start_line": 1776,
+        "end_line": 1788,
+        "supports": "实际来访",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      },
+      {
+        "path": "卫斯理系列/100开心.txt",
+        "start_line": 1871,
+        "end_line": 1951,
+        "supports": "伦三德图样与人才态度",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "mulanhua_yun_sifeng"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bridge_hu",
+    "title": "胡怀玉与研究所跨书同一性",
+    "kind": "bridge",
+    "series": [
+      "卫斯理系列",
+      "原振侠系列"
+    ],
+    "connection_level": "explicit_crossover",
+    "claim": "《黑白无常》明确称研究所与主持人曾见于《犀照》。",
+    "evidence": [
+      {
+        "path": "原振侠系列/25.黑白无常.txt",
+        "start_line": 1,
+        "end_line": 145,
+        "supports": "海洋生物学者与调查开端",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hu_huaiyu"
+        }
+      },
+      {
+        "path": "原振侠系列/25.黑白无常.txt",
+        "start_line": 2639,
+        "end_line": 2775,
+        "supports": "装置真相与研究边界",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hu_huaiyu"
+        }
+      },
+      {
+        "path": "原振侠系列/25.黑白无常.txt",
+        "start_line": 85,
+        "end_line": 107,
+        "supports": "明确跨书指认",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hu_huaiyu"
+        }
+      },
+      {
+        "path": "原振侠系列/25.黑白无常.txt",
+        "start_line": 291,
+        "end_line": 295,
+        "supports": "后期仍有对自身感知的疑虑",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hu_huaiyu"
+        }
+      },
+      {
+        "path": "原振侠系列/25.黑白无常.txt",
+        "start_line": 2255,
+        "end_line": 2257,
+        "supports": "合格潜水及实际出海",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_hu_huaiyu"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bridge_jinte",
+    "title": "金特由卫斯理介绍给原振侠",
+    "kind": "bridge",
+    "series": [
+      "卫斯理系列",
+      "原振侠系列"
+    ],
+    "connection_level": "explicit_crossover",
+    "claim": "《快活秘方》明确卫斯理旧识与既有经历，后期灵媒状态属于同一人物。",
+    "evidence": [
+      {
+        "path": "原振侠系列/21.快活秘方.txt",
+        "start_line": 152,
+        "end_line": 156,
+        "supports": "身份",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_jinte"
+        }
+      },
+      {
+        "path": "原振侠系列/21.快活秘方.txt",
+        "start_line": 420,
+        "end_line": 424,
+        "supports": "追求",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_jinte"
+        }
+      },
+      {
+        "path": "原振侠系列/21.快活秘方.txt",
+        "start_line": 4298,
+        "end_line": 4485,
+        "supports": "通灵石柱",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_jinte"
+        }
+      },
+      {
+        "path": "原振侠系列/21.快活秘方.txt",
+        "start_line": 8105,
+        "end_line": 8241,
+        "supports": "终局",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_jinte"
+        }
+      },
+      {
+        "path": "原振侠系列/21.快活秘方.txt",
+        "start_line": 143,
+        "end_line": 201,
+        "supports": "卫斯理旧识、既有经历与灵媒能力",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_jinte"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bridge_kangwei",
+    "title": "康维与柳絮连接星际及配额调查",
+    "kind": "bridge",
+    "series": [
+      "原振侠系列",
+      "卫斯理系列"
+    ],
+    "connection_level": "explicit_crossover",
+    "claim": "机械生命康维在卫斯理案件中继续组织研究，并为柳絮关心寿命；技术仍有边界。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/106在数难逃.txt",
+        "start_line": 2257,
+        "end_line": 2260,
+        "supports": "仪器装设",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/106在数难逃.txt",
+        "start_line": 2310,
+        "end_line": 2335,
+        "supports": "星际研究会议",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/106在数难逃.txt",
+        "start_line": 2727,
+        "end_line": 2744,
+        "supports": "未解条件",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 976,
+        "end_line": 978,
+        "supports": "为柳絮而关注",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 1080,
+        "end_line": 1083,
+        "supports": "不能保证阻止",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 2457,
+        "end_line": 2460,
+        "supports": "无水机器的界限",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_kangwei"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bridge_jinwei",
+    "title": "非人协会的金维与孤峰线",
+    "kind": "bridge",
+    "series": [
+      "非人协会系列",
+      "卫斯理系列"
+    ],
+    "connection_level": "explicit_crossover",
+    "claim": "金维、大鹰旧事进入生死锁和真实幻境；后书重述差异另记。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/070生死锁.txt",
+        "start_line": 1936,
+        "end_line": 1944,
+        "supports": "作为天池老人助手的经历。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/070生死锁.txt",
+        "start_line": 1988,
+        "end_line": 1989,
+        "supports": "当时明确没有掌握任何神通。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/070生死锁.txt",
+        "start_line": 2028,
+        "end_line": 2031,
+        "supports": "与孤峰旧事衔接及未掌握神通。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 447,
+        "end_line": 490,
+        "supports": "重述孤峰经历，与早书结局存在差异。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1279,
+        "end_line": 1327,
+        "supports": "自制哨子、有限交流、不能由小鹰载人与半日山路。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1843,
+        "end_line": 1847,
+        "supports": "黑暗中可看清陈设。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2022,
+        "end_line": 2102,
+        "supports": "静坐与进入幻境的过程。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2156,
+        "end_line": 2234,
+        "supports": "掌心接触共同入境及精神远游推测。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2489,
+        "end_line": 2501,
+        "supports": "持续一月尝试不能再次进入。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bridge_animi",
+    "title": "阿尼密参与原振侠灵魂调查",
+    "kind": "bridge",
+    "series": [
+      "非人协会系列",
+      "原振侠系列"
+    ],
+    "connection_level": "explicit_crossover",
+    "claim": "阿尼密在《人鬼疑云》中讨论个案并与康维合作；仪器显鬼并非阿尼密个人权能。",
+    "evidence": [
+      {
+        "path": "原振侠系列/29.人鬼疑云.txt",
+        "start_line": 2982,
+        "end_line": 2986,
+        "supports": "灵魂与身体个案无固定简单规则",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_animi"
+        }
+      },
+      {
+        "path": "原振侠系列/29.人鬼疑云.txt",
+        "start_line": 3506,
+        "end_line": 3510,
+        "supports": "康维仪器能捕脑电波显鬼，非阿尼密个人权能",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_animi"
+        }
+      },
+      {
+        "path": "原振侠系列/29.人鬼疑云.txt",
+        "start_line": 3852,
+        "end_line": 3856,
+        "supports": "与康维合作联络",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_animi"
+        }
+      },
+      {
+        "path": "原振侠系列/29.人鬼疑云.txt",
+        "start_line": 5616,
+        "end_line": 5620,
+        "supports": "柳絮改善后告辞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_animi"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bridge_shuiyin",
+    "title": "水银将军及黛娜的情报网络",
+    "kind": "bridge",
+    "series": [
+      "亚洲之鹰罗开系列",
+      "卫斯理系列"
+    ],
+    "connection_level": "explicit_crossover",
+    "claim": "《谜踪》中黛娜明确指认其上司水银将军，形成身份桥；不能只凭职业合并其他将军。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/075谜踪.txt",
+        "start_line": 65,
+        "end_line": 91,
+        "supports": "与巴图关系及早期隐瞒",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_shuiyin"
+        }
+      },
+      {
+        "path": "卫斯理系列/075谜踪.txt",
+        "start_line": 2324,
+        "end_line": 2362,
+        "supports": "调查巴图三年",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_shuiyin"
+        }
+      },
+      {
+        "path": "卫斯理系列/075谜踪.txt",
+        "start_line": 2530,
+        "end_line": 2607,
+        "supports": "监测限制与拆解骗局",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_shuiyin"
+        }
+      },
+      {
+        "path": "卫斯理系列/075谜踪.txt",
+        "start_line": 2624,
+        "end_line": 2650,
+        "supports": "利用双胞胎影响卫斯理",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_shuiyin"
+        }
+      },
+      {
+        "path": "卫斯理系列/075谜踪.txt",
+        "start_line": 3417,
+        "end_line": 3426,
+        "supports": "顶层知情名单与巴图判断",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_shuiyin"
+        }
+      },
+      {
+        "path": "卫斯理系列/075谜踪.txt",
+        "start_line": 63,
+        "end_line": 91,
+        "supports": "黛娜明确指认自己的上司水银将军",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_shuiyin"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bridge_baisu",
+    "title": "白素成为非人协会会员",
+    "kind": "bridge",
+    "series": [
+      "卫斯理系列",
+      "非人协会系列"
+    ],
+    "connection_level": "explicit_crossover",
+    "claim": "后期白素入会是组织阶段变化；不把早期六会员名单当恒定设定。",
+    "evidence": [
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 2611,
+        "end_line": 2628,
+        "supports": "入会与研究状态",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bridge_unified_unproven",
+    "title": "高斯与鬼话系列的统一世界归入",
+    "kind": "bridge",
+    "series": [
+      "神探高斯系列",
+      "倪匡之鬼话系列"
+    ],
+    "connection_level": "user_unification_assumption",
+    "claim": "按用户统一世界的前提共存于日常社会与局部异常层；本批未建立两系列与主线角色的直接会面证据。不得写成已证实不存在连接。",
+    "evidence": []
+  }
+]

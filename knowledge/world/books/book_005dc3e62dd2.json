@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "id": "book_005dc3e62dd2",
+  "title": "天敌",
+  "aliases": [],
+  "series": "年轻人",
+  "source_path": "年轻人/08天敌.txt",
+  "file": "books/book_005dc3e62dd2.json",
+  "inherited_fact_count": 5,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "3e8d9f7dc9c45281259003e43881056d191ac9e63c2ed1cde64b458304c7e7e4",
+  "source_lines": 1377,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "年轻人",
+      "card_id": "adventure_young",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "奥丽卡公主",
+      "card_id": "adventure_princess",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "杜妮",
+      "card_id": "adventure_duni",
+      "role": "单书主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "四名黑衣来客",
+      "card_id": "adventure_black_visitors",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "胡非尔",
+      "card_id": "adventure_hufeier",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "考曼",
+      "card_id": "adventure_kaoman",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "重要配角",
+      "basis": "跨系列联络关系使用共享卡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "居比、杜良博士",
+      "reason": "一次性求助人与亲属辅助线，无跨书行动证据。"
+    },
+    {
+      "name": "泰来上将",
+      "reason": "仅在机构背景与履历中提及；不与卫系泰丰未经核对合并。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c3b3daa05ac7d8ad",
+      "statement": "身世、研究与独自采集的目的",
+      "annotation_character_ids": [
+        "adventure_duni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c6250e35977e191b",
+      "statement": "重返现场、合理恐惧与离去的终局",
+      "annotation_character_ids": [
+        "adventure_duni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ae6af1eb0dda6797",
+      "statement": "飞船与武器危机真相",
+      "annotation_character_ids": [
+        "adventure_black_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee4b058e1e03bd5d",
+      "statement": "送回、速度承受与撤弹后果",
+      "annotation_character_ids": [
+        "adventure_black_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7383bcfcff6b3503",
+      "statement": "保密、返航与后果",
+      "annotation_character_ids": [
+        "adventure_hufeier",
+        "adventure_kaoman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

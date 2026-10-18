@@ -1,0 +1,215 @@
+{
+  "schema_version": "1.0",
+  "id": "book_00387402bed3",
+  "title": "夜归",
+  "aliases": [],
+  "series": "年轻人",
+  "source_path": "年轻人/09夜归.txt",
+  "file": "books/book_00387402bed3.json",
+  "inherited_fact_count": 15,
+  "curated_links": {
+    "events": [
+      "n_new_body"
+    ],
+    "relations": [
+      "before__n_empire__y_body_rescue",
+      "before__y_body_rescue__n_new_body",
+      "before__n_new_body__n_myth_return"
+    ],
+    "arcs": [
+      "arc_princess"
+    ],
+    "bridges": [
+      "bridge_princess"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "aa3f67531df05fd0c229d7451a8c828970e6dd681d85ea1d1943282cb3d61b2b",
+  "source_lines": 1406,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "年轻人",
+      "card_id": "adventure_young",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "奥丽卡公主",
+      "card_id": "adventure_princess",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "冯瑞",
+      "card_id": "adventure_feng_rui",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "冯夫人",
+      "card_id": "adventure_feng_furen",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "加加",
+      "card_id": "adventure_jiajia",
+      "role": "单书主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "康明",
+      "card_id": "adventure_kangming",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "病毒",
+      "card_id": "adventure_bingdu",
+      "role": "单书主角",
+      "basis": "完整探墓记录构成本书独立主要叙事"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "女神／女娲形象",
+      "reason": "遗物浮雕与历史解释，没有可独立辨认的当前行动人格；不直接给神话权能。"
+    },
+    {
+      "name": "十七名酋长干尸、无名向导",
+      "reason": "历史遗迹或一次性线索协助者。"
+    },
+    {
+      "name": "齐白",
+      "reason": "回忆提及和评价，没有足以作为本书实际重要登场的直接行动。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7fa8072d634303b9",
+      "statement": "职业、家庭与外形",
+      "annotation_character_ids": [
+        "adventure_feng_rui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6f713a95464b4cd2",
+      "statement": "职业与家庭",
+      "annotation_character_ids": [
+        "adventure_feng_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0d6715507a87af00",
+      "statement": "形貌与接触",
+      "annotation_character_ids": [
+        "adventure_jiajia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_06b4e7904b0954d3",
+      "statement": "电话识别与家族禁区",
+      "annotation_character_ids": [
+        "adventure_feng_rui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d9f1d22ed64c29a0",
+      "statement": "飞行来源",
+      "annotation_character_ids": [
+        "adventure_princess"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b0452a8d9299a344",
+      "statement": "隐私与情绪边界",
+      "annotation_character_ids": [
+        "adventure_feng_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_84cd77367a5d0193",
+      "statement": "请求、女巫自称与恍惚",
+      "annotation_character_ids": [
+        "adventure_jiajia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_707d2b6447fd5aac",
+      "statement": "巫术冲突与恍惚",
+      "annotation_character_ids": [
+        "adventure_feng_rui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cadfc7ac23c52cad",
+      "statement": "麻醉推断",
+      "annotation_character_ids": [
+        "adventure_jiajia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b78625823131befa",
+      "statement": "身份、盗墓原则及记录习惯",
+      "annotation_character_ids": [
+        "adventure_bingdu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b9670c0453f65b86",
+      "statement": "观察隐瞒及病毒线索",
+      "annotation_character_ids": [
+        "adventure_jiajia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a850f7306d761713",
+      "statement": "迷宫求生、机关、金属片发现与未解遗憾",
+      "annotation_character_ids": [
+        "adventure_bingdu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aafc0f13d4f129ef",
+      "statement": "与病毒记录的关系及疑问",
+      "annotation_character_ids": [
+        "adventure_kangming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c34b7314e0a255fc",
+      "statement": "连续搜寻、记录内容和未解问题",
+      "annotation_character_ids": [
+        "adventure_kangming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dc68380d2a26ec34",
+      "statement": "花时间解读记录",
+      "annotation_character_ids": [
+        "adventure_princess"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

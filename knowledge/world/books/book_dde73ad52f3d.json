@@ -1,0 +1,328 @@
+{
+  "schema_version": "1.0",
+  "id": "book_dde73ad52f3d",
+  "title": "夺命红烛",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/12夺命红烛.txt",
+  "file": "books/book_dde73ad52f3d.json",
+  "inherited_fact_count": 29,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "e8c145f3663fa97b3ae8200601c3b9410caa65867032b8d5fd63c57035ffad7c",
+  "source_lines": 2900,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "林胜",
+      "card_id": "mulanhua_lin_sheng",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "丽莎",
+      "card_id": "mulanhua_lisa",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "赵苍",
+      "card_id": "mulanhua_zhao_cang",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "黄永洪",
+      "card_id": "mulanhua_huang_yonghong",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "梦娜",
+      "card_id": "mulanhua_mengna",
+      "role": "主角/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "根曼",
+      "card_id": "mulanhua_genman",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "马超文",
+      "card_id": "mulanhua_ma_chaowen",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "金普森经理、张警官、孙警官、十七号探员、医护与魔术团无名助手",
+      "reason": "一次性协助、受害或执行人员，无独立主线及跨书经历证据。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_5476d48c992c7054",
+      "statement": "舞台身份",
+      "annotation_character_ids": [
+        "mulanhua_lisa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b859ebf3dfe25b5b",
+      "statement": "舞台骗局与先下手逻辑",
+      "annotation_character_ids": [
+        "mulanhua_lin_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b9b3d1f8ee52bab0",
+      "statement": "富家伪装、录音与袖枪",
+      "annotation_character_ids": [
+        "mulanhua_lisa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0b39487200599e42",
+      "statement": "外观与对枪口的判断",
+      "annotation_character_ids": [
+        "mulanhua_zhao_cang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fd6e3da4130be26b",
+      "statement": "杀手名号与雇佣目标",
+      "annotation_character_ids": [
+        "mulanhua_genman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_14ac7fb4a88ae2a1",
+      "statement": "旧案、勒索与计划",
+      "annotation_character_ids": [
+        "mulanhua_zhao_cang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_250e541cfc1a6ca6",
+      "statement": "计划及合谋",
+      "annotation_character_ids": [
+        "mulanhua_lin_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ac84e9d8d90a7a94",
+      "statement": "拔枪、意外及伤势",
+      "annotation_character_ids": [
+        "mulanhua_genman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a63f6fbfb6afebbe",
+      "statement": "停电借烛陷阱",
+      "annotation_character_ids": [
+        "mulanhua_zhao_cang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_51244a70563b0231",
+      "statement": "借警方除同伙",
+      "annotation_character_ids": [
+        "mulanhua_lin_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8bcd39ae1f5529a4",
+      "statement": "配合出卖赵苍",
+      "annotation_character_ids": [
+        "mulanhua_lisa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_90f76612fe791dca",
+      "statement": "拒捕、死亡及遗言",
+      "annotation_character_ids": [
+        "mulanhua_zhao_cang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_84cd0fe4e94c06e5",
+      "statement": "医院焦急",
+      "annotation_character_ids": [
+        "mulanhua_ma_chaowen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4e98d87f760106d8",
+      "statement": "争款被杀",
+      "annotation_character_ids": [
+        "mulanhua_lisa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82c534286a142f34",
+      "statement": "杀丽莎与身份破绽",
+      "annotation_character_ids": [
+        "mulanhua_lin_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_beca27898bca0a0b",
+      "statement": "真实专业、犯罪背景与抬价",
+      "annotation_character_ids": [
+        "mulanhua_huang_yonghong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d02846cfedfb1531",
+      "statement": "机关、梦娜合作与隐藏计划",
+      "annotation_character_ids": [
+        "mulanhua_huang_yonghong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_79d0e7ac7b34439f",
+      "statement": "姐妹关系与另设计划",
+      "annotation_character_ids": [
+        "mulanhua_mengna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_740d232104372586",
+      "statement": "与妹妹另设脱身计划",
+      "annotation_character_ids": [
+        "mulanhua_lisa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_134a36f33ecaa186",
+      "statement": "组合套话方法及药物局限",
+      "annotation_character_ids": [
+        "mulanhua_mengna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d004dc2c5a69551e",
+      "statement": "审问失败、负伤和草率手术",
+      "annotation_character_ids": [
+        "mulanhua_huang_yonghong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ebf165388578f59c",
+      "statement": "套问、打断和武装脱身",
+      "annotation_character_ids": [
+        "mulanhua_mengna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9f4c2aa147afbc57",
+      "statement": "病人掩护偷换毒药",
+      "annotation_character_ids": [
+        "mulanhua_lin_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c833181d69ee151",
+      "statement": "其提供毒药用于杀人",
+      "annotation_character_ids": [
+        "mulanhua_huang_yonghong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e825510404c553ba",
+      "statement": "与高翔旧关系",
+      "annotation_character_ids": [
+        "mulanhua_mengna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_478a58b99442323e",
+      "statement": "缴枪、供述与押解",
+      "annotation_character_ids": [
+        "mulanhua_huang_yonghong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4958bc3cf68e3663",
+      "statement": "交代藏款及被放行",
+      "annotation_character_ids": [
+        "mulanhua_mengna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_819e558ed8aaee54",
+      "statement": "最后被捕与死刑",
+      "annotation_character_ids": [
+        "mulanhua_lin_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_15998e798b15c61e",
+      "statement": "终局无辜确认",
+      "annotation_character_ids": [
+        "mulanhua_mengna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

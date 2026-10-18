@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "id": "book_847963d3484e",
+  "title": "沉船明珠",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/37沉船明珠.txt",
+  "file": "books/book_847963d3484e.json",
+  "inherited_fact_count": 20,
+  "curated_links": {
+    "arcs": [
+      "arc_annie"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "9265610762eb25f0695b36f0a5079ee7e7088a8c5d4006f4abb80abb94c09caa",
+  "source_lines": 2620,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "屈健士十七世",
+      "card_id": "mulanhua_qu_jianshi",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "非克",
+      "card_id": "mulanhua_feike",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "昆格",
+      "card_id": "mulanhua_kunge",
+      "role": "重要配角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "纳尔逊",
+      "card_id": "mulanhua_nelson",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "昆格夫人",
+      "reason": "本书一次性遗孀证人，转交遗言和资料；无跨书独立出场证据。"
+    },
+    {
+      "name": "屈健士接机手下、船员、非克船员与当地警员",
+      "reason": "匿名执行群体，未形成可区别个人主线；责任及遭遇在主要人物卡中记载。"
+    },
+    {
+      "name": "宾臣",
+      "reason": "只存在于非克买资料说辞中的来历，真假未核，不另造人物。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_f6bf55c97a172dd2",
+      "statement": "明确旧队长身份、婚姻和武官职位",
+      "annotation_character_ids": [
+        "mulanhua_kunge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d0f324daa241dc3",
+      "statement": "挟持式接待、身份外貌",
+      "annotation_character_ids": [
+        "mulanhua_qu_jianshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f95c4bf3ea95f56",
+      "statement": "潜水与档案合作",
+      "annotation_character_ids": [
+        "mulanhua_kunge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d672290bbf672c46",
+      "statement": "假鬼机关、道歉与公益说辞",
+      "annotation_character_ids": [
+        "mulanhua_qu_jianshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed4761fd76e8e1a9",
+      "statement": "外貌、跟踪与船只性能",
+      "annotation_character_ids": [
+        "mulanhua_feike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b69c9bb95dc532f",
+      "statement": "警方身份资料",
+      "annotation_character_ids": [
+        "mulanhua_feike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_462ff5990abfa7a6",
+      "statement": "买资料说辞及武装威胁",
+      "annotation_character_ids": [
+        "mulanhua_feike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b4237056dda67ff8",
+      "statement": "遗言和原始资料揭穿假线索",
+      "annotation_character_ids": [
+        "mulanhua_qu_jianshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f58abf15ba7df9c0",
+      "statement": "遇刺、遗言及保存原件",
+      "annotation_character_ids": [
+        "mulanhua_kunge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c318b7ab082e6013",
+      "statement": "同党关系确认",
+      "annotation_character_ids": [
+        "mulanhua_feike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa2ac35db49b44b5",
+      "statement": "债务冲突和炸船",
+      "annotation_character_ids": [
+        "mulanhua_qu_jianshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cc036dc29f4682e0",
+      "statement": "债务谈判及炸船死亡",
+      "annotation_character_ids": [
+        "mulanhua_feike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4679cfeac240d7a5",
+      "statement": "掳人质与破产期限",
+      "annotation_character_ids": [
+        "mulanhua_qu_jianshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_785537b560670a22",
+      "statement": "主动脱离人质位置",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cdd76c8152aa95c1",
+      "statement": "扼安妮",
+      "annotation_character_ids": [
+        "mulanhua_qu_jianshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_54c99ba868015c89",
+      "statement": "低估安妮而被麻醉",
+      "annotation_character_ids": [
+        "mulanhua_qu_jianshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b3cb6bb3ca9f238",
+      "statement": "爬行自救、射击不准与认可",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e88ba1ba096787d",
+      "statement": "法证区别和拘捕",
+      "annotation_character_ids": [
+        "mulanhua_qu_jianshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c1f6c2414993107d",
+      "statement": "沉船信息核验",
+      "annotation_character_ids": [
+        "mulanhua_nelson"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_92be572573e18c36",
+      "statement": "遗孀受赠",
+      "annotation_character_ids": [
+        "mulanhua_kunge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

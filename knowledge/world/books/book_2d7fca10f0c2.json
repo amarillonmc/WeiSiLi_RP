@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "id": "book_2d7fca10f0c2",
+  "title": "移魂怪物",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/127移魂怪物.txt",
+  "file": "books/book_2d7fca10f0c2.json",
+  "inherited_fact_count": 18,
+  "curated_links": {
+    "arcs": [
+      "arc_weisili",
+      "arc_baisu"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "f4c3fea1917b09b958aa0cee2916232daf7b3349c696dfa3a08e04e14a2897cb",
+  "source_lines": 2688,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "参与调查并修正前案解释"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "质疑解释并推动查证"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "发现容器、参与辨认及调查"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "调查器物及接触万"
+    },
+    {
+      "name": "何艳容",
+      "card_id": "weisili_he_yanrong",
+      "role": "主角",
+      "basis": "身体变化和串谋、关系改变"
+    },
+    {
+      "name": "冒名万",
+      "card_id": "weisili_wan_impostor",
+      "role": "反派",
+      "basis": "归来骗局及最终身份限制"
+    },
+    {
+      "name": "廉正风",
+      "card_id": "weisili_lian_zhengfeng",
+      "role": "主角",
+      "basis": "调查骗局与忍术行动"
+    },
+    {
+      "name": "亮声",
+      "card_id": "weisili_liang_sheng",
+      "role": "重要配角",
+      "basis": "说明工作考验并协助处理"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "说明圆柱制造记录"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "协作查找制造来源"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "司机",
+      "reason": "受到失觉影响的一次现场证人，无复数重要出场"
+    },
+    {
+      "name": "勒曼三人、四人、执行小组",
+      "reason": "作为已建医院机构的匿名成员行动，无独立姓名与足够个体边界"
+    },
+    {
+      "name": "廉不负",
+      "reason": "叔侄及旧识身份回述，未在本书独立行动"
+    },
+    {
+      "name": "外放462人",
+      "reason": "同类处置结果的总体说明，无具体个人行为不造462张空卡"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_5be41233288c5952",
+      "statement": "危险名片、独立调查宣言及叔侄身份",
+      "annotation_character_ids": [
+        "weisili_lian_zhengfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0579a7e44f928a2c",
+      "statement": "叔侄关系与转述界限",
+      "annotation_character_ids": [
+        "weisili_lian_bufu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ea07dd3200c34c5a",
+      "statement": "意识到结论固化阻碍发现疑点，要求放下前案定论",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a51e72831c654739",
+      "statement": "认可侠义动机、撤回串谋并提出被骗",
+      "annotation_character_ids": [
+        "weisili_lian_zhengfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d4851420b59f8197",
+      "statement": "法律态度、爆响浓烟与非魔法隐身",
+      "annotation_character_ids": [
+        "weisili_lian_zhengfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6baa6c7ece0e82d1",
+      "statement": "与廉正风长谈后只了解忍术一点皮毛，不能直接获得对方整套能力",
+      "annotation_character_ids": [
+        "weisili_wei_sili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c75942c49f5f832d",
+      "statement": "后来长谈与忍者失误自责",
+      "annotation_character_ids": [
+        "weisili_lian_zhengfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d559a35ff5596de2",
+      "statement": "考验失败后的两种选择及逃亡例外",
+      "annotation_character_ids": [
+        "weisili_wan_impostor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e010dc71ed7d6490",
+      "statement": "工作考验、做人须限制脑能力及曾有人术前逃走",
+      "annotation_character_ids": [
+        "weisili_leman_hospital",
+        "weisili_liang_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d972624e486e0ed1",
+      "statement": "复制两个万身体、串谋与逃避追捕",
+      "annotation_character_ids": [
+        "weisili_wan_impostor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ded0d96bef872d8a",
+      "statement": "复制体串谋与后备失踪后的怒意",
+      "annotation_character_ids": [
+        "weisili_he_yanrong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5d6efd9d20c13b1",
+      "statement": "后来万良生为冒名复制身体，非原本人",
+      "annotation_character_ids": [
+        "weisili_wan_liangsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_11dc8d975985cb88",
+      "statement": "旧精神压制手段及术后脑力记忆限制",
+      "annotation_character_ids": [
+        "weisili_wan_impostor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6566247837fa4819",
+      "statement": "精神压制半小时与真相后的调查复盘",
+      "annotation_character_ids": [
+        "weisili_lian_zhengfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_69a1777dffffbb6c",
+      "statement": "462名已受限人类无旧记忆，亮声也须抗拒身体欲望",
+      "annotation_character_ids": [
+        "weisili_leman_hospital",
+        "weisili_liang_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_849b6500aae9f2be",
+      "statement": "完成手术、送回何身边，真万另在",
+      "annotation_character_ids": [
+        "weisili_wan_impostor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca1813184c0df256",
+      "statement": "接回术后伴侣、不再训练对方与真万未知",
+      "annotation_character_ids": [
+        "weisili_he_yanrong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7ed6e805949e188",
+      "statement": "原本人下落仍无确证",
+      "annotation_character_ids": [
+        "weisili_wan_liangsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

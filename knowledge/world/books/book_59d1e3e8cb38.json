@@ -1,0 +1,418 @@
+{
+  "schema_version": "1.0",
+  "id": "book_59d1e3e8cb38",
+  "title": "断头美人鱼",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/34断头美人鱼.txt",
+  "file": "books/book_59d1e3e8cb38.json",
+  "inherited_fact_count": 38,
+  "curated_links": {
+    "arcs": [
+      "arc_yunsifeng"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "9043fcae0baa5c3c05c1edf48a48c6547f46dc579c8514a1cc3d6ed1159e94bd",
+  "source_lines": 2418,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "鲁达司",
+      "card_id": "mulanhua_ludasi",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "贺斯保",
+      "card_id": "mulanhua_hesibao",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "安黛",
+      "card_id": "mulanhua_andai",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "三号（美人鱼案）",
+      "card_id": "mulanhua_mermaid_number_three",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "寇伦",
+      "card_id": "mulanhua_koulun",
+      "role": "反派/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "特嘉",
+      "card_id": "mulanhua_tejia",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "纳尔逊",
+      "card_id": "mulanhua_nelson",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "胖子阿金、四名国际警察及机场管理员",
+      "reason": "本书一次性协作者或受害证人，阿金虽在收网重要，未形成跨书重要配角或独立主角线。"
+    },
+    {
+      "name": "冯盖隆少将、伦治伯爵",
+      "reason": "仅历史叙述中交代藏资料与建筑归属，没有本篇独立行动线。"
+    },
+    {
+      "name": "贺斯枪手、农庄工人、机场另名追捕者、司机及特嘉护卫",
+      "reason": "未具姓名和持续个人目标的执行人员；行动与结局列入所属人物的条件支援，不凭编号推造更多独立身份。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_39ad6fc85281a0d2",
+      "statement": "机场外观与惊慌",
+      "annotation_character_ids": [
+        "mulanhua_andai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5c3eee0119fd07cc",
+      "statement": "死亡和追捕",
+      "annotation_character_ids": [
+        "mulanhua_andai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ea71e855f194177a",
+      "statement": "夺箱、指令灭口与分头",
+      "annotation_character_ids": [
+        "mulanhua_mermaid_number_three"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7bb9034a347521b8",
+      "statement": "藏车偷袭、形貌及搜三号命令",
+      "annotation_character_ids": [
+        "mulanhua_hesibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_99084ab6edb15cfe",
+      "statement": "受击昏迷与开锁",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ba0de9d389f70551",
+      "statement": "拒接应车并失踪",
+      "annotation_character_ids": [
+        "mulanhua_mermaid_number_three"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0e0f0977328cbd41",
+      "statement": "拘云与欲诱木",
+      "annotation_character_ids": [
+        "mulanhua_hesibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_af1fbb02e7a60cbc",
+      "statement": "警官外观、接待与特制车",
+      "annotation_character_ids": [
+        "mulanhua_ludasi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e28d89781c4893fe",
+      "statement": "假画资料与死因",
+      "annotation_character_ids": [
+        "mulanhua_andai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d0afaba1684d497b",
+      "statement": "农庄车报失",
+      "annotation_character_ids": [
+        "mulanhua_koulun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e299bbcdd20c1de5",
+      "statement": "机关、误认与安黛反叛",
+      "annotation_character_ids": [
+        "mulanhua_hesibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_632f9513bc02047d",
+      "statement": "背叛及自杀原因",
+      "annotation_character_ids": [
+        "mulanhua_andai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c42b0597ef6fc088",
+      "statement": "赌博、旧罪、金钱及密道",
+      "annotation_character_ids": [
+        "mulanhua_koulun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_408aa0c75afe6935",
+      "statement": "受迫带路、姓名和被麻醉",
+      "annotation_character_ids": [
+        "mulanhua_koulun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86b55f6e41160bf3",
+      "statement": "假死与铜像证据",
+      "annotation_character_ids": [
+        "mulanhua_hesibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7def472c59a6e13b",
+      "statement": "战时身份",
+      "annotation_character_ids": [
+        "mulanhua_hesibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e4c48f06a2a71b75",
+      "statement": "被灭口及麻醉非死因",
+      "annotation_character_ids": [
+        "mulanhua_koulun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_134559748c634bf9",
+      "statement": "实际藏丹麦及假死药说明",
+      "annotation_character_ids": [
+        "mulanhua_hesibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_808e3bec48fb2644",
+      "statement": "被截回",
+      "annotation_character_ids": [
+        "mulanhua_mermaid_number_three"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_481bc957c1183e61",
+      "statement": "扣腕与面子弱点",
+      "annotation_character_ids": [
+        "mulanhua_hesibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_03eff35dcf3ff12d",
+      "statement": "待罪姿态",
+      "annotation_character_ids": [
+        "mulanhua_mermaid_number_three"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_222fd06abc96df15",
+      "statement": "包中炸弹",
+      "annotation_character_ids": [
+        "mulanhua_andai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dcaefe72613d4003",
+      "statement": "爆炸死亡与截获地点",
+      "annotation_character_ids": [
+        "mulanhua_mermaid_number_three"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4e5a090b8c465198",
+      "statement": "求自由及真实死亡",
+      "annotation_character_ids": [
+        "mulanhua_hesibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3c59bd5dac57056d",
+      "statement": "换包动机分析",
+      "annotation_character_ids": [
+        "mulanhua_andai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ceef4e1136302b1",
+      "statement": "寄存物和钥匙",
+      "annotation_character_ids": [
+        "mulanhua_andai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22a4f433aaade49d",
+      "statement": "认出化装者及假度假说辞",
+      "annotation_character_ids": [
+        "mulanhua_ludasi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_60f95bb04c68652c",
+      "statement": "身份漏洞与组织关系",
+      "annotation_character_ids": [
+        "mulanhua_ludasi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8e3fc29e9a937255",
+      "statement": "鲁达司主使关系解释",
+      "annotation_character_ids": [
+        "mulanhua_koulun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bc9386fd9e554f95",
+      "statement": "假行程和真实离境",
+      "annotation_character_ids": [
+        "mulanhua_ludasi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_02f57841cfa58aef",
+      "statement": "国际警方与飞机部署",
+      "annotation_character_ids": [
+        "mulanhua_nelson"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2c079bd349c71c47",
+      "statement": "工业家背景与间谍怀疑",
+      "annotation_character_ids": [
+        "mulanhua_tejia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0e64373c0e9061d9",
+      "statement": "车、人手及接机安排",
+      "annotation_character_ids": [
+        "mulanhua_tejia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10bb5714e486c218",
+      "statement": "手下被审问",
+      "annotation_character_ids": [
+        "mulanhua_tejia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_43e2d15995091e97",
+      "statement": "逃跑失败与未杀木的原因",
+      "annotation_character_ids": [
+        "mulanhua_ludasi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5722a8344155eaa0",
+      "statement": "出价情报",
+      "annotation_character_ids": [
+        "mulanhua_tejia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c38eefe548903ed1",
+      "statement": "火箭计划、交易及自杀",
+      "annotation_character_ids": [
+        "mulanhua_ludasi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a9091329305ae525",
+      "statement": "完整资料核验与转售计划",
+      "annotation_character_ids": [
+        "mulanhua_tejia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "arc_hongling",
+  "title": "卫红绫的经历与成长",
+  "kind": "arc",
+  "character_id": "weisili_hong_ling",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "成长体现在学习、保护旧关系并允许伙伴离去，不是把野外身体换成全知少女。"
+  },
+  "stages": [
+    {
+      "label": "野外抚育",
+      "event_ids": [
+        "w_family_past"
+      ],
+      "state": "对动物和山野有经验。",
+      "rp_constraint": "不具备城市常识与父母全部记忆。"
+    },
+    {
+      "label": "保留自己的关系",
+      "event_ids": [
+        "w_hongling_choices"
+      ],
+      "state": "保护银猿，逐渐会独立判断。",
+      "rp_constraint": "尊重非人伙伴的意义。"
+    },
+    {
+      "label": "有来源的设备知识",
+      "event_ids": [
+        "w_miao_contact"
+      ],
+      "state": "外婆教过具体设备，选择留下背心。",
+      "rp_constraint": "不能默认随身飞行装备。"
+    },
+    {
+      "label": "让伙伴成长",
+      "event_ids": [
+        "w_eagle_departure"
+      ],
+      "state": "支持成人神鹰去调查。",
+      "rp_constraint": "不把过去的亲近当永久所有权。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_9d7ff2aa7e94f812",
+    "evidence_0bb1e9d7e786e292",
+    "evidence_ee42f3cc9a489e8c",
+    "evidence_0f88d60f60b2a7ab",
+    "evidence_3beea314932e36e3",
+    "evidence_4f95b04309eb8e08",
+    "evidence_9ff3b2e7801e1efa",
+    "evidence_87742c5fd00413b6"
+  ],
+  "book_ids": [
+    "book_02a15832ae8a",
+    "book_208391977d6e",
+    "book_6f42d4433a38",
+    "book_9a4da2ea3ef3",
+    "book_f4ea5e801b15"
+  ]
+}

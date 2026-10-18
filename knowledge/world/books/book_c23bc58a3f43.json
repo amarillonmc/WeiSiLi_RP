@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0",
+  "id": "book_c23bc58a3f43",
+  "title": "鬼混",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/079鬼混.txt",
+  "file": "books/book_c23bc58a3f43.json",
+  "inherited_fact_count": 21,
+  "curated_links": {
+    "arcs": [
+      "arc_lansi"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "b7cb0c3e94336019d3ed8698f53da86fa726c81ec5537d2337b2eb67e8f45f9a",
+  "source_lines": 4115,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "调查与救援"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "开篇共同应对讯息"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "目击者与救援蓝丝"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "主角",
+      "basis": "自愿冒充媒介"
+    },
+    {
+      "name": "温妈妈",
+      "card_id": "weisili_wen_mama",
+      "role": "重要配角",
+      "basis": "旅行及警局行动"
+    },
+    {
+      "name": "猜王",
+      "card_id": "weisili_cai_wang",
+      "role": "重要配角／对立者",
+      "basis": "护卫、反史奈计划"
+    },
+    {
+      "name": "陈耳",
+      "card_id": "weisili_chen_er",
+      "role": "重要配角",
+      "basis": "调查和接应"
+    },
+    {
+      "name": "史奈",
+      "card_id": "yuanzhenxia_shinai",
+      "role": "反派／阶段性对立者",
+      "basis": "主持鬼混降"
+    },
+    {
+      "name": "巴枯",
+      "card_id": "yuanzhenxia_baku",
+      "role": "重要配角",
+      "basis": "提供保护与救援条件"
+    },
+    {
+      "name": "乃璞",
+      "card_id": "weisili_nai_pu",
+      "role": "反派／阶段性对立者",
+      "basis": "军事逼供"
+    },
+    {
+      "name": "军事强人",
+      "card_id": "weisili_guihun_strongman",
+      "role": "反派",
+      "basis": "谋位与鬼混计划受术者"
+    },
+    {
+      "name": "保安主任",
+      "card_id": "weisili_guihun_security",
+      "role": "阶段性对立者",
+      "basis": "仗势阻碍调查"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "开篇提出陪护"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "开篇提出陪护"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "国王、皇室侍卫及多名军警",
+      "reason": "提供政治背景与通道，无独立反派决策或跨书身份链"
+    },
+    {
+      "name": "军人身边女郎",
+      "reason": "关键施术媒介与目击者，单书被保护对象，未呈独立持续主角行动"
+    },
+    {
+      "name": "原振侠、玛仙、青龙",
+      "reason": "被提及或寻求联系，未在本书亲自行动，不计新增出场"
+    },
+    {
+      "name": "失明男子及其妻",
+      "reason": "原振侠旧事转述，主卡与原系对应人物合并，无需另建"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_63e0e747f54077e8",
+      "statement": "背景、枪法武技",
+      "annotation_character_ids": [
+        "weisili_chen_er"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72fe44e6f57fb18b",
+      "statement": "十分钟交凶手及军队失控威胁",
+      "annotation_character_ids": [
+        "weisili_nai_pu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a87fee1e630c86f3",
+      "statement": "少校背景与藏身军部",
+      "annotation_character_ids": [
+        "weisili_guihun_security"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_62b46aaeb7bc1769",
+      "statement": "处理保安主任证词",
+      "annotation_character_ids": [
+        "weisili_chen_er"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b5a313a73b60448d",
+      "statement": "傲慢讯问、举拳、安排权贵生活",
+      "annotation_character_ids": [
+        "weisili_guihun_security"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a85b941228631d0f",
+      "statement": "酒店生活及仗势行为",
+      "annotation_character_ids": [
+        "weisili_guihun_strongman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f53a7c3db1a8e0ed",
+      "statement": "以保安理由要求温宝裕离开",
+      "annotation_character_ids": [
+        "weisili_guihun_security"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_082c1ada2753878a",
+      "statement": "外貌与蛊物；威慑同时利用当地信仰",
+      "annotation_character_ids": [
+        "weisili_cai_wang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_11af070b9e06f6b8",
+      "statement": "火箭威慑的场地限制、受猜王逼退",
+      "annotation_character_ids": [
+        "weisili_nai_pu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0841632f7d05e774",
+      "statement": "谋位、实权与酒后泄露",
+      "annotation_character_ids": [
+        "weisili_guihun_strongman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d316abd15d238021",
+      "statement": "忠于国王又不能对抗全国正规军",
+      "annotation_character_ids": [
+        "weisili_chen_er"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f7ac6a6322c3ccb3",
+      "statement": "鬼混方案为他人解释、异能未实现",
+      "annotation_character_ids": [
+        "weisili_guihun_strongman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a1c8f51d2c56af77",
+      "statement": "锦衣蛇迅速阻路并可收回",
+      "annotation_character_ids": [
+        "weisili_cai_wang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_07c4f4d847d31d42",
+      "statement": "蓝丝替身与延误计划、知识和风险边界",
+      "annotation_character_ids": [
+        "weisili_cai_wang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff7cfa1c2333552b",
+      "statement": "最初反对侦察、后同意调车",
+      "annotation_character_ids": [
+        "weisili_chen_er"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10c531ea4a9cabc9",
+      "statement": "身体直立但尚未完成",
+      "annotation_character_ids": [
+        "weisili_guihun_strongman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b6f7ce3a3ef45f73",
+      "statement": "鬼混降的条件、失败及现场反应",
+      "annotation_character_ids": [
+        "yuanzhenxia_shinai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c8eba09c8c8ddc7f",
+      "statement": "最终术败死亡",
+      "annotation_character_ids": [
+        "weisili_guihun_strongman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ac202f683a3cc8a6",
+      "statement": "接应逃离者",
+      "annotation_character_ids": [
+        "weisili_chen_er"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e3d54da9a486016f",
+      "statement": "保护降与遮蔽追查的效果",
+      "annotation_character_ids": [
+        "yuanzhenxia_baku"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ceff0edce4144736",
+      "statement": "辨出保护降与温宝裕的关系",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

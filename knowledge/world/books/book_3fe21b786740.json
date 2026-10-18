@@ -1,0 +1,214 @@
+{
+  "schema_version": "1.0",
+  "id": "book_3fe21b786740",
+  "title": "多了一个",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/026多了一个.txt",
+  "file": "books/book_3fe21b786740.json",
+  "inherited_fact_count": 17,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "c6acd754e4c381624675a1f490c71d2181eecfe51101b956252b683b2fe96624",
+  "source_lines": 1370,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "跨书重要配角",
+      "basis": "提出照片核验等帮助。"
+    },
+    {
+      "name": "新的卜连昌",
+      "card_id": "weisili_shensuofu_bu",
+      "role": "单书主角",
+      "basis": "申索夫身体与新记忆身份。"
+    },
+    {
+      "name": "原卜连昌",
+      "card_id": "weisili_bu_lianchang_original",
+      "role": "前史主线人物",
+      "basis": "死亡及记忆来源，与新人物分开。"
+    },
+    {
+      "name": "彩珍",
+      "card_id": "weisili_caizhen",
+      "role": "单书主角",
+      "basis": "家属辨识、丧偶和新关系。"
+    },
+    {
+      "name": "团长与助手",
+      "card_id": "weisili_shensuofu_pursuers",
+      "role": "阶段性对立者",
+      "basis": "追索、拘捕和最终让步。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "顾船长、船员、公司经理、德国工程师",
+      "reason": "目击、职务和技术核验的一次性辅助，未见独立主角或反派线。"
+    },
+    {
+      "name": "阿牛、阿珠、包医师夫妇",
+      "reason": "家庭识别和关系发展辅助，不把受惊拒绝陌生人列为反派。"
+    },
+    {
+      "name": "南美洲冲突凶手",
+      "reason": "没有稳定姓名或个体身份，死亡前史未提供可成卡的行为线。"
+    },
+    {
+      "name": "考察团其他人员及会诊专家",
+      "reason": "未形成独立身份弧，所提供背景并入相应人物。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_5170f0b3cad9451d",
+      "statement": "船长对原海员的认识",
+      "annotation_character_ids": [
+        "weisili_bu_lianchang_original"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ee3de1e6bfd0468",
+      "statement": "子女记忆及死亡通知",
+      "annotation_character_ids": [
+        "weisili_bu_lianchang_original"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f9336363fe10f7b3",
+      "statement": "记忆与家属不认",
+      "annotation_character_ids": [
+        "weisili_shensuofu_bu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9c98f85e2548d77f",
+      "statement": "悲伤与拒认",
+      "annotation_character_ids": [
+        "weisili_caizhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9f6a26ffa7b43d83",
+      "statement": "照片和初见记忆",
+      "annotation_character_ids": [
+        "weisili_caizhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86d616191f3f59f8",
+      "statement": "本人照片和夫妻往事",
+      "annotation_character_ids": [
+        "weisili_bu_lianchang_original"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cace39c3a663cffd",
+      "statement": "初期畏惧与徘徊",
+      "annotation_character_ids": [
+        "weisili_caizhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45e4cac4647710ac",
+      "statement": "实际电脑技能",
+      "annotation_character_ids": [
+        "weisili_shensuofu_bu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8066164bb1c67ddf",
+      "statement": "威胁和拘捕",
+      "annotation_character_ids": [
+        "weisili_shensuofu_pursuers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_033485377faaddad",
+      "statement": "身份、档案与目标逃离",
+      "annotation_character_ids": [
+        "weisili_shensuofu_pursuers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e92f95535ddea96a",
+      "statement": "照片、枪伤及逃离",
+      "annotation_character_ids": [
+        "weisili_shensuofu_bu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_32233f7364e65a70",
+      "statement": "请示及秘密披露",
+      "annotation_character_ids": [
+        "weisili_shensuofu_pursuers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_54d5a58258d554cc",
+      "statement": "旧太空任务和逃生信息",
+      "annotation_character_ids": [
+        "weisili_shensuofu_bu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_378477d8f04d4d21",
+      "statement": "听取解释并停止",
+      "annotation_character_ids": [
+        "weisili_shensuofu_pursuers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2c84ca364a20cb4c",
+      "statement": "死前冲突和记忆假说",
+      "annotation_character_ids": [
+        "weisili_bu_lianchang_original"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d9b210f1dcaf633",
+      "statement": "记忆假说与新生活",
+      "annotation_character_ids": [
+        "weisili_shensuofu_bu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ada94c11bb935caf",
+      "statement": "终局好感和求婚准备",
+      "annotation_character_ids": [
+        "weisili_caizhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

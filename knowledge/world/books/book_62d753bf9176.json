@@ -1,0 +1,166 @@
+{
+  "schema_version": "1.0",
+  "id": "book_62d753bf9176",
+  "title": "爱神",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/14.爱神.txt",
+  "file": "books/book_62d753bf9176.json",
+  "inherited_fact_count": 11,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "daaed62971df6f256e26d88a150285a98f432458dc506e31d34f345a66f2bc62",
+  "source_lines": 8125,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查与选择"
+    },
+    {
+      "name": "黄绢",
+      "card_id": "yuanzhenxia_huang_juan",
+      "role": "重要配角",
+      "basis": "政治与行动"
+    },
+    {
+      "name": "林文义",
+      "card_id": "yuanzhenxia_lin_wenyi",
+      "role": "跨书主角",
+      "basis": "主要叙事、关系或敌对行动"
+    },
+    {
+      "name": "山虎",
+      "card_id": "yuanzhenxia_shanhu",
+      "role": "反派",
+      "basis": "主要叙事、关系或敌对行动"
+    },
+    {
+      "name": "阿英",
+      "card_id": "yuanzhenxia_a_ying",
+      "role": "跨书主角",
+      "basis": "主要叙事、关系或敌对行动"
+    },
+    {
+      "name": "阿贵（炮艇交易者）",
+      "card_id": "yuanzhenxia_a_gui",
+      "role": "引子视角主角",
+      "basis": "主要叙事、关系或敌对行动"
+    },
+    {
+      "name": "爱神",
+      "card_id": "yuanzhenxia_aishen",
+      "role": "主角",
+      "basis": "救援"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "调查入口"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "山虎未具名部下",
+      "reason": "作为其海盗队伍，未见独立身份与后续"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_33b62d9da289c596",
+      "statement": "发现和市场",
+      "annotation_character_ids": [
+        "yuanzhenxia_a_gui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ab1aa8419546c86e",
+      "statement": "寻找买主",
+      "annotation_character_ids": [
+        "yuanzhenxia_a_gui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c38134842af5c71",
+      "statement": "杀人夺船",
+      "annotation_character_ids": [
+        "yuanzhenxia_shanhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_57208eab854b00e1",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_a_gui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10dee25be67b34c4",
+      "statement": "相识",
+      "annotation_character_ids": [
+        "yuanzhenxia_lin_wenyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a85f9d20475da7a2",
+      "statement": "化名揭明",
+      "annotation_character_ids": [
+        "yuanzhenxia_lin_wenyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d9a305f93916a06b",
+      "statement": "获救与断腿",
+      "annotation_character_ids": [
+        "yuanzhenxia_lin_wenyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4b16ebaebc4a7d62",
+      "statement": "共同遇险与获救",
+      "annotation_character_ids": [
+        "yuanzhenxia_a_ying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c42232a2c79d5f48",
+      "statement": "暴力及遇爱神",
+      "annotation_character_ids": [
+        "yuanzhenxia_shanhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fb33f75247983b32",
+      "statement": "军事能力",
+      "annotation_character_ids": [
+        "yuanzhenxia_shanhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ab80194886324d68",
+      "statement": "帮助难民与寻找",
+      "annotation_character_ids": [
+        "yuanzhenxia_lin_wenyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

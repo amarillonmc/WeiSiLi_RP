@@ -1,0 +1,342 @@
+{
+  "schema_version": "1.0",
+  "id": "book_3e7d2d337f26",
+  "title": "魔掌余生",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/24魔掌余生.txt",
+  "file": "books/book_3e7d2d337f26.json",
+  "inherited_fact_count": 31,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "874dff614da446bfc451fedd00c101d09c16ecd88ff80612dd3d1674cb9465fb",
+  "source_lines": 2712,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "包发达博士",
+      "card_id": "mulanhua_bao_fada",
+      "role": "单书主角/寻宝事件的发起者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "布卡",
+      "card_id": "mulanhua_buka",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "查博士（布卡助手）",
+      "card_id": "mulanhua_buka_dr_zha",
+      "role": "反派助手",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "阿发（布卡司机）",
+      "card_id": "mulanhua_buka_afa",
+      "role": "反派助手",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "干维尔",
+      "card_id": "mulanhua_ganweier",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "迦太基寻宝案的内政部长",
+      "card_id": "mulanhua_carthage_interior_minister",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "赛尔中校、陈教授、其余六名警官",
+      "reason": "赛尔为被选作替身而杀害的私人飞行员，未证明知道谋杀假死计划；陈仅推荐信背景；六警官未获各自可辨身份与独立目标，具体行为附干维尔。"
+    },
+    {
+      "name": "萨都拉",
+      "reason": "本册未出场，由部长声称主战，综合卡应标为他人转述政治立场，不自动当亲自命令事实。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_1330c4c1ee82574e",
+      "statement": "推销方式与姓名误解",
+      "annotation_character_ids": [
+        "mulanhua_bao_fada"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_56a0c6ab71906453",
+      "statement": "学术履历、资料与心理",
+      "annotation_character_ids": [
+        "mulanhua_bao_fada"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fbfa532d458770bb",
+      "statement": "火灾结果及死因推测",
+      "annotation_character_ids": [
+        "mulanhua_bao_fada"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a4400a77a6585d30",
+      "statement": "遗书和地图",
+      "annotation_character_ids": [
+        "mulanhua_bao_fada"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cad43054b5d4936b",
+      "statement": "协调发掘许可",
+      "annotation_character_ids": [
+        "mulanhua_sadula"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_66118e1a59466dd1",
+      "statement": "研究核验后认为论点有据",
+      "annotation_character_ids": [
+        "mulanhua_bao_fada"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d9a86de232a8db0",
+      "statement": "身份、财富外观及劫仪器胁迫",
+      "annotation_character_ids": [
+        "mulanhua_buka"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5a434f90cb767283",
+      "statement": "秘密寻宝和杀三人假死",
+      "annotation_character_ids": [
+        "mulanhua_buka"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8ba327ac2104120c",
+      "statement": "驾驶与夜间隐蔽移动",
+      "annotation_character_ids": [
+        "mulanhua_buka_afa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ffe1b5731eeda30d",
+      "statement": "改装仪器、问题和信息限制",
+      "annotation_character_ids": [
+        "mulanhua_buka_dr_zha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_215e439e09082970",
+      "statement": "测绘交付及被杀",
+      "annotation_character_ids": [
+        "mulanhua_buka_dr_zha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b795ff962ba1570",
+      "statement": "测绘协助和联络命令",
+      "annotation_character_ids": [
+        "mulanhua_buka_afa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82e5cbf0d45d19b8",
+      "statement": "发财期待、被杀及尸体利用",
+      "annotation_character_ids": [
+        "mulanhua_buka_afa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63e25d74880e0bc0",
+      "statement": "尸体被用于爆破假死",
+      "annotation_character_ids": [
+        "mulanhua_buka_dr_zha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d9fa0fb4cc1cc7e",
+      "statement": "独吞与利用合法探险队的动机",
+      "annotation_character_ids": [
+        "mulanhua_buka"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c8fd207363bf96c",
+      "statement": "整容减重及康特身份",
+      "annotation_character_ids": [
+        "mulanhua_buka"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_335660030aa9deb3",
+      "statement": "副局长身份和提前揭破",
+      "annotation_character_ids": [
+        "mulanhua_ganweier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_38c90556b0eaf8cf",
+      "statement": "被揭后拒供",
+      "annotation_character_ids": [
+        "mulanhua_buka"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b7d43c2ffaff156b",
+      "statement": "酷刑失败与接受计划",
+      "annotation_character_ids": [
+        "mulanhua_ganweier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ceb18ebeb4c40af8",
+      "statement": "遭拷打仍拒绝",
+      "annotation_character_ids": [
+        "mulanhua_buka"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c14a49dbd12e752",
+      "statement": "配合假冲突",
+      "annotation_character_ids": [
+        "mulanhua_ganweier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_90e414541a240447",
+      "statement": "假救援使其供密",
+      "annotation_character_ids": [
+        "mulanhua_buka"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_566dae96fffe14c6",
+      "statement": "迟疑后组织救援",
+      "annotation_character_ids": [
+        "mulanhua_ganweier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6d1110d92fa1f39e",
+      "statement": "崩塌及死亡判断",
+      "annotation_character_ids": [
+        "mulanhua_buka"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f19eb35d0be9ab55",
+      "statement": "夺金的理由、契约诡辩与自辩",
+      "annotation_character_ids": [
+        "mulanhua_ganweier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_730d0318a7d9cfe4",
+      "statement": "秘密命令及所据契约程序",
+      "annotation_character_ids": [
+        "mulanhua_carthage_interior_minister"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_af2af7acb06ed3c9",
+      "statement": "后文明言已死",
+      "annotation_character_ids": [
+        "mulanhua_buka"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ceb00d820d04b62f",
+      "statement": "会面、否认掠夺与保密威胁",
+      "annotation_character_ids": [
+        "mulanhua_carthage_interior_minister"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5119b695daa1abae",
+      "statement": "遗愿未能实现",
+      "annotation_character_ids": [
+        "mulanhua_bao_fada"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_878c9c43859126b8",
+      "statement": "扩军后的战争失败",
+      "annotation_character_ids": [
+        "mulanhua_carthage_interior_minister"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_95149d7bf14d7ab6",
+      "statement": "国家战争后果",
+      "annotation_character_ids": [
+        "mulanhua_ganweier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

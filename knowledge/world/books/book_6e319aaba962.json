@@ -1,0 +1,340 @@
+{
+  "schema_version": "1.0",
+  "id": "book_6e319aaba962",
+  "title": "真实幻境",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/124真实幻境.txt",
+  "file": "books/book_6e319aaba962.json",
+  "inherited_fact_count": 24,
+  "curated_links": {
+    "events": [
+      "w_real_illusion"
+    ],
+    "relations": [
+      "before__w_eagle_friend__w_real_illusion",
+      "before__w_real_illusion__w_eagle_human",
+      "before__w_eagle_human__w_eagle_departure",
+      "before__f_eagle_origin__w_real_illusion",
+      "before__w_real_illusion__w_eagle_departure"
+    ],
+    "arcs": [
+      "arc_shenying",
+      "arc_jinwei"
+    ],
+    "issues": [
+      "issue_retelling",
+      "issue_foreknowledge"
+    ],
+    "bridges": [
+      "bridge_jinwei"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "632b00312b5dcf7efd3cbc894a49907fcf0a51a02cf8e3d275cb111dd914e823",
+  "source_lines": 2671,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "金维",
+      "card_id": "adventure_jinwei",
+      "role": "跨书重要配角、单书主角",
+      "basis": "从会议相识、鹰群引路到共同进入幻境并寻找卫氏家人。"
+    },
+    {
+      "name": "孤峰大鹰",
+      "card_id": "adventure_daying",
+      "role": "跨书重要配角",
+      "basis": "金维多年相交和寻人经历为其继续求解生命形式问题的起点，身份接非人协会孤峰。"
+    },
+    {
+      "name": "卫红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "跨书重要配角",
+      "basis": "幻境记录中与神鹰交流、争执和解，寻求变形方法。"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "跨书重要配角",
+      "basis": "幻境中呈鹰身及人头鹰身的不同阶段，并向伦三德寻求意见。"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "跨书重要配角",
+      "basis": "后段加入寻找，提出解释；没有实际进入能力。"
+    },
+    {
+      "name": "韩正气",
+      "card_id": "weisili_han_zhengqi",
+      "role": "单书主角",
+      "basis": "组织会议、共同实验、现场主持和会后继续辩论。"
+    },
+    {
+      "name": "杜迪博士",
+      "card_id": "weisili_dudi",
+      "role": "单书主角",
+      "basis": "共同实验的科学家与公开说明者。"
+    },
+    {
+      "name": "汤普生教授",
+      "card_id": "weisili_tangpusheng_124",
+      "role": "阶段性对立者",
+      "basis": "会议反对者及持续论争者，未证实暴力犯罪。"
+    },
+    {
+      "name": "陈耳",
+      "card_id": "weisili_chen_er",
+      "role": "跨书重要配角",
+      "basis": "写介绍信促成表亲韩正气求助。"
+    },
+    {
+      "name": "何可人（纳塔莎）",
+      "card_id": "weisili_natasha",
+      "role": "跨书重要配角",
+      "basis": "过往幻境及生命形式问题；女人与男声的具体身份由卫斯理判断，不与已死原本人合并。"
+    },
+    {
+      "name": "阿大（公鸡）",
+      "card_id": "weisili_ada_rooster",
+      "role": "跨书重要配角",
+      "basis": "过往鸡场幻境中的男性争吵声由卫斯理对应公鸡事件。"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "跨书重要配角",
+      "basis": "回述与卫斯理讨论梦境旁观者和主体。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "无名神秘力量",
+      "reason": "有干扰感官和幻境现象，但是否存在操纵者亦未确定，不虚构具人格反派。"
+    },
+    {
+      "name": "实验鸭子、未具名鹰群",
+      "reason": "实验对象或共同引路的普通动物，未有独立个体主线，不替实验动物附加人格。"
+    },
+    {
+      "name": "伦三德、罗开、原振侠、天池及其他前情姓名",
+      "reason": "本书请求或提及既有经历，未展示本书中的独立到场行动；既有主卡另处整合。"
+    },
+    {
+      "name": "无名会议助手和与会者",
+      "reason": "一次性职能配角，无独立主线或跨书身份锚点。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_081f9c495cb6f697",
+      "statement": "邀请、陈耳介绍信、与杜迪共同研究及公开愿望。",
+      "annotation_character_ids": [
+        "weisili_han_zhengqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b660e1fc5e7d5b7a",
+      "statement": "韩正气说明两人合作及共同宣布成果。",
+      "annotation_character_ids": [
+        "weisili_dudi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d161e861a7f8f199",
+      "statement": "身份、体格、反对主题与金维制止骚动。",
+      "annotation_character_ids": [
+        "weisili_tangpusheng_124"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3744f8dfd287efad",
+      "statement": "会议维持主题但允许异议。",
+      "annotation_character_ids": [
+        "weisili_tangpusheng_124"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_70d77c7ba27f27e2",
+      "statement": "混乱后坚持主题并允许异议。",
+      "annotation_character_ids": [
+        "weisili_han_zhengqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9190ed3ae9c71490",
+      "statement": "杜迪迟到、致歉和专业身份。",
+      "annotation_character_ids": [
+        "weisili_dudi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa687691490e96ef",
+      "statement": "把展示比作魔术的反应。",
+      "annotation_character_ids": [
+        "weisili_tangpusheng_124"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1e609845e26919fc",
+      "statement": "鸭子行为、杜迪解释与反对意见。",
+      "annotation_character_ids": [
+        "weisili_dudi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_304940f00671382f",
+      "statement": "动物展示及变化程度争论。",
+      "annotation_character_ids": [
+        "weisili_han_zhengqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8107d1be56074387",
+      "statement": "质疑行为变化不等于生命形式变化。",
+      "annotation_character_ids": [
+        "weisili_tangpusheng_124"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b12720907d3ba077",
+      "statement": "身份与孤峰旧事的回指。",
+      "annotation_character_ids": [
+        "adventure_daying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa282b4c2178a058",
+      "statement": "重述孤峰经历，与早书结局存在差异。",
+      "annotation_character_ids": [
+        "adventure_jinwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f42b89c76465369a",
+      "statement": "多年交流仍不能尽知鹰的秘密，寻人回述与早篇有冲突。",
+      "annotation_character_ids": [
+        "adventure_daying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b6b90c6881be77e",
+      "statement": "会后持续争论。",
+      "annotation_character_ids": [
+        "weisili_tangpusheng_124"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_69a65efb677c384e",
+      "statement": "会后求助和类似研究被抢先发表的反应。",
+      "annotation_character_ids": [
+        "weisili_han_zhengqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b844fc31e2cc69ef",
+      "statement": "叙述限定成果为行为变化，并述他方先发表。",
+      "annotation_character_ids": [
+        "weisili_dudi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e82971096e2de5ea",
+      "statement": "自制哨子、有限交流、不能由小鹰载人与半日山路。",
+      "annotation_character_ids": [
+        "adventure_jinwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d90d90f29684c376",
+      "statement": "鹰身争执与和解",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7efaaf365ec8c345",
+      "statement": "当时仍可飞行",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e836dde3531ec0a3",
+      "statement": "黑暗中可看清陈设。",
+      "annotation_character_ids": [
+        "adventure_jinwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_67787ee0ee83a415",
+      "statement": "静坐与进入幻境的过程。",
+      "annotation_character_ids": [
+        "adventure_jinwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1e0d8bdd5450a550",
+      "statement": "掌心接触共同入境及精神远游推测。",
+      "annotation_character_ids": [
+        "adventure_jinwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_79844f5ea8f52fcc",
+      "statement": "未来幻境的形态与逃避",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d4f7bb04c2414de3",
+      "statement": "持续一月尝试不能再次进入。",
+      "annotation_character_ids": [
+        "adventure_jinwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

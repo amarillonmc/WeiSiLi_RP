@@ -1,0 +1,475 @@
+{
+  "schema_version": "1.0",
+  "id": "book_40cc4a079530",
+  "title": "无敌凶手",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/36无敌凶手.txt",
+  "file": "books/book_40cc4a079530.json",
+  "inherited_fact_count": 42,
+  "curated_links": {
+    "arcs": [
+      "arc_yunsifeng",
+      "arc_gaoxiang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "c273b7bb2f3b77a9581dfad8fe736d53d730f56f7eb2a6819353209beebd1465",
+  "source_lines": 2482,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "周威能",
+      "card_id": "mulanhua_zhou_weineng",
+      "role": "单书主角/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "周腾",
+      "card_id": "mulanhua_zhou_teng",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "周达",
+      "card_id": "mulanhua_zhou_da",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "刘度",
+      "card_id": "mulanhua_liu_du",
+      "role": "单书主角/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "桑斯",
+      "card_id": "mulanhua_sangsi",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "祁大鹏",
+      "card_id": "mulanhua_qi_dapeng",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "韦克",
+      "card_id": "mulanhua_weike",
+      "role": "单书主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "裴多",
+      "card_id": "mulanhua_peiduo",
+      "role": "单书主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "韦克的父亲",
+      "card_id": "mulanhua_weike_father",
+      "role": "单书主角/立场存在争议的组织负责人",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "陆探员、颜逢源、旅馆老板娘",
+      "reason": "一次性调查受害者或线索人物，无独立主角线与跨书身份确证。陆探员仅姓氏，不能自动合并早书陆尚。"
+    },
+    {
+      "name": "桑斯五名绑架者、护卫、潜艇官兵与最高情报首长",
+      "reason": "匿名执行人员或仅作上级授权的短场景角色，未有持续独立个人线；作为组织资源与责任链记录。"
+    },
+    {
+      "name": "联络处五名同盟成员、同盟另外三名创办者、最后三名跳伞者",
+      "reason": "只以群体背景或死亡叙述出现，未具可分个人线，不补造姓名或把裴多强指其中。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_5a604900d48fe187",
+      "statement": "外貌、声音、轮椅观察",
+      "annotation_character_ids": [
+        "mulanhua_zhou_weineng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f6b14d77108d3f16",
+      "statement": "发现摄影、图样、威胁和拒绝",
+      "annotation_character_ids": [
+        "mulanhua_zhou_weineng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_30192bdbec3a1dcc",
+      "statement": "道歉、政治组织与死亡",
+      "annotation_character_ids": [
+        "mulanhua_zhou_weineng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_54ffd9053079fe2d",
+      "statement": "偷渡、住宿及追踪",
+      "annotation_character_ids": [
+        "mulanhua_zhou_weineng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_122e9373619e9c16",
+      "statement": "鞋底双刀与火力窗口",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1af0611307253a2d",
+      "statement": "外交压力边界",
+      "annotation_character_ids": [
+        "mulanhua_fang_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_282d119c76b42447",
+      "statement": "潜入、破绽、面具与旧交",
+      "annotation_character_ids": [
+        "mulanhua_zhou_teng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_03517fb53ad88f93",
+      "statement": "旧交、行动组与探员之死",
+      "annotation_character_ids": [
+        "mulanhua_zhou_da"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e947ddfcd2fc9b62",
+      "statement": "外交威胁和负责人身份",
+      "annotation_character_ids": [
+        "mulanhua_zhou_teng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9301ef44843943ba",
+      "statement": "继续追图与消息来源",
+      "annotation_character_ids": [
+        "mulanhua_zhou_da"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3efd5b940ada925d",
+      "statement": "敌方预先获情报",
+      "annotation_character_ids": [
+        "mulanhua_zhou_weineng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_905079e341815d4d",
+      "statement": "中枪、还击与倒地",
+      "annotation_character_ids": [
+        "mulanhua_zhou_da"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed32cd4c851d8648",
+      "statement": "伏击死亡",
+      "annotation_character_ids": [
+        "mulanhua_zhou_teng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7a40bcd7f8df6d0c",
+      "statement": "身份、杀人自承及藏身录音",
+      "annotation_character_ids": [
+        "mulanhua_liu_du"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_be659fe1b655e73e",
+      "statement": "身份和交凶限期",
+      "annotation_character_ids": [
+        "mulanhua_sangsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_801cf1f53bc057a7",
+      "statement": "退路、交易与自我牺牲",
+      "annotation_character_ids": [
+        "mulanhua_liu_du"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e279317025f48b0d",
+      "statement": "政治分歧和绑架承认",
+      "annotation_character_ids": [
+        "mulanhua_liu_du"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9cf1bd7a54dfdc5c",
+      "statement": "化装脱跟踪",
+      "annotation_character_ids": [
+        "mulanhua_liu_du"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e2ff964bc552074",
+      "statement": "预警与死亡",
+      "annotation_character_ids": [
+        "mulanhua_liu_du"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c05f7f35021bbddf",
+      "statement": "外貌、前史及据点伏击",
+      "annotation_character_ids": [
+        "mulanhua_sangsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ac5e86b8aa158b3e",
+      "statement": "计划不明与威胁",
+      "annotation_character_ids": [
+        "mulanhua_sangsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_abd5f8e9600ffc99",
+      "statement": "前史、哀伤与目标说明",
+      "annotation_character_ids": [
+        "mulanhua_weike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dd7ae41c3e54ff40",
+      "statement": "弹奏、金发、姓名及悲歌意义",
+      "annotation_character_ids": [
+        "mulanhua_peiduo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_34a44a6b912a6dd7",
+      "statement": "逃亡经历与继续任务",
+      "annotation_character_ids": [
+        "mulanhua_peiduo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bbd9aa5d829bcd00",
+      "statement": "同意分隔安排离开",
+      "annotation_character_ids": [
+        "mulanhua_peiduo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_be41001e8adbec77",
+      "statement": "隔离联络和谨慎",
+      "annotation_character_ids": [
+        "mulanhua_weike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dbf35841bc8eaf82",
+      "statement": "数月制造与改瞄准",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f9019fdae9724e1a",
+      "statement": "工程时间与装备条件",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c5064f953bc54d26",
+      "statement": "职位、形貌、探查与报告",
+      "annotation_character_ids": [
+        "mulanhua_qi_dapeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b6c556452b30f358",
+      "statement": "报告误差和派员",
+      "annotation_character_ids": [
+        "mulanhua_sangsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d51bdaf8a5e0ea75",
+      "statement": "交货安排",
+      "annotation_character_ids": [
+        "mulanhua_weike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db4338d05f6c0981",
+      "statement": "请求上级动员",
+      "annotation_character_ids": [
+        "mulanhua_sangsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eb8618cb7ced8410",
+      "statement": "识别真物与死亡",
+      "annotation_character_ids": [
+        "mulanhua_qi_dapeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b8ace117938f9fcb",
+      "statement": "杀内线、窃听与被骗",
+      "annotation_character_ids": [
+        "mulanhua_sangsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82a26eb1a1d9a4e4",
+      "statement": "处理尸体",
+      "annotation_character_ids": [
+        "mulanhua_qi_dapeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ba418d9c77765bb4",
+      "statement": "探险掩护及临别",
+      "annotation_character_ids": [
+        "mulanhua_weike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cce74d10d4b1d7cb",
+      "statement": "外貌、身份、战争与同盟宗旨",
+      "annotation_character_ids": [
+        "mulanhua_weike_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_35efb57ba63f1b0b",
+      "statement": "丧子矛盾、致谢与行动情报",
+      "annotation_character_ids": [
+        "mulanhua_weike_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_096d4ee0717ef21f",
+      "statement": "最终死者未按名对应",
+      "annotation_character_ids": [
+        "mulanhua_peiduo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c524e8c7ba8dbccd",
+      "statement": "任务与死亡",
+      "annotation_character_ids": [
+        "mulanhua_weike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_94536ab1b317c59c",
+      "statement": "报告清算并离开",
+      "annotation_character_ids": [
+        "mulanhua_weike_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5df0f344fa120b4",
+      "statement": "清算结局",
+      "annotation_character_ids": [
+        "mulanhua_sangsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

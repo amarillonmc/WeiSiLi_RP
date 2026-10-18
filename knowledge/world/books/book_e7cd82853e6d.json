@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "id": "book_e7cd82853e6d",
+  "title": "鬼哭之一",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/鬼哭之一.txt",
+  "file": "books/book_e7cd82853e6d.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "e63b8f5a7da9f2748eeaa60469afae760d243812498e3e97168d51e6684f0af9",
+  "source_lines": 65,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "南（鬼哭之一）",
+      "card_id": "guihua_cry_nan",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "眉青",
+      "card_id": "guihua_cry_meiqing",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "成小姐",
+      "reason": "前住户仅被他人描述；不能凭哭声确定为她，更不能确定转生。"
+    },
+    {
+      "name": "售屋老人",
+      "reason": "低价售屋后失联，但没有直接证据证明故意以鬼害人。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_a4b1a6ccb20d1053",
+      "statement": "购房目标、诚实询价",
+      "annotation_character_ids": [
+        "guihua_cry_nan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f2bff53ba2a7f336",
+      "statement": "职业与家庭规划",
+      "annotation_character_ids": [
+        "guihua_cry_meiqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_850973d8c309e6c5",
+      "statement": "首次听哭、坦白、怀孕与结尾",
+      "annotation_character_ids": [
+        "guihua_cry_meiqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4bd3c121e2c598b6",
+      "statement": "异常、抗争及停止哭声",
+      "annotation_character_ids": [
+        "guihua_cry_nan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

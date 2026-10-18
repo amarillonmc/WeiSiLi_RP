@@ -1,0 +1,36 @@
+{
+  "id": "angel_prize",
+  "title": "时间大神握有的重要之物",
+  "kind": "object",
+  "summary": "天使与族人要夺回或毁去的目标，具体性质在现有条目中不作猜补。",
+  "mechanism": {
+    "text": "原作以夺回／毁去任务推动空间行动；该物的独立可复用能力未在所引证据中确立。",
+    "epistemic_status": "textual_fact"
+  },
+  "access_conditions": [
+    "时间大神所在空间与任务条件"
+  ],
+  "limits": [
+    "不给未知之物补姓名或万能效果",
+    "天使使用的强能量环节不变成个人永久技能"
+  ],
+  "last_known_state": "《魔像》天使牺牲时重要之物被毁。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "适合历史阶段的夺回与营救目标；毁后只可追问影响，不让原物重新出现在货架。"
+  },
+  "character_ids": [
+    "adventure_tianshi",
+    "adventure_time_god"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_bb015999e4c17ce8",
+    "evidence_ee74e8fe97b1a055",
+    "evidence_98c4eff68d44a597"
+  ],
+  "book_ids": [
+    "book_4061a76cea80"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0",
+  "id": "book_928de33dd33f",
+  "title": "晚礼服",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/24晚礼服.txt",
+  "file": "books/book_928de33dd33f.json",
+  "inherited_fact_count": 11,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "872e7732d3fe83f674a2ad422e588dff2af648b73cca904c8b43a9b3c9351b95",
+  "source_lines": 662,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "燕玲",
+      "card_id": "gaosi_yan_ling",
+      "role": "主角/受胁迫的阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "穆尔西斯",
+      "card_id": "gaosi_muersisi",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "晚礼服案的五名面具歹徒",
+      "card_id": "gaosi_yanling_masked_gang",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "燕玲的父亲",
+      "reason": "只通过女儿口述出现，失踪与犯罪背景没有独立行动场面；不虚构卡片姓名或能力。"
+    },
+    {
+      "name": "男爵车上同伴",
+      "reason": "枪战中未具可区分身份，作为男爵的条件性组织支援记录。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7e7aa3a37ee36819",
+      "statement": "伏击、人数、殴打与搜查",
+      "annotation_character_ids": [
+        "gaosi_yanling_masked_gang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7af433f1a684da96",
+      "statement": "宅内搜毁",
+      "annotation_character_ids": [
+        "gaosi_yanling_masked_gang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6cf2ad7918bfaf8c",
+      "statement": "身份与警方观察",
+      "annotation_character_ids": [
+        "gaosi_yan_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71f4473c84530c03",
+      "statement": "履历与走私目标",
+      "annotation_character_ids": [
+        "gaosi_muersisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e504ea0e5f807c4b",
+      "statement": "不同犯罪方判断",
+      "annotation_character_ids": [
+        "gaosi_yanling_masked_gang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2da1791c10fec6df",
+      "statement": "搏斗、鞋刃与枪伤",
+      "annotation_character_ids": [
+        "gaosi_muersisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7a9026d5aa8e8429",
+      "statement": "父亲、胁迫、设计与转变",
+      "annotation_character_ids": [
+        "gaosi_yan_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_920ca09bc8a4115c",
+      "statement": "胁迫和方案",
+      "annotation_character_ids": [
+        "gaosi_muersisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1613d051ef83a815",
+      "statement": "绑架回述及真藏物法",
+      "annotation_character_ids": [
+        "gaosi_yanling_masked_gang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f2427614903bec28",
+      "statement": "交衣与脱险",
+      "annotation_character_ids": [
+        "gaosi_yan_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_54e9d6004735ec01",
+      "statement": "中枪结局",
+      "annotation_character_ids": [
+        "gaosi_muersisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

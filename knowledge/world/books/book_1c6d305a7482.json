@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1c6d305a7482",
+  "title": "密码",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/073密码.txt",
+  "file": "books/book_1c6d305a7482.json",
+  "inherited_fact_count": 6,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "12d3df795be0899612ff0fef023fc9c4916ca798f27da2668ff17299e3c57ebb",
+  "source_lines": 3728,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "密码及命题调查"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "推论与合作"
+    },
+    {
+      "name": "齐白",
+      "card_id": "weisili_qi_bai",
+      "role": "主角",
+      "basis": "寻宝及爆破脱险"
+    },
+    {
+      "name": "板登活佛",
+      "card_id": "weisili_ban_deng",
+      "role": "重要配角",
+      "basis": "与生命密码相关的跨书人物"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "参与讨论"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "讨论与信息协作"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "共同参与"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "共同参与"
+    },
+    {
+      "name": "国家情报局局长",
+      "card_id": "weisili_mima_director",
+      "role": "反派",
+      "basis": "以权谋私和寻宝主线"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "开篇与温宝裕争执、参与卫家日常场景"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "藏宝老人与幸存工人",
+      "reason": "一次性旧闻讲述者和历史线索人物，无独立可核主角行动线"
+    },
+    {
+      "name": "蛹中生物",
+      "reason": "作为待解生命现象，没有可辨独立人格和行为逻辑"
+    },
+    {
+      "name": "太平天国历史人物",
+      "reason": "多属背景猜测，不能把字词平天误建成角色"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_f5646047d3975e69",
+      "statement": "研究员名片与迂回接近",
+      "annotation_character_ids": [
+        "weisili_ban_deng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a715fd76294107ee",
+      "statement": "轻功绝顶与慧黠的叙述",
+      "annotation_character_ids": [
+        "weisili_liang_chen",
+        "weisili_mei_jing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_42c6a0f7bfcffbc2",
+      "statement": "职位、罗织罪名倾向和私心",
+      "annotation_character_ids": [
+        "weisili_mima_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a41d147f8558c2f",
+      "statement": "少年藏宝执念形成",
+      "annotation_character_ids": [
+        "weisili_mima_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5848b8862302bed3",
+      "statement": "爆破、逃命与失败后果",
+      "annotation_character_ids": [
+        "weisili_mima_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_97e6a220f44329c0",
+      "statement": "遗传学兴趣及早期说法",
+      "annotation_character_ids": [
+        "weisili_ban_deng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

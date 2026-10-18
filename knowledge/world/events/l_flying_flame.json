@@ -1,0 +1,28 @@
+{
+  "id": "l_flying_flame",
+  "title": "罗开保护卡娅并帮助受困灵魂",
+  "kind": "event",
+  "summary": "八角星灵魂求生牵涉对卡娅的要挟，罗开阻止这种手段并继续协助水荭寻找情报。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《飞焰》终局。",
+    "narrative_layer": "present"
+  },
+  "state_before": "求生需要与私人秘密相冲突。",
+  "state_after": "继续救助但拒绝以秘密控制他人；未获得外星全部技术。",
+  "knowledge_boundary": "掌握秘密不等于有权替当事人公开。",
+  "character_ids": [
+    "adventure_luokai",
+    "adventure_kaya",
+    "adventure_shui_hong"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_81513ebf39b4b572"
+  ],
+  "book_ids": [
+    "book_e34754c140ce"
+  ]
+}

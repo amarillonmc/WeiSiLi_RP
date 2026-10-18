@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1e5a6bf2a99c",
+  "title": "陆判",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/陆判.txt",
+  "file": "books/book_1e5a6bf2a99c.json",
+  "inherited_fact_count": 5,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "6be5480dc0fbb21639cdf4a5641326800c74b32dd0bb8eb9fe3bd0299b145187",
+  "source_lines": 79,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "陆判",
+      "card_id": "guihua_lu_pan",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "朱尔旦",
+      "card_id": "guihua_zhu_erdan",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "朱夫人",
+      "reason": "一次性受术者，未承担独立主视角或对抗行动。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_82446eb62d5c7a84",
+      "statement": "赌赛、抱像与敬酒",
+      "annotation_character_ids": [
+        "guihua_zhu_erdan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1e0cbe4be4e79269",
+      "statement": "现身与交友",
+      "annotation_character_ids": [
+        "guihua_lu_pan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a1011c26da561f8",
+      "statement": "与陆判交友、换心和请求",
+      "annotation_character_ids": [
+        "guihua_zhu_erdan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a596ac2258096a44",
+      "statement": "换心、换头和效果",
+      "annotation_character_ids": [
+        "guihua_lu_pan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d0c15a8be5b1be97",
+      "statement": "妻子换头后的反应",
+      "annotation_character_ids": [
+        "guihua_zhu_erdan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

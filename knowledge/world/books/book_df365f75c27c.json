@@ -1,0 +1,454 @@
+{
+  "schema_version": "1.0",
+  "id": "book_df365f75c27c",
+  "title": "前世",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/111前世.txt",
+  "file": "books/book_df365f75c27c.json",
+  "inherited_fact_count": 40,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "3511710d341a7a85d5c5905de764ae2541896d6886379db00cf8d681d56b3522",
+  "source_lines": 2749,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "普索利",
+      "card_id": "weisili_pusuoli",
+      "role": "重要配角",
+      "basis": "组织聚会并转达结论"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "追查母子"
+    },
+    {
+      "name": "青龙",
+      "card_id": "yuanzhenxia_qinglong",
+      "role": "重要配角",
+      "basis": "安排与转世者见面"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "系列主角",
+      "basis": "末尾酒会"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "系列主角",
+      "basis": "末尾讨论"
+    },
+    {
+      "name": "牛顿（弗林·埃蒙顿）",
+      "card_id": "weisili_newton_flynn",
+      "role": "单书主角",
+      "basis": "旧案、身世与再世主线"
+    },
+    {
+      "name": "方琴",
+      "card_id": "weisili_fang_qin",
+      "role": "单书关键见证人",
+      "basis": "旧案、身世与再世主线"
+    },
+    {
+      "name": "约克（阿佳旧恋人）",
+      "card_id": "weisili_york",
+      "role": "单书主角",
+      "basis": "旧案、身世与再世主线"
+    },
+    {
+      "name": "阿佳及其转世暴君",
+      "card_id": "weisili_ajia_tyrant",
+      "role": "单书主角",
+      "basis": "旧案、身世与再世主线"
+    },
+    {
+      "name": "鲁鲁",
+      "card_id": "weisili_lulu",
+      "role": "重要配角",
+      "basis": "旧案、身世与再世主线"
+    },
+    {
+      "name": "玫玲",
+      "card_id": "weisili_meiling",
+      "role": "单书主角",
+      "basis": "旧案、身世与再世主线"
+    },
+    {
+      "name": "亲王（小水仙旧案）",
+      "card_id": "weisili_qianshi_prince",
+      "role": "反派",
+      "basis": "旧案、身世与再世主线"
+    },
+    {
+      "name": "新掌权者（亲王之后）",
+      "card_id": "weisili_qianshi_usurper",
+      "role": "反派",
+      "basis": "旧案、身世与再世主线"
+    },
+    {
+      "name": "蛛丝链刀杀手",
+      "card_id": "weisili_qianshi_chain_assassin",
+      "role": "反派",
+      "basis": "旧案、身世与再世主线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "小唐（青龙使者）",
+      "reason": "一次性传话少年，与小郭妻子小唐不是同人；尚无多书实际出场依据。"
+    },
+    {
+      "name": "高个子及其他灵学研究者",
+      "reason": "单次聚会中的理论与协助，未证实追踪灵魂技能或独立反派线。"
+    },
+    {
+      "name": "历史贵族、其他死难王室成员与各国暴君举例",
+      "reason": "背景人物或历史比较，不补写成独立主动角色。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_f001cd2f1bbe578f",
+      "statement": "九十三岁、友谊与邀约",
+      "annotation_character_ids": [
+        "weisili_pusuoli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7c8294513be34408",
+      "statement": "邀请及见证",
+      "annotation_character_ids": [
+        "weisili_fang_qin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4bacdf2aa90453c1",
+      "statement": "真名与来信",
+      "annotation_character_ids": [
+        "weisili_newton_flynn"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_64f8f5adf86875cb",
+      "statement": "婴儿对话",
+      "annotation_character_ids": [
+        "weisili_fang_qin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_679f2e8b29c16817",
+      "statement": "婴儿与前世",
+      "annotation_character_ids": [
+        "weisili_ajia_tyrant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff1b8e342e9d9929",
+      "statement": "记录与传讯",
+      "annotation_character_ids": [
+        "weisili_fang_qin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_66dce12ab5d014f7",
+      "statement": "财富与关系",
+      "annotation_character_ids": [
+        "weisili_newton_flynn"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a5532daf2689dbc4",
+      "statement": "生前选择",
+      "annotation_character_ids": [
+        "weisili_ajia_tyrant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c72c56acf93f368d",
+      "statement": "寻访、袭击及误判",
+      "annotation_character_ids": [
+        "weisili_york"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7923691c655e94e0",
+      "statement": "遇袭及恐惧",
+      "annotation_character_ids": [
+        "weisili_newton_flynn"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_18960807f5e6647f",
+      "statement": "区分理论、恐惧与实际查找",
+      "annotation_character_ids": [
+        "weisili_pusuoli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_577c11deef719a4f",
+      "statement": "转向调查",
+      "annotation_character_ids": [
+        "weisili_newton_flynn"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_95ae888fa579fc6d",
+      "statement": "公开联络",
+      "annotation_character_ids": [
+        "weisili_york"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ba8e13cdfb96561c",
+      "statement": "回避与旧交",
+      "annotation_character_ids": [
+        "weisili_lulu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_023b17f68d81b0e8",
+      "statement": "同名关系",
+      "annotation_character_ids": [
+        "weisili_meiling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c7ce69c4736c6320",
+      "statement": "怀孕和威胁",
+      "annotation_character_ids": [
+        "weisili_meiling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e0cc68740b378f9a",
+      "statement": "提供资料",
+      "annotation_character_ids": [
+        "weisili_lulu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e6d5647180bcd29d",
+      "statement": "杀人委托",
+      "annotation_character_ids": [
+        "weisili_qianshi_prince"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_272878249cf5cdd6",
+      "statement": "替死与杀手",
+      "annotation_character_ids": [
+        "weisili_ajia_tyrant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72b20654d460625c",
+      "statement": "杀错人与生产",
+      "annotation_character_ids": [
+        "weisili_meiling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_73f857a1c37b9cf3",
+      "statement": "误认、技术及未练成钩刀",
+      "annotation_character_ids": [
+        "weisili_qianshi_chain_assassin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_50219cf84cf5fefe",
+      "statement": "误导推断",
+      "annotation_character_ids": [
+        "weisili_lulu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b026ee7f5353d18b",
+      "statement": "失势",
+      "annotation_character_ids": [
+        "weisili_qianshi_prince"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ef04e043f8ac655e",
+      "statement": "清洗",
+      "annotation_character_ids": [
+        "weisili_qianshi_usurper"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1143f8a7ec451618",
+      "statement": "背叛旧助力",
+      "annotation_character_ids": [
+        "weisili_qianshi_prince"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2c6666e7fc006358",
+      "statement": "与亲王旧事",
+      "annotation_character_ids": [
+        "yuanzhenxia_qinglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dac3ed881a3f2b05",
+      "statement": "亲属遭遇和败亡",
+      "annotation_character_ids": [
+        "weisili_qianshi_usurper"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bef6af8081b05858",
+      "statement": "失势仍掌武装",
+      "annotation_character_ids": [
+        "weisili_ajia_tyrant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d40de75d53d5adf",
+      "statement": "血缘线索",
+      "annotation_character_ids": [
+        "weisili_qianshi_prince"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d0f73cebbf15a42",
+      "statement": "救助同胞",
+      "annotation_character_ids": [
+        "weisili_lulu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8e364b34e4a07b88",
+      "statement": "获救",
+      "annotation_character_ids": [
+        "yuanzhenxia_qinglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f641706f2086b814",
+      "statement": "信物与使者",
+      "annotation_character_ids": [
+        "yuanzhenxia_qinglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_054a0075a0d0226d",
+      "statement": "扶植与情妇推断",
+      "annotation_character_ids": [
+        "weisili_qianshi_usurper"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_33d617558de33a07",
+      "statement": "后续不确定",
+      "annotation_character_ids": [
+        "weisili_meiling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16e3671321cd884b",
+      "statement": "密码梦与暴行",
+      "annotation_character_ids": [
+        "weisili_ajia_tyrant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_17ea223bb859c808",
+      "statement": "耳机距离",
+      "annotation_character_ids": [
+        "yuanzhenxia_qinglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c34c50a020f5b913",
+      "statement": "拒绝终局",
+      "annotation_character_ids": [
+        "weisili_ajia_tyrant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_051a75c420772e07",
+      "statement": "制止刺激",
+      "annotation_character_ids": [
+        "weisili_lulu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3d0cae33deea468d",
+      "statement": "清白终局",
+      "annotation_character_ids": [
+        "weisili_newton_flynn"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c85a30ea626b876e",
+      "statement": "获知真相并受托转告",
+      "annotation_character_ids": [
+        "weisili_pusuoli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,362 @@
+{
+  "schema_version": "1.0",
+  "id": "book_ab0673a37fb6",
+  "title": "非常遭遇",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/141非常遭遇.txt",
+  "file": "books/book_ab0673a37fb6.json",
+  "inherited_fact_count": 30,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "edec55040c8d653cf2d8942f92f12902da91ca8315968706aacce8c99ecb3122",
+  "source_lines": 1296,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "伍路元",
+      "card_id": "weisili_wu_luyuan",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "陈老石门",
+      "card_id": "weisili_chen_laoshimen",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "古勒勒",
+      "card_id": "weisili_gu_lele",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "沙利文",
+      "card_id": "weisili_sha_liwen",
+      "role": "反派",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "王莲",
+      "card_id": "weisili_wang_lian",
+      "role": "反派",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "伍路元部长孙子",
+      "card_id": "weisili_wu_minister",
+      "role": "反派",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "设宴军阀",
+      "card_id": "weisili_chen_warlord",
+      "role": "反派",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "军阀两舅子",
+      "card_id": "weisili_chen_inlaws",
+      "role": "反派",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "陈老三个儿子",
+      "card_id": "weisili_chen_three_sons",
+      "role": "阶段性对立者",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "伍路元父亲",
+      "card_id": "weisili_wu_father",
+      "role": "反派",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "大贪官",
+      "card_id": "weisili_wu_corrupt_official",
+      "role": "反派",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "范高头、范篙头",
+      "reason": "同一救援者名字异写，一次性历史帮助者，没有跨书重要身份或主要视角"
+    },
+    {
+      "name": "梦中老人",
+      "reason": "前两梦真实来源未解，第三梦有人为骗局，不合并为已证实的命运神"
+    },
+    {
+      "name": "古勒勒妹妹及伍家其余子孙",
+      "reason": "婚姻和家族背景，缺少独立主角或反派行动"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_ff9e4d016e9eefea",
+      "statement": "帮会身份与军阀逼迫",
+      "annotation_character_ids": [
+        "weisili_chen_laoshimen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8b1f07117793c1f0",
+      "statement": "逼迫陈老交权的起因",
+      "annotation_character_ids": [
+        "weisili_chen_warlord"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_423e7972193c4927",
+      "statement": "小人物借姻亲上位",
+      "annotation_character_ids": [
+        "weisili_chen_inlaws"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_15e2b5f6e8b5bf7a",
+      "statement": "跳车、救人和医治",
+      "annotation_character_ids": [
+        "weisili_chen_laoshimen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_27ba0aef61137e86",
+      "statement": "贫困、赌米钱和抵妻叫喊",
+      "annotation_character_ids": [
+        "weisili_wu_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a0b2a70aa281e1ac",
+      "statement": "贫困、父亲暴力和断腿起源",
+      "annotation_character_ids": [
+        "weisili_wu_luyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_429501ee746467c7",
+      "statement": "掌击与儿子冲上街头",
+      "annotation_character_ids": [
+        "weisili_wu_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3a08a0811f607b3b",
+      "statement": "溃败、伏击真相与亲属之死",
+      "annotation_character_ids": [
+        "weisili_chen_warlord"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b077c22b2f64f2e",
+      "statement": "伏击任务和战死",
+      "annotation_character_ids": [
+        "weisili_chen_inlaws"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eb5c3d3cf4900a7f",
+      "statement": "脱险及传位后果",
+      "annotation_character_ids": [
+        "weisili_chen_laoshimen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_019b54cb2e5ef1ba",
+      "statement": "发难计划、让权及拒绝警告",
+      "annotation_character_ids": [
+        "weisili_chen_three_sons"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0775c4a47221f638",
+      "statement": "让权、真实训练与传闻边界",
+      "annotation_character_ids": [
+        "weisili_wu_luyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e0e83abbdb251d2",
+      "statement": "白老大继续劝说而不欢而散",
+      "annotation_character_ids": [
+        "weisili_chen_three_sons"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1d67b1439cf8996f",
+      "statement": "部长身份与外貌语言",
+      "annotation_character_ids": [
+        "weisili_wu_minister"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0d64bd0707bf251c",
+      "statement": "独立运动地位与求助",
+      "annotation_character_ids": [
+        "weisili_gu_lele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_613e68cf0c1cb0d3",
+      "statement": "重逢时叫停紧张局面",
+      "annotation_character_ids": [
+        "weisili_sha_liwen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7a51d7f5afcdd2a2",
+      "statement": "腐败互惠、沉江获救及仕途",
+      "annotation_character_ids": [
+        "weisili_sha_liwen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_173387fcdfa6c776",
+      "statement": "围捕计划及调回法国",
+      "annotation_character_ids": [
+        "weisili_sha_liwen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb41a757460cdbc4",
+      "statement": "躲藏、独立与总统结局",
+      "annotation_character_ids": [
+        "weisili_gu_lele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b69455fa9cdf86fa",
+      "statement": "岛国终局地位",
+      "annotation_character_ids": [
+        "weisili_wu_luyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a3d45d7ba1780cd",
+      "statement": "家族关系与上海留学",
+      "annotation_character_ids": [
+        "weisili_wu_minister"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76833f80d935eb6d",
+      "statement": "梦中指示为事件而非自身施法",
+      "annotation_character_ids": [
+        "weisili_gu_lele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_48b6f8a4672d08b6",
+      "statement": "明确外貌及卫斯理突然收招",
+      "annotation_character_ids": [
+        "weisili_wang_lian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_caa643343f61f43d",
+      "statement": "具体救护表现",
+      "annotation_character_ids": [
+        "weisili_wu_luyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1163a6bcb92376fa",
+      "statement": "与部长共同设计第三个梦及签订协议",
+      "annotation_character_ids": [
+        "weisili_wang_lian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_180341854b10cdd6",
+      "statement": "腐败案件被包装成合作筹码",
+      "annotation_character_ids": [
+        "weisili_wu_corrupt_official"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8b136999b647e383",
+      "statement": "与王莲合作及完成协议",
+      "annotation_character_ids": [
+        "weisili_wu_minister"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_33c8c85e8151d217",
+      "statement": "被骗后的协议与家族选择",
+      "annotation_character_ids": [
+        "weisili_wu_luyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0701d65a3a3c3597",
+      "statement": "身份与署名",
+      "annotation_character_ids": [
+        "weisili_wang_lian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8ba78770f6d86b10",
+      "statement": "免死结果及中央原定决定",
+      "annotation_character_ids": [
+        "weisili_wu_corrupt_official"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

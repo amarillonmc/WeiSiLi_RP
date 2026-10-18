@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "id": "book_230ac1f98cc8",
+  "title": "两生",
+  "aliases": [],
+  "series": "非人协会系列",
+  "source_path": "非人协会系列/03两生.txt",
+  "file": "books/book_230ac1f98cc8.json",
+  "inherited_fact_count": 8,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "2f93c44dd91550ce1aaf7540c00856a9e15ad11d3906a38dd6b288e7803e60ab",
+  "source_lines": 565,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "阿尼密",
+      "card_id": "adventure_animi",
+      "role": "主角",
+      "basis": "贯穿两生调查"
+    },
+    {
+      "name": "宝德教授",
+      "card_id": "adventure_baode",
+      "role": "主角",
+      "basis": "两次生命的中心人物"
+    },
+    {
+      "name": "伦诺",
+      "card_id": "adventure_lunnuo",
+      "role": "反派",
+      "basis": "宝德确认带头挥棍的具名施暴者"
+    },
+    {
+      "name": "范先生",
+      "card_id": "adventure_fan",
+      "role": "重要配角",
+      "basis": "协会讨论与资格判断"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "红霞",
+      "reason": "单书重要受害者与关系人物，非独立主视角且无跨书行动"
+    },
+    {
+      "name": "梆克少校（文中亦作葛克）、阿隆",
+      "reason": "单书向导和线索协助者"
+    },
+    {
+      "name": "海烈根",
+      "reason": "背景回忆引荐者"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_311a4d0b8ac9d2b4",
+      "statement": "能力解释及不是读活人思想",
+      "annotation_character_ids": [
+        "adventure_animi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e610d69c0e8e63cb",
+      "statement": "医学工作、红霞事故与照顾",
+      "annotation_character_ids": [
+        "adventure_baode"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f61b54f05d29bf20",
+      "statement": "助手身份与勤奋",
+      "annotation_character_ids": [
+        "adventure_lunnuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5c590f2832d35c08",
+      "statement": "死亡与试图寄托意识",
+      "annotation_character_ids": [
+        "adventure_baode"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d77bc9b0cd3917f4",
+      "statement": "宝德确认第一棍来自伦诺",
+      "annotation_character_ids": [
+        "adventure_lunnuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b693139a061bd4f1",
+      "statement": "夺取身体的伦理判断",
+      "annotation_character_ids": [
+        "adventure_animi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a6f15c12cde0a80a",
+      "statement": "第二生命身体限制与结局",
+      "annotation_character_ids": [
+        "adventure_baode"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0ad72a12dcb0bd78",
+      "statement": "救援失败与终局",
+      "annotation_character_ids": [
+        "adventure_animi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

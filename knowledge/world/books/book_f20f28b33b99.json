@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f20f28b33b99",
+  "title": "红月亮",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/013红月亮.txt",
+  "file": "books/book_f20f28b33b99.json",
+  "inherited_fact_count": 22,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "749ed4b54c29c82162b2497567e859bbf402c90fecbb3d6fd0fdae91684eab13",
+  "source_lines": 3185,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "巴图",
+      "card_id": "weisili_batu",
+      "role": "重要配角",
+      "basis": "调查、失忆后再合作与基地反击"
+    },
+    {
+      "name": "白衣接待者",
+      "card_id": "weisili_redmoon_envoy",
+      "role": "反派",
+      "basis": "八名先遣者中的可交流主导者"
+    },
+    {
+      "name": "普娜",
+      "card_id": "weisili_puna",
+      "role": "反派",
+      "basis": "黑帮执行和秘密交接"
+    },
+    {
+      "name": "史万",
+      "card_id": "weisili_shiwan",
+      "role": "反派",
+      "basis": "警务掩护及受雇者指挥"
+    },
+    {
+      "name": "保尔",
+      "card_id": "weisili_baoer",
+      "role": "单书主角",
+      "basis": "目击、摄影与失忆退出"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "另一吃食店老板、其余受雇者和七名白衣同伴",
+      "reason": "多为未命名执行或同群体成员；本批以独立讲话并主导决定的接待者为主卡，设备与同伴支持必须在场。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_69e8fc7065ff7559",
+      "statement": "身世及情报经历",
+      "annotation_character_ids": [
+        "weisili_batu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5c6b5c50bfb4f46d",
+      "statement": "探查身份与警务姿态",
+      "annotation_character_ids": [
+        "weisili_shiwan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_20e32ca23a3de5f6",
+      "statement": "记者身份及时间差线索",
+      "annotation_character_ids": [
+        "weisili_baoer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f738b4f9f884a80e",
+      "statement": "身份、力量与交接",
+      "annotation_character_ids": [
+        "weisili_puna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_40452bff087ff3e9",
+      "statement": "摔角扑击和现金交涉",
+      "annotation_character_ids": [
+        "weisili_puna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff1401d96298a6ee",
+      "statement": "遭灭口",
+      "annotation_character_ids": [
+        "weisili_puna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a163899f8d873c9",
+      "statement": "记忆仪器与假发防护",
+      "annotation_character_ids": [
+        "weisili_redmoon_envoy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e8c7f95eee68bf99",
+      "statement": "特制假发",
+      "annotation_character_ids": [
+        "weisili_batu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fbfb9c2beb2c5b4c",
+      "statement": "醒来与记忆缺失",
+      "annotation_character_ids": [
+        "weisili_baoer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9f79da952999e1ce",
+      "statement": "失忆与重新倾听",
+      "annotation_character_ids": [
+        "weisili_batu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ec9685a12f7e05b5",
+      "statement": "明确退出",
+      "annotation_character_ids": [
+        "weisili_baoer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7ccfd4e6a9f6dd6f",
+      "statement": "求援及下属关系",
+      "annotation_character_ids": [
+        "weisili_shiwan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3219d5be57a375e6",
+      "statement": "受雇原因和死亡",
+      "annotation_character_ids": [
+        "weisili_shiwan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed20a679aca8bdce",
+      "statement": "受雇者与清除关系",
+      "annotation_character_ids": [
+        "weisili_puna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_55cf76a22289fc48",
+      "statement": "风险判断及潜水设备",
+      "annotation_character_ids": [
+        "weisili_batu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_65a1c6cf9f6fc24f",
+      "statement": "捕捉与保留防护衣",
+      "annotation_character_ids": [
+        "weisili_batu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f715ee9f90609ce",
+      "statement": "白衣实际为装置",
+      "annotation_character_ids": [
+        "weisili_redmoon_envoy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0bba7ab11e56c189",
+      "statement": "同伴与移民决心",
+      "annotation_character_ids": [
+        "weisili_redmoon_envoy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47f18d46e74d58d3",
+      "statement": "细菌弱点",
+      "annotation_character_ids": [
+        "weisili_redmoon_envoy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6cd4c7c96b38f6fd",
+      "statement": "灭绝计划",
+      "annotation_character_ids": [
+        "weisili_redmoon_envoy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a9fe1a5229efaa2a",
+      "statement": "基地协作及操作",
+      "annotation_character_ids": [
+        "weisili_batu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_464117cadfc578f3",
+      "statement": "母星灾难及最终撤退",
+      "annotation_character_ids": [
+        "weisili_redmoon_envoy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

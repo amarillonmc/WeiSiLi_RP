@@ -1,0 +1,28 @@
+{
+  "id": "issue_nature_gods",
+  "title": "神名不等于宇宙法则权限",
+  "kind": "issue",
+  "claims": [
+    "时间大神会受创、求助。",
+    "爱神参与技术、研究和救援也受灾难限制。",
+    "阴主是地球人的理解方式，与残缺仪器有关。"
+  ],
+  "handling": {
+    "epistemic_status": "adaptation",
+    "text": "按实际展示裁定，不凭称号授予时间全权、全宇宙复活或绝对审判。"
+  },
+  "schema_version": "1.0",
+  "section": "issues",
+  "evidence_ids": [
+    "evidence_7043568fc1252fae",
+    "evidence_6bce224e44c7cc4b",
+    "evidence_aee546978e362bb4",
+    "evidence_2213a8685c61f34a",
+    "evidence_47c4faa4a3841ba4"
+  ],
+  "book_ids": [
+    "book_6a15650b973f",
+    "book_b032f28a589d",
+    "book_ede3a34d0069"
+  ]
+}

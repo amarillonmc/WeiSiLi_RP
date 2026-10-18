@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1095fd0d1b57",
+  "title": "足球",
+  "aliases": [],
+  "series": "年轻人",
+  "source_path": "年轻人/02足球.txt",
+  "file": "books/book_1095fd0d1b57.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "a7f58facae73285a5b2d989da7fdb7f154aa304d775d1269df15001e2288503c",
+  "source_lines": 434,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "年轻人",
+      "card_id": "adventure_young",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "奥丽卡公主",
+      "card_id": "adventure_princess",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "中国人",
+      "card_id": "adventure_uncle",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "金刚",
+      "card_id": "adventure_jingang",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "印度老虎",
+      "card_id": "adventure_indian_tiger",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "玲珑手",
+      "card_id": "adventure_linglong",
+      "role": "重要配角",
+      "basis": "跨书协助安排藏身"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "无名研究及服务人员",
+      "reason": "仅承担一次性背景与事务职能。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0920fbe8f431e9e5",
+      "statement": "组织、财富、杀手与古堡定金",
+      "annotation_character_ids": [
+        "adventure_jingang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f956011f5c4d3c1d",
+      "statement": "经历、形貌与威胁",
+      "annotation_character_ids": [
+        "adventure_indian_tiger"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d58e89a903062eb7",
+      "statement": "被引向冲突的结局",
+      "annotation_character_ids": [
+        "adventure_jingang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_daa2975d6fe1ec28",
+      "statement": "本票触发旧怨",
+      "annotation_character_ids": [
+        "adventure_indian_tiger"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

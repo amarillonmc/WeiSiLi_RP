@@ -1,0 +1,246 @@
+{
+  "schema_version": "1.0",
+  "id": "book_901a4d30a01c",
+  "title": "红粉猫",
+  "aliases": [],
+  "series": "浪子高达系列",
+  "source_path": "浪子高达系列/红粉猫.txt",
+  "file": "books/book_901a4d30a01c.json",
+  "inherited_fact_count": 15,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "e5ac1f08544ac7856191c9cccf7fcb360286f9b423ece07a437a88998ba00323",
+  "source_lines": 6713,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "高达",
+      "card_id": "adventure_gaoda",
+      "role": "主角",
+      "basis": "全书核心行动视角"
+    },
+    {
+      "name": "杜雪",
+      "card_id": "adventure_du_xue",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "克鲁斯",
+      "card_id": "adventure_kelusi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "时重池",
+      "card_id": "adventure_shi_lushi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "费经理",
+      "card_id": "adventure_fei",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "莫教授",
+      "card_id": "adventure_mo",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "阿发",
+      "card_id": "adventure_afa",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "万夹",
+      "card_id": "adventure_wanjia",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "韦松石",
+      "card_id": "adventure_wei_songshi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "凯德琳",
+      "card_id": "adventure_kaidelin",
+      "role": "单书主角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "爱嘉",
+      "card_id": "adventure_aijia",
+      "role": "单书主角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "你赛大王",
+      "card_id": "adventure_nisai",
+      "role": "反派",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "铁汉保罗",
+      "card_id": "adventure_paoluo",
+      "role": "反派",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "庞帝",
+      "card_id": "adventure_pangdi",
+      "role": "反派",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "阿伦",
+      "reason": "单书忠仆与接洽人，女儿身份使其有具体联系，但无跨书重要行动。"
+    },
+    {
+      "name": "阿达再老国王",
+      "reason": "赌约与病故的历史、家庭背景。"
+    },
+    {
+      "name": "澳洲私家侦探铁汉",
+      "reason": "仅由你赛回述的受害者，不能与保罗同外号合并。"
+    },
+    {
+      "name": "无名陪侍与警卫",
+      "reason": "未形成独立身份行动线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c86c095be9e44ae8",
+      "statement": "身份、契约与求援代价",
+      "annotation_character_ids": [
+        "adventure_kaidelin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_401559cc74a927b5",
+      "statement": "契约与威胁",
+      "annotation_character_ids": [
+        "adventure_nisai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5c68de4d78de6412",
+      "statement": "身份、受控经历与改变帮助态度",
+      "annotation_character_ids": [
+        "adventure_aijia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e1f1f4a14bb2347",
+      "statement": "保罗联络与留下的线索",
+      "annotation_character_ids": [
+        "adventure_aijia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_93f6d1128fc4e7b0",
+      "statement": "作为接近组织入口",
+      "annotation_character_ids": [
+        "adventure_paoluo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b10ac9f9ae60acd",
+      "statement": "保罗对待她的态度与冲突",
+      "annotation_character_ids": [
+        "adventure_aijia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f7180944f2bb3831",
+      "statement": "挑衅、交锋与被抬走",
+      "annotation_character_ids": [
+        "adventure_paoluo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6cc845ed4ef22a67",
+      "statement": "地位与招揽条件",
+      "annotation_character_ids": [
+        "adventure_pangdi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3420097d441d709a",
+      "statement": "被上级越过与引入住所",
+      "annotation_character_ids": [
+        "adventure_pangdi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47e4d034421f662d",
+      "statement": "升降系统和本人控制",
+      "annotation_character_ids": [
+        "adventure_nisai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_427a3eee6d679eab",
+      "statement": "麻醉解除与被擒",
+      "annotation_character_ids": [
+        "adventure_nisai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7c1528f04623ff98",
+      "statement": "契约被毁",
+      "annotation_character_ids": [
+        "adventure_kaidelin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eacd9c40af02d94f",
+      "statement": "烧约与跳伞",
+      "annotation_character_ids": [
+        "adventure_nisai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b2080b3e164a7c1",
+      "statement": "父死、得知结果与回国",
+      "annotation_character_ids": [
+        "adventure_kaidelin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_242b50e0a8e1f72f",
+      "statement": "未兑现报酬",
+      "annotation_character_ids": [
+        "adventure_nisai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

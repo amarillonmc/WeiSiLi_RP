@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "id": "book_383d3f6c3c1b",
+  "title": "杀人奖金",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/15杀人奖金.txt",
+  "file": "books/book_383d3f6c3c1b.json",
+  "inherited_fact_count": 19,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "6301f596568dbb4e5480e2507becf8c1fc9b9be8dce36596c8cf1062f528dd07",
+  "source_lines": 2164,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "班奈克",
+      "card_id": "mulanhua_ban_naike",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "李特",
+      "card_id": "mulanhua_li_te",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "甘八",
+      "card_id": "mulanhua_gan_ba",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "王达人",
+      "card_id": "mulanhua_wang_daren",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "马超文",
+      "card_id": "mulanhua_ma_chaowen",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "汪老先生夫妇、理发师、其余会议代表与无名替身",
+      "reason": "一次性救助、受害者或缺乏独立行为的执行者；不以宴会列席为每个匿名头目编造个人经历。"
+    },
+    {
+      "name": "计钊、王达",
+      "reason": "计钊为计划的文本讹字；王达是王达人被分词截短，不另立人物。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0f3e9f1af6e14da3",
+      "statement": "履历、外观及会议目标",
+      "annotation_character_ids": [
+        "mulanhua_gan_ba"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c4861d0e532babf5",
+      "statement": "身份、能力与承接委托",
+      "annotation_character_ids": [
+        "mulanhua_li_te"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_da9b94a1eae6a5f2",
+      "statement": "压住争执并提供器材",
+      "annotation_character_ids": [
+        "mulanhua_gan_ba"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d5cd17c615f96f19",
+      "statement": "报价与暗杀履历",
+      "annotation_character_ids": [
+        "mulanhua_ban_naike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_68ccfac53e57c8af",
+      "statement": "攀墙受挫及声誉压力",
+      "annotation_character_ids": [
+        "mulanhua_li_te"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_43e5deaf91044646",
+      "statement": "变声和升级武器",
+      "annotation_character_ids": [
+        "mulanhua_li_te"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_61bef828eccd9613",
+      "statement": "被捕、泄露及真实暴露原因",
+      "annotation_character_ids": [
+        "mulanhua_li_te"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_73112f90b97442ee",
+      "statement": "重新委托、警戒及撤离",
+      "annotation_character_ids": [
+        "mulanhua_gan_ba"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b3ecbe455d9b7c8d",
+      "statement": "借电影声音掩护枪击",
+      "annotation_character_ids": [
+        "mulanhua_ban_naike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f9eb28af6ba8509",
+      "statement": "身份、惊慌和酒店告密",
+      "annotation_character_ids": [
+        "mulanhua_wang_daren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_02ef2e07dd6bd68d",
+      "statement": "识破伪装又被近身反制",
+      "annotation_character_ids": [
+        "mulanhua_ban_naike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb52832c9fcf300a",
+      "statement": "假救助及持枪押送",
+      "annotation_character_ids": [
+        "mulanhua_wang_daren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_11875163ed767e37",
+      "statement": "人质与被击昏脱困",
+      "annotation_character_ids": [
+        "mulanhua_ban_naike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_28e900b1a436084c",
+      "statement": "分成动机、退让与隔门追射",
+      "annotation_character_ids": [
+        "mulanhua_wang_daren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1b998ebccc00f441",
+      "statement": "手下协助监视警方",
+      "annotation_character_ids": [
+        "mulanhua_gan_ba"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa57897921b67fd1",
+      "statement": "秘密疗养照护",
+      "annotation_character_ids": [
+        "mulanhua_ma_chaowen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6d847498a0054489",
+      "statement": "伏击反应及车辆毁坏",
+      "annotation_character_ids": [
+        "mulanhua_ban_naike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b2d6aa53cfab20f6",
+      "statement": "设备确认和重伤恐惧",
+      "annotation_character_ids": [
+        "mulanhua_ban_naike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fecc451c43bf6708",
+      "statement": "反警犬、最后枪击及死亡",
+      "annotation_character_ids": [
+        "mulanhua_ban_naike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,423 @@
+{
+  "schema_version": "1.0",
+  "id": "book_543cc7939a66",
+  "title": "新武器",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/112新武器.txt",
+  "file": "books/book_543cc7939a66.json",
+  "inherited_fact_count": 34,
+  "curated_links": {
+    "events": [
+      "m_weicrossover"
+    ],
+    "arcs": [
+      "arc_muxiuzhen"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "824ddf0c78a3abb0f59cf65f874edbbabb722eea1c2ad556309d3cc5891a406e",
+  "source_lines": 2741,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "调查与后期解释"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "调查与后期解释"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "调查与后期解释"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "调查与后期解释"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "重要配角",
+      "basis": "调查与后期解释"
+    },
+    {
+      "name": "伦三德",
+      "card_id": "weisili_lun_sande",
+      "role": "重要配角",
+      "basis": "调查与后期解释"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "跨系列主角",
+      "basis": "提供潜水技能与仪器"
+    },
+    {
+      "name": "石亚玉",
+      "card_id": "weisili_shi_yayu",
+      "role": "单书主角",
+      "basis": "旧案行动者或终局调查者"
+    },
+    {
+      "name": "山下官子",
+      "card_id": "weisili_yamashita_guanzi",
+      "role": "单书主角",
+      "basis": "旧案行动者或终局调查者"
+    },
+    {
+      "name": "金秀四嫂",
+      "card_id": "weisili_jinxiu_sisao",
+      "role": "单书主角",
+      "basis": "旧案行动者或终局调查者"
+    },
+    {
+      "name": "竹（金秀四嫂部下）",
+      "card_id": "weisili_jinxiu_zhu",
+      "role": "单书主角",
+      "basis": "旧案行动者或终局调查者"
+    },
+    {
+      "name": "菊（金秀四嫂部下）",
+      "card_id": "weisili_jinxiu_ju",
+      "role": "单书主角",
+      "basis": "旧案行动者或终局调查者"
+    },
+    {
+      "name": "山下堤昭",
+      "card_id": "weisili_yamashita_tetsuaki",
+      "role": "单书主角",
+      "basis": "旧案行动者或终局调查者"
+    },
+    {
+      "name": "木村效良",
+      "card_id": "weisili_kimura_xiaoliang",
+      "role": "反派",
+      "basis": "旧案行动者或终局调查者"
+    },
+    {
+      "name": "广雄真三",
+      "card_id": "weisili_hiroo_shinzo",
+      "role": "反派",
+      "basis": "旧案行动者或终局调查者"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "梅",
+      "reason": "一次性协助四嫂侦察，未展开独立主角线；后为富豪之妻只作背景。"
+    },
+    {
+      "name": "兰",
+      "reason": "主要是对菊身份的误猜，未显示独立实际行动。"
+    },
+    {
+      "name": "三位古代藏石者",
+      "reason": "由菊转述伦的旧闻，未个体化的背景人物。"
+    },
+    {
+      "name": "瘾石",
+      "reason": "无独立人格的危险物；涉及它的解释均属角色推测，未现场检验。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_6f082edaabc6273f",
+      "statement": "外表、名字及模仿",
+      "annotation_character_ids": [
+        "weisili_yamashita_guanzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ffb6ff50915d26fc",
+      "statement": "行动规矩",
+      "annotation_character_ids": [
+        "weisili_jinxiu_sisao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c54c5efee4f0f1d8",
+      "statement": "资料整理",
+      "annotation_character_ids": [
+        "weisili_yamashita_guanzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2cad1c959773101",
+      "statement": "传奇潜水评价",
+      "annotation_character_ids": [
+        "weisili_kimura_xiaoliang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cdc01ecb10003cd7",
+      "statement": "潜水队失踪",
+      "annotation_character_ids": [
+        "weisili_yamashita_tetsuaki"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f32c57ffeef3b516",
+      "statement": "下潜未返",
+      "annotation_character_ids": [
+        "weisili_kimura_xiaoliang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_daea7f4349af681a",
+      "statement": "被俘、立场和交流",
+      "annotation_character_ids": [
+        "weisili_yamashita_tetsuaki"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_710a7b6c8d3a04cb",
+      "statement": "立场、武器及潜水本领",
+      "annotation_character_ids": [
+        "weisili_jinxiu_zhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4765268969bfe477",
+      "statement": "情感选择",
+      "annotation_character_ids": [
+        "weisili_jinxiu_zhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a24ad950eeb3f440",
+      "statement": "退隐与交涉",
+      "annotation_character_ids": [
+        "weisili_jinxiu_sisao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f10cacf657e9d59",
+      "statement": "查船与九鬼井",
+      "annotation_character_ids": [
+        "weisili_jinxiu_sisao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b18e93a2a3d67c1",
+      "statement": "家庭、职业与死亡",
+      "annotation_character_ids": [
+        "weisili_yamashita_tetsuaki"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4af2d4e9bab58105",
+      "statement": "家人离世与寻访",
+      "annotation_character_ids": [
+        "weisili_yamashita_guanzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bdad8b3b57a92fca",
+      "statement": "死亡次序与保密",
+      "annotation_character_ids": [
+        "weisili_jinxiu_zhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d04424338aea2911",
+      "statement": "家庭与去世",
+      "annotation_character_ids": [
+        "weisili_jinxiu_zhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a3d02b398cf6dc38",
+      "statement": "官子寻访",
+      "annotation_character_ids": [
+        "weisili_jinxiu_ju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3c6bd574616d50e2",
+      "statement": "离开下落",
+      "annotation_character_ids": [
+        "weisili_jinxiu_sisao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f9fdc2966e0f21b",
+      "statement": "交出文件",
+      "annotation_character_ids": [
+        "weisili_shi_yayu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8de3b5193b3f7a7e",
+      "statement": "计划与载荷的推测",
+      "annotation_character_ids": [
+        "weisili_shi_yayu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d57ad0f646f01783",
+      "statement": "毁灭计划与具体授权",
+      "annotation_character_ids": [
+        "weisili_hiroo_shinzo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b19606e4ba3ac8ea",
+      "statement": "载荷推测",
+      "annotation_character_ids": [
+        "weisili_hiroo_shinzo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c71c51f121537ba",
+      "statement": "潜水专家",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb358fb4066ee181",
+      "statement": "船与仪器协助",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2637f9ca552d562d",
+      "statement": "准备设备",
+      "annotation_character_ids": [
+        "weisili_yamashita_guanzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_022fb999eecac340",
+      "statement": "身份、相救与离乡",
+      "annotation_character_ids": [
+        "weisili_jinxiu_ju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_311b03c47007c3ab",
+      "statement": "实际获救经过",
+      "annotation_character_ids": [
+        "weisili_yamashita_tetsuaki"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa4760e76768ad09",
+      "statement": "真实救人经过",
+      "annotation_character_ids": [
+        "weisili_jinxiu_zhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f45505b38bc19998",
+      "statement": "终局见证",
+      "annotation_character_ids": [
+        "weisili_yamashita_guanzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_80deb9a46730dc72",
+      "statement": "竹菊的离开",
+      "annotation_character_ids": [
+        "weisili_jinxiu_sisao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee1008a37ce2f056",
+      "statement": "伦三德与瘾石转述",
+      "annotation_character_ids": [
+        "weisili_jinxiu_ju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d07d5d97615d2d76",
+      "statement": "瘾石假说与暂缓打捞",
+      "annotation_character_ids": [
+        "weisili_huang_chan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9bc5a7767d5488c7",
+      "statement": "爱情成因仅推测",
+      "annotation_character_ids": [
+        "weisili_jinxiu_zhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_675803034079ca47",
+      "statement": "未打捞终局",
+      "annotation_character_ids": [
+        "weisili_shi_yayu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_745787b2b35d54cb",
+      "statement": "瘾石武器议题与政治限制",
+      "annotation_character_ids": [
+        "weisili_huang_chan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

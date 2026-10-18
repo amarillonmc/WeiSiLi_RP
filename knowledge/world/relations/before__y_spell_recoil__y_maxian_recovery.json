@@ -1,0 +1,27 @@
+{
+  "id": "before__y_spell_recoil__y_maxian_recovery",
+  "source": "y_spell_recoil",
+  "target": "y_maxian_recovery",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+  "evidence_ids": [
+    "evidence_bdafc99c209a88dc",
+    "evidence_126561bb163290d4",
+    "evidence_7480fb0e08bc9a97",
+    "evidence_f45466ef333bb7ee",
+    "evidence_f63061fff25e814e",
+    "evidence_73412a59c3cdd4ac"
+  ],
+  "book_ids": [
+    "book_07cad85786b0",
+    "book_16e87a9465f3",
+    "book_1b2ce90d0135",
+    "book_51ac5b7920ea",
+    "book_6a15650b973f",
+    "book_8e795168086a"
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d1e263538229",
+  "title": "天外恩仇",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/22天外恩仇.txt",
+  "file": "books/book_d1e263538229.json",
+  "inherited_fact_count": 34,
+  "curated_links": {
+    "events": [
+      "m_ma_loss"
+    ],
+    "relations": [
+      "before__m_ma_loss__m_marriage_swap"
+    ],
+    "arcs": [
+      "arc_mulanhua",
+      "arc_muxiuzhen",
+      "arc_yunsifeng"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "041c00a8d51d7478a0df8a29692b53e6090d64a597a6df1b37aadf336d54db12",
+  "source_lines": 2742,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "管先生（ＫＩＤ信使）",
+      "card_id": "mulanhua_kid_guan",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "贺原（日本ＫＩＤ代理人）",
+      "card_id": "mulanhua_kid_he_yuan",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "假冯德",
+      "card_id": "mulanhua_kid_false_fengde",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "台尔曼",
+      "card_id": "mulanhua_kid_taierman",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "马超文",
+      "card_id": "mulanhua_ma_chaowen",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "马多禄",
+      "card_id": "mulanhua_ma_duolu",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "马夫人",
+      "card_id": "mulanhua_mrs_ma",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "山口见一、年轻日本警官、部长级代表、国际警方代表、真冯德",
+      "reason": "山口等为本册一次性重要协助者但未跨书；真冯德只有专业履历与被害背景，不把假冒者的现场行动转给他。"
+    },
+    {
+      "name": "四名壮汉守卫、监视人员、国家雇主、飞机乘客",
+      "reason": "守卫与监视者是同次执行助手；雇主国家没有可辨的独立出场个人；乘客为被害群体。"
+    },
+    {
+      "name": "阿敏娜、萨都拉、班奈克",
+      "reason": "阿敏娜仅慰问卡，萨都拉和班奈克为提及；后者曾属于ＫＩＤ是新增背景证据，非本册复活。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_8baecdaa617607fa",
+      "statement": "聘任、订婚计划和遇难",
+      "annotation_character_ids": [
+        "mulanhua_ma_chaowen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a2eb02b3e1f9ba61",
+      "statement": "马超文遇难",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_48ddc6ef9d3e4da1",
+      "statement": "友善接纳穆",
+      "annotation_character_ids": [
+        "mulanhua_mrs_ma"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f01dd4241a192c7",
+      "statement": "机场身份与惊惶",
+      "annotation_character_ids": [
+        "mulanhua_ma_duolu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cddbfe90d3b1e990",
+      "statement": "失联消息和机场反应",
+      "annotation_character_ids": [
+        "mulanhua_mrs_ma"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ffbe897bdb029d1a",
+      "statement": "慰问与重新行动",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_66c9f70f2c79a9b9",
+      "statement": "自制慰问卡",
+      "annotation_character_ids": [
+        "mulanhua_amina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d75a67a63245a442",
+      "statement": "送信、贿赂与被拒",
+      "annotation_character_ids": [
+        "mulanhua_kid_guan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fcd96c48efe836c4",
+      "statement": "被高翔虚假松口拖住",
+      "annotation_character_ids": [
+        "mulanhua_kid_guan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e2bb414a8aaaa173",
+      "statement": "回程跟踪与死亡",
+      "annotation_character_ids": [
+        "mulanhua_kid_guan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f9437bf619e0628",
+      "statement": "化装与语言身份",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_370917f4ed5a1bf9",
+      "statement": "领带夹与临终留线索的推断",
+      "annotation_character_ids": [
+        "mulanhua_kid_guan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7b00f67b5cd431d",
+      "statement": "物件形态",
+      "annotation_character_ids": [
+        "mulanhua_kid_guan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d9a84a99c1ef245e",
+      "statement": "住宅机关与审问",
+      "annotation_character_ids": [
+        "mulanhua_kid_he_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8e4acae6c2961a39",
+      "statement": "受击借沙发逃走",
+      "annotation_character_ids": [
+        "mulanhua_kid_he_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ab2413de3f7c597c",
+      "statement": "识破身份、火箭枪与招揽",
+      "annotation_character_ids": [
+        "mulanhua_kid_he_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d38f07b722ff6a93",
+      "statement": "冒名形象与装备说明",
+      "annotation_character_ids": [
+        "mulanhua_kid_false_fengde"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_256e2701898e50ce",
+      "statement": "围捕、履历与控制掣威胁",
+      "annotation_character_ids": [
+        "mulanhua_kid_taierman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b273188f1b9eb5c",
+      "statement": "真专家被杀与身份揭露",
+      "annotation_character_ids": [
+        "mulanhua_kid_false_fengde"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1435c281e604fb3a",
+      "statement": "谈判条件及修改安排",
+      "annotation_character_ids": [
+        "mulanhua_kid_taierman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b40d6620404587b0",
+      "statement": "海底操作、密谈和支开穆秀珍",
+      "annotation_character_ids": [
+        "mulanhua_kid_false_fengde"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f89867d85e41d910",
+      "statement": "与假冯德秘密通话",
+      "annotation_character_ids": [
+        "mulanhua_kid_taierman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fe897564e4f9b768",
+      "statement": "注水拘禁",
+      "annotation_character_ids": [
+        "mulanhua_kid_he_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aad1476185ba48b5",
+      "statement": "灭口失败、身份及被捕",
+      "annotation_character_ids": [
+        "mulanhua_kid_he_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_478998c13b5d7e96",
+      "statement": "口供",
+      "annotation_character_ids": [
+        "mulanhua_kid_he_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63f0e7d817e7e888",
+      "statement": "受ＫＩＤ收买的口供",
+      "annotation_character_ids": [
+        "mulanhua_kid_taierman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8788d64835f7ab7e",
+      "statement": "修水下控制疲劳",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c7f8f29e438e39c3",
+      "statement": "电源失效与修复",
+      "annotation_character_ids": [
+        "mulanhua_kid_taierman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_68af6baa6b8c5d68",
+      "statement": "取筒逃走与挑衅信",
+      "annotation_character_ids": [
+        "mulanhua_kid_false_fengde"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c3e430e7e9623172",
+      "statement": "共同逃走",
+      "annotation_character_ids": [
+        "mulanhua_kid_taierman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ba0c3d62a8951931",
+      "statement": "不懂炼油与尊重纪念",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_da801ab1d3b2650c",
+      "statement": "资料不全及雇主失败",
+      "annotation_character_ids": [
+        "mulanhua_kid_false_fengde"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_165444b97ebb773b",
+      "statement": "后人命名纪念",
+      "annotation_character_ids": [
+        "mulanhua_ma_chaowen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f81ae344e6f51791",
+      "statement": "纪念马与接受陪伴",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

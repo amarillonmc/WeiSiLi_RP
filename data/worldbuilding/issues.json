@@ -1,0 +1,685 @@
+[
+  {
+    "id": "issue_shared_world",
+    "title": "统一世界是项目前提，不是九系列已经互证",
+    "kind": "issue",
+    "claims": [
+      "直接串场和身份回指可以建立局部连接。",
+      "高斯、鬼话并入共同世界主要来自本次整合假设。"
+    ],
+    "handling": {
+      "epistemic_status": "adaptation",
+      "text": "使用同一地球和兼容的日常制度；没有证据时不虚构共同幕后主脑、全民知情或主角曾经会面。"
+    },
+    "evidence": []
+  },
+  {
+    "id": "issue_no_global_now",
+    "title": "各系列最后状态不证明同时发生",
+    "kind": "issue",
+    "claims": [
+      "原振侠有失踪终局，卫斯理有远行邀请的开放终局。",
+      "没有足够日期把每个人的最后出场固定到同一天。"
+    ],
+    "handling": {
+      "epistemic_status": "adaptation",
+      "text": "“综合终局沙盒”可以作为明确改编，但历史场景按事件偏序取状态；不宣称终局矩阵是一张已证实的同期合照。"
+    },
+    "evidence": [
+      {
+        "path": "原振侠系列/32.天皇巨星.txt",
+        "start_line": 2731,
+        "end_line": 2865,
+        "supports": "失踪终局和亲友的未知",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_yuanzhenxia"
+        }
+      },
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1382,
+        "end_line": 1393,
+        "supports": "未决邀请",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "issue_catalog_order",
+    "title": "文件编号、书名和排序不等于年代",
+    "kind": "issue",
+    "claims": [
+      "卫斯理有两个002、52愿望猴神和94少年卫斯理等特殊编号。",
+      "高斯《粉红钻石》开头回顾《奇迹》后事，目录04与17不能直接排序。",
+      "高达八文件无一致编号。"
+    ],
+    "handling": {
+      "epistemic_status": "adaptation",
+      "text": "每书保留稳定路径 ID 与原始文件名；编号仅作定位。绝对日期、事件先后和叙述顺序分别存储。"
+    },
+    "evidence": [
+      {
+        "path": "神探高斯系列/04粉红钻石.txt",
+        "start_line": 7,
+        "end_line": 9,
+        "supports": "被捕",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "gaosi_miracle_magician"
+        }
+      },
+      {
+        "path": "浪子高达系列/蛇王石.txt",
+        "start_line": 102,
+        "end_line": 258,
+        "supports": "识破电子诈赌、近战、夺势与协商",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_gaoda"
+        }
+      }
+    ]
+  },
+  {
+    "id": "issue_retelling",
+    "title": "孤峰旧事的后书重述差异",
+    "kind": "issue",
+    "claims": [
+      "《大鹰》交代孤峰事件和人物结局。",
+      "《真实幻境》重述在一些细节上与早书不同。"
+    ],
+    "handling": {
+      "epistemic_status": "adaptation",
+      "text": "按所处阶段展示角色当时相信的版本，后书重述注明来源；不补写一场复活来强行消除差异。"
+    },
+    "evidence": [
+      {
+        "path": "非人协会系列/04大鹰.txt",
+        "start_line": 2,
+        "end_line": 19,
+        "supports": "外貌、语言和山地天赋",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "非人协会系列/04大鹰.txt",
+        "start_line": 34,
+        "end_line": 44,
+        "supports": "雪地与扑击应对",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "非人协会系列/04大鹰.txt",
+        "start_line": 612,
+        "end_line": 685,
+        "supports": "解救大鹰、怪人死亡与学习决定",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 447,
+        "end_line": 490,
+        "supports": "重述孤峰经历，与早书结局存在差异。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1279,
+        "end_line": 1327,
+        "supports": "自制哨子、有限交流、不能由小鹰载人与半日山路。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1843,
+        "end_line": 1847,
+        "supports": "黑暗中可看清陈设。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2022,
+        "end_line": 2102,
+        "supports": "静坐与进入幻境的过程。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2156,
+        "end_line": 2234,
+        "supports": "掌心接触共同入境及精神远游推测。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2489,
+        "end_line": 2501,
+        "supports": "持续一月尝试不能再次进入。",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_jinwei"
+        }
+      }
+    ]
+  },
+  {
+    "id": "issue_copies",
+    "title": "复制、借体、化身与同名不可自动合并",
+    "kind": "issue",
+    "claims": [
+      "高达原本和副本有不同爱情与终局。",
+      "杜良副本无法学习新知识，本尊持续创新。",
+      "奥丽卡使用黑纱身体但非双灵魂融合。"
+    ],
+    "handling": {
+      "epistemic_status": "adaptation",
+      "text": "优先沿用 character_id；身体、意识和记忆分别建状态，不用外貌或称号消除不同主体。"
+    },
+    "evidence": [
+      {
+        "path": "亚洲之鹰罗开系列/07蜂后.txt",
+        "start_line": 1146,
+        "end_line": 1162,
+        "supports": "副本与原本",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      },
+      {
+        "path": "卫斯理系列/131另类复制.txt",
+        "start_line": 2725,
+        "end_line": 2757,
+        "supports": "复制体与长期未被察觉",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_du_liang_copy"
+        }
+      },
+      {
+        "path": "卫斯理系列/131另类复制.txt",
+        "start_line": 2780,
+        "end_line": 2829,
+        "supports": "新知识不能接收、六年周期",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_du_liang_copy"
+        }
+      },
+      {
+        "path": "卫斯理系列/131另类复制.txt",
+        "start_line": 2841,
+        "end_line": 2864,
+        "supports": "身份不自知及同步录像",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_du_liang_copy"
+        }
+      },
+      {
+        "path": "卫斯理系列/131另类复制.txt",
+        "start_line": 2883,
+        "end_line": 2935,
+        "supports": "取牙中微片及本尊信确认",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_du_liang_copy"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 5179,
+        "end_line": 5237,
+        "supports": "黑纱牺牲，奥丽卡获得身体",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "原振侠系列/18.黑暗天使.txt",
+        "start_line": 6115,
+        "end_line": 6129,
+        "supports": "黑纱·奥丽卡自称",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      }
+    ]
+  },
+  {
+    "id": "issue_missing_sources",
+    "title": "缺页、未完与乱码保留",
+    "kind": "issue",
+    "claims": [
+      "《神话世界》已知缺页；《蛇王石》只有开篇。",
+      "异种人生、闭关开关、财神宝库、血咒有显式替代字，另有私用字符问题。"
+    ],
+    "handling": {
+      "epistemic_status": "adaptation",
+      "text": "不以本库有条目证明原文完整；不补写蛇王石后续，不用缺失片段推出唯一宇宙论。详见根目录语料报告。"
+    },
+    "evidence": [
+      {
+        "path": "浪子高达系列/蛇王石.txt",
+        "start_line": 102,
+        "end_line": 258,
+        "supports": "识破电子诈赌、近战、夺势与协商",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_gaoda"
+        }
+      },
+      {
+        "path": "年轻人/13神话世界.txt",
+        "start_line": 1219,
+        "end_line": 1279,
+        "supports": "利用潘的畏惧与投影条件返回",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      },
+      {
+        "path": "年轻人/13神话世界.txt",
+        "start_line": 932,
+        "end_line": 1008,
+        "supports": "新身体与年轻人在异界返回上的差别",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_princess"
+        }
+      }
+    ]
+  },
+  {
+    "id": "issue_nature_gods",
+    "title": "神名不等于宇宙法则权限",
+    "kind": "issue",
+    "claims": [
+      "时间大神会受创、求助。",
+      "爱神参与技术、研究和救援也受灾难限制。",
+      "阴主是地球人的理解方式，与残缺仪器有关。"
+    ],
+    "handling": {
+      "epistemic_status": "adaptation",
+      "text": "按实际展示裁定，不凭称号授予时间全权、全宇宙复活或绝对审判。"
+    },
+    "evidence": [
+      {
+        "path": "亚洲之鹰罗开系列/04怪头.txt",
+        "start_line": 1287,
+        "end_line": 1346,
+        "supports": "虚弱与合作脱困",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_time_god"
+        }
+      },
+      {
+        "path": "原振侠系列/27.假太阳.txt",
+        "start_line": 476,
+        "end_line": 480,
+        "supports": "危机与封锁",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_aishen"
+        }
+      },
+      {
+        "path": "卫斯理系列/102将来.txt",
+        "start_line": 1730,
+        "end_line": 1747,
+        "supports": "三个编号的言语与协作分工",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_1"
+        }
+      },
+      {
+        "path": "卫斯理系列/102将来.txt",
+        "start_line": 1782,
+        "end_line": 1864,
+        "supports": "仪器残缺、四人结合、失散与求助",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_1"
+        }
+      },
+      {
+        "path": "卫斯理系列/102将来.txt",
+        "start_line": 1863,
+        "end_line": 1884,
+        "supports": "模拟声音与密码限制",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_yin_1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "issue_underworld_end",
+    "title": "思想仪已停与原因未知可以同时成立",
+    "kind": "issue",
+    "claims": [
+      "仪器无运作、灵魂光点消失是所见。",
+      "一至三号主动毁机、接受天神劝告及灵魂去了哪里是分析或未知。"
+    ],
+    "handling": {
+      "epistemic_status": "adaptation",
+      "text": "终局关闭旧服务；把调查停机原因作为未决线，不把推测写成完成的政变、全体消灭或统一转生。"
+    },
+    "evidence": [
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1297,
+        "end_line": 1337,
+        "supports": "实见与分析区分",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "issue_quota_promise",
+    "title": "存在特殊转移个案不等于通用买命成功",
+    "kind": "issue",
+    "claims": [
+      "《考验》提到文依来兄弟给母亲转移配额。",
+      "同段仍明确通用转移在研究，卫斯理对求购者的承诺也未获结果。"
+    ],
+    "handling": {
+      "epistemic_status": "adaptation",
+      "text": "保留个案例外和机构研究限制；不可用绝对“从未发生”或绝对“已经普及”概括。"
+    },
+    "evidence": [
+      {
+        "path": "卫斯理系列/121考验.txt",
+        "start_line": 200,
+        "end_line": 222,
+        "supports": "个案、保密、承诺和未成研究",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "issue_foreknowledge",
+    "title": "预见、幻境和未来愿望不是已发生历史",
+    "kind": "issue",
+    "claims": [
+      "神鹰曾在未来幻境出现混合形态，但后来稳定成人不能飞。",
+      "温宝裕提出先头部队即将出发，没有记述成行。"
+    ],
+    "handling": {
+      "epistemic_status": "adaptation",
+      "text": "分别使用 observed、experienced、predicted、planned 和 unknown 状态；不得凭愿景增添现实军队、领地、技能。"
+    },
+    "evidence": [
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2630,
+        "end_line": 2648,
+        "supports": "基因调整过程",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/125成精变人.txt",
+        "start_line": 2680,
+        "end_line": 2686,
+        "supports": "自愿成人和不能飞",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1415,
+        "end_line": 1521,
+        "supports": "鹰身争执与和解",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 1621,
+        "end_line": 1631,
+        "supports": "当时仍可飞行",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/124真实幻境.txt",
+        "start_line": 2338,
+        "end_line": 2416,
+        "supports": "未来幻境的形态与逃避",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_shenying"
+        }
+      },
+      {
+        "path": "卫斯理系列/145只限老友.txt",
+        "start_line": 1382,
+        "end_line": 1393,
+        "supports": "邀请未决",
+        "kind": "原文",
+        "provenance": {
+          "kind": "direct_source_review"
+        }
+      }
+    ]
+  },
+  {
+    "id": "issue_truthful_views",
+    "title": "角色解释可被后书更正",
+    "kind": "issue",
+    "claims": [
+      "陈月兰的早期异星改造说法仍是假说，《祸根》才提供新联络。",
+      "卖命中的监视失误被解释为意识干预，不能永远维持较早的投影猜想。"
+    ],
+    "handling": {
+      "epistemic_status": "adaptation",
+      "text": "事实与认知各自保留时间。新证据更新当前解释，旧场景仍允许角色不知道。"
+    },
+    "evidence": [
+      {
+        "path": "卫斯理系列/089烈火女.txt",
+        "start_line": 2801,
+        "end_line": 2844,
+        "supports": "异星脑改造仍是假说",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chen_yuelan"
+        }
+      },
+      {
+        "path": "卫斯理系列/091祸根.txt",
+        "start_line": 3095,
+        "end_line": 3160,
+        "supports": "外星身份、远程立体投影、拒见与指导红绫，明确更正前书猜测",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chen_yuelan"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 2410,
+        "end_line": 2454,
+        "supports": "感知和干预解释",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_water_life"
+        }
+      },
+      {
+        "path": "卫斯理系列/120卖命.txt",
+        "start_line": 2624,
+        "end_line": 2666,
+        "supports": "未成研究与水路",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_water_life"
+        }
+      }
+    ]
+  },
+  {
+    "id": "issue_adapted_resurrection",
+    "title": "角色卡的部署约定不写入原作历史",
+    "kind": "issue",
+    "claims": [
+      "部分角色卡为了跨世界参战恢复生前可行动版本。",
+      "原作里的天使牺牲、陈长青失去肉身及原振侠失踪仍需保留。"
+    ],
+    "handling": {
+      "epistemic_status": "adaptation",
+      "text": "世界内 RP 默认遵守事件状态；要调用部署版本时单列 scenario_override，并说明恢复身体、保留何时记忆与代价。"
+    },
+    "evidence": [
+      {
+        "path": "亚洲之鹰罗开系列/03魔像.txt",
+        "start_line": 1132,
+        "end_line": 1151,
+        "supports": "族属、伪装与敌方利用",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_tianshi"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/03魔像.txt",
+        "start_line": 1178,
+        "end_line": 1191,
+        "supports": "协同攻击",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_tianshi"
+        }
+      },
+      {
+        "path": "亚洲之鹰罗开系列/03魔像.txt",
+        "start_line": 1239,
+        "end_line": 1268,
+        "supports": "牺牲原因与结局",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "adventure_tianshi"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 2590,
+        "end_line": 2612,
+        "supports": "清醒灵魂的困境与中断沟通",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chen_changqing"
+        }
+      },
+      {
+        "path": "卫斯理系列/107解脱.txt",
+        "start_line": 2682,
+        "end_line": 2697,
+        "supports": "拒绝轮回和阴间安住，未找到解脱方法",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "weisili_chen_changqing"
+        }
+      },
+      {
+        "path": "原振侠系列/32.天皇巨星.txt",
+        "start_line": 2731,
+        "end_line": 2865,
+        "supports": "失踪终局和亲友的未知",
+        "kind": "原文",
+        "provenance": {
+          "kind": "existing_character_annotation",
+          "character_id": "yuanzhenxia_yuanzhenxia"
+        }
+      }
+    ]
+  }
+]

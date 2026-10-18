@@ -1,0 +1,29 @@
+{
+  "id": "w_alliance",
+  "title": "温宝裕放弃强制人口方案并邀请远行",
+  "kind": "event",
+  "summary": "温宝裕承认过去的强制人口思路走入死胡同，转向邀请自愿者离地球寻找新生活。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《只限老友》末，卫白回家十余天后的来访段。",
+    "narrative_layer": "present"
+  },
+  "state_before": "亲友因其极端方案而疏远。",
+  "state_after": "旧有亲近恢复，新生大同盟提出邀请；是否加入及成行仍开放。",
+  "knowledge_boundary": "不能以小说结束推断卫斯理已经搭船离地球。",
+  "character_ids": [
+    "weisili_wen_baoyu",
+    "weisili_wei_sili",
+    "weisili_bai_su",
+    "weisili_hong_ling"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_b6583129cb839889"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da"
+  ]
+}

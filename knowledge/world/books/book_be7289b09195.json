@@ -1,0 +1,306 @@
+{
+  "schema_version": "1.0",
+  "id": "book_be7289b09195",
+  "title": "尽头",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/022尽头.txt",
+  "file": "books/book_be7289b09195.json",
+  "inherited_fact_count": 26,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "f225ccd27f97dbd8024a86f96b95c113ff601bd6d5169cf9c6bc622e0c51c36e",
+  "source_lines": 1799,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "跨书重要配角",
+      "basis": "共同调查并制伏地面联络者。"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "跨书重要配角",
+      "basis": "在不稳定脑控下偷换报告。"
+    },
+    {
+      "name": "章达",
+      "card_id": "weisili_zhang_da",
+      "role": "单书主角",
+      "basis": "研究和遇害引发主线。"
+    },
+    {
+      "name": "李逊",
+      "card_id": "weisili_li_xun",
+      "role": "单书主角",
+      "basis": "合作研究与失踪构成主线。"
+    },
+    {
+      "name": "丁阿毛",
+      "card_id": "weisili_ding_amao",
+      "role": "反派",
+      "basis": "制造报复表象并枪杀章达。"
+    },
+    {
+      "name": "阿中",
+      "card_id": "weisili_a_zhong",
+      "role": "阶段性对立者",
+      "basis": "先持刀袭击，后带路。"
+    },
+    {
+      "name": "铁皮屋同伙",
+      "card_id": "weisili_ding_gang",
+      "role": "反派群体",
+      "basis": "侵害、威吓并掌握接头线索。"
+    },
+    {
+      "name": "亚洲联络二人组",
+      "card_id": "weisili_jintou_asia_pair",
+      "role": "反派",
+      "basis": "地面谋杀与通讯执行。"
+    },
+    {
+      "name": "太空站控制者",
+      "card_id": "weisili_jintou_controllers",
+      "role": "幕后反派",
+      "basis": "脑控和阻断文明发展的计划。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "比利、米轩士",
+      "reason": "一次性国际警方协助者，分析案情并安排调查便利，未见跨书身份或独立主角线。"
+    },
+    {
+      "name": "阿玲及其父亲",
+      "reason": "街区家庭处境与线索的单次人物；不是反派，阿玲协助带路不构成独立主角线。"
+    },
+    {
+      "name": "未名警员、少年犯罪专家、学生",
+      "reason": "警务、遇害前史或研究现场证言；无可独立归并的主角或反派身份。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_295790219b74567f",
+      "statement": "背景与重逢",
+      "annotation_character_ids": [
+        "weisili_zhang_da"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_968e654ee825b187",
+      "statement": "越押、伤人和夺枪",
+      "annotation_character_ids": [
+        "weisili_ding_amao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_847c98a9451b75f7",
+      "statement": "影片、研究方法与未说完的结论",
+      "annotation_character_ids": [
+        "weisili_zhang_da"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4a89e7235228fb2f",
+      "statement": "遇害",
+      "annotation_character_ids": [
+        "weisili_zhang_da"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ef1a43715b89ed13",
+      "statement": "枪击与被制伏",
+      "annotation_character_ids": [
+        "weisili_ding_amao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_18d4aa3bff4bf3ca",
+      "statement": "联合报告和来电",
+      "annotation_character_ids": [
+        "weisili_li_xun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c220386686e52c03",
+      "statement": "电话、书房与失踪调查",
+      "annotation_character_ids": [
+        "weisili_li_xun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a9206041a22541e",
+      "statement": "拘留所自杀",
+      "annotation_character_ids": [
+        "weisili_ding_amao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6086e57155756139",
+      "statement": "年龄及案底",
+      "annotation_character_ids": [
+        "weisili_ding_amao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3a3c0f57be77ad14",
+      "statement": "身份、先前袭击与接受带路",
+      "annotation_character_ids": [
+        "weisili_a_zhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1b6e62c8d8e0fe31",
+      "statement": "情感、入狱及指路离开",
+      "annotation_character_ids": [
+        "weisili_a_zhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5bac641781e74c4c",
+      "statement": "与阿玲经历关联的聚处",
+      "annotation_character_ids": [
+        "weisili_ding_gang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_af9a67ab020af8c4",
+      "statement": "挑衅、受制及供出谋杀安排",
+      "annotation_character_ids": [
+        "weisili_ding_gang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_69088dc7c858202b",
+      "statement": "金钱与谋杀安排",
+      "annotation_character_ids": [
+        "weisili_ding_amao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e879261d06c2d9fd",
+      "statement": "谋杀伪装成误杀",
+      "annotation_character_ids": [
+        "weisili_zhang_da"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3319b1ad0392d5e1",
+      "statement": "卫的死亡假定并非确证",
+      "annotation_character_ids": [
+        "weisili_li_xun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9bee7d36967e55d4",
+      "statement": "装置及接收干扰",
+      "annotation_character_ids": [
+        "weisili_jintou_asia_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_803371f0b4545472",
+      "statement": "得知伪失忆后谋杀行动",
+      "annotation_character_ids": [
+        "weisili_jintou_asia_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_93d64ad1565a4ab6",
+      "statement": "探知伪失忆与时间延迟",
+      "annotation_character_ids": [
+        "weisili_jintou_controllers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6523cb4d6f9ba1bf",
+      "statement": "被制伏、受控制与技术来源",
+      "annotation_character_ids": [
+        "weisili_jintou_asia_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b7dd21f372f3d838",
+      "statement": "可控和不可控两类",
+      "annotation_character_ids": [
+        "weisili_jintou_controllers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5c1c8026f62e4f65",
+      "statement": "知识输入、太空站和控制老蔡",
+      "annotation_character_ids": [
+        "weisili_jintou_controllers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_31525e3f5d16c2e5",
+      "statement": "利益与老蔡偷换报告",
+      "annotation_character_ids": [
+        "weisili_jintou_asia_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2595e047dabaff73",
+      "statement": "阻止被地球发现的目的",
+      "annotation_character_ids": [
+        "weisili_jintou_controllers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_37938ffa31b3bd3a",
+      "statement": "住宅爆炸及推断",
+      "annotation_character_ids": [
+        "weisili_jintou_asia_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7416fc0d36f0d27b",
+      "statement": "爆炸与尚未实现的长期末日",
+      "annotation_character_ids": [
+        "weisili_jintou_controllers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "before__y_liuxu_rescue__w_quota_research",
+  "source": "y_liuxu_rescue",
+  "target": "w_quota_research",
+  "relation": "before",
+  "epistemic_status": "synthesis",
+  "reason": "康维后期关心配额是为了与其相伴的柳絮，故救治及关系建立在前。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "康维后期关心配额是为了与其相伴的柳絮，故救治及关系建立在前。",
+  "evidence_ids": [
+    "evidence_e7be2a98fed06f71",
+    "evidence_ffb4721ae0737a32",
+    "evidence_db91b370c1b9beee",
+    "evidence_e0ab4720457af797"
+  ],
+  "book_ids": [
+    "book_285c39eb6c50",
+    "book_6e1d8d6fd7c7"
+  ]
+}

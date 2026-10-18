@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "id": "book_3d11fdd8a762",
+  "title": "妖偶",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/02妖偶.txt",
+  "file": "books/book_3d11fdd8a762.json",
+  "inherited_fact_count": 8,
+  "curated_links": {
+    "entities": [
+      "time_god"
+    ],
+    "events": [
+      "l_doll"
+    ],
+    "relations": [
+      "before__l_refusal__l_doll",
+      "before__l_doll__l_angel_loss",
+      "before__l_angel_loss__l_enemy_alliance"
+    ],
+    "arcs": [
+      "arc_luokai"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "f901d5b5d24092952fb92a1913f31ee808b5579aedd293a85d653e63c0c2a16c",
+  "source_lines": 1320,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "高达",
+      "card_id": "adventure_gaoda",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "黛娜",
+      "card_id": "adventure_daina",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "时间大神",
+      "card_id": "adventure_time_god",
+      "role": "反派",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "水银将军",
+      "card_id": "adventure_shuiyin",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "夏氏兄弟",
+      "card_id": "adventure_xia_brothers",
+      "role": "反派",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "都加连农",
+      "card_id": "adventure_dulian",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "两名携盒女郎",
+      "reason": "被集团欺骗的一次性代理，未获个人身份"
+    },
+    {
+      "name": "复制玩偶",
+      "reason": "受控制的临时工具，未示独立人格，机制记入时间大神卡"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_640904b0a0bb0c67",
+      "statement": "集团身份与标志",
+      "annotation_character_ids": [
+        "adventure_xia_brothers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_30b1247c945dde33",
+      "statement": "爆炸物及被欺骗女子",
+      "annotation_character_ids": [
+        "adventure_xia_brothers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_de372ed3af5f6de4",
+      "statement": "死亡信号及上位控制者",
+      "annotation_character_ids": [
+        "adventure_baoe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_466d027882729cad",
+      "statement": "旧识与报告判断",
+      "annotation_character_ids": [
+        "adventure_shuiyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d0ebd0f18d08c07",
+      "statement": "思想复制的条件",
+      "annotation_character_ids": [
+        "adventure_time_god"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d00b775ab6523a1b",
+      "statement": "假象、真伪与毁偶",
+      "annotation_character_ids": [
+        "adventure_daina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a13cb3feb6c2f8ce",
+      "statement": "有条件反制复制人",
+      "annotation_character_ids": [
+        "adventure_luokai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e0e6ce4db787f92",
+      "statement": "玩偶与认知限制",
+      "annotation_character_ids": [
+        "adventure_shuiyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

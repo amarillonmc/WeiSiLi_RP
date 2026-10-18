@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "id": "book_914104aeec48",
+  "title": "到阴间去",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/093到阴间去.txt",
+  "file": "books/book_914104aeec48.json",
+  "inherited_fact_count": 2,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "0b132ecd58cba0f9315da491cdab631a9f698393a5f19748879c6a9e68b8eb77",
+  "source_lines": 2598,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "王大同",
+      "card_id": "weisili_wang_datong",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "李宣宣",
+      "card_id": "weisili_li_xuanxuan",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "祖天开",
+      "card_id": "weisili_zu_tiankai",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "陈长青",
+      "card_id": "weisili_chen_changqing",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "阴间一号",
+      "card_id": "weisili_yin_1",
+      "role": "阶段性对立者",
+      "basis": "阴主身份以后续作品揭示的共同管理者对齐"
+    },
+    {
+      "name": "阴间二号",
+      "card_id": "weisili_yin_2",
+      "role": "阶段性对立者",
+      "basis": "同属后来明确的阴间管理组"
+    },
+    {
+      "name": "阴间三号",
+      "card_id": "weisili_yin_3",
+      "role": "阶段性对立者",
+      "basis": "同属后来明确的阴间管理组"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "矿井与司法、医疗工作人员",
+      "reason": "一次性执行者和旁观者，没有足够个体化持续角色作用"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7a19484c0037baf2",
+      "statement": "复生借助阴主、对李宣宣的排斥",
+      "annotation_character_ids": [
+        "weisili_wang_datong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1ef2bcc955a6d3c1",
+      "statement": "最终处境及证词局限",
+      "annotation_character_ids": [
+        "weisili_wang_datong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

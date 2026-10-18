@@ -1,0 +1,28 @@
+{
+  "id": "y_maxian_recovery",
+  "title": "假太阳危机与玛仙恢复",
+  "kind": "event",
+  "summary": "爱神星危机、机械生命和多方技术协作中，玛仙脑活动恢复并增强。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "血魇反噬之后的《假太阳》。",
+    "narrative_layer": "present"
+  },
+  "state_before": "玛仙需要救治，异星环境也在危机中。",
+  "state_after": "她获得新的活动方式，之后参与新爱神星建设。",
+  "knowledge_boundary": "康复有过程与外援，不得提前给她终局能力；她仍不能全宇宙寻人成功。",
+  "character_ids": [
+    "yuanzhenxia_ma_xian",
+    "yuanzhenxia_kangwei"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_f63061fff25e814e",
+    "evidence_d5f8672ac7d83623"
+  ],
+  "book_ids": [
+    "book_6a15650b973f"
+  ]
+}

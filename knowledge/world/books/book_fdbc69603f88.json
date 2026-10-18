@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "id": "book_fdbc69603f88",
+  "title": "一个地方",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/142一个地方.txt",
+  "file": "books/book_fdbc69603f88.json",
+  "inherited_fact_count": 3,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "6e713ff2c8bd77a28a289344ccd726e90bf16d9facf53672c6fc9328beb99acd",
+  "source_lines": 1191,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "岩石",
+      "card_id": "weisili_yan_shi",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "高兴",
+      "card_id": "weisili_gao_xing",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "长老",
+      "card_id": "weisili_chang_lao",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "大亨",
+      "card_id": "weisili_da_heng",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "蓝色外星人群",
+      "card_id": "weisili_blue_visitors",
+      "role": "阶段性对立者",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "山羊姑娘等故事形象",
+      "reason": "岩石经历的表达和当事人描述须分别理解，不把比拟动物的称谓自动生成为独立超能力种族"
+    },
+    {
+      "name": "猎头族背景人群",
+      "reason": "以生活环境出现，未区分具身份主要反派"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e1ee83122b813e82",
+      "statement": "化名、财富背景、探险与失踪",
+      "annotation_character_ids": [
+        "weisili_yan_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_38c0a649db64b76f",
+      "statement": "反对空泛希望的照顾动机与红绫沟通",
+      "annotation_character_ids": [
+        "weisili_gao_xing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db1edd9127275dba",
+      "statement": "与高兴的分歧和继续寻找",
+      "annotation_character_ids": [
+        "weisili_yan_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

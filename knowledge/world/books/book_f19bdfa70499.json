@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f19bdfa70499",
+  "title": "龙宫宝贝",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/42龙宫宝贝.txt",
+  "file": "books/book_f19bdfa70499.json",
+  "inherited_fact_count": 21,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "7f2f04c31bd7a031eed92a5c138e700b50fa50b847c0cce997026f6963773c24",
+  "source_lines": 2692,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "调查、受困与迷阵脱出。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "系列主角",
+      "basis": "被绑后营救、围捕与审问。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "跨书重要配角",
+      "basis": "蜜月带回古物并叙述来源。"
+    },
+    {
+      "name": "朱英",
+      "card_id": "mulanhua_zhu_ying",
+      "role": "反派",
+      "basis": "支部首领及人质拘押。"
+    },
+    {
+      "name": "云生",
+      "card_id": "mulanhua_yun_sheng",
+      "role": "反派",
+      "basis": "总部人员、骗局和绑架。"
+    },
+    {
+      "name": "小古",
+      "card_id": "mulanhua_magic_xiaogu",
+      "role": "反派",
+      "basis": "冒名掉包后被杀。"
+    },
+    {
+      "name": "洪逢",
+      "card_id": "mulanhua_hong_feng",
+      "role": "反派",
+      "basis": "犯罪中介与通风报信。"
+    },
+    {
+      "name": "史特朗教授",
+      "card_id": "mulanhua_professor_strong",
+      "role": "阶段性对立者",
+      "basis": "组织谈判与引见。"
+    },
+    {
+      "name": "但尼克公爵",
+      "card_id": "mulanhua_danike",
+      "role": "反派",
+      "basis": "迷阵条件与最终履约。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "黄基、张敏",
+      "reason": "真实店主和经理未参与骗局，一次性核验辅助；不得把冒名者罪责转给他们。"
+    },
+    {
+      "name": "假黄基、枪手、看守与潜艇人员",
+      "reason": "未分化身份的从属执行者，行动归具体组织主卡且需实际在场。"
+    },
+    {
+      "name": "渔船船长及其父、考古家",
+      "reason": "古物来源与鉴别背景，未呈独立主角线。"
+    },
+    {
+      "name": "云四风、云五风",
+      "reason": "相关技术和家庭背景按核心卡，不在本书增造行动。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_aace5d6b62112c4c",
+      "statement": "冒充张敏和交易程序",
+      "annotation_character_ids": [
+        "mulanhua_magic_xiaogu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_faad7091187e7dca",
+      "statement": "假交易及掉包时机",
+      "annotation_character_ids": [
+        "mulanhua_yun_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ada558a69594571",
+      "statement": "身份、手法及住所",
+      "annotation_character_ids": [
+        "mulanhua_magic_xiaogu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_66e44beb66a38618",
+      "statement": "尸体发现",
+      "annotation_character_ids": [
+        "mulanhua_magic_xiaogu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9451508e1aebbaa8",
+      "statement": "介绍人身份",
+      "annotation_character_ids": [
+        "mulanhua_hong_feng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_441e63d60c7b1116",
+      "statement": "记录与实情",
+      "annotation_character_ids": [
+        "mulanhua_hong_feng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_91a39fcd03e4d85a",
+      "statement": "游客身份与联络",
+      "annotation_character_ids": [
+        "mulanhua_yun_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d94d51a8f3daf9be",
+      "statement": "披露地点及通风报信被阻",
+      "annotation_character_ids": [
+        "mulanhua_hong_feng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d47fc9c1b3e5d8de",
+      "statement": "身份、调动和权限",
+      "annotation_character_ids": [
+        "mulanhua_zhu_ying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_abee3aa9adf8f3a9",
+      "statement": "云生一伙在现场挟持高翔",
+      "annotation_character_ids": [
+        "mulanhua_magic_xiaogu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ace72c1549addc4f",
+      "statement": "挟持高翔",
+      "annotation_character_ids": [
+        "mulanhua_yun_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b34a88f1a10ef66d",
+      "statement": "与云生争执及被制服",
+      "annotation_character_ids": [
+        "mulanhua_zhu_ying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_be4e583e5687c253",
+      "statement": "组织争执和昏迷",
+      "annotation_character_ids": [
+        "mulanhua_yun_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1790f351a0d97e7d",
+      "statement": "人质、拘押及监控",
+      "annotation_character_ids": [
+        "mulanhua_zhu_ying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a374de9518702b62",
+      "statement": "惧组织惩罚而供述",
+      "annotation_character_ids": [
+        "mulanhua_zhu_ying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e5a0ada79068355",
+      "statement": "拜访、承认身份与请示",
+      "annotation_character_ids": [
+        "mulanhua_professor_strong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a1997732a1e640b",
+      "statement": "地位、礼仪及条件",
+      "annotation_character_ids": [
+        "mulanhua_danike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fdcbf157508024bc",
+      "statement": "地位与公爵关系",
+      "annotation_character_ids": [
+        "mulanhua_professor_strong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa73c50c76f7ba5c",
+      "statement": "迷阵规则与资源",
+      "annotation_character_ids": [
+        "mulanhua_danike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7284a5439ffefb77",
+      "statement": "机制被破与履约",
+      "annotation_character_ids": [
+        "mulanhua_danike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fc2520ab991b53eb",
+      "statement": "归还真品",
+      "annotation_character_ids": [
+        "mulanhua_professor_strong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

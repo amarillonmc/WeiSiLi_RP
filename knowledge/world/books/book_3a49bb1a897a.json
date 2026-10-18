@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "id": "book_3a49bb1a897a",
+  "title": "解开死结",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/12解开死结.txt",
+  "file": "books/book_3a49bb1a897a.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "2bea3302c4bc6269cd4420669182598930aebf8973bd3ecd6043a2f372fcbc15",
+  "source_lines": 1278,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "雷雪",
+      "card_id": "adventure_leixue",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "安歌人",
+      "card_id": "adventure_angeren",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "康维十七世",
+      "card_id": "yuanzhenxia_kangwei",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "两个扁平人",
+      "reason": "单书无名协助者，未承担反派或独立主角线"
+    },
+    {
+      "name": "聚会宾客",
+      "reason": "仅场景性出席，不据称号补足个人能力"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d346d01c83bde920",
+      "statement": "独立人格及能力",
+      "annotation_character_ids": [
+        "adventure_leixue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2cdc2cf3cabef331",
+      "statement": "干扰、接触转递和适配边界",
+      "annotation_character_ids": [
+        "adventure_leixue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46650d75c8fb4e9a",
+      "statement": "死亡讯息、拒绝与毁盒",
+      "annotation_character_ids": [
+        "adventure_angeren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2a73b825f4252c9b",
+      "statement": "整理、解释与终局",
+      "annotation_character_ids": [
+        "adventure_leixue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

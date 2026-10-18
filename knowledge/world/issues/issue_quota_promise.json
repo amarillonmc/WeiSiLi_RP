@@ -1,0 +1,21 @@
+{
+  "id": "issue_quota_promise",
+  "title": "存在特殊转移个案不等于通用买命成功",
+  "kind": "issue",
+  "claims": [
+    "《考验》提到文依来兄弟给母亲转移配额。",
+    "同段仍明确通用转移在研究，卫斯理对求购者的承诺也未获结果。"
+  ],
+  "handling": {
+    "epistemic_status": "adaptation",
+    "text": "保留个案例外和机构研究限制；不可用绝对“从未发生”或绝对“已经普及”概括。"
+  },
+  "schema_version": "1.0",
+  "section": "issues",
+  "evidence_ids": [
+    "evidence_f6e52da790ef15ac"
+  ],
+  "book_ids": [
+    "book_c33c05bc68a3"
+  ]
+}

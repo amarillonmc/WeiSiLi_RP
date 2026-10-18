@@ -1,0 +1,159 @@
+{
+  "schema_version": "1.0",
+  "id": "book_46069e874c48",
+  "title": "阴魂不散",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/096阴魂不散.txt",
+  "file": "books/book_46069e874c48.json",
+  "inherited_fact_count": 8,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "ee37c4de75188943eb4d5fc956ecab69f7729f7cb244ffce135207657b799b8b",
+  "source_lines": 2730,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "崔三娘",
+      "card_id": "weisili_cui_sanniang",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "黄豪",
+      "card_id": "weisili_huang_hao",
+      "role": "主角",
+      "basis": "借陈安安身体的旧江湖人格"
+    },
+    {
+      "name": "花五",
+      "card_id": "weisili_hua_wu",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "阴老二",
+      "card_id": "weisili_yin_laoer",
+      "role": "反派",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "曹金福",
+      "card_id": "weisili_cao_jinfu",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "铁天音",
+      "card_id": "weisili_tie_tianyin",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "陈安安原人格",
+      "reason": "儿童身体内原人格去向未明确，另保留占体不确定项；不凭空认定已被消灭"
+    },
+    {
+      "name": "陈氏家庭随从与其他临时见证者",
+      "reason": "提供一次性背景，不满足重要重复出场标准"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_8f16e9862c757849",
+      "statement": "母亲在餐厅照顾并管束被占据身体的孩子",
+      "annotation_character_ids": [
+        "weisili_chen_anan_father",
+        "weisili_chen_anan_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b5568e3796fa92ed",
+      "statement": "后续明确身体已非原本女孩人格",
+      "annotation_character_ids": [
+        "weisili_chen_anan_original"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b739311a3ad00154",
+      "statement": "自报黄豪身份、借身与联系旧友",
+      "annotation_character_ids": [
+        "weisili_huang_hao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e919d897e2b68a8",
+      "statement": "延迟联系白老大与旧江湖识见",
+      "annotation_character_ids": [
+        "weisili_hua_wu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3ea40d64236486d3",
+      "statement": "力量受陈安安身体限制",
+      "annotation_character_ids": [
+        "weisili_huang_hao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_90c75ad1086a3510",
+      "statement": "被催促后的支吾与隐瞒",
+      "annotation_character_ids": [
+        "weisili_hua_wu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f0a29ca356ccd167",
+      "statement": "接近曹家与好色动机",
+      "annotation_character_ids": [
+        "weisili_yin_laoer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1a31586aacfa3af3",
+      "statement": "高大结实体貌",
+      "annotation_character_ids": [
+        "weisili_cao_jinfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

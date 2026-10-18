@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1e1e601ec986",
+  "title": "命运",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/064命运.txt",
+  "file": "books/book_1e1e601ec986.json",
+  "inherited_fact_count": 7,
+  "curated_links": {
+    "entities": [
+      "fate_patterns"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "05e44f478a5db0845dad0475f063e1cf8c3f0227440e56bfa2cdc5933b9d8d7b",
+  "source_lines": 1923,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "追查图纹来源与应对各方"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "重要配角",
+      "basis": "参与讨论与照料"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "转介和切层设想"
+    },
+    {
+      "name": "宋天然",
+      "card_id": "weisili_song_tianran",
+      "role": "主角",
+      "basis": "工程发现、被拘与理论"
+    },
+    {
+      "name": "陈长青",
+      "card_id": "weisili_chen_changqing",
+      "role": "重要配角",
+      "basis": "研究石纹及争取资源"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "联系情报人员"
+    },
+    {
+      "name": "小纳尔逊",
+      "card_id": "weisili_xiao_na",
+      "role": "重要配角",
+      "basis": "情报专家，后续多书行动"
+    },
+    {
+      "name": "盖雷夫人",
+      "card_id": "weisili_gailei",
+      "role": "反派",
+      "basis": "此书匿名老妇人扣宋后放人，后《游戏》身份承接"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "被陈长青擒住的特务",
+      "reason": "匿名单次侦察者，所属未明，作为各方情报行动事实记录，不虚构跨书身份"
+    },
+    {
+      "name": "命运或上帝",
+      "reason": "人物提出的解释模型，没有具体人格出场与可检验行动，不建全能实体卡"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_47233b20834b9531",
+      "statement": "工程师及舅甥关系",
+      "annotation_character_ids": [
+        "weisili_song_tianran"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_95f9e882fd75820c",
+      "statement": "发现和求助",
+      "annotation_character_ids": [
+        "weisili_song_tianran"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca653ae79a0b58a9",
+      "statement": "装备辨识与现场行动",
+      "annotation_character_ids": [
+        "weisili_xiao_na"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_52f14574eddf9d1c",
+      "statement": "未具名老妇的权力和交涉",
+      "annotation_character_ids": [
+        "weisili_gailei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_afffb7b6c2fb274d",
+      "statement": "获释与误认为间谍",
+      "annotation_character_ids": [
+        "weisili_song_tianran"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_60956d908f794a68",
+      "statement": "拒绝机构金钱和瞒骗",
+      "annotation_character_ids": [
+        "weisili_song_tianran"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3a5c5790758454e9",
+      "statement": "化验与计划论假设",
+      "annotation_character_ids": [
+        "weisili_song_tianran"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "rule_relative_time",
+  "title": "相对时间优先，叙述时间不等于发生时间",
+  "kind": "rule",
+  "epistemic_status": "synthesis",
+  "statement": "回忆、嵌套口述、异空间经历和后来揭露穿插在当前事件中。文件编号仅供书目定位；跨系列先后必须由接续、共同事件或状态变化支持。",
+  "rp_application": "用已完成事件集合定义场景。区分事件发生、人物获知、叙述揭露三个时间；没有依据不填公历年。",
+  "limits": [
+    "《少年卫斯理》的回忆位于童年，不排在《到阴间去》之后。",
+    "新闻年份、古物年代、人物自称寿命都不是全书发生年份。"
+  ],
+  "schema_version": "1.0",
+  "section": "rules",
+  "evidence_ids": [
+    "evidence_55145d37457acfee",
+    "evidence_5aac8f8ec213639b",
+    "evidence_7ffd3ff3793510d2",
+    "evidence_adc02c6b7cc016dd"
+  ],
+  "book_ids": [
+    "book_36e3d4c8cce1",
+    "book_7eed28bd703f",
+    "book_ede3a34d0069"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "m_blind",
+  "title": "木兰花眼伤与黑暗历险",
+  "kind": "event",
+  "summary": "木兰花遭毒笔眼伤，在失明中依工具与听觉冒险，也遇误导和疲劳，最终接受保护和手术。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《玻璃伪钞模》至《黑暗历险》。",
+    "narrative_layer": "present"
+  },
+  "state_before": "平常依赖视觉行动。",
+  "state_after": "经历失明与恢复过程，工具和同伴不可替代。",
+  "knowledge_boundary": "不是获得永久盲视；复明前不能直接用后期正常视觉。",
+  "character_ids": [
+    "mulanhua_mu_lanhua"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_bee8f80ee5d3f2b8",
+    "evidence_1bdc6023f403e5a5",
+    "evidence_ab9914ccaf7d7756",
+    "evidence_3f90efc5458c6497",
+    "evidence_7c2f9a914bb2917f"
+  ],
+  "book_ids": [
+    "book_0b0a0d1dcca5",
+    "book_676f75bdba78"
+  ]
+}

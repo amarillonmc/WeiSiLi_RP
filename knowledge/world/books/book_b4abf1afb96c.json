@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b4abf1afb96c",
+  "title": "天打雷劈",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/130天打雷劈.txt",
+  "file": "books/book_b4abf1afb96c.json",
+  "inherited_fact_count": 27,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "05a8c5d71623245d2521c0026f8d3c9036c70f2355a29d31a59c4af3e4118dcf",
+  "source_lines": 2566,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "录像与山地调查"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "找目击者、催眠师并揭记忆问题"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "探险救援和影像观察"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "讨论并在催眠现场"
+    },
+    {
+      "name": "张泰丰",
+      "card_id": "weisili_zhang_taifeng",
+      "role": "重要配角",
+      "basis": "联络费及为典参加救援"
+    },
+    {
+      "name": "典希微",
+      "card_id": "weisili_dian_xiwei",
+      "role": "主角",
+      "basis": "探险、失踪与记忆主体"
+    },
+    {
+      "name": "费南度",
+      "card_id": "weisili_feinandu",
+      "role": "主角",
+      "basis": "调查及警务协作"
+    },
+    {
+      "name": "努力大师",
+      "card_id": "weisili_nuli_master",
+      "role": "主角",
+      "basis": "重演封存记忆并耗竭"
+    },
+    {
+      "name": "秩序维护者",
+      "card_id": "weisili_thunder_arbiter",
+      "role": "阶段性对立者",
+      "basis": "逆转和记忆封存"
+    },
+    {
+      "name": "银行三匪",
+      "card_id": "weisili_thunder_bank_robbers",
+      "role": "反派",
+      "basis": "实际抢劫与死亡"
+    },
+    {
+      "name": "山中九匪",
+      "card_id": "weisili_thunder_mountain_bandits",
+      "role": "反派",
+      "basis": "伏击队伍与死亡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "乔安婶婶",
+      "reason": "单书重要线索证人，引导到庙并解释果报传统，无复数书重要出场"
+    },
+    {
+      "name": "警卫、经理、母子、其他探险队员、四警员",
+      "reason": "一次事件参与者，未具长期身份或反派定位"
+    },
+    {
+      "name": "非人协会成员",
+      "reason": "仅用于寻找大师的组织渠道，未明确各人单独出场"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_ab56381bd3137636",
+      "statement": "人数、枪械、分工与杀人意图",
+      "annotation_character_ids": [
+        "weisili_thunder_bank_robbers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad15472a78cc09d2",
+      "statement": "关系、会议与专业",
+      "annotation_character_ids": [
+        "weisili_zhang_taifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9f8f6c03376e7c51",
+      "statement": "个性、警务地位和与红绫交友",
+      "annotation_character_ids": [
+        "weisili_feinandu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e1dba46d7dd411e9",
+      "statement": "影像核验与表情提问",
+      "annotation_character_ids": [
+        "weisili_feinandu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f40eb6597dcaa8c",
+      "statement": "银行自射与非本意迹象",
+      "annotation_character_ids": [
+        "weisili_thunder_arbiter"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a6e07f144f42ae47",
+      "statement": "首人自射、警方既往记录",
+      "annotation_character_ids": [
+        "weisili_thunder_bank_robbers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6bc2f52680d00109",
+      "statement": "第二人失控自射和左手动作",
+      "annotation_character_ids": [
+        "weisili_thunder_bank_robbers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b576adb57a47c5ad",
+      "statement": "留意左手动作",
+      "annotation_character_ids": [
+        "weisili_feinandu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1b77897ec4698919",
+      "statement": "第三人死亡及全组结果",
+      "annotation_character_ids": [
+        "weisili_thunder_bank_robbers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e1722391591b0fbf",
+      "statement": "无人讨论仍求外界帮助",
+      "annotation_character_ids": [
+        "weisili_feinandu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa11692b3fb53352",
+      "statement": "武文兴趣、资助探险及风险态度",
+      "annotation_character_ids": [
+        "weisili_dian_xiwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b016f607d02813a",
+      "statement": "升迁与职责冲突",
+      "annotation_character_ids": [
+        "weisili_zhang_taifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4bca2d65d16773ea",
+      "statement": "探险队信息及时联络",
+      "annotation_character_ids": [
+        "weisili_feinandu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_054d971482eac7de",
+      "statement": "平台、雷雨、伏击与全组死亡",
+      "annotation_character_ids": [
+        "weisili_thunder_mountain_bandits"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1b115a9fd902448b",
+      "statement": "山中九匪互射由弹道证实",
+      "annotation_character_ids": [
+        "weisili_thunder_arbiter"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_29771f3f9da915db",
+      "statement": "警方弹道确认互射",
+      "annotation_character_ids": [
+        "weisili_thunder_mountain_bandits"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8c72383d149b6be3",
+      "statement": "派员合作并等待解释",
+      "annotation_character_ids": [
+        "weisili_feinandu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_98389525a0e0fe9a",
+      "statement": "安全确认与后续联络",
+      "annotation_character_ids": [
+        "weisili_zhang_taifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bf62637c77326368",
+      "statement": "经协会寻找、普通外貌与特殊催眠门派",
+      "annotation_character_ids": [
+        "weisili_nuli_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c5559d147a32b81",
+      "statement": "未告知的瑜伽示范及声音重演",
+      "annotation_character_ids": [
+        "weisili_nuli_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5497e511c02e5e0c",
+      "statement": "应袭、查尸、箭头与接触未知者",
+      "annotation_character_ids": [
+        "weisili_dian_xiwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_710f685774707ef5",
+      "statement": "典希微事后查看时只有初步怀疑",
+      "annotation_character_ids": [
+        "weisili_thunder_mountain_bandits"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_18dcf396ebbadf7d",
+      "statement": "上升、机器形态、信号逆转与雷电条件",
+      "annotation_character_ids": [
+        "weisili_thunder_arbiter"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10ef4b295122213b",
+      "statement": "信号逆转解释与环境条件",
+      "annotation_character_ids": [
+        "weisili_thunder_mountain_bandits"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fda2af14f52db574",
+      "statement": "拒留、封存与催眠仍能重演",
+      "annotation_character_ids": [
+        "weisili_thunder_arbiter"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ec4cc4233877429a",
+      "statement": "记忆封存及催眠后的不知情",
+      "annotation_character_ids": [
+        "weisili_dian_xiwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_512c1621b6cc599e",
+      "statement": "耗竭、解除、至少三年失能",
+      "annotation_character_ids": [
+        "weisili_nuli_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

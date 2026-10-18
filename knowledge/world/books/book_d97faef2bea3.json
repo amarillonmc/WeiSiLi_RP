@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d97faef2bea3",
+  "title": "神仙",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/059神仙.txt",
+  "file": "books/book_d97faef2bea3.json",
+  "inherited_fact_count": 19,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "b08b08363a7bd71c84dfec51a1da6d31602b7ba254a0580dc3cc5edc4e4d3a0f",
+  "source_lines": 3710,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "调查古玉及寻仙"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "重要配角",
+      "basis": "参与分析与结尾交流"
+    },
+    {
+      "name": "贾玉珍",
+      "card_id": "weisili_jia_yuzhen",
+      "role": "主角",
+      "basis": "求仙及返老还童"
+    },
+    {
+      "name": "鲁尔",
+      "card_id": "weisili_lu_er",
+      "role": "主角",
+      "basis": "遗产线索及拘押受害"
+    },
+    {
+      "name": "老鲁尔",
+      "card_id": "weisili_lu_er_grandfather",
+      "role": "反派",
+      "basis": "日记中直接掠夺挟持"
+    },
+    {
+      "name": "胡士",
+      "card_id": "weisili_hu_shi",
+      "role": "反派",
+      "basis": "情报拘押与交易叛逃"
+    },
+    {
+      "name": "屏风后神仙",
+      "card_id": "weisili_immortal_master",
+      "role": "主角",
+      "basis": "空间阻隔、教学及送离"
+    },
+    {
+      "name": "小神仙",
+      "card_id": "weisili_immortal_child",
+      "role": "阶段性对立者",
+      "basis": "擅动引爆器造成险情"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "古玉原收藏者及孩子",
+      "reason": "历史受害者，缺少独立主线身份与跨书行动"
+    },
+    {
+      "name": "仙丹原制作者",
+      "reason": "只有起源追问，未确认具体人格，不能虚构作者卡"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c016d7d9729b8c6d",
+      "statement": "来信和东柏林生活",
+      "annotation_character_ids": [
+        "weisili_lu_er"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7f2c028e9f91f62d",
+      "statement": "古董经历与性格",
+      "annotation_character_ids": [
+        "weisili_jia_yuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_93dc908a6311963d",
+      "statement": "情报身份与调查",
+      "annotation_character_ids": [
+        "weisili_hu_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_688111c32e988924",
+      "statement": "威胁及审讯",
+      "annotation_character_ids": [
+        "weisili_hu_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb6cec8573045084",
+      "statement": "窃听和金钱交易",
+      "annotation_character_ids": [
+        "weisili_hu_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4721adafa0c4812e",
+      "statement": "历史军人身份",
+      "annotation_character_ids": [
+        "weisili_lu_er_grandfather"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_acb63fa2fea5bf78",
+      "statement": "祖父记述及拘押未解",
+      "annotation_character_ids": [
+        "weisili_lu_er"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86d9134ad9217eaf",
+      "statement": "撕告示、破门挟持和后来处置",
+      "annotation_character_ids": [
+        "weisili_lu_er_grandfather"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72f287caee7be14a",
+      "statement": "仙箓和九丹",
+      "annotation_character_ids": [
+        "weisili_jia_yuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b0eeba2bb56b59d7",
+      "statement": "修习与返老还童",
+      "annotation_character_ids": [
+        "weisili_jia_yuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_88c52ad7ef808aba",
+      "statement": "整容出走计划",
+      "annotation_character_ids": [
+        "weisili_hu_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d575fc1a5c5da6eb",
+      "statement": "真实阻隔与隐居态度",
+      "annotation_character_ids": [
+        "weisili_immortal_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d3c09ba3ddea9138",
+      "statement": "空间机制和环境能源解释",
+      "annotation_character_ids": [
+        "weisili_immortal_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_043fc237939400be",
+      "statement": "明确未掌握环境聚能",
+      "annotation_character_ids": [
+        "weisili_jia_yuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d3d7bf7478d64bba",
+      "statement": "身影、干预和顽皮性质",
+      "annotation_character_ids": [
+        "weisili_immortal_child"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_469debb670e3b3ce",
+      "statement": "对成仙来源的讨论未解",
+      "annotation_character_ids": [
+        "weisili_immortal_child"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_991f88102eb081ab",
+      "statement": "送回卫斯理及身份语言",
+      "annotation_character_ids": [
+        "weisili_immortal_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1157be1e319a95b5",
+      "statement": "仍须长期修习及失联",
+      "annotation_character_ids": [
+        "weisili_jia_yuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8c83e6dc32f3b7e6",
+      "statement": "终局失联",
+      "annotation_character_ids": [
+        "weisili_hu_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

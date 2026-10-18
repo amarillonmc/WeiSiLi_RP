@@ -1,0 +1,421 @@
+{
+  "schema_version": "1.0",
+  "id": "book_93d047542c1e",
+  "title": "钻石花",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/001钻石花 .txt",
+  "file": "books/book_93d047542c1e.json",
+  "inherited_fact_count": 37,
+  "curated_links": {
+    "events": [
+      "w_diamond"
+    ],
+    "arcs": [
+      "arc_weisili"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "ca66287b899fab97c77a9a0f82ebe578fa90801b72d42e5b4a34e70e45b3983b",
+  "source_lines": 4272,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "石菊",
+      "card_id": "weisili_shi_ju",
+      "role": "单书主角",
+      "basis": "共同寻宝、身世与终局"
+    },
+    {
+      "name": "死神",
+      "card_id": "weisili_tang_tianxiang",
+      "role": "反派",
+      "basis": "犯罪首领与核心对立"
+    },
+    {
+      "name": "黎明玫",
+      "card_id": "weisili_li_mingmei",
+      "role": "单书主角",
+      "basis": "爱情、身世与牺牲"
+    },
+    {
+      "name": "石轩亭",
+      "card_id": "weisili_shi_xuanting",
+      "role": "反派",
+      "basis": "师门胁迫和杀人"
+    },
+    {
+      "name": "黄俊",
+      "card_id": "weisili_huang_jun",
+      "role": "单书主角",
+      "basis": "爱情与人质交易的行动主线"
+    },
+    {
+      "name": "施维娅",
+      "card_id": "weisili_shiweiya",
+      "role": "单书主角",
+      "basis": "人质及寻宝关键行动"
+    },
+    {
+      "name": "范朋",
+      "card_id": "weisili_fan_peng",
+      "role": "反派",
+      "basis": "黑帮首领"
+    },
+    {
+      "name": "尼里",
+      "card_id": "weisili_ni_li",
+      "role": "反派",
+      "basis": "黑帮首领"
+    },
+    {
+      "name": "马非亚",
+      "card_id": "weisili_mafeiya",
+      "role": "反派",
+      "basis": "具名地方威胁者"
+    },
+    {
+      "name": "蔡胖子",
+      "card_id": "weisili_cai_pangzi",
+      "role": "阶段性对立者",
+      "basis": "护主高手"
+    },
+    {
+      "name": "大师伯",
+      "card_id": "weisili_yin_shibo",
+      "role": "阶段性对立者",
+      "basis": "姓阴的师门高手，未证实为阴老二"
+    },
+    {
+      "name": "纳尔逊",
+      "card_id": "weisili_naerxun",
+      "role": "重要配角",
+      "basis": "调查与抓捕"
+    },
+    {
+      "name": "Ｇ大使",
+      "card_id": "weisili_g_ambassador",
+      "role": "重要配角／阶段性对立者",
+      "basis": "007明确回顾001铀矿宝藏冲突及结交，是跨书同一人。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "金二",
+      "reason": "仅回述师承，未在本书实际行动。"
+    },
+    {
+      "name": "北太极门四大汉、黑帮枪手",
+      "reason": "无独立姓名与人物线的从属执行者。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_28839afb238f3e3e",
+      "statement": "假腿与罪名身份",
+      "annotation_character_ids": [
+        "weisili_tang_tianxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_94376abf903b8479",
+      "statement": "鼓语配合与镇定",
+      "annotation_character_ids": [
+        "weisili_shi_ju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_02c301997f194076",
+      "statement": "持枪行动",
+      "annotation_character_ids": [
+        "weisili_huang_jun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6624422ddeef1c36",
+      "statement": "江湖身份",
+      "annotation_character_ids": [
+        "weisili_li_mingmei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5db2b8631ebd77ed",
+      "statement": "地头威胁",
+      "annotation_character_ids": [
+        "weisili_mafeiya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_50b519941958ecbc",
+      "statement": "地位与引入黑帮设局",
+      "annotation_character_ids": [
+        "weisili_mafeiya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fbea86d9e536fa46",
+      "statement": "身份、配合和被擒",
+      "annotation_character_ids": [
+        "weisili_ni_li"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9e9ecdf4fac05c83",
+      "statement": "头目身份和反被挟制",
+      "annotation_character_ids": [
+        "weisili_fan_peng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d3e2c4117e37acd1",
+      "statement": "银针、押人、接刀回掷",
+      "annotation_character_ids": [
+        "weisili_shi_ju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bc759e803cc8b95a",
+      "statement": "威胁与预设船陷阱",
+      "annotation_character_ids": [
+        "weisili_ni_li"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ce09bab5228f5b14",
+      "statement": "炸船留言与预设杀局",
+      "annotation_character_ids": [
+        "weisili_tang_tianxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4bedc313df2be73e",
+      "statement": "死亡与事后口供",
+      "annotation_character_ids": [
+        "weisili_ni_li"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ce47a6bb4fd9219e",
+      "statement": "幸存、口供与获释",
+      "annotation_character_ids": [
+        "weisili_fan_peng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f4fc9fb1f42d3c4",
+      "statement": "后续风险",
+      "annotation_character_ids": [
+        "weisili_mafeiya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a37d43c028bb52a8",
+      "statement": "为救施维娅交出同伴",
+      "annotation_character_ids": [
+        "weisili_huang_jun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a66f5aa9ba74c2f4",
+      "statement": "人质与钻石来源",
+      "annotation_character_ids": [
+        "weisili_shiweiya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_40daacce1bceb0cf",
+      "statement": "掌门身份与控制女儿",
+      "annotation_character_ids": [
+        "weisili_shi_xuanting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c81baf0f4be2339e",
+      "statement": "识别、师承、暗器和报恩理由",
+      "annotation_character_ids": [
+        "weisili_yin_shibo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7895436173812ebf",
+      "statement": "潜水经历和愿带路",
+      "annotation_character_ids": [
+        "weisili_shiweiya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e5bc411a960bc706",
+      "statement": "抛钻、解释与畏师",
+      "annotation_character_ids": [
+        "weisili_huang_jun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b6dd6e16521829e3",
+      "statement": "识招和财富胁迫",
+      "annotation_character_ids": [
+        "weisili_shi_xuanting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3a48b468d8cc5b27",
+      "statement": "体型、身份和交手",
+      "annotation_character_ids": [
+        "weisili_cai_pangzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d805673c17065377",
+      "statement": "高手交锋",
+      "annotation_character_ids": [
+        "weisili_shi_xuanting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b37df1b8af5239f",
+      "statement": "救人分神、身世与死亡",
+      "annotation_character_ids": [
+        "weisili_li_mingmei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ac3cf02da43b2ec",
+      "statement": "护妻射击、丧妻与迁怒",
+      "annotation_character_ids": [
+        "weisili_tang_tianxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7f6690f3dda8530c",
+      "statement": "中枪与死亡",
+      "annotation_character_ids": [
+        "weisili_shi_xuanting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_112c211dfa8b8612",
+      "statement": "身世冲击",
+      "annotation_character_ids": [
+        "weisili_shi_ju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b45e05da51e88d7a",
+      "statement": "逼近、被捕与逃脱",
+      "annotation_character_ids": [
+        "weisili_cai_pangzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b396b25958ffcd7",
+      "statement": "取证、逮捕与法庭不同立场",
+      "annotation_character_ids": [
+        "weisili_naerxun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8c7d1bc4d1452d1a",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "weisili_huang_jun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7dd060db3a1e6d4b",
+      "statement": "劫狱计划与保证",
+      "annotation_character_ids": [
+        "weisili_cai_pangzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f05b399d6b4aaf0d",
+      "statement": "保证",
+      "annotation_character_ids": [
+        "weisili_yin_shibo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0ac1d428211d8114",
+      "statement": "无罪判决与离去",
+      "annotation_character_ids": [
+        "weisili_tang_tianxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_429e04a3ab98a413",
+      "statement": "武术显示与对死神的宽赦选择",
+      "annotation_character_ids": [
+        "weisili_wei_sili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e9a79d16218c603",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "weisili_shi_ju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_744a7bef832cc901",
+      "statement": "合葬",
+      "annotation_character_ids": [
+        "weisili_li_mingmei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a6eb016c20a4a564",
+      "statement": "实际寻宝结果",
+      "annotation_character_ids": [
+        "weisili_shiweiya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

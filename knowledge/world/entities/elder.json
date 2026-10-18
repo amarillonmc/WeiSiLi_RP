@@ -1,0 +1,40 @@
+{
+  "id": "elder",
+  "title": "山腹长老与未爆工程",
+  "kind": "person",
+  "summary": "被降头传统尊奉的受困外星人，其解困将牵动地球工程和人口伦理。",
+  "mechanism": {
+    "text": "自述为七种外星人之一，负责爆炸未成而困住；以特定范围脑交流接触来访者。",
+    "epistemic_status": "testimony"
+  },
+  "access_conditions": [
+    "进入可交流范围或接通电脑中介",
+    "长老愿意提供信息"
+  ],
+  "limits": [
+    "其宏观起源史属证言而非全部独立验证",
+    "有能力引爆不等于愿意引爆",
+    "减人口论是其方案，并非客观正确的救世法"
+  ],
+  "last_known_state": "《行动救星》未开关，继续接收外界资料；破坏性计划未证实实施。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "可推动寻找非毁灭性解困办法、抵抗操控与信仰分歧。"
+  },
+  "character_ids": [
+    "weisili_chang_lao",
+    "weisili_lan_si",
+    "weisili_wen_baoyu"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_0f87d4336d11fb38",
+    "evidence_ae777a376f977579",
+    "evidence_85e9af2934c561cd",
+    "evidence_4f3c5ae5f47e0a29"
+  ],
+  "book_ids": [
+    "book_202100bacdcc"
+  ]
+}

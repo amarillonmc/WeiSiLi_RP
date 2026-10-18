@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f9892461e5c9",
+  "title": "火凤",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/08火凤.txt",
+  "file": "books/book_f9892461e5c9.json",
+  "inherited_fact_count": 3,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "c0533c95fed04333673075a85e2367b30456c4bd2d6c21203a29f4d618ef46fd",
+  "source_lines": 1248,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "高达",
+      "card_id": "adventure_gaoda",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "曲如眉",
+      "card_id": "adventure_qu_rumei",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "八角星恋人",
+      "card_id": "adventure_bajiaoxing_yingzi",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "远",
+      "card_id": "adventure_yuan",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "卡娅",
+      "card_id": "adventure_kaya",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "黛娜",
+      "card_id": "adventure_daina",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e8698afcf39ac332",
+      "statement": "武术理解",
+      "annotation_character_ids": [
+        "adventure_qu_rumei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_312f6ea0ebad8e20",
+      "statement": "帮助灵魂回乡与离别",
+      "annotation_character_ids": [
+        "adventure_qu_rumei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71c047724826f06f",
+      "statement": "离去依赖装置",
+      "annotation_character_ids": [
+        "adventure_bajiaoxing_yingzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

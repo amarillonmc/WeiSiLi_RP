@@ -1,0 +1,244 @@
+{
+  "schema_version": "1.0",
+  "id": "book_e316efa41fb7",
+  "title": "死亡织锦",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/09死亡织锦.txt",
+  "file": "books/book_e316efa41fb7.json",
+  "inherited_fact_count": 20,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "a3b3f6c689f38e50cc5f3e76a425bfedeec4aee60c28ff4a61287fbc42ea8ffa",
+  "source_lines": 2554,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "张伯谦",
+      "card_id": "mulanhua_zhang_boqian",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "柯一梦",
+      "card_id": "mulanhua_ke_yimeng",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "谷老爷子",
+      "card_id": "mulanhua_old_gu",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "陈万贯",
+      "card_id": "mulanhua_chen_wanguan",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "陈三、赵进（前段作赵建）、博物院资料员",
+      "reason": "被灭口者；所谓赵进杀人及当年卖国为犯罪者利用旧事的伪叙述，不能据此建立反派卡。"
+    },
+    {
+      "name": "谷家驹",
+      "reason": "一次性陪伴祖父并引路的少年，对木兰花有好感；没有独立敌对行动，不因祖父阶段对立自动判为反派。"
+    },
+    {
+      "name": "梁光、熊宅看守及医院人员",
+      "reason": "一次性侦探协助或误会参与者；无独立主线与跨书登场证据。"
+    },
+    {
+      "name": "马里坦、屈莱、马超文、方局长",
+      "reason": "本册仅追述近况或提及关系，不据此新增实际登场记录。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c6c7808a2ef9e9b5",
+      "statement": "后续组织衰弱",
+      "annotation_character_ids": [
+        "mulanhua_malitan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1df00455ebdcd34f",
+      "statement": "真实学术身份",
+      "annotation_character_ids": [
+        "mulanhua_zhang_boqian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e5bbf70ab2b09f8",
+      "statement": "绑架谈判及道德包装",
+      "annotation_character_ids": [
+        "mulanhua_ke_yimeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd97dd81a05e3974",
+      "statement": "卸力、放人礼节",
+      "annotation_character_ids": [
+        "mulanhua_ke_yimeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_13ee56dde808e681",
+      "statement": "潜入手法",
+      "annotation_character_ids": [
+        "mulanhua_ke_yimeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2d8b56f932218c98",
+      "statement": "摔高翔、试手与阻止调查",
+      "annotation_character_ids": [
+        "mulanhua_old_gu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f3f3089e80cf383c",
+      "statement": "近身反制与驱狗脱身",
+      "annotation_character_ids": [
+        "mulanhua_ke_yimeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ec223f398695abc3",
+      "statement": "毒针示威及转为欣赏",
+      "annotation_character_ids": [
+        "mulanhua_old_gu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1a2eea18c08c802b",
+      "statement": "身份、处子旧事与信任",
+      "annotation_character_ids": [
+        "mulanhua_old_gu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1bc77697ae0b3cf8",
+      "statement": "合谋真相与争执",
+      "annotation_character_ids": [
+        "mulanhua_ke_yimeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a875b50d6d9e370",
+      "statement": "柯一梦中毒及凶手撤离",
+      "annotation_character_ids": [
+        "mulanhua_zhang_boqian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a70ef2b76514636e",
+      "statement": "中毒与死亡前指向",
+      "annotation_character_ids": [
+        "mulanhua_ke_yimeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_800619522d09bd33",
+      "statement": "被欺骗的推理",
+      "annotation_character_ids": [
+        "mulanhua_old_gu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d5faf016247e39f",
+      "statement": "身份、缴枪及求饶",
+      "annotation_character_ids": [
+        "mulanhua_chen_wanguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f54621ddf4426b1",
+      "statement": "组织分工与转向合作",
+      "annotation_character_ids": [
+        "mulanhua_chen_wanguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a62bb1401623c7e6",
+      "statement": "单向联络限制",
+      "annotation_character_ids": [
+        "mulanhua_chen_wanguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8040911f74e67415",
+      "statement": "伪装与爆炸陷阱",
+      "annotation_character_ids": [
+        "mulanhua_zhang_boqian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82865948ee01dd15",
+      "statement": "配合再次送货",
+      "annotation_character_ids": [
+        "mulanhua_chen_wanguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a16618781511d116",
+      "statement": "败露、死亡及完整供述",
+      "annotation_character_ids": [
+        "mulanhua_zhang_boqian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_26b871683b13ef22",
+      "statement": "最终证实犯罪者利用旧事",
+      "annotation_character_ids": [
+        "mulanhua_old_gu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

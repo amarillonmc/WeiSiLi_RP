@@ -1,0 +1,29 @@
+{
+  "id": "n_empire",
+  "title": "年轻人阻止公主的帝国计划",
+  "kind": "event",
+  "summary": "年轻人把公主带离战争野心，宝藏之后二人逐渐选择共同生活。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《尺蠖》《大宝藏》；早期互相算计阶段向伴侣阶段转变。",
+    "narrative_layer": "present"
+  },
+  "state_before": "奥丽卡仍追求权力与财富。",
+  "state_after": "二人建立共同生活，不取消公主的主动性和欲望。",
+  "knowledge_boundary": "此时不能提前使用黑纱身体和后期飞行。",
+  "character_ids": [
+    "adventure_young",
+    "adventure_princess"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_78cae77c5e7acb89",
+    "evidence_b1d5c38e381b7644"
+  ],
+  "book_ids": [
+    "book_b227612aca17",
+    "book_d2f0e3b9ed17"
+  ]
+}

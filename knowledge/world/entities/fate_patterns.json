@@ -1,0 +1,40 @@
+{
+  "id": "fate_patterns",
+  "title": "命运石纹与计划论",
+  "kind": "information",
+  "summary": "被解读为命运安排的石纹与研究材料。",
+  "mechanism": {
+    "text": "化验、计划论和当事人解释之间仍有距离，不能据此建立可调用的确定预言服务。",
+    "epistemic_status": "hypothesis"
+  },
+  "access_conditions": [
+    "取得原材料、记录和解释背景"
+  ],
+  "limits": [
+    "宋天然不是命运操作者",
+    "后书记忆清除限制他能复述的事情"
+  ],
+  "last_known_state": "宋天然经历《还阳》后相关记忆被清除；理论不等于个人能力。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "可围绕“应否相信一项预示”制造选择与验证任务。"
+  },
+  "character_ids": [
+    "weisili_song_tianran"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_47233b20834b9531",
+    "evidence_95f9e882fd75820c",
+    "evidence_afffb7b6c2fb274d",
+    "evidence_60956d908f794a68",
+    "evidence_3a5c5790758454e9",
+    "evidence_3207c193011abe07",
+    "evidence_5175bbe15539463f"
+  ],
+  "book_ids": [
+    "book_1e1e601ec986",
+    "book_79cff9a289b5"
+  ]
+}

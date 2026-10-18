@@ -1,0 +1,33 @@
+{
+  "id": "pink_diamonds",
+  "title": "粉红钻石与珠宝案件",
+  "kind": "object",
+  "summary": "常规财富也能推动这个世界的追逐与误认。",
+  "mechanism": {
+    "text": "珠宝、赃物、香味线索及伪造解释进入警方调查；不必为所有宝物增加异能。",
+    "epistemic_status": "textual_fact"
+  },
+  "access_conditions": [
+    "持有赃物、调查记录或可信证据"
+  ],
+  "limits": [
+    "漂亮或稀有不等于异常装置",
+    "嫌疑不等于已判有罪"
+  ],
+  "last_known_state": "前案失物追回；公爵夫人涉珠宝失窃的嫌疑被指出，未写正式判决。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "用普通犯罪链维持城市生活层，避免每次都由外星人作结。"
+  },
+  "character_ids": [],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_ceb12c335518bf00",
+    "evidence_1cbb7af904fada7e",
+    "evidence_d1997d2ecff464ca"
+  ],
+  "book_ids": [
+    "book_c157bc6751a0"
+  ]
+}

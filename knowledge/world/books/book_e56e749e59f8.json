@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "id": "book_e56e749e59f8",
+  "title": "寻找爱神",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/15.寻找爱神.txt",
+  "file": "books/book_e56e749e59f8.json",
+  "inherited_fact_count": 19,
+  "curated_links": {
+    "rules": [
+      "rule_alien_ethics"
+    ],
+    "entities": [
+      "aishen_world"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "e5765803821591506399b2d4fde781d408c76e30b69e34c2c3caa56ff12bf661",
+  "source_lines": 3215,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查与选择"
+    },
+    {
+      "name": "黄绢",
+      "card_id": "yuanzhenxia_huang_juan",
+      "role": "重要配角",
+      "basis": "政治与行动"
+    },
+    {
+      "name": "林文义",
+      "card_id": "yuanzhenxia_lin_wenyi",
+      "role": "跨书主角",
+      "basis": "主要叙事、关系或敌对行动"
+    },
+    {
+      "name": "山虎",
+      "card_id": "yuanzhenxia_shanhu",
+      "role": "反派",
+      "basis": "主要叙事、关系或敌对行动"
+    },
+    {
+      "name": "阿英",
+      "card_id": "yuanzhenxia_a_ying",
+      "role": "跨书主角",
+      "basis": "主要叙事、关系或敌对行动"
+    },
+    {
+      "name": "康比",
+      "card_id": "yuanzhenxia_kangbi",
+      "role": "跨书主要人物",
+      "basis": "主要叙事、关系或敌对行动"
+    },
+    {
+      "name": "波尔",
+      "card_id": "yuanzhenxia_boer",
+      "role": "单书主角",
+      "basis": "主要叙事、关系或敌对行动"
+    },
+    {
+      "name": "大差",
+      "card_id": "yuanzhenxia_dacha",
+      "role": "反派",
+      "basis": "主要叙事、关系或敌对行动"
+    },
+    {
+      "name": "海棠",
+      "card_id": "yuanzhenxia_hai_tang",
+      "role": "主角",
+      "basis": "技术与海上行动"
+    },
+    {
+      "name": "爱神",
+      "card_id": "yuanzhenxia_aishen",
+      "role": "主角",
+      "basis": "力量来源与相见"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "范西门、小纳尔逊",
+      "reason": "仅此书开端的询问者，非独立主线角色，未确认其他小说实际参与"
+    },
+    {
+      "name": "陈满堂",
+      "reason": "一次性获救见证人"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_dfcc6fc3fd3699f3",
+      "statement": "继任专员说明",
+      "annotation_character_ids": [
+        "yuanzhenxia_laien"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f1ca2d172215879c",
+      "statement": "身份和自辩",
+      "annotation_character_ids": [
+        "yuanzhenxia_dacha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f5403fe3078dd6f",
+      "statement": "异常遭遇与终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_dacha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4bf0a7ea60d26c4c",
+      "statement": "证词与职业判断",
+      "annotation_character_ids": [
+        "yuanzhenxia_boer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_09da7f5e24c8dc27",
+      "statement": "单方感情",
+      "annotation_character_ids": [
+        "yuanzhenxia_boer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa9f15120ba9c367",
+      "statement": "外形和态度",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangbi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4373e689898f76c4",
+      "statement": "研究与邀请",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangbi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_989ad12e32743adf",
+      "statement": "失态和改观",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangbi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e812b8bccd25e024",
+      "statement": "显现与救援",
+      "annotation_character_ids": [
+        "yuanzhenxia_a_ying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a71c46dd3ec6ac93",
+      "statement": "救援职责",
+      "annotation_character_ids": [
+        "yuanzhenxia_boer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4878a26d82ce6bca",
+      "statement": "并非学法",
+      "annotation_character_ids": [
+        "yuanzhenxia_a_ying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ba334e733d9edb03",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_boer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f197df157730419",
+      "statement": "阿英的选择",
+      "annotation_character_ids": [
+        "yuanzhenxia_shanhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_21cc5c38ee786a99",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_lin_wenyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22afe8bd5347b399",
+      "statement": "选择",
+      "annotation_character_ids": [
+        "yuanzhenxia_a_ying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2dde80fb4c1176b4",
+      "statement": "失踪",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangbi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3cdda5a66aec79cf",
+      "statement": "异星能力与投影认知",
+      "annotation_character_ids": [
+        "yuanzhenxia_aishen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cbb5d6711b937a3d",
+      "statement": "去向",
+      "annotation_character_ids": [
+        "yuanzhenxia_shanhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8ab43c28e77b43ff",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_a_ying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

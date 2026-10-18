@@ -1,0 +1,322 @@
+{
+  "schema_version": "1.0",
+  "id": "book_368ae83e2abe",
+  "title": "废墟",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/072废墟.txt",
+  "file": "books/book_368ae83e2abe.json",
+  "inherited_fact_count": 25,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "859c7722245a7bacdcd9535debe5de68892191a1aee9b001b69b5305675b9da3",
+  "source_lines": 3276,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "登岛调查与推动自愿离山"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "重要配角",
+      "basis": "解读回忆与图形"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "研究祖屋与同伴行动"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "研究和联络"
+    },
+    {
+      "name": "胡明",
+      "card_id": "weisili_hu_ming",
+      "role": "主角",
+      "basis": "海岛调查及恋情"
+    },
+    {
+      "name": "田青丝",
+      "card_id": "weisili_tian_qingsi",
+      "role": "主角",
+      "basis": "童年自述与现时协作"
+    },
+    {
+      "name": "田青丝母亲",
+      "card_id": "weisili_qingsi_mother",
+      "role": "主角",
+      "basis": "寻找女儿和族规悲剧"
+    },
+    {
+      "name": "田青丝外祖母",
+      "card_id": "weisili_qingsi_grandmother",
+      "role": "阶段性对立者",
+      "basis": "逼女、照护和临终放行"
+    },
+    {
+      "name": "李规范",
+      "card_id": "weisili_li_guifan",
+      "role": "主角",
+      "basis": "谋划离山"
+    },
+    {
+      "name": "牛一山",
+      "card_id": "weisili_niu_yishan",
+      "role": "阶段性对立者",
+      "basis": "拘束阻挠与自焚"
+    },
+    {
+      "name": "胡隆",
+      "card_id": "weisili_hu_long",
+      "role": "阶段性对立者",
+      "basis": "护主及保密冲突"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "潜访与离山"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "潜访与离山"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "陈长青及七姓先祖",
+      "reason": "陈主要以祖屋和历史关联被讨论，已在主卡记录；未给无名先祖补造真实历史身份"
+    },
+    {
+      "name": "两个矮子等无名围攻者",
+      "reason": "牛一山控制行动中的未区分成员，没有独立意志线可分别建卡"
+    },
+    {
+      "name": "地方施暴男子群",
+      "reason": "回忆中局部暴力环境，无稳定统一组织与个体身份，保留事件记录"
+    },
+    {
+      "name": "田青丝父亲",
+      "reason": "寻找目标和私奔背景，文本未呈现完整自主行动线"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_fcffb17a20afd550",
+      "statement": "昆虫专长与生活反差的他人评价",
+      "annotation_character_ids": [
+        "weisili_hu_shuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46702dff788894b0",
+      "statement": "寻女、外观与反制",
+      "annotation_character_ids": [
+        "weisili_qingsi_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6602ba923f0d5435",
+      "statement": "老态与越障能力",
+      "annotation_character_ids": [
+        "weisili_qingsi_grandmother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2cd99ebedabdcbfe",
+      "statement": "逼女儿及强行带走外孙女",
+      "annotation_character_ids": [
+        "weisili_qingsi_grandmother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b8ca3dff9fa102f",
+      "statement": "童年悲剧及山顶生活",
+      "annotation_character_ids": [
+        "weisili_tian_qingsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8d3a61bd68d5d567",
+      "statement": "最后争论和死亡",
+      "annotation_character_ids": [
+        "weisili_qingsi_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee9df265a582be3e",
+      "statement": "身手、厌恶旧生活与受袭",
+      "annotation_character_ids": [
+        "weisili_li_guifan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8ba7ab9596d57c31",
+      "statement": "大幕突袭",
+      "annotation_character_ids": [
+        "weisili_niu_yishan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4591f6f59e8fce52",
+      "statement": "内劲和要求驱逐",
+      "annotation_character_ids": [
+        "weisili_niu_yishan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_768fd6b1ac8b4192",
+      "statement": "入场护主与共同保密",
+      "annotation_character_ids": [
+        "weisili_hu_long"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_91ed4dad8c99abd6",
+      "statement": "保密压力与推责",
+      "annotation_character_ids": [
+        "weisili_niu_yishan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ac21c9aa95edd05e",
+      "statement": "动手技巧、被解及服从",
+      "annotation_character_ids": [
+        "weisili_hu_long"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_92f962bfcb0f3120",
+      "statement": "威严与保密边界",
+      "annotation_character_ids": [
+        "weisili_li_guifan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3c78a9fa37c0304f",
+      "statement": "历史推断、恋情与不懂武术",
+      "annotation_character_ids": [
+        "weisili_hu_ming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d04be4b817e45239",
+      "statement": "身份、十五年孤立和逃亡",
+      "annotation_character_ids": [
+        "weisili_tian_qingsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_827b9b9c0ae873a4",
+      "statement": "身世与私奔",
+      "annotation_character_ids": [
+        "weisili_qingsi_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2302bd05e497aa9e",
+      "statement": "照护、教习和临终放行",
+      "annotation_character_ids": [
+        "weisili_qingsi_grandmother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86b754f513d4f04f",
+      "statement": "主动要求调查及技能界限",
+      "annotation_character_ids": [
+        "weisili_tian_qingsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a9cbde45c58ce400",
+      "statement": "主动结束隐居",
+      "annotation_character_ids": [
+        "weisili_li_guifan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_404886f45786e16a",
+      "statement": "长期计划和学业",
+      "annotation_character_ids": [
+        "weisili_li_guifan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f8dd42144bfef1f",
+      "statement": "协助李规范计划",
+      "annotation_character_ids": [
+        "weisili_tian_qingsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ded06efe27acf4a0",
+      "statement": "名字、双生与先后不明",
+      "annotation_character_ids": [
+        "weisili_liang_chen",
+        "weisili_mei_jing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9392a10f99bb88b3",
+      "statement": "终局火毁和死亡",
+      "annotation_character_ids": [
+        "weisili_niu_yishan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8ff0bece5d9a95be",
+      "statement": "终局名义统领与政变观念",
+      "annotation_character_ids": [
+        "weisili_li_guifan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3c575b1f1adac351",
+      "statement": "轻功与后续共同事件",
+      "annotation_character_ids": [
+        "weisili_liang_chen",
+        "weisili_mei_jing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

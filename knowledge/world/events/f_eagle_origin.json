@@ -1,0 +1,29 @@
+{
+  "id": "f_eagle_origin",
+  "title": "金维救大鹰并追索孤峰",
+  "kind": "event",
+  "summary": "金维释放被捕的大鹰并推荐入会，接触孤峰人物的死亡和未知满足，选择继续学习。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《大鹰》所述早年经历，早于生死锁与真实幻境回指。",
+    "narrative_layer": "recollection"
+  },
+  "state_before": "从野外敌意接近不明生命。",
+  "state_after": "形成关系和长期谜团；未得全部答案。",
+  "knowledge_boundary": "后书重述与早书细节有差异，不能无声融合。",
+  "character_ids": [
+    "adventure_jinwei",
+    "adventure_daying"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_a479c4071dd10d71",
+    "evidence_5c7e15e9614ce00c",
+    "evidence_7212d7668f54918d"
+  ],
+  "book_ids": [
+    "book_31c94dd237eb"
+  ]
+}

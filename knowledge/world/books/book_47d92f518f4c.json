@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0",
+  "id": "book_47d92f518f4c",
+  "title": "天书",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/049天书.txt",
+  "file": "books/book_47d92f518f4c.json",
+  "inherited_fact_count": 16,
+  "curated_links": {
+    "entities": [
+      "heaven_book"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "f5a9c0aa9657e940b1ed592dcbba69558f32e6dfce23e214a0fc81ac3a941183",
+  "source_lines": 3743,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "姬娜·基度",
+      "card_id": "weisili_jina_jidu",
+      "role": "跨书主角",
+      "basis": "天书主线行动或终局解释"
+    },
+    {
+      "name": "祖斯基",
+      "card_id": "weisili_zusiji",
+      "role": "单书主要调查者",
+      "basis": "天书主线行动或终局解释"
+    },
+    {
+      "name": "帕修斯的老神父",
+      "card_id": "weisili_tianshu_priest",
+      "role": "单书关键行动者",
+      "basis": "天书主线行动或终局解释"
+    },
+    {
+      "name": "《天书》迷航者",
+      "card_id": "weisili_tianshu_traveler",
+      "role": "单书核心人物",
+      "basis": "天书主线行动或终局解释"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "连伦",
+      "reason": "公司负责人，出售宝石事件的单书起因人物。"
+    },
+    {
+      "name": "莫勒",
+      "reason": "一次协助查失踪警官，未证实跨书。"
+    },
+    {
+      "name": "尚塞叔叔",
+      "reason": "一次协助处理尸体方式的长辈。"
+    },
+    {
+      "name": "颇普",
+      "reason": "杂货商及线索提供者。"
+    },
+    {
+      "name": "伦蓬尼",
+      "reason": "神父探险前史中的队长，无独立当下行动线。"
+    },
+    {
+      "name": "杨安、宾鲁达及第六批来客",
+      "reason": "仅为他人转述的古代文明解释，无独立完整人物线；不把传说中的全部事迹合并。"
+    },
+    {
+      "name": "米伦夫妇、雅伦",
+      "reason": "前作人物在此被提及及补充来历，不冒记为再出场；相关主卡另存。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_eda3a345134a1ab2",
+      "statement": "童年关系",
+      "annotation_character_ids": [
+        "weisili_jina_jidu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_807c0ef083b60f1e",
+      "statement": "真实身份",
+      "annotation_character_ids": [
+        "weisili_zusiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_15ad427b2a1ca126",
+      "statement": "调查及化验",
+      "annotation_character_ids": [
+        "weisili_zusiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e3cd88d3e73a159",
+      "statement": "感情倾向",
+      "annotation_character_ids": [
+        "weisili_zusiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9810c5902e7027a2",
+      "statement": "外貌与待人",
+      "annotation_character_ids": [
+        "weisili_tianshu_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ae80b4b94882f3f4",
+      "statement": "探险及教堂",
+      "annotation_character_ids": [
+        "weisili_tianshu_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_febc12faac6965dc",
+      "statement": "关心姬娜",
+      "annotation_character_ids": [
+        "weisili_tianshu_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5361ba5df7515376",
+      "statement": "飞车事故",
+      "annotation_character_ids": [
+        "weisili_jina_jidu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d9ab57cf4151978",
+      "statement": "身体、设备与求援",
+      "annotation_character_ids": [
+        "weisili_tianshu_traveler"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_37cad2859bd7b3c4",
+      "statement": "设备、信号与十年照护",
+      "annotation_character_ids": [
+        "weisili_jina_jidu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5571c24f7e4e13b9",
+      "statement": "镜像解释及天书",
+      "annotation_character_ids": [
+        "weisili_tianshu_traveler"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fe0370b8a86c919c",
+      "statement": "卫斯理后续的镜像宇宙推断，区分当事人认知。",
+      "annotation_character_ids": [
+        "weisili_milun",
+        "weisili_milun_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e6390d4aacee56ad",
+      "statement": "死亡与毁船",
+      "annotation_character_ids": [
+        "weisili_tianshu_traveler"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fe069bb783db888c",
+      "statement": "预知恐惧解释",
+      "annotation_character_ids": [
+        "weisili_jina_jidu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d570e9786cf0804d",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "weisili_tianshu_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_be86389ddac2ac72",
+      "statement": "有限终局认知",
+      "annotation_character_ids": [
+        "weisili_zusiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "w_hongling_choices",
+  "title": "红绫保护银猿",
+  "kind": "event",
+  "summary": "红绫保护与自己相依的银猿，母女关系从教导和竞争转向承认她的独立感情。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《烈火女》阶段。",
+    "narrative_layer": "present"
+  },
+  "state_before": "父母希望安排女儿成长。",
+  "state_after": "女儿会为重要关系作判断和隐瞒，家庭需学习尊重。",
+  "knowledge_boundary": "成长不是瞬间获得所有城市知识。",
+  "character_ids": [
+    "weisili_hong_ling",
+    "weisili_bai_su"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_9d7ff2aa7e94f812"
+  ],
+  "book_ids": [
+    "book_6f42d4433a38"
+  ]
+}

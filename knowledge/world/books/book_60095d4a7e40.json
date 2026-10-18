@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "id": "book_60095d4a7e40",
+  "title": "访客",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/031访客.txt",
+  "file": "books/book_60095d4a7e40.json",
+  "inherited_fact_count": 6,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "61c5c6ac1bba44ca7b29c0d591dfff302a6a359e69f2670d7645d2fc41a453ce",
+  "source_lines": 1311,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "杰克",
+      "card_id": "weisili_jieke",
+      "role": "重要配角",
+      "basis": "警务调查"
+    },
+    {
+      "name": "丁纳",
+      "card_id": "weisili_dingna",
+      "role": "单书主角",
+      "basis": "访客与药物控制事件"
+    },
+    {
+      "name": "鲍伯尔",
+      "card_id": "weisili_baoboer",
+      "role": "反派",
+      "basis": "访客与药物控制事件"
+    },
+    {
+      "name": "《访客》的巫都教主",
+      "card_id": "weisili_wudu_leader",
+      "role": "反派",
+      "basis": "访客与药物控制事件"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "陈福雷、陈小雷",
+      "reason": "单书求助者及目击者，没有独立能力线或后续实际登场"
+    },
+    {
+      "name": "石先生等四名病人",
+      "reason": "受控制的受害者，机制归入丁纳卡，不将被迫行动视作个人反派动机"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_a41d4da729c22a01",
+      "statement": "家庭与突然死亡",
+      "annotation_character_ids": [
+        "weisili_baoboer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4b80c397d03b59ec",
+      "statement": "教中地位与招引丁纳",
+      "annotation_character_ids": [
+        "weisili_baoboer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6800a6daeb8651ee",
+      "statement": "受害经历与药物控制机制",
+      "annotation_character_ids": [
+        "weisili_dingna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd2388e3dcad670a",
+      "statement": "组织、惩罚和药物控制",
+      "annotation_character_ids": [
+        "weisili_wudu_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_29ab9f0ec6949b5f",
+      "statement": "四名病人、复仇、愿景和爆炸终局",
+      "annotation_character_ids": [
+        "weisili_dingna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9f0853e0553bf263",
+      "statement": "报复机制",
+      "annotation_character_ids": [
+        "weisili_baoboer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

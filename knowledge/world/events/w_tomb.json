@@ -1,0 +1,26 @@
+{
+  "id": "w_tomb",
+  "title": "盗墓使齐白接近异常遗迹",
+  "kind": "event",
+  "summary": "齐白的地下探索与古物阅读装置相遇，盗墓经验开始连接异星知识。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "齐白获得后期阴间通行身份之前。",
+    "narrative_layer": "present"
+  },
+  "state_before": "以盗墓与古迹调查为主要经验。",
+  "state_after": "已有异常装置接触；不因此已经掌管阴间。",
+  "knowledge_boundary": "只按当时实际装置和知识行动，不加载终局团聚状态。",
+  "character_ids": [
+    "weisili_qi_bai"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_46bc026fbd5c7506"
+  ],
+  "book_ids": [
+    "book_aa5d20a2593d"
+  ]
+}

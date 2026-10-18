@@ -1,0 +1,30 @@
+{
+  "id": "w_ring_explanation",
+  "title": "许愿重释催命环和曹家旧案",
+  "kind": "event",
+  "summary": "催命环的离体机制解释、曹家灵魂的自愿选择与旧仇恨发生碰撞。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "阴间调查链的《许愿》阶段，早于终局停机。",
+    "narrative_layer": "present"
+  },
+  "state_before": "旧案被解释为杀害与追魂。",
+  "state_after": "器物交由李宣宣处理，部分当事人拒绝全无境界；阴老二仍未找到。",
+  "knowledge_boundary": "解释者的说法不等于受害者同意；不以技术说明抹掉责任。",
+  "character_ids": [
+    "weisili_qi_bai"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_c3496540924bd169",
+    "evidence_61da283d4f845f8e",
+    "evidence_33b6a0711c5cb6a0",
+    "evidence_14ade03a57573706",
+    "evidence_e099f8d518f7c390"
+  ],
+  "book_ids": [
+    "book_b6cdd6772328"
+  ]
+}

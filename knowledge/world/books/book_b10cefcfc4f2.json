@@ -1,0 +1,502 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b10cefcfc4f2",
+  "title": "微晶之密",
+  "aliases": [],
+  "series": "浪子高达系列",
+  "source_path": "浪子高达系列/微晶之密.txt",
+  "file": "books/book_b10cefcfc4f2.json",
+  "inherited_fact_count": 42,
+  "curated_links": {
+    "entities": [
+      "microcrystal"
+    ],
+    "events": [
+      "g_microcrystal"
+    ],
+    "arcs": [
+      "arc_gaoda"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "10a68521da61edb10f16332fc9f39fe67bf0d025deaa0c448e7409e6b7c6f84e",
+  "source_lines": 7441,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "高达",
+      "card_id": "adventure_gaoda",
+      "role": "主角",
+      "basis": "全书核心行动视角"
+    },
+    {
+      "name": "时重池",
+      "card_id": "adventure_shi_lushi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "费经理",
+      "card_id": "adventure_fei",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "莫教授",
+      "card_id": "adventure_mo",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "阿发",
+      "card_id": "adventure_afa",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "万夹",
+      "card_id": "adventure_wanjia",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "金手勤",
+      "card_id": "adventure_jinshouqin",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "韦松石",
+      "card_id": "adventure_wei_songshi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "希伯德",
+      "card_id": "adventure_xibode",
+      "role": "单书主角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "妮莎亚",
+      "card_id": "adventure_nishaya",
+      "role": "单书主角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "琼妮",
+      "card_id": "adventure_qiongni",
+      "role": "单书主角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "陈香",
+      "card_id": "adventure_chenxiang",
+      "role": "反派",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "大脚哈利",
+      "card_id": "adventure_hali",
+      "role": "反派",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "光头罗夫",
+      "card_id": "adventure_luofu",
+      "role": "反派",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "华特医生",
+      "card_id": "adventure_huate",
+      "role": "阶段性对立者",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "基地主持人",
+      "card_id": "adventure_micro_director",
+      "role": "阶段性对立者",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "银衣女官",
+      "card_id": "adventure_silver_officer",
+      "role": "反派",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "白美玉",
+      "card_id": "adventure_bai_meiyu",
+      "role": "重要配角",
+      "basis": "陈香转述提供资料的实际背景，身份由高达辨认"
+    },
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "重要配角",
+      "basis": "末尾电话联络，复用主卡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "真正罗玛丽",
+      "reason": "已于飞机事故中死亡的背景人物，本文行动全是陈香冒名。"
+    },
+    {
+      "name": "两名假母女登山队员",
+      "reason": "被强制利用并遥控杀害的无名受害者，不混入妮莎亚、琼妮身份。"
+    },
+    {
+      "name": "永恒之星大首领",
+      "reason": "只作为女官授权来源提及，未有本体登场。"
+    },
+    {
+      "name": "厉大猷、胡说",
+      "reason": "解释或联络背景的提及，不据此算本书完整行动。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_42fab762c8822a02",
+      "statement": "团队摄影师身份",
+      "annotation_character_ids": [
+        "adventure_wei_songshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_55db5602d251495b",
+      "statement": "扒手身份",
+      "annotation_character_ids": [
+        "adventure_afa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b5abb30ab74d0b5",
+      "statement": "伪冒专家身份",
+      "annotation_character_ids": [
+        "adventure_jinshouqin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cc31843479a13160",
+      "statement": "开锁专家身份",
+      "annotation_character_ids": [
+        "adventure_wanjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8e098e0b04cfc886",
+      "statement": "银衣外观与审问",
+      "annotation_character_ids": [
+        "adventure_silver_officer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fd2921088e9a8ebb",
+      "statement": "初见、身份、知识边界和对父亲的担心",
+      "annotation_character_ids": [
+        "adventure_qiongni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c12e69face30d3b3",
+      "statement": "构想与辞职",
+      "annotation_character_ids": [
+        "adventure_xibode"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_31d823cb10240765",
+      "statement": "被上级打断及限期威胁",
+      "annotation_character_ids": [
+        "adventure_qiongni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_65a8b11771c22735",
+      "statement": "高阶权限、期限与电击经历",
+      "annotation_character_ids": [
+        "adventure_silver_officer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b68d522750d6110a",
+      "statement": "女官权限高于主持人",
+      "annotation_character_ids": [
+        "adventure_micro_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_896313bac1819382",
+      "statement": "医生身份接近",
+      "annotation_character_ids": [
+        "adventure_huate"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a5edf518141521a7",
+      "statement": "现实态度与团队分歧",
+      "annotation_character_ids": [
+        "adventure_wanjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca11e98b7dfc5b0b",
+      "statement": "向技术专家核实价值",
+      "annotation_character_ids": [
+        "adventure_fei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10c9cca6ca0ac41b",
+      "statement": "摄影机专业判断",
+      "annotation_character_ids": [
+        "adventure_wei_songshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_49d64884925c7c43",
+      "statement": "知识边界",
+      "annotation_character_ids": [
+        "adventure_mo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_241dd107394d539d",
+      "statement": "故障、腿伤与争辩",
+      "annotation_character_ids": [
+        "adventure_nishaya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9c21c330d6b96f47",
+      "statement": "父女、守密制度与电击桌",
+      "annotation_character_ids": [
+        "adventure_micro_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2c2605a66f2ee9bb",
+      "statement": "被迫留下及研究诱因",
+      "annotation_character_ids": [
+        "adventure_xibode"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d6d39ca730bee036",
+      "statement": "原意、误会及技术帮助",
+      "annotation_character_ids": [
+        "adventure_nishaya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1cd662ff1d49a124",
+      "statement": "家庭和实验",
+      "annotation_character_ids": [
+        "adventure_nishaya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_26de18b6a8c00958",
+      "statement": "科研支持、控制与销毁",
+      "annotation_character_ids": [
+        "adventure_micro_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f7c4bcd622baded5",
+      "statement": "研究进展、家庭与销毁",
+      "annotation_character_ids": [
+        "adventure_xibode"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0a79ebbd019cbc13",
+      "statement": "游客伪装监视未发现目标",
+      "annotation_character_ids": [
+        "adventure_jinshouqin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16ca7d134b8a0b7b",
+      "statement": "交换者口音对应",
+      "annotation_character_ids": [
+        "adventure_huate"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4bd8c9be35e9979f",
+      "statement": "队友、遥控杀伤和继续传令",
+      "annotation_character_ids": [
+        "adventure_huate"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e3552486914a997a",
+      "statement": "仍被挟持",
+      "annotation_character_ids": [
+        "adventure_nishaya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1a47e5747b9733e3",
+      "statement": "分析交换异常",
+      "annotation_character_ids": [
+        "adventure_shi_lushi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cd8aeff43b90f611",
+      "statement": "机车脱身、承认身份与组织关系",
+      "annotation_character_ids": [
+        "adventure_chenxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e6f1bd96b5732906",
+      "statement": "组织身份与利用希伯德",
+      "annotation_character_ids": [
+        "adventure_hali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_37d7777a33defe3b",
+      "statement": "陈香述社交来源及高达辨认",
+      "annotation_character_ids": [
+        "adventure_bai_meiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_14072ed53a35b33b",
+      "statement": "骗局目的",
+      "annotation_character_ids": [
+        "adventure_chenxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d0a6ec514dfd4a58",
+      "statement": "冒充哈利与谈判内容",
+      "annotation_character_ids": [
+        "adventure_luofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_05b8366e700fdbdb",
+      "statement": "与万夹配合突袭",
+      "annotation_character_ids": [
+        "adventure_afa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a0cbfda938044a7b",
+      "statement": "主动突袭的条件",
+      "annotation_character_ids": [
+        "adventure_wanjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fac551d1e75b5e6a",
+      "statement": "被突袭、揭名及身份",
+      "annotation_character_ids": [
+        "adventure_luofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_13eb7f7a14a35a9b",
+      "statement": "在哈利面前的从属位置",
+      "annotation_character_ids": [
+        "adventure_luofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_99475adda59255f3",
+      "statement": "人、物与显示器的交易难题",
+      "annotation_character_ids": [
+        "adventure_hali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_314a045a17e7e210",
+      "statement": "身世、夺钱冲动与死亡",
+      "annotation_character_ids": [
+        "adventure_chenxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a474f4986b07db4f",
+      "statement": "肩伤与送人离开",
+      "annotation_character_ids": [
+        "adventure_hali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7fdad6f98a121fe1",
+      "statement": "疲劳、希伯德离去与尊重选择",
+      "annotation_character_ids": [
+        "adventure_gaoda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2d2b9cce0cf5dc0f",
+      "statement": "悔悟与主动归返",
+      "annotation_character_ids": [
+        "adventure_xibode"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_658d520b30053cab",
+      "statement": "父亲选择归返但未展示重聚",
+      "annotation_character_ids": [
+        "adventure_qiongni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "id": "book_804e073c33f0",
+  "title": "游魂",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/14游魂.txt",
+  "file": "books/book_804e073c33f0.json",
+  "inherited_fact_count": 3,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "4b204b354ba015aaa7bf94065b08b88e2163843da3d1909b86b25909a311152f",
+  "source_lines": 1345,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "布姬",
+      "card_id": "adventure_buji",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "莲子及夏天",
+      "reason": "单书关系与线索人物，未获跨书重要配角资格"
+    },
+    {
+      "name": "狮神及历代祖先",
+      "reason": "未实际找到，解释多为推论，不把设想当已获能力"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7a69825d04773fc4",
+      "statement": "仪器与目标认知不足",
+      "annotation_character_ids": [
+        "adventure_buji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_96c35a4157cc1893",
+      "statement": "复国设想与承诺",
+      "annotation_character_ids": [
+        "adventure_buji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_211acefd3f555cba",
+      "statement": "无果搜索与独自离开",
+      "annotation_character_ids": [
+        "adventure_buji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

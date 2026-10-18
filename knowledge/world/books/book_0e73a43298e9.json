@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0",
+  "id": "book_0e73a43298e9",
+  "title": "错手",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/081错手.txt",
+  "file": "books/book_0e73a43298e9.json",
+  "inherited_fact_count": 8,
+  "curated_links": {
+    "arcs": [
+      "arc_baisu"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "2413dee14aa56be8107aebd1fb620c74e82c0a360d2c6fad1cc7fcdbca21555d",
+  "source_lines": 4348,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "调查容器"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "赌局方案、救父"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "主角",
+      "basis": "赌局发起及入容器"
+    },
+    {
+      "name": "哈山",
+      "card_id": "weisili_ha_shan",
+      "role": "主角",
+      "basis": "藏身、失踪与复原"
+    },
+    {
+      "name": "刘根生",
+      "card_id": "weisili_liu_gensheng",
+      "role": "主角",
+      "basis": "开容器并收走核心"
+    },
+    {
+      "name": "邮轮船长",
+      "card_id": "weisili_cuoshou_captain",
+      "role": "重要配角／对立者",
+      "basis": "泄密与船务配合"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "切开装置研究"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "切开装置研究"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "参与赌局与讨论"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "参与赌局与讨论"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "参与赌局与讨论"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "参与讨论"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "厂长、领班、邮轮其他职员",
+      "reason": "匿名技术和船务协助者，没有独立角色弧或已核跨书身份"
+    },
+    {
+      "name": "云四风",
+      "reason": "本书机构背景和技术来源提及；亲自通信出场在082"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_db1da09bde2f8939",
+      "statement": "孤儿出身、白老大旧交与经营",
+      "annotation_character_ids": [
+        "weisili_ha_shan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3013e19aa8a52e19",
+      "statement": "为父亲赌局收买船长及与卫的分歧",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_400dafacdf6bf28f",
+      "statement": "收买方案及职业信任",
+      "annotation_character_ids": [
+        "weisili_cuoshou_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_85dedf6a113e9013",
+      "statement": "泄密并调动船务",
+      "annotation_character_ids": [
+        "weisili_cuoshou_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e80932240f6063a8",
+      "statement": "发明家及云氏工业顾问身份",
+      "annotation_character_ids": [
+        "weisili_ge_bi",
+        "weisili_sha_mo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7ba1e86865c24d3e",
+      "statement": "风险争论与激光切割合作",
+      "annotation_character_ids": [
+        "weisili_ge_bi",
+        "weisili_sha_mo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_311cce575d055dcd",
+      "statement": "错手及无感知状态",
+      "annotation_character_ids": [
+        "weisili_ha_shan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_746334695b60d024",
+      "statement": "设备不是自己所有、知识有限",
+      "annotation_character_ids": [
+        "weisili_ha_shan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

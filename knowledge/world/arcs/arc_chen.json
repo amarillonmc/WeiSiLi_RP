@@ -1,0 +1,39 @@
+{
+  "id": "arc_chen",
+  "title": "陈长青的经历与成长",
+  "kind": "arc",
+  "character_id": "weisili_chen_changqing",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "从富有好奇者到仍有欲求的离体意识；失去肉身没有使他超然。"
+  },
+  "stages": [
+    {
+      "label": "旧性情仍在",
+      "event_ids": [
+        "w_chen_spirit"
+      ],
+      "state": "清醒、骄傲、求索且痛苦。",
+      "rp_constraint": "早期财富与肉身不默认恢复。"
+    },
+    {
+      "label": "未完成的愿望",
+      "event_ids": [
+        "w_chen_spirit"
+      ],
+      "state": "拒绝满足于轮回或阴间安住。",
+      "rp_constraint": "不得宣称大解脱已经达成。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_aa9d7aafeba7b8f8",
+    "evidence_65f0c0ecdf5792cb",
+    "evidence_87d5af21ab4b92fd"
+  ],
+  "book_ids": [
+    "book_35440df21d78",
+    "book_daabf1bd27ce"
+  ]
+}

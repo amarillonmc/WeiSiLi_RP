@@ -1,0 +1,3048 @@
+{
+  "schema_version": "1.0",
+  "stats": {
+    "source_text_count": 336,
+    "indexed_text_count": 336,
+    "character_history_count": 1409,
+    "evidence_count": 5617,
+    "inherited_annotation_count": 5578,
+    "books_linked_to_curated_world_entries": 85,
+    "books_with_direct_source_review": 8,
+    "rules_count": 14,
+    "entities_count": 30,
+    "events_count": 67,
+    "relations_count": 38,
+    "arcs_count": 24,
+    "issues_count": 12,
+    "bridges_count": 11
+  },
+  "books": [
+    {
+      "book_id": "book_670aaaa7d25b",
+      "path": "亚洲之鹰罗开系列/01鬼钟.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_3d11fdd8a762",
+      "path": "亚洲之鹰罗开系列/02妖偶.txt",
+      "indexed": true,
+      "inherited_fact_count": 8,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_4061a76cea80",
+      "path": "亚洲之鹰罗开系列/03魔像.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b032f28a589d",
+      "path": "亚洲之鹰罗开系列/04怪头.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f621f4d4d1a7",
+      "path": "亚洲之鹰罗开系列/05巨龙.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_947d367a6cc7",
+      "path": "亚洲之鹰罗开系列/06蛇神.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_533b28ccc313",
+      "path": "亚洲之鹰罗开系列/07蜂后.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": true,
+      "direct_source_review": true,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f9892461e5c9",
+      "path": "亚洲之鹰罗开系列/08火凤.txt",
+      "indexed": true,
+      "inherited_fact_count": 3,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_ddec6bbb144f",
+      "path": "亚洲之鹰罗开系列/09夜光.txt",
+      "indexed": true,
+      "inherited_fact_count": 5,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_2af29c6320c3",
+      "path": "亚洲之鹰罗开系列/10异人.txt",
+      "indexed": true,
+      "inherited_fact_count": 11,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_0326b81e179c",
+      "path": "亚洲之鹰罗开系列/11死结.txt",
+      "indexed": true,
+      "inherited_fact_count": 1,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_3a49bb1a897a",
+      "path": "亚洲之鹰罗开系列/12解开死结.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_97db20aab149",
+      "path": "亚洲之鹰罗开系列/13困兽.txt",
+      "indexed": true,
+      "inherited_fact_count": 10,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_804e073c33f0",
+      "path": "亚洲之鹰罗开系列/14游魂.txt",
+      "indexed": true,
+      "inherited_fact_count": 3,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_e34754c140ce",
+      "path": "亚洲之鹰罗开系列/15飞焰.txt",
+      "indexed": true,
+      "inherited_fact_count": 12,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_6b61c4198ab2",
+      "path": "倪匡之鬼话系列/不祥之兆.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_e563b13b0248",
+      "path": "倪匡之鬼话系列/不要问我从那里来.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_05ac5649a416",
+      "path": "倪匡之鬼话系列/先生，别打尖.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_e6319f803729",
+      "path": "倪匡之鬼话系列/寻人.txt",
+      "indexed": true,
+      "inherited_fact_count": 8,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_437d04c42917",
+      "path": "倪匡之鬼话系列/恒娘.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_8a1b4568eb22",
+      "path": "倪匡之鬼话系列/房客.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_c3aed44133b8",
+      "path": "倪匡之鬼话系列/择时剖腹.txt",
+      "indexed": true,
+      "inherited_fact_count": 3,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_02ed3ef7a4bc",
+      "path": "倪匡之鬼话系列/搭电梯.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_156587d30b6f",
+      "path": "倪匡之鬼话系列/放屁.txt",
+      "indexed": true,
+      "inherited_fact_count": 10,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_9e24f6c8380c",
+      "path": "倪匡之鬼话系列/明天我们怎么联络.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_648f720528b8",
+      "path": "倪匡之鬼话系列/橘树.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_70a1f652c98e",
+      "path": "倪匡之鬼话系列/爱管闲事的司机.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_7f3a54ace15f",
+      "path": "倪匡之鬼话系列/猫头鹰的眼睛.txt",
+      "indexed": true,
+      "inherited_fact_count": 2,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_cb8837ef6517",
+      "path": "倪匡之鬼话系列/衬衫.txt",
+      "indexed": true,
+      "inherited_fact_count": 2,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_9509770ca7ed",
+      "path": "倪匡之鬼话系列/选美记.txt",
+      "indexed": true,
+      "inherited_fact_count": 12,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1e5a6bf2a99c",
+      "path": "倪匡之鬼话系列/陆判.txt",
+      "indexed": true,
+      "inherited_fact_count": 5,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_63d1b23c0960",
+      "path": "倪匡之鬼话系列/顾客.txt",
+      "indexed": true,
+      "inherited_fact_count": 2,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_376132b17fcd",
+      "path": "倪匡之鬼话系列/鬼停车场.txt",
+      "indexed": true,
+      "inherited_fact_count": 2,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_e7cd82853e6d",
+      "path": "倪匡之鬼话系列/鬼哭之一.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_530107178547",
+      "path": "倪匡之鬼话系列/鬼哭之二.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_fb8c67191e7b",
+      "path": "倪匡之鬼话系列/鬼屋.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_3e28f2404d41",
+      "path": "倪匡之鬼话系列/鬼胎之一.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_98e89d39e8fa",
+      "path": "倪匡之鬼话系列/鬼胎之二.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_07208b79cd65",
+      "path": "倪匡之鬼话系列/鬼脑.txt",
+      "indexed": true,
+      "inherited_fact_count": 2,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_6626bbf2eb31",
+      "path": "倪匡之鬼话系列/鸡蛋.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_93d047542c1e",
+      "path": "卫斯理系列/001钻石花 .txt",
+      "indexed": true,
+      "inherited_fact_count": 37,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_4d22028f17c9",
+      "path": "卫斯理系列/002卫斯理与白素.txt",
+      "indexed": true,
+      "inherited_fact_count": 2,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_93164b8bdda7",
+      "path": "卫斯理系列/002地底奇人.txt",
+      "indexed": true,
+      "inherited_fact_count": 32,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_02a848422833",
+      "path": "卫斯理系列/003妖火.txt",
+      "indexed": true,
+      "inherited_fact_count": 28,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_c1ab2fa68267",
+      "path": "卫斯理系列/004蓝血人.txt",
+      "indexed": true,
+      "inherited_fact_count": 33,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_6b3eeebde32f",
+      "path": "卫斯理系列/005透明光.txt",
+      "indexed": true,
+      "inherited_fact_count": 28,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_67824b4b3cde",
+      "path": "卫斯理系列/006地心洪炉.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_eeb0e48b439a",
+      "path": "卫斯理系列/007蜂云.txt",
+      "indexed": true,
+      "inherited_fact_count": 34,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_51825627918a",
+      "path": "卫斯理系列/008奇玉.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_de2f4244184c",
+      "path": "卫斯理系列/009原子空间.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_df5971108097",
+      "path": "卫斯理系列/010天外金球.txt",
+      "indexed": true,
+      "inherited_fact_count": 17,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1099a60e7d4e",
+      "path": "卫斯理系列/011支离人.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_8c16342a57b1",
+      "path": "卫斯理系列/012不死药.txt",
+      "indexed": true,
+      "inherited_fact_count": 25,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f20f28b33b99",
+      "path": "卫斯理系列/013红月亮.txt",
+      "indexed": true,
+      "inherited_fact_count": 22,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_7667762f571b",
+      "path": "卫斯理系列/014换头记.txt",
+      "indexed": true,
+      "inherited_fact_count": 34,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_ba6b0285889a",
+      "path": "卫斯理系列/015蛊惑.txt",
+      "indexed": true,
+      "inherited_fact_count": 27,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b0c91e969080",
+      "path": "卫斯理系列/016奇门.txt",
+      "indexed": true,
+      "inherited_fact_count": 36,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b2eac659a858",
+      "path": "卫斯理系列/017尸变.txt",
+      "indexed": true,
+      "inherited_fact_count": 11,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_2598cbf0d529",
+      "path": "卫斯理系列/018合成.txt",
+      "indexed": true,
+      "inherited_fact_count": 22,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_65541b38f010",
+      "path": "卫斯理系列/019笔友.txt",
+      "indexed": true,
+      "inherited_fact_count": 34,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_87f0380e112a",
+      "path": "卫斯理系列/020丛林之神.txt",
+      "indexed": true,
+      "inherited_fact_count": 13,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_07eec800156a",
+      "path": "卫斯理系列/021再来一次.txt",
+      "indexed": true,
+      "inherited_fact_count": 17,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_be7289b09195",
+      "path": "卫斯理系列/022尽头.txt",
+      "indexed": true,
+      "inherited_fact_count": 26,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_9e9a90d46cf4",
+      "path": "卫斯理系列/023湖水.txt",
+      "indexed": true,
+      "inherited_fact_count": 16,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_af8e58126391",
+      "path": "卫斯理系列/024消失.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_c2c7964f9840",
+      "path": "卫斯理系列/025影子.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_3fe21b786740",
+      "path": "卫斯理系列/026多了一个.txt",
+      "indexed": true,
+      "inherited_fact_count": 17,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_8c0de180ffa0",
+      "path": "卫斯理系列/027仙境.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_dc04cfea7731",
+      "path": "卫斯理系列/028狐变.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_751de23926f2",
+      "path": "卫斯理系列/029古声.txt",
+      "indexed": true,
+      "inherited_fact_count": 5,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_3d80de744c98",
+      "path": "卫斯理系列/030虚像.txt",
+      "indexed": true,
+      "inherited_fact_count": 8,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_60095d4a7e40",
+      "path": "卫斯理系列/031访客.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_fdfbc165519b",
+      "path": "卫斯理系列/032风水.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_a71da721a4c4",
+      "path": "卫斯理系列/033环.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_699681a8e91e",
+      "path": "卫斯理系列/034聚宝盆.txt",
+      "indexed": true,
+      "inherited_fact_count": 3,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_7c390651f4cf",
+      "path": "卫斯理系列/035雨花台石.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_72db0c764585",
+      "path": "卫斯理系列/036魔磁.txt",
+      "indexed": true,
+      "inherited_fact_count": 13,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_2ce28fcf4698",
+      "path": "卫斯理系列/037创造.txt",
+      "indexed": true,
+      "inherited_fact_count": 8,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_0ea77cc5e212",
+      "path": "卫斯理系列/038鬼子.txt",
+      "indexed": true,
+      "inherited_fact_count": 3,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_45347fc50ecc",
+      "path": "卫斯理系列/039老猫.txt",
+      "indexed": true,
+      "inherited_fact_count": 10,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_312a777eded3",
+      "path": "卫斯理系列/040贝壳.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1a18c351cf2d",
+      "path": "卫斯理系列/041地图.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_fd0205d1bc5f",
+      "path": "卫斯理系列/042规律.txt",
+      "indexed": true,
+      "inherited_fact_count": 10,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_4ddcf710cddf",
+      "path": "卫斯理系列/043沉船.txt",
+      "indexed": true,
+      "inherited_fact_count": 16,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_c808082c466e",
+      "path": "卫斯理系列/044大厦.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_59553fc35355",
+      "path": "卫斯理系列/045新年.txt",
+      "indexed": true,
+      "inherited_fact_count": 11,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f080c8aa29f2",
+      "path": "卫斯理系列/046头发.txt",
+      "indexed": true,
+      "inherited_fact_count": 23,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1fd78fe599aa",
+      "path": "卫斯理系列/047眼睛.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_5a6e91fc41bf",
+      "path": "卫斯理系列/048迷藏.txt",
+      "indexed": true,
+      "inherited_fact_count": 16,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_47d92f518f4c",
+      "path": "卫斯理系列/049天书.txt",
+      "indexed": true,
+      "inherited_fact_count": 16,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_9023fbdb662f",
+      "path": "卫斯理系列/050木炭.txt",
+      "indexed": true,
+      "inherited_fact_count": 34,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_4999cd7d1822",
+      "path": "卫斯理系列/051玩具.txt",
+      "indexed": true,
+      "inherited_fact_count": 27,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_88353a40dda4",
+      "path": "卫斯理系列/052连锁.txt",
+      "indexed": true,
+      "inherited_fact_count": 16,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_68310af66701",
+      "path": "卫斯理系列/053寻梦.txt",
+      "indexed": true,
+      "inherited_fact_count": 30,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_a597455f4c69",
+      "path": "卫斯理系列/054第二种人.txt",
+      "indexed": true,
+      "inherited_fact_count": 30,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_17ded030e4d8",
+      "path": "卫斯理系列/055后备.txt",
+      "indexed": true,
+      "inherited_fact_count": 27,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_aa5d20a2593d",
+      "path": "卫斯理系列/056盗墓.txt",
+      "indexed": true,
+      "inherited_fact_count": 17,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_0e286a75c508",
+      "path": "卫斯理系列/057搜灵.txt",
+      "indexed": true,
+      "inherited_fact_count": 27,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_0b41ffb1dbac",
+      "path": "卫斯理系列/058茫点.txt",
+      "indexed": true,
+      "inherited_fact_count": 40,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d97faef2bea3",
+      "path": "卫斯理系列/059神仙.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1b890f7e9c36",
+      "path": "卫斯理系列/060追龙.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_960709238b18",
+      "path": "卫斯理系列/061洞天.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_295bb4ee2949",
+      "path": "卫斯理系列/062活俑.txt",
+      "indexed": true,
+      "inherited_fact_count": 25,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1eceb61f788e",
+      "path": "卫斯理系列/063犀照.txt",
+      "indexed": true,
+      "inherited_fact_count": 16,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1e1e601ec986",
+      "path": "卫斯理系列/064命运.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_35440df21d78",
+      "path": "卫斯理系列/065（命运附篇）十七年.txt",
+      "indexed": true,
+      "inherited_fact_count": 21,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_859ed7023fbf",
+      "path": "卫斯理系列/066异宝.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_2cbde07c2bc4",
+      "path": "卫斯理系列/067极刑.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d00aaaa4bf0c",
+      "path": "卫斯理系列/068电王.txt",
+      "indexed": true,
+      "inherited_fact_count": 12,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_a29d882bf206",
+      "path": "卫斯理系列/069游戏.txt",
+      "indexed": true,
+      "inherited_fact_count": 23,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_87a4d0bf6b68",
+      "path": "卫斯理系列/070生死锁.txt",
+      "indexed": true,
+      "inherited_fact_count": 18,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_cb3010eb1b45",
+      "path": "卫斯理系列/071黄金故事.txt",
+      "indexed": true,
+      "inherited_fact_count": 29,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_368ae83e2abe",
+      "path": "卫斯理系列/072废墟.txt",
+      "indexed": true,
+      "inherited_fact_count": 25,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1c6d305a7482",
+      "path": "卫斯理系列/073密码.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_4b02bc02acd9",
+      "path": "卫斯理系列/074血统.txt",
+      "indexed": true,
+      "inherited_fact_count": 21,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f7287efb3d54",
+      "path": "卫斯理系列/075谜踪.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_4c2c25adb6fa",
+      "path": "卫斯理系列/076瘟神.txt",
+      "indexed": true,
+      "inherited_fact_count": 30,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_2229d47a9403",
+      "path": "卫斯理系列/077招魂.txt",
+      "indexed": true,
+      "inherited_fact_count": 13,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_20c82d7b018b",
+      "path": "卫斯理系列/078背叛.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_c23bc58a3f43",
+      "path": "卫斯理系列/079鬼混.txt",
+      "indexed": true,
+      "inherited_fact_count": 21,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_7dd0784e73ec",
+      "path": "卫斯理系列/080报应.txt",
+      "indexed": true,
+      "inherited_fact_count": 12,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_0e73a43298e9",
+      "path": "卫斯理系列/081错手.txt",
+      "indexed": true,
+      "inherited_fact_count": 8,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_439488d0010e",
+      "path": "卫斯理系列/082真相.txt",
+      "indexed": true,
+      "inherited_fact_count": 31,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_0c1cbe649a9a",
+      "path": "卫斯理系列/083毒誓.txt",
+      "indexed": true,
+      "inherited_fact_count": 32,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_44a0ac928c15",
+      "path": "卫斯理系列/084拼命.txt",
+      "indexed": true,
+      "inherited_fact_count": 15,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_e2ec5e693740",
+      "path": "卫斯理系列/085怪物.txt",
+      "indexed": true,
+      "inherited_fact_count": 17,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1664e10c286b",
+      "path": "卫斯理系列/086探险.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_afc4b3885657",
+      "path": "卫斯理系列/087继续探险.txt",
+      "indexed": true,
+      "inherited_fact_count": 39,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_7a07f286d660",
+      "path": "卫斯理系列/088圈套.txt",
+      "indexed": true,
+      "inherited_fact_count": 23,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_6f42d4433a38",
+      "path": "卫斯理系列/089烈火女.txt",
+      "indexed": true,
+      "inherited_fact_count": 18,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_e968e0af1390",
+      "path": "卫斯理系列/090大秘密.txt",
+      "indexed": true,
+      "inherited_fact_count": 14,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_02a15832ae8a",
+      "path": "卫斯理系列/091祸根.txt",
+      "indexed": true,
+      "inherited_fact_count": 28,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d33ed0dd790d",
+      "path": "卫斯理系列/092从阴间来.txt",
+      "indexed": true,
+      "inherited_fact_count": 3,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_914104aeec48",
+      "path": "卫斯理系列/093到阴间去.txt",
+      "indexed": true,
+      "inherited_fact_count": 2,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_7f97554a99f6",
+      "path": "卫斯理系列/095阴差阳错.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_46069e874c48",
+      "path": "卫斯理系列/096阴魂不散.txt",
+      "indexed": true,
+      "inherited_fact_count": 8,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b6cdd6772328",
+      "path": "卫斯理系列/097许愿.txt",
+      "indexed": true,
+      "inherited_fact_count": 13,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_79cff9a289b5",
+      "path": "卫斯理系列/098还阳.txt",
+      "indexed": true,
+      "inherited_fact_count": 22,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_feef27707791",
+      "path": "卫斯理系列/099运气.txt",
+      "indexed": true,
+      "inherited_fact_count": 26,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b75096582a1e",
+      "path": "卫斯理系列/100开心.txt",
+      "indexed": true,
+      "inherited_fact_count": 16,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_051368140ce0",
+      "path": "卫斯理系列/101转世暗号.txt",
+      "indexed": true,
+      "inherited_fact_count": 18,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_ede3a34d0069",
+      "path": "卫斯理系列/102将来.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_460f6aca3017",
+      "path": "卫斯理系列/103改变.txt",
+      "indexed": true,
+      "inherited_fact_count": 10,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_62f7b50febce",
+      "path": "卫斯理系列/104暗号之二.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b60f03e1be18",
+      "path": "卫斯理系列/105闯祸.txt",
+      "indexed": true,
+      "inherited_fact_count": 30,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_723871ef0f84",
+      "path": "卫斯理系列/106在数难逃.txt",
+      "indexed": true,
+      "inherited_fact_count": 17,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_daabf1bd27ce",
+      "path": "卫斯理系列/107解脱.txt",
+      "indexed": true,
+      "inherited_fact_count": 16,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f1f38a987ab8",
+      "path": "卫斯理系列/108遗传.txt",
+      "indexed": true,
+      "inherited_fact_count": 25,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_8f5e88561a93",
+      "path": "卫斯理系列/109爆炸.txt",
+      "indexed": true,
+      "inherited_fact_count": 21,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d42304856b15",
+      "path": "卫斯理系列/110水晶宫.txt",
+      "indexed": true,
+      "inherited_fact_count": 22,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_df365f75c27c",
+      "path": "卫斯理系列/111前世.txt",
+      "indexed": true,
+      "inherited_fact_count": 40,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_543cc7939a66",
+      "path": "卫斯理系列/112新武器.txt",
+      "indexed": true,
+      "inherited_fact_count": 34,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_256733d70464",
+      "path": "卫斯理系列/113病毒.txt",
+      "indexed": true,
+      "inherited_fact_count": 16,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_bfd34177adbe",
+      "path": "卫斯理系列/114算帐.txt",
+      "indexed": true,
+      "inherited_fact_count": 39,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_c3eb683408d9",
+      "path": "卫斯理系列/115原形.txt",
+      "indexed": true,
+      "inherited_fact_count": 26,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d98888b9b835",
+      "path": "卫斯理系列/116活路.txt",
+      "indexed": true,
+      "inherited_fact_count": 31,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_c61574d6d706",
+      "path": "卫斯理系列/117双程.txt",
+      "indexed": true,
+      "inherited_fact_count": 22,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f4a7e356d619",
+      "path": "卫斯理系列/118洪荒.txt",
+      "indexed": true,
+      "inherited_fact_count": 34,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_ab36d2b6adeb",
+      "path": "卫斯理系列/119买命.txt",
+      "indexed": true,
+      "inherited_fact_count": 3,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_285c39eb6c50",
+      "path": "卫斯理系列/120卖命.txt",
+      "indexed": true,
+      "inherited_fact_count": 22,
+      "curated_world_link": true,
+      "direct_source_review": true,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_c33c05bc68a3",
+      "path": "卫斯理系列/121考验.txt",
+      "indexed": true,
+      "inherited_fact_count": 44,
+      "curated_world_link": true,
+      "direct_source_review": true,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_5f3fbef0e5c5",
+      "path": "卫斯理系列/122传说.txt",
+      "indexed": true,
+      "inherited_fact_count": 24,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_24d705c0bdc0",
+      "path": "卫斯理系列/123豪赌.txt",
+      "indexed": true,
+      "inherited_fact_count": 53,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_6e319aaba962",
+      "path": "卫斯理系列/124真实幻境.txt",
+      "indexed": true,
+      "inherited_fact_count": 24,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_9a4da2ea3ef3",
+      "path": "卫斯理系列/125成精变人.txt",
+      "indexed": true,
+      "inherited_fact_count": 11,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f4ea5e801b15",
+      "path": "卫斯理系列/126未来身份.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_2d7fca10f0c2",
+      "path": "卫斯理系列/127移魂怪物.txt",
+      "indexed": true,
+      "inherited_fact_count": 18,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_208391977d6e",
+      "path": "卫斯理系列/128人面组合.txt",
+      "indexed": true,
+      "inherited_fact_count": 44,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b54a1ab24606",
+      "path": "卫斯理系列/129本性难移.txt",
+      "indexed": true,
+      "inherited_fact_count": 25,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b4abf1afb96c",
+      "path": "卫斯理系列/130天打雷劈.txt",
+      "indexed": true,
+      "inherited_fact_count": 27,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_ccfaaef512be",
+      "path": "卫斯理系列/131另类复制.txt",
+      "indexed": true,
+      "inherited_fact_count": 45,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_42d8c174fce1",
+      "path": "卫斯理系列/132解开密码.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_3ce9d442f6f5",
+      "path": "卫斯理系列/133异种人生.txt",
+      "indexed": true,
+      "inherited_fact_count": 3,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_43352802d46c",
+      "path": "卫斯理系列/134偷天换日.txt",
+      "indexed": true,
+      "inherited_fact_count": 14,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_0041f4c9e250",
+      "path": "卫斯理系列/135闭关开关.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_202100bacdcc",
+      "path": "卫斯理系列/136行动救星.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": true,
+      "direct_source_review": true,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1a10e56018a3",
+      "path": "卫斯理系列/137乾坤挪移.txt",
+      "indexed": true,
+      "inherited_fact_count": 16,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_5dba74386b36",
+      "path": "卫斯理系列/138财神宝库.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b457a6d0232b",
+      "path": "卫斯理系列/139一半一半.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_a25be6589e38",
+      "path": "卫斯理系列/140身外化身.txt",
+      "indexed": true,
+      "inherited_fact_count": 2,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_ab0673a37fb6",
+      "path": "卫斯理系列/141非常遭遇.txt",
+      "indexed": true,
+      "inherited_fact_count": 30,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_fdbc69603f88",
+      "path": "卫斯理系列/142一个地方.txt",
+      "indexed": true,
+      "inherited_fact_count": 3,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b1d274cab5de",
+      "path": "卫斯理系列/143须弥芥子.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_9e50e2320f44",
+      "path": "卫斯理系列/144死去活来.txt",
+      "indexed": true,
+      "inherited_fact_count": 13,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1fb6bf0030da",
+      "path": "卫斯理系列/145只限老友.txt",
+      "indexed": true,
+      "inherited_fact_count": 23,
+      "curated_world_link": true,
+      "direct_source_review": true,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_3e607a62aa6b",
+      "path": "卫斯理系列/52愿望猴神.txt",
+      "indexed": true,
+      "inherited_fact_count": 38,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_7eed28bd703f",
+      "path": "卫斯理系列/94少年卫斯理.txt",
+      "indexed": true,
+      "inherited_fact_count": 41,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_36e3d4c8cce1",
+      "path": "原振侠系列/01.天人.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": true,
+      "direct_source_review": true,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_7ee77fb86e3e",
+      "path": "原振侠系列/02.迷路.txt",
+      "indexed": true,
+      "inherited_fact_count": 22,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_2789d5cc76fb",
+      "path": "原振侠系列/03.血咒.txt",
+      "indexed": true,
+      "inherited_fact_count": 17,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_39fb00415b22",
+      "path": "原振侠系列/04.海异.txt",
+      "indexed": true,
+      "inherited_fact_count": 14,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_e0f35641e223",
+      "path": "原振侠系列/05.宝狐.txt",
+      "indexed": true,
+      "inherited_fact_count": 10,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_77f6858f5020",
+      "path": "原振侠系列/06.灵椅.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_c26941f0be81",
+      "path": "原振侠系列/07.奇缘.txt",
+      "indexed": true,
+      "inherited_fact_count": 14,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_5685f34b259c",
+      "path": "原振侠系列/08.精怪.txt",
+      "indexed": true,
+      "inherited_fact_count": 11,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_226fcca28cf8",
+      "path": "原振侠系列/09.鬼界.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_cb528bd708df",
+      "path": "原振侠系列/10.魔女.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_3ce22cd3ec25",
+      "path": "原振侠系列/11.失魂.txt",
+      "indexed": true,
+      "inherited_fact_count": 10,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_db2b59ea878a",
+      "path": "原振侠系列/12.降头.txt",
+      "indexed": true,
+      "inherited_fact_count": 15,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_07cad85786b0",
+      "path": "原振侠系列/13.巫艳.txt",
+      "indexed": true,
+      "inherited_fact_count": 15,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_62d753bf9176",
+      "path": "原振侠系列/14.爱神.txt",
+      "indexed": true,
+      "inherited_fact_count": 11,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_e56e749e59f8",
+      "path": "原振侠系列/15.寻找爱神.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_16e87a9465f3",
+      "path": "原振侠系列/16.大犯罪者.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_4b64c28681b2",
+      "path": "原振侠系列/17.幽灵星座.txt",
+      "indexed": true,
+      "inherited_fact_count": 21,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b918ee450d56",
+      "path": "原振侠系列/18.黑暗天使.txt",
+      "indexed": true,
+      "inherited_fact_count": 14,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_77ccd1a6eaff",
+      "path": "原振侠系列/19.迷失乐园.txt",
+      "indexed": true,
+      "inherited_fact_count": 16,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_28699f25b62e",
+      "path": "原振侠系列/20.劫数.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_0f399f095697",
+      "path": "原振侠系列/21.快活秘方.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_6fc25920ef91",
+      "path": "原振侠系列/22.变换双星.txt",
+      "indexed": true,
+      "inherited_fact_count": 23,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_51ac5b7920ea",
+      "path": "原振侠系列/23.血的诱惑.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1b2ce90d0135",
+      "path": "原振侠系列/24.催命情圣.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b3303d3266ed",
+      "path": "原振侠系列/25.黑白无常.txt",
+      "indexed": true,
+      "inherited_fact_count": 15,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_16465c78ff52",
+      "path": "原振侠系列/26.自杀阴谋.txt",
+      "indexed": true,
+      "inherited_fact_count": 14,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_6a15650b973f",
+      "path": "原振侠系列/27.假太阳.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b6f70bb43bd7",
+      "path": "原振侠系列/28.无间地狱.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_6e1d8d6fd7c7",
+      "path": "原振侠系列/29.人鬼疑云.txt",
+      "indexed": true,
+      "inherited_fact_count": 18,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_571244d5335f",
+      "path": "原振侠系列/30.魂飞魄散.txt",
+      "indexed": true,
+      "inherited_fact_count": 12,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_fa4a01f100bb",
+      "path": "原振侠系列/31.宇宙杀手.txt",
+      "indexed": true,
+      "inherited_fact_count": 13,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_8e795168086a",
+      "path": "原振侠系列/32.天皇巨星.txt",
+      "indexed": true,
+      "inherited_fact_count": 12,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d3358ada2f8a",
+      "path": "年轻人/01手套.txt",
+      "indexed": true,
+      "inherited_fact_count": 12,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1095fd0d1b57",
+      "path": "年轻人/02足球.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_c611c01a4c92",
+      "path": "年轻人/03宝刀.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d2f0e3b9ed17",
+      "path": "年轻人/04尺蠖 .txt",
+      "indexed": true,
+      "inherited_fact_count": 8,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b227612aca17",
+      "path": "年轻人/05大宝藏.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_5f4cae703ba6",
+      "path": "年轻人/06神机.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_fbd86e8f5385",
+      "path": "年轻人/07暗算.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_005dc3e62dd2",
+      "path": "年轻人/08天敌.txt",
+      "indexed": true,
+      "inherited_fact_count": 5,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_00387402bed3",
+      "path": "年轻人/09夜归.txt",
+      "indexed": true,
+      "inherited_fact_count": 15,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_dee2f7fcccdd",
+      "path": "年轻人/10四条金龙.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_deacb6b2ffbe",
+      "path": "年轻人/11消失女神.txt",
+      "indexed": true,
+      "inherited_fact_count": 18,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_057b15b2db0f",
+      "path": "年轻人/12离魂奇遇.txt",
+      "indexed": true,
+      "inherited_fact_count": 2,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d135e392bd20",
+      "path": "年轻人/13神话世界.txt",
+      "indexed": true,
+      "inherited_fact_count": 11,
+      "curated_world_link": true,
+      "direct_source_review": true,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_c2535674b4f0",
+      "path": "木兰花全集/01巧夺死光表.txt",
+      "indexed": true,
+      "inherited_fact_count": 18,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_c58b72d1bd18",
+      "path": "木兰花全集/02黑龙现爪.txt",
+      "indexed": true,
+      "inherited_fact_count": 21,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f8a7c1a887d7",
+      "path": "木兰花全集/03太阳之女.txt",
+      "indexed": true,
+      "inherited_fact_count": 26,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f41d7fd92d2e",
+      "path": "木兰花全集/04木雕人头.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_8c8ae73418a5",
+      "path": "木兰花全集/05尸变惊魂.txt",
+      "indexed": true,
+      "inherited_fact_count": 30,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_aaf33c6ffc7d",
+      "path": "木兰花全集/06超人集团.txt",
+      "indexed": true,
+      "inherited_fact_count": 29,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_6270ef0eb81c",
+      "path": "木兰花全集/07高原之谜.txt",
+      "indexed": true,
+      "inherited_fact_count": 22,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_bc1b8be792b0",
+      "path": "木兰花全集/08雷库惊魂.txt",
+      "indexed": true,
+      "inherited_fact_count": 21,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_e316efa41fb7",
+      "path": "木兰花全集/09死亡织锦.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d3bfda6ea9f0",
+      "path": "木兰花全集/10电眼怪客.txt",
+      "indexed": true,
+      "inherited_fact_count": 18,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_15495f0e72b6",
+      "path": "木兰花全集/11冰川亡魂.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_dde73ad52f3d",
+      "path": "木兰花全集/12夺命红烛.txt",
+      "indexed": true,
+      "inherited_fact_count": 29,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_0050207a2763",
+      "path": "木兰花全集/13智擒电子盗.txt",
+      "indexed": true,
+      "inherited_fact_count": 18,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_2c323b3cec3b",
+      "path": "木兰花全集/14死亡爆炸网.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_383d3f6c3c1b",
+      "path": "木兰花全集/15杀人奖金.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_951e382811f4",
+      "path": "木兰花全集/16隐形奇人.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f2a010e21eca",
+      "path": "木兰花全集/17高空喋血.txt",
+      "indexed": true,
+      "inherited_fact_count": 26,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_83fa0efc7010",
+      "path": "木兰花全集/18怒歼恶魔团.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_acfa0c7d39e7",
+      "path": "木兰花全集/19连环毒计.txt",
+      "indexed": true,
+      "inherited_fact_count": 12,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_28b211db8b99",
+      "path": "木兰花全集/20秘密党.txt",
+      "indexed": true,
+      "inherited_fact_count": 29,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_0c1410b315bf",
+      "path": "木兰花全集/21旋风神偷.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d1e263538229",
+      "path": "木兰花全集/22天外恩仇.txt",
+      "indexed": true,
+      "inherited_fact_count": 34,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1905922229f9",
+      "path": "木兰花全集/23大破暗杀党.txt",
+      "indexed": true,
+      "inherited_fact_count": 31,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_3e7d2d337f26",
+      "path": "木兰花全集/24魔掌余生.txt",
+      "indexed": true,
+      "inherited_fact_count": 31,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_5abac49bbff2",
+      "path": "木兰花全集/25血溅黄金柱.txt",
+      "indexed": true,
+      "inherited_fact_count": 28,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_8b71583b37d1",
+      "path": "木兰花全集/26神秘血影掌.txt",
+      "indexed": true,
+      "inherited_fact_count": 12,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_91f9ff962ece",
+      "path": "木兰花全集/27钻石镭射.txt",
+      "indexed": true,
+      "inherited_fact_count": 35,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_32f5137e3369",
+      "path": "木兰花全集/28北极氢弹战.txt",
+      "indexed": true,
+      "inherited_fact_count": 30,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_37e234b81722",
+      "path": "木兰花全集/29潜艇迷宫.txt",
+      "indexed": true,
+      "inherited_fact_count": 14,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_0b0a0d1dcca5",
+      "path": "木兰花全集/30玻璃伪钞模.txt",
+      "indexed": true,
+      "inherited_fact_count": 29,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_676f75bdba78",
+      "path": "木兰花全集/31黑暗历险.txt",
+      "indexed": true,
+      "inherited_fact_count": 25,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f598f34a5dc4",
+      "path": "木兰花全集/32人形飞弹.txt",
+      "indexed": true,
+      "inherited_fact_count": 24,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_15309e2595f9",
+      "path": "木兰花全集/33军械大盗.txt",
+      "indexed": true,
+      "inherited_fact_count": 17,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_59d1e3e8cb38",
+      "path": "木兰花全集/34断头美人鱼.txt",
+      "indexed": true,
+      "inherited_fact_count": 38,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_184aed6ad276",
+      "path": "木兰花全集/35蜘蛛陷阱.txt",
+      "indexed": true,
+      "inherited_fact_count": 33,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_40cc4a079530",
+      "path": "木兰花全集/36无敌凶手.txt",
+      "indexed": true,
+      "inherited_fact_count": 42,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_847963d3484e",
+      "path": "木兰花全集/37沉船明珠.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_46efdff81598",
+      "path": "木兰花全集/38无价奇石.txt",
+      "indexed": true,
+      "inherited_fact_count": 49,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d891efd52524",
+      "path": "木兰花全集/39失踪新娘.txt",
+      "indexed": true,
+      "inherited_fact_count": 35,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_7305a311c73f",
+      "path": "木兰花全集/40怪新郎.txt",
+      "indexed": true,
+      "inherited_fact_count": 25,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_227fb88cd97f",
+      "path": "木兰花全集/41金库奇案.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f19bdfa70499",
+      "path": "木兰花全集/42龙宫宝贝.txt",
+      "indexed": true,
+      "inherited_fact_count": 21,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_ac1506254b91",
+      "path": "木兰花全集/43珊瑚古城.txt",
+      "indexed": true,
+      "inherited_fact_count": 23,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_2d3443649105",
+      "path": "木兰花全集/44猎头禁地.txt",
+      "indexed": true,
+      "inherited_fact_count": 22,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_010028e53ed7",
+      "path": "木兰花全集/45魔画.txt",
+      "indexed": true,
+      "inherited_fact_count": 18,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_6b37f675c3ee",
+      "path": "木兰花全集/46死神殿.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1d06718d42da",
+      "path": "木兰花全集/47复活金像.txt",
+      "indexed": true,
+      "inherited_fact_count": 18,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_93599e44ee3e",
+      "path": "木兰花全集/48遥控谋杀案.txt",
+      "indexed": true,
+      "inherited_fact_count": 24,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1532f53d7550",
+      "path": "木兰花全集/49地道奇人.txt",
+      "indexed": true,
+      "inherited_fact_count": 19,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_3a4be15d72e1",
+      "path": "木兰花全集/50蜜月奇遇.txt",
+      "indexed": true,
+      "inherited_fact_count": 28,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_8158b364a96e",
+      "path": "木兰花全集/51冷血人.txt",
+      "indexed": true,
+      "inherited_fact_count": 21,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_0987c189c610",
+      "path": "木兰花全集/52生死碧玉.txt",
+      "indexed": true,
+      "inherited_fact_count": 29,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_984efdcbbe6f",
+      "path": "木兰花全集/53电网火花.txt",
+      "indexed": true,
+      "inherited_fact_count": 27,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d8d609e865fc",
+      "path": "木兰花全集/54古屋奇影.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_dfed8fba4c8b",
+      "path": "木兰花全集/55金庙奇佛.txt",
+      "indexed": true,
+      "inherited_fact_count": 39,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_859f2b1ca2cd",
+      "path": "木兰花全集/56天才白痴.txt",
+      "indexed": true,
+      "inherited_fact_count": 26,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_0d683e643d16",
+      "path": "木兰花全集/57生命合同.txt",
+      "indexed": true,
+      "inherited_fact_count": 27,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_a82e320d2775",
+      "path": "木兰花全集/58三尸同行.txt",
+      "indexed": true,
+      "inherited_fact_count": 34,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_ed5ec379acc3",
+      "path": "木兰花全集/59无风自动.txt",
+      "indexed": true,
+      "inherited_fact_count": 30,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_1759a14aa7d2",
+      "path": "木兰花全集/60无名怪尸.txt",
+      "indexed": true,
+      "inherited_fact_count": 54,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_040db2e01a69",
+      "path": "浪子高达系列/学美人.txt",
+      "indexed": true,
+      "inherited_fact_count": 18,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b10cefcfc4f2",
+      "path": "浪子高达系列/微晶之密.txt",
+      "indexed": true,
+      "inherited_fact_count": 42,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_76747244fea3",
+      "path": "浪子高达系列/水晶艳女.txt",
+      "indexed": true,
+      "inherited_fact_count": 17,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d68d23537d9a",
+      "path": "浪子高达系列/珍珠荡妇.txt",
+      "indexed": true,
+      "inherited_fact_count": 12,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_9f92503739c8",
+      "path": "浪子高达系列/盗尸艳遇.txt",
+      "indexed": true,
+      "inherited_fact_count": 20,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_901a4d30a01c",
+      "path": "浪子高达系列/红粉猫.txt",
+      "indexed": true,
+      "inherited_fact_count": 15,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_3f0598f348f0",
+      "path": "浪子高达系列/蛇王石.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f99d9d511884",
+      "path": "浪子高达系列/金球红唇.txt",
+      "indexed": true,
+      "inherited_fact_count": 10,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_2601c5718f2f",
+      "path": "神探高斯系列/01出术.txt",
+      "indexed": true,
+      "inherited_fact_count": 5,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b310fc0c9328",
+      "path": "神探高斯系列/02催眠之术.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_9cbc6b143845",
+      "path": "神探高斯系列/03飞艇.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_c157bc6751a0",
+      "path": "神探高斯系列/04粉红钻石.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_2dbbf3325895",
+      "path": "神探高斯系列/05风向.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_b43a5c82c0b5",
+      "path": "神探高斯系列/06古墨.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_9eb8a7e88e3a",
+      "path": "神探高斯系列/07怪房子.txt",
+      "indexed": true,
+      "inherited_fact_count": 2,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_fd2acebfac26",
+      "path": "神探高斯系列/08怪人奇骗.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_5c42ac4d403f",
+      "path": "神探高斯系列/09鬼照片.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f96d2e2fcb1e",
+      "path": "神探高斯系列/10黑美人.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_77a3940e2f05",
+      "path": "神探高斯系列/11及时赶到.txt",
+      "indexed": true,
+      "inherited_fact_count": 4,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_48b549bd762f",
+      "path": "神探高斯系列/12金发女.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_898be4810fdd",
+      "path": "神探高斯系列/13金酋长.txt",
+      "indexed": true,
+      "inherited_fact_count": 5,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_34c10b16ba3f",
+      "path": "神探高斯系列/14迷途横祸.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_119053ededd4",
+      "path": "神探高斯系列/15魔鬼的舞蹈.txt",
+      "indexed": true,
+      "inherited_fact_count": 10,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_e022953c8c50",
+      "path": "神探高斯系列/16弄假成真.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_fcb6d8e88204",
+      "path": "神探高斯系列/17奇迹.txt",
+      "indexed": true,
+      "inherited_fact_count": 11,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_d0e0ef61d706",
+      "path": "神探高斯系列/18奇轮.txt",
+      "indexed": true,
+      "inherited_fact_count": 5,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_fc4c949d05cd",
+      "path": "神探高斯系列/19擒凶记.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_46988f61c642",
+      "path": "神探高斯系列/20三与四.txt",
+      "indexed": true,
+      "inherited_fact_count": 3,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_9d6719f86209",
+      "path": "神探高斯系列/21闪电天.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_431747bbc9f2",
+      "path": "神探高斯系列/22水中宝盒.txt",
+      "indexed": true,
+      "inherited_fact_count": 12,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_73f722d72956",
+      "path": "神探高斯系列/23太阳神.txt",
+      "indexed": true,
+      "inherited_fact_count": 21,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_928de33dd33f",
+      "path": "神探高斯系列/24晚礼服.txt",
+      "indexed": true,
+      "inherited_fact_count": 11,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_6ba794ffcd2a",
+      "path": "神探高斯系列/25未卜先知.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_eb6dffe8a108",
+      "path": "神探高斯系列/26雾夜煞星.txt",
+      "indexed": true,
+      "inherited_fact_count": 11,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_bf2a7aef7294",
+      "path": "神探高斯系列/27亚洲皇后.txt",
+      "indexed": true,
+      "inherited_fact_count": 13,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_3bafae3cade4",
+      "path": "神探高斯系列/28妖女煞星.txt",
+      "indexed": true,
+      "inherited_fact_count": 15,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_6223e2d26cdb",
+      "path": "神探高斯系列/29预告.txt",
+      "indexed": true,
+      "inherited_fact_count": 15,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_9377f55f8968",
+      "path": "非人协会系列/01非人协会 序.txt",
+      "indexed": true,
+      "inherited_fact_count": 1,
+      "curated_world_link": true,
+      "direct_source_review": true,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_2d60d6b88429",
+      "path": "非人协会系列/02鱼人.txt",
+      "indexed": true,
+      "inherited_fact_count": 9,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_230ac1f98cc8",
+      "path": "非人协会系列/03两生.txt",
+      "indexed": true,
+      "inherited_fact_count": 8,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_31c94dd237eb",
+      "path": "非人协会系列/04大鹰.txt",
+      "indexed": true,
+      "inherited_fact_count": 8,
+      "curated_world_link": true,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_752e950f39e6",
+      "path": "非人协会系列/05泥沼火人.txt",
+      "indexed": true,
+      "inherited_fact_count": 11,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_f0c4d721d353",
+      "path": "非人协会系列/06三千年死人.txt",
+      "indexed": true,
+      "inherited_fact_count": 6,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    },
+    {
+      "book_id": "book_7edbe27121e1",
+      "path": "非人协会系列/07主宰.txt",
+      "indexed": true,
+      "inherited_fact_count": 7,
+      "curated_world_link": false,
+      "direct_source_review": false,
+      "full_text_reread_this_pass": false
+    }
+  ],
+  "exhaustive_world_extraction": false,
+  "all_texts_indexed": true,
+  "notice": "索引全覆盖不等于全部世界观条目、事件和原文已重新精读；细分覆盖字段不互相替代。"
+}

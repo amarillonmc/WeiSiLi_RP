@@ -1,0 +1,218 @@
+{
+  "schema_version": "1.0",
+  "id": "book_cb528bd708df",
+  "title": "魔女",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/10.魔女.txt",
+  "file": "books/book_cb528bd708df.json",
+  "inherited_fact_count": 19,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "cd2df05c153fa2003e70462d1d0d7f7ef6ef0c125d27b70caf3a6b916a3ab2b9",
+  "source_lines": 4159,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查与拒绝交易"
+    },
+    {
+      "name": "洪致生",
+      "card_id": "yuanzhenxia_hong_zhisheng",
+      "role": "单书主角",
+      "basis": "独立叙事或主要交易执行者"
+    },
+    {
+      "name": "林雅儿",
+      "card_id": "yuanzhenxia_lin_yaer",
+      "role": "单书主角",
+      "basis": "独立叙事或主要交易执行者"
+    },
+    {
+      "name": "林永兴",
+      "card_id": "yuanzhenxia_lin_yongxing",
+      "role": "单书核心人物",
+      "basis": "独立叙事或主要交易执行者"
+    },
+    {
+      "name": "阿根",
+      "card_id": "yuanzhenxia_agen",
+      "role": "反派",
+      "basis": "独立叙事或主要交易执行者"
+    },
+    {
+      "name": "魔王（五角星异星生命）",
+      "card_id": "yuanzhenxia_mowang",
+      "role": "反派",
+      "basis": "独立叙事或主要交易执行者"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "贝壳潜水员、律师及仪式听众",
+      "reason": "一次性受害、传讯或背景角色"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_2daaa1ed5b121a03",
+      "statement": "外形、技能和潜水爱好",
+      "annotation_character_ids": [
+        "yuanzhenxia_hong_zhisheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f9e654fb89180da",
+      "statement": "观察影像",
+      "annotation_character_ids": [
+        "yuanzhenxia_hong_zhisheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6bd608a634c2d343",
+      "statement": "妻女被交易与代价",
+      "annotation_character_ids": [
+        "yuanzhenxia_lin_yongxing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_815f02b1bc57140b",
+      "statement": "跟班与执行控制",
+      "annotation_character_ids": [
+        "yuanzhenxia_agen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c550230dcc7fe426",
+      "statement": "父亲交易与部分解禁",
+      "annotation_character_ids": [
+        "yuanzhenxia_lin_yaer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_89deff91d98a76be",
+      "statement": "后悔和补救",
+      "annotation_character_ids": [
+        "yuanzhenxia_lin_yongxing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a4074be9dc01fd8d",
+      "statement": "限制和求助",
+      "annotation_character_ids": [
+        "yuanzhenxia_lin_yaer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e72b8ae3876094e",
+      "statement": "失去林雅儿的痛苦",
+      "annotation_character_ids": [
+        "yuanzhenxia_hong_zhisheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_480cf6d296fe74cd",
+      "statement": "联络中的隐瞒",
+      "annotation_character_ids": [
+        "yuanzhenxia_agen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7101a116a8feb5a3",
+      "statement": "联系条件",
+      "annotation_character_ids": [
+        "yuanzhenxia_mowang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee8e3402e2040613",
+      "statement": "能力边界与畏惧",
+      "annotation_character_ids": [
+        "yuanzhenxia_agen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e93fc8f93e49060e",
+      "statement": "震荡来自装置",
+      "annotation_character_ids": [
+        "yuanzhenxia_lin_yaer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1992ce288fdd3973",
+      "statement": "阿根所述终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_lin_yongxing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_34f480474fe7c618",
+      "statement": "本体、意愿与招募",
+      "annotation_character_ids": [
+        "yuanzhenxia_mowang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e5c3de5cd4b2fa3f",
+      "statement": "能量需求、限制与感知空间",
+      "annotation_character_ids": [
+        "yuanzhenxia_mowang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_083c3e4b608bfda5",
+      "statement": "终局交易",
+      "annotation_character_ids": [
+        "yuanzhenxia_mowang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_381fdbf23e31e058",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_lin_yaer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_40f422abdbb9b5d5",
+      "statement": "终局接受交易",
+      "annotation_character_ids": [
+        "yuanzhenxia_hong_zhisheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f5050e90a78ddb6",
+      "statement": "终局辩解",
+      "annotation_character_ids": [
+        "yuanzhenxia_agen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b1d274cab5de",
+  "title": "须弥芥子",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/143须弥芥子.txt",
+  "file": "books/book_b1d274cab5de.json",
+  "inherited_fact_count": 6,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "ad52cddb8115da82f328c611cbe283b714bd5676894dce68fa76ea8e62d17724",
+  "source_lines": 1351,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "岩石",
+      "card_id": "weisili_yan_shi",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "高兴",
+      "card_id": "weisili_gao_xing",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "长老",
+      "card_id": "weisili_chang_lao",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "蓝色外星人群",
+      "card_id": "weisili_blue_visitors",
+      "role": "阶段性对立者",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "蓝色美人图像",
+      "reason": "图像是否活体、来源和人格均未确认，不把视觉内容当作可独立参战人物"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_11ddeae5f924c24b",
+      "statement": "将影像认作被困真人与感情投入",
+      "annotation_character_ids": [
+        "weisili_hu_shuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7cb1a6057e9d42ee",
+      "statement": "仍在追索但不接受假设的终局",
+      "annotation_character_ids": [
+        "weisili_hu_shuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dad93f5d34fb0f89",
+      "statement": "微缩仅为解释、跳崖失踪无确认结果",
+      "annotation_character_ids": [
+        "weisili_yan_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_880e7ee5bda54cfc",
+      "statement": "长老确认外星消息及微缩仅属推论",
+      "annotation_character_ids": [
+        "weisili_blue_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d42644406e96315",
+      "statement": "防护与图像身份仍属设想",
+      "annotation_character_ids": [
+        "weisili_blue_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_df68843c2d95a02f",
+      "statement": "接受解释后岩石仍失踪",
+      "annotation_character_ids": [
+        "weisili_gao_xing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

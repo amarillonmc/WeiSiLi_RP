@@ -1,0 +1,43 @@
+{
+  "id": "water",
+  "title": "水／地球水生命",
+  "kind": "person",
+  "summary": "具意志的地球水生命，通过黄而与人类交流，参与配额研究。",
+  "mechanism": {
+    "text": "本系列将水理解为连续生命；出现意识干预、传讯和水路输送。",
+    "epistemic_status": "testimony"
+  },
+  "access_conditions": [
+    "水自身愿意合作",
+    "黄而等有明确沟通经验的中介"
+  ],
+  "limits": [
+    "水不是无主能源或可持有道具",
+    "不能完全控制卫白",
+    "无水机械身体不适用同一渠道",
+    "水路输送不是瞬时传送"
+  ],
+  "last_known_state": "参与研究且关注污染；未证实已实施全球毁灭。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "作为有立场的交涉对象：保密、生态与救助意愿可以冲突，不预设听从主角。"
+  },
+  "character_ids": [
+    "weisili_water_life"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_329858c60a8196bc",
+    "evidence_f858a570dde0c17e",
+    "evidence_374f890b0cb5a343",
+    "evidence_e1686d46546a4fdc",
+    "evidence_395f968e85a24da8",
+    "evidence_bbbf2fc7aca2e04a"
+  ],
+  "book_ids": [
+    "book_285c39eb6c50",
+    "book_c33c05bc68a3",
+    "book_f4a7e356d619"
+  ]
+}

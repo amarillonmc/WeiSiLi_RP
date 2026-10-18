@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0",
+  "id": "book_28699f25b62e",
+  "title": "劫数",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/20.劫数.txt",
+  "file": "books/book_28699f25b62e.json",
+  "inherited_fact_count": 19,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "6907ce0af978918bf32a4690de5fc8af6ece6dff24d062c53055e12b940a65a7",
+  "source_lines": 8239,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查"
+    },
+    {
+      "name": "玛仙",
+      "card_id": "yuanzhenxia_ma_xian",
+      "role": "主角",
+      "basis": "主要接收者"
+    },
+    {
+      "name": "古托",
+      "card_id": "yuanzhenxia_gutuo",
+      "role": "重要配角",
+      "basis": "研究"
+    },
+    {
+      "name": "史奈",
+      "card_id": "yuanzhenxia_shinai",
+      "role": "重要配角",
+      "basis": "研究"
+    },
+    {
+      "name": "达伊安",
+      "card_id": "yuanzhenxia_dayian",
+      "role": "重要配角",
+      "basis": "研究"
+    },
+    {
+      "name": "李加·奥南度",
+      "card_id": "yuanzhenxia_lijia",
+      "role": "单书主角",
+      "basis": "核心调查、讯息或选择"
+    },
+    {
+      "name": "唐勒",
+      "card_id": "yuanzhenxia_tangle",
+      "role": "单书主角",
+      "basis": "核心调查、讯息或选择"
+    },
+    {
+      "name": "贝沙",
+      "card_id": "yuanzhenxia_beisha",
+      "role": "单书主角",
+      "basis": "核心调查、讯息或选择"
+    },
+    {
+      "name": "劫数水晶球",
+      "card_id": "yuanzhenxia_crystal_warning",
+      "role": "核心非人主体",
+      "basis": "核心调查、讯息或选择"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "白隆部长及地质院长",
+      "reason": "单次专业或政务协助，没有独立持续角色线"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_89c4dcb0a30b5480",
+      "statement": "身份",
+      "annotation_character_ids": [
+        "yuanzhenxia_lijia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c65a8ab14a116f9",
+      "statement": "剖切争执",
+      "annotation_character_ids": [
+        "yuanzhenxia_lijia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c1ff0a29a3b77f32",
+      "statement": "拒绝剖切与感应",
+      "annotation_character_ids": [
+        "yuanzhenxia_tangle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_765f13e4b88c2248",
+      "statement": "学者身份和调查",
+      "annotation_character_ids": [
+        "yuanzhenxia_beisha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b00eb410ea9e4149",
+      "statement": "知情立场",
+      "annotation_character_ids": [
+        "yuanzhenxia_beisha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a2b7fbb78e06e00b",
+      "statement": "困境反应",
+      "annotation_character_ids": [
+        "yuanzhenxia_beisha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_87354de492fe22eb",
+      "statement": "研究者身份",
+      "annotation_character_ids": [
+        "yuanzhenxia_shinai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_181055665e43d41d",
+      "statement": "数字线索",
+      "annotation_character_ids": [
+        "yuanzhenxia_tangle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_27a5ce7b089b2d78",
+      "statement": "沟通与寻找",
+      "annotation_character_ids": [
+        "yuanzhenxia_lijia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f64ed93bd58edda9",
+      "statement": "响应与移动",
+      "annotation_character_ids": [
+        "yuanzhenxia_crystal_warning"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_84393f102c6a98d4",
+      "statement": "合作研究",
+      "annotation_character_ids": [
+        "yuanzhenxia_dayian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8d79c2f7b415d096",
+      "statement": "共同接收讯息",
+      "annotation_character_ids": [
+        "yuanzhenxia_shinai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b3bfc66aac6a4b0f",
+      "statement": "创立研究院、强精神感应和接收讯号",
+      "annotation_character_ids": [
+        "yuanzhenxia_gutuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71a4504b52fd8b28",
+      "statement": "共同接收",
+      "annotation_character_ids": [
+        "yuanzhenxia_tangle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2eedc8b74eff8070",
+      "statement": "离开",
+      "annotation_character_ids": [
+        "yuanzhenxia_beisha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7ac6c4db44772068",
+      "statement": "装置和磁能",
+      "annotation_character_ids": [
+        "yuanzhenxia_crystal_warning"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_afe8cc526bbb6408",
+      "statement": "警告来源及边界",
+      "annotation_character_ids": [
+        "yuanzhenxia_crystal_warning"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_67b0c104ad6d63f7",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_lijia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5c234b25b8737e8a",
+      "statement": "终局态度",
+      "annotation_character_ids": [
+        "yuanzhenxia_dayian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

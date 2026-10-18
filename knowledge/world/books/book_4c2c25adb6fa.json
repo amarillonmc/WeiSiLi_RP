@@ -1,0 +1,370 @@
+{
+  "schema_version": "1.0",
+  "id": "book_4c2c25adb6fa",
+  "title": "瘟神",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/076瘟神.txt",
+  "file": "books/book_4c2c25adb6fa.json",
+  "inherited_fact_count": 30,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "2c3a0b6f16fb00fddb908a698e7b4dcb1bec550d841c8150372510c8472c8841",
+  "source_lines": 5134,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "调查命案、听会议并公开照片"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "分析、联络与伦理争论"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "与古九非相识、取回玻璃"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "归还失物、追踪及救小宝"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "归还失物、追踪及救小宝"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "线索与归还行动"
+    },
+    {
+      "name": "古九非",
+      "card_id": "weisili_gu_jiufei",
+      "role": "主角",
+      "basis": "被利用的扒手与被害者"
+    },
+    {
+      "name": "曾原",
+      "card_id": "weisili_zeng_yuan",
+      "role": "主角",
+      "basis": "独立调查与受阻"
+    },
+    {
+      "name": "青龙",
+      "card_id": "yuanzhenxia_qinglong",
+      "role": "重要配角",
+      "basis": "调查、转任组织及保护朋友"
+    },
+    {
+      "name": "阿加酋长",
+      "card_id": "weisili_ajia",
+      "role": "反派",
+      "basis": "资格和军火交易"
+    },
+    {
+      "name": "斐将军",
+      "card_id": "weisili_fei_general",
+      "role": "反派",
+      "basis": "以推荐换军备扩张"
+    },
+    {
+      "name": "包勃",
+      "card_id": "weisili_baobo",
+      "role": "反派",
+      "basis": "联络员、利用及虐杀责任"
+    },
+    {
+      "name": "主宰会",
+      "card_id": "weisili_zhuzaihui",
+      "role": "反派",
+      "basis": "集体决策与惩戒"
+    },
+    {
+      "name": "特种病毒研究者",
+      "card_id": "weisili_virus_researcher",
+      "role": "反派",
+      "basis": "灭绝计划的理论与技术倡议者"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "八哥与养鸟汉子",
+      "reason": "属于设局媒介和不具独立身份的执行背景，不据天命传话赋予神性"
+    },
+    {
+      "name": "芬兰女扒手",
+      "reason": "仅被回述泄露古九非去向，缺少独立身份与主线，不能扩写成持续反派组织"
+    },
+    {
+      "name": "秦先生",
+      "reason": "一次性帮助通知古九非的退休帮会熟人，无已核跨书"
+    },
+    {
+      "name": "五路瘟神神话名",
+      "reason": "末尾书中引用，不是本案真实登场者"
+    },
+    {
+      "name": "包勃其他手下及会议无名声线",
+      "reason": "前者缺少可区分人格，后者以主宰会共同条目记录，不虚构实名"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_3206ea23ee4dfe39",
+      "statement": "阅读、手艺与衰退",
+      "annotation_character_ids": [
+        "weisili_gu_jiufei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f6b66a3eb6a78cd",
+      "statement": "身份、豪奢及特权受限",
+      "annotation_character_ids": [
+        "weisili_ajia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a122cac61fb73c3",
+      "statement": "国宴交接",
+      "annotation_character_ids": [
+        "weisili_fei_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_895f713252763413",
+      "statement": "古九非受利用并取走底片",
+      "annotation_character_ids": [
+        "weisili_baobo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a15698e4c7a2cde",
+      "statement": "受骗和另取胶卷",
+      "annotation_character_ids": [
+        "weisili_gu_jiufei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_57e1218a1e54d4b4",
+      "statement": "青年警官和查案合作",
+      "annotation_character_ids": [
+        "weisili_zeng_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46fde34408bf06b6",
+      "statement": "酷刑死亡与保护朋友的推断",
+      "annotation_character_ids": [
+        "weisili_gu_jiufei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1943cf92f4ffebc2",
+      "statement": "扩张与军火交易",
+      "annotation_character_ids": [
+        "weisili_fei_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bea7edfdde4ab93e",
+      "statement": "资格交易与恐惧",
+      "annotation_character_ids": [
+        "weisili_ajia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7197e3ca9a22d384",
+      "statement": "受益关系",
+      "annotation_character_ids": [
+        "weisili_fei_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0e7aa52c03af654b",
+      "statement": "化名、掩护和凶手判断",
+      "annotation_character_ids": [
+        "weisili_baobo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e2646d8609326d17",
+      "statement": "包勃身份调查及追责",
+      "annotation_character_ids": [
+        "weisili_zeng_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f58618227d631126",
+      "statement": "清理现场与归责",
+      "annotation_character_ids": [
+        "weisili_baobo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e46a426ccfc6bb4",
+      "statement": "车祸死亡",
+      "annotation_character_ids": [
+        "weisili_ajia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bff7ecf2049f61a1",
+      "statement": "辨尸、追查受阻和观察青龙",
+      "annotation_character_ids": [
+        "weisili_zeng_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb1d6116472f0de1",
+      "statement": "调查阻力与信息层级",
+      "annotation_character_ids": [
+        "weisili_zhuzaihui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cd1a1f6e921d27ae",
+      "statement": "死亡辨认及调查受阻",
+      "annotation_character_ids": [
+        "weisili_baobo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_98bbe6060ea20a4e",
+      "statement": "下台消息",
+      "annotation_character_ids": [
+        "weisili_fei_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_da795af9ce5584fd",
+      "statement": "会议机制和惩戒",
+      "annotation_character_ids": [
+        "weisili_zhuzaihui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_40041d359cce6e23",
+      "statement": "组织承认惩戒",
+      "annotation_character_ids": [
+        "weisili_ajia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a3a8dc0ba654d8e6",
+      "statement": "组织惩戒确认",
+      "annotation_character_ids": [
+        "weisili_baobo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e51d1d5e6466cd98",
+      "statement": "组织处置与任职",
+      "annotation_character_ids": [
+        "yuanzhenxia_qinglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a13f5c14bc422dab",
+      "statement": "开除确认",
+      "annotation_character_ids": [
+        "weisili_fei_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_da84365f5a58207e",
+      "statement": "散布计划与决策程序",
+      "annotation_character_ids": [
+        "weisili_zhuzaihui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_11d9c8cc9b46b514",
+      "statement": "为护卫斯理隐瞒实情",
+      "annotation_character_ids": [
+        "yuanzhenxia_qinglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d85dbc785fe59796",
+      "statement": "青龙虚报形成破绽",
+      "annotation_character_ids": [
+        "weisili_zhuzaihui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ac94239e2d7f9ebd",
+      "statement": "到场、人口论和承认计划",
+      "annotation_character_ids": [
+        "weisili_virus_researcher"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a681518db3d36626",
+      "statement": "选择牺牲对象的观念",
+      "annotation_character_ids": [
+        "weisili_virus_researcher"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5cd35af2bcaf0679",
+      "statement": "计划被否决和离开",
+      "annotation_character_ids": [
+        "weisili_virus_researcher"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5dff152aed9cb354",
+      "statement": "否决散布计划",
+      "annotation_character_ids": [
+        "weisili_zhuzaihui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

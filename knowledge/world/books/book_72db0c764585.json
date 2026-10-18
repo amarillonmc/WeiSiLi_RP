@@ -1,0 +1,174 @@
+{
+  "schema_version": "1.0",
+  "id": "book_72db0c764585",
+  "title": "魔磁",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/036魔磁.txt",
+  "file": "books/book_72db0c764585.json",
+  "inherited_fact_count": 13,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "fb24bf8b1934c661394235a64500c7dc610dc5dbda4022f92968db7de25c3b25",
+  "source_lines": 2482,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "杰克",
+      "card_id": "weisili_jieke",
+      "role": "重要配角",
+      "basis": "警务调查"
+    },
+    {
+      "name": "柯克船长",
+      "card_id": "weisili_keke_captain",
+      "role": "反派",
+      "basis": "魔磁的争夺与海难"
+    },
+    {
+      "name": "方廷宝",
+      "card_id": "weisili_fang_tingbao",
+      "role": "反派性行动者",
+      "basis": "魔磁的争夺与海难"
+    },
+    {
+      "name": "陈子驹",
+      "card_id": "weisili_chen_ziju",
+      "role": "反派",
+      "basis": "魔磁的争夺与海难"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "强磁球",
+      "reason": "无人格装置，不列角色；已沉失，不能划归船长永久能力"
+    },
+    {
+      "name": "巨型乌贼",
+      "reason": "自然环境危险，无独立人物逻辑"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_70d59dc2823afc16",
+      "statement": "职务",
+      "annotation_character_ids": [
+        "weisili_chen_ziju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7bcda54007e75c14",
+      "statement": "身份",
+      "annotation_character_ids": [
+        "weisili_fang_tingbao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cae2f5f571366068",
+      "statement": "隐藏雇主",
+      "annotation_character_ids": [
+        "weisili_chen_ziju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eaeef5ad2089b802",
+      "statement": "委托和好奇",
+      "annotation_character_ids": [
+        "weisili_keke_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_11c7b69ca8d78018",
+      "statement": "危险判断",
+      "annotation_character_ids": [
+        "weisili_fang_tingbao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04a58e1124d4a401",
+      "statement": "害人与获救",
+      "annotation_character_ids": [
+        "weisili_fang_tingbao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ec005438b71dfbb5",
+      "statement": "死亡及疑犯未定",
+      "annotation_character_ids": [
+        "weisili_fang_tingbao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ce8040c1da27728b",
+      "statement": "藏匿和对警方反应",
+      "annotation_character_ids": [
+        "weisili_chen_ziju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dfa29f7da59cdd32",
+      "statement": "接引",
+      "annotation_character_ids": [
+        "weisili_chen_ziju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff5aaa911635f134",
+      "statement": "假警察接引",
+      "annotation_character_ids": [
+        "weisili_keke_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d4a3cef0d0d75eb0",
+      "statement": "剖球",
+      "annotation_character_ids": [
+        "weisili_keke_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72d1967f39dc15bb",
+      "statement": "搏斗",
+      "annotation_character_ids": [
+        "weisili_keke_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_49706e328d41f7be",
+      "statement": "被捕终局",
+      "annotation_character_ids": [
+        "weisili_keke_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

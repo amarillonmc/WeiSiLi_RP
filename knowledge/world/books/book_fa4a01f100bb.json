@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0",
+  "id": "book_fa4a01f100bb",
+  "title": "宇宙杀手",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/31.宇宙杀手.txt",
+  "file": "books/book_fa4a01f100bb.json",
+  "inherited_fact_count": 13,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "2b9337f5281c2b3b5c74701554a46029f1918686a0a41c56c68506195ec9d8b5",
+  "source_lines": 6917,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "进入古墓并脱险"
+    },
+    {
+      "name": "雷九天",
+      "card_id": "yuanzhenxia_lei_jiutian",
+      "role": "重要配角",
+      "basis": "古墓求援与入侵"
+    },
+    {
+      "name": "陈昌",
+      "card_id": "yuanzhenxia_chen_chang",
+      "role": "单书主角",
+      "basis": "古墓求援与入侵"
+    },
+    {
+      "name": "古墓外星灵魂群体",
+      "card_id": "yuanzhenxia_tomb_spirits",
+      "role": "单书主角群体",
+      "basis": "古墓求援与入侵"
+    },
+    {
+      "name": "宇宙杀手（古墓入侵者）",
+      "card_id": "yuanzhenxia_cosmic_killer",
+      "role": "反派",
+      "basis": "古墓求援与入侵"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "阿财（宇宙杀手）",
+      "reason": "单次仆人，不与鲁大法之子阿财合并"
+    },
+    {
+      "name": "周胖子",
+      "reason": "陈昌回忆中的供养者，没有独立反派行动线"
+    },
+    {
+      "name": "秦始皇",
+      "reason": "仅讨论与外星人的历史接触，未实际登场，不将推测建成角色能力"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e9256df282525d9a",
+      "statement": "旧时代身世",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_chang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bf03c68ebc3d8cd3",
+      "statement": "出入依赖",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_chang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff3c6d6a87d1edf8",
+      "statement": "对享受改变",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_chang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_57c696d42f7733a0",
+      "statement": "陈昌与少年恩义",
+      "annotation_character_ids": [
+        "yuanzhenxia_lei_jiutian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22fde0813f4eabaf",
+      "statement": "搬运及生命技术",
+      "annotation_character_ids": [
+        "yuanzhenxia_tomb_spirits"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ec8f03afd86c1fbc",
+      "statement": "延寿机制",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_chang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2bce56d39f81bdd1",
+      "statement": "借体说法",
+      "annotation_character_ids": [
+        "yuanzhenxia_cosmic_killer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45bc6be78887832f",
+      "statement": "声望与退缩",
+      "annotation_character_ids": [
+        "yuanzhenxia_lei_jiutian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b53d1eb021fc5972",
+      "statement": "实际借体攻击",
+      "annotation_character_ids": [
+        "yuanzhenxia_cosmic_killer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c6a87532f0e8b0e5",
+      "statement": "武功被借用及最后抗争",
+      "annotation_character_ids": [
+        "yuanzhenxia_lei_jiutian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f3c9bbe88010b862",
+      "statement": "死亡与代价",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_chang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_68ea885b19071200",
+      "statement": "宿主抗争及封锁",
+      "annotation_character_ids": [
+        "yuanzhenxia_cosmic_killer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed4d2923d8a81d3c",
+      "statement": "防线、牺牲计划与救援",
+      "annotation_character_ids": [
+        "yuanzhenxia_tomb_spirits"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0",
+  "id": "book_cb3010eb1b45",
+  "title": "黄金故事",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/071黄金故事.txt",
+  "file": "books/book_cb3010eb1b45.json",
+  "inherited_fact_count": 29,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "d27d9d729a12bcd62eb9efc1a455ddae75d56117b5886fccc34e0d71bac13976",
+  "source_lines": 3345,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "观看和追查录像"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "辨识事实并关注银花处境"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "主角",
+      "basis": "帮会经验及旧事见证"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "录像讨论和危险模仿"
+    },
+    {
+      "name": "温母",
+      "card_id": "weisili_wen_mama",
+      "role": "重要配角",
+      "basis": "接回小宝"
+    },
+    {
+      "name": "张拾来",
+      "card_id": "weisili_zhang_shilai",
+      "role": "主角",
+      "basis": "完整刀手与后生线"
+    },
+    {
+      "name": "常福",
+      "card_id": "weisili_chang_fu",
+      "role": "主角",
+      "basis": "庇护者及结局见证"
+    },
+    {
+      "name": "银花儿",
+      "card_id": "weisili_yin_huaer",
+      "role": "主角",
+      "basis": "关系与受虐死亡线"
+    },
+    {
+      "name": "张堂主",
+      "card_id": "weisili_zhang_tangzhu",
+      "role": "反派",
+      "basis": "夺权、灭口和折磨人质"
+    },
+    {
+      "name": "金沙江旧龙头",
+      "card_id": "weisili_old_jinsha_leader",
+      "role": "阶段性对立者",
+      "basis": "旧秩序与被刺杀"
+    },
+    {
+      "name": "断腿刀手",
+      "card_id": "weisili_duantui_daoshou",
+      "role": "阶段性对立者",
+      "basis": "决斗、获救与企图加害"
+    },
+    {
+      "name": "王居风",
+      "card_id": "weisili_wang_jufeng",
+      "role": "重要配角",
+      "basis": "时空旅行中拍摄、救助并把录像与信送交常福；与《迷藏》统一主卡"
+    },
+    {
+      "name": "高彩虹",
+      "card_id": "weisili_gao_caihong",
+      "role": "重要配角",
+      "basis": "时空旅行中拍摄、救助并把录像与信送交常福；与《迷藏》统一主卡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "新任胡龙头",
+      "reason": "白老大追述中的交代者，无独立本书行动线或已核跨书"
+    },
+    {
+      "name": "胖瘦公证人、响笳主持人",
+      "reason": "仪式执行的一次性配角，器物需人血浸泡仅传闻，不作法术"
+    },
+    {
+      "name": "六名护卫与路上三十人",
+      "reason": "具共同职业但未有独立稳定人格，分别服务刺杀和报仇场景"
+    },
+    {
+      "name": "银花儿所杀青年",
+      "reason": "一次性遇害者，无独立主视角生涯"
+    },
+    {
+      "name": "常福儿子、警官和侦探送件人",
+      "reason": "一次性陪同或传递角色"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_1ea4ce1ba2351e1e",
+      "statement": "淘金制度与刀手",
+      "annotation_character_ids": [
+        "weisili_old_jinsha_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_05e1ea63418fd243",
+      "statement": "弃婴、刀法与失踪",
+      "annotation_character_ids": [
+        "weisili_zhang_shilai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b89bd2bb1195e316",
+      "statement": "恩情、伪密令和计划",
+      "annotation_character_ids": [
+        "weisili_zhang_tangzhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f1bdb4ea9a277656",
+      "statement": "伪密令及护卫情形",
+      "annotation_character_ids": [
+        "weisili_old_jinsha_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6ee2a2c1967672e9",
+      "statement": "感情、威胁与羞耻",
+      "annotation_character_ids": [
+        "weisili_zhang_shilai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_813e9f9d7897f5dc",
+      "statement": "关系与身体界线",
+      "annotation_character_ids": [
+        "weisili_yin_huaer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7abe7a2acdee3545",
+      "statement": "随身枪械和护卫",
+      "annotation_character_ids": [
+        "weisili_old_jinsha_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4a568356ff901181",
+      "statement": "反应及死亡",
+      "annotation_character_ids": [
+        "weisili_old_jinsha_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1475731c3c06fc0b",
+      "statement": "中枪和逃脱",
+      "annotation_character_ids": [
+        "weisili_zhang_shilai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8bc30d878a5840de",
+      "statement": "失败、补枪及操控保镳",
+      "annotation_character_ids": [
+        "weisili_zhang_tangzhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_781ca82dbd148635",
+      "statement": "杀逃亡青年及未被记载的处境",
+      "annotation_character_ids": [
+        "weisili_yin_huaer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1e1ad98040fe7256",
+      "statement": "援助与遭袭",
+      "annotation_character_ids": [
+        "weisili_wang_jufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4d189f6eab0f521c",
+      "statement": "原身份、截肢与获救",
+      "annotation_character_ids": [
+        "weisili_duantui_daoshou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f93edf5b4015437e",
+      "statement": "救人、受袭及脱离",
+      "annotation_character_ids": [
+        "weisili_gao_caihong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_08097e8c6066cb90",
+      "statement": "意图加害、后悔、弃刀及乞食",
+      "annotation_character_ids": [
+        "weisili_duantui_daoshou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_67a43d5dc0db5dcd",
+      "statement": "厨艺与白老大关系",
+      "annotation_character_ids": [
+        "weisili_chang_fu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2350b738ac3310e0",
+      "statement": "录像识别",
+      "annotation_character_ids": [
+        "weisili_wang_jufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c509b9689c4740dd",
+      "statement": "录像认人",
+      "annotation_character_ids": [
+        "weisili_gao_caihong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4b2f29d0deffb249",
+      "statement": "恐惧、常福与隐匿",
+      "annotation_character_ids": [
+        "weisili_zhang_shilai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76fa240f09296c43",
+      "statement": "现时状态、庇护及见证",
+      "annotation_character_ids": [
+        "weisili_chang_fu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16c2ba3c8d302f08",
+      "statement": "往事和受虐",
+      "annotation_character_ids": [
+        "weisili_yin_huaer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2a78735c15f96e60",
+      "statement": "虐待与恐惧",
+      "annotation_character_ids": [
+        "weisili_zhang_tangzhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3ea2633f0f1856a9",
+      "statement": "银花死亡、复仇和终局身份",
+      "annotation_character_ids": [
+        "weisili_zhang_shilai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb01c776ecd90b88",
+      "statement": "终局失败与死亡",
+      "annotation_character_ids": [
+        "weisili_yin_huaer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bc141bf5e0f5ddf8",
+      "statement": "补述死亡与复仇",
+      "annotation_character_ids": [
+        "weisili_chang_fu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_12647da2e30b1400",
+      "statement": "被杀及最后诉诸恩情",
+      "annotation_character_ids": [
+        "weisili_zhang_tangzhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6ebc791d7917d49f",
+      "statement": "后续援助与无法联络",
+      "annotation_character_ids": [
+        "weisili_gao_caihong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dbd3a820e57b73ea",
+      "statement": "解围和联络限制",
+      "annotation_character_ids": [
+        "weisili_wang_jufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb431b63c4276540",
+      "statement": "技术理解有限",
+      "annotation_character_ids": [
+        "weisili_chang_fu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

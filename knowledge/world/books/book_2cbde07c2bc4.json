@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "id": "book_2cbde07c2bc4",
+  "title": "极刑",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/067极刑.txt",
+  "file": "books/book_2cbde07c2bc4.json",
+  "inherited_fact_count": 20,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "46cfa532c1c1b63014521f0758b1097fb4a131c7cb0b2fd4635f3c6ec7929147",
+  "source_lines": 3316,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "参观与询问"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "辨时空与参与决定"
+    },
+    {
+      "name": "白奇伟",
+      "card_id": "weisili_bai_qiwei",
+      "role": "重要配角",
+      "basis": "南美声音调查和女郎相遇"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "调查与结尾讨论"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "接待冲突"
+    },
+    {
+      "name": "阿尼密",
+      "card_id": "adventure_animi",
+      "role": "重要配角",
+      "basis": "引导接触受难灵魂"
+    },
+    {
+      "name": "米端",
+      "card_id": "weisili_mi_duan",
+      "role": "主角",
+      "basis": "图像任务、时空转移与放弃"
+    },
+    {
+      "name": "掌声女郎",
+      "card_id": "weisili_suffering_voice_woman",
+      "role": "主角",
+      "basis": "声音任务和主动停止"
+    },
+    {
+      "name": "刘巨",
+      "card_id": "weisili_liu_ju",
+      "role": "主角",
+      "basis": "艺术检验与生还"
+    },
+    {
+      "name": "李亚",
+      "card_id": "weisili_li_ya",
+      "role": "主角",
+      "basis": "南美副线后勤和危险判断"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "陈列的历史受难者",
+      "reason": "呈现具体苦难但无自主行动线，保留历史场景索引，不把每个姓名扩成未经原文刻画的全生涯卡"
+    },
+    {
+      "name": "灵魂群",
+      "reason": "来自不同事件而无统一人格，保留受难申诉机制，不伪造统一战斗角色"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_32cf6fcac13e3978",
+      "statement": "情绪感染与展馆态度",
+      "annotation_character_ids": [
+        "weisili_mi_duan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e7bef08b7a6afeb2",
+      "statement": "国际水利工程师身份",
+      "annotation_character_ids": [
+        "weisili_bai_qiwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_268f38a2b5081b7b",
+      "statement": "身份、受震动和无礼冲突",
+      "annotation_character_ids": [
+        "weisili_liu_ju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22590ddcd123142c",
+      "statement": "求助及实际检测",
+      "annotation_character_ids": [
+        "weisili_liu_ju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_28c7b84e00a3002c",
+      "statement": "火场保护白素",
+      "annotation_character_ids": [
+        "weisili_bai_qiwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1a32ee5a749c9e90",
+      "statement": "白奇伟所闻与区域影响",
+      "annotation_character_ids": [
+        "weisili_suffering_voice_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_929033f29b97c3b8",
+      "statement": "寻找、队伍应对和传说",
+      "annotation_character_ids": [
+        "weisili_li_ya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9efb7055aa40f1ff",
+      "statement": "劝阻与后勤执行",
+      "annotation_character_ids": [
+        "weisili_li_ya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f7e474dce59903f",
+      "statement": "承认存在方式未知、限时尝试、获同意后引导卫白。",
+      "annotation_character_ids": [
+        "adventure_animi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_380467b8dda07a3b",
+      "statement": "拒绝重历痛苦、不能询明目的并告辞。",
+      "annotation_character_ids": [
+        "adventure_animi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bee007df634b2410",
+      "statement": "承认时空转移并求意见",
+      "annotation_character_ids": [
+        "weisili_mi_duan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_54ddd42482a21c42",
+      "statement": "现形与先行退出",
+      "annotation_character_ids": [
+        "weisili_suffering_voice_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6da9ed759c081d95",
+      "statement": "任务机制、局限和情绪代价",
+      "annotation_character_ids": [
+        "weisili_mi_duan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd7b1a25b8b52a83",
+      "statement": "声像分工及精神代价",
+      "annotation_character_ids": [
+        "weisili_suffering_voice_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e53f755176541fe",
+      "statement": "救刘并惩戒、变形和离去",
+      "annotation_character_ids": [
+        "weisili_mi_duan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4a75e4ffd22c14c4",
+      "statement": "被救及沙漠终局",
+      "annotation_character_ids": [
+        "weisili_liu_ju"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2699921ecbc8dbc7",
+      "statement": "形体适应与离去",
+      "annotation_character_ids": [
+        "weisili_suffering_voice_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6f4cc7154d66ba43",
+      "statement": "白奇伟单方面相思",
+      "annotation_character_ids": [
+        "weisili_suffering_voice_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b45952af65b5dc04",
+      "statement": "面对真实人物陈列馆后的态度",
+      "annotation_character_ids": [
+        "weisili_huang_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_11840a094e09045f",
+      "statement": "教技能提议未实现",
+      "annotation_character_ids": [
+        "weisili_mi_duan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

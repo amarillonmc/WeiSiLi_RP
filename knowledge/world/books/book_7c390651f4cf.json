@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "id": "book_7c390651f4cf",
+  "title": "雨花台石",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/035雨花台石.txt",
+  "file": "books/book_7c390651f4cf.json",
+  "inherited_fact_count": 7,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "b3dcbf8be1b47b248537dbeb5974d00d194a7b2d704f926c444341a46ef80a2b",
+  "source_lines": 1524,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "智空",
+      "card_id": "weisili_zhikong",
+      "role": "单书主角",
+      "basis": "保管、侵入与抵抗"
+    },
+    {
+      "name": "班纳",
+      "card_id": "weisili_banna",
+      "role": "单书主角",
+      "basis": "保管、侵入与抵抗"
+    },
+    {
+      "name": "雨花台石中的细丝生命",
+      "card_id": "weisili_yuhuatai_filaments",
+      "role": "反派群体",
+      "basis": "保管、侵入与抵抗"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "徐月净",
+      "reason": "少年时期同学和线索人物，未见跨书实际出场"
+    },
+    {
+      "name": "未具名高僧",
+      "reason": "旧事中的牺牲者，主要以智空叙述呈现"
+    },
+    {
+      "name": "佛德烈少将",
+      "reason": "本书协助追踪者，跨书同名身份另待总索引核对"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_9487064af6b452bc",
+      "statement": "保管冲突",
+      "annotation_character_ids": [
+        "weisili_zhikong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_59f9e3b8bcfc6467",
+      "statement": "重逢与高僧旧事",
+      "annotation_character_ids": [
+        "weisili_zhikong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f3a785792b4e0545",
+      "statement": "反对轻率试验",
+      "annotation_character_ids": [
+        "weisili_zhikong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a1f0e51865b90258",
+      "statement": "封闭结构",
+      "annotation_character_ids": [
+        "weisili_yuhuatai_filaments"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c2f88155bcf56ef",
+      "statement": "童年与逃往废矿",
+      "annotation_character_ids": [
+        "weisili_banna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0d4d8ec4b74ba863",
+      "statement": "诱惑、侵入、抵抗与终局",
+      "annotation_character_ids": [
+        "weisili_banna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f08788dee2b4a63",
+      "statement": "寄生、两派与高温终局",
+      "annotation_character_ids": [
+        "weisili_yuhuatai_filaments"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

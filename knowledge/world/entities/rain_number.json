@@ -1,0 +1,34 @@
+{
+  "id": "rain_number",
+  "title": "雨夜留下的七位号码",
+  "kind": "information",
+  "summary": "一次无法解释的接触留下的持久痕迹，来者身份未知。",
+  "mechanism": {
+    "text": "号码洗不掉、司机否认乘客等现象是叙事线索，来源没有最终解释。",
+    "epistemic_status": "unresolved"
+  },
+  "access_conditions": [
+    "亲历者与号码痕迹"
+  ],
+  "limits": [
+    "不能确认是阴间电话",
+    "不能保证可拨通、召唤或再次见面"
+  ],
+  "last_known_state": "男子没有继续追查，女子离去，后续未揭。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "可作未知关系的开端；任何拨号效果都要另标场景创作。"
+  },
+  "character_ids": [],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_abb3de904aeb433b",
+    "evidence_77ef408ec6c594f2",
+    "evidence_6ce6a30e7c261b98",
+    "evidence_eb6d0c27e605c3fc"
+  ],
+  "book_ids": [
+    "book_9e24f6c8380c"
+  ]
+}

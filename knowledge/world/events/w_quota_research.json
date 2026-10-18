@@ -1,0 +1,30 @@
+{
+  "id": "w_quota_research",
+  "title": "买命争夺、非人协会研究与白素入会",
+  "kind": "event",
+  "summary": "寻求寿命者聚集，水帮助非人协会筛选和接送，白素参与分配讨论并入会；通用转移尚未完成。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《买命》《卖命》至《考验》开端。",
+    "narrative_layer": "present"
+  },
+  "state_before": "各方把配额视为可购买的希望。",
+  "state_after": "研究状态公开给相关求助者，白素取得新的机构关系，仍无通用延寿服务。",
+  "knowledge_boundary": "研究内情没有对所有求购者披露；康维无水而无法收到同一类讯息。",
+  "character_ids": [
+    "weisili_bai_su",
+    "yuanzhenxia_kangwei",
+    "weisili_water_life"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_0c2e09797a2903ca",
+    "evidence_69e2cb5e26e93b83"
+  ],
+  "book_ids": [
+    "book_285c39eb6c50",
+    "book_c33c05bc68a3"
+  ]
+}

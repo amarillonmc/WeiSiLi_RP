@@ -1,0 +1,38 @@
+{
+  "id": "leman_copy",
+  "title": "后备人／复制身体与复制人格",
+  "kind": "concept",
+  "summary": "复制能力把医疗资源问题变成人格、自由与原本关系问题。",
+  "mechanism": {
+    "text": "不同项目可复制细胞、导入部分记忆或思想；复制体可能产生自主选择，也可能受设计限制。",
+    "epistemic_status": "textual_fact"
+  },
+  "access_conditions": [
+    "样本、设施、培养及具体输入程序"
+  ],
+  "limits": [
+    "高达复制体的自主性不能证明杜良复制体能学习",
+    "原本与副本分账记录关系及责任"
+  ],
+  "last_known_state": "高达副本与蜂后离去；杜良副本仍在医院按旧输入循环；卫斯理副本计划被反向指令干预。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "可把“谁有权决定副本用途”作为目标，避免把副本当可消耗的额外生命。"
+  },
+  "character_ids": [],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_1284275a3fecf4d3",
+    "evidence_f253506602afc4e0",
+    "evidence_cf0393cf1acf709f",
+    "evidence_00a673d12d539052",
+    "evidence_b28861735fbe5e57",
+    "evidence_1f8f330b4dc52b31"
+  ],
+  "book_ids": [
+    "book_533b28ccc313",
+    "book_a25be6589e38",
+    "book_ccfaaef512be"
+  ]
+}

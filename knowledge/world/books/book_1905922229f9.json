@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1905922229f9",
+  "title": "大破暗杀党",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/23大破暗杀党.txt",
+  "file": "books/book_1905922229f9.json",
+  "inherited_fact_count": 31,
+  "curated_links": {
+    "arcs": [
+      "arc_mulanhua",
+      "arc_yunsifeng"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "3d7458567eb0b502406c0c965152699294431c841563180d8b3e28395af441a6",
+  "source_lines": 2632,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "温先生",
+      "card_id": "mulanhua_kid_mr_one",
+      "role": "反派/转为合作的阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "翁来",
+      "card_id": "mulanhua_kid_wenglai",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "ＫＩＤ决策小组的两名副首脑",
+      "card_id": "mulanhua_kid_two_deputies",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "黑豹（ＫＩＤ）",
+      "card_id": "mulanhua_kid_black_panther",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "歌剧院的签名少女",
+      "card_id": "mulanhua_kid_autograph_agent",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "ＫＩＤ电子门的孪生守门人",
+      "card_id": "mulanhua_kid_gate_twins",
+      "role": "阶段性对立者/受利用的门禁执行者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "彼德逊",
+      "card_id": "mulanhua_pederson",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "东京支部两头目、十二号、钓鱼屋接应组与匿名守卫",
+      "reason": "本册一次接驳、押送或枪战执行助手，没有进一步独立身份；纳入组织的条件性人手而不另虚构人生。"
+    },
+    {
+      "name": "苏珊",
+      "reason": "木兰花用于潜入的虚构身份，非独立人物。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_188f4349c9e8a03c",
+      "statement": "签名接近、喷雾与示意",
+      "annotation_character_ids": [
+        "mulanhua_kid_autograph_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6451008b74715df3",
+      "statement": "暗杀、晋升目标和武器自述",
+      "annotation_character_ids": [
+        "mulanhua_kid_mr_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3ac89966ffc57c7b",
+      "statement": "三人决策与核验",
+      "annotation_character_ids": [
+        "mulanhua_kid_two_deputies"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d320e98ccda929c",
+      "statement": "决策规则与门禁系统",
+      "annotation_character_ids": [
+        "mulanhua_kid_wenglai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5296388e2749745",
+      "statement": "双人门禁、训练与协作",
+      "annotation_character_ids": [
+        "mulanhua_kid_gate_twins"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b5b9d331dc65ca99",
+      "statement": "被擒与防弹玻璃导致失手",
+      "annotation_character_ids": [
+        "mulanhua_kid_mr_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16779e3a6831d08e",
+      "statement": "钮扣炸弹和重装枪",
+      "annotation_character_ids": [
+        "mulanhua_kid_mr_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ac5687030f9d61c",
+      "statement": "恐惧清除、积蓄及决裂",
+      "annotation_character_ids": [
+        "mulanhua_kid_mr_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e2a1d6732b4046b1",
+      "statement": "女声联络与木兰花辨认",
+      "annotation_character_ids": [
+        "mulanhua_kid_autograph_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff0ffb0cc6984fda",
+      "statement": "理解潜入计划",
+      "annotation_character_ids": [
+        "mulanhua_kid_mr_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3d4a428f9f915042",
+      "statement": "射偏手枪与应变",
+      "annotation_character_ids": [
+        "mulanhua_kid_mr_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7c578bfc332f460b",
+      "statement": "电视审问和送总部决定",
+      "annotation_character_ids": [
+        "mulanhua_kid_two_deputies"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72d270794c3be6f0",
+      "statement": "通过盘问及留下等待",
+      "annotation_character_ids": [
+        "mulanhua_kid_mr_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_98d2fb862636c416",
+      "statement": "阻止毁戒、护枪姿势与枪手身份",
+      "annotation_character_ids": [
+        "mulanhua_kid_black_panther"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cbe7dbbd6ca4b32f",
+      "statement": "毒针受面具阻挡",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_facdc0269034139c",
+      "statement": "面具挡针、赞赏与杀意",
+      "annotation_character_ids": [
+        "mulanhua_kid_wenglai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5c0f1794f0367300",
+      "statement": "承认误判及桌下警报",
+      "annotation_character_ids": [
+        "mulanhua_kid_two_deputies"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a1801f3a0798a24",
+      "statement": "头箍小枪弹药有限",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b56f5c90697b00e4",
+      "statement": "黑暗分散、先后被杀",
+      "annotation_character_ids": [
+        "mulanhua_kid_two_deputies"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f8cc0388ac0f9f4",
+      "statement": "黑暗对抗及被制",
+      "annotation_character_ids": [
+        "mulanhua_kid_wenglai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d7c58fabe3056598",
+      "statement": "死亡部位核对",
+      "annotation_character_ids": [
+        "mulanhua_kid_two_deputies"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9ec848719113344f",
+      "statement": "真实身份保密、拒门与胁婚",
+      "annotation_character_ids": [
+        "mulanhua_kid_wenglai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b60aa413b646d733",
+      "statement": "只认决策命令的限制",
+      "annotation_character_ids": [
+        "mulanhua_kid_gate_twins"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3886056761afef5f",
+      "statement": "对劝说无反应",
+      "annotation_character_ids": [
+        "mulanhua_kid_gate_twins"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad63f05317afe0fe",
+      "statement": "传话开铐、突围及配合警方",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0d3398597c766c28",
+      "statement": "受激近攻和被夹击",
+      "annotation_character_ids": [
+        "mulanhua_kid_black_panther"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3879005b70d93f15",
+      "statement": "误射死亡",
+      "annotation_character_ids": [
+        "mulanhua_kid_black_panther"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9cde8968cf099619",
+      "statement": "警方无法开门",
+      "annotation_character_ids": [
+        "mulanhua_kid_gate_twins"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_de60adbd7a3b2943",
+      "statement": "实际参与总部围剿",
+      "annotation_character_ids": [
+        "mulanhua_pederson"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d06e04ad1ca68cd2",
+      "statement": "控制失效、死亡及组织结局",
+      "annotation_character_ids": [
+        "mulanhua_kid_wenglai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_60831ee7a9d83251",
+      "statement": "面具识别机制揭示",
+      "annotation_character_ids": [
+        "mulanhua_kid_gate_twins"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "before__w_elder_contact__w_alliance",
+  "source": "w_elder_contact",
+  "target": "w_alliance",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "温宝裕受到长老人口论影响，终局明确反省并转向自愿远行。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "温宝裕受到长老人口论影响，终局明确反省并转向自愿远行。",
+  "evidence_ids": [
+    "evidence_9ca8328f1606024e"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da"
+  ]
+}

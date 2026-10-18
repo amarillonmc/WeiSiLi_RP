@@ -1,0 +1,222 @@
+{
+  "schema_version": "1.0",
+  "id": "book_51825627918a",
+  "title": "奇玉",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/008奇玉.txt",
+  "file": "books/book_51825627918a.json",
+  "inherited_fact_count": 19,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "483e371dd19a5b82e47b55c951f0f0866fcb7e46e0f3c01338cd3145617be2af",
+  "source_lines": 1527,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "熊勤鱼",
+      "card_id": "weisili_xiong_qinyu",
+      "role": "单书主线人物",
+      "basis": "财务危机引出委托"
+    },
+    {
+      "name": "王丹忱",
+      "card_id": "weisili_wang_danchen",
+      "role": "阶段性对立者",
+      "basis": "守秘、炸药威胁与死亡"
+    },
+    {
+      "name": "杜子荣",
+      "card_id": "weisili_du_zirong",
+      "role": "反派",
+      "basis": "腐败、误导和谋杀"
+    },
+    {
+      "name": "丁广海",
+      "card_id": "weisili_ding_guanghai",
+      "role": "反派",
+      "basis": "幕后持玉和犯罪权力"
+    },
+    {
+      "name": "牛建才",
+      "card_id": "weisili_niu_jiancai",
+      "role": "关键对立者",
+      "basis": "实际携玉脱逃改变全局"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "熊老太爷、熊夫人",
+      "reason": "回述或遗言转述人物，无当前可展开独立行动主线；赌玉与误听记入事件。"
+    },
+    {
+      "name": "周知棠、阿保、医生和守卫",
+      "reason": "介绍、交通、受害或执行辅助，无独立主角/反派线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_5f9f5da0f3bb53c2",
+      "statement": "声名及委托",
+      "annotation_character_ids": [
+        "weisili_xiong_qinyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b7583842e5c5a7f6",
+      "statement": "财务危机、信用计划和报酬",
+      "annotation_character_ids": [
+        "weisili_xiong_qinyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c7c81d3b4e101ea4",
+      "statement": "接迎与遭袭",
+      "annotation_character_ids": [
+        "weisili_wang_danchen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_039c892af8ff6e4e",
+      "statement": "园内权限",
+      "annotation_character_ids": [
+        "weisili_du_zirong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3248881baf1fec4d",
+      "statement": "带伤及司机死亡",
+      "annotation_character_ids": [
+        "weisili_wang_danchen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_11c5ef19f68156ed",
+      "statement": "身份与崛起",
+      "annotation_character_ids": [
+        "weisili_ding_guanghai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_25c691e7a1845c92",
+      "statement": "炸药事故及否认谋杀",
+      "annotation_character_ids": [
+        "weisili_wang_danchen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e7a7ec804b7bddf",
+      "statement": "错误处理炸药及受伤",
+      "annotation_character_ids": [
+        "weisili_du_zirong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_baea0ab257296c93",
+      "statement": "临终未竟解释",
+      "annotation_character_ids": [
+        "weisili_wang_danchen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cdd198a0446b378b",
+      "statement": "遗言误听",
+      "annotation_character_ids": [
+        "weisili_xiong_qinyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eed3d918d49b8c59",
+      "statement": "贿赂、谋杀与反制",
+      "annotation_character_ids": [
+        "weisili_du_zirong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_93e6c92da81ee0a0",
+      "statement": "贿赂与对峙",
+      "annotation_character_ids": [
+        "weisili_ding_guanghai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4b738837462c1c86",
+      "statement": "获得准入机会",
+      "annotation_character_ids": [
+        "weisili_niu_jiancai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e024618f4315ac7",
+      "statement": "通行玉扣与学习",
+      "annotation_character_ids": [
+        "weisili_ding_guanghai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1ee514193785eb70",
+      "statement": "背叛、失控及死亡",
+      "annotation_character_ids": [
+        "weisili_ding_guanghai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_90d0d204f2ab0b9e",
+      "statement": "携玉离去被发现",
+      "annotation_character_ids": [
+        "weisili_niu_jiancai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7debd863ade8f685",
+      "statement": "终局交易",
+      "annotation_character_ids": [
+        "weisili_du_zirong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d041f630abc2c187",
+      "statement": "追捕无果",
+      "annotation_character_ids": [
+        "weisili_niu_jiancai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_986c3490b0762c24",
+      "statement": "败落终局",
+      "annotation_character_ids": [
+        "weisili_xiong_qinyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

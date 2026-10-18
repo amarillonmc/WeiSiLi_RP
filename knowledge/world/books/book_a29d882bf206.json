@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "id": "book_a29d882bf206",
+  "title": "游戏",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/069游戏.txt",
+  "file": "books/book_a29d882bf206.json",
+  "inherited_fact_count": 23,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "497ab30939dcc63226b673e7c9cb080cb4e1fb3bb288c0f5a54f03389b4339e3",
+  "source_lines": 3224,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "劝巴曼终止核计划"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "重要配角",
+      "basis": "参与讨论"
+    },
+    {
+      "name": "小纳尔逊",
+      "card_id": "weisili_xiao_na",
+      "role": "主角",
+      "basis": "国际调查与潜航"
+    },
+    {
+      "name": "盖雷夫人",
+      "card_id": "weisili_gailei",
+      "role": "主角",
+      "basis": "情报协调与消灾交涉"
+    },
+    {
+      "name": "巴曼",
+      "card_id": "weisili_ba_man",
+      "role": "反派转重要配角",
+      "basis": "核威胁与研究转向"
+    },
+    {
+      "name": "韩因",
+      "card_id": "weisili_han_yin",
+      "role": "主角",
+      "basis": "潜航副线"
+    },
+    {
+      "name": "加丹",
+      "card_id": "weisili_jia_dan",
+      "role": "主角",
+      "basis": "调查副线及遇害"
+    },
+    {
+      "name": "班提斯",
+      "card_id": "weisili_ban_tisi",
+      "role": "主角",
+      "basis": "发现潜艇与遇害"
+    },
+    {
+      "name": "老情人",
+      "card_id": "weisili_lao_qingren",
+      "role": "主角",
+      "basis": "地方副线主视角"
+    },
+    {
+      "name": "普罗科夫",
+      "card_id": "weisili_pulunkefu",
+      "role": "阶段性对立者",
+      "basis": "接管与强逼巴曼"
+    },
+    {
+      "name": "维拉斯基",
+      "card_id": "weisili_weilasiji",
+      "role": "阶段性对立者",
+      "basis": "接管与强逼巴曼"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "即格",
+      "reason": "一次性联络员，饮酒失职造成报告延误，无独立主线或已核跨书行动"
+    },
+    {
+      "name": "两名英国潜水员",
+      "reason": "无名短暂受雇后失踪，没有可分辨的个体行为线"
+    },
+    {
+      "name": "七星来客",
+      "reason": "仅由遗迹和巴曼译文呈现的远古群体，未具个体人格；其工程保留于世界设定，不虚构七张战斗卡"
+    },
+    {
+      "name": "最高当局及专家群",
+      "reason": "制度性背景和技术核验者，没有可分辨个人身份"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_25e0b5b61d53db09",
+      "statement": "会议身份和资料",
+      "annotation_character_ids": [
+        "weisili_jia_dan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_74a6662c7dd9d744",
+      "statement": "外貌、酒吧与无旁证纪录",
+      "annotation_character_ids": [
+        "weisili_lao_qingren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e494002a8b612efd",
+      "statement": "外貌、职业、保密与潜艇发现",
+      "annotation_character_ids": [
+        "weisili_ban_tisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_abbf7277a2092901",
+      "statement": "听班提斯叙述和误判",
+      "annotation_character_ids": [
+        "weisili_lao_qingren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_528fd930483a33de",
+      "statement": "调查、招募与求助",
+      "annotation_character_ids": [
+        "weisili_jia_dan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4d6fabc97d3905eb",
+      "statement": "拒绝用报酬与爱国论证送命",
+      "annotation_character_ids": [
+        "weisili_lao_qingren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1231ccdb4d9a1e9e",
+      "statement": "出海失踪",
+      "annotation_character_ids": [
+        "weisili_jia_dan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ab66f36c80b2a0d4",
+      "statement": "装备留船的失踪特征",
+      "annotation_character_ids": [
+        "weisili_ban_tisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_914517d82ce8da74",
+      "statement": "军衔、操作与冒险提议",
+      "annotation_character_ids": [
+        "weisili_han_yin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8c513c4a2d73f67d",
+      "statement": "判断海况和撤离",
+      "annotation_character_ids": [
+        "weisili_han_yin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5270494dfb334201",
+      "statement": "身份与上次命运事件明确连接",
+      "annotation_character_ids": [
+        "weisili_gailei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9cdfef7a91b217d5",
+      "statement": "计谋、授权及接管",
+      "annotation_character_ids": [
+        "weisili_pulunkefu",
+        "weisili_weilasiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0b724000fc7aba12",
+      "statement": "强迫开舱与失控",
+      "annotation_character_ids": [
+        "weisili_pulunkefu",
+        "weisili_weilasiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ecf249300b83b9d",
+      "statement": "拒绝无证假设及通信后手",
+      "annotation_character_ids": [
+        "weisili_gailei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_447ce089f09b1bbd",
+      "statement": "震惊与恢复",
+      "annotation_character_ids": [
+        "weisili_gailei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8d20cbfc0251c64a",
+      "statement": "遗体确认死亡",
+      "annotation_character_ids": [
+        "weisili_pulunkefu",
+        "weisili_weilasiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3d947b68683d2da3",
+      "statement": "失控中先安抚韩因",
+      "annotation_character_ids": [
+        "weisili_xiao_na"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82020625b71fec94",
+      "statement": "恐惧、失控及紧急开舱",
+      "annotation_character_ids": [
+        "weisili_han_yin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_355c403342cea847",
+      "statement": "确认被巴曼杀害",
+      "annotation_character_ids": [
+        "weisili_ban_tisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d5ca067cdec43afe",
+      "statement": "巴曼承认杀害",
+      "annotation_character_ids": [
+        "weisili_jia_dan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c406296b00d33184",
+      "statement": "报告和交付潜艇",
+      "annotation_character_ids": [
+        "weisili_han_yin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5de6c5060c55f846",
+      "statement": "放人协商、秘密遗迹与早期转变",
+      "annotation_character_ids": [
+        "weisili_ba_man"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eae351b310226005",
+      "statement": "最终协商与停止追问",
+      "annotation_character_ids": [
+        "weisili_gailei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

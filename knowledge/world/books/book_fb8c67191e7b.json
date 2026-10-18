@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "id": "book_fb8c67191e7b",
+  "title": "鬼屋",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/鬼屋.txt",
+  "file": "books/book_fb8c67191e7b.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "465bce2b6ddf6e0b3931ff022d58f0e8676cc9784967dbd20f8a47f699ccf180",
+  "source_lines": 77,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "阿包",
+      "card_id": "guihua_haunted_bao",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "阿大",
+      "card_id": "guihua_haunted_da",
+      "role": "主角/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "墙上绿色人脸",
+      "reason": "只显示、浮动，未证实独立身份或主动加害；不合并虚构鬼群战力。"
+    },
+    {
+      "name": "表舅",
+      "reason": "提供住所的回忆人物，未证明故意加害。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0acf999b9788cb13",
+      "statement": "旧事、被激怒与撤回赌赛",
+      "annotation_character_ids": [
+        "guihua_haunted_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82243193fd0049ee",
+      "statement": "嘲弄、答赌与折返",
+      "annotation_character_ids": [
+        "guihua_haunted_da"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7a91bbca51938de2",
+      "statement": "带头探屋及惊逃",
+      "annotation_character_ids": [
+        "guihua_haunted_da"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b17b4d2eafdfff2",
+      "statement": "劝阻、显影和真实恐惧",
+      "annotation_character_ids": [
+        "guihua_haunted_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "id": "book_98e89d39e8fa",
+  "title": "鬼胎之二",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/鬼胎之二.txt",
+  "file": "books/book_98e89d39e8fa.json",
+  "inherited_fact_count": 6,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "5a29da764c403f2cdb8da15c4793d76c19299e04b1a428a63fc82fb68b82a463",
+  "source_lines": 85,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "妲咪",
+      "card_id": "guihua_dami",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "汤尼（鬼胎之二）",
+      "card_id": "guihua_tony",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "妲咪腹中的未知存在",
+      "card_id": "guihua_dami_fetus",
+      "role": "反派/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_575622d4f711b5f0",
+      "statement": "关系、计划和主动改变",
+      "annotation_character_ids": [
+        "guihua_dami"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_378455ccb4fa23e0",
+      "statement": "想做父亲与学习照料",
+      "annotation_character_ids": [
+        "guihua_tony"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22fa08a2daccacb1",
+      "statement": "求医、现场救援与丧失",
+      "annotation_character_ids": [
+        "guihua_tony"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77b1e235d17665f0",
+      "statement": "剧烈胎动",
+      "annotation_character_ids": [
+        "guihua_dami_fetus"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a284c1c5828f3857",
+      "statement": "异常胎动、反抗及死亡",
+      "annotation_character_ids": [
+        "guihua_dami"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_20d4c6eafca7a6f0",
+      "statement": "扫描前抵抗与结局",
+      "annotation_character_ids": [
+        "guihua_dami_fetus"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

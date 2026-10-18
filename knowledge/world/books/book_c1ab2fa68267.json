@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0",
+  "id": "book_c1ab2fa68267",
+  "title": "蓝血人",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/004蓝血人.txt",
+  "file": "books/book_c1ab2fa68267.json",
+  "inherited_fact_count": 33,
+  "curated_links": {
+    "events": [
+      "w_blue_blood"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+  "source_lines": 6694,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "方天",
+      "card_id": "weisili_fang_tian",
+      "role": "单书主角",
+      "basis": "返乡与危机"
+    },
+    {
+      "name": "无形飞魔",
+      "card_id": "weisili_wu_xing_feimo",
+      "role": "反派",
+      "basis": "跨宿主核心对手"
+    },
+    {
+      "name": "季子",
+      "card_id": "weisili_sasaki_jizi",
+      "role": "单书主线人物",
+      "basis": "感情与囚禁悲剧"
+    },
+    {
+      "name": "木村信",
+      "card_id": "weisili_kimura_xin",
+      "role": "阶段性对立者",
+      "basis": "私藏导航仪及被寄生"
+    },
+    {
+      "name": "井上长老",
+      "card_id": "weisili_inoue_elder",
+      "role": "反派",
+      "basis": "月神会实际头目"
+    },
+    {
+      "name": "齐飞尔将军",
+      "card_id": "weisili_qifeier",
+      "role": "阶段性对立者",
+      "basis": "军事调查"
+    },
+    {
+      "name": "纳尔逊",
+      "card_id": "weisili_naerxun",
+      "role": "重要配角",
+      "basis": "调查与死亡"
+    },
+    {
+      "name": "小纳",
+      "card_id": "weisili_xiao_na",
+      "role": "重要配角",
+      "basis": "明确为纳尔逊之子，验尸、雾与协助逃离"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "井上次雄",
+      "reason": "祖传物主及调查协助人，非井上长老；单书辅助，无独立主角线。"
+    },
+    {
+      "name": "佐佐木博士、草田芳子、林伟",
+      "reason": "受害者与调查线索，未满足跨书重要配角或自主反派条件。"
+    },
+    {
+      "name": "史蒂少校",
+      "reason": "单书法律援助者，身份不等于本系列常驻杰克。"
+    },
+    {
+      "name": "三名炸毁月神会的年轻人",
+      "reason": "联合爆破行动，未作独立实名刻画；寄生导致提前引爆的行为归飞魔。"
+    },
+    {
+      "name": "月神会普通守卫、各国特工",
+      "reason": "从属或匿名群体，不虚构个体身份。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_754a09c0d9f78b99",
+      "statement": "同学形态与数学",
+      "annotation_character_ids": [
+        "weisili_fang_tian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fbd385caafd79b16",
+      "statement": "高级警官与特种证件",
+      "annotation_character_ids": [
+        "weisili_naerxun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca03354e0043c888",
+      "statement": "身份、家庭与感情背景",
+      "annotation_character_ids": [
+        "weisili_sasaki_jizi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a08b1ce970f9b01f",
+      "statement": "工程师与现场危机",
+      "annotation_character_ids": [
+        "weisili_kimura_xin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f96e67b977c0182",
+      "statement": "地球停留时间",
+      "annotation_character_ids": [
+        "weisili_fang_tian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_94f1952c57993592",
+      "statement": "潜入配合",
+      "annotation_character_ids": [
+        "weisili_naerxun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47f482483e69d1da",
+      "statement": "命令、外貌区分与枪械",
+      "annotation_character_ids": [
+        "weisili_inoue_elder"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7aa0699fe38bc509",
+      "statement": "警觉、反击和被擒",
+      "annotation_character_ids": [
+        "weisili_inoue_elder"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_31ff81cb95d5d6a5",
+      "statement": "供出囚禁地点",
+      "annotation_character_ids": [
+        "weisili_inoue_elder"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3712a55698af8a9d",
+      "statement": "圣女室囚禁",
+      "annotation_character_ids": [
+        "weisili_sasaki_jizi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ac30fc55dc08be13",
+      "statement": "救援困境",
+      "annotation_character_ids": [
+        "weisili_sasaki_jizi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_27b939265138cc5f",
+      "statement": "寄生识别及头罩边界",
+      "annotation_character_ids": [
+        "weisili_fang_tian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dfc4667f5cc8aa2e",
+      "statement": "寄生、记忆和繁殖不确定性",
+      "annotation_character_ids": [
+        "weisili_wu_xing_feimo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_edeb3d8af575ab8d",
+      "statement": "寄生与死亡",
+      "annotation_character_ids": [
+        "weisili_kimura_xin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed534abea2b8e82c",
+      "statement": "总部毁灭",
+      "annotation_character_ids": [
+        "weisili_inoue_elder"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5563c8e4bba3f559",
+      "statement": "死亡与方天愿望",
+      "annotation_character_ids": [
+        "weisili_sasaki_jizi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8079a17f42928fc8",
+      "statement": "提前爆炸及物理攻击限制",
+      "annotation_character_ids": [
+        "weisili_wu_xing_feimo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_115cdf67a6e65097",
+      "statement": "掉包时序及本人责任",
+      "annotation_character_ids": [
+        "weisili_kimura_xin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c7bd08d0aef4c666",
+      "statement": "记忆被寄生者保留",
+      "annotation_character_ids": [
+        "weisili_kimura_xin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f1fe9668d47761c0",
+      "statement": "宿主记忆保留",
+      "annotation_character_ids": [
+        "weisili_wu_xing_feimo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b3ede89324e8a33",
+      "statement": "装置操作",
+      "annotation_character_ids": [
+        "weisili_fang_tian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b2348af26a74bad3",
+      "statement": "最后寄生和消灭",
+      "annotation_character_ids": [
+        "weisili_wu_xing_feimo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9980fe5bfd9a8fa6",
+      "statement": "寄生者借用身体",
+      "annotation_character_ids": [
+        "weisili_naerxun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e93776d9e7093428",
+      "statement": "身份、调查与权限",
+      "annotation_character_ids": [
+        "weisili_qifeier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d4c9935f4396c806",
+      "statement": "父死后同意验尸",
+      "annotation_character_ids": [
+        "weisili_xiao_na"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86efb6ebb660a9c0",
+      "statement": "原人格已死",
+      "annotation_character_ids": [
+        "weisili_naerxun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_41ae65661076c47e",
+      "statement": "原人格已消失",
+      "annotation_character_ids": [
+        "weisili_wu_xing_feimo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_14618ee893675e5a",
+      "statement": "信任卫判断",
+      "annotation_character_ids": [
+        "weisili_xiao_na"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1bdec9421ad08eba",
+      "statement": "双向思想传讯",
+      "annotation_character_ids": [
+        "weisili_fang_tian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4add3a99e644f0fa",
+      "statement": "听取证据",
+      "annotation_character_ids": [
+        "weisili_qifeier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6552441ad35e4a09",
+      "statement": "旁人担心误判",
+      "annotation_character_ids": [
+        "weisili_qifeier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5ffc36f979617bbe",
+      "statement": "最终避险命令",
+      "annotation_character_ids": [
+        "weisili_qifeier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_98db66bfa5ab48d2",
+      "statement": "终局不确定",
+      "annotation_character_ids": [
+        "weisili_fang_tian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

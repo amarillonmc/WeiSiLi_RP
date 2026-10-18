@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0",
+  "id": "book_7667762f571b",
+  "title": "换头记",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/014换头记.txt",
+  "file": "books/book_7667762f571b.json",
+  "inherited_fact_count": 34,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "091da9f8184a0806b54c1cacab25d0ec4d4e32a3d3be0ce9d32e5e60fead9fa6",
+  "source_lines": 2684,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "奥斯",
+      "card_id": "weisili_aosi",
+      "role": "单书主角",
+      "basis": "移植研究与伦理选择"
+    },
+    {
+      "name": "灵魂",
+      "card_id": "weisili_soul",
+      "role": "反派",
+      "basis": "绑架、强迫和战争威胁"
+    },
+    {
+      "name": "Ａ区主席",
+      "card_id": "weisili_a_chairman",
+      "role": "反派",
+      "basis": "统治与换体利益主体"
+    },
+    {
+      "name": "平东",
+      "card_id": "weisili_pingdong",
+      "role": "阶段性对立者",
+      "basis": "科学家争夺与责任交涉"
+    },
+    {
+      "name": "京版",
+      "card_id": "weisili_jingban",
+      "role": "阶段性对立者",
+      "basis": "被控制的蛊师拒绝伤害"
+    },
+    {
+      "name": "四名铁砂掌护卫",
+      "card_id": "weisili_soul_four_palms",
+      "role": "反派",
+      "basis": "集体惩戒和看守"
+    },
+    {
+      "name": "供体",
+      "card_id": "weisili_head_donor",
+      "role": "单书主线人物",
+      "basis": "强迫自愿与术后新身体"
+    },
+    {
+      "name": "巴图",
+      "card_id": "weisili_batu",
+      "role": "重要配角",
+      "basis": "营救、情报与突入"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "主席夫人、副主席、勒柏辛斯卡、桃版、其他医生和卫兵",
+      "reason": "多为背景提及、回述或职务执行，未在本书构成独立主线行动；桃版若于他书实际出场另按该书判断。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c9f6f2d258d0290a",
+      "statement": "研究经历与政治戒心",
+      "annotation_character_ids": [
+        "weisili_aosi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_151d94c9b155c9f4",
+      "statement": "统治身份",
+      "annotation_character_ids": [
+        "weisili_a_chairman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6bc68b4f24cd6c4c",
+      "statement": "代号与权力",
+      "annotation_character_ids": [
+        "weisili_soul"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d73ab6f8fb6bc8c2",
+      "statement": "权力焦虑",
+      "annotation_character_ids": [
+        "weisili_soul"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5758756c7e47f902",
+      "statement": "工具及父亲关系",
+      "annotation_character_ids": [
+        "weisili_jingban"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7bc5346e34c7539",
+      "statement": "受辱仍拒绝下蛊",
+      "annotation_character_ids": [
+        "weisili_jingban"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_452c900334f917b7",
+      "statement": "控制京版",
+      "annotation_character_ids": [
+        "weisili_soul"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0fa3829f7c96dad0",
+      "statement": "自由要求被阻与苦衷",
+      "annotation_character_ids": [
+        "weisili_jingban"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2de6b066a0fee482",
+      "statement": "会面与换头情报",
+      "annotation_character_ids": [
+        "weisili_pingdong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0918aba20beea5c8",
+      "statement": "据点失守反应",
+      "annotation_character_ids": [
+        "weisili_pingdong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_398da54ca3238bbd",
+      "statement": "责任争执和危险警告",
+      "annotation_character_ids": [
+        "weisili_pingdong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_279ee4f86aa14ad5",
+      "statement": "巴图联络",
+      "annotation_character_ids": [
+        "weisili_pingdong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cac2de7a23bdafc1",
+      "statement": "拼接情报和外交安排",
+      "annotation_character_ids": [
+        "weisili_batu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cd5841343876be74",
+      "statement": "核事故与身体损伤推断",
+      "annotation_character_ids": [
+        "weisili_a_chairman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5053f5df1f1dceb",
+      "statement": "拦阻与武术身份",
+      "annotation_character_ids": [
+        "weisili_soul_four_palms"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_50479aed74782eac",
+      "statement": "旧仇和奉命理由",
+      "annotation_character_ids": [
+        "weisili_soul_four_palms"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b743b51b0c78654",
+      "statement": "实战、脱臼与制服",
+      "annotation_character_ids": [
+        "weisili_soul_four_palms"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c9909f0fbfe69e9d",
+      "statement": "轻敌与铁砂掌挫败",
+      "annotation_character_ids": [
+        "weisili_batu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_44ec9168de2889c9",
+      "statement": "医学和伦理冲突",
+      "annotation_character_ids": [
+        "weisili_aosi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_abbb30c87f85fc39",
+      "statement": "健康供体与保留头部",
+      "annotation_character_ids": [
+        "weisili_head_donor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aff27a1102f2d676",
+      "statement": "继续护卫",
+      "annotation_character_ids": [
+        "weisili_soul_four_palms"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0e0590658fb0c8fd",
+      "statement": "战争威胁与公开策略",
+      "annotation_character_ids": [
+        "weisili_soul"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6960164b46e6a388",
+      "statement": "等待、恐惧及强迫真相",
+      "annotation_character_ids": [
+        "weisili_head_donor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1b1bcb32b8fce73b",
+      "statement": "拒绝把供体当可杀对象",
+      "annotation_character_ids": [
+        "weisili_aosi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_96d005e08b658e4e",
+      "statement": "误认卫斯理",
+      "annotation_character_ids": [
+        "weisili_aosi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dfcada50fc14d0a3",
+      "statement": "手术前身份与自我问题",
+      "annotation_character_ids": [
+        "weisili_a_chairman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_765f800c490225b2",
+      "statement": "识别和照护",
+      "annotation_character_ids": [
+        "weisili_aosi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76e74700c4f60095",
+      "statement": "受主席制止",
+      "annotation_character_ids": [
+        "weisili_soul"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f4830b59db78ce2d",
+      "statement": "命令保护卫斯理",
+      "annotation_character_ids": [
+        "weisili_a_chairman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_24afa2c31ea12e40",
+      "statement": "受困与友谊",
+      "annotation_character_ids": [
+        "weisili_batu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71a2d9e3c19742ce",
+      "statement": "释放",
+      "annotation_character_ids": [
+        "weisili_soul"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_817f0dcfeafe5a6f",
+      "statement": "术后公开和声带损伤",
+      "annotation_character_ids": [
+        "weisili_a_chairman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_88310772370c339f",
+      "statement": "第二次接头成功",
+      "annotation_character_ids": [
+        "weisili_head_donor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a752e60bff5691ea",
+      "statement": "两次手术结局",
+      "annotation_character_ids": [
+        "weisili_aosi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

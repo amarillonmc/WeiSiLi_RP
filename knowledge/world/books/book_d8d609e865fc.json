@@ -1,0 +1,262 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d8d609e865fc",
+  "title": "古屋奇影",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/54古屋奇影.txt",
+  "file": "books/book_d8d609e865fc.json",
+  "inherited_fact_count": 20,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "b2be965c4b9b93d2e55f915e8814431739406edd7e8a62f2680ffcf702e89e88",
+  "source_lines": 2426,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "黄成坊",
+      "card_id": "mulanhua_huang_chengfang",
+      "role": "反派",
+      "basis": "伪钞工程主使与终局。"
+    },
+    {
+      "name": "黄焕芬",
+      "card_id": "mulanhua_huang_huanfen",
+      "role": "单书主角",
+      "basis": "无意传讯、指认叔父同伙与身后反思。"
+    },
+    {
+      "name": "丁孟生",
+      "card_id": "mulanhua_ding_mengsheng",
+      "role": "反派",
+      "basis": "具名核心成员，药酒与总务掩护。"
+    },
+    {
+      "name": "九金刚",
+      "card_id": "mulanhua_jiujingang",
+      "role": "反派群体",
+      "basis": "固定九人技术作案团伙。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "系列主角",
+      "basis": "银行现场与富豪调查。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "独宿古屋事件。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "共同调查救援。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "工程现场专业判断。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "跨书重要配角",
+      "basis": "设备采购调查。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "跨书重要配角",
+      "basis": "指挥警务与银行协调。"
+    },
+    {
+      "name": "杨科长",
+      "card_id": "mulanhua_yang_chief",
+      "role": "跨书重要配角",
+      "basis": "实际承担刑案调查；综合卡另记录59腐败与死亡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "季元发／季之发",
+      "reason": "旧管理员受害者，死亡作为掩护人事变动的线索，无独立行动主线；原文有异写。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_24fd4302ef07c752",
+      "statement": "掘进银行和烟雾装置。",
+      "annotation_character_ids": [
+        "mulanhua_jiujingang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1dc3a2a149a14c80",
+      "statement": "鬼屋话题来源及报警。",
+      "annotation_character_ids": [
+        "mulanhua_huang_huanfen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1c6310436e23c272",
+      "statement": "管理员死亡线索。",
+      "annotation_character_ids": [
+        "mulanhua_yang_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_371990a69c4e0232",
+      "statement": "药酒造成延误。",
+      "annotation_character_ids": [
+        "mulanhua_ding_mengsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e9cba971a64c8c4c",
+      "statement": "设备条件、业主与替换管理员。",
+      "annotation_character_ids": [
+        "mulanhua_huang_chengfang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c8e765d9c296e9c8",
+      "statement": "总务职员与录用掩护。",
+      "annotation_character_ids": [
+        "mulanhua_ding_mengsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_34890c5356f8a49f",
+      "statement": "油墨残留。",
+      "annotation_character_ids": [
+        "mulanhua_huang_chengfang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6cdcda8ac7f5fb89",
+      "statement": "残留油墨。",
+      "annotation_character_ids": [
+        "mulanhua_jiujingang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5dbeebbd952667f0",
+      "statement": "真假钞对换。",
+      "annotation_character_ids": [
+        "mulanhua_jiujingang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_85a9919cd50beaba",
+      "statement": "伪钞替换及烟的用途。",
+      "annotation_character_ids": [
+        "mulanhua_huang_chengfang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f717e48a7ad3c905",
+      "statement": "性格、两次谈话和辨认准备。",
+      "annotation_character_ids": [
+        "mulanhua_huang_huanfen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e57ee11686b44033",
+      "statement": "会面及画像指认。",
+      "annotation_character_ids": [
+        "mulanhua_ding_mengsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_13a178bed04edeca",
+      "statement": "道路与药酒参与者画像。",
+      "annotation_character_ids": [
+        "mulanhua_jiujingang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_586d2fb5df42b705",
+      "statement": "指认与情感反应。",
+      "annotation_character_ids": [
+        "mulanhua_huang_huanfen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee9ff39c76a3094c",
+      "statement": "侄女指认与资金困境。",
+      "annotation_character_ids": [
+        "mulanhua_huang_chengfang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2afd5d40283c9965",
+      "statement": "所谓出卖是诈问。",
+      "annotation_character_ids": [
+        "mulanhua_ding_mengsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2d9cd737d727907d",
+      "statement": "诈问、供述、死亡和赃款。",
+      "annotation_character_ids": [
+        "mulanhua_huang_chengfang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_81789c298bb2e26a",
+      "statement": "九人分赃与逃往南美。",
+      "annotation_character_ids": [
+        "mulanhua_ding_mengsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b1e1385457b77e43",
+      "statement": "人数、专家分工和外逃。",
+      "annotation_character_ids": [
+        "mulanhua_jiujingang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2fbdf93a452005be",
+      "statement": "生活来源和终局对话。",
+      "annotation_character_ids": [
+        "mulanhua_huang_huanfen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

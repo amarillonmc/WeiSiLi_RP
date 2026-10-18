@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0",
+  "id": "book_460f6aca3017",
+  "title": "改变",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/103改变.txt",
+  "file": "books/book_460f6aca3017.json",
+  "inherited_fact_count": 10,
+  "curated_links": {
+    "entities": [
+      "underworld"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "172333a4ef1943dd3e24d1c3d12d9ce968a64b1274fbe6bba2cfc556fa6f2a2c",
+  "source_lines": 2758,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "齐白",
+      "card_id": "weisili_qi_bai",
+      "role": "重要配角",
+      "basis": "实际参与调查、通讯或思想联系"
+    },
+    {
+      "name": "李宣宣",
+      "card_id": "weisili_li_xuanxuan",
+      "role": "重要配角",
+      "basis": "实际参与调查、通讯或思想联系"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "实际参与调查、通讯或思想联系"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "实际参与调查、通讯或思想联系"
+    },
+    {
+      "name": "阴间一号",
+      "card_id": "weisili_yin_1",
+      "role": "重要配角",
+      "basis": "实际参与调查、通讯或思想联系"
+    },
+    {
+      "name": "阴间二号",
+      "card_id": "weisili_yin_2",
+      "role": "重要配角",
+      "basis": "实际参与调查、通讯或思想联系"
+    },
+    {
+      "name": "阴间三号",
+      "card_id": "weisili_yin_3",
+      "role": "重要配角",
+      "basis": "实际参与调查、通讯或思想联系"
+    },
+    {
+      "name": "阴间四号",
+      "card_id": "weisili_yin_4",
+      "role": "重要配角",
+      "basis": "实际参与调查、通讯或思想联系"
+    },
+    {
+      "name": "成吉思汗（改变中的小说形象）",
+      "card_id": "weisili_genghis_khan",
+      "role": "反派",
+      "basis": "历史关键对立行为或终局自主行动"
+    },
+    {
+      "name": "神秘高人（游侠）",
+      "card_id": "weisili_you_xia",
+      "role": "重要配角",
+      "basis": "105明确神秘高人身份，合入游侠主卡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "万夫长甲、万夫长乙及其他古人记忆",
+      "reason": "单书信息提供者，没有独立主角线；不把被记录的每段记忆都扩写为战斗角色。"
+    },
+    {
+      "name": "洛神及曹植",
+      "reason": "齐白收藏与前情联系中的人物，未有本书的新自主行动。"
+    },
+    {
+      "name": "考古队长、队员与同行人员",
+      "reason": "一次性辅助角色。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_f4a5bf738b99a3fe",
+      "statement": "闭帐与仪器推断",
+      "annotation_character_ids": [
+        "weisili_genghis_khan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9c64a0b406f0de3e",
+      "statement": "陵墓工程和毒杀推测",
+      "annotation_character_ids": [
+        "weisili_genghis_khan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7ae8560a181fbfe",
+      "statement": "顾问身份",
+      "annotation_character_ids": [
+        "weisili_you_xia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_61c8346977396126",
+      "statement": "自称同类与反利用",
+      "annotation_character_ids": [
+        "weisili_you_xia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ae683cf019f691ff",
+      "statement": "自由立场和技术边界",
+      "annotation_character_ids": [
+        "weisili_you_xia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed8358e02231f383",
+      "statement": "自由原则、思想仪屏蔽、敷衍部件搜集",
+      "annotation_character_ids": [
+        "weisili_you_xia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7eb746fc908d7665",
+      "statement": "电离层与思想仪限制",
+      "annotation_character_ids": [
+        "weisili_yin_4"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2770995577d63346",
+      "statement": "海底陵墓",
+      "annotation_character_ids": [
+        "weisili_genghis_khan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e18c3af16ef5faec",
+      "statement": "海中电离子层与帐顶装置形成信息死角，非无处不知",
+      "annotation_character_ids": [
+        "weisili_di_ke",
+        "weisili_yin_1",
+        "weisili_yin_2",
+        "weisili_yin_3",
+        "weisili_yin_4"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_28117374760edcf5",
+      "statement": "屏蔽装置与终局",
+      "annotation_character_ids": [
+        "weisili_you_xia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

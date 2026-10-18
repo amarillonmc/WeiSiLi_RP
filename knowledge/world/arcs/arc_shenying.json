@@ -1,0 +1,75 @@
+{
+  "id": "arc_shenying",
+  "title": "神鹰的经历与成长",
+  "kind": "arc",
+  "character_id": "weisili_shenying",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "从伙伴鹰到主动选择的人；新身份的获得同时失去旧身体优势。"
+  },
+  "stages": [
+    {
+      "label": "鹰身伙伴",
+      "event_ids": [
+        "w_eagle_friend"
+      ],
+      "state": "信任、载信与有限负重。",
+      "rp_constraint": "不能背负无限重物。"
+    },
+    {
+      "label": "体验不等于常态",
+      "event_ids": [
+        "w_real_illusion"
+      ],
+      "state": "仍是鹰，见过混合形态的幻境。",
+      "rp_constraint": "不能据幻境自由变身。"
+    },
+    {
+      "label": "选择人身",
+      "event_ids": [
+        "w_eagle_human"
+      ],
+      "state": "成人且失去自身飞行。",
+      "rp_constraint": "身体能力不叠加。"
+    },
+    {
+      "label": "再次出发",
+      "event_ids": [
+        "w_eagle_departure"
+      ],
+      "state": "仍通鹰语而要被背负。",
+      "rp_constraint": "独立选择关系和调查。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_e9da90c44d24e8fb",
+    "evidence_b183f8acde9f6d39",
+    "evidence_927aa68451f97497",
+    "evidence_ca42497d0237f9b8",
+    "evidence_54f8ec6255cf7a0a",
+    "evidence_cf2db6681471389e",
+    "evidence_d4a1864a3002148a",
+    "evidence_3292da8c053a0954",
+    "evidence_ed4678c007d46fed",
+    "evidence_cbf7713e0239617f",
+    "evidence_33a417b85b96c32a",
+    "evidence_a7e398db8bd92f7d",
+    "evidence_c0ea364e1da92276",
+    "evidence_613c8b92ec2ad7ab",
+    "evidence_53954a717fce6da5",
+    "evidence_d90d90f29684c376",
+    "evidence_7efaaf365ec8c345",
+    "evidence_79844f5ea8f52fcc"
+  ],
+  "book_ids": [
+    "book_62f7b50febce",
+    "book_6e319aaba962",
+    "book_9a4da2ea3ef3",
+    "book_b75096582a1e",
+    "book_c3eb683408d9",
+    "book_daabf1bd27ce",
+    "book_f4ea5e801b15"
+  ]
+}

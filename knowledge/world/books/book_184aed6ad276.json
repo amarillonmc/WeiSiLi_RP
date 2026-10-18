@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0",
+  "id": "book_184aed6ad276",
+  "title": "蜘蛛陷阱",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/35蜘蛛陷阱.txt",
+  "file": "books/book_184aed6ad276.json",
+  "inherited_fact_count": 33,
+  "curated_links": {
+    "arcs": [
+      "arc_gaoxiang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "3343707dc102958563380573b6f5e1dea8f98979eb197725bda263e72c9d07dc",
+  "source_lines": 2466,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "秦蕙兰",
+      "card_id": "mulanhua_qin_huilan",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "秦蕙苓",
+      "card_id": "mulanhua_qin_huiling",
+      "role": "单书主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "屈宝宗",
+      "card_id": "mulanhua_qu_baozong",
+      "role": "单书主角/有犯罪前史的关键人物",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "宋先生（吃人花部属）",
+      "card_id": "mulanhua_song_marksman",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "阿彩",
+      "card_id": "mulanhua_acai",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "解森",
+      "card_id": "mulanhua_jies_en",
+      "role": "反派/转为合作者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "罗拨（蜘蛛陷阱）",
+      "card_id": "mulanhua_luobo",
+      "role": "反派/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "大合成、西塘之虎",
+      "reason": "罗拨口供中提到的本地头目，仅知假花王；未见独立行动或跨书身份，作为本案组织背景记录。"
+    },
+    {
+      "name": "两名假经理、解森司机、船上尾舱与巡逻枪手",
+      "reason": "一次性匿名执行者，独立身份及持续个人线未成立；具体绑架、叛骗、战斗与被控行为归入所属角色的条件支援。"
+    },
+    {
+      "name": "七号及另外两名旧党头目",
+      "reason": "仅电话供给跟踪情报和背景分财线，不给没有独立行动的代号补造个人经历。"
+    },
+    {
+      "name": "贝蒙、阿宁、老吴等住处名单人物",
+      "reason": "虚假送件指示或住宅名单中提及，未证明实际独立角色行动。"
+    },
+    {
+      "name": "云四风、方局长",
+      "reason": "本书仅借艇来源与取得临时戒严令的安排提及，未新增独立出场线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d10d95668d3c4421",
+      "statement": "最初求救电话",
+      "annotation_character_ids": [
+        "mulanhua_qin_huiling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_829d19080087ee3a",
+      "statement": "少年恶作剧表演与被制",
+      "annotation_character_ids": [
+        "mulanhua_luobo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ef87848bf8569c21",
+      "statement": "假遗孀故事与公益诱饵",
+      "annotation_character_ids": [
+        "mulanhua_qin_huilan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c80896b405bf111",
+      "statement": "企业与存款矛盾",
+      "annotation_character_ids": [
+        "mulanhua_qu_baozong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e9acb497c55d1905",
+      "statement": "亏损账簿及空难",
+      "annotation_character_ids": [
+        "mulanhua_qu_baozong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_29482d741bac765e",
+      "statement": "形貌、拳茧与流派",
+      "annotation_character_ids": [
+        "mulanhua_acai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c51d0020fa211f82",
+      "statement": "真实年龄与被挟持",
+      "annotation_character_ids": [
+        "mulanhua_luobo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45c976699bee6639",
+      "statement": "招供、头目及被击昏",
+      "annotation_character_ids": [
+        "mulanhua_luobo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f8e4b595aa3f3a0",
+      "statement": "劈木、抗击、武术比较与撤枪手",
+      "annotation_character_ids": [
+        "mulanhua_acai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a504dc8fe0ef43c3",
+      "statement": "诱撞墙、伤指、脱臼",
+      "annotation_character_ids": [
+        "mulanhua_acai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fff3c2d1235551a8",
+      "statement": "阻止杀人和机场手语",
+      "annotation_character_ids": [
+        "mulanhua_song_marksman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_01d2f4e63a94bde8",
+      "statement": "假警官绑架失败",
+      "annotation_character_ids": [
+        "mulanhua_jies_en"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b1f3093e8eec593",
+      "statement": "要求杀俘虏",
+      "annotation_character_ids": [
+        "mulanhua_acai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_61e3e940de95e2d7",
+      "statement": "人质利用及真实身份",
+      "annotation_character_ids": [
+        "mulanhua_qin_huilan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83387bd51f94fa8d",
+      "statement": "劝姐姐止杀和真实身份",
+      "annotation_character_ids": [
+        "mulanhua_qin_huiling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6f23588a868ac4b1",
+      "statement": "决定帮助、挡住视线",
+      "annotation_character_ids": [
+        "mulanhua_qin_huiling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f47179c208c3109",
+      "statement": "持枪与联络",
+      "annotation_character_ids": [
+        "mulanhua_song_marksman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b668551d9fef84e",
+      "statement": "谈判、姓名与旧日脱身",
+      "annotation_character_ids": [
+        "mulanhua_jies_en"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f715b811f866fce4",
+      "statement": "未死、夺权、司库与谋杀链",
+      "annotation_character_ids": [
+        "mulanhua_qin_huilan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_25d0f3b40d0f4ec8",
+      "statement": "旧日枪战",
+      "annotation_character_ids": [
+        "mulanhua_song_marksman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b7eb92ddad207d40",
+      "statement": "司库身份、整容、分款条件与死亡",
+      "annotation_character_ids": [
+        "mulanhua_qu_baozong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c85e267f203024dc",
+      "statement": "追钱和威胁",
+      "annotation_character_ids": [
+        "mulanhua_jies_en"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a0286042c283285a",
+      "statement": "丈夫与善良性格",
+      "annotation_character_ids": [
+        "mulanhua_qin_huiling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_58272c0aaa692a81",
+      "statement": "与警方合作和终局安置",
+      "annotation_character_ids": [
+        "mulanhua_jies_en"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f3c9f418ea7a89d",
+      "statement": "递箱与炸弹威胁",
+      "annotation_character_ids": [
+        "mulanhua_song_marksman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c4de7a8090432cb",
+      "statement": "船上监视机关",
+      "annotation_character_ids": [
+        "mulanhua_qin_huilan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d443cee2cda68349",
+      "statement": "封闭底舱杀人",
+      "annotation_character_ids": [
+        "mulanhua_qin_huilan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8ad48ba1b1e96caa",
+      "statement": "误救与落海",
+      "annotation_character_ids": [
+        "mulanhua_acai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_06e2a39f76bc5704",
+      "statement": "误射死亡",
+      "annotation_character_ids": [
+        "mulanhua_qin_huilan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a30293f09b36faef",
+      "statement": "误射、被反杀及死亡确认",
+      "annotation_character_ids": [
+        "mulanhua_song_marksman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f599ecd0432b079f",
+      "statement": "远置电筒诱敌耗弹",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f24adc48ac474c08",
+      "statement": "获救和失姐后的反应",
+      "annotation_character_ids": [
+        "mulanhua_qin_huiling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_acfe56b5755349c0",
+      "statement": "炸弹骗局揭开",
+      "annotation_character_ids": [
+        "mulanhua_qin_huilan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

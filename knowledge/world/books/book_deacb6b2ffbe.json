@@ -1,0 +1,227 @@
+{
+  "schema_version": "1.0",
+  "id": "book_deacb6b2ffbe",
+  "title": "消失女神",
+  "aliases": [],
+  "series": "年轻人",
+  "source_path": "年轻人/11消失女神.txt",
+  "file": "books/book_deacb6b2ffbe.json",
+  "inherited_fact_count": 18,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "52245665e60eebf670b4d95ebadcaafc396e7c60fc5137745bec23eabcf7b010",
+  "source_lines": 1317,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "年轻人",
+      "card_id": "adventure_young",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "奥丽卡公主",
+      "card_id": "adventure_princess",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "冯夫人",
+      "card_id": "adventure_feng_furen",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "井上恭二",
+      "card_id": "adventure_inoue",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "川崎信子",
+      "card_id": "adventure_nobuko",
+      "role": "单书主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "山水",
+      "card_id": "adventure_shanshui",
+      "role": "单书主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "黎文祥",
+      "card_id": "adventure_liwenxiang",
+      "role": "反派",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "青龙",
+      "card_id": "yuanzhenxia_qinglong",
+      "role": "重要配角",
+      "basis": "后期洞居、救助少年及放下寻人的选择补入原振侠批"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "阮山羊博士",
+      "reason": "一次性精神研究辅助者。"
+    },
+    {
+      "name": "胡非尔、考曼",
+      "reason": "本书相关回想不足以判为新实质登场。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_60bc920a8bab0e24",
+      "statement": "出身与创业",
+      "annotation_character_ids": [
+        "adventure_inoue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a250b9c32eb05ccd",
+      "statement": "创业资金与既有事业",
+      "annotation_character_ids": [
+        "adventure_nobuko"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c8f1e1bc80f9550f",
+      "statement": "黎文祥交易",
+      "annotation_character_ids": [
+        "adventure_inoue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee0d5d26895fadf7",
+      "statement": "身份与交易",
+      "annotation_character_ids": [
+        "adventure_liwenxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5447c181bed23a7c",
+      "statement": "以小换大与保密",
+      "annotation_character_ids": [
+        "adventure_liwenxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3d78535c342780a9",
+      "statement": "风险条件与路线",
+      "annotation_character_ids": [
+        "adventure_inoue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bf40504cf24f1b47",
+      "statement": "建国目的和拒绝",
+      "annotation_character_ids": [
+        "adventure_liwenxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_78641a5092e99125",
+      "statement": "交涉尴尬、玉镯与关系",
+      "annotation_character_ids": [
+        "adventure_nobuko"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b5dc7f37074301b",
+      "statement": "名字、年龄与谈话",
+      "annotation_character_ids": [
+        "adventure_shanshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_58dfff8a78faf4de",
+      "statement": "山洞生活、矫捷与托付山水",
+      "annotation_character_ids": [
+        "yuanzhenxia_qinglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b22204af3a8e7b88",
+      "statement": "自学、论文与非外星自述",
+      "annotation_character_ids": [
+        "adventure_shanshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_581c1d0138cf7466",
+      "statement": "旧衣感应、选择不打扰和同一人物确认",
+      "annotation_character_ids": [
+        "yuanzhenxia_qinglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_26388dcd29262f0e",
+      "statement": "阅读表现",
+      "annotation_character_ids": [
+        "adventure_shanshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_061d62b0104db266",
+      "statement": "协助与后续",
+      "annotation_character_ids": [
+        "adventure_inoue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_713e76cd763656c5",
+      "statement": "协助和后续",
+      "annotation_character_ids": [
+        "adventure_nobuko"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dfac1694bd3cd5b4",
+      "statement": "后续可求助渠道",
+      "annotation_character_ids": [
+        "adventure_hufeier",
+        "adventure_kaoman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_97cbaf8592e0f767",
+      "statement": "接待山水",
+      "annotation_character_ids": [
+        "adventure_feng_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b1ab58a23a93c413",
+      "statement": "到瑞士与自主联络",
+      "annotation_character_ids": [
+        "adventure_shanshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

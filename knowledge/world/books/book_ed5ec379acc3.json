@@ -1,0 +1,360 @@
+{
+  "schema_version": "1.0",
+  "id": "book_ed5ec379acc3",
+  "title": "无风自动",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/59无风自动.txt",
+  "file": "books/book_ed5ec379acc3.json",
+  "inherited_fact_count": 30,
+  "curated_links": {
+    "arcs": [
+      "arc_muxiuzhen"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "aec7bd2e24e36b2795b806151a102261c57304bd8307b68ecef462f88124b5d4",
+  "source_lines": 2164,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "平濑荣作",
+      "card_id": "mulanhua_pinglai_rongsaku",
+      "role": "反派",
+      "basis": "基地、假死、贿赂与政治计划主谋。"
+    },
+    {
+      "name": "戴维斯",
+      "card_id": "mulanhua_davis_major",
+      "role": "单书主角",
+      "basis": "战时见证和本案核心受害者。"
+    },
+    {
+      "name": "安东尼教授",
+      "card_id": "mulanhua_anthony_explorer",
+      "role": "单书主角",
+      "basis": "独立调查、手稿与失踪核心线。"
+    },
+    {
+      "name": "杨科长",
+      "card_id": "mulanhua_yang_chief",
+      "role": "跨书重要配角、反派",
+      "basis": "旧日合作者被收买并死于骗局。"
+    },
+    {
+      "name": "平濑外勤行动队",
+      "card_id": "mulanhua_pinglai_field_team",
+      "role": "反派",
+      "basis": "有协同行动的匿名群像。"
+    },
+    {
+      "name": "旅馆伏击者",
+      "card_id": "mulanhua_pinglai_hotel_assassin",
+      "role": "反派",
+      "basis": "旅馆与船上明确同一执行者。"
+    },
+    {
+      "name": "大庭龙男",
+      "card_id": "mulanhua_dating_longnan",
+      "role": "跨书重要配角",
+      "basis": "实际调阅情报，协助确认平濑旧日身份和劳工计划。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "被陷害、脱困、近战与救回主谋。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "手稿与英国调查、救援搜寻。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "系列主角",
+      "basis": "调查、绳梯救援与转述口供。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "救援行动和设备协助。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "跨书重要配角",
+      "basis": "母子直升机设计与搜救支持。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "范探员",
+      "reason": "一次性取证和证人配角，未证参与贿赂，不能仅因拍摄便列反派。"
+    },
+    {
+      "name": "货船船长、信号站人员",
+      "reason": "运输调包造成的误会，没有证据参与阴谋。"
+    },
+    {
+      "name": "神庙附近普通居民",
+      "reason": "受到神迹骗局影响的人群，不将民族整体列作反派。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_b5f6ec1e72b8de1e",
+      "statement": "两册手稿和二十七个事件。",
+      "annotation_character_ids": [
+        "mulanhua_anthony_explorer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dfa289947a84d41d",
+      "statement": "研究经历、戴维斯线索与赴庙失踪。",
+      "annotation_character_ids": [
+        "mulanhua_anthony_explorer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b1ec6cf40a1f3f8",
+      "statement": "战事与安东尼失踪联系。",
+      "annotation_character_ids": [
+        "mulanhua_davis_major"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c13731630263433a",
+      "statement": "旧日军官及投降故事。",
+      "annotation_character_ids": [
+        "mulanhua_pinglai_rongsaku"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9af5e2a264460c93",
+      "statement": "外貌和来访。",
+      "annotation_character_ids": [
+        "mulanhua_davis_major"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_684cdd39074991a8",
+      "statement": "军事行动与平濑说法。",
+      "annotation_character_ids": [
+        "mulanhua_davis_major"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b7f0804c4a4c7807",
+      "statement": "其对神庙和钟声的说法。",
+      "annotation_character_ids": [
+        "mulanhua_pinglai_rongsaku"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_851735e142bd3e84",
+      "statement": "退缩逃离和坠崖。",
+      "annotation_character_ids": [
+        "mulanhua_davis_major"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a21f31e406435a32",
+      "statement": "尸体与刀伤调查。",
+      "annotation_character_ids": [
+        "mulanhua_davis_major"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3220ef069ecaeaa2",
+      "statement": "专业名声、调查穆秀珍与刀伤。",
+      "annotation_character_ids": [
+        "mulanhua_yang_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_29848776bf49c5d6",
+      "statement": "两名潜入者、长途追逐与跳跃接应。",
+      "annotation_character_ids": [
+        "mulanhua_pinglai_field_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b22fd563818cdf5",
+      "statement": "按分工推算人数。",
+      "annotation_character_ids": [
+        "mulanhua_pinglai_field_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e59581ff43c6a6a",
+      "statement": "分头查证其记录。",
+      "annotation_character_ids": [
+        "mulanhua_anthony_explorer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77ecbc85cc26166e",
+      "statement": "指控、拍摄安排及被击倒。",
+      "annotation_character_ids": [
+        "mulanhua_yang_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b07e54afe4b8576d",
+      "statement": "死亡和颈骨伤。",
+      "annotation_character_ids": [
+        "mulanhua_yang_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_237b6432673f18ef",
+      "statement": "旅馆伏击及药物。",
+      "annotation_character_ids": [
+        "mulanhua_pinglai_field_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a3bd34746c308809",
+      "statement": "旅馆隐蔽注药和避击。",
+      "annotation_character_ids": [
+        "mulanhua_pinglai_hotel_assassin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f53f35b9a11502be",
+      "statement": "实际查档、战争态度与资料缺口",
+      "annotation_character_ids": [
+        "mulanhua_dating_longnan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a9bf0b1ac0680657",
+      "statement": "日军情报身份与劳工资料。",
+      "annotation_character_ids": [
+        "mulanhua_pinglai_rongsaku"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f822b0fb751d82a6",
+      "statement": "旧日翻译经历及灭口推断。",
+      "annotation_character_ids": [
+        "mulanhua_yang_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ef76608d7ac2846",
+      "statement": "鞋跟焊枪切铰链而非徒手破钢",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7038b9d3fccb32af",
+      "statement": "船上近战、射箭和麻痹。",
+      "annotation_character_ids": [
+        "mulanhua_pinglai_field_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d6edf113ff1e41ad",
+      "statement": "明确身份回指、短刀交战和落水。",
+      "annotation_character_ids": [
+        "mulanhua_pinglai_hotel_assassin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_208c9934a11ee218",
+      "statement": "持枪及麻痹控制。",
+      "annotation_character_ids": [
+        "mulanhua_pinglai_rongsaku"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e0acc266daff2cbe",
+      "statement": "药效消退及主谋计划。",
+      "annotation_character_ids": [
+        "mulanhua_pinglai_field_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e27d3513b383e02e",
+      "statement": "结尾对遇害及钟声的解释。",
+      "annotation_character_ids": [
+        "mulanhua_anthony_explorer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f68255f2c927e8a8",
+      "statement": "机械基地、野心与落水获救。",
+      "annotation_character_ids": [
+        "mulanhua_pinglai_rongsaku"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_19672b3c3f4aab81",
+      "statement": "救援仍拉平濑上梯",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f56a8525328ec8a",
+      "statement": "口供与假坠崖机制。",
+      "annotation_character_ids": [
+        "mulanhua_pinglai_rongsaku"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_06f97ec6c14cf095",
+      "statement": "贿赂确认。",
+      "annotation_character_ids": [
+        "mulanhua_yang_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

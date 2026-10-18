@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0",
+  "id": "book_48b549bd762f",
+  "title": "金发女",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/12金发女.txt",
+  "file": "books/book_48b549bd762f.json",
+  "inherited_fact_count": 9,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "8e80b4807d5a6b972ddd9d4fad6e0feeae2f24f51729913bab0e73d6c84b861c",
+  "source_lines": 662,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "慧丝",
+      "card_id": "gaosi_huisi",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "慧丝的瘦削联络人",
+      "card_id": "gaosi_huisi_thin_contact",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "喷水池换袋人",
+      "card_id": "gaosi_huisi_bag_contact",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "彼德、小李",
+      "reason": "单书业务介绍者、职员，未在此构成独立主角或对立者。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e313b632fc54f3a0",
+      "statement": "留字时被打断",
+      "annotation_character_ids": [
+        "gaosi_huisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad75d6b425f2dd38",
+      "statement": "强闯失败",
+      "annotation_character_ids": [
+        "gaosi_huisi_thin_contact"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d7c838e7afb95148",
+      "statement": "联络字迹",
+      "annotation_character_ids": [
+        "gaosi_huisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c3033658fd6974eb",
+      "statement": "扮老及破绽",
+      "annotation_character_ids": [
+        "gaosi_huisi_thin_contact"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_766200095cadde02",
+      "statement": "手势接应",
+      "annotation_character_ids": [
+        "gaosi_huisi_thin_contact"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f8ac0b4d61f568e3",
+      "statement": "交换全过程",
+      "annotation_character_ids": [
+        "gaosi_huisi_bag_contact"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_28e2780dc8fa548b",
+      "statement": "交换、持枪与逃跑",
+      "annotation_character_ids": [
+        "gaosi_huisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9123c40209f69a69",
+      "statement": "机场被捕及身份",
+      "annotation_character_ids": [
+        "gaosi_huisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9c77d38cc110cb3a",
+      "statement": "交易性质和款项",
+      "annotation_character_ids": [
+        "gaosi_huisi_bag_contact"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

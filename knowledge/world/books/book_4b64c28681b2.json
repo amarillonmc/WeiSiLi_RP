@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "id": "book_4b64c28681b2",
+  "title": "幽灵星座",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/17.幽灵星座.txt",
+  "file": "books/book_4b64c28681b2.json",
+  "inherited_fact_count": 21,
+  "curated_links": {
+    "events": [
+      "y_heisha"
+    ],
+    "relations": [
+      "before__y_heisha__y_body_rescue"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "1512c711637508d5aa1a4e20a1b8e918bee903ab992eae341bb9d401e3154ed6",
+  "source_lines": 8307,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查"
+    },
+    {
+      "name": "玛仙",
+      "card_id": "yuanzhenxia_ma_xian",
+      "role": "主角",
+      "basis": "术法与守护"
+    },
+    {
+      "name": "刘心芹",
+      "card_id": "yuanzhenxia_liu_xinqin",
+      "role": "单书核心人物",
+      "basis": "主要叙事与终局行动"
+    },
+    {
+      "name": "刘量中",
+      "card_id": "yuanzhenxia_liu_liangzhong",
+      "role": "单书主角",
+      "basis": "主要叙事与终局行动"
+    },
+    {
+      "name": "施哲",
+      "card_id": "yuanzhenxia_shizhe",
+      "role": "单书主角",
+      "basis": "主要叙事与终局行动"
+    },
+    {
+      "name": "黑纱",
+      "card_id": "yuanzhenxia_heisha",
+      "role": "重要配角",
+      "basis": "主要叙事与终局行动"
+    },
+    {
+      "name": "幽灵星座采集使者群体",
+      "card_id": "yuanzhenxia_youming_collectors",
+      "role": "集体反派",
+      "basis": "主要叙事与终局行动"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c8d08a46ae4c8963",
+      "statement": "职业与退休",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_xinqin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a1ee9b2cd84effea",
+      "statement": "死亡与感应",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_xinqin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_07304038245ec1b4",
+      "statement": "相遇与求助",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_liangzhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6b852dcbb1133fc7",
+      "statement": "低温接触与推拉",
+      "annotation_character_ids": [
+        "yuanzhenxia_shizhe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7bebb40f789a498b",
+      "statement": "爱情与背离",
+      "annotation_character_ids": [
+        "yuanzhenxia_shizhe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bf00ff7b16a0ce4b",
+      "statement": "无语言沟通",
+      "annotation_character_ids": [
+        "yuanzhenxia_shizhe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b1f4423bd179ce3",
+      "statement": "穿透仪器与墙",
+      "annotation_character_ids": [
+        "yuanzhenxia_shizhe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_93c5d2ff187b12b0",
+      "statement": "低温接触",
+      "annotation_character_ids": [
+        "yuanzhenxia_youming_collectors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7907a613489042b6",
+      "statement": "被迫退休及父子关系",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_xinqin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b126a484f1ce4e13",
+      "statement": "劝退与威胁",
+      "annotation_character_ids": [
+        "yuanzhenxia_youming_collectors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_475d34818ec43d5f",
+      "statement": "事故前",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_liangzhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6313245fd04e71ff",
+      "statement": "机制推断",
+      "annotation_character_ids": [
+        "yuanzhenxia_shizhe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ca39700498901cc",
+      "statement": "事故干涉",
+      "annotation_character_ids": [
+        "yuanzhenxia_youming_collectors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_54e6041b00751529",
+      "statement": "放弃任务与理解爱情",
+      "annotation_character_ids": [
+        "yuanzhenxia_heisha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6fab567b9757382e",
+      "statement": "研究与边界",
+      "annotation_character_ids": [
+        "yuanzhenxia_youming_collectors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_58cd5e274adcabe1",
+      "statement": "薄片终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_liangzhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f12f67840b7526cf",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_shizhe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83e5f942863ef43a",
+      "statement": "终局薄片与无法联络",
+      "annotation_character_ids": [
+        "yuanzhenxia_shizhe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a2ee7071ba122c7",
+      "statement": "薄片中的点圈与无法联络",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_liangzhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee4464a82b653c4e",
+      "statement": "惩罚与形态",
+      "annotation_character_ids": [
+        "yuanzhenxia_heisha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_315d13932ce91ac5",
+      "statement": "幻变人形而非人类身体",
+      "annotation_character_ids": [
+        "yuanzhenxia_youming_collectors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

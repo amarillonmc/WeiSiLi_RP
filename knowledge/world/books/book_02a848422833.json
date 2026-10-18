@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0",
+  "id": "book_02a848422833",
+  "title": "妖火",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/003妖火.txt",
+  "file": "books/book_02a848422833.json",
+  "inherited_fact_count": 28,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "3d93b33a8bacae99e43876e6f987986b6f2fe3bbe0929ae1486b5bd54cc7f89b",
+  "source_lines": 6137,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "张小龙",
+      "card_id": "weisili_zhang_xiaolong",
+      "role": "单书主角",
+      "basis": "科学家与同归于尽主线"
+    },
+    {
+      "name": "张小娟",
+      "card_id": "weisili_zhang_xiaojuan",
+      "role": "反派",
+      "basis": "独立犯罪策划者与双生感应"
+    },
+    {
+      "name": "张海龙",
+      "card_id": "weisili_zhang_hailong",
+      "role": "单书主角",
+      "basis": "父亲委托与家庭悲剧"
+    },
+    {
+      "name": "汉克",
+      "card_id": "weisili_han_ke",
+      "role": "反派",
+      "basis": "通讯枢纽控制者"
+    },
+    {
+      "name": "甘木",
+      "card_id": "weisili_gan_mu",
+      "role": "反派",
+      "basis": "高层秘书与胁迫"
+    },
+    {
+      "name": "莎芭",
+      "card_id": "weisili_shaba",
+      "role": "反派",
+      "basis": "押送与报复"
+    },
+    {
+      "name": "最高首脑",
+      "card_id": "weisili_yexin_leader",
+      "role": "反派",
+      "basis": "独立领导人格"
+    },
+    {
+      "name": "五郎",
+      "card_id": "weisili_wulang",
+      "role": "阶段性对立者",
+      "basis": "技术职位与逃生关键选择"
+    },
+    {
+      "name": "纳尔逊",
+      "card_id": "weisili_naerxun",
+      "role": "重要配角",
+      "basis": "调查和封存基地"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "家庭实际接应"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "霍华德、白勒克",
+      "reason": "一次性国际警方行动人员，反派疑云后身份澄清；非跨书重要配角、无独立主角线。"
+    },
+    {
+      "name": "罗勃杨（杨天复）、刘森、觉度士及女秘书、船长、大只古",
+      "reason": "寻找科学家的支线人物或遇害者；具体主使恶行未证实，不仅凭被卫怀疑就建立反派卡。"
+    },
+    {
+      "name": "久繁、巡逻员、未署名日本政客",
+      "reason": "在集团中有职位但未展开独立人物线；不靠历史暗示指定现实姓名。"
+    },
+    {
+      "name": "三位医生",
+      "reason": "一次诊断辅助，原文理论与现实医学须区分。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_08c9d97aa8071862",
+      "statement": "化名与财富",
+      "annotation_character_ids": [
+        "weisili_zhang_hailong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6ed74e1e007813b6",
+      "statement": "个人报复意图",
+      "annotation_character_ids": [
+        "weisili_shaba"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0a0070c2c9fd8e1b",
+      "statement": "私人秘书位置",
+      "annotation_character_ids": [
+        "weisili_gan_mu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4103add2e0d18285",
+      "statement": "身份、监控和威逼招募",
+      "annotation_character_ids": [
+        "weisili_gan_mu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71c3180bb45f008f",
+      "statement": "误认与监视处境",
+      "annotation_character_ids": [
+        "weisili_wulang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63ae630493a9ccf7",
+      "statement": "职位诱惑、思乡与工序知识",
+      "annotation_character_ids": [
+        "weisili_wulang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f054cc02574f5cc",
+      "statement": "所提供信息确实支持逃脱",
+      "annotation_character_ids": [
+        "weisili_wulang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f0bf27c2fa175ee",
+      "statement": "毁证、违令与控制现场",
+      "annotation_character_ids": [
+        "weisili_shaba"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d03540e292256638",
+      "statement": "被夺枪反击及死亡",
+      "annotation_character_ids": [
+        "weisili_shaba"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_36cd4c307d363daa",
+      "statement": "岗位、权威依赖和控制装置",
+      "annotation_character_ids": [
+        "weisili_han_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a2da76df0693cd39",
+      "statement": "招揽和威胁",
+      "annotation_character_ids": [
+        "weisili_yexin_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cdb22ac9de622da0",
+      "statement": "不可见身份属保密而非隐身",
+      "annotation_character_ids": [
+        "weisili_yexin_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dd687101e085a891",
+      "statement": "大会反应",
+      "annotation_character_ids": [
+        "weisili_gan_mu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5ed1400fcb935147",
+      "statement": "失误反被擒",
+      "annotation_character_ids": [
+        "weisili_han_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_249750118a95e327",
+      "statement": "崇拜触发死亡",
+      "annotation_character_ids": [
+        "weisili_han_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f866967a77229df7",
+      "statement": "信徒与模糊露面",
+      "annotation_character_ids": [
+        "weisili_yexin_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ecf42b9c863ed2d6",
+      "statement": "情绪与死亡感应",
+      "annotation_character_ids": [
+        "weisili_zhang_xiaojuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b6f7767bb520cc09",
+      "statement": "双重打击、求陪伴与医疗",
+      "annotation_character_ids": [
+        "weisili_zhang_hailong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7dda994d2d11b761",
+      "statement": "终局意识消失",
+      "annotation_character_ids": [
+        "weisili_zhang_xiaojuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_75cb08fcb325a8e9",
+      "statement": "父亲记忆提供密码",
+      "annotation_character_ids": [
+        "weisili_zhang_hailong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5787bb86fbe58d42",
+      "statement": "武器、犯罪通信和资料实证",
+      "annotation_character_ids": [
+        "weisili_zhang_xiaojuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b85fc5cf270b2343",
+      "statement": "读信停攻、秘密处置和授予证件",
+      "annotation_character_ids": [
+        "weisili_naerxun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0886404f105a2021",
+      "statement": "性格、友情及危险",
+      "annotation_character_ids": [
+        "weisili_zhang_xiaolong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_455a2e0c29864fce",
+      "statement": "研究、同归于尽和隔离限制",
+      "annotation_character_ids": [
+        "weisili_zhang_xiaolong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5ffa8c8b9bc40ded",
+      "statement": "集中骨干导致覆灭",
+      "annotation_character_ids": [
+        "weisili_yexin_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_919d17a0e2e55fff",
+      "statement": "总部毁灭",
+      "annotation_character_ids": [
+        "weisili_gan_mu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd09c22edfaf0ffd",
+      "statement": "死亡与后续选择",
+      "annotation_character_ids": [
+        "weisili_zhang_xiaolong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3110bb3edf51f38c",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "weisili_zhang_hailong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

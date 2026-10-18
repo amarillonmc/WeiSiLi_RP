@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "id": "book_431747bbc9f2",
+  "title": "水中宝盒",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/22水中宝盒.txt",
+  "file": "books/book_431747bbc9f2.json",
+  "inherited_fact_count": 12,
+  "curated_links": {
+    "arcs": [
+      "arc_gaosi"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "97fab48bdf2d9f49edfd0208732833362b9ecb5ff9915a654792309ca95d1257",
+  "source_lines": 666,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "寻找玻璃盒的棕发女特务",
+      "card_id": "gaosi_glassbox_female_agent",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "棕发女特务的两名同伴",
+      "card_id": "gaosi_glassbox_male_guards",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "玻璃盒案的两名中年绅士",
+      "card_id": "gaosi_glassbox_gentlemen",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "武器发明者、原交易双方",
+      "reason": "仅由警方在结尾交代的背景身份，未给可区分人物或实际场面；不将物品能力生成无据角色。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7c56fce44899a278",
+      "statement": "水下摄影与潜水",
+      "annotation_character_ids": [
+        "gaosi_gao_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_68be344c8c6ad18b",
+      "statement": "海底搜索",
+      "annotation_character_ids": [
+        "gaosi_glassbox_male_guards"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6b58f7b0dadae043",
+      "statement": "搜寻与被挪走的盒子",
+      "annotation_character_ids": [
+        "gaosi_glassbox_female_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6cd4b4f01e1704f8",
+      "statement": "身份掩护、报酬和保密",
+      "annotation_character_ids": [
+        "gaosi_glassbox_gentlemen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2762de362e76cd7f",
+      "statement": "对盒子的警觉",
+      "annotation_character_ids": [
+        "gaosi_glassbox_gentlemen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_18f9bf8f71f98e07",
+      "statement": "两侧夹制",
+      "annotation_character_ids": [
+        "gaosi_glassbox_male_guards"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_31696c5026732ae3",
+      "statement": "持刀逼问及反制",
+      "annotation_character_ids": [
+        "gaosi_glassbox_female_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7998e32f95f415ee",
+      "statement": "分工变化、人质与返航",
+      "annotation_character_ids": [
+        "gaosi_glassbox_male_guards"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_35da02e0c09cbf34",
+      "statement": "交易条件",
+      "annotation_character_ids": [
+        "gaosi_glassbox_female_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3626d87b2e7191bd",
+      "statement": "枪击回述与被截",
+      "annotation_character_ids": [
+        "gaosi_glassbox_gentlemen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_56f453bb9ac69ed8",
+      "statement": "样本真相及未再见",
+      "annotation_character_ids": [
+        "gaosi_glassbox_female_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5fb30a58de2d7f4",
+      "statement": "另一国身份和武器性质",
+      "annotation_character_ids": [
+        "gaosi_glassbox_gentlemen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

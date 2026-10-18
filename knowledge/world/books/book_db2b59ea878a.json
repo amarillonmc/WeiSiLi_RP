@@ -1,0 +1,193 @@
+{
+  "schema_version": "1.0",
+  "id": "book_db2b59ea878a",
+  "title": "降头",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/12.降头.txt",
+  "file": "books/book_db2b59ea878a.json",
+  "inherited_fact_count": 15,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "88395b1415d6e0f274e66c0ef4f80ca3215480b57a7993f8f42cd1b1995e9c47",
+  "source_lines": 4434,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "交涉中间人"
+    },
+    {
+      "name": "黄绢",
+      "card_id": "yuanzhenxia_huang_juan",
+      "role": "重要配角",
+      "basis": "情报及政治关系"
+    },
+    {
+      "name": "史奈",
+      "card_id": "yuanzhenxia_shinai",
+      "role": "重要配角",
+      "basis": "降头与王室争权核心线"
+    },
+    {
+      "name": "席·朋加拉·泰宁",
+      "card_id": "yuanzhenxia_tainin",
+      "role": "单书主角",
+      "basis": "降头与王室争权核心线"
+    },
+    {
+      "name": "巴枯",
+      "card_id": "yuanzhenxia_baku",
+      "role": "反派",
+      "basis": "降头与王室争权核心线"
+    },
+    {
+      "name": "水灵",
+      "card_id": "yuanzhenxia_shui_ling",
+      "role": "单书主角",
+      "basis": "降头与王室争权核心线"
+    },
+    {
+      "name": "都旺亲王",
+      "card_id": "yuanzhenxia_duwang",
+      "role": "反派",
+      "basis": "降头与王室争权核心线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "湖岛仆役和军官",
+      "reason": "一次性执行或环境角色"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_36a7178f8025cde9",
+      "statement": "全名",
+      "annotation_character_ids": [
+        "yuanzhenxia_tainin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0b5fdf7400ab0c33",
+      "statement": "身份与监控",
+      "annotation_character_ids": [
+        "yuanzhenxia_duwang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d48d98cc5f875f44",
+      "statement": "政治处境",
+      "annotation_character_ids": [
+        "yuanzhenxia_tainin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1a4fc02eac0671dd",
+      "statement": "师承与少年斗法",
+      "annotation_character_ids": [
+        "yuanzhenxia_shinai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f0aa97d7f1c033ba",
+      "statement": "师承",
+      "annotation_character_ids": [
+        "yuanzhenxia_baku"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_640f96e01ea162d0",
+      "statement": "干女儿与被安排的等待",
+      "annotation_character_ids": [
+        "yuanzhenxia_shui_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d8d1f7090a2734e8",
+      "statement": "布局",
+      "annotation_character_ids": [
+        "yuanzhenxia_baku"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fd11432c777035f1",
+      "statement": "隐降边界",
+      "annotation_character_ids": [
+        "yuanzhenxia_shinai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_517236fe0c27735d",
+      "statement": "施术与代价",
+      "annotation_character_ids": [
+        "yuanzhenxia_tainin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f2ec8e93b3a381ba",
+      "statement": "伤害与选择",
+      "annotation_character_ids": [
+        "yuanzhenxia_shui_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f5f68dfdbc5c132",
+      "statement": "情报组织与中计",
+      "annotation_character_ids": [
+        "yuanzhenxia_duwang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_39393833733ebb5a",
+      "statement": "交易与隐瞒",
+      "annotation_character_ids": [
+        "yuanzhenxia_shinai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c4715a80c4d47f45",
+      "statement": "终局条件",
+      "annotation_character_ids": [
+        "yuanzhenxia_baku"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c32fbff9492c9bc",
+      "statement": "权力终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_duwang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd15755b7419f8cd",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_shui_ling",
+        "yuanzhenxia_tainin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

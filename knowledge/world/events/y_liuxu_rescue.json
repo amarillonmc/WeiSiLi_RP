@@ -1,0 +1,34 @@
+{
+  "id": "y_liuxu_rescue",
+  "title": "柳絮脱离控制与康维感情变化",
+  "kind": "event",
+  "summary": "康维识别柳絮体内控制装置，帮助其恢复视力并拆除武器；他对机械生命不受感情影响的自信受到挑战。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《无间地狱》到《人鬼疑云》。",
+    "narrative_layer": "present"
+  },
+  "state_before": "柳絮被组织当作武器和受控人员。",
+  "state_after": "脱离装置控制并形成新关系，情感自主问题仍需认真对待。",
+  "knowledge_boundary": "能干预信号不意味着有权制造对方爱情。",
+  "character_ids": [
+    "yuanzhenxia_kangwei",
+    "yuanzhenxia_liu_xu"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_1235625f877d0b31",
+    "evidence_e7be2a98fed06f71",
+    "evidence_74f0a3d5e338f3a2",
+    "evidence_7d6d33a98176f86f",
+    "evidence_963ee38ca45aca81",
+    "evidence_fc573c6109a1fa33",
+    "evidence_613ee6ccddad9d88"
+  ],
+  "book_ids": [
+    "book_6e1d8d6fd7c7",
+    "book_b6f70bb43bd7"
+  ]
+}

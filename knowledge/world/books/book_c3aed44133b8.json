@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "id": "book_c3aed44133b8",
+  "title": "择时剖腹",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/择时剖腹.txt",
+  "file": "books/book_c3aed44133b8.json",
+  "inherited_fact_count": 3,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "c01cdb4fea33e96f2a6c5c04999a42d5a8bd6b019b894a8e332f0a70d477c815",
+  "source_lines": 79,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "丁医生（择时剖腹）",
+      "card_id": "guihua_doctor_ding",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "灰脸病人／新生儿",
+      "reason": "被丁医生联系的异常形象，未证明同一人格或主动加害；不把诡异表情当反派行为。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e83b83652eb9b84f",
+      "statement": "职业、手术规划和择时安排",
+      "annotation_character_ids": [
+        "guihua_doctor_ding"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e996cfe0eda25b7d",
+      "statement": "陌生人异常",
+      "annotation_character_ids": [
+        "guihua_doctor_ding"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_045fafcecdc0ec4b",
+      "statement": "分娩与失手",
+      "annotation_character_ids": [
+        "guihua_doctor_ding"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

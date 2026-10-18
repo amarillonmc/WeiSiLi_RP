@@ -1,0 +1,21 @@
+{
+  "id": "before__w_water_reveal__w_quota_research",
+  "source": "w_water_reveal",
+  "target": "w_quota_research",
+  "relation": "before",
+  "epistemic_status": "synthesis",
+  "reason": "先接触水生命，之后由水参与配额研究和接送。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "先接触水生命，之后由水参与配额研究和接送。",
+  "evidence_ids": [
+    "evidence_329858c60a8196bc",
+    "evidence_f858a570dde0c17e",
+    "evidence_374f890b0cb5a343",
+    "evidence_e1686d46546a4fdc"
+  ],
+  "book_ids": [
+    "book_285c39eb6c50",
+    "book_f4a7e356d619"
+  ]
+}

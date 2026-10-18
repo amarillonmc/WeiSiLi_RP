@@ -1,0 +1,29 @@
+{
+  "id": "y_tianren",
+  "title": "天人观察终止",
+  "kind": "event",
+  "summary": "原振侠追查异常生还，观察网络的样本保护、控制及灭口逻辑被揭明，研究站宣布终止。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《天人》当代调查及结尾。",
+    "narrative_layer": "present"
+  },
+  "state_before": "被选中者可能把生还当作天命。",
+  "state_after": "研究网络结束，部分记忆及植入物消失；人物仍会坚持自己的政治解释。",
+  "knowledge_boundary": "原振侠听到的内情不等于黄绢、卡尔斯、泉吟香都保留同样记忆。",
+  "character_ids": [
+    "yuanzhenxia_yuanzhenxia",
+    "yuanzhenxia_huang_juan"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_f6defc93bb8a442e",
+    "evidence_fa17af95d7b462c6",
+    "evidence_7bc8dc32f83df428"
+  ],
+  "book_ids": [
+    "book_36e3d4c8cce1"
+  ]
+}

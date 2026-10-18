@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1d06718d42da",
+  "title": "复活金像",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/47复活金像.txt",
+  "file": "books/book_1d06718d42da.json",
+  "inherited_fact_count": 18,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "f47b36b61cad2bafbedeaca38921002c06cd0bfc3f29ca4993d97c1145f86b29",
+  "source_lines": 2782,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "朴浣臣／王达",
+      "card_id": "mulanhua_pu_huanchen",
+      "role": "反派",
+      "basis": "假死、劫货及情报组织首领。"
+    },
+    {
+      "name": "顾益夫",
+      "card_id": "mulanhua_gu_yifu",
+      "role": "反派",
+      "basis": "副首领、杀原首领与继续走私。"
+    },
+    {
+      "name": "王通",
+      "card_id": "mulanhua_wang_tong",
+      "role": "反派",
+      "basis": "配合身份骗局，后来向警方求助遇害。"
+    },
+    {
+      "name": "炮舰司令",
+      "card_id": "mulanhua_gunship_commander",
+      "role": "反派",
+      "basis": "试图强行接收重要走私物资。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "金像、追车和假死目击启动调查。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "跨书重要配角",
+      "basis": "船上营救与阻止交接。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "直升机上联络与观察。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "跨书重要配角",
+      "basis": "协同军警行动及结案信息。"
+    },
+    {
+      "name": "杨科长",
+      "card_id": "mulanhua_yang_chief",
+      "role": "跨书重要配角",
+      "basis": "实际承担刑案调查；综合卡另记录59腐败与死亡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "杨鹰、黄雨方、沈伯奇、沈太太",
+      "reason": "前史证人及被灭口者，未展开独立行动逻辑；不凭叙述者结尾一句评价自动增列反派。"
+    },
+    {
+      "name": "售金像老妇、仓库看守、车手与枪手",
+      "reason": "一次性线索、背景和执行者；仓库贪便宜引发泄漏不构成独立主线反派。"
+    },
+    {
+      "name": "云五风、云四风",
+      "reason": "本书住院探望或工厂资源提及，主要履历见既有核心卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_9a7343ace22b8a61",
+      "statement": "屋主、舞会和对安妮的嘲弄。",
+      "annotation_character_ids": [
+        "mulanhua_wang_tong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c33db667a8af2b4a",
+      "statement": "勘查、物证与监视决策。",
+      "annotation_character_ids": [
+        "mulanhua_yang_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6284e34efd5e926e",
+      "statement": "公开职业与假死亡证人身份。",
+      "annotation_character_ids": [
+        "mulanhua_gu_yifu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f28ab64d8073949",
+      "statement": "求助电话、遇害与金像。",
+      "annotation_character_ids": [
+        "mulanhua_wang_tong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_57138bc2cecf4916",
+      "statement": "身份、军火背景、劫货与假死。",
+      "annotation_character_ids": [
+        "mulanhua_pu_huanchen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e7163af7caa8d422",
+      "statement": "并非亲兄弟。",
+      "annotation_character_ids": [
+        "mulanhua_wang_tong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ec29f1bc4a01154",
+      "statement": "人质与交易应对。",
+      "annotation_character_ids": [
+        "mulanhua_pu_huanchen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_891b31ab4ae15ae3",
+      "statement": "受价格诱惑被制。",
+      "annotation_character_ids": [
+        "mulanhua_pu_huanchen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_49d644df84c62768",
+      "statement": "副首领现身、规矩、刀枪与杀首领。",
+      "annotation_character_ids": [
+        "mulanhua_gu_yifu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a996ef421a8d7fa2",
+      "statement": "副手反噬并实际死亡。",
+      "annotation_character_ids": [
+        "mulanhua_pu_huanchen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fd004107876ab6a5",
+      "statement": "通讯、拒绝取消、全速命令和司令称呼。",
+      "annotation_character_ids": [
+        "mulanhua_gunship_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_35604667efd8b5cc",
+      "statement": "催攻和拒信假取消。",
+      "annotation_character_ids": [
+        "mulanhua_gu_yifu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_37afce26395665ba",
+      "statement": "鲁司令为情报人员推测。",
+      "annotation_character_ids": [
+        "mulanhua_gunship_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_55a381565b25621b",
+      "statement": "干扰、对峙与撤回。",
+      "annotation_character_ids": [
+        "mulanhua_gunship_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71a2129a78c1ea9c",
+      "statement": "爆炸死亡。",
+      "annotation_character_ids": [
+        "mulanhua_gu_yifu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a45d64fae640f5d4",
+      "statement": "断链造成验物缺失。",
+      "annotation_character_ids": [
+        "mulanhua_wang_tong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a6dfa1fb16243514",
+      "statement": "链环真相与组织结局。",
+      "annotation_character_ids": [
+        "mulanhua_pu_huanchen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff5a8e26a4bf2826",
+      "statement": "事后外交抗议。",
+      "annotation_character_ids": [
+        "mulanhua_gunship_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

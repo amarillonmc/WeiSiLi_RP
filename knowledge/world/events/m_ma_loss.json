@@ -1,0 +1,31 @@
+{
+  "id": "m_ma_loss",
+  "title": "马超文遇难及穆秀珍哀悼",
+  "kind": "event",
+  "summary": "马超文随班机毁灭，穆秀珍在慰问、追查和纪念中重新行动，云四风陪伴。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《天外恩仇》，云四风与穆秀珍结婚前。",
+    "narrative_layer": "present"
+  },
+  "state_before": "已有未婚关系与未来期待。",
+  "state_after": "丧失留下持续纪念；后来恋爱不抹去旧人。",
+  "knowledge_boundary": "追查证据与人物哀伤并行，不用新婚关系倒写早期感情。",
+  "character_ids": [
+    "mulanhua_mu_xiuzhen",
+    "mulanhua_yun_sifeng"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_a2eb02b3e1f9ba61",
+    "evidence_ffbe897bdb029d1a",
+    "evidence_f81ae344e6f51791",
+    "evidence_8788d64835f7ab7e",
+    "evidence_ba0c3d62a8951931"
+  ],
+  "book_ids": [
+    "book_d1e263538229"
+  ]
+}

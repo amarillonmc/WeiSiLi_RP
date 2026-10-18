@@ -1,0 +1,24 @@
+{
+  "id": "before__m_blind__m_wedding",
+  "source": "m_blind",
+  "target": "m_wedding",
+  "relation": "before",
+  "epistemic_status": "synthesis",
+  "reason": "眼伤恢复发生于后续正常行动和结婚之前，按人物状态约束。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "眼伤恢复发生于后续正常行动和结婚之前，按人物状态约束。",
+  "evidence_ids": [
+    "evidence_1bdc6023f403e5a5",
+    "evidence_ab9914ccaf7d7756",
+    "evidence_3f90efc5458c6497",
+    "evidence_7c2f9a914bb2917f",
+    "evidence_66728cf971b27062",
+    "evidence_982856be5aa23afb",
+    "evidence_24eb6725086290a0"
+  ],
+  "book_ids": [
+    "book_3a4be15d72e1",
+    "book_676f75bdba78"
+  ]
+}

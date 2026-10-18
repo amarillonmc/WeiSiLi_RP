@@ -1,0 +1,158 @@
+{
+  "schema_version": "1.0",
+  "id": "book_c808082c466e",
+  "title": "大厦",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/044大厦.txt",
+  "file": "books/book_c808082c466e.json",
+  "inherited_fact_count": 9,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+  "source_lines": 3209,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "杰克",
+      "card_id": "weisili_jieke",
+      "role": "重要配角",
+      "basis": "警务调查"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "调查、受困和获救"
+    },
+    {
+      "name": "王直义",
+      "card_id": "weisili_wang_zhiyi",
+      "role": "危险实验者",
+      "basis": "大厦研究及保密冲突"
+    },
+    {
+      "name": "韩泽",
+      "card_id": "weisili_han_ze",
+      "role": "危险实验者",
+      "basis": "大厦研究及保密冲突"
+    },
+    {
+      "name": "罗定",
+      "card_id": "weisili_luo_ding",
+      "role": "单书主角",
+      "basis": "大厦研究及保密冲突"
+    },
+    {
+      "name": "鲨鱼（大厦）",
+      "card_id": "weisili_shayu_dasha",
+      "role": "反派",
+      "basis": "大厦研究及保密冲突"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "陈毛",
+      "reason": "看楼及被害线索人物；死亡责任未获得完整确证"
+    },
+    {
+      "name": "幕后资助者",
+      "reason": "未明身份和具体独立行动，不凭空补成某已知组织"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_4f69e3d65837a846",
+      "statement": "原初生活",
+      "annotation_character_ids": [
+        "weisili_luo_ding"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_701bbb319ec601a4",
+      "statement": "科学家身份",
+      "annotation_character_ids": [
+        "weisili_han_ze",
+        "weisili_wang_zhiyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8d258b7d433244ba",
+      "statement": "身份与谈判",
+      "annotation_character_ids": [
+        "weisili_shayu_dasha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ba8709bc018501b4",
+      "statement": "勒索与被困",
+      "annotation_character_ids": [
+        "weisili_luo_ding"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db690c77c2ddcb61",
+      "statement": "参与者与技术边界",
+      "annotation_character_ids": [
+        "weisili_han_ze",
+        "weisili_wang_zhiyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77ac7d734be7db3e",
+      "statement": "合作与解释",
+      "annotation_character_ids": [
+        "weisili_han_ze",
+        "weisili_wang_zhiyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_58a54fc77290fdc7",
+      "statement": "救援及返回",
+      "annotation_character_ids": [
+        "weisili_luo_ding"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_260757a02fbf3f1e",
+      "statement": "火灾及未定终局",
+      "annotation_character_ids": [
+        "weisili_han_ze",
+        "weisili_wang_zhiyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_704ac2e4b3400188",
+      "statement": "存活终局",
+      "annotation_character_ids": [
+        "weisili_shayu_dasha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

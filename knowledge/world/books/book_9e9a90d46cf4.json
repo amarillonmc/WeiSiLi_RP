@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0",
+  "id": "book_9e9a90d46cf4",
+  "title": "湖水",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/023湖水.txt",
+  "file": "books/book_9e9a90d46cf4.json",
+  "inherited_fact_count": 16,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "e4ef4303c24aaad746163b8a4538e13c5db5d8de5e025aa696a1141527a2f058",
+  "source_lines": 962,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "跨书重要配角",
+      "basis": "提供传闻与参与判断。"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "跨书重要配角",
+      "basis": "引荐江建。"
+    },
+    {
+      "name": "江建",
+      "card_id": "weisili_jiang_jian",
+      "role": "主角及阶段对立者",
+      "basis": "布局调查、假扮取财与终局教育理想。"
+    },
+    {
+      "name": "王振源",
+      "card_id": "weisili_wang_zhenyuan",
+      "role": "单书主角",
+      "basis": "落水与被指导表演的中心。"
+    },
+    {
+      "name": "年振强",
+      "card_id": "weisili_nian_zhenqiang",
+      "role": "前史反派",
+      "basis": "匪师经历、暴力与财产旧案。"
+    },
+    {
+      "name": "殷殷",
+      "card_id": "weisili_yinyin",
+      "role": "疑似前史反派",
+      "basis": "旧案利益与掩饰行为、终局死亡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "花花金铺老板、珠宝业长辈、房东、记者、医官",
+      "reason": "一次性的经历或线索提供者，没有独立主角或反派线。"
+    },
+    {
+      "name": "牛大角及官兵",
+      "reason": "军师前史背景，无足够独立主体描写。"
+    },
+    {
+      "name": "殷殷男女仆人",
+      "reason": "驱客与证言的职务辅助；男仆一次推搡不扩写成独立反派故事。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_b25cb18d40ef01f2",
+      "statement": "落水救起",
+      "annotation_character_ids": [
+        "weisili_wang_zhenyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b0541a9a767e993",
+      "statement": "真实救人与教师身份",
+      "annotation_character_ids": [
+        "weisili_jiang_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_827392809e35fbd8",
+      "statement": "课堂和家庭的异常",
+      "annotation_character_ids": [
+        "weisili_wang_zhenyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1cb6eb657d475569",
+      "statement": "实际问答表现",
+      "annotation_character_ids": [
+        "weisili_wang_zhenyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f3700e3ed15f5f8d",
+      "statement": "军师、财产、同居及放火指控",
+      "annotation_character_ids": [
+        "weisili_nian_zhenqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_beb58ef17ed72f68",
+      "statement": "息影后生活",
+      "annotation_character_ids": [
+        "weisili_yinyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fdb5dd2bc534867d",
+      "statement": "付酬打发与质疑证据",
+      "annotation_character_ids": [
+        "weisili_yinyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4221faf4bf981aba",
+      "statement": "拆穿谎言及驱客",
+      "annotation_character_ids": [
+        "weisili_yinyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad2574791f7e35b0",
+      "statement": "死亡与现场",
+      "annotation_character_ids": [
+        "weisili_yinyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c7bb7820104e4fab",
+      "statement": "财物及亲属身份揭破",
+      "annotation_character_ids": [
+        "weisili_jiang_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_17679e10253f1444",
+      "statement": "亲属、游湖与暴躁回忆",
+      "annotation_character_ids": [
+        "weisili_nian_zhenqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f4f7040fc5fcadd",
+      "statement": "身世、教学生与化装取财",
+      "annotation_character_ids": [
+        "weisili_jiang_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10951aef8a3aa881",
+      "statement": "骗局及录音解释",
+      "annotation_character_ids": [
+        "weisili_wang_zhenyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1adc9707d306f823",
+      "statement": "假扮取财经过",
+      "annotation_character_ids": [
+        "weisili_yinyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e05486504606e1c",
+      "statement": "建校愿望与卫的处理",
+      "annotation_character_ids": [
+        "weisili_jiang_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e7a6be8b33823ab3",
+      "statement": "全案由人作伪",
+      "annotation_character_ids": [
+        "weisili_nian_zhenqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

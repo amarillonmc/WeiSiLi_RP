@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "id": "book_898be4810fdd",
+  "title": "金酋长",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/13金酋长.txt",
+  "file": "books/book_898be4810fdd.json",
+  "inherited_fact_count": 5,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "ac189828c4462ee904f33e9b438976bc4fc0830891e39598b6ca92f04d9c6081",
+  "source_lines": 778,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "维力上校",
+      "card_id": "gaosi_colonel_weili",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "泰鲁岛叛军执行队",
+      "card_id": "gaosi_tailu_rebels",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "包禄士",
+      "reason": "推动旅行的单书出版商，未形成独立行动主线。"
+    },
+    {
+      "name": "日本渔民及岛上居民",
+      "reason": "人质和信息来源，个体未具名且未独立展开。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_192ccab72025d29a",
+      "statement": "身份、威胁与人质",
+      "annotation_character_ids": [
+        "gaosi_colonel_weili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2c35f0e60757dfc7",
+      "statement": "基地与扣押杀害渔民",
+      "annotation_character_ids": [
+        "gaosi_tailu_rebels"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f0e7555e9086ef1e",
+      "statement": "装箱撤离及爆炸",
+      "annotation_character_ids": [
+        "gaosi_colonel_weili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c8d00eadbe3e6d8b",
+      "statement": "装箱、撤退及高斯逃脱",
+      "annotation_character_ids": [
+        "gaosi_tailu_rebels"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1d23d108eaf79e72",
+      "statement": "向警方报告与金像真相",
+      "annotation_character_ids": [
+        "gaosi_colonel_weili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

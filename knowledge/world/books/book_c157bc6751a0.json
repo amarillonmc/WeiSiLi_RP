@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "id": "book_c157bc6751a0",
+  "title": "粉红钻石",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/04粉红钻石.txt",
+  "file": "books/book_c157bc6751a0.json",
+  "inherited_fact_count": 4,
+  "curated_links": {
+    "entities": [
+      "pink_diamonds"
+    ],
+    "events": [
+      "s_magic_exposed"
+    ],
+    "issues": [
+      "issue_catalog_order"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "54c4aff7a1a54a35868605a77575040d0e31c8d508f5379055a4b772e9bddd01",
+  "source_lines": 644,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "鲁道夫公爵夫人",
+      "card_id": "gaosi_duchess_rudolf",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "陈洛",
+      "card_id": "gaosi_chen_luo",
+      "role": "重要配角",
+      "basis": "开篇实际赠送摄影设备并送机，且补全《奇迹》案结局。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "老实人费利",
+      "reason": "一次性线索协助者，并非主动犯罪者。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d1997d2ecff464ca",
+      "statement": "财物追回、赠设备及友情",
+      "annotation_character_ids": [
+        "gaosi_chen_luo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_15ba291b81608f09",
+      "statement": "被捕",
+      "annotation_character_ids": [
+        "gaosi_fake_chen_ba",
+        "gaosi_miracle_magician",
+        "gaosi_shenmu_daji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ceb12c335518bf00",
+      "statement": "套房、香味定位及间谍说法",
+      "annotation_character_ids": [
+        "gaosi_duchess_rudolf"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1cbb7af904fada7e",
+      "statement": "失窃项链与真实嫌疑",
+      "annotation_character_ids": [
+        "gaosi_duchess_rudolf"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

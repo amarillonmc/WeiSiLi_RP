@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "id": "book_2ce28fcf4698",
+  "title": "创造",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/037创造.txt",
+  "file": "books/book_2ce28fcf4698.json",
+  "inherited_fact_count": 8,
+  "curated_links": {
+    "arcs": [
+      "arc_baisu"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "43f439ed14bb4c90dba5e764ee6dc61edbbdedbd9ef79bf97d02d6bfda911e9d",
+  "source_lines": 1501,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "杰克",
+      "card_id": "weisili_jieke",
+      "role": "重要配角",
+      "basis": "警务调查"
+    },
+    {
+      "name": "王亭",
+      "card_id": "weisili_wang_ting",
+      "role": "反派",
+      "basis": "人体研究与杀人"
+    },
+    {
+      "name": "潘仁声",
+      "card_id": "weisili_pan_rensheng",
+      "role": "反派",
+      "basis": "人体研究与杀人"
+    },
+    {
+      "name": "王慧",
+      "card_id": "weisili_wang_hui",
+      "role": "反派",
+      "basis": "人体研究与杀人"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "陆玛莉",
+      "reason": "旧情人和调查线索，单次次要角色"
+    },
+    {
+      "name": "长发少年",
+      "reason": "王亭为脱罪编造的替罪角色，不建真实人物卡"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_b12e81419bd8ad7d",
+      "statement": "伪装、揭穿和招供",
+      "annotation_character_ids": [
+        "weisili_wang_ting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47c158a210c2d420",
+      "statement": "手术与死亡调查",
+      "annotation_character_ids": [
+        "weisili_pan_rensheng",
+        "weisili_wang_hui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e6381a5fce97601",
+      "statement": "从行为识破说法",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7c1b47d85e7f6706",
+      "statement": "日记和各自选择",
+      "annotation_character_ids": [
+        "weisili_pan_rensheng",
+        "weisili_wang_hui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7fea09303ec4c2d6",
+      "statement": "实验记录",
+      "annotation_character_ids": [
+        "weisili_wang_ting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e64850ff499bbaf",
+      "statement": "指出好人范本的伦理盲点",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c212a9076d77bbc5",
+      "statement": "技术成功与伦理失败",
+      "annotation_character_ids": [
+        "weisili_pan_rensheng",
+        "weisili_wang_hui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b6fd66d8b18508bd",
+      "statement": "执行死刑与真实计划",
+      "annotation_character_ids": [
+        "weisili_wang_ting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

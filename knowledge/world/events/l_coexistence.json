@@ -1,0 +1,26 @@
+{
+  "id": "l_coexistence",
+  "title": "罗开主张异类和平共处",
+  "kind": "event",
+  "summary": "面对三晶星机械人与天敌，罗开提出可以不互相毁灭。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《异人》阶段。",
+    "narrative_layer": "present"
+  },
+  "state_before": "身份与威胁解释容易导向消灭对方。",
+  "state_after": "罗开的选择强调共处；不是全部文明从此结束冲突。",
+  "knowledge_boundary": "价值选择不等于签订全球或星际永久和平条约。",
+  "character_ids": [
+    "adventure_luokai"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_4758b9520195eb6f"
+  ],
+  "book_ids": [
+    "book_2af29c6320c3"
+  ]
+}

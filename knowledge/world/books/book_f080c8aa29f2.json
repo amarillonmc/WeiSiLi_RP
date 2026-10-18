@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f080c8aa29f2",
+  "title": "头发",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/046头发.txt",
+  "file": "books/book_f080c8aa29f2.json",
+  "inherited_fact_count": 23,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "7ff73c54b80bd223236384562f5bc9704d73a9b1071953ad1ebadf8e4a736de2",
+  "source_lines": 4324,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "柏莱",
+      "card_id": "weisili_bolai",
+      "role": "单书主角",
+      "basis": "思想转移及异星来源"
+    },
+    {
+      "name": "辛尼",
+      "card_id": "weisili_xinni",
+      "role": "单书主角",
+      "basis": "思想转移及异星来源"
+    },
+    {
+      "name": "巴因",
+      "card_id": "weisili_bayin",
+      "role": "反派性行动者",
+      "basis": "思想转移及异星来源"
+    },
+    {
+      "name": "《头发》的尼泊尔国王",
+      "card_id": "weisili_nepal_king_hair",
+      "role": "单书核心人物",
+      "basis": "思想转移及异星来源"
+    },
+    {
+      "name": "使者Ａ",
+      "card_id": "weisili_messenger_a",
+      "role": "非人核心人物",
+      "basis": "思想转移及异星来源"
+    },
+    {
+      "name": "使者Ｂ",
+      "card_id": "weisili_messenger_b",
+      "role": "非人核心人物",
+      "basis": "思想转移及异星来源"
+    },
+    {
+      "name": "使者Ｃ",
+      "card_id": "weisili_messenger_c",
+      "role": "非人核心人物",
+      "basis": "思想转移及异星来源"
+    },
+    {
+      "name": "使者Ｄ",
+      "card_id": "weisili_messenger_d",
+      "role": "非人核心人物",
+      "basis": "思想转移及异星来源"
+    },
+    {
+      "name": "《头发》的异星领导人",
+      "card_id": "weisili_hair_leader",
+      "role": "非人核心人物",
+      "basis": "思想转移及异星来源"
+    },
+    {
+      "name": "Ｃ的父亲",
+      "card_id": "weisili_father_c",
+      "role": "非人核心人物",
+      "basis": "思想转移及异星来源"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "利达教授",
+      "reason": "求助与身份核实的单书辅助人物"
+    },
+    {
+      "name": "巴宗、芒里、祁高、御前大臣",
+      "reason": "学术或行政协助，无跨书身份链；巴宗不是巴因"
+    },
+    {
+      "name": "巴因同族老人",
+      "reason": "往事中被害的守庙者，背景归入巴因和国王卡"
+    },
+    {
+      "name": "黑军族的其他成员",
+      "reason": "场景集体及纷争背景，无独立确认人格与跨书关系"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_a84fac9f3ab38fbe",
+      "statement": "王室保护",
+      "annotation_character_ids": [
+        "weisili_bayin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_924b10400fe336e2",
+      "statement": "误认、信念与古物",
+      "annotation_character_ids": [
+        "weisili_xinni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7924cb6185ee7b94",
+      "statement": "原身死亡试验",
+      "annotation_character_ids": [
+        "weisili_bolai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d8f764c2d17d0e6e",
+      "statement": "参与柏莱试验",
+      "annotation_character_ids": [
+        "weisili_xinni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fc10738ad8f388a0",
+      "statement": "实际转移",
+      "annotation_character_ids": [
+        "weisili_bolai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e56abf4a4e573375",
+      "statement": "死亡消息",
+      "annotation_character_ids": [
+        "weisili_xinni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b3d3be3427f2937",
+      "statement": "磁性钥匙",
+      "annotation_character_ids": [
+        "weisili_bayin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_921ac5693fa46eb2",
+      "statement": "接引建设与渐进改变",
+      "annotation_character_ids": [
+        "weisili_messenger_b"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a47becd2f50e3fcb",
+      "statement": "暴力和夺仪器",
+      "annotation_character_ids": [
+        "weisili_bolai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_de6694dbf240d4d7",
+      "statement": "杀人及第二次死亡",
+      "annotation_character_ids": [
+        "weisili_bolai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e4d31a95262f03e4",
+      "statement": "死亡",
+      "annotation_character_ids": [
+        "weisili_bayin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bf8a6e1328377bc5",
+      "statement": "对话和态度",
+      "annotation_character_ids": [
+        "weisili_nepal_king_hair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_69abfd7f7c0de3bd",
+      "statement": "保护、担忧与毁物",
+      "annotation_character_ids": [
+        "weisili_nepal_king_hair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8067fa977280fd77",
+      "statement": "族群和器物",
+      "annotation_character_ids": [
+        "weisili_bayin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3eb26cb6847c2ac5",
+      "statement": "身份与科技",
+      "annotation_character_ids": [
+        "weisili_messenger_a",
+        "weisili_messenger_b",
+        "weisili_messenger_c",
+        "weisili_messenger_d"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_540f2c8185b1f461",
+      "statement": "身份、制造和放逐解释",
+      "annotation_character_ids": [
+        "weisili_father_c",
+        "weisili_hair_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d194eb4240e7081a",
+      "statement": "思想离体及制造历史",
+      "annotation_character_ids": [
+        "weisili_messenger_a",
+        "weisili_messenger_b",
+        "weisili_messenger_c",
+        "weisili_messenger_d"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5740642eca3cf575",
+      "statement": "个人受难与救援未竟",
+      "annotation_character_ids": [
+        "weisili_messenger_c"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d24804cc9f52cd1",
+      "statement": "争论、承诺与时差",
+      "annotation_character_ids": [
+        "weisili_father_c",
+        "weisili_hair_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7ee55a9fab1d06a2",
+      "statement": "解释与时间警示",
+      "annotation_character_ids": [
+        "weisili_messenger_d"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c60497789de48338",
+      "statement": "时差、回返与石室终局",
+      "annotation_character_ids": [
+        "weisili_messenger_a",
+        "weisili_messenger_b",
+        "weisili_messenger_c",
+        "weisili_messenger_d"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_501bde58c32571fc",
+      "statement": "强硬主张与对责任的争辩",
+      "annotation_character_ids": [
+        "weisili_messenger_a"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d8bba0037307dbe7",
+      "statement": "照护及终局",
+      "annotation_character_ids": [
+        "weisili_nepal_king_hair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

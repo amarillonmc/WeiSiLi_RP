@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "id": "book_76747244fea3",
+  "title": "水晶艳女",
+  "aliases": [],
+  "series": "浪子高达系列",
+  "source_path": "浪子高达系列/水晶艳女.txt",
+  "file": "books/book_76747244fea3.json",
+  "inherited_fact_count": 17,
+  "curated_links": {
+    "events": [
+      "g_crystal_loss"
+    ],
+    "arcs": [
+      "arc_gaoda"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "c6e5f3f78babab65e66014428ded74934a47797fd67afb8f821a9f18eda81f16",
+  "source_lines": 4929,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "高达",
+      "card_id": "adventure_gaoda",
+      "role": "主角",
+      "basis": "全书核心行动视角"
+    },
+    {
+      "name": "杜雪",
+      "card_id": "adventure_du_xue",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "克鲁斯",
+      "card_id": "adventure_kelusi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "时重池",
+      "card_id": "adventure_shi_lushi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "费经理",
+      "card_id": "adventure_fei",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "莫教授",
+      "card_id": "adventure_mo",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "阿发",
+      "card_id": "adventure_afa",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "韦松石",
+      "card_id": "adventure_wei_songshi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "黎探长",
+      "card_id": "adventure_li_tanzhang",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "水晶",
+      "card_id": "adventure_shuijing_gaoda",
+      "role": "单书主角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "蔓玲",
+      "card_id": "adventure_manling",
+      "role": "反派",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "许芬芬",
+      "card_id": "adventure_xu_fenfen",
+      "role": "单书主角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "混世魔王",
+      "reason": "犯罪网络上层的背景名号，本文直接行动责任由蔓玲支部承担，无可独立复核的本人动作与终局。"
+    },
+    {
+      "name": "无名女侍、枪手",
+      "reason": "从属执行者，没有个体化主要选择。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_b24dd390477edfdf",
+      "statement": "歌星身份与被针对",
+      "annotation_character_ids": [
+        "adventure_xu_fenfen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_65ef4e33425f26d9",
+      "statement": "针对许芬芬的要求",
+      "annotation_character_ids": [
+        "adventure_manling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_be964b89cc7c698e",
+      "statement": "被警告与遇害",
+      "annotation_character_ids": [
+        "adventure_xu_fenfen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_64f688c65edc9f57",
+      "statement": "人口买卖与杀人责任",
+      "annotation_character_ids": [
+        "adventure_manling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0fe8aea0e4a58ac0",
+      "statement": "陪同、改变机票及承担协调",
+      "annotation_character_ids": [
+        "adventure_kelusi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8c52849340082f6b",
+      "statement": "疾病、未知倒计时与高达选择",
+      "annotation_character_ids": [
+        "adventure_shuijing_gaoda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ee3fdfef59724fa",
+      "statement": "水晶病情与让步",
+      "annotation_character_ids": [
+        "adventure_manling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_95a58495b009476c",
+      "statement": "得知水晶将死后的情感与选择",
+      "annotation_character_ids": [
+        "adventure_gaoda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_32dc163cdfec8211",
+      "statement": "被扣押与释放安排",
+      "annotation_character_ids": [
+        "adventure_wei_songshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4587eb75bb19c922",
+      "statement": "疲劳、死亡与善后",
+      "annotation_character_ids": [
+        "adventure_shuijing_gaoda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8c6a219ce9967837",
+      "statement": "妻子死亡与退隐",
+      "annotation_character_ids": [
+        "adventure_gaoda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_18c3294285be6517",
+      "statement": "随证据改变对高达嫌疑判断",
+      "annotation_character_ids": [
+        "adventure_li_tanzhang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5a2eec34d4cc658c",
+      "statement": "带警方破案与得知水晶死亡",
+      "annotation_character_ids": [
+        "adventure_wei_songshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_20632e130209b8f0",
+      "statement": "供认与死亡",
+      "annotation_character_ids": [
+        "adventure_manling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d0145144e499cde",
+      "statement": "基金会与对悲伤伙伴的照顾",
+      "annotation_character_ids": [
+        "adventure_du_xue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_df4d6fc2e0c24dd7",
+      "statement": "劝返与主动留下谈话空间",
+      "annotation_character_ids": [
+        "adventure_kelusi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a1e8518ee419fe67",
+      "statement": "公益活动中原有位置",
+      "annotation_character_ids": [
+        "adventure_xu_fenfen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

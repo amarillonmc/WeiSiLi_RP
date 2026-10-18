@@ -1,0 +1,28 @@
+{
+  "id": "bridge_jinwei",
+  "title": "非人协会的金维与孤峰线",
+  "kind": "bridge",
+  "series": [
+    "非人协会系列",
+    "卫斯理系列"
+  ],
+  "connection_level": "explicit_crossover",
+  "claim": "金维、大鹰旧事进入生死锁和真实幻境；后书重述差异另记。",
+  "schema_version": "1.0",
+  "section": "bridges",
+  "evidence_ids": [
+    "evidence_04ac51bdbcffee30",
+    "evidence_349cea14dc22934b",
+    "evidence_edcd17f2e99345c9",
+    "evidence_fa282b4c2178a058",
+    "evidence_e82971096e2de5ea",
+    "evidence_e836dde3531ec0a3",
+    "evidence_67787ee0ee83a415",
+    "evidence_1e0d8bdd5450a550",
+    "evidence_d4f7bb04c2414de3"
+  ],
+  "book_ids": [
+    "book_6e319aaba962",
+    "book_87a4d0bf6b68"
+  ]
+}

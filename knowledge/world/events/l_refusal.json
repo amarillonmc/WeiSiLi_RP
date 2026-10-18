@@ -1,0 +1,27 @@
+{
+  "id": "l_refusal",
+  "title": "罗开拒绝秘密组织杀戮命令",
+  "kind": "event",
+  "summary": "给罗开情报与财富的组织试图把他纳入互相杀戮的规则，他拒绝执行。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《鬼钟》。",
+    "narrative_layer": "present"
+  },
+  "state_before": "组织用报酬和追踪约束行动。",
+  "state_after": "自主权冲突显露，调查指向更深的操纵。",
+  "knowledge_boundary": "此刻不知道后来时间大神的全部弱点。",
+  "character_ids": [
+    "adventure_luokai"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_b87d2826f05c2f82",
+    "evidence_b46462ea2c0baf56"
+  ],
+  "book_ids": [
+    "book_670aaaa7d25b"
+  ]
+}

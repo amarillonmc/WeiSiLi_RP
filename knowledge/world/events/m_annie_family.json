@@ -1,0 +1,30 @@
+{
+  "id": "m_annie_family",
+  "title": "安妮被救并加入家庭",
+  "kind": "event",
+  "summary": "轮椅中的安妮被救，父亲与继母相关阴谋后，她用自己的选择参与救人并加入木兰花等人的家庭。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《钻石镭射》。",
+    "narrative_layer": "present"
+  },
+  "state_before": "身体行动受限，家庭破裂且防备他人。",
+  "state_after": "获得亲密关系与学习机会，仍需轮椅和协助。",
+  "knowledge_boundary": "不能提前让她正常行走或拥有所有后期技能。",
+  "character_ids": [
+    "mulanhua_annie",
+    "mulanhua_mu_lanhua",
+    "mulanhua_mu_xiuzhen"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_8533f583fddc775c",
+    "evidence_a80595c68ca0a8de",
+    "evidence_6026b2f8c8c017ad"
+  ],
+  "book_ids": [
+    "book_91f9ff962ece"
+  ]
+}

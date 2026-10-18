@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "id": "book_ba6b0285889a",
+  "title": "蛊惑",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/015蛊惑.txt",
+  "file": "books/book_ba6b0285889a.json",
+  "inherited_fact_count": 27,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "37bef72830a445097e04d2f98e7ee40e32134327cf9ff0e078a440b0078f7759",
+  "source_lines": 1943,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "叶家祺",
+      "card_id": "weisili_ye_jiaqi",
+      "role": "单书主角",
+      "basis": "关系、异常与死亡"
+    },
+    {
+      "name": "芭珠",
+      "card_id": "weisili_bazhu",
+      "role": "单书主角/阶段性对立者",
+      "basis": "心蛊与悲剧中心"
+    },
+    {
+      "name": "猛哥",
+      "card_id": "weisili_mengge",
+      "role": "跨书重要配角／阶段性对立者",
+      "basis": "警告、引导及秘密约束"
+    },
+    {
+      "name": "京版",
+      "card_id": "weisili_jingban",
+      "role": "阶段性对立者",
+      "basis": "族中权威及禁言蛊"
+    },
+    {
+      "name": "平纳",
+      "card_id": "weisili_pingna",
+      "role": "单书主角",
+      "basis": "研究与解释"
+    },
+    {
+      "name": "叶家敏",
+      "card_id": "weisili_ye_jiamin",
+      "role": "单书主线人物",
+      "basis": "庇护芭珠和保留被忽略线索"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "老张、四阿姨、叶老太太、叶父、新娘及王家",
+      "reason": "接送、家事、悲剧承受或短暂婚姻相关人物；未在本书形成独立反派计划或跨书重要行动。"
+    },
+    {
+      "name": "德国医生、两位劝阻老者、四位送葬少女",
+      "reason": "诊疗、善意警告和仪式支持，不把其有限对白扩展成独立能力树。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_5d422568d5a714a0",
+      "statement": "友谊与家境",
+      "annotation_character_ids": [
+        "weisili_ye_jiaqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_618dc7c15d63418a",
+      "statement": "身份与焦虑",
+      "annotation_character_ids": [
+        "weisili_ye_jiamin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4558eeb87f9caac3",
+      "statement": "翻译与家族",
+      "annotation_character_ids": [
+        "weisili_mengge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e2460470f5cd0c3c",
+      "statement": "身份与警告",
+      "annotation_character_ids": [
+        "weisili_pingna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_653b27a52ac3ac4c",
+      "statement": "毒物展示与家族婚事",
+      "annotation_character_ids": [
+        "weisili_jingban"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eb544048ca38e0dc",
+      "statement": "采集及生物知识",
+      "annotation_character_ids": [
+        "weisili_ye_jiaqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b40691d2a213b979",
+      "statement": "关系和条件",
+      "annotation_character_ids": [
+        "weisili_bazhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_143a821d464f019d",
+      "statement": "关系、离开及警告",
+      "annotation_character_ids": [
+        "weisili_ye_jiaqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86694a196e3f79b0",
+      "statement": "追赶、期限与劝返",
+      "annotation_character_ids": [
+        "weisili_mengge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_354e9f375c1bb8c8",
+      "statement": "检查、否认及婚前状态",
+      "annotation_character_ids": [
+        "weisili_ye_jiaqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c76c5431fcdaa7b4",
+      "statement": "想告知而被阻及哭诉",
+      "annotation_character_ids": [
+        "weisili_ye_jiamin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_17f16fcbb05ef682",
+      "statement": "接触芭珠与安置",
+      "annotation_character_ids": [
+        "weisili_ye_jiamin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e4960770bd32a74",
+      "statement": "学汉语与求援",
+      "annotation_character_ids": [
+        "weisili_bazhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f8fc2921c4c21987",
+      "statement": "心蛊解释、警告和展示",
+      "annotation_character_ids": [
+        "weisili_bazhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d30cb7de922f9497",
+      "statement": "死亡与解剖",
+      "annotation_character_ids": [
+        "weisili_ye_jiaqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b89942e4580c1561",
+      "statement": "告别和未再见面",
+      "annotation_character_ids": [
+        "weisili_ye_jiamin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_75c62acf3c0eb049",
+      "statement": "死亡及代价",
+      "annotation_character_ids": [
+        "weisili_bazhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_664c02e6d2ff1161",
+      "statement": "葬礼与入谷警告",
+      "annotation_character_ids": [
+        "weisili_mengge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_15cdbc9e9ebea08d",
+      "statement": "姓名和阿克猛族权威",
+      "annotation_character_ids": [
+        "weisili_jingban"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a9e3055f1b0cb780",
+      "statement": "长期研究及未知",
+      "annotation_character_ids": [
+        "weisili_pingna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e6dacb6d639852fb",
+      "statement": "假说与不确定性",
+      "annotation_character_ids": [
+        "weisili_pingna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3ee8937ced1a39e8",
+      "statement": "设备、照片和分类",
+      "annotation_character_ids": [
+        "weisili_pingna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5a8fa8392e10d59c",
+      "statement": "保密与自由限制",
+      "annotation_character_ids": [
+        "weisili_pingna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8e2d85c6b26f21e7",
+      "statement": "禁言仪式解释",
+      "annotation_character_ids": [
+        "weisili_mengge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d0700162b78465c8",
+      "statement": "禁言仪式及二十年条件",
+      "annotation_character_ids": [
+        "weisili_jingban"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1b115ea94c0cdb84",
+      "statement": "匿名信未明示寄信者",
+      "annotation_character_ids": [
+        "weisili_ye_jiamin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_621a8975aff56c6d",
+      "statement": "化名与后述",
+      "annotation_character_ids": [
+        "weisili_ye_jiaqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

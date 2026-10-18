@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b457a6d0232b",
+  "title": "一半一半",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/139一半一半.txt",
+  "file": "books/book_b457a6d0232b.json",
+  "inherited_fact_count": 9,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "bd10b3fef9d90c2054188509602956482dcc8b9968e4e8445080038179f4dd41",
+  "source_lines": 1387,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "成功",
+      "card_id": "weisili_cheng_gong",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "成功的连体伙伴",
+      "card_id": "weisili_chenggong_other",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "亮声",
+      "card_id": "weisili_liang_sheng",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "勒曼医院",
+      "card_id": "weisili_leman_hospital",
+      "role": "阶段性对立者",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "玛仙",
+      "card_id": "yuanzhenxia_ma_xian",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "爱神星人概称",
+      "reason": "作为技术来源和背景，不把未区分的全星球成员补为个人卡"
+    },
+    {
+      "name": "陈二小姐、江海、财神老板",
+      "reason": "此书结尾礼物与谜语回顾不额外算新出场"
+    },
+    {
+      "name": "人造脑",
+      "reason": "研究项目与危机来源，缺少被独立证实的自主人格，不另造人格卡"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_788ab849876c42b1",
+      "statement": "拒绝牺牲同伴、两脑连接和实际感应",
+      "annotation_character_ids": [
+        "weisili_cheng_gong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_384ff0b265b2334f",
+      "statement": "独立思想、发声限制和愿意牺牲",
+      "annotation_character_ids": [
+        "weisili_chenggong_other"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_67517e0f1e5cd178",
+      "statement": "感应来源、双脑增强和分离困难",
+      "annotation_character_ids": [
+        "weisili_chenggong_other"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0063fab6f9e1ad3d",
+      "statement": "独立破解宝库并联系医院",
+      "annotation_character_ids": [
+        "weisili_cheng_gong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bf7d6ff8812769cc",
+      "statement": "成功早已开启宝库",
+      "annotation_character_ids": [
+        "weisili_jiang_hai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c1ef22e5833fed9e",
+      "statement": "宝库已被成功取得",
+      "annotation_character_ids": [
+        "weisili_caishen_laoban"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1223e4a60675e734",
+      "statement": "拒绝预先扑杀人造脑",
+      "annotation_character_ids": [
+        "weisili_cheng_gong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45114d1d6c84c932",
+      "statement": "俱乐部、财富和未消除的怪脸",
+      "annotation_character_ids": [
+        "weisili_cheng_gong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1664462da9710580",
+      "statement": "最终仍有脑后面孔",
+      "annotation_character_ids": [
+        "weisili_chenggong_other"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

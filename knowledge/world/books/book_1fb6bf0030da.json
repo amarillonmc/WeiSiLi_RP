@@ -1,0 +1,322 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1fb6bf0030da",
+  "title": "只限老友",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/145只限老友.txt",
+  "file": "books/book_1fb6bf0030da.json",
+  "inherited_fact_count": 23,
+  "curated_links": {
+    "rules": [
+      "rule_death",
+      "rule_growth",
+      "rule_knowledge"
+    ],
+    "entities": [
+      "underworld",
+      "thought_core",
+      "new_life_alliance"
+    ],
+    "events": [
+      "w_underworld_shutdown",
+      "w_alliance"
+    ],
+    "relations": [
+      "before__w_underworld_reveal__w_four_negotiation",
+      "before__w_four_negotiation__w_underworld_shutdown",
+      "before__w_tomb__w_underworld_shutdown",
+      "before__w_elder_contact__w_alliance",
+      "before__w_underworld_shutdown__w_alliance"
+    ],
+    "arcs": [
+      "arc_weisili",
+      "arc_wen",
+      "arc_qibai"
+    ],
+    "issues": [
+      "issue_no_global_now",
+      "issue_underworld_end",
+      "issue_foreknowledge"
+    ]
+  },
+  "direct_source_review": true,
+  "source_sha256": "be769564ff1e1450e11a488c6a80d989d15c358e0f7c687f7ab7482107021adf",
+  "source_lines": 1393,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "天嘉土王",
+      "card_id": "weisili_tianjia",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "齐白",
+      "card_id": "weisili_qi_bai",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "李宣宣",
+      "card_id": "weisili_li_xuanxuan",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "亮声",
+      "card_id": "weisili_liang_sheng",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "勒曼医院",
+      "card_id": "weisili_leman_hospital",
+      "role": "阶段性对立者",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "天神",
+      "card_id": "weisili_tian_shen",
+      "role": "阶段性对立者",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "海高",
+      "card_id": "weisili_hai_gao",
+      "role": "反派",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "阴间一二三号、四号与狄可",
+      "reason": "为解释停机和缺席作历史回顾，终局未重新取得可联系状态，不将提名等于新出场"
+    },
+    {
+      "name": "天嘉复制体",
+      "reason": "没有继承天嘉人格，由医院控制作为进入山洞的道具；力量不计天嘉本人"
+    },
+    {
+      "name": "其他外星医护和王族",
+      "reason": "与医院或政治群体同场，未区分独立主要身份"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_730f9441c91451fa",
+      "statement": "改造后空间通行来源",
+      "annotation_character_ids": [
+        "weisili_qi_bai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5750f00df1e3b7c7",
+      "statement": "寻找齐白的职业动机和线索判断",
+      "annotation_character_ids": [
+        "weisili_xiao_guo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_969f4e4e4c6e23f5",
+      "statement": "施政变化和病况",
+      "annotation_character_ids": [
+        "weisili_tianjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b587f8a2dd8b4e5e",
+      "statement": "备用身体与失败前提",
+      "annotation_character_ids": [
+        "weisili_tianjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fcd4439cfb7e5616",
+      "statement": "再次布阵和对手力量",
+      "annotation_character_ids": [
+        "weisili_hai_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_232881d41e1d260b",
+      "statement": "联合成员与复制体行动",
+      "annotation_character_ids": [
+        "weisili_leman_hospital"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dd39826ba5a2faa7",
+      "statement": "联队、复制体与成员抬石的具体归属",
+      "annotation_character_ids": [
+        "weisili_liang_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9031927017313f23",
+      "statement": "支持瓦解",
+      "annotation_character_ids": [
+        "weisili_hai_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb516eb015184a29",
+      "statement": "调查思想仪及主动让地球朋友参与",
+      "annotation_character_ids": [
+        "weisili_liang_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_64a0dfdfbd4c0f88",
+      "statement": "航行日志、反对思想仪与盗走关键件",
+      "annotation_character_ids": [
+        "weisili_tian_shen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b674c6134a8b9d6a",
+      "statement": "对追捕者的劝告、去向不明",
+      "annotation_character_ids": [
+        "weisili_tian_shen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b9641652c06b2f7a",
+      "statement": "后续追捕结果不明",
+      "annotation_character_ids": [
+        "weisili_di_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46226697f8566738",
+      "statement": "最终死亡",
+      "annotation_character_ids": [
+        "weisili_tianjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5159c49e03c20b1d",
+      "statement": "核心部件归属及一二三号动机只是推测",
+      "annotation_character_ids": [
+        "weisili_tian_shen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_791be8874d033d73",
+      "statement": "思想仪停摆、去向和灵魂结局未明",
+      "annotation_character_ids": [
+        "weisili_yin_1",
+        "weisili_yin_2",
+        "weisili_yin_3"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_92b6dc6cb47171c4",
+      "statement": "思想仪停机、团聚及主动断讯",
+      "annotation_character_ids": [
+        "weisili_qi_bai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a319df309554b15",
+      "statement": "受困通行条件与团聚的最终选择",
+      "annotation_character_ids": [
+        "weisili_li_xuanxuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cd136fb2f1ecacfb",
+      "statement": "阴间灵魂群消失，去向未知",
+      "annotation_character_ids": [
+        "weisili_cao_puzhao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad85c13dd9a665a4",
+      "statement": "土王仍无法获救",
+      "annotation_character_ids": [
+        "weisili_leman_hospital"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e6313988ccfba44e",
+      "statement": "土王去世后的哀悼",
+      "annotation_character_ids": [
+        "weisili_xiao_guo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ce9c2ab027749144",
+      "statement": "曾受极端人口论影响，终局明确改变为离开地球",
+      "annotation_character_ids": [
+        "weisili_wen_baoyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b43f8d9f9103d3b",
+      "statement": "新生大同盟的最终倡议",
+      "annotation_character_ids": [
+        "weisili_wen_baoyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_73e598182cffa5a0",
+      "statement": "终局对新生大同盟的态度仍未作明示决定",
+      "annotation_character_ids": [
+        "weisili_wei_sili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

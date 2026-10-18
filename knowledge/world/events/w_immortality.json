@@ -1,0 +1,37 @@
+{
+  "id": "w_immortality",
+  "title": "不死药的依赖、屠杀与药源终局",
+  "kind": "event",
+  "summary": "药物商业化与控制欲造成屠杀；骆致谦被处刑，柏秀琼失能，药源消失的消息带不确定性。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《不死药》本案。",
+    "narrative_layer": "present"
+  },
+  "state_before": "药物被视为财富和永生机会。",
+  "state_after": "药效与人格代价明确，岛民死亡；不能继续默认药物供应。",
+  "knowledge_boundary": "角色可知道药存在过，不代表知道可取得的新药源。",
+  "character_ids": [
+    "weisili_wei_sili",
+    "weisili_luo_zhiqian"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_676c1242104deb79",
+    "evidence_7a170b1e028ff308",
+    "evidence_ff88cab692b47711",
+    "evidence_9b7035d2e864bccb",
+    "evidence_4970e5414b2c5272",
+    "evidence_0fcdf5294634ada6",
+    "evidence_6a3e8d8a5e62c4d5",
+    "evidence_118f1c25877e476a",
+    "evidence_684071c9ddcad444",
+    "evidence_161d64539becf1be",
+    "evidence_c20f16af9cbadf7b"
+  ],
+  "book_ids": [
+    "book_8c16342a57b1"
+  ]
+}

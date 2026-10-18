@@ -1,0 +1,402 @@
+{
+  "schema_version": "1.0",
+  "id": "book_a82e320d2775",
+  "title": "三尸同行",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/58三尸同行.txt",
+  "file": "books/book_a82e320d2775.json",
+  "inherited_fact_count": 34,
+  "curated_links": {
+    "arcs": [
+      "arc_annie",
+      "arc_yunsifeng"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "37551042884b06fed9d9dce02522e6a7289930d3c6ac0667f5f093117af852ae",
+  "source_lines": 2198,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "许业康",
+      "card_id": "mulanhua_xu_yekang",
+      "role": "反派",
+      "basis": "商业竞争与谋杀计划主谋。"
+    },
+    {
+      "name": "许老大",
+      "card_id": "mulanhua_xu_eldest",
+      "role": "反派",
+      "basis": "假死及谋杀共同实施。"
+    },
+    {
+      "name": "许老二",
+      "card_id": "mulanhua_xu_second",
+      "role": "反派",
+      "basis": "假死及谋杀共同实施。"
+    },
+    {
+      "name": "许老三",
+      "card_id": "mulanhua_xu_third",
+      "role": "单书主角",
+      "basis": "实际飞行行动与被家族牺牲的核心人物。"
+    },
+    {
+      "name": "林杰",
+      "card_id": "mulanhua_lin_jie",
+      "role": "反派",
+      "basis": "被收买的朋友和关键供述者。"
+    },
+    {
+      "name": "史密斯",
+      "card_id": "mulanhua_smith_financier",
+      "role": "反派",
+      "basis": "商业控制骗局实际参与。"
+    },
+    {
+      "name": "云一风",
+      "card_id": "mulanhua_yun_yifeng",
+      "role": "跨书重要配角",
+      "basis": "本书被谋杀且结局确认。"
+    },
+    {
+      "name": "云二风",
+      "card_id": "mulanhua_yun_erfeng",
+      "role": "跨书重要配角",
+      "basis": "悲痛、审问与关键识人意见。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "制逃与商业反制。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "跨书重要配角",
+      "basis": "家族调查与悲恸。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "系列主角",
+      "basis": "空难调查和主控审判。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "飞行、保护安妮和反制。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "独立调查、误判、自责和破局。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "柯支·密勒、张医生、主治医生",
+      "reason": "一次性医疗和证人协助；整形医生明确不知犯罪，不能因手术列为反派。"
+    },
+    {
+      "name": "殓房管理员、航空控制室人员、商人代表",
+      "reason": "线索或职能配角，未见跨书重要行动。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_6bd834b990a23b5d",
+      "statement": "公开飞行行动。",
+      "annotation_character_ids": [
+        "mulanhua_xu_third"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a9c4333cdf6f7726",
+      "statement": "商业声望与仇敌。",
+      "annotation_character_ids": [
+        "mulanhua_xu_yekang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_edfdb135b16fa4b4",
+      "statement": "三兄弟飞行表演。",
+      "annotation_character_ids": [
+        "mulanhua_xu_eldest",
+        "mulanhua_xu_second"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6254c08007b0de91",
+      "statement": "兄长仍独身",
+      "annotation_character_ids": [
+        "mulanhua_yun_erfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_208fc4a49c292702",
+      "statement": "误判云一风",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c4cb13530d2b2c90",
+      "statement": "背后刀伤死亡",
+      "annotation_character_ids": [
+        "mulanhua_yun_yifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9229bdd938f594a5",
+      "statement": "朋友身份、被麻醉与报警。",
+      "annotation_character_ids": [
+        "mulanhua_lin_jie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0199301fedfa83a0",
+      "statement": "自责",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ce3b895e1ad8ca9a",
+      "statement": "揭露、逃跑和承认收买。",
+      "annotation_character_ids": [
+        "mulanhua_lin_jie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4b0bd31d714589d9",
+      "statement": "豪侠信任作风",
+      "annotation_character_ids": [
+        "mulanhua_yun_yifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_68e23e8b2a34c8c9",
+      "statement": "收买、家族分工和病情。",
+      "annotation_character_ids": [
+        "mulanhua_xu_yekang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_004b74feb533b718",
+      "statement": "提人掌掴、木制止",
+      "annotation_character_ids": [
+        "mulanhua_yun_erfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_824e4c00c8d2b479",
+      "statement": "核心企业分工。",
+      "annotation_character_ids": [
+        "mulanhua_xu_eldest",
+        "mulanhua_xu_second"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_619de2db384483f4",
+      "statement": "提供病情与家族分工。",
+      "annotation_character_ids": [
+        "mulanhua_lin_jie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dee039db8b4e84f2",
+      "statement": "未参与机密与病情线索。",
+      "annotation_character_ids": [
+        "mulanhua_xu_third"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c28b66007ece0fe5",
+      "statement": "警方保护与推理边界。",
+      "annotation_character_ids": [
+        "mulanhua_lin_jie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7f4939d2bb7ed850",
+      "statement": "不雇外人留把柄的推断",
+      "annotation_character_ids": [
+        "mulanhua_yun_erfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0931d4cdf9763301",
+      "statement": "国际商务经历。",
+      "annotation_character_ids": [
+        "mulanhua_xu_eldest",
+        "mulanhua_xu_second"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b15974eaef966f6f",
+      "statement": "家族职能区别。",
+      "annotation_character_ids": [
+        "mulanhua_xu_third"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6308ff8d9549946f",
+      "statement": "实际登场、身份和旧日手法。",
+      "annotation_character_ids": [
+        "mulanhua_smith_financier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f9fb6bdcf3851a40",
+      "statement": "史密斯合作。",
+      "annotation_character_ids": [
+        "mulanhua_xu_yekang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_68c6a36a236aa97e",
+      "statement": "运动与瑜伽荣誉。",
+      "annotation_character_ids": [
+        "mulanhua_xu_eldest",
+        "mulanhua_xu_second"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_734b623e2b903f53",
+      "statement": "合作安排和揭露后果。",
+      "annotation_character_ids": [
+        "mulanhua_smith_financier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6bc02c84d9ac5c8d",
+      "statement": "股票骗局与经济知识",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6607bea3d0de2a0d",
+      "statement": "瑜伽书辨假死",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_12719e2f4adc9a21",
+      "statement": "假死机制及浅伤推断。",
+      "annotation_character_ids": [
+        "mulanhua_xu_eldest",
+        "mulanhua_xu_second"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_89be7b1d87659db5",
+      "statement": "唯一真死者。",
+      "annotation_character_ids": [
+        "mulanhua_xu_third"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f84385423dd41d7",
+      "statement": "受害与尸体布置。",
+      "annotation_character_ids": [
+        "mulanhua_xu_third"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f8f31340ec6e4ea1",
+      "statement": "机制和共同杀害。",
+      "annotation_character_ids": [
+        "mulanhua_xu_eldest",
+        "mulanhua_xu_second"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bf3a5d34e14ea994",
+      "statement": "暗杀动机与整形证人。",
+      "annotation_character_ids": [
+        "mulanhua_xu_yekang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f42b4aba01598d86",
+      "statement": "证实、逮捕、定罪。",
+      "annotation_character_ids": [
+        "mulanhua_xu_yekang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5778afe3f184f185",
+      "statement": "整容、被捕与定罪。",
+      "annotation_character_ids": [
+        "mulanhua_xu_eldest",
+        "mulanhua_xu_second"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_57345010307b26eb",
+      "statement": "案件定罪",
+      "annotation_character_ids": [
+        "mulanhua_yun_yifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_947cebbc1b567543",
+      "statement": "谋杀定罪。",
+      "annotation_character_ids": [
+        "mulanhua_xu_third"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f7287efb3d54",
+  "title": "谜踪",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/075谜踪.txt",
+  "file": "books/book_f7287efb3d54.json",
+  "inherited_fact_count": 20,
+  "curated_links": {
+    "bridges": [
+      "bridge_shuiyin"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "c170816f5581da277abce66bb2fc660865163e13bb2125f1ddb16282a95c32bf",
+  "source_lines": 3487,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "查人入画及政治骗局"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "讨论录音和终局"
+    },
+    {
+      "name": "巴图",
+      "card_id": "weisili_batu",
+      "role": "主角",
+      "basis": "调查、受骗及最终查明"
+    },
+    {
+      "name": "小纳",
+      "card_id": "weisili_xiao_na",
+      "role": "重要配角",
+      "basis": "协助追寻巴图"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "偷画及追查"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "偷画及追查"
+    },
+    {
+      "name": "老狐狸",
+      "card_id": "weisili_lao_huli",
+      "role": "阶段性对立者",
+      "basis": "策划骗局后共同反抗"
+    },
+    {
+      "name": "卡诺娃",
+      "card_id": "weisili_kanuowa",
+      "role": "阶段性对立者",
+      "basis": "扮女教师的执行军官"
+    },
+    {
+      "name": "老将军",
+      "card_id": "weisili_mizong_old_general",
+      "role": "反派",
+      "basis": "秘密安排与层级欺骗"
+    },
+    {
+      "name": "失踪元帅",
+      "card_id": "weisili_mizong_marshal",
+      "role": "主角",
+      "basis": "长期被藏匿的核心人物"
+    },
+    {
+      "name": "水银将军",
+      "card_id": "adventure_shuiyin",
+      "role": "阶段性对立者",
+      "basis": "分析、监测与操纵调查路线的具体行动"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "学生群、博物馆职员与画家",
+      "reason": "共同骗局执行者但缺少可区分的独立人格，不虚构姓名和超能"
+    },
+    {
+      "name": "黛娜上校",
+      "reason": "早期回述巴图去向的短暂线索，未形成已核跨书重要行动"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_12925b1c97f1d247",
+      "statement": "外形与教师举止",
+      "annotation_character_ids": [
+        "weisili_kanuowa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c45dd36fb3ca3893",
+      "statement": "黛娜明确指认自己的上司水银将军",
+      "annotation_character_ids": [
+        "adventure_shuiyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_12298c1b421c8181",
+      "statement": "与巴图关系及早期隐瞒",
+      "annotation_character_ids": [
+        "adventure_shuiyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff4b9c6a6f97f7c9",
+      "statement": "画中骗局与酒后转移",
+      "annotation_character_ids": [
+        "weisili_lao_huli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c15db007437e589c",
+      "statement": "调查巴图三年",
+      "annotation_character_ids": [
+        "adventure_shuiyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5701481bc30692d5",
+      "statement": "监测限制与拆解骗局",
+      "annotation_character_ids": [
+        "adventure_shuiyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5d6329e0e4de4a7",
+      "statement": "利用双胞胎影响卫斯理",
+      "annotation_character_ids": [
+        "adventure_shuiyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8fc818b38401eb12",
+      "statement": "揭露、被出卖和联合调查",
+      "annotation_character_ids": [
+        "weisili_lao_huli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4feda68bc0653e90",
+      "statement": "游戏、揭露与身份切换",
+      "annotation_character_ids": [
+        "weisili_kanuowa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8769f876f5cd3c7d",
+      "statement": "抗电波装置的副作用",
+      "annotation_character_ids": [
+        "weisili_batu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4227901c85840de0",
+      "statement": "少校身份和与双胞胎交往",
+      "annotation_character_ids": [
+        "weisili_kanuowa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c72f1dcd4672dc37",
+      "statement": "身份与寻找自我",
+      "annotation_character_ids": [
+        "weisili_lao_huli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_53e9272d103e48e8",
+      "statement": "退休疗养与身体状态",
+      "annotation_character_ids": [
+        "weisili_mizong_old_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f9c7f9ed95861999",
+      "statement": "见到真相后离开",
+      "annotation_character_ids": [
+        "weisili_lao_huli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_456bb254b4fa554a",
+      "statement": "安排跳伞及跨阵营保密",
+      "annotation_character_ids": [
+        "weisili_mizong_old_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ceafb7fa5dbbbafe",
+      "statement": "被救及无兵权",
+      "annotation_character_ids": [
+        "weisili_mizong_marshal"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_80279636cef39840",
+      "statement": "顶层知情名单与巴图判断",
+      "annotation_character_ids": [
+        "adventure_shuiyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7998f1a4187e8b6",
+      "statement": "展示元帅及过时秘密",
+      "annotation_character_ids": [
+        "weisili_mizong_old_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3c13d308602234aa",
+      "statement": "骗局与过时秘密终局",
+      "annotation_character_ids": [
+        "weisili_batu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_56adc1a9cda365b9",
+      "statement": "外形、轮椅与过时秘密",
+      "annotation_character_ids": [
+        "weisili_mizong_marshal"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

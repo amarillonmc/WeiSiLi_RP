@@ -1,0 +1,294 @@
+{
+  "schema_version": "1.0",
+  "id": "book_93599e44ee3e",
+  "title": "遥控谋杀案",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/48遥控谋杀案.txt",
+  "file": "books/book_93599e44ee3e.json",
+  "inherited_fact_count": 24,
+  "curated_links": {
+    "arcs": [
+      "arc_mulanhua",
+      "arc_yunsifeng",
+      "arc_gaoxiang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "894ed9a5d8fadf9fb206c1fbeb63456f7dc7b794821aa913c55c0565a107ee5f",
+  "source_lines": 2784,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "陈宝明",
+      "card_id": "mulanhua_chen_baoming",
+      "role": "单书主角／阶段性对立者",
+      "basis": "被怀疑、诉讼与被灭口的工业家。"
+    },
+    {
+      "name": "徐健",
+      "card_id": "mulanhua_xu_jian",
+      "role": "反派",
+      "basis": "真正遥控谋杀者。"
+    },
+    {
+      "name": "间谍头目",
+      "card_id": "mulanhua_baoji_spy_master",
+      "role": "反派",
+      "basis": "控制工业集团的敌国机构负责人。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "跨书重要配角",
+      "basis": "错误预断、潜入、留氧气救木兰花。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "发现倒车事故异常并参与联络救援。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "调查徐宅和救援。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "企业背景与远距离射杀押送者。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "跨书重要配角",
+      "basis": "查旧地窖、安排伏击及拘捕。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "跨书重要配角",
+      "basis": "已经回到伙伴中支持调查。"
+    },
+    {
+      "name": "杨科长",
+      "card_id": "mulanhua_yang_chief",
+      "role": "跨书重要配角",
+      "basis": "实际承担刑案调查；综合卡另记录59腐败与死亡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "梁梅生、杨奇达、张柏年、白凤、杨安娜、邱龙等股东",
+      "reason": "本案受害或线索相关配角；未确认跨书独立身份，也不是反派，仅不配合保护不等于反派。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_402f25de641b0fa5",
+      "statement": "竞争者对工业与发明才干的评价。",
+      "annotation_character_ids": [
+        "mulanhua_chen_baoming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a9d372b428756fff",
+      "statement": "弹道与目标保护。",
+      "annotation_character_ids": [
+        "mulanhua_yang_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_127c16f69051fddf",
+      "statement": "自演受害者的摇椅炸弹。",
+      "annotation_character_ids": [
+        "mulanhua_xu_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2201b902325b7928",
+      "statement": "为高翔停职不平。",
+      "annotation_character_ids": [
+        "mulanhua_yang_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f298e0a1553b7d23",
+      "statement": "诉讼、嫌疑与经营处境。",
+      "annotation_character_ids": [
+        "mulanhua_chen_baoming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_736481185093224b",
+      "statement": "反合并、以秘密施压。",
+      "annotation_character_ids": [
+        "mulanhua_chen_baoming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d4e87ae0b067862",
+      "statement": "被高翔麻醉。",
+      "annotation_character_ids": [
+        "mulanhua_chen_baoming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_abe15c333dd1f43a",
+      "statement": "误认陈宝明",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bf51cb3762f075dc",
+      "statement": "被谋杀、伪自杀不成立。",
+      "annotation_character_ids": [
+        "mulanhua_chen_baoming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9499c4990584e5fc",
+      "statement": "提前退休及通敌怀疑。",
+      "annotation_character_ids": [
+        "mulanhua_xu_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e971a6d1fed9b10",
+      "statement": "工程室、锤枪穿钢板与识破试探。",
+      "annotation_character_ids": [
+        "mulanhua_xu_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5ca992865d6d9b0c",
+      "statement": "头目性格、股权谋杀计划、贿赂与被指出的限制。",
+      "annotation_character_ids": [
+        "mulanhua_baoji_spy_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_64a931ea6042ff06",
+      "statement": "股权及兵工厂计划。",
+      "annotation_character_ids": [
+        "mulanhua_xu_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cf22d4f1e769f20d",
+      "statement": "地窖下水道搜救",
+      "annotation_character_ids": [
+        "mulanhua_fang_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d0e15616842bef36",
+      "statement": "转移与伪电话计划。",
+      "annotation_character_ids": [
+        "mulanhua_xu_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f4d1df0c22c0d3e5",
+      "statement": "麻醉转移安排。",
+      "annotation_character_ids": [
+        "mulanhua_baoji_spy_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3bded767f679bf21",
+      "statement": "依氧避麻而非免疫",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f568afeecbe3b10",
+      "statement": "让氧被麻",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5772e500a9c26f6f",
+      "statement": "持枪押送并改变出口。",
+      "annotation_character_ids": [
+        "mulanhua_baoji_spy_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7ee88fb7fabdfb03",
+      "statement": "来福枪救人质",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f663bedb510622e9",
+      "statement": "被远射击倒。",
+      "annotation_character_ids": [
+        "mulanhua_baoji_spy_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_29702a64557775a4",
+      "statement": "逮捕与认罪。",
+      "annotation_character_ids": [
+        "mulanhua_xu_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cee647ece6989dfb",
+      "statement": "真凶与被利用的关系。",
+      "annotation_character_ids": [
+        "mulanhua_chen_baoming"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f0a6ef4233dd943",
+      "statement": "死亡身份与兵工厂目标。",
+      "annotation_character_ids": [
+        "mulanhua_baoji_spy_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

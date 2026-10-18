@@ -1,0 +1,333 @@
+{
+  "schema_version": "1.0",
+  "id": "book_17ded030e4d8",
+  "title": "后备",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/055后备.txt",
+  "file": "books/book_17ded030e4d8.json",
+  "inherited_fact_count": 27,
+  "curated_links": {
+    "entities": [
+      "leman"
+    ],
+    "events": [
+      "w_leman"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "c684686b10e288645a5d3b6430c891642be5b175d0fa295ee20c1656a732511c",
+  "source_lines": 3220,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "调查后备秘密"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "协作调查"
+    },
+    {
+      "name": "丘伦",
+      "card_id": "weisili_qiu_lun",
+      "role": "主角",
+      "basis": "摄影见证与追查起点"
+    },
+    {
+      "name": "海文",
+      "card_id": "weisili_hai_wen",
+      "role": "主角",
+      "basis": "持续调查和旧情推动"
+    },
+    {
+      "name": "沙灵",
+      "card_id": "weisili_sha_ling",
+      "role": "主角",
+      "basis": "跨案调查和王室保安"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "主角",
+      "basis": "危病与治疗选择"
+    },
+    {
+      "name": "杜良",
+      "card_id": "weisili_du_liang",
+      "role": "阶段性对立者",
+      "basis": "医院研究者"
+    },
+    {
+      "name": "哥登",
+      "card_id": "weisili_ge_deng",
+      "role": "阶段性对立者",
+      "basis": "解释研究与伦理立场"
+    },
+    {
+      "name": "罗克",
+      "card_id": "weisili_luo_ke",
+      "role": "阶段性对立者",
+      "basis": "接触客户及研究"
+    },
+    {
+      "name": "勒曼医院",
+      "card_id": "weisili_leman_hospital",
+      "role": "阶段性对立者",
+      "basis": "机构共同技术与决策"
+    },
+    {
+      "name": "阿潘特",
+      "card_id": "weisili_a_pante",
+      "role": "反派",
+      "basis": "为支配收益发动政变"
+    },
+    {
+      "name": "齐洛",
+      "card_id": "weisili_qi_luo",
+      "role": "反派",
+      "basis": "独裁与记者拘押"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "巴纳德医生",
+      "reason": "被冒名的医疗专家背景，未把真实人物资料扩写成虚构主要角色"
+    },
+    {
+      "name": "丘伦、齐洛等后备体",
+      "reason": "具有身体和自然动作，但未建立可区分自主人格；保留伦理疑问，不重复本人的卡"
+    },
+    {
+      "name": "杨副董事长与其他医护、护卫",
+      "reason": "一次性执行者，没有独立主要对抗目标"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0c89d8374c1fd523",
+      "statement": "职业与经历",
+      "annotation_character_ids": [
+        "weisili_qiu_lun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5127b3d17a32dbe1",
+      "statement": "识人追拍与关系选择",
+      "annotation_character_ids": [
+        "weisili_qiu_lun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_96a4d94a5d9186c2",
+      "statement": "政变身份、拘押及照片交锋",
+      "annotation_character_ids": [
+        "weisili_qi_luo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f90cba4152d62b9",
+      "statement": "本人政治处境与后备体区分",
+      "annotation_character_ids": [
+        "weisili_qi_luo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_270148afbd33eefe",
+      "statement": "约会反应与职业",
+      "annotation_character_ids": [
+        "weisili_hai_wen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_006a74e5775cf5f4",
+      "statement": "伤口与护卫背景",
+      "annotation_character_ids": [
+        "weisili_a_pante"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd2882bca257c84b",
+      "statement": "身份与年龄状态",
+      "annotation_character_ids": [
+        "weisili_sha_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cf562f58f31d5c89",
+      "statement": "跨案调查与假说",
+      "annotation_character_ids": [
+        "weisili_sha_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d496eb1aafa26699",
+      "statement": "提供遗骸及照片线索",
+      "annotation_character_ids": [
+        "weisili_hai_wen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e8d9c233e98ec710",
+      "statement": "假代表身份与病房谈判",
+      "annotation_character_ids": [
+        "weisili_luo_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e7265789fc6cc517",
+      "statement": "调查病人名单",
+      "annotation_character_ids": [
+        "weisili_hai_wen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7fa4a16e384eaef4",
+      "statement": "病情的政治影响",
+      "annotation_character_ids": [
+        "weisili_a_pante"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f44ad705df1a2dee",
+      "statement": "保密原因",
+      "annotation_character_ids": [
+        "weisili_sha_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ef69986ee5ce423f",
+      "statement": "死亡说明",
+      "annotation_character_ids": [
+        "weisili_qiu_lun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_42791d89c471fbd3",
+      "statement": "形貌、科学家身份与整容",
+      "annotation_character_ids": [
+        "weisili_ge_deng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0e2bef35f676d1c8",
+      "statement": "胃癌治疗背景",
+      "annotation_character_ids": [
+        "weisili_a_pante"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_731a3a66b0eddaf0",
+      "statement": "明确湖边者为后备",
+      "annotation_character_ids": [
+        "weisili_qi_luo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dcd648aab3192195",
+      "statement": "后备机制及非致病说明",
+      "annotation_character_ids": [
+        "weisili_ge_deng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c871b09c9cfe33a5",
+      "statement": "费用论证和后备体争议",
+      "annotation_character_ids": [
+        "weisili_luo_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_51b937fd41d304a4",
+      "statement": "伦理争论与展示",
+      "annotation_character_ids": [
+        "weisili_ge_deng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a85a014a5881d95d",
+      "statement": "后备身体研究与对伦理问题的反应",
+      "annotation_character_ids": [
+        "weisili_du_liang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_69feddd731344d48",
+      "statement": "后备不是本人复生",
+      "annotation_character_ids": [
+        "weisili_qiu_lun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b99d84166565f1a7",
+      "statement": "团队职责与保密",
+      "annotation_character_ids": [
+        "weisili_luo_ke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1563fcf4cce9be06",
+      "statement": "未被告知真实结局",
+      "annotation_character_ids": [
+        "weisili_hai_wen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_91b9d19c5a508658",
+      "statement": "信任朋友的结局",
+      "annotation_character_ids": [
+        "weisili_sha_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bf9767122cc46313",
+      "statement": "资源交换与大人物医学效果",
+      "annotation_character_ids": [
+        "weisili_leman_hospital"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e321fd5e0b4d2cdb",
+      "statement": "政变和死亡代价",
+      "annotation_character_ids": [
+        "weisili_a_pante"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

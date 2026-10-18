@@ -1,0 +1,226 @@
+{
+  "schema_version": "1.0",
+  "id": "book_0050207a2763",
+  "title": "智擒电子盗",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/13智擒电子盗.txt",
+  "file": "books/book_0050207a2763.json",
+  "inherited_fact_count": 18,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "cae5e4565a5c2dfe0cf6c7790eced723780960b63c6233d1171986440eca4192",
+  "source_lines": 2560,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "胡法天",
+      "card_id": "mulanhua_hu_fatian",
+      "role": "反派/重要配角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "辛华士",
+      "card_id": "mulanhua_xinhuashi",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "朱四",
+      "card_id": "mulanhua_zhu_si",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "苏禄",
+      "card_id": "mulanhua_su_lu",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "庞天、殷百万、连奥爵士",
+      "reason": "本书为失窃受害及调查对象，无独立反派行动；连奥仅追述失窃，未新增实际跨书参与。"
+    },
+    {
+      "name": "朱四八姨太、国际集团代表、保镖、六号七号探员及葛得",
+      "reason": "旧情关系人物或一次性执行助手，未给足独立主线行为；不凭列席会议给匿名成员虚构履历。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_3b745feaa3a16671",
+      "statement": "微型摄录取密码机制",
+      "annotation_character_ids": [
+        "mulanhua_hu_fatian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_05cea6854a2372ee",
+      "statement": "政治犯罪计划",
+      "annotation_character_ids": [
+        "mulanhua_xinhuashi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d1bc099f1239e2d1",
+      "statement": "身份、旧情及真实告密记录",
+      "annotation_character_ids": [
+        "mulanhua_su_lu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7425af91d686ae5f",
+      "statement": "与苏禄关系",
+      "annotation_character_ids": [
+        "mulanhua_zhu_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2caec04964c79241",
+      "statement": "藏文件和交付",
+      "annotation_character_ids": [
+        "mulanhua_su_lu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8b60e491700638c5",
+      "statement": "毒品计划中的地位",
+      "annotation_character_ids": [
+        "mulanhua_zhu_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_378226e2ecade38c",
+      "statement": "为何被判断可靠",
+      "annotation_character_ids": [
+        "mulanhua_su_lu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d58fcecbe85cffd",
+      "statement": "假挟持过程",
+      "annotation_character_ids": [
+        "mulanhua_zhu_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_851f84f82d75f6f3",
+      "statement": "身份、识破渗透与被迫放人",
+      "annotation_character_ids": [
+        "mulanhua_xinhuashi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_56ab2b151765f81e",
+      "statement": "厚利收买和真文件陷阱",
+      "annotation_character_ids": [
+        "mulanhua_su_lu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_58a21cfb455ec663",
+      "statement": "厚利收买、独寝破绽及放回",
+      "annotation_character_ids": [
+        "mulanhua_zhu_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a983b5c4ce450cf",
+      "statement": "身手、动机和否认公益",
+      "annotation_character_ids": [
+        "mulanhua_hu_fatian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5c99a3391b43571a",
+      "statement": "真实汽车追踪装置",
+      "annotation_character_ids": [
+        "mulanhua_hu_fatian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_420682d590bc0539",
+      "statement": "接受权位并交出人质",
+      "annotation_character_ids": [
+        "mulanhua_hu_fatian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bea294f49e5577dd",
+      "statement": "利益谈判和扣人",
+      "annotation_character_ids": [
+        "mulanhua_xinhuashi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7a4fb4108ce5e2b1",
+      "statement": "司机反转、跳车且未死",
+      "annotation_character_ids": [
+        "mulanhua_xinhuashi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b3697c7541a177e0",
+      "statement": "被捕判刑与越狱威胁",
+      "annotation_character_ids": [
+        "mulanhua_hu_fatian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ea9ca1e78fc5478",
+      "statement": "选举阴谋终结",
+      "annotation_character_ids": [
+        "mulanhua_xinhuashi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

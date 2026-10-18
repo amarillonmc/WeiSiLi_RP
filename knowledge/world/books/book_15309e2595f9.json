@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0",
+  "id": "book_15309e2595f9",
+  "title": "军械大盗",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/33军械大盗.txt",
+  "file": "books/book_15309e2595f9.json",
+  "inherited_fact_count": 17,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "4d12f385c74705e946480faf6ce664206d26923677c998bb7571012c1c398e5c",
+  "source_lines": 2590,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "胡天德",
+      "card_id": "mulanhua_hu_tiande",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "盗枪特务副队长",
+      "card_id": "mulanhua_arms_deputy",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "盗枪特务组其余九人",
+      "card_id": "mulanhua_arms_team",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "纳尔逊",
+      "card_id": "mulanhua_nelson",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "两名大国高级情报人员、潘上校、将军及警员",
+      "reason": "当书合作人员；两名情报人员解释核心计划，但无跨书身份与个人独立冒险，不因保密或曾隐瞒便列反派。"
+    },
+    {
+      "name": "暴风中死亡的舢舨驾者、走私船员及油站工人",
+      "reason": "单次执行、证人与受害者，缺独立持续人物线；来源未定的驾者不强加特务姓名。"
+    },
+    {
+      "name": "云四风",
+      "reason": "本书借艇和既有设计被提及，未出现独立现场行动；主卡保留既有装备证据。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_a9ad333e83255489",
+      "statement": "身份外观、谎言及临场判断",
+      "annotation_character_ids": [
+        "mulanhua_hu_tiande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e7a0c1e0fe3e747",
+      "statement": "码头搜查、律师及获释",
+      "annotation_character_ids": [
+        "mulanhua_hu_tiande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5ee4728dca978f76",
+      "statement": "携枪被扣",
+      "annotation_character_ids": [
+        "mulanhua_arms_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bcfc03b916732716",
+      "statement": "越狱及语言",
+      "annotation_character_ids": [
+        "mulanhua_arms_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_025367482c43010b",
+      "statement": "死亡和毒针",
+      "annotation_character_ids": [
+        "mulanhua_hu_tiande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c6b75179d15d577d",
+      "statement": "撞车伤亡与胡宅集结",
+      "annotation_character_ids": [
+        "mulanhua_arms_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6baf165e7141dcb1",
+      "statement": "知情范围未定及租船关系",
+      "annotation_character_ids": [
+        "mulanhua_hu_tiande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d078db7516456032",
+      "statement": "跟踪伏击及油车损失",
+      "annotation_character_ids": [
+        "mulanhua_arms_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e8865bbfa383a291",
+      "statement": "坠崖与携人撤离",
+      "annotation_character_ids": [
+        "mulanhua_arms_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dd5737fc8cb19ef9",
+      "statement": "取胜与副组长职权",
+      "annotation_character_ids": [
+        "mulanhua_arms_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_395bbbd11dc46b55",
+      "statement": "人质用途和洗脑威胁",
+      "annotation_character_ids": [
+        "mulanhua_arms_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_832774bb7d038c16",
+      "statement": "投降及贿赂",
+      "annotation_character_ids": [
+        "mulanhua_arms_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3978e6b9b2ceb681",
+      "statement": "两名末期组员的具体反应及死亡",
+      "annotation_character_ids": [
+        "mulanhua_arms_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e08b8a1c0dcd4c70",
+      "statement": "枪托近身应急",
+      "annotation_character_ids": [
+        "mulanhua_fang_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_81b5630300c66de4",
+      "statement": "毒针挟持、杀两同伙",
+      "annotation_character_ids": [
+        "mulanhua_arms_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2eb2c436aba9eab4",
+      "statement": "劫直升机逃离",
+      "annotation_character_ids": [
+        "mulanhua_arms_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1703a7e9b7b114fd",
+      "statement": "实际战略失败",
+      "annotation_character_ids": [
+        "mulanhua_arms_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

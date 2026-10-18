@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1fd78fe599aa",
+  "title": "眼睛",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/047眼睛.txt",
+  "file": "books/book_1fd78fe599aa.json",
+  "inherited_fact_count": 19,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "ef99d2d8164f1a700599ea9e4533c03c56400e8db663a5f1f0688ca4764cfbe2",
+  "source_lines": 3444,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "父子关系引发调查"
+    },
+    {
+      "name": "比拉尔",
+      "card_id": "weisili_bilaer",
+      "role": "单书主角",
+      "basis": "矿区调查与宿主冲突核心"
+    },
+    {
+      "name": "蔡根富",
+      "card_id": "weisili_cai_genfu",
+      "role": "单书核心人物",
+      "basis": "矿区调查与宿主冲突核心"
+    },
+    {
+      "name": "奥干古达",
+      "card_id": "weisili_aoganguda",
+      "role": "单书主角",
+      "basis": "矿区调查与宿主冲突核心"
+    },
+    {
+      "name": "花丝",
+      "card_id": "weisili_huasi",
+      "role": "阶段性对立者",
+      "basis": "矿区调查与宿主冲突核心"
+    },
+    {
+      "name": "怪眼（《眼睛》寄生群体）",
+      "card_id": "weisili_guaiyan_parasites",
+      "role": "反派群体",
+      "basis": "矿区调查与宿主冲突核心"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "道格工程师",
+      "reason": "单书前史及受害线索，非独立主角；未证明跨书。"
+    },
+    {
+      "name": "里耶",
+      "reason": "单次引路协助者。"
+    },
+    {
+      "name": "异星追击者",
+      "reason": "只经残留装置与不完整译文得知，无足以区别个体的人格信息；装置不假建成人。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_8004b11d7ed67c68",
+      "statement": "蔡根富为唯一亲人",
+      "annotation_character_ids": [
+        "weisili_lao_cai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c73f9a735c7e9e65",
+      "statement": "亲属及判刑",
+      "annotation_character_ids": [
+        "weisili_cai_genfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fb17b94af45324e4",
+      "statement": "早期发现及求助",
+      "annotation_character_ids": [
+        "weisili_cai_genfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cf941193e3db6189",
+      "statement": "送机与晚年情感",
+      "annotation_character_ids": [
+        "weisili_lao_cai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c9ed92e02136771c",
+      "statement": "身份及调查组",
+      "annotation_character_ids": [
+        "weisili_aoganguda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4de2ddbb47d84800",
+      "statement": "矿区调查",
+      "annotation_character_ids": [
+        "weisili_bilaer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dd1f287d30a5dccb",
+      "statement": "身份与信仰",
+      "annotation_character_ids": [
+        "weisili_huasi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_212efb4fe71fc6ac",
+      "statement": "寄生及伪装",
+      "annotation_character_ids": [
+        "weisili_guaiyan_parasites"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a69cfc71fcc54b21",
+      "statement": "寄生与假恢复",
+      "annotation_character_ids": [
+        "weisili_aoganguda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b5ed96e102fced39",
+      "statement": "死亡与怪眼分离",
+      "annotation_character_ids": [
+        "weisili_aoganguda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_65d606da37c69058",
+      "statement": "宿主死亡与寄生体",
+      "annotation_character_ids": [
+        "weisili_cai_genfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c2cc50c298652532",
+      "statement": "宿主死亡、脱体与光杀",
+      "annotation_character_ids": [
+        "weisili_guaiyan_parasites"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dd7990ab60f0283c",
+      "statement": "寄生及死亡",
+      "annotation_character_ids": [
+        "weisili_huasi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f31791cc14ba3bb",
+      "statement": "救友与争论",
+      "annotation_character_ids": [
+        "weisili_bilaer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f4957a44657b3e6",
+      "statement": "译文和不同解释",
+      "annotation_character_ids": [
+        "weisili_bilaer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46636a46f36584d7",
+      "statement": "部分译文及解释限制",
+      "annotation_character_ids": [
+        "weisili_guaiyan_parasites"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_433a9d24758a809d",
+      "statement": "过程重建为推测",
+      "annotation_character_ids": [
+        "weisili_cai_genfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c91bf0005685e32f",
+      "statement": "分化解释未证实",
+      "annotation_character_ids": [
+        "weisili_huasi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d9bb39d541611388",
+      "statement": "离开及伦理反问",
+      "annotation_character_ids": [
+        "weisili_bilaer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

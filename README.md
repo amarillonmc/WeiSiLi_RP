@@ -1,8 +1,26 @@
 # WeiSiLi_RP
 
-基于倪匡小说建设可供其他项目调用的知识库。现已建立原始语料清理记录、角色卡及独立强度档案。
+基于倪匡小说建设可供其他项目调用的知识库。现已建立原始语料清理记录、角色卡、独立强度档案，以及按共同世界前提整理的世界规则、时间关系和 RP 状态资料。
 
 角色入口：[knowledge/README.md](knowledge/README.md)。调用方式和整理口径：[知识库使用说明](docs/knowledge_usage.md)。实际条目数、覆盖数量和原文哈希见 [knowledge/manifest.json](knowledge/manifest.json)，校验结果见 [reports/character_kb_validation.json](reports/character_kb_validation.json)。
+
+## 世界观、时间线与 RP 状态
+
+先读 [世界如何运作与演绎说明](docs/worldbuilding_guide.md)，条目入口为 [knowledge/world/README.md](knowledge/world/README.md)。
+
+- 336 个文本均有事件证据入口，连接已有 1,409 个角色的经历；保留原文行号和资料来源。
+- 另行整理 14 条世界规则、30 个机构／地点／争夺目标、67 个关键事件、24 条成长线、11 组跨系列连接及 12 项争议与未决问题。
+- 时间表使用有证据的先后关系，区分发生、回忆和后来揭露；没有证据的跨系列年代保持未知。
+- 按事件生成 RP 状态时，不自动加载人物终局记忆、互斥身体或已经失效的旧装备。
+
+```powershell
+python -X utf8 tools/query_world.py 思想仪 --kind entities
+python -X utf8 tools/query_world.py --book 微晶之密
+python -X utf8 tools/query_world.py --scene w_eagle_human --character 神鹰
+python -X utf8 tools/build_world_kb.py --check
+```
+
+本轮重点条目关联 85 个文本，直接回读引用来自 8 个文本，全部逐书入口复用已有角色证据；索引全覆盖不表示重新通读全部作品或穷尽世界设定。细分覆盖与构建校验见 [世界覆盖记录](knowledge/world/coverage.json)及 [校验报告](reports/world_kb_validation.json)。
 
 ## 角色卡与强度档案
 

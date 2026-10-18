@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0",
+  "id": "book_f2a010e21eca",
+  "title": "高空喋血",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/17高空喋血.txt",
+  "file": "books/book_f2a010e21eca.json",
+  "inherited_fact_count": 26,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "7859eb56084d09ca51fd36e020c3cfa021d1c1aa4863bcfd76a474a55df046db",
+  "source_lines": 2648,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "以电话催逼服毒者的新任特务负责人",
+      "card_id": "mulanhua_poison_phone_successor",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "额有红斑者为首的机场接头组",
+      "card_id": "mulanhua_poison_airport_contacts",
+      "role": "反派/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "假扮路边伤者的特务",
+      "card_id": "mulanhua_poison_false_casualty",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "叶夫维奇",
+      "card_id": "mulanhua_yev_vich",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "以解药要挟三侠的某国大使",
+      "card_id": "mulanhua_poison_ambassador",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "运送解药外交专机的指挥层",
+      "card_id": "mulanhua_poison_diplomatic_command",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "一号（电光衣事件中校）",
+      "card_id": "mulanhua_electrocoat_number_one",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "杜申科、军舰医生、机枪手、飞行员及潜水搜索员",
+      "reason": "一次性执行或医疗助手，未具独立动机主线。载机指挥层以有共同任务的群体卡记录。"
+    },
+    {
+      "name": "萨都拉、占士邦、石少明",
+      "reason": "只作提及、物品类型比喻或上一册背景，不算本册实际跨书登场。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_3e91a4c17a2c2a5e",
+      "statement": "自述身份、恐吓及毒物信息",
+      "annotation_character_ids": [
+        "mulanhua_poison_phone_successor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_446b60ccfc7614b8",
+      "statement": "催赴机场且未识破仿声",
+      "annotation_character_ids": [
+        "mulanhua_poison_phone_successor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a767c3414158f4e2",
+      "statement": "标记、警戒及任务损失",
+      "annotation_character_ids": [
+        "mulanhua_poison_airport_contacts"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_489939a3654f09fd",
+      "statement": "掩饰、麻醉被擒及服毒控制",
+      "annotation_character_ids": [
+        "mulanhua_poison_airport_contacts"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3524b4557c24db68",
+      "statement": "绝望、药已毁及合作",
+      "annotation_character_ids": [
+        "mulanhua_poison_airport_contacts"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a2dd09f4c951a9ba",
+      "statement": "提供航线时间后被留下",
+      "annotation_character_ids": [
+        "mulanhua_poison_airport_contacts"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_55680596b6adfe19",
+      "statement": "明确身份对应与被擒",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_number_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10ef7bb9219e44be",
+      "statement": "车队异常与假伤救助",
+      "annotation_character_ids": [
+        "mulanhua_poison_false_casualty"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_455d519a3a30594c",
+      "statement": "藏枪、逼转支路及围捕",
+      "annotation_character_ids": [
+        "mulanhua_poison_false_casualty"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fd661a4a256a2c66",
+      "statement": "放人后麻醉反捕",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_number_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_87bb2cec168aabcb",
+      "statement": "高翔成为人质",
+      "annotation_character_ids": [
+        "mulanhua_poison_false_casualty"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6abc2d9cab422d28",
+      "statement": "强迫加盟、假病脱困",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_number_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c92972b4064ac548",
+      "statement": "水下搜索失败",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_number_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b3a864bfc93d2cdb",
+      "statement": "身份、诱入与解除武装",
+      "annotation_character_ids": [
+        "mulanhua_yev_vich"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_98988e21f446870d",
+      "statement": "被扭腕、通知大使和远程接待",
+      "annotation_character_ids": [
+        "mulanhua_yev_vich"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f824361565e4ef03",
+      "statement": "外观、立场和电话诱导",
+      "annotation_character_ids": [
+        "mulanhua_poison_ambassador"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c4452ebc361818b4",
+      "statement": "掌握港口情报及真实目的",
+      "annotation_character_ids": [
+        "mulanhua_poison_ambassador"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_58fd4c62f440b65f",
+      "statement": "旁听与自得反应",
+      "annotation_character_ids": [
+        "mulanhua_poison_ambassador"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ead502a21d7b5ae2",
+      "statement": "仍被迫留在室内",
+      "annotation_character_ids": [
+        "mulanhua_yev_vich"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77e1b1331a9577b6",
+      "statement": "外交机武装与反击失败",
+      "annotation_character_ids": [
+        "mulanhua_poison_diplomatic_command"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76523174fe09fc30",
+      "statement": "被迫降落及水面设施",
+      "annotation_character_ids": [
+        "mulanhua_poison_diplomatic_command"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b98c589d21bf3ee3",
+      "statement": "少将质问、副总理决断与登艇",
+      "annotation_character_ids": [
+        "mulanhua_poison_diplomatic_command"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8110706cb26ae8ae",
+      "statement": "施压目标最终脱险",
+      "annotation_character_ids": [
+        "mulanhua_poison_phone_successor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_750631f1f9824e5b",
+      "statement": "海上位置交换人质",
+      "annotation_character_ids": [
+        "mulanhua_poison_diplomatic_command"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_961efff151ae1f9d",
+      "statement": "交换并放人",
+      "annotation_character_ids": [
+        "mulanhua_poison_ambassador"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d822cbc3434afade",
+      "statement": "使馆最终放人",
+      "annotation_character_ids": [
+        "mulanhua_yev_vich"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0",
+  "id": "book_0d683e643d16",
+  "title": "生命合同",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/57生命合同.txt",
+  "file": "books/book_0d683e643d16.json",
+  "inherited_fact_count": 27,
+  "curated_links": {
+    "arcs": [
+      "arc_mulanhua",
+      "arc_gaoxiang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "d31398e88938165837ccd801bd1c0bb0c81053e6cb08cf5efbe7ac3f7be70aee",
+  "source_lines": 2314,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "九金刚",
+      "card_id": "mulanhua_jiujingang",
+      "role": "反派群体",
+      "basis": "接续54的固定九人，综合终局。"
+    },
+    {
+      "name": "丁孟生",
+      "card_id": "mulanhua_ding_mengsheng",
+      "role": "反派",
+      "basis": "前篇已确认成员，后篇只继承群体终局。"
+    },
+    {
+      "name": "李义",
+      "card_id": "mulanhua_li_yi",
+      "role": "反派",
+      "basis": "本篇明确姓名的船上成员。"
+    },
+    {
+      "name": "胡成德",
+      "card_id": "mulanhua_hu_chengde",
+      "role": "反派",
+      "basis": "监守自盗关键内应。"
+    },
+    {
+      "name": "贝娜",
+      "card_id": "mulanhua_beina",
+      "role": "单书主角",
+      "basis": "被绑架、协作逃亡与康复。"
+    },
+    {
+      "name": "护士",
+      "card_id": "mulanhua_jiujingang_nurse",
+      "role": "反派",
+      "basis": "受贿安置窃听器。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "系列主角",
+      "basis": "调查与外交机构搜捕。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "调查救援。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "脱船、遭延迟药物与恢复。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "示踪搜捕。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "跨书重要配角",
+      "basis": "仪器、取解药。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "跨书重要配角",
+      "basis": "同意承担搜捕风险。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "市长、光辉董事长及其另一侄子",
+      "reason": "被施压者或线索人物，没有独立主角线及反派行动。"
+    },
+    {
+      "name": "电机博士旧日舞女、保险库制造商、外交部副部长",
+      "reason": "仅叙及关系、技术答复或处分，不据称谓补出独立生平。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_99ef2219717a0744",
+      "statement": "明确接续第五十四集九名逃犯。",
+      "annotation_character_ids": [
+        "mulanhua_ding_mengsheng",
+        "mulanhua_jiujingang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d1289a691c916e94",
+      "statement": "年级与绑架时机。",
+      "annotation_character_ids": [
+        "mulanhua_beina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a2cbfdfc72429451",
+      "statement": "性格、身份、合作及恐惧。",
+      "annotation_character_ids": [
+        "mulanhua_beina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_57cfaa9c9f7de77d",
+      "statement": "持械看守群体。",
+      "annotation_character_ids": [
+        "mulanhua_li_yi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a98a0cc941317051",
+      "statement": "受制、姓名、受伤与放人后笑声。",
+      "annotation_character_ids": [
+        "mulanhua_li_yi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_984fab26cac43c9a",
+      "statement": "快艇逃离和记者会。",
+      "annotation_character_ids": [
+        "mulanhua_beina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_593cadea03b0808a",
+      "statement": "药物威胁。",
+      "annotation_character_ids": [
+        "mulanhua_beina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_87431cb8fa2db56e",
+      "statement": "放人原是延迟控制计划。",
+      "annotation_character_ids": [
+        "mulanhua_li_yi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d89e0abf4fd632b8",
+      "statement": "放人和延迟药物的真实计划。",
+      "annotation_character_ids": [
+        "mulanhua_jiujingang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_597575caf42fc140",
+      "statement": "身份及检查流程。",
+      "annotation_character_ids": [
+        "mulanhua_hu_chengde"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_53cab6483b0a8254",
+      "statement": "疲倦影响思考及恢复办法",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8e57d2cc121616ed",
+      "statement": "不可能开锁与内应推理。",
+      "annotation_character_ids": [
+        "mulanhua_hu_chengde"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b44f5b7b0be72189",
+      "statement": "误认、持枪和供述。",
+      "annotation_character_ids": [
+        "mulanhua_hu_chengde"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1956a7e53006d1d5",
+      "statement": "利用胡成德。",
+      "annotation_character_ids": [
+        "mulanhua_jiujingang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8d452b2b13e9af0a",
+      "statement": "交物与承诺。",
+      "annotation_character_ids": [
+        "mulanhua_hu_chengde"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3a12e8f3f7e0862d",
+      "statement": "召救护车。",
+      "annotation_character_ids": [
+        "mulanhua_hu_chengde"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ef6a73c2ebb2b834",
+      "statement": "发现并利用窃听器。",
+      "annotation_character_ids": [
+        "mulanhua_jiujingang_nurse"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fb41b551418e91e4",
+      "statement": "窃听被反用。",
+      "annotation_character_ids": [
+        "mulanhua_jiujingang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db8f1fd609e5fdcf",
+      "statement": "收买推测与护士慌张。",
+      "annotation_character_ids": [
+        "mulanhua_jiujingang_nurse"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e8a151385bd3bd7",
+      "statement": "承担处分救人",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8b8e9211230f1f76",
+      "statement": "同意承担风险救人",
+      "annotation_character_ids": [
+        "mulanhua_fang_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6242b77bb91b09d7",
+      "statement": "九人身份核验与保护失效。",
+      "annotation_character_ids": [
+        "mulanhua_li_yi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d92402cb8352b012",
+      "statement": "全部整容、指纹确认和外交身份失效。",
+      "annotation_character_ids": [
+        "mulanhua_ding_mengsheng",
+        "mulanhua_jiujingang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_33d21cfb2d3656ba",
+      "statement": "解药与恢复。",
+      "annotation_character_ids": [
+        "mulanhua_beina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b0eddc10ce04be0a",
+      "statement": "揭露、可能不起诉的意见和被带走。",
+      "annotation_character_ids": [
+        "mulanhua_jiujingang_nurse"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b3ea41337f88d9e",
+      "statement": "入狱。",
+      "annotation_character_ids": [
+        "mulanhua_li_yi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee25272029b56801",
+      "statement": "九人终局入狱。",
+      "annotation_character_ids": [
+        "mulanhua_ding_mengsheng",
+        "mulanhua_jiujingang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

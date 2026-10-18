@@ -1,0 +1,24 @@
+{
+  "id": "bridge_mulanhua",
+  "title": "木兰花一方进入白家调查网",
+  "kind": "bridge",
+  "series": [
+    "木兰花全集",
+    "卫斯理系列"
+  ],
+  "connection_level": "explicit_crossover",
+  "claim": "木兰花提供证词联系；穆秀珍、云四风以各自专长参与后续事件。",
+  "schema_version": "1.0",
+  "section": "bridges",
+  "evidence_ids": [
+    "evidence_bc61895854f3a2b6",
+    "evidence_c0713dd186aae719",
+    "evidence_bce6b4bac2c1a32f",
+    "evidence_0996784c638d053a",
+    "evidence_887113b67be362c5"
+  ],
+  "book_ids": [
+    "book_afc4b3885657",
+    "book_b75096582a1e"
+  ]
+}

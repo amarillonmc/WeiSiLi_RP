@@ -1,0 +1,27 @@
+{
+  "id": "g_crystal_loss",
+  "title": "高达陪伴水晶死亡",
+  "kind": "event",
+  "summary": "高达得知水晶生命将尽后选择婚姻与陪伴，失去她后曾退隐。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《水晶艳女》终局；与无编号其他高达文本不强排完整顺序。",
+    "narrative_layer": "present"
+  },
+  "state_before": "浪子式关系受到真实死亡压力。",
+  "state_after": "失去妻子与退隐经历留下创伤，后来的伙伴关系仍继续。",
+  "knowledge_boundary": "这段经历不等于高达永久改成守法或专一的理想人物。",
+  "character_ids": [
+    "adventure_gaoda"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_95a58495b009476c",
+    "evidence_8c6a219ce9967837"
+  ],
+  "book_ids": [
+    "book_76747244fea3"
+  ]
+}

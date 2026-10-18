@@ -1,0 +1,229 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b75096582a1e",
+  "title": "开心",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/100开心.txt",
+  "file": "books/book_b75096582a1e.json",
+  "inherited_fact_count": 16,
+  "curated_links": {
+    "events": [
+      "w_eagle_friend",
+      "m_weicrossover"
+    ],
+    "arcs": [
+      "arc_shenying",
+      "arc_muxiuzhen",
+      "arc_yunsifeng"
+    ],
+    "bridges": [
+      "bridge_mulanhua"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "e9f4e71086d8dbcd60ad0bc6f6d3b5bb397c1c4916e563a0d5c72af1e8a14f92",
+  "source_lines": 2692,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "系列主角",
+      "basis": "与神鹰建立关系"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "技艺与器材协助"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "技艺与器材协助"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "跨系列主角",
+      "basis": "实际到访、回述相遇和借机"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨系列主角",
+      "basis": "实际到访、提供特殊飞机"
+    },
+    {
+      "name": "伦三德",
+      "card_id": "weisili_lun_sande",
+      "role": "重要配角",
+      "basis": "实际行动贯穿主线"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "重要配角",
+      "basis": "实际行动贯穿主线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "大山、原振侠的记载",
+      "reason": "此书提出大山生命的研究假说，未给独立人格行动；原振侠未亲自现身。"
+    },
+    {
+      "name": "兽医、受袭儿童、戈壁沙漠已故师父",
+      "reason": "一次性辅助或背景回述，未有独立主角线或跨书实际出场证据。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e9da90c44d24e8fb",
+      "statement": "冲突受伤与救治",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b183f8acde9f6d39",
+      "statement": "与红绫交往",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2060a231e6f96142",
+      "statement": "工匠体系与挑战",
+      "annotation_character_ids": [
+        "weisili_lun_sande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3a9d37eec2842703",
+      "statement": "分件工艺",
+      "annotation_character_ids": [
+        "weisili_lun_sande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_927aa68451f97497",
+      "statement": "携信",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fd9ac63000ea0041",
+      "statement": "求援及文字",
+      "annotation_character_ids": [
+        "weisili_lun_sande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4bacd04f75b8ac3f",
+      "statement": "驾机来访",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca42497d0237f9b8",
+      "statement": "引路",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_54f8ec6255cf7a0a",
+      "statement": "负重边界",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0996784c638d053a",
+      "statement": "实际来访",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_887113b67be362c5",
+      "statement": "伦三德图样与人才态度",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fad17112bb1f236f",
+      "statement": "记长名与接触图样",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b28b59abb4ce81b",
+      "statement": "名字来源",
+      "annotation_character_ids": [
+        "weisili_lun_sande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f8e5cf7fc8f9980",
+      "statement": "研究目标和边界",
+      "annotation_character_ids": [
+        "weisili_lun_sande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b80daff239478ddb",
+      "statement": "神鹰与终局",
+      "annotation_character_ids": [
+        "weisili_lun_sande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cf2db6681471389e",
+      "statement": "伙伴与往返",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

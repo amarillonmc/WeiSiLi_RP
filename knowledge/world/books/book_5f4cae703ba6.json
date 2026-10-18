@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "id": "book_5f4cae703ba6",
+  "title": "神机",
+  "aliases": [],
+  "series": "年轻人",
+  "source_path": "年轻人/06神机.txt",
+  "file": "books/book_5f4cae703ba6.json",
+  "inherited_fact_count": 9,
+  "curated_links": {
+    "arcs": [
+      "arc_young"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "cdd37707fd14c0e9cb027e4f092fdae12cc5365458e645339e7f8652a52a0aa3",
+  "source_lines": 1291,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "年轻人",
+      "card_id": "adventure_young",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "奥丽卡公主",
+      "card_id": "adventure_princess",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "黑影外星人／第七号",
+      "card_id": "adventure_shenji_group",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "但尼尔",
+      "card_id": "adventure_dannier",
+      "role": "单书主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "谭宝博士",
+      "card_id": "adventure_tanbao",
+      "role": "单书主角",
+      "basis": "以完整调查记录承担内嵌叙事主视角"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "达文博士、萨达及其他遇害科学家",
+      "reason": "原人格是研究与谋杀线索，夺体后行动归黑影生命，不能混为本人能力。"
+    },
+    {
+      "name": "简珍、小谭、索利爵士",
+      "reason": "本书一次性证人与协助调查者，未满足跨书重要配角。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7ea478d1fd5fa173",
+      "statement": "事故判断与恐惧",
+      "annotation_character_ids": [
+        "adventure_dannier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ac92fd9d4783ef27",
+      "statement": "救助和作证",
+      "annotation_character_ids": [
+        "adventure_dannier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e6d9555df2a2aa7",
+      "statement": "助手之死、仪器机制、短时残留讯号与藏证",
+      "annotation_character_ids": [
+        "adventure_tanbao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6cd225950aa7159b",
+      "statement": "谨慎跟踪、录音和秘密研究室的发现",
+      "annotation_character_ids": [
+        "adventure_tanbao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c1140c882bed2541",
+      "statement": "归来、黑影与写作选择",
+      "annotation_character_ids": [
+        "adventure_dannier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c57c62c39c0b6872",
+      "statement": "科学家死亡与不确定肉体结局",
+      "annotation_character_ids": [
+        "adventure_shenji_group"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8741acfffc126949",
+      "statement": "借体和节点推断",
+      "annotation_character_ids": [
+        "adventure_shenji_group"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f2c75999c5df4069",
+      "statement": "直接交谈、行动目的与空间限制",
+      "annotation_character_ids": [
+        "adventure_shenji_group"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f1708bc91259ace",
+      "statement": "追问战争责任",
+      "annotation_character_ids": [
+        "adventure_young"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

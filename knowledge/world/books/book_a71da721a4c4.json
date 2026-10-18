@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "id": "book_a71da721a4c4",
+  "title": "环",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/033环.txt",
+  "file": "books/book_a71da721a4c4.json",
+  "inherited_fact_count": 4,
+  "curated_links": {
+    "arcs": [
+      "arc_weisili"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "8ed6b020b1f0c3b180d57b9e58f3150bd3bc296e84ae8b256158c7bc379ae369",
+  "source_lines": 1821,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "杰克",
+      "card_id": "weisili_jieke",
+      "role": "重要配角",
+      "basis": "警务调查"
+    },
+    {
+      "name": "土星环的八名政变者",
+      "card_id": "weisili_saturn_coup_group",
+      "role": "反派群体",
+      "basis": "政变主谋"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "阿发",
+      "reason": "受雇窃环后协助，单次次要角色"
+    },
+    {
+      "name": "洪老三",
+      "reason": "以江湖威慑被提及，未见本书独立出场"
+    },
+    {
+      "name": "土星环一般居民",
+      "reason": "文明背景，不作为八名反派可支配的部下"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_75015279f54114e0",
+      "statement": "磁性钥匙",
+      "annotation_character_ids": [
+        "weisili_saturn_coup_group"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4907403473cc95d3",
+      "statement": "环境差异与组织政策",
+      "annotation_character_ids": [
+        "weisili_saturn_coup_group"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b7382a6030a8ea7",
+      "statement": "政变邀请和败亡",
+      "annotation_character_ids": [
+        "weisili_saturn_coup_group"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e8ff9c59dc4380ab",
+      "statement": "阻止政变时主动杀害八人及欺骗脱身，表明并非绝不先发杀人",
+      "annotation_character_ids": [
+        "weisili_wei_sili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

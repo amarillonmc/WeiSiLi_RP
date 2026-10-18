@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b227612aca17",
+  "title": "大宝藏",
+  "aliases": [],
+  "series": "年轻人",
+  "source_path": "年轻人/05大宝藏.txt",
+  "file": "books/book_b227612aca17.json",
+  "inherited_fact_count": 6,
+  "curated_links": {
+    "events": [
+      "n_empire"
+    ],
+    "relations": [
+      "before__n_empire__y_body_rescue",
+      "before__y_body_rescue__n_new_body",
+      "before__n_new_body__n_myth_return"
+    ],
+    "arcs": [
+      "arc_princess"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "ec0db252e0eaaa17cc950b33722a61b3d240b0f50e7e9bc3098005cdb93e6fde",
+  "source_lines": 1026,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "年轻人",
+      "card_id": "adventure_young",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "奥丽卡公主",
+      "card_id": "adventure_princess",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "中国人",
+      "card_id": "adventure_uncle",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "土耳其皇",
+      "card_id": "adventure_turkish",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "汉斯",
+      "card_id": "adventure_hans",
+      "role": "反派",
+      "basis": "具有独立目标并推动本书主要事件"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "朱兰、朱丰、丰城造",
+      "reason": "宝藏来源及历史受害者线索；无作为本书独立主角展开的行动线。"
+    },
+    {
+      "name": "奇勒",
+      "reason": "单书钱币鉴定辅助角色。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_bc7d28465bc6acd6",
+      "statement": "竞价与同行",
+      "annotation_character_ids": [
+        "adventure_turkish"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_26281ef2b91f5223",
+      "statement": "身份线索、被杀及不确定复仇",
+      "annotation_character_ids": [
+        "adventure_turkish"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71751ae8b9f4bd69",
+      "statement": "调查汉斯与丰城造",
+      "annotation_character_ids": [
+        "adventure_uncle"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_20f00efddc6d2607",
+      "statement": "本名、目标、拷打与杀人",
+      "annotation_character_ids": [
+        "adventure_hans"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b1938f6a18c2fdba",
+      "statement": "财富欲与失踪",
+      "annotation_character_ids": [
+        "adventure_hans"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b1d5c38e381b7644",
+      "statement": "对财富和关系的选择",
+      "annotation_character_ids": [
+        "adventure_princess"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

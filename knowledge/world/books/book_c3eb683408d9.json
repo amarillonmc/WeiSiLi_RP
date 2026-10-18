@@ -1,0 +1,328 @@
+{
+  "schema_version": "1.0",
+  "id": "book_c3eb683408d9",
+  "title": "原形",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/115原形.txt",
+  "file": "books/book_c3eb683408d9.json",
+  "inherited_fact_count": 26,
+  "curated_links": {
+    "arcs": [
+      "arc_shenying"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "1ffa2bd121521f647bd4c6e9ccd792f9c684b58b433f11404679bed0ab67e151",
+  "source_lines": 2743,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "实际调查和决断"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "实际调查、谈判与家庭选择"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "实际参与调查和讨论"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "主角",
+      "basis": "实际观察、与神鹰协作及家庭互动"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "命案复查、鸡场行动及法律争议"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "主持酒会、医院协调并亲自来电托助"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "重要配角",
+      "basis": "辨别异常、看守母鸡与阿大战斗"
+    },
+    {
+      "name": "丁真",
+      "card_id": "weisili_ding_zhen",
+      "role": "主角",
+      "basis": "事故责任、求爱和寻鸡"
+    },
+    {
+      "name": "原何可人",
+      "card_id": "weisili_he_keren_original",
+      "role": "主角",
+      "basis": "劳动经历、被杀与身份被替代的中心"
+    },
+    {
+      "name": "纳塔莎",
+      "card_id": "weisili_natasha",
+      "role": "主角",
+      "basis": "借身、送鸡、谈判与离开"
+    },
+    {
+      "name": "阿大",
+      "card_id": "weisili_ada_rooster",
+      "role": "阶段性对立者",
+      "basis": "报仇、守护与战斗"
+    },
+    {
+      "name": "三六五号母鸡",
+      "card_id": "weisili_hen_365",
+      "role": "主角",
+      "basis": "逃宰、被寻回及留作研究"
+    },
+    {
+      "name": "何正汉",
+      "card_id": "weisili_he_zhenghan",
+      "role": "反派",
+      "basis": "伪慈爱、杀人和死亡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "其余五百五十九只编号母鸡",
+      "reason": "变化初期群体，无独立人格展示；不能把可能为害坐实"
+    },
+    {
+      "name": "记者、医护、普通警员",
+      "reason": "功能性服务与调查协助，未达跨书重要人物"
+    },
+    {
+      "name": "原振侠、陈长青",
+      "reason": "往事比较与回忆，未实际参与本案"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_11bd465f817e8e58",
+      "statement": "身份成就、财富和承认交通责任",
+      "annotation_character_ids": [
+        "weisili_ding_zhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0ca016c253a48aaa",
+      "statement": "医院等候、愿意补偿的选择",
+      "annotation_character_ids": [
+        "weisili_ding_zhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c073107ab534a616",
+      "statement": "身体的伤势、痛觉和强力要求寻鸡",
+      "annotation_character_ids": [
+        "weisili_natasha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_266e05a121e5db97",
+      "statement": "追寻母鸡并显露迷恋",
+      "annotation_character_ids": [
+        "weisili_ding_zhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c74b947b9635ab3a",
+      "statement": "唯一未找回的三六五号",
+      "annotation_character_ids": [
+        "weisili_hen_365"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_95facc98b8d7e614",
+      "statement": "少年进入鸡场及多年劳作",
+      "annotation_character_ids": [
+        "weisili_he_keren_original"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7ae20e32317f1426",
+      "statement": "衰老外观、军旅自述与依赖照护",
+      "annotation_character_ids": [
+        "weisili_he_zhenghan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_70cdd9d5ed19236e",
+      "statement": "日常照护、爱惜宠物及与老人争执的回述",
+      "annotation_character_ids": [
+        "weisili_he_keren_original"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_848710bea84b3043",
+      "statement": "死亡现场、伤口与躲避轨迹",
+      "annotation_character_ids": [
+        "weisili_he_zhenghan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eea0980f35206bc1",
+      "statement": "窄缝命案伤口与鸡喙推断",
+      "annotation_character_ids": [
+        "weisili_ada_rooster"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_33a417b85b96c32a",
+      "statement": "鸡语交流局限",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a1908cbc5b553f20",
+      "statement": "理解人鹰言语的表现与装死",
+      "annotation_character_ids": [
+        "weisili_hen_365"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a3f5118be131edf",
+      "statement": "保持不动及对谈话的反应",
+      "annotation_character_ids": [
+        "weisili_hen_365"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0515667cd55f4ad8",
+      "statement": "保护阿大并用法律反驳",
+      "annotation_character_ids": [
+        "weisili_natasha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6b09ddb267801e2f",
+      "statement": "攻击黄堂、闪避及退到伴侣身后",
+      "annotation_character_ids": [
+        "weisili_ada_rooster"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b8691b188bba082",
+      "statement": "腾空与神鹰交手、双方力量边界",
+      "annotation_character_ids": [
+        "weisili_ada_rooster"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7e398db8bd92f7d",
+      "statement": "交战与恐惧",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_06231ea5c3a2c992",
+      "statement": "退避神鹰、私谈与准备离开",
+      "annotation_character_ids": [
+        "weisili_natasha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c8b7435fdc2fd909",
+      "statement": "找到母鸡后的最后行动",
+      "annotation_character_ids": [
+        "weisili_ding_zhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d459aec60fbda023",
+      "statement": "丁真最终寻回",
+      "annotation_character_ids": [
+        "weisili_hen_365"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_28a4dc447863edbe",
+      "statement": "借身身份、与阿大的关系、鸡场交出及名字",
+      "annotation_character_ids": [
+        "weisili_natasha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5c1ed8f6d964ba06",
+      "statement": "遭杀害、阿大报仇与纳塔莎借身的终局解释",
+      "annotation_character_ids": [
+        "weisili_he_keren_original"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d21f41e47588c875",
+      "statement": "强迫杀人和被阿大报仇",
+      "annotation_character_ids": [
+        "weisili_he_zhenghan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8bfe7b34135630de",
+      "statement": "为原何可人复仇与纳塔莎情侣关系",
+      "annotation_character_ids": [
+        "weisili_ada_rooster"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_79fc16870f045037",
+      "statement": "变化初期、宰杀理由及例外留下",
+      "annotation_character_ids": [
+        "weisili_hen_365"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_423321f8ae0d3a56",
+      "statement": "场地时间异常解释",
+      "annotation_character_ids": [
+        "weisili_he_zhenghan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

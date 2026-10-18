@@ -1,0 +1,40 @@
+{
+  "id": "miao_base",
+  "title": "苗疆基地与飞行背心",
+  "kind": "place",
+  "summary": "白家往事与异星设备相连的地点，红绫曾受陈月兰教导操作。",
+  "mechanism": {
+    "text": "远程立体投影、基地设备及飞行背心有实际接触和教学来历。",
+    "epistemic_status": "textual_fact"
+  },
+  "access_conditions": [
+    "到达基地",
+    "已学会对应操作",
+    "远方联系人是否回应"
+  ],
+  "limits": [
+    "红绫不能主动随时召来外婆",
+    "她最后把背心留下，不是常备装备",
+    "陈月兰本体能力未展示"
+  ],
+  "last_known_state": "《祸根》母女短暂相见后联络终止；红绫离开时未带背心。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "可追寻家族信息、保存设施或寻找重新联络的办法。"
+  },
+  "character_ids": [
+    "weisili_chen_yuelan",
+    "weisili_hong_ling"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_2b1dd125d9f6d5be",
+    "evidence_0bb1e9d7e786e292",
+    "evidence_ee42f3cc9a489e8c",
+    "evidence_3beea314932e36e3"
+  ],
+  "book_ids": [
+    "book_02a15832ae8a"
+  ]
+}

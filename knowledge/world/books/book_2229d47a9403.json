@@ -1,0 +1,209 @@
+{
+  "schema_version": "1.0",
+  "id": "book_2229d47a9403",
+  "title": "招魂",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/077招魂.txt",
+  "file": "books/book_2229d47a9403.json",
+  "inherited_fact_count": 13,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "5581d45e86238fed770fd6e0b1227286dbee45bc6761b75921444eb73a412b6e",
+  "source_lines": 4689,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "调查及形成未完全证实的记忆假说"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "分析、控制冲突及复核录像"
+    },
+    {
+      "name": "齐白",
+      "card_id": "weisili_qi_bai",
+      "role": "主角",
+      "basis": "古墓见闻与画作辨识"
+    },
+    {
+      "name": "梁若水",
+      "card_id": "weisili_liang_ruoshui",
+      "role": "重要配角",
+      "basis": "受邀助手及专业判断"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "夜探、家族触动和监视录像"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "夜探、家族触动和监视录像"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "分析并探访研究所"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "共同讨论和探访"
+    },
+    {
+      "name": "费力",
+      "card_id": "weisili_feili",
+      "role": "主角",
+      "basis": "研究与自体实验失踪"
+    },
+    {
+      "name": "建文记忆人格",
+      "card_id": "weisili_jianwen_memory",
+      "role": "主角",
+      "basis": "古墓行动和身份消失"
+    },
+    {
+      "name": "李自成记忆人格",
+      "card_id": "weisili_lizicheng_memory",
+      "role": "主角",
+      "basis": "独立对话和异常认知线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "倪云林",
+      "reason": "仅画作与别号指向的未证实人格；不另建确定复生卡，与费力互斥假说记录"
+    },
+    {
+      "name": "精神病院院长",
+      "reason": "一次性专业见证和受试者来源说明，未证实了解或合谋招魂"
+    },
+    {
+      "name": "历史李白、李岩、红娘子、朱棣等",
+      "reason": "提及或记忆背景，不因名号建成本书活动的复生角色"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_cb18d4e4f1290530",
+      "statement": "医师身份、性格和课题",
+      "annotation_character_ids": [
+        "weisili_feili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b7018b8bb8c7ede",
+      "statement": "基金与研究所",
+      "annotation_character_ids": [
+        "weisili_feili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cae4c9060ca202b4",
+      "statement": "错认、气势与悔恨",
+      "annotation_character_ids": [
+        "weisili_lizicheng_memory"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b127cdfa093abac",
+      "statement": "家族秘密与红娘子后代线索",
+      "annotation_character_ids": [
+        "weisili_liang_chen",
+        "weisili_mei_jing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ac6c0589a07bbbdc",
+      "statement": "身份、时代冲突与记忆",
+      "annotation_character_ids": [
+        "weisili_jianwen_memory"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b4e62882cdda193",
+      "statement": "地形、追捕恐惧和帝王姿态",
+      "annotation_character_ids": [
+        "weisili_jianwen_memory"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bc1c9176234e5ef3",
+      "statement": "认知状态变化",
+      "annotation_character_ids": [
+        "weisili_jianwen_memory"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_577d29496fc09303",
+      "statement": "遗骨与记忆假说",
+      "annotation_character_ids": [
+        "weisili_jianwen_memory"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0fc5bf239fc81200",
+      "statement": "记忆机制为观察者推断",
+      "annotation_character_ids": [
+        "weisili_lizicheng_memory"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eac922379d6e9f15",
+      "statement": "否认、受试者与无法完全证实",
+      "annotation_character_ids": [
+        "weisili_feili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c45a22c2cb0b65e3",
+      "statement": "再次参与并要求交代",
+      "annotation_character_ids": [
+        "weisili_liang_ruoshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b93f88161a6d8a1",
+      "statement": "再次出现及认知状态",
+      "annotation_character_ids": [
+        "weisili_lizicheng_memory"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8615f78de2c1b762",
+      "statement": "自体实验、画作及失踪",
+      "annotation_character_ids": [
+        "weisili_feili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

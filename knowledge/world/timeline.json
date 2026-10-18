@@ -1,0 +1,2871 @@
+{
+  "schema_version": "1.0",
+  "events": [
+    {
+      "id": "earth_engineering",
+      "title": "七方改造工程及一处失灵",
+      "kind": "event",
+      "summary": "长老叙述七种外星生命共同寻找生存地、改造地球；一处未爆使自己受困，也使原计划偏离。",
+      "epistemic_status": "testimony",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "远古；只知在现代人类及当代调查之前，不换算绝对年份。",
+        "narrative_layer": "reported_past"
+      },
+      "state_before": "七方联合实施改造。",
+      "state_after": "六处爆炸、一处受困；后世人类形成。",
+      "knowledge_boundary": "事件发生很早，调查者至《行动救星》才获知这套解释；不能给童年的卫斯理这一知识。",
+      "character_ids": [
+        "weisili_chang_lao"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_b67444551c3c677e"
+      ],
+      "book_ids": [
+        "book_202100bacdcc"
+      ]
+    },
+    {
+      "id": "w_childhood",
+      "title": "少年卫斯理与神秘声音",
+      "kind": "event",
+      "summary": "少年卫斯理通过集中思念联络声音，处理况英豪被误抓等事；声音身份到后书才进一步揭明。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "卫斯理童年；书目位置晚于部分成年故事不改变发生时间。",
+        "narrative_layer": "recollection"
+      },
+      "state_before": "少年不明白声音背后的主体。",
+      "state_after": "建立特殊联络与委托经历，身份仍未揭明。",
+      "knowledge_boundary": "此时不能认识“一至四号”的完整关系；后来揭露不应回填童年对白。",
+      "character_ids": [
+        "weisili_wei_sili",
+        "weisili_yin_4"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_5aac8f8ec213639b"
+      ],
+      "book_ids": [
+        "book_7eed28bd703f"
+      ]
+    },
+    {
+      "id": "w_diamond",
+      "title": "钻石花争夺与黎明玫之死",
+      "kind": "event",
+      "summary": "钻石财富把江湖、黑帮与情感纠葛引到一起；黎明玫死亡，卫斯理选择为死神留改过机会。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "成年早期；先于《地底奇人》中有关死神的追述。",
+        "narrative_layer": "present"
+      },
+      "state_before": "钻石与旧恩怨仍在驱动追逐。",
+      "state_after": "死亡和宽赦改变关系，财富目标没有免除情感代价。",
+      "knowledge_boundary": "将《地底奇人》所说死神后来已死另记，不能当作钻石花案末现场死亡。",
+      "character_ids": [
+        "weisili_wei_sili"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_429e04a3ab98a413",
+        "evidence_6624422ddeef1c36",
+        "evidence_9b37df1b8af5239f",
+        "evidence_744a7bef832cc901"
+      ],
+      "book_ids": [
+        "book_93d047542c1e"
+      ]
+    },
+    {
+      "id": "w_bai_union",
+      "title": "地底追索后的白家关系确立",
+      "kind": "event",
+      "summary": "白素用装钱的麻袋垫熔岩帮助脱险，卫斯理与白家由冲突走向亲密关系。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《地底奇人》续段《卫斯理与白素》的脱险阶段。",
+        "narrative_layer": "present"
+      },
+      "state_before": "财富争执与危险未解。",
+      "state_after": "卫白关系确立，白奇伟保留独立判断。",
+      "knowledge_boundary": "晚年家族秘密和失散女儿不能在此提前透露。",
+      "character_ids": [
+        "weisili_wei_sili",
+        "weisili_bai_su",
+        "weisili_bai_qiwei"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_3d03b5a91cc37d91"
+      ],
+      "book_ids": [
+        "book_4d22028f17c9"
+      ]
+    },
+    {
+      "id": "w_blue_blood",
+      "title": "蓝血人与寄生危机",
+      "kind": "event",
+      "summary": "方天的异星身世、寄生生命及纳尔逊死亡使“人形与人格不同”成为切身问题。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "成年卫斯理调查时期；不与其他系列强排同期。",
+        "narrative_layer": "present"
+      },
+      "state_before": "异常被当作身份与犯罪谜团。",
+      "state_after": "寄生者被处置，纳尔逊原人格已死；方天后续去向未有确证。",
+      "knowledge_boundary": "保留原人格死亡与身体被使用的区别；卫斯理知道个案，不因此知道全部外星生命。",
+      "character_ids": [
+        "weisili_wei_sili"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_754a09c0d9f78b99",
+        "evidence_1f96e67b977c0182",
+        "evidence_27b939265138cc5f",
+        "evidence_7b3ede89324e8a33",
+        "evidence_1bdec9421ad08eba",
+        "evidence_98db66bfa5ab48d2",
+        "evidence_fbd385caafd79b16",
+        "evidence_94f1952c57993592",
+        "evidence_9980fe5bfd9a8fa6",
+        "evidence_86efb6ebb660a9c0"
+      ],
+      "book_ids": [
+        "book_c1ab2fa68267"
+      ]
+    },
+    {
+      "id": "w_immortality",
+      "title": "不死药的依赖、屠杀与药源终局",
+      "kind": "event",
+      "summary": "药物商业化与控制欲造成屠杀；骆致谦被处刑，柏秀琼失能，药源消失的消息带不确定性。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《不死药》本案。",
+        "narrative_layer": "present"
+      },
+      "state_before": "药物被视为财富和永生机会。",
+      "state_after": "药效与人格代价明确，岛民死亡；不能继续默认药物供应。",
+      "knowledge_boundary": "角色可知道药存在过，不代表知道可取得的新药源。",
+      "character_ids": [
+        "weisili_wei_sili",
+        "weisili_luo_zhiqian"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_676c1242104deb79",
+        "evidence_7a170b1e028ff308",
+        "evidence_ff88cab692b47711",
+        "evidence_9b7035d2e864bccb",
+        "evidence_4970e5414b2c5272",
+        "evidence_0fcdf5294634ada6",
+        "evidence_6a3e8d8a5e62c4d5",
+        "evidence_118f1c25877e476a",
+        "evidence_684071c9ddcad444",
+        "evidence_161d64539becf1be",
+        "evidence_c20f16af9cbadf7b"
+      ],
+      "book_ids": [
+        "book_8c16342a57b1"
+      ]
+    },
+    {
+      "id": "w_leman",
+      "title": "勒曼医院后备人体秘密被揭",
+      "kind": "event",
+      "summary": "卫斯理接触复制人体及移植制度，研究成就与牺牲副本的伦理冲突进入叙述。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "早于《蜂后》中医院迁址及复制高达事件。",
+        "narrative_layer": "present"
+      },
+      "state_before": "医院秘密经营后备人体项目。",
+      "state_after": "秘密曝光，后书说明医院迁往格陵兰冰层下。",
+      "knowledge_boundary": "这是机构项目，不是卫斯理学会复制；也不能让本案人物提前掌握杜良晚期成果。",
+      "character_ids": [
+        "weisili_wei_sili",
+        "weisili_du_liang"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_a85a014a5881d95d",
+        "evidence_2da3842da4df00dc"
+      ],
+      "book_ids": [
+        "book_17ded030e4d8",
+        "book_533b28ccc313"
+      ]
+    },
+    {
+      "id": "w_tomb",
+      "title": "盗墓使齐白接近异常遗迹",
+      "kind": "event",
+      "summary": "齐白的地下探索与古物阅读装置相遇，盗墓经验开始连接异星知识。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "齐白获得后期阴间通行身份之前。",
+        "narrative_layer": "present"
+      },
+      "state_before": "以盗墓与古迹调查为主要经验。",
+      "state_after": "已有异常装置接触；不因此已经掌管阴间。",
+      "knowledge_boundary": "只按当时实际装置和知识行动，不加载终局团聚状态。",
+      "character_ids": [
+        "weisili_qi_bai"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_46bc026fbd5c7506"
+      ],
+      "book_ids": [
+        "book_aa5d20a2593d"
+      ]
+    },
+    {
+      "id": "w_rhino",
+      "title": "犀照研究与温宝裕进入冒险圈",
+      "kind": "event",
+      "summary": "温宝裕参与犀照及异常生物研究，研究者在风险与证据上分歧，胡怀玉等人成为后续联系。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "早于《黑白无常》对研究所的明确回指。",
+        "narrative_layer": "present"
+      },
+      "state_before": "好奇心驱动试验和极地调查。",
+      "state_after": "亲历死亡、失去现场与残存材料，研究解释仍有限。",
+      "knowledge_boundary": "不能把一次研究结论推广为所有见鬼机制。",
+      "character_ids": [
+        "weisili_wen_baoyu",
+        "weisili_hu_huaiyu"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_b6b07c7c56420cb9",
+        "evidence_313ed8782d41982c",
+        "evidence_987dbf4161b33db3",
+        "evidence_74c3db13aa3dc427",
+        "evidence_714fa8cc07d0cfeb"
+      ],
+      "book_ids": [
+        "book_1eceb61f788e"
+      ]
+    },
+    {
+      "id": "w_family_past",
+      "title": "白老大与陈月兰离散、红绫的早年",
+      "kind": "event",
+      "summary": "调查重建白家婚姻误会、陈月兰隐居复仇及抱走外孙女的经历，解释红绫早年失散。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "回溯跨度包括白素出生前后和红绫幼年，非《继续探险》当下同时发生。",
+        "narrative_layer": "recollection"
+      },
+      "state_before": "家族对过往保有误会和空白。",
+      "state_after": "离散、抚育及隐瞒为当代寻女留下线索。",
+      "knowledge_boundary": "发生时间与被卫白发现的时间分开；这不是当时每位家属都知道的完整家史。",
+      "character_ids": [
+        "weisili_bai_laoda",
+        "weisili_chen_yuelan",
+        "weisili_hong_ling"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_318e289b38da960d",
+        "evidence_94c91f9606dc3c2b",
+        "evidence_b68bbc86fcf830e8",
+        "evidence_48ad0b3d897f0574"
+      ],
+      "book_ids": [
+        "book_afc4b3885657"
+      ]
+    },
+    {
+      "id": "w_family_recovery",
+      "title": "探险中的家史追索与女儿归来",
+      "kind": "event",
+      "summary": "卫白追索苗疆与家族证词，红绫回到父母关系之中；木兰花一方提供证词联系。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《探险》《继续探险》调查线；后续进入烈火女、祸根阶段。",
+        "narrative_layer": "present"
+      },
+      "state_before": "女儿和长辈往事存在未知。",
+      "state_after": "家史逐步可解释，父母开始面对女儿已形成的生活与关系。",
+      "knowledge_boundary": "陈月兰成为外星人的事实尚不能代替当时的猜测。",
+      "character_ids": [
+        "weisili_wei_sili",
+        "weisili_bai_su",
+        "weisili_hong_ling",
+        "mulanhua_mu_lanhua"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_318e289b38da960d",
+        "evidence_94c91f9606dc3c2b",
+        "evidence_b68bbc86fcf830e8",
+        "evidence_48ad0b3d897f0574",
+        "evidence_bc61895854f3a2b6",
+        "evidence_c0713dd186aae719",
+        "evidence_bce6b4bac2c1a32f"
+      ],
+      "book_ids": [
+        "book_afc4b3885657"
+      ]
+    },
+    {
+      "id": "w_hongling_choices",
+      "title": "红绫保护银猿",
+      "kind": "event",
+      "summary": "红绫保护与自己相依的银猿，母女关系从教导和竞争转向承认她的独立感情。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《烈火女》阶段。",
+        "narrative_layer": "present"
+      },
+      "state_before": "父母希望安排女儿成长。",
+      "state_after": "女儿会为重要关系作判断和隐瞒，家庭需学习尊重。",
+      "knowledge_boundary": "成长不是瞬间获得所有城市知识。",
+      "character_ids": [
+        "weisili_hong_ling",
+        "weisili_bai_su"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_9d7ff2aa7e94f812"
+      ],
+      "book_ids": [
+        "book_6f42d4433a38"
+      ]
+    },
+    {
+      "id": "w_miao_contact",
+      "title": "陈月兰异星身份及基地联系确认",
+      "kind": "event",
+      "summary": "陈月兰通过立体投影与白素相见；红绫说明设备教学来历并留下飞行背心。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《祸根》末。",
+        "narrative_layer": "present"
+      },
+      "state_before": "外婆去向与异星联系尚有猜测。",
+      "state_after": "身份得到本次联络确认，联络又结束；背心没有变成随身装备。",
+      "knowledge_boundary": "确认身份仍不等于知道她转化全过程或能随时召回。",
+      "character_ids": [
+        "weisili_chen_yuelan",
+        "weisili_bai_su",
+        "weisili_hong_ling"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_2b1dd125d9f6d5be",
+        "evidence_0bb1e9d7e786e292",
+        "evidence_ee42f3cc9a489e8c",
+        "evidence_3beea314932e36e3"
+      ],
+      "book_ids": [
+        "book_02a15832ae8a"
+      ]
+    },
+    {
+      "id": "w_ring_explanation",
+      "title": "许愿重释催命环和曹家旧案",
+      "kind": "event",
+      "summary": "催命环的离体机制解释、曹家灵魂的自愿选择与旧仇恨发生碰撞。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "阴间调查链的《许愿》阶段，早于终局停机。",
+        "narrative_layer": "present"
+      },
+      "state_before": "旧案被解释为杀害与追魂。",
+      "state_after": "器物交由李宣宣处理，部分当事人拒绝全无境界；阴老二仍未找到。",
+      "knowledge_boundary": "解释者的说法不等于受害者同意；不以技术说明抹掉责任。",
+      "character_ids": [
+        "weisili_qi_bai"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_c3496540924bd169",
+        "evidence_61da283d4f845f8e",
+        "evidence_33b6a0711c5cb6a0",
+        "evidence_14ade03a57573706",
+        "evidence_e099f8d518f7c390"
+      ],
+      "book_ids": [
+        "book_b6cdd6772328"
+      ]
+    },
+    {
+      "id": "w_underworld_reveal",
+      "title": "阴主身份与四号分离被揭",
+      "kind": "event",
+      "summary": "一至三号向卫斯理说明航行小组、残缺思想仪与四号离队，少年声音获得新的身份解释。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《将来》揭露阶段；四号离队本身发生更早。",
+        "narrative_layer": "revelation"
+      },
+      "state_before": "阴间被以阴主及鬼神语言理解。",
+      "state_after": "技术和组织关系被部分揭明；找到四号成为要求。",
+      "knowledge_boundary": "本节点是获知事件，不把四号离队安排到这一天发生。",
+      "character_ids": [
+        "weisili_wei_sili",
+        "weisili_yin_1",
+        "weisili_yin_2",
+        "weisili_yin_3"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_aee546978e362bb4",
+        "evidence_2213a8685c61f34a",
+        "evidence_47c4faa4a3841ba4",
+        "evidence_55145d37457acfee",
+        "evidence_7ffd3ff3793510d2"
+      ],
+      "book_ids": [
+        "book_ede3a34d0069"
+      ]
+    },
+    {
+      "id": "w_four_negotiation",
+      "title": "四号与游侠夫妇协商",
+      "kind": "event",
+      "summary": "四号要求独立却控制游侠夫妇；卫斯理促使其接受自愿协助而非消灭威胁。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《改变》《暗号之二》追索后的《闯祸》收束。",
+        "narrative_layer": "present"
+      },
+      "state_before": "失物、身体能量及控制权纠缠。",
+      "state_after": "游侠夫妇独立来访，眼前纠纷解除。",
+      "knowledge_boundary": "四号并未交出或获得整座完整思想仪。",
+      "character_ids": [
+        "weisili_wei_sili",
+        "weisili_yin_4"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_45572bd17b3137a0",
+        "evidence_5db6350a305a0c64"
+      ],
+      "book_ids": [
+        "book_b60f03e1be18"
+      ]
+    },
+    {
+      "id": "w_chen_spirit",
+      "title": "陈长青以灵魂求解脱",
+      "kind": "event",
+      "summary": "陈长青失去肉身仍有清醒欲求，拒绝以轮回或阴间安住作为终点，未找到大解脱。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《解脱》会面；肉身死亡不是本场才发生。",
+        "narrative_layer": "present"
+      },
+      "state_before": "友人不清楚其离去后的处境。",
+      "state_after": "确认灵魂仍在，痛苦和求索继续。",
+      "knowledge_boundary": "他可以提出愿望而不能施展“彻底解脱”能力；朋友无法保证解决。",
+      "character_ids": [
+        "weisili_chen_changqing",
+        "weisili_wen_baoyu"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_65f0c0ecdf5792cb",
+        "evidence_87d5af21ab4b92fd"
+      ],
+      "book_ids": [
+        "book_daabf1bd27ce"
+      ]
+    },
+    {
+      "id": "w_lansi_succession",
+      "title": "猜王死亡与蓝丝继任",
+      "kind": "event",
+      "summary": "蓝丝面对师父遗首，在哀伤中接任天头派掌门。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《病毒》死亡后至《算帐》继任。",
+        "narrative_layer": "present"
+      },
+      "state_before": "师徒传承仍以猜王为中心。",
+      "state_after": "蓝丝失师并承担门派责任。",
+      "knowledge_boundary": "继任不意味着自动获得全部师门秘密和更高战力。",
+      "character_ids": [
+        "weisili_lan_si"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_ee7510e7c6e63af6",
+        "evidence_e1755620afa3fb3a",
+        "evidence_f6a4a64e7861588c"
+      ],
+      "book_ids": [
+        "book_256733d70464",
+        "book_bfd34177adbe"
+      ]
+    },
+    {
+      "id": "w_water_reveal",
+      "title": "洪荒中的水生命警告",
+      "kind": "event",
+      "summary": "黄而与水的联系让调查者面对地球本身的生命意志与污染警告。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《洪荒》揭露，后接买命、卖命研究线。",
+        "narrative_layer": "present"
+      },
+      "state_before": "水被按普通物质理解。",
+      "state_after": "特定亲历者接受另一种解释，公众并未自动获知。",
+      "knowledge_boundary": "古洪水、冰期及三大生命的宏观解释仍按证言处理。",
+      "character_ids": [
+        "weisili_water_life"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_329858c60a8196bc",
+        "evidence_f858a570dde0c17e"
+      ],
+      "book_ids": [
+        "book_f4a7e356d619"
+      ]
+    },
+    {
+      "id": "w_quota_research",
+      "title": "买命争夺、非人协会研究与白素入会",
+      "kind": "event",
+      "summary": "寻求寿命者聚集，水帮助非人协会筛选和接送，白素参与分配讨论并入会；通用转移尚未完成。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《买命》《卖命》至《考验》开端。",
+        "narrative_layer": "present"
+      },
+      "state_before": "各方把配额视为可购买的希望。",
+      "state_after": "研究状态公开给相关求助者，白素取得新的机构关系，仍无通用延寿服务。",
+      "knowledge_boundary": "研究内情没有对所有求购者披露；康维无水而无法收到同一类讯息。",
+      "character_ids": [
+        "weisili_bai_su",
+        "yuanzhenxia_kangwei",
+        "weisili_water_life"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_0c2e09797a2903ca",
+        "evidence_69e2cb5e26e93b83"
+      ],
+      "book_ids": [
+        "book_285c39eb6c50",
+        "book_c33c05bc68a3"
+      ]
+    },
+    {
+      "id": "w_eagle_friend",
+      "title": "神鹰与红绫、伦三德的联系建立",
+      "kind": "event",
+      "summary": "受伤的鹰与卫家建立信任，金环和信件连接天工大王伦三德；载重和通讯有实际限制。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《开心》，成人之前的鹰身阶段。",
+        "narrative_layer": "present"
+      },
+      "state_before": "被误判的鹰受伤。",
+      "state_after": "形成伙伴关系和有限往返信使角色。",
+      "knowledge_boundary": "尚无后来成人身体；主人的工艺不属于鹰的技能。",
+      "character_ids": [
+        "weisili_shenying",
+        "weisili_hong_ling",
+        "weisili_lun_sande"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_e9da90c44d24e8fb",
+        "evidence_b183f8acde9f6d39",
+        "evidence_927aa68451f97497",
+        "evidence_ca42497d0237f9b8",
+        "evidence_54f8ec6255cf7a0a",
+        "evidence_cf2db6681471389e"
+      ],
+      "book_ids": [
+        "book_b75096582a1e"
+      ]
+    },
+    {
+      "id": "w_real_illusion",
+      "title": "金维与卫斯理共同进入真实幻境",
+      "kind": "event",
+      "summary": "多年孤峰追索接上鸡场与神鹰关系；共同入境经历出现，但金维持续尝试也不能重现。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《真实幻境》；神鹰当时仍是鹰。",
+        "narrative_layer": "present"
+      },
+      "state_before": "寻求孤峰旧案答案。",
+      "state_after": "存在特殊经验而未取得稳定、可重复的精神远游术。",
+      "knowledge_boundary": "幻境未来形态不能当作已发生或可随时切换的身体。",
+      "character_ids": [
+        "adventure_jinwei",
+        "weisili_wei_sili",
+        "weisili_shenying"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_fa282b4c2178a058",
+        "evidence_e82971096e2de5ea",
+        "evidence_e836dde3531ec0a3",
+        "evidence_67787ee0ee83a415",
+        "evidence_1e0d8bdd5450a550",
+        "evidence_d4f7bb04c2414de3",
+        "evidence_d90d90f29684c376",
+        "evidence_7efaaf365ec8c345",
+        "evidence_79844f5ea8f52fcc"
+      ],
+      "book_ids": [
+        "book_6e319aaba962"
+      ]
+    },
+    {
+      "id": "w_eagle_human",
+      "title": "神鹰选择成为人",
+      "kind": "event",
+      "summary": "连续复制与基因调整后神鹰成为人类，明确自愿放弃自身飞行。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《成精变人》末。",
+        "narrative_layer": "present"
+      },
+      "state_before": "鹰身与红绫等人相处。",
+      "state_after": "人身生效，羽翼飞行停止；相关人物从强光暂盲中恢复。",
+      "knowledge_boundary": "成人不能叠加鹰翼、鹰爪与飞行。",
+      "character_ids": [
+        "weisili_shenying",
+        "weisili_hong_ling"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_c0ea364e1da92276",
+        "evidence_613c8b92ec2ad7ab"
+      ],
+      "book_ids": [
+        "book_9a4da2ea3ef3"
+      ]
+    },
+    {
+      "id": "w_eagle_departure",
+      "title": "成人神鹰与金维再赴孤峰",
+      "kind": "event",
+      "summary": "神鹰仍通鹰语，却需由大羊鹰背负；红绫不舍但尊重其离去。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《未来身份》开始阶段，紧接成人之后。",
+        "narrative_layer": "present"
+      },
+      "state_before": "新的人身需要重新安排行动。",
+      "state_after": "与金维继续调查；关系转为允许彼此独立。",
+      "knowledge_boundary": "离开是继续求索，孤峰谜底仍未被自动补齐。",
+      "character_ids": [
+        "weisili_shenying",
+        "adventure_jinwei",
+        "weisili_hong_ling"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_53954a717fce6da5",
+        "evidence_9ff3b2e7801e1efa",
+        "evidence_87742c5fd00413b6"
+      ],
+      "book_ids": [
+        "book_f4ea5e801b15"
+      ]
+    },
+    {
+      "id": "w_du_copy_reveal",
+      "title": "杜良替身及思想植入实验曝光",
+      "kind": "event",
+      "summary": "医院发现复制杜良不能吸收新知识且六年循环；本尊留下微片并在外实施受精卵思想实验。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《另类复制》揭露；替身工作和植入实验发生在此前多年。",
+        "narrative_layer": "revelation"
+      },
+      "state_before": "同仁以为面对持续创新的本尊。",
+      "state_after": "副本与本尊分开认定；旧暗示停止响应，实验伤害进入调查。",
+      "knowledge_boundary": "实验只能证明其植入机制，不证明他的全人类起源假说。",
+      "character_ids": [
+        "weisili_du_liang",
+        "weisili_du_liang_copy"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_f253506602afc4e0",
+        "evidence_cf0393cf1acf709f",
+        "evidence_00a673d12d539052",
+        "evidence_b28861735fbe5e57",
+        "evidence_3bd387cc3cb6e21d",
+        "evidence_82d34fd7e22a6090",
+        "evidence_8399b4852b52cb65"
+      ],
+      "book_ids": [
+        "book_ccfaaef512be"
+      ]
+    },
+    {
+      "id": "w_elder_contact",
+      "title": "长老解困计划与救世分歧",
+      "kind": "event",
+      "summary": "蓝丝盼解救长老，卫白借电脑与洞外提问改善沟通；长老提出强制减少人口的计划而继续不开关。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《闭关开关》《行动救星》现代调查阶段。",
+        "narrative_layer": "present"
+      },
+      "state_before": "信仰、筹资和信息压制妨碍判断。",
+      "state_after": "目标冲突被揭明，温宝裕陪蓝丝留下并提供资料。",
+      "knowledge_boundary": "同意理解长老来历不等于接受其人口方案。",
+      "character_ids": [
+        "weisili_chang_lao",
+        "weisili_wen_baoyu",
+        "weisili_lan_si",
+        "weisili_bai_su"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_0f87d4336d11fb38",
+        "evidence_ae777a376f977579",
+        "evidence_85e9af2934c561cd",
+        "evidence_adda98d811a74414"
+      ],
+      "book_ids": [
+        "book_202100bacdcc"
+      ]
+    },
+    {
+      "id": "w_knowledge_transfer",
+      "title": "杜良完成具体知识转移",
+      "kind": "event",
+      "summary": "姚教授知识被转给姚大达，知识与运用知识产生的思想被明确区分。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《乾坤挪移》成果展示。",
+        "narrative_layer": "present"
+      },
+      "state_before": "保存知识有具体实验瓶颈。",
+      "state_after": "出现可用个案，研究者继续保密。",
+      "knowledge_boundary": "接受知识不等于继承教授的全部人格、动机与经验判断。",
+      "character_ids": [
+        "weisili_du_liang"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_aac593bf0e5b450b"
+      ],
+      "book_ids": [
+        "book_1a10e56018a3"
+      ]
+    },
+    {
+      "id": "w_copy_refusal",
+      "title": "身外化身计划被反向指令阻断",
+      "kind": "event",
+      "summary": "杜良要求卫斯理指令复制人接受知识，卫斯理用相反指令阻止其计划。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《身外化身》末。",
+        "narrative_layer": "present"
+      },
+      "state_before": "知识转移计划等待受体接受。",
+      "state_after": "接受条件被干预，研究不能按原计划完成。",
+      "knowledge_boundary": "不是卫斯理从此拥有普遍控制复制人的权能。",
+      "character_ids": [
+        "weisili_du_liang",
+        "weisili_wei_sili"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_1f8f330b4dc52b31"
+      ],
+      "book_ids": [
+        "book_a25be6589e38"
+      ]
+    },
+    {
+      "id": "w_underworld_shutdown",
+      "title": "思想仪停摆与齐白团聚",
+      "kind": "event",
+      "summary": "关键部件误会解开；所见阴间仪器停止运行，灵魂光点消失，齐白和李宣宣团聚后主动断讯。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《只限老友》末段；停机已在他们进入前发生，具体日期不明。",
+        "narrative_layer": "present"
+      },
+      "state_before": "齐白仍追寻李宣宣与借灵魂线索。",
+      "state_after": "阴间不能按早期状态调用；团聚者停止分享所见。",
+      "knowledge_boundary": "停机原因、管理者及灵魂去向均有未知；观察者的分析不是全知事实。",
+      "character_ids": [
+        "weisili_qi_bai",
+        "weisili_wei_sili",
+        "weisili_bai_su"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_ef90928d6d37540b"
+      ],
+      "book_ids": [
+        "book_1fb6bf0030da"
+      ]
+    },
+    {
+      "id": "w_alliance",
+      "title": "温宝裕放弃强制人口方案并邀请远行",
+      "kind": "event",
+      "summary": "温宝裕承认过去的强制人口思路走入死胡同，转向邀请自愿者离地球寻找新生活。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《只限老友》末，卫白回家十余天后的来访段。",
+        "narrative_layer": "present"
+      },
+      "state_before": "亲友因其极端方案而疏远。",
+      "state_after": "旧有亲近恢复，新生大同盟提出邀请；是否加入及成行仍开放。",
+      "knowledge_boundary": "不能以小说结束推断卫斯理已经搭船离地球。",
+      "character_ids": [
+        "weisili_wen_baoyu",
+        "weisili_wei_sili",
+        "weisili_bai_su",
+        "weisili_hong_ling"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_b6583129cb839889"
+      ],
+      "book_ids": [
+        "book_1fb6bf0030da"
+      ]
+    },
+    {
+      "id": "y_tianren",
+      "title": "天人观察终止",
+      "kind": "event",
+      "summary": "原振侠追查异常生还，观察网络的样本保护、控制及灭口逻辑被揭明，研究站宣布终止。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《天人》当代调查及结尾。",
+        "narrative_layer": "present"
+      },
+      "state_before": "被选中者可能把生还当作天命。",
+      "state_after": "研究网络结束，部分记忆及植入物消失；人物仍会坚持自己的政治解释。",
+      "knowledge_boundary": "原振侠听到的内情不等于黄绢、卡尔斯、泉吟香都保留同样记忆。",
+      "character_ids": [
+        "yuanzhenxia_yuanzhenxia",
+        "yuanzhenxia_huang_juan"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_f6defc93bb8a442e",
+        "evidence_fa17af95d7b462c6",
+        "evidence_7bc8dc32f83df428"
+      ],
+      "book_ids": [
+        "book_36e3d4c8cce1"
+      ]
+    },
+    {
+      "id": "y_maxian_origin",
+      "title": "玛仙身世与培育实验揭露",
+      "kind": "event",
+      "summary": "从巫艳中的容貌变化和巫术来历，推进到爱神说明玛仙与范围的培育实验。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《巫艳》到《大犯罪者》的身份揭露链。",
+        "narrative_layer": "present"
+      },
+      "state_before": "玛仙的潜能被以巫术和神秘身世理解。",
+      "state_after": "她对自身有新认识，身世秘密并未向所有人公开。",
+      "knowledge_boundary": "实验身世并不取消她的人格，爱神也没有因此拥有她。",
+      "character_ids": [
+        "yuanzhenxia_ma_xian",
+        "yuanzhenxia_aishen"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_bdafc99c209a88dc",
+        "evidence_126561bb163290d4"
+      ],
+      "book_ids": [
+        "book_07cad85786b0",
+        "book_16e87a9465f3"
+      ]
+    },
+    {
+      "id": "y_heisha",
+      "title": "黑纱违背任务与受罚",
+      "kind": "event",
+      "summary": "黑纱对感情的理解与采集任务冲突，背离任务后受到惩罚。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《幽灵星座》，先于《黑暗天使》的救援和牺牲。",
+        "narrative_layer": "present"
+      },
+      "state_before": "使者受任务体系约束。",
+      "state_after": "黑纱陷入新的受罚状态，人与使者的关系不再只是研究关系。",
+      "knowledge_boundary": "她的个人选择不代表全部采集使者都已改变目标。",
+      "character_ids": [
+        "yuanzhenxia_heisha"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_54e6041b00751529",
+        "evidence_ee4464a82b653c4e"
+      ],
+      "book_ids": [
+        "book_4b64c28681b2"
+      ]
+    },
+    {
+      "id": "y_body_rescue",
+      "title": "黑暗天使救援与两次身体交接",
+      "kind": "event",
+      "summary": "黑纱彻底牺牲，奥丽卡灵魂进入她留下的活体；原振侠的灵魂救援依赖复制身体及外部协同。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《黑暗天使》，接续幽灵星座线并连接年轻人系列。",
+        "narrative_layer": "present"
+      },
+      "state_before": "原振侠接受冒险救援，奥丽卡缺少可持续活动的身体条件。",
+      "state_after": "奥丽卡以新身体生活；原振侠灵魂延续而身体为复制体；黑纱没有作为第二灵魂共居。",
+      "knowledge_boundary": "不能把救援设备记为原振侠的不死能力，也不能给公主黑纱全部权限。",
+      "character_ids": [
+        "adventure_princess",
+        "adventure_young",
+        "yuanzhenxia_yuanzhenxia",
+        "yuanzhenxia_heisha"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_a9550617d1379158",
+        "evidence_f97d09fb5a38f1b5",
+        "evidence_5e1627ed27172007"
+      ],
+      "book_ids": [
+        "book_b918ee450d56"
+      ]
+    },
+    {
+      "id": "y_blood_spell",
+      "title": "玛仙对李固施血魇",
+      "kind": "event",
+      "summary": "李固的力量与政治诱惑造成危机，玛仙利用血液关联施术使其失智。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《血的诱惑》。",
+        "narrative_layer": "present"
+      },
+      "state_before": "李固有强大身体与血液相关欲望。",
+      "state_after": "李固失能，施术是否正确成为后续问题。",
+      "knowledge_boundary": "这是有对象关联的具体巫术，不可泛化为任意远程夺智。",
+      "character_ids": [
+        "yuanzhenxia_ma_xian"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_7480fb0e08bc9a97"
+      ],
+      "book_ids": [
+        "book_51ac5b7920ea"
+      ]
+    },
+    {
+      "id": "y_spell_recoil",
+      "title": "玛仙解咒反噬、黄绢与李固离去",
+      "kind": "event",
+      "summary": "玛仙主动解咒承担反噬，脑活动受损；爱神接走求治，黄绢与恢复后的李固离去。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《催命情圣》，接续血魇。",
+        "narrative_layer": "present"
+      },
+      "state_before": "李固失能，原有政治与感情纠葛未平。",
+      "state_after": "李固恢复，玛仙待救治；原振侠失去熟悉的相处格局。",
+      "knowledge_boundary": "救走不等于当场治愈；黄绢的去向属于她自己的选择。",
+      "character_ids": [
+        "yuanzhenxia_ma_xian",
+        "yuanzhenxia_yuanzhenxia",
+        "yuanzhenxia_huang_juan"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_f45466ef333bb7ee",
+        "evidence_671d7a62de927dbc"
+      ],
+      "book_ids": [
+        "book_1b2ce90d0135"
+      ]
+    },
+    {
+      "id": "y_black_white",
+      "title": "胡怀玉与黑白无常装置调查",
+      "kind": "event",
+      "summary": "《黑白无常》明确回指《犀照》的海洋生物研究所与主持人，旧关系进入新的器物谜案。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "晚于《犀照》所述经历；与别的卫斯理案件同期关系未定。",
+        "narrative_layer": "present"
+      },
+      "state_before": "胡怀玉已有犀照经历及感知疑虑。",
+      "state_after": "继续以研究者参与；没有因此获得全部装置技术。",
+      "knowledge_boundary": "一个明确回指只约束这两件事，不足以排序两个系列的全部书。",
+      "character_ids": [
+        "weisili_hu_huaiyu",
+        "yuanzhenxia_yuanzhenxia"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_ac7a614eb71390c8",
+        "evidence_d6fd2ba28b19ca8b",
+        "evidence_c25174562708af65",
+        "evidence_be1086ed785b4cc2",
+        "evidence_7ccd6a5fda503fb2"
+      ],
+      "book_ids": [
+        "book_b3303d3266ed"
+      ]
+    },
+    {
+      "id": "y_maxian_recovery",
+      "title": "假太阳危机与玛仙恢复",
+      "kind": "event",
+      "summary": "爱神星危机、机械生命和多方技术协作中，玛仙脑活动恢复并增强。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "血魇反噬之后的《假太阳》。",
+        "narrative_layer": "present"
+      },
+      "state_before": "玛仙需要救治，异星环境也在危机中。",
+      "state_after": "她获得新的活动方式，之后参与新爱神星建设。",
+      "knowledge_boundary": "康复有过程与外援，不得提前给她终局能力；她仍不能全宇宙寻人成功。",
+      "character_ids": [
+        "yuanzhenxia_ma_xian",
+        "yuanzhenxia_kangwei"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_f63061fff25e814e",
+        "evidence_d5f8672ac7d83623"
+      ],
+      "book_ids": [
+        "book_6a15650b973f"
+      ]
+    },
+    {
+      "id": "y_liuxu_rescue",
+      "title": "柳絮脱离控制与康维感情变化",
+      "kind": "event",
+      "summary": "康维识别柳絮体内控制装置，帮助其恢复视力并拆除武器；他对机械生命不受感情影响的自信受到挑战。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《无间地狱》到《人鬼疑云》。",
+        "narrative_layer": "present"
+      },
+      "state_before": "柳絮被组织当作武器和受控人员。",
+      "state_after": "脱离装置控制并形成新关系，情感自主问题仍需认真对待。",
+      "knowledge_boundary": "能干预信号不意味着有权制造对方爱情。",
+      "character_ids": [
+        "yuanzhenxia_kangwei",
+        "yuanzhenxia_liu_xu"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_1235625f877d0b31",
+        "evidence_e7be2a98fed06f71",
+        "evidence_74f0a3d5e338f3a2",
+        "evidence_7d6d33a98176f86f",
+        "evidence_963ee38ca45aca81",
+        "evidence_fc573c6109a1fa33",
+        "evidence_613ee6ccddad9d88"
+      ],
+      "book_ids": [
+        "book_6e1d8d6fd7c7",
+        "book_b6f70bb43bd7"
+      ]
+    },
+    {
+      "id": "y_disappearance",
+      "title": "原振侠返航失踪",
+      "kind": "event",
+      "summary": "原振侠为相会进入宇宙，返地球航程遭不可测变故，康维和玛仙的搜索未获确讯。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《天皇巨星》末。",
+        "narrative_layer": "present"
+      },
+      "state_before": "原振侠仍有可追索航程与相会目标。",
+      "state_after": "失踪成立；生死、所在时空与是否能返乡未定。",
+      "knowledge_boundary": "不能把后续正常登场自动视为原作已获救；需先选失踪前场景或明确救回改编。",
+      "character_ids": [
+        "yuanzhenxia_yuanzhenxia",
+        "yuanzhenxia_ma_xian",
+        "yuanzhenxia_kangwei"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_3f0b55873f0513a6",
+        "evidence_73412a59c3cdd4ac"
+      ],
+      "book_ids": [
+        "book_8e795168086a"
+      ]
+    },
+    {
+      "id": "l_refusal",
+      "title": "罗开拒绝秘密组织杀戮命令",
+      "kind": "event",
+      "summary": "给罗开情报与财富的组织试图把他纳入互相杀戮的规则，他拒绝执行。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《鬼钟》。",
+        "narrative_layer": "present"
+      },
+      "state_before": "组织用报酬和追踪约束行动。",
+      "state_after": "自主权冲突显露，调查指向更深的操纵。",
+      "knowledge_boundary": "此刻不知道后来时间大神的全部弱点。",
+      "character_ids": [
+        "adventure_luokai"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_b87d2826f05c2f82",
+        "evidence_b46462ea2c0baf56"
+      ],
+      "book_ids": [
+        "book_670aaaa7d25b"
+      ]
+    },
+    {
+      "id": "l_doll",
+      "title": "罗开利用思想复制联系反制玩偶",
+      "kind": "event",
+      "summary": "复制思想为操纵提供基础，也给被复制者留下有条件反向影响的通路。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《妖偶》。",
+        "narrative_layer": "present"
+      },
+      "state_before": "罗开受到代理玩偶体系威胁。",
+      "state_after": "找到一次具体反制条件，仍未解决时间大神本体。",
+      "knowledge_boundary": "不能升级为控制任意机械人。",
+      "character_ids": [
+        "adventure_luokai",
+        "adventure_time_god"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_a13cb3feb6c2f8ce",
+        "evidence_9d0ebd0f18d08c07"
+      ],
+      "book_ids": [
+        "book_3d11fdd8a762"
+      ]
+    },
+    {
+      "id": "l_angel_loss",
+      "title": "天使牺牲、重要之物毁去",
+      "kind": "event",
+      "summary": "罗开被欲望幻象动摇，天使越过原计划救人，以牺牲造成时间大神受创并毁去任务目标。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《魔像》。",
+        "narrative_layer": "present"
+      },
+      "state_before": "夺物任务与救罗开开始冲突。",
+      "state_after": "天使生命消失，目标毁去；罗开留下丧失与古堡关系。",
+      "knowledge_boundary": "恢复天使参战只能作为明确改编；时间大神受伤不等于已死。",
+      "character_ids": [
+        "adventure_luokai",
+        "adventure_tianshi",
+        "adventure_time_god"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_bb015999e4c17ce8",
+        "evidence_ee74e8fe97b1a055",
+        "evidence_98c4eff68d44a597",
+        "evidence_9859fc06837ceb51",
+        "evidence_1d8fb1f0e0b938f5"
+      ],
+      "book_ids": [
+        "book_4061a76cea80"
+      ]
+    },
+    {
+      "id": "l_enemy_alliance",
+      "title": "罗开与衰弱的时间大神共同脱困",
+      "kind": "event",
+      "summary": "时间大神受困山腹并衰弱为光团，与罗开等借仪器和脑能力合作后离去。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《怪头》，受创之后。",
+        "narrative_layer": "present"
+      },
+      "state_before": "敌对双方同陷环境危机。",
+      "state_after": "敌人未消灭，出现一次合作及承诺。",
+      "knowledge_boundary": "合作不等于永久同盟或已兑现的任意援助。",
+      "character_ids": [
+        "adventure_luokai",
+        "adventure_time_god"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_7043568fc1252fae"
+      ],
+      "book_ids": [
+        "book_b032f28a589d"
+      ]
+    },
+    {
+      "id": "l_beehive",
+      "title": "蜂后计划受阻与高达复制体分流",
+      "kind": "event",
+      "summary": "交易会幕后揭明；高达复制体反抗植入意念，与蜂后离去，原本继续浪子生活。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《蜂后》；明确晚于后备秘密曝光。",
+        "narrative_layer": "present"
+      },
+      "state_before": "蜂后替代计划与医院利益冲突。",
+      "state_after": "拍卖取消，副本和原本分立，复制体去向摆脱追踪。",
+      "knowledge_boundary": "副本承接的爱情不能写给原本；医院也无法保证副本永久服从。",
+      "character_ids": [
+        "adventure_gaoda",
+        "adventure_gaoda_copy",
+        "adventure_luokai",
+        "adventure_fenghou"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_cf16cbda23d83427"
+      ],
+      "book_ids": [
+        "book_533b28ccc313"
+      ]
+    },
+    {
+      "id": "l_coexistence",
+      "title": "罗开主张异类和平共处",
+      "kind": "event",
+      "summary": "面对三晶星机械人与天敌，罗开提出可以不互相毁灭。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《异人》阶段。",
+        "narrative_layer": "present"
+      },
+      "state_before": "身份与威胁解释容易导向消灭对方。",
+      "state_after": "罗开的选择强调共处；不是全部文明从此结束冲突。",
+      "knowledge_boundary": "价值选择不等于签订全球或星际永久和平条约。",
+      "character_ids": [
+        "adventure_luokai"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_4758b9520195eb6f"
+      ],
+      "book_ids": [
+        "book_2af29c6320c3"
+      ]
+    },
+    {
+      "id": "l_flying_flame",
+      "title": "罗开保护卡娅并帮助受困灵魂",
+      "kind": "event",
+      "summary": "八角星灵魂求生牵涉对卡娅的要挟，罗开阻止这种手段并继续协助水荭寻找情报。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《飞焰》终局。",
+        "narrative_layer": "present"
+      },
+      "state_before": "求生需要与私人秘密相冲突。",
+      "state_after": "继续救助但拒绝以秘密控制他人；未获得外星全部技术。",
+      "knowledge_boundary": "掌握秘密不等于有权替当事人公开。",
+      "character_ids": [
+        "adventure_luokai",
+        "adventure_kaya",
+        "adventure_shui_hong"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_81513ebf39b4b572"
+      ],
+      "book_ids": [
+        "book_e34754c140ce"
+      ]
+    },
+    {
+      "id": "g_crystal_loss",
+      "title": "高达陪伴水晶死亡",
+      "kind": "event",
+      "summary": "高达得知水晶生命将尽后选择婚姻与陪伴，失去她后曾退隐。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《水晶艳女》终局；与无编号其他高达文本不强排完整顺序。",
+        "narrative_layer": "present"
+      },
+      "state_before": "浪子式关系受到真实死亡压力。",
+      "state_after": "失去妻子与退隐经历留下创伤，后来的伙伴关系仍继续。",
+      "knowledge_boundary": "这段经历不等于高达永久改成守法或专一的理想人物。",
+      "character_ids": [
+        "adventure_gaoda"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_95a58495b009476c",
+        "evidence_8c6a219ce9967837"
+      ],
+      "book_ids": [
+        "book_76747244fea3"
+      ]
+    },
+    {
+      "id": "g_microcrystal",
+      "title": "微晶争夺后希伯德选择归返",
+      "kind": "event",
+      "summary": "高达救出博士并经历夺物交易，希伯德最后选择返回妻女；微晶仍在哈利手中。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《微晶之密》终局；缺少八部书整体绝对年代。",
+        "narrative_layer": "present"
+      },
+      "state_before": "物、博士、读取器和人质分处各方。",
+      "state_after": "博士主动离去，家庭是否实际重聚未展示。",
+      "knowledge_boundary": "结尾意愿不能写成已经获释的家庭大团圆。",
+      "character_ids": [
+        "adventure_gaoda",
+        "adventure_xibode"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_7fdad6f98a121fe1",
+        "evidence_c12e69face30d3b3",
+        "evidence_2c2605a66f2ee9bb",
+        "evidence_f7c4bcd622baded5",
+        "evidence_2d2b9cce0cf5dc0f",
+        "evidence_e6f1bd96b5732906",
+        "evidence_99475adda59255f3",
+        "evidence_a474f4986b07db4f"
+      ],
+      "book_ids": [
+        "book_b10cefcfc4f2"
+      ]
+    },
+    {
+      "id": "n_empire",
+      "title": "年轻人阻止公主的帝国计划",
+      "kind": "event",
+      "summary": "年轻人把公主带离战争野心，宝藏之后二人逐渐选择共同生活。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《尺蠖》《大宝藏》；早期互相算计阶段向伴侣阶段转变。",
+        "narrative_layer": "present"
+      },
+      "state_before": "奥丽卡仍追求权力与财富。",
+      "state_after": "二人建立共同生活，不取消公主的主动性和欲望。",
+      "knowledge_boundary": "此时不能提前使用黑纱身体和后期飞行。",
+      "character_ids": [
+        "adventure_young",
+        "adventure_princess"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_78cae77c5e7acb89",
+        "evidence_b1d5c38e381b7644"
+      ],
+      "book_ids": [
+        "book_b227612aca17",
+        "book_d2f0e3b9ed17"
+      ]
+    },
+    {
+      "id": "n_new_body",
+      "title": "奥丽卡在新身体中学习行动",
+      "kind": "event",
+      "summary": "换用黑纱留下的身体后，公主展现飞行及读取遗留讯息的能力，但解释讯息仍需时间。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《夜归》所示阶段；必须晚于黑暗天使换身。",
+        "narrative_layer": "present"
+      },
+      "state_before": "有新身体而不等于已知全部用途。",
+      "state_after": "与年轻人相处中出现能力和认知差异。",
+      "knowledge_boundary": "不把身体来源变为幽冥机构全部权限。",
+      "character_ids": [
+        "adventure_princess",
+        "adventure_young"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_d9f1d22ed64c29a0",
+        "evidence_dc68380d2a26ec34"
+      ],
+      "book_ids": [
+        "book_00387402bed3"
+      ]
+    },
+    {
+      "id": "n_myth_return",
+      "title": "年轻人与公主从神话投影返回",
+      "kind": "event",
+      "summary": "二人认清投影状态，公主利用潘的顾忌和自身条件找到出口，返回人间。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《神话世界》末。",
+        "narrative_layer": "present"
+      },
+      "state_before": "困在神话环境中并面对潘。",
+      "state_after": "身体仍在人间，二人恢复日常活动；未掌管神域。",
+      "knowledge_boundary": "体验不等于永久免伤或时空自由出入；缺页不补写。",
+      "character_ids": [
+        "adventure_young",
+        "adventure_princess"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_200b8eaa41c8031d",
+        "evidence_c7baa09df2007ebb",
+        "evidence_2e7a6aaa88e5e8e5"
+      ],
+      "book_ids": [
+        "book_d135e392bd20"
+      ]
+    },
+    {
+      "id": "m_watch",
+      "title": "木兰花毁掉死光表、高翔转向警方",
+      "kind": "event",
+      "summary": "死光交易中的假死与夺取计划被破解，核心武器与图样毁去，高翔的行动方向改变。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《巧夺死光表》末。",
+        "narrative_layer": "present"
+      },
+      "state_before": "高翔仍在与木兰花交锋的犯罪关系中。",
+      "state_after": "武器交易失去原物，后续出现警务身份和合作关系。",
+      "knowledge_boundary": "不能把后期高翔一开始就写成成熟警官。",
+      "character_ids": [
+        "mulanhua_mu_lanhua",
+        "mulanhua_gao_xiang"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_59e3305b52d927fc",
+        "evidence_997a9828418db5f3",
+        "evidence_b78804d5392586ce",
+        "evidence_c5bc97419524dd06"
+      ],
+      "book_ids": [
+        "book_c2535674b4f0"
+      ]
+    },
+    {
+      "id": "m_ma_loss",
+      "title": "马超文遇难及穆秀珍哀悼",
+      "kind": "event",
+      "summary": "马超文随班机毁灭，穆秀珍在慰问、追查和纪念中重新行动，云四风陪伴。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《天外恩仇》，云四风与穆秀珍结婚前。",
+        "narrative_layer": "present"
+      },
+      "state_before": "已有未婚关系与未来期待。",
+      "state_after": "丧失留下持续纪念；后来恋爱不抹去旧人。",
+      "knowledge_boundary": "追查证据与人物哀伤并行，不用新婚关系倒写早期感情。",
+      "character_ids": [
+        "mulanhua_mu_xiuzhen",
+        "mulanhua_yun_sifeng"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_a2eb02b3e1f9ba61",
+        "evidence_ffbe897bdb029d1a",
+        "evidence_f81ae344e6f51791",
+        "evidence_8788d64835f7ab7e",
+        "evidence_ba0c3d62a8951931"
+      ],
+      "book_ids": [
+        "book_d1e263538229"
+      ]
+    },
+    {
+      "id": "m_annie_family",
+      "title": "安妮被救并加入家庭",
+      "kind": "event",
+      "summary": "轮椅中的安妮被救，父亲与继母相关阴谋后，她用自己的选择参与救人并加入木兰花等人的家庭。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《钻石镭射》。",
+        "narrative_layer": "present"
+      },
+      "state_before": "身体行动受限，家庭破裂且防备他人。",
+      "state_after": "获得亲密关系与学习机会，仍需轮椅和协助。",
+      "knowledge_boundary": "不能提前让她正常行走或拥有所有后期技能。",
+      "character_ids": [
+        "mulanhua_annie",
+        "mulanhua_mu_lanhua",
+        "mulanhua_mu_xiuzhen"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_8533f583fddc775c",
+        "evidence_a80595c68ca0a8de",
+        "evidence_6026b2f8c8c017ad"
+      ],
+      "book_ids": [
+        "book_91f9ff962ece"
+      ]
+    },
+    {
+      "id": "m_blind",
+      "title": "木兰花眼伤与黑暗历险",
+      "kind": "event",
+      "summary": "木兰花遭毒笔眼伤，在失明中依工具与听觉冒险，也遇误导和疲劳，最终接受保护和手术。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《玻璃伪钞模》至《黑暗历险》。",
+        "narrative_layer": "present"
+      },
+      "state_before": "平常依赖视觉行动。",
+      "state_after": "经历失明与恢复过程，工具和同伴不可替代。",
+      "knowledge_boundary": "不是获得永久盲视；复明前不能直接用后期正常视觉。",
+      "character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_bee8f80ee5d3f2b8",
+        "evidence_1bdc6023f403e5a5",
+        "evidence_ab9914ccaf7d7756",
+        "evidence_3f90efc5458c6497",
+        "evidence_7c2f9a914bb2917f"
+      ],
+      "book_ids": [
+        "book_0b0a0d1dcca5",
+        "book_676f75bdba78"
+      ]
+    },
+    {
+      "id": "m_marriage_swap",
+      "title": "穆秀珍婚礼、绑架和假新娘",
+      "kind": "event",
+      "summary": "穆与云四风结婚后被绑架，金妃冒充；云四风凭共同记忆察觉，真穆自救仍需警方解围。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《失踪新娘》至《怪新郎》。",
+        "narrative_layer": "present"
+      },
+      "state_before": "婚姻开始，亲友以为救回了新娘。",
+      "state_after": "替身身份揭破，真正夫妻团聚。",
+      "knowledge_boundary": "假新娘的柔弱和行动不算真穆经历；共同记忆不是读心术。",
+      "character_ids": [
+        "mulanhua_mu_xiuzhen",
+        "mulanhua_yun_sifeng",
+        "mulanhua_annie"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_1e001eaf18c344d5",
+        "evidence_ca53d0f75888babf",
+        "evidence_2379610642a8b321",
+        "evidence_e631089cc7836242",
+        "evidence_ffaf5cd196bbe0d3"
+      ],
+      "book_ids": [
+        "book_7305a311c73f",
+        "book_d891efd52524"
+      ]
+    },
+    {
+      "id": "m_annie_walks",
+      "title": "安妮恢复行走",
+      "kind": "event",
+      "summary": "中毒、解药和发热之后，安妮双腿逐渐恢复，原文没有确定是哪一因素起作用。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《猎头禁地》后段。",
+        "narrative_layer": "present"
+      },
+      "state_before": "安妮原先需轮椅。",
+      "state_after": "能独立行走，仍需继续训练和学习。",
+      "knowledge_boundary": "恢复原因未知，不得当作可复用疗法。",
+      "character_ids": [
+        "mulanhua_annie"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_10e8045857ddd18d",
+        "evidence_76356d25d426c8e3"
+      ],
+      "book_ids": [
+        "book_2d3443649105"
+      ]
+    },
+    {
+      "id": "m_wedding",
+      "title": "木兰花与高翔结婚",
+      "kind": "event",
+      "summary": "长期合作与情感发展后，木兰花和高翔结婚，蜜月仍遇险并需彼此救助。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《蜜月奇遇》。",
+        "narrative_layer": "present"
+      },
+      "state_before": "长期亲密但尚未结婚。",
+      "state_after": "夫妻关系确立，冒险和身体限制仍在。",
+      "knowledge_boundary": "婚姻不能让一方失去独立行动或免受危险。",
+      "character_ids": [
+        "mulanhua_mu_lanhua",
+        "mulanhua_gao_xiang"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_66728cf971b27062",
+        "evidence_982856be5aa23afb",
+        "evidence_24eb6725086290a0",
+        "evidence_fa6af1fed9557685",
+        "evidence_33de46028aa0bd94"
+      ],
+      "book_ids": [
+        "book_3a4be15d72e1"
+      ]
+    },
+    {
+      "id": "m_annie_independent",
+      "title": "安妮成长为可承担任务的同伴",
+      "kind": "event",
+      "summary": "恢复后学习武技和大学课程，争取独立，终案受伤后恢复并推断木兰花的换气办法。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《金庙奇佛》《天才白痴》到《无名怪尸》的成长阶段。",
+        "narrative_layer": "present"
+      },
+      "state_before": "已能行走但仍被过度保护。",
+      "state_after": "知识、判断与责任增加，仍会受伤和需要治疗。",
+      "knowledge_boundary": "终局没有婚约或永久脑伤；不能退回永远被救的幼年状态。",
+      "character_ids": [
+        "mulanhua_annie"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_523003f7e744e07e",
+        "evidence_355635b8eed9f298",
+        "evidence_4693eca5a622cf5f",
+        "evidence_787c35885040d57e",
+        "evidence_3c27ab7203ee0360"
+      ],
+      "book_ids": [
+        "book_1759a14aa7d2",
+        "book_859f2b1ca2cd",
+        "book_dfed8fba4c8b"
+      ]
+    },
+    {
+      "id": "m_weicrossover",
+      "title": "木兰花一方参与白家与技术调查",
+      "kind": "event",
+      "summary": "木兰花核验幼童证词；穆秀珍及云四风后来参与红绫、飞机图样及潜水等调查。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "分别发生于继续探险、祸根、开心等案件，作为跨线联系组而非同一天。",
+        "narrative_layer": "multi_event_group"
+      },
+      "state_before": "各自已有职业、家庭和冒险经历。",
+      "state_after": "证词与专长在朋友网络中流动；不产生统一组织。",
+      "knowledge_boundary": "联系只授予实际提供的信息，不共享全部前案。",
+      "character_ids": [
+        "mulanhua_mu_lanhua",
+        "mulanhua_mu_xiuzhen",
+        "mulanhua_yun_sifeng"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_bc61895854f3a2b6",
+        "evidence_c0713dd186aae719",
+        "evidence_bce6b4bac2c1a32f",
+        "evidence_32c32868e07ea777",
+        "evidence_4bacd04f75b8ac3f",
+        "evidence_fad17112bb1f236f",
+        "evidence_0c71c51f121537ba",
+        "evidence_cb358fb4066ee181",
+        "evidence_0996784c638d053a",
+        "evidence_887113b67be362c5"
+      ],
+      "book_ids": [
+        "book_02a15832ae8a",
+        "book_543cc7939a66",
+        "book_afc4b3885657",
+        "book_b75096582a1e"
+      ]
+    },
+    {
+      "id": "f_fish_refusal",
+      "title": "鱼人拒绝继续参与战争",
+      "kind": "event",
+      "summary": "范先生寻找并教育都连加农，将其带入战争；鱼人因杀戮痛苦选择与阿里回到海洋。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《鱼人》回述的经历；历史战争语境不换算精确年月。",
+        "narrative_layer": "recollection"
+      },
+      "state_before": "招揽异人被视为荣誉和助战机会。",
+      "state_after": "范先生接受拒绝，强大个体选择退出人类战争。",
+      "knowledge_boundary": "协会会员与人类胜利不必是鱼人自己的目标。",
+      "character_ids": [
+        "adventure_fan",
+        "adventure_dulian"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_01577f97c1716d0c",
+        "evidence_39e94221a12787cd",
+        "evidence_c538874727de88a1"
+      ],
+      "book_ids": [
+        "book_2d60d6b88429"
+      ]
+    },
+    {
+      "id": "f_eagle_origin",
+      "title": "金维救大鹰并追索孤峰",
+      "kind": "event",
+      "summary": "金维释放被捕的大鹰并推荐入会，接触孤峰人物的死亡和未知满足，选择继续学习。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《大鹰》所述早年经历，早于生死锁与真实幻境回指。",
+        "narrative_layer": "recollection"
+      },
+      "state_before": "从野外敌意接近不明生命。",
+      "state_after": "形成关系和长期谜团；未得全部答案。",
+      "knowledge_boundary": "后书重述与早书细节有差异，不能无声融合。",
+      "character_ids": [
+        "adventure_jinwei",
+        "adventure_daying"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_a479c4071dd10d71",
+        "evidence_5c7e15e9614ce00c",
+        "evidence_7212d7668f54918d"
+      ],
+      "book_ids": [
+        "book_31c94dd237eb"
+      ]
+    },
+    {
+      "id": "s_magic_exposed",
+      "title": "高斯的奇迹案骗局被识破",
+      "kind": "event",
+      "summary": "假召魂与魔术骗局遭揭穿，涉案人偷运赃物被捕的后续由《粉红钻石》回述。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《奇迹》案先于《粉红钻石》开头回顾，目录17与04不能当时间顺序。",
+        "narrative_layer": "present"
+      },
+      "state_before": "高斯等面对似乎神异的演出。",
+      "state_after": "可由人造骗局解释并追回财物；不足以否定别处真实异常。",
+      "knowledge_boundary": "高斯依摄影和调查，不因世界有鬼就跳过取证。",
+      "character_ids": [
+        "gaosi_gao_si",
+        "gaosi_li_yufang"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_15ba291b81608f09"
+      ],
+      "book_ids": [
+        "book_c157bc6751a0"
+      ]
+    },
+    {
+      "id": "s_police_boundary",
+      "title": "高斯破案仍不能免交通罚单",
+      "kind": "event",
+      "summary": "《预告》中推理不断修正，高斯办完案想请李玉芳取消交通罚单，遭拒。",
+      "epistemic_status": "textual_fact",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "《预告》本案末；不把29个编号转换成全部案子的年代。",
+        "narrative_layer": "present"
+      },
+      "state_before": "协作关系亲近，但嫌疑判断仍会出错。",
+      "state_after": "成功没有赋予法律豁免，职业边界保留。",
+      "knowledge_boundary": "作为日常城市层的终局样本，不给二人异星技术或超自然调查权限。",
+      "character_ids": [
+        "gaosi_gao_si",
+        "gaosi_li_yufang"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_e55eb6f4016f9f09",
+        "evidence_e815b21243982d43",
+        "evidence_029ae5cf28d35b8d",
+        "evidence_52ba029183f768a6",
+        "evidence_a26f6b8fcebefc0a"
+      ],
+      "book_ids": [
+        "book_6223e2d26cdb"
+      ]
+    },
+    {
+      "id": "h_parking",
+      "title": "鬼停车场的自我认知反转",
+      "kind": "event",
+      "summary": "阿陈从指责他人走到意识自己可能是醉驾死后返回的鬼。",
+      "epistemic_status": "testimony",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "单篇封闭遭遇，和各系列主线无可靠同期锚。",
+        "narrative_layer": "present"
+      },
+      "state_before": "当事人把自己当正常取车者。",
+      "state_after": "认知反转，仍停留在地点内。",
+      "knowledge_boundary": "不让其他主角自动知道此案或给出阴间档案解释。",
+      "character_ids": [
+        "guihua_parking_chen"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_e8d923de6a12506a",
+        "evidence_5893f64ed8bf7ade"
+      ],
+      "book_ids": [
+        "book_376132b17fcd"
+      ]
+    },
+    {
+      "id": "h_rain",
+      "title": "雨夜留号而身份未解",
+      "kind": "event",
+      "summary": "合乘男子留下洗不掉的号码痕迹，司机否认曾有女子，男子未敢追查。",
+      "epistemic_status": "unresolved",
+      "time": {
+        "calendar_date": null,
+        "relative_position": "单篇夜间遭遇；无绝对时间锚。",
+        "narrative_layer": "present"
+      },
+      "state_before": "一次普通合乘与接近。",
+      "state_after": "痕迹存在而解释和再次联系未知。",
+      "knowledge_boundary": "这是未决异常，不先定鬼、外星人或阴间使者。",
+      "character_ids": [
+        "guihua_rain_man",
+        "guihua_rain_woman"
+      ],
+      "schema_version": "1.0",
+      "section": "events",
+      "evidence_ids": [
+        "evidence_abb3de904aeb433b",
+        "evidence_77ef408ec6c594f2",
+        "evidence_6ce6a30e7c261b98",
+        "evidence_eb6d0c27e605c3fc"
+      ],
+      "book_ids": [
+        "book_9e24f6c8380c"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "before__w_childhood__w_underworld_reveal",
+      "source": "w_childhood",
+      "target": "w_underworld_reveal",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "少年经历在先，成年《将来》才识明声音及组织关系。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "少年经历在先，成年《将来》才识明声音及组织关系。",
+      "evidence_ids": [
+        "evidence_55145d37457acfee",
+        "evidence_5aac8f8ec213639b",
+        "evidence_7ffd3ff3793510d2"
+      ],
+      "book_ids": [
+        "book_7eed28bd703f",
+        "book_ede3a34d0069"
+      ]
+    },
+    {
+      "id": "revealed_by__earth_engineering__w_elder_contact",
+      "source": "earth_engineering",
+      "target": "w_elder_contact",
+      "relation": "revealed_by",
+      "epistemic_status": "testimony",
+      "reason": "远古工程发生与现代得知分开，不以揭露书号给古史排序。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "远古工程发生与现代得知分开，不以揭露书号给古史排序。",
+      "evidence_ids": [
+        "evidence_e8b9207a34b6eb16"
+      ],
+      "book_ids": [
+        "book_202100bacdcc"
+      ]
+    },
+    {
+      "id": "revealed_by__w_family_past__w_family_recovery",
+      "source": "w_family_past",
+      "target": "w_family_recovery",
+      "relation": "revealed_by",
+      "epistemic_status": "textual_fact",
+      "reason": "调查重建过去，不把回忆中的婚育事件搬到调查当下。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "调查重建过去，不把回忆中的婚育事件搬到调查当下。",
+      "evidence_ids": [
+        "evidence_318e289b38da960d",
+        "evidence_94c91f9606dc3c2b",
+        "evidence_b68bbc86fcf830e8",
+        "evidence_48ad0b3d897f0574"
+      ],
+      "book_ids": [
+        "book_afc4b3885657"
+      ]
+    },
+    {
+      "id": "before__w_family_recovery__w_hongling_choices",
+      "source": "w_family_recovery",
+      "target": "w_hongling_choices",
+      "relation": "before",
+      "epistemic_status": "synthesis",
+      "reason": "家史与亲子关系从追索、相处推进到外婆投影确认；事件状态逐步增加。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "家史与亲子关系从追索、相处推进到外婆投影确认；事件状态逐步增加。",
+      "evidence_ids": [
+        "evidence_9d7ff2aa7e94f812",
+        "evidence_0bb1e9d7e786e292",
+        "evidence_ee42f3cc9a489e8c",
+        "evidence_3beea314932e36e3"
+      ],
+      "book_ids": [
+        "book_02a15832ae8a",
+        "book_6f42d4433a38"
+      ]
+    },
+    {
+      "id": "before__w_hongling_choices__w_miao_contact",
+      "source": "w_hongling_choices",
+      "target": "w_miao_contact",
+      "relation": "before",
+      "epistemic_status": "synthesis",
+      "reason": "家史与亲子关系从追索、相处推进到外婆投影确认；事件状态逐步增加。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "家史与亲子关系从追索、相处推进到外婆投影确认；事件状态逐步增加。",
+      "evidence_ids": [
+        "evidence_9d7ff2aa7e94f812",
+        "evidence_0bb1e9d7e786e292",
+        "evidence_ee42f3cc9a489e8c",
+        "evidence_3beea314932e36e3"
+      ],
+      "book_ids": [
+        "book_02a15832ae8a",
+        "book_6f42d4433a38"
+      ]
+    },
+    {
+      "id": "before__w_underworld_reveal__w_four_negotiation",
+      "source": "w_underworld_reveal",
+      "target": "w_four_negotiation",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "先知小组分离并处理四号纠纷，后期才见思想仪停摆；不把中间所有书纳入总年代。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "先知小组分离并处理四号纠纷，后期才见思想仪停摆；不把中间所有书纳入总年代。",
+      "evidence_ids": [
+        "evidence_45572bd17b3137a0",
+        "evidence_5db6350a305a0c64",
+        "evidence_791be8874d033d73"
+      ],
+      "book_ids": [
+        "book_1fb6bf0030da",
+        "book_b60f03e1be18"
+      ]
+    },
+    {
+      "id": "before__w_four_negotiation__w_underworld_shutdown",
+      "source": "w_four_negotiation",
+      "target": "w_underworld_shutdown",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "先知小组分离并处理四号纠纷，后期才见思想仪停摆；不把中间所有书纳入总年代。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "先知小组分离并处理四号纠纷，后期才见思想仪停摆；不把中间所有书纳入总年代。",
+      "evidence_ids": [
+        "evidence_45572bd17b3137a0",
+        "evidence_5db6350a305a0c64",
+        "evidence_791be8874d033d73"
+      ],
+      "book_ids": [
+        "book_1fb6bf0030da",
+        "book_b60f03e1be18"
+      ]
+    },
+    {
+      "id": "before__w_tomb__w_underworld_shutdown",
+      "source": "w_tomb",
+      "target": "w_underworld_shutdown",
+      "relation": "before",
+      "epistemic_status": "synthesis",
+      "reason": "盗墓者的早期经历先于后来改造与团聚；未给中间每个阶段具体日期。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "盗墓者的早期经历先于后来改造与团聚；未给中间每个阶段具体日期。",
+      "evidence_ids": [
+        "evidence_46bc026fbd5c7506",
+        "evidence_730f9441c91451fa",
+        "evidence_92b6dc6cb47171c4"
+      ],
+      "book_ids": [
+        "book_1fb6bf0030da",
+        "book_aa5d20a2593d"
+      ]
+    },
+    {
+      "id": "before__w_water_reveal__w_quota_research",
+      "source": "w_water_reveal",
+      "target": "w_quota_research",
+      "relation": "before",
+      "epistemic_status": "synthesis",
+      "reason": "先接触水生命，之后由水参与配额研究和接送。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "先接触水生命，之后由水参与配额研究和接送。",
+      "evidence_ids": [
+        "evidence_329858c60a8196bc",
+        "evidence_f858a570dde0c17e",
+        "evidence_374f890b0cb5a343",
+        "evidence_e1686d46546a4fdc"
+      ],
+      "book_ids": [
+        "book_285c39eb6c50",
+        "book_f4a7e356d619"
+      ]
+    },
+    {
+      "id": "before__w_eagle_friend__w_real_illusion",
+      "source": "w_eagle_friend",
+      "target": "w_real_illusion",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "鹰身、幻境经历、成人和成人后须被背负的状态接续。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "鹰身、幻境经历、成人和成人后须被背负的状态接续。",
+      "evidence_ids": [
+        "evidence_c0ea364e1da92276",
+        "evidence_613c8b92ec2ad7ab",
+        "evidence_53954a717fce6da5",
+        "evidence_d90d90f29684c376",
+        "evidence_7efaaf365ec8c345",
+        "evidence_79844f5ea8f52fcc"
+      ],
+      "book_ids": [
+        "book_6e319aaba962",
+        "book_9a4da2ea3ef3",
+        "book_f4ea5e801b15"
+      ]
+    },
+    {
+      "id": "before__w_real_illusion__w_eagle_human",
+      "source": "w_real_illusion",
+      "target": "w_eagle_human",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "鹰身、幻境经历、成人和成人后须被背负的状态接续。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "鹰身、幻境经历、成人和成人后须被背负的状态接续。",
+      "evidence_ids": [
+        "evidence_c0ea364e1da92276",
+        "evidence_613c8b92ec2ad7ab",
+        "evidence_53954a717fce6da5",
+        "evidence_d90d90f29684c376",
+        "evidence_7efaaf365ec8c345",
+        "evidence_79844f5ea8f52fcc"
+      ],
+      "book_ids": [
+        "book_6e319aaba962",
+        "book_9a4da2ea3ef3",
+        "book_f4ea5e801b15"
+      ]
+    },
+    {
+      "id": "before__w_eagle_human__w_eagle_departure",
+      "source": "w_eagle_human",
+      "target": "w_eagle_departure",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "鹰身、幻境经历、成人和成人后须被背负的状态接续。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "鹰身、幻境经历、成人和成人后须被背负的状态接续。",
+      "evidence_ids": [
+        "evidence_c0ea364e1da92276",
+        "evidence_613c8b92ec2ad7ab",
+        "evidence_53954a717fce6da5",
+        "evidence_d90d90f29684c376",
+        "evidence_7efaaf365ec8c345",
+        "evidence_79844f5ea8f52fcc"
+      ],
+      "book_ids": [
+        "book_6e319aaba962",
+        "book_9a4da2ea3ef3",
+        "book_f4ea5e801b15"
+      ]
+    },
+    {
+      "id": "before__w_knowledge_transfer__w_copy_refusal",
+      "source": "w_knowledge_transfer",
+      "target": "w_copy_refusal",
+      "relation": "before",
+      "epistemic_status": "synthesis",
+      "reason": "已有知识转移成果后，另一复制体受体计划仍能被拒绝。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "已有知识转移成果后，另一复制体受体计划仍能被拒绝。",
+      "evidence_ids": [
+        "evidence_aac593bf0e5b450b",
+        "evidence_1f8f330b4dc52b31"
+      ],
+      "book_ids": [
+        "book_1a10e56018a3",
+        "book_a25be6589e38"
+      ]
+    },
+    {
+      "id": "before__w_elder_contact__w_alliance",
+      "source": "w_elder_contact",
+      "target": "w_alliance",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "温宝裕受到长老人口论影响，终局明确反省并转向自愿远行。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "温宝裕受到长老人口论影响，终局明确反省并转向自愿远行。",
+      "evidence_ids": [
+        "evidence_9ca8328f1606024e"
+      ],
+      "book_ids": [
+        "book_1fb6bf0030da"
+      ]
+    },
+    {
+      "id": "before__w_underworld_shutdown__w_alliance",
+      "source": "w_underworld_shutdown",
+      "target": "w_alliance",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "终章按先见停机、回家、来访叙述；停机本身日期仍不明。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "终章按先见停机、回家、来访叙述；停机本身日期仍不明。",
+      "evidence_ids": [
+        "evidence_f2c68e214ccbfa25"
+      ],
+      "book_ids": [
+        "book_1fb6bf0030da"
+      ]
+    },
+    {
+      "id": "before__w_leman__l_beehive",
+      "source": "w_leman",
+      "target": "l_beehive",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "《蜂后》明确说明《后备》秘密曝光后医院迁址，是可靠跨系列锚。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "《蜂后》明确说明《后备》秘密曝光后医院迁址，是可靠跨系列锚。",
+      "evidence_ids": [
+        "evidence_5bcc7c8fce49c85c"
+      ],
+      "book_ids": [
+        "book_533b28ccc313"
+      ]
+    },
+    {
+      "id": "before__w_rhino__y_black_white",
+      "source": "w_rhino",
+      "target": "y_black_white",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "《黑白无常》直接回指《犀照》研究所和主持人。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "《黑白无常》直接回指《犀照》研究所和主持人。",
+      "evidence_ids": [
+        "evidence_ac7a614eb71390c8",
+        "evidence_d6fd2ba28b19ca8b",
+        "evidence_c25174562708af65",
+        "evidence_be1086ed785b4cc2",
+        "evidence_7ccd6a5fda503fb2"
+      ],
+      "book_ids": [
+        "book_b3303d3266ed"
+      ]
+    },
+    {
+      "id": "before__y_heisha__y_body_rescue",
+      "source": "y_heisha",
+      "target": "y_body_rescue",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "受罚的黑纱后来在救援中牺牲并留下身体。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "受罚的黑纱后来在救援中牺牲并留下身体。",
+      "evidence_ids": [
+        "evidence_54e6041b00751529",
+        "evidence_ee4464a82b653c4e",
+        "evidence_6a9ac53e37a6ace3",
+        "evidence_e5e903ecd7cafc86",
+        "evidence_038c14f9c81590cb"
+      ],
+      "book_ids": [
+        "book_4b64c28681b2",
+        "book_b918ee450d56"
+      ]
+    },
+    {
+      "id": "before__y_maxian_origin__y_blood_spell",
+      "source": "y_maxian_origin",
+      "target": "y_blood_spell",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+      "evidence_ids": [
+        "evidence_bdafc99c209a88dc",
+        "evidence_126561bb163290d4",
+        "evidence_7480fb0e08bc9a97",
+        "evidence_f45466ef333bb7ee",
+        "evidence_f63061fff25e814e",
+        "evidence_73412a59c3cdd4ac"
+      ],
+      "book_ids": [
+        "book_07cad85786b0",
+        "book_16e87a9465f3",
+        "book_1b2ce90d0135",
+        "book_51ac5b7920ea",
+        "book_6a15650b973f",
+        "book_8e795168086a"
+      ]
+    },
+    {
+      "id": "before__y_blood_spell__y_spell_recoil",
+      "source": "y_blood_spell",
+      "target": "y_spell_recoil",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+      "evidence_ids": [
+        "evidence_bdafc99c209a88dc",
+        "evidence_126561bb163290d4",
+        "evidence_7480fb0e08bc9a97",
+        "evidence_f45466ef333bb7ee",
+        "evidence_f63061fff25e814e",
+        "evidence_73412a59c3cdd4ac"
+      ],
+      "book_ids": [
+        "book_07cad85786b0",
+        "book_16e87a9465f3",
+        "book_1b2ce90d0135",
+        "book_51ac5b7920ea",
+        "book_6a15650b973f",
+        "book_8e795168086a"
+      ]
+    },
+    {
+      "id": "before__y_spell_recoil__y_maxian_recovery",
+      "source": "y_spell_recoil",
+      "target": "y_maxian_recovery",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+      "evidence_ids": [
+        "evidence_bdafc99c209a88dc",
+        "evidence_126561bb163290d4",
+        "evidence_7480fb0e08bc9a97",
+        "evidence_f45466ef333bb7ee",
+        "evidence_f63061fff25e814e",
+        "evidence_73412a59c3cdd4ac"
+      ],
+      "book_ids": [
+        "book_07cad85786b0",
+        "book_16e87a9465f3",
+        "book_1b2ce90d0135",
+        "book_51ac5b7920ea",
+        "book_6a15650b973f",
+        "book_8e795168086a"
+      ]
+    },
+    {
+      "id": "before__y_maxian_recovery__y_disappearance",
+      "source": "y_maxian_recovery",
+      "target": "y_disappearance",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "玛仙施术、解除反噬、受治恢复与末期搜寻的状态互相接续。",
+      "evidence_ids": [
+        "evidence_bdafc99c209a88dc",
+        "evidence_126561bb163290d4",
+        "evidence_7480fb0e08bc9a97",
+        "evidence_f45466ef333bb7ee",
+        "evidence_f63061fff25e814e",
+        "evidence_73412a59c3cdd4ac"
+      ],
+      "book_ids": [
+        "book_07cad85786b0",
+        "book_16e87a9465f3",
+        "book_1b2ce90d0135",
+        "book_51ac5b7920ea",
+        "book_6a15650b973f",
+        "book_8e795168086a"
+      ]
+    },
+    {
+      "id": "before__y_body_rescue__y_disappearance",
+      "source": "y_body_rescue",
+      "target": "y_disappearance",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "原振侠终局身体沿用黑暗天使后的复制体，失踪在后。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "原振侠终局身体沿用黑暗天使后的复制体，失踪在后。",
+      "evidence_ids": [
+        "evidence_5e1627ed27172007",
+        "evidence_3f0b55873f0513a6"
+      ],
+      "book_ids": [
+        "book_8e795168086a",
+        "book_b918ee450d56"
+      ]
+    },
+    {
+      "id": "before__y_liuxu_rescue__w_quota_research",
+      "source": "y_liuxu_rescue",
+      "target": "w_quota_research",
+      "relation": "before",
+      "epistemic_status": "synthesis",
+      "reason": "康维后期关心配额是为了与其相伴的柳絮，故救治及关系建立在前。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "康维后期关心配额是为了与其相伴的柳絮，故救治及关系建立在前。",
+      "evidence_ids": [
+        "evidence_e7be2a98fed06f71",
+        "evidence_ffb4721ae0737a32",
+        "evidence_db91b370c1b9beee",
+        "evidence_e0ab4720457af797"
+      ],
+      "book_ids": [
+        "book_285c39eb6c50",
+        "book_6e1d8d6fd7c7"
+      ]
+    },
+    {
+      "id": "before__l_refusal__l_doll",
+      "source": "l_refusal",
+      "target": "l_doll",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "组织控制、思想玩偶、天使牺牲及受创后的脱困接续。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "组织控制、思想玩偶、天使牺牲及受创后的脱困接续。",
+      "evidence_ids": [
+        "evidence_b87d2826f05c2f82",
+        "evidence_b46462ea2c0baf56",
+        "evidence_a13cb3feb6c2f8ce",
+        "evidence_c80b9bee246219b5",
+        "evidence_7043568fc1252fae"
+      ],
+      "book_ids": [
+        "book_3d11fdd8a762",
+        "book_4061a76cea80",
+        "book_670aaaa7d25b",
+        "book_b032f28a589d"
+      ]
+    },
+    {
+      "id": "before__l_doll__l_angel_loss",
+      "source": "l_doll",
+      "target": "l_angel_loss",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "组织控制、思想玩偶、天使牺牲及受创后的脱困接续。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "组织控制、思想玩偶、天使牺牲及受创后的脱困接续。",
+      "evidence_ids": [
+        "evidence_b87d2826f05c2f82",
+        "evidence_b46462ea2c0baf56",
+        "evidence_a13cb3feb6c2f8ce",
+        "evidence_c80b9bee246219b5",
+        "evidence_7043568fc1252fae"
+      ],
+      "book_ids": [
+        "book_3d11fdd8a762",
+        "book_4061a76cea80",
+        "book_670aaaa7d25b",
+        "book_b032f28a589d"
+      ]
+    },
+    {
+      "id": "before__l_angel_loss__l_enemy_alliance",
+      "source": "l_angel_loss",
+      "target": "l_enemy_alliance",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "组织控制、思想玩偶、天使牺牲及受创后的脱困接续。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "组织控制、思想玩偶、天使牺牲及受创后的脱困接续。",
+      "evidence_ids": [
+        "evidence_b87d2826f05c2f82",
+        "evidence_b46462ea2c0baf56",
+        "evidence_a13cb3feb6c2f8ce",
+        "evidence_c80b9bee246219b5",
+        "evidence_7043568fc1252fae"
+      ],
+      "book_ids": [
+        "book_3d11fdd8a762",
+        "book_4061a76cea80",
+        "book_670aaaa7d25b",
+        "book_b032f28a589d"
+      ]
+    },
+    {
+      "id": "before__n_empire__y_body_rescue",
+      "source": "n_empire",
+      "target": "y_body_rescue",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "早期帝国与伴侣经历在前；黑暗天使换身是夜归飞行及后续神话经历的身体条件。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "早期帝国与伴侣经历在前；黑暗天使换身是夜归飞行及后续神话经历的身体条件。",
+      "evidence_ids": [
+        "evidence_d6c107671ff001f7",
+        "evidence_b1d5c38e381b7644",
+        "evidence_a9550617d1379158",
+        "evidence_f97d09fb5a38f1b5",
+        "evidence_d9f1d22ed64c29a0",
+        "evidence_dc68380d2a26ec34",
+        "evidence_c7baa09df2007ebb",
+        "evidence_2e7a6aaa88e5e8e5"
+      ],
+      "book_ids": [
+        "book_00387402bed3",
+        "book_b227612aca17",
+        "book_b918ee450d56",
+        "book_d135e392bd20",
+        "book_d2f0e3b9ed17"
+      ]
+    },
+    {
+      "id": "before__y_body_rescue__n_new_body",
+      "source": "y_body_rescue",
+      "target": "n_new_body",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "早期帝国与伴侣经历在前；黑暗天使换身是夜归飞行及后续神话经历的身体条件。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "早期帝国与伴侣经历在前；黑暗天使换身是夜归飞行及后续神话经历的身体条件。",
+      "evidence_ids": [
+        "evidence_d6c107671ff001f7",
+        "evidence_b1d5c38e381b7644",
+        "evidence_a9550617d1379158",
+        "evidence_f97d09fb5a38f1b5",
+        "evidence_d9f1d22ed64c29a0",
+        "evidence_dc68380d2a26ec34",
+        "evidence_c7baa09df2007ebb",
+        "evidence_2e7a6aaa88e5e8e5"
+      ],
+      "book_ids": [
+        "book_00387402bed3",
+        "book_b227612aca17",
+        "book_b918ee450d56",
+        "book_d135e392bd20",
+        "book_d2f0e3b9ed17"
+      ]
+    },
+    {
+      "id": "before__n_new_body__n_myth_return",
+      "source": "n_new_body",
+      "target": "n_myth_return",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "早期帝国与伴侣经历在前；黑暗天使换身是夜归飞行及后续神话经历的身体条件。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "早期帝国与伴侣经历在前；黑暗天使换身是夜归飞行及后续神话经历的身体条件。",
+      "evidence_ids": [
+        "evidence_d6c107671ff001f7",
+        "evidence_b1d5c38e381b7644",
+        "evidence_a9550617d1379158",
+        "evidence_f97d09fb5a38f1b5",
+        "evidence_d9f1d22ed64c29a0",
+        "evidence_dc68380d2a26ec34",
+        "evidence_c7baa09df2007ebb",
+        "evidence_2e7a6aaa88e5e8e5"
+      ],
+      "book_ids": [
+        "book_00387402bed3",
+        "book_b227612aca17",
+        "book_b918ee450d56",
+        "book_d135e392bd20",
+        "book_d2f0e3b9ed17"
+      ]
+    },
+    {
+      "id": "before__m_watch__m_wedding",
+      "source": "m_watch",
+      "target": "m_wedding",
+      "relation": "before",
+      "epistemic_status": "synthesis",
+      "reason": "高翔从早期交易关系转入警方合作，婚姻为后来阶段；并非只由篇号推断。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "高翔从早期交易关系转入警方合作，婚姻为后来阶段；并非只由篇号推断。",
+      "evidence_ids": [
+        "evidence_59e3305b52d927fc",
+        "evidence_fa6af1fed9557685",
+        "evidence_33de46028aa0bd94"
+      ],
+      "book_ids": [
+        "book_3a4be15d72e1",
+        "book_c2535674b4f0"
+      ]
+    },
+    {
+      "id": "before__m_ma_loss__m_marriage_swap",
+      "source": "m_ma_loss",
+      "target": "m_marriage_swap",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "穆秀珍先失去马超文，后与云四风结婚；双方关系接续。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "穆秀珍先失去马超文，后与云四风结婚；双方关系接续。",
+      "evidence_ids": [
+        "evidence_a2eb02b3e1f9ba61",
+        "evidence_ffbe897bdb029d1a",
+        "evidence_f81ae344e6f51791",
+        "evidence_1e001eaf18c344d5"
+      ],
+      "book_ids": [
+        "book_d1e263538229",
+        "book_d891efd52524"
+      ]
+    },
+    {
+      "id": "before__m_annie_family__m_marriage_swap",
+      "source": "m_annie_family",
+      "target": "m_marriage_swap",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "入家后的轮椅阶段参与假新娘案，猎头禁地后恢复行走，后期学习和独立。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "入家后的轮椅阶段参与假新娘案，猎头禁地后恢复行走，后期学习和独立。",
+      "evidence_ids": [
+        "evidence_8533f583fddc775c",
+        "evidence_a80595c68ca0a8de",
+        "evidence_6026b2f8c8c017ad",
+        "evidence_88c3253b81ce8be0",
+        "evidence_8e01347772bb4fd5",
+        "evidence_10e8045857ddd18d",
+        "evidence_76356d25d426c8e3",
+        "evidence_4693eca5a622cf5f",
+        "evidence_787c35885040d57e",
+        "evidence_3c27ab7203ee0360"
+      ],
+      "book_ids": [
+        "book_1759a14aa7d2",
+        "book_2d3443649105",
+        "book_7305a311c73f",
+        "book_91f9ff962ece"
+      ]
+    },
+    {
+      "id": "before__m_marriage_swap__m_annie_walks",
+      "source": "m_marriage_swap",
+      "target": "m_annie_walks",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "入家后的轮椅阶段参与假新娘案，猎头禁地后恢复行走，后期学习和独立。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "入家后的轮椅阶段参与假新娘案，猎头禁地后恢复行走，后期学习和独立。",
+      "evidence_ids": [
+        "evidence_8533f583fddc775c",
+        "evidence_a80595c68ca0a8de",
+        "evidence_6026b2f8c8c017ad",
+        "evidence_88c3253b81ce8be0",
+        "evidence_8e01347772bb4fd5",
+        "evidence_10e8045857ddd18d",
+        "evidence_76356d25d426c8e3",
+        "evidence_4693eca5a622cf5f",
+        "evidence_787c35885040d57e",
+        "evidence_3c27ab7203ee0360"
+      ],
+      "book_ids": [
+        "book_1759a14aa7d2",
+        "book_2d3443649105",
+        "book_7305a311c73f",
+        "book_91f9ff962ece"
+      ]
+    },
+    {
+      "id": "before__m_annie_walks__m_annie_independent",
+      "source": "m_annie_walks",
+      "target": "m_annie_independent",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "入家后的轮椅阶段参与假新娘案，猎头禁地后恢复行走，后期学习和独立。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "入家后的轮椅阶段参与假新娘案，猎头禁地后恢复行走，后期学习和独立。",
+      "evidence_ids": [
+        "evidence_8533f583fddc775c",
+        "evidence_a80595c68ca0a8de",
+        "evidence_6026b2f8c8c017ad",
+        "evidence_88c3253b81ce8be0",
+        "evidence_8e01347772bb4fd5",
+        "evidence_10e8045857ddd18d",
+        "evidence_76356d25d426c8e3",
+        "evidence_4693eca5a622cf5f",
+        "evidence_787c35885040d57e",
+        "evidence_3c27ab7203ee0360"
+      ],
+      "book_ids": [
+        "book_1759a14aa7d2",
+        "book_2d3443649105",
+        "book_7305a311c73f",
+        "book_91f9ff962ece"
+      ]
+    },
+    {
+      "id": "before__m_blind__m_wedding",
+      "source": "m_blind",
+      "target": "m_wedding",
+      "relation": "before",
+      "epistemic_status": "synthesis",
+      "reason": "眼伤恢复发生于后续正常行动和结婚之前，按人物状态约束。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "眼伤恢复发生于后续正常行动和结婚之前，按人物状态约束。",
+      "evidence_ids": [
+        "evidence_1bdc6023f403e5a5",
+        "evidence_ab9914ccaf7d7756",
+        "evidence_3f90efc5458c6497",
+        "evidence_7c2f9a914bb2917f",
+        "evidence_66728cf971b27062",
+        "evidence_982856be5aa23afb",
+        "evidence_24eb6725086290a0"
+      ],
+      "book_ids": [
+        "book_3a4be15d72e1",
+        "book_676f75bdba78"
+      ]
+    },
+    {
+      "id": "before__f_eagle_origin__w_real_illusion",
+      "source": "f_eagle_origin",
+      "target": "w_real_illusion",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "金维在后书明确重述孤峰旧经历，后来与成人神鹰再赴孤峰。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "金维在后书明确重述孤峰旧经历，后来与成人神鹰再赴孤峰。",
+      "evidence_ids": [
+        "evidence_fa282b4c2178a058",
+        "evidence_e82971096e2de5ea",
+        "evidence_e836dde3531ec0a3",
+        "evidence_67787ee0ee83a415",
+        "evidence_1e0d8bdd5450a550",
+        "evidence_d4f7bb04c2414de3",
+        "evidence_c14134b6688b8d70"
+      ],
+      "book_ids": [
+        "book_6e319aaba962",
+        "book_f4ea5e801b15"
+      ]
+    },
+    {
+      "id": "before__w_real_illusion__w_eagle_departure",
+      "source": "w_real_illusion",
+      "target": "w_eagle_departure",
+      "relation": "before",
+      "epistemic_status": "textual_fact",
+      "reason": "金维在后书明确重述孤峰旧经历，后来与成人神鹰再赴孤峰。",
+      "schema_version": "1.0",
+      "section": "relations",
+      "title": "金维在后书明确重述孤峰旧经历，后来与成人神鹰再赴孤峰。",
+      "evidence_ids": [
+        "evidence_fa282b4c2178a058",
+        "evidence_e82971096e2de5ea",
+        "evidence_e836dde3531ec0a3",
+        "evidence_67787ee0ee83a415",
+        "evidence_1e0d8bdd5450a550",
+        "evidence_d4f7bb04c2414de3",
+        "evidence_c14134b6688b8d70"
+      ],
+      "book_ids": [
+        "book_6e319aaba962",
+        "book_f4ea5e801b15"
+      ]
+    }
+  ],
+  "notice": "before为偏序；没有路径的事件先后未知。展示顺序不是原作总年表。"
+}

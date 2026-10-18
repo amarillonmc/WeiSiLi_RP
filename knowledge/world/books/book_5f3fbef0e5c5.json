@@ -1,0 +1,337 @@
+{
+  "schema_version": "1.0",
+  "id": "book_5f3fbef0e5c5",
+  "title": "传说",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/122传说.txt",
+  "file": "books/book_5f3fbef0e5c5.json",
+  "inherited_fact_count": 24,
+  "curated_links": {
+    "rules": [
+      "rule_occult"
+    ],
+    "arcs": [
+      "arc_wen",
+      "arc_lansi"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "9a620ad906117272ee9aeb1af8ba3643c67924c71bc6d5e49eebd2f967eab99d",
+  "source_lines": 2768,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "元首（传说别馆）",
+      "card_id": "weisili_chuanshuo_head",
+      "role": "单书主角",
+      "basis": "愿望装置与国家危机人物"
+    },
+    {
+      "name": "大元帅（传说别馆）",
+      "card_id": "weisili_chuanshuo_marshal",
+      "role": "关键背景主角",
+      "basis": "愿望装置与国家危机人物"
+    },
+    {
+      "name": "总司令（传说元首内阁）",
+      "card_id": "weisili_chuanshuo_commander",
+      "role": "反派",
+      "basis": "愿望装置与国家危机人物"
+    },
+    {
+      "name": "参谋长（传说元首内阁）",
+      "card_id": "weisili_chuanshuo_chiefstaff",
+      "role": "阶段性反派",
+      "basis": "愿望装置与国家危机人物"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "实际参与寻找温宝裕"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "重要配角",
+      "basis": "实际参与寻找温宝裕"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "实际参与寻找温宝裕"
+    },
+    {
+      "name": "温妈妈",
+      "card_id": "weisili_wen_mama",
+      "role": "重要配角",
+      "basis": "实际参与寻找温宝裕"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "实际参与寻找温宝裕"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "重要配角",
+      "basis": "实际参与寻找温宝裕"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "实际参与寻找温宝裕"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "实际参与寻找温宝裕"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "重要配角",
+      "basis": "寻找温宝裕及装置事件的协助者"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "侍卫长",
+      "reason": "一次性关键受害见证者，只有开门与死亡的行动线；原因仍未解，不授予幻境控制或写成已确定谋杀者。"
+    },
+    {
+      "name": "两位部长",
+      "reason": "随同危机交涉，未展示独立主角线或明确个体施害计划。"
+    },
+    {
+      "name": "别馆主管",
+      "reason": "一次性提供建筑旧事的辅助见证者。"
+    },
+    {
+      "name": "各地降头师",
+      "reason": "蓝丝召集的辅助群体，未个体化；飞虫未返和无法探知是能力局限，非敌对证据。"
+    },
+    {
+      "name": "愿望装置与未知制造者",
+      "reason": "装置未显示独立人格，制造者仅推测，不虚构一个无所不能的许愿神。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_4f4e03a6795dce33",
+      "statement": "机场呼喊与追责习惯",
+      "annotation_character_ids": [
+        "weisili_wen_mama"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_92e19f86b23fc983",
+      "statement": "保密与接待",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f59df0bdc89c1bb",
+      "statement": "受责问",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47fa41b487ba782c",
+      "statement": "权力结构",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_head"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a8fa3a59909c02d5",
+      "statement": "实际权力及野心",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b27c4c8a131f680",
+      "statement": "阵营与判断",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_chiefstaff"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cc705197a1fe7413",
+      "statement": "推动开门",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_chiefstaff"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4bee424da714cc52",
+      "statement": "见证边界",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_chiefstaff"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f3cc33d7652395e4",
+      "statement": "现场见证",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_575b8ab2c5db1424",
+      "statement": "救人和初遇",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_head"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ad7129c445840d9",
+      "statement": "救助与去世",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_marshal"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f3456e98a546d260",
+      "statement": "别馆与保密",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_marshal"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83c1c8cb61da26c3",
+      "statement": "哭闹的夸张描述",
+      "annotation_character_ids": [
+        "weisili_wen_mama"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6775f4be59d1602c",
+      "statement": "飞虫未返与二十余法失败",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e844cc39e345ab8",
+      "statement": "继任安排",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c624c488f2db1a60",
+      "statement": "元首旧交和观察局限",
+      "annotation_character_ids": [
+        "weisili_tao_qiquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed86764e51b51995",
+      "statement": "仪器、爆破、铁网及能量边界",
+      "annotation_character_ids": [
+        "weisili_ge_bi",
+        "weisili_sha_mo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_011319e66aeaefc4",
+      "statement": "铁箱开启、苏醒与能量变化",
+      "annotation_character_ids": [
+        "weisili_wen_baoyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d59e6d52655c64e",
+      "statement": "设备开启和联系恢复",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_51b096789ed7b4ae",
+      "statement": "醒来",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_head"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cf4aedc3c1148a3b",
+      "statement": "诱导和装置",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_head"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d6fc20e81a7da6c2",
+      "statement": "传授装置和来源未解",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_marshal"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_415d5fedd93bd1ae",
+      "statement": "卸任选择",
+      "annotation_character_ids": [
+        "weisili_chuanshuo_head"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f4c45c552561d3ad",
+      "statement": "直到儿子出现才结束哭闹",
+      "annotation_character_ids": [
+        "weisili_wen_mama"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

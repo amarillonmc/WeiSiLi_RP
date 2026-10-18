@@ -1,0 +1,441 @@
+{
+  "schema_version": "1.0",
+  "id": "book_dfed8fba4c8b",
+  "title": "金庙奇佛",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/55金庙奇佛.txt",
+  "file": "books/book_dfed8fba4c8b.json",
+  "inherited_fact_count": 39,
+  "curated_links": {
+    "events": [
+      "m_annie_independent"
+    ],
+    "arcs": [
+      "arc_annie"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "ecec4b8b8f69c4e54c79fa4660df19b541bf71449e67f73c3dd18c4de6d6341b",
+  "source_lines": 2364,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "佟雅皇后",
+      "card_id": "mulanhua_tong_ya",
+      "role": "单书主角",
+      "basis": "开发计划、正式授权与政治终局。"
+    },
+    {
+      "name": "桑达",
+      "card_id": "mulanhua_sangda",
+      "role": "单书主角",
+      "basis": "向导、独立建设愿望与牺牲。"
+    },
+    {
+      "name": "迪逊",
+      "card_id": "mulanhua_dixon",
+      "role": "单书主角",
+      "basis": "核心考察行动及临终口述构成全案。"
+    },
+    {
+      "name": "梅斯",
+      "card_id": "mulanhua_meisi",
+      "role": "反派",
+      "basis": "毒物控制和参谋长身份。"
+    },
+    {
+      "name": "金庙总降头师",
+      "card_id": "mulanhua_gold_temple_general",
+      "role": "反派",
+      "basis": "主谋、杀人和逮捕。"
+    },
+    {
+      "name": "村落降头师",
+      "card_id": "mulanhua_gold_temple_village_shaman",
+      "role": "反派",
+      "basis": "独立接待威胁与押运。"
+    },
+    {
+      "name": "云三风",
+      "card_id": "mulanhua_yun_sanfeng",
+      "role": "跨书重要配角",
+      "basis": "本书明确死亡并查明原因。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "合作与后续开发。"
+    },
+    {
+      "name": "云一风",
+      "card_id": "mulanhua_yun_yifeng",
+      "role": "跨书重要配角",
+      "basis": "送医及同意检查。"
+    },
+    {
+      "name": "云二风",
+      "card_id": "mulanhua_yun_erfeng",
+      "role": "跨书重要配角",
+      "basis": "在场送别兄弟。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "跨书重要配角",
+      "basis": "家族面对死亡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "调查、制服梅斯、建设合作。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "山区行动与获救。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "林道、格连、童医生",
+      "reason": "本案医疗和口述线索提供者；未见跨书实际行动，不属独立主角或反派。童医生相信巫术不等于掌握巫术。"
+    },
+    {
+      "name": "总管大臣、秘书、司机、勘察队及其余降头师",
+      "reason": "一次性后勤、受害者或未区分个体的组织人员；已具独立押运行为的降头师另卡。"
+    },
+    {
+      "name": "孙定",
+      "reason": "旧档案中的传教士，无本书实际行动。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_523003f7e744e07e",
+      "statement": "生日汽车和武技训练",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f49998d6970474df",
+      "statement": "特别汽车与安妮训练背景",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_720052422046cb63",
+      "statement": "死亡、赠物与病情",
+      "annotation_character_ids": [
+        "mulanhua_yun_sanfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f75284ee285e0cd3",
+      "statement": "面对弟弟死亡",
+      "annotation_character_ids": [
+        "mulanhua_yun_yifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_248383dcbe2e4449",
+      "statement": "投资背景与共同勘察。",
+      "annotation_character_ids": [
+        "mulanhua_dixon"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6ac899c5c742a74c",
+      "statement": "与迪逊勘矿",
+      "annotation_character_ids": [
+        "mulanhua_yun_sanfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76079b4f47371f45",
+      "statement": "外貌、教育与待客。",
+      "annotation_character_ids": [
+        "mulanhua_tong_ya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a2140f62c1435ce",
+      "statement": "报告、死亡和医院。",
+      "annotation_character_ids": [
+        "mulanhua_dixon"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1816deab9190cdb7",
+      "statement": "临终口述。",
+      "annotation_character_ids": [
+        "mulanhua_dixon"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9248b0295e758d0f",
+      "statement": "迪逊转述金庙挑战",
+      "annotation_character_ids": [
+        "mulanhua_yun_sanfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff5f31235820c6ad",
+      "statement": "根据线索推断外出。",
+      "annotation_character_ids": [
+        "mulanhua_tong_ya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a8fc4f70387c4a27",
+      "statement": "身份、家产、开发阻力。",
+      "annotation_character_ids": [
+        "mulanhua_tong_ya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a518f9c2da52889",
+      "statement": "组织与地方恐惧。",
+      "annotation_character_ids": [
+        "mulanhua_gold_temple_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b7b25333f07dd711",
+      "statement": "当地人缘和考察信息。",
+      "annotation_character_ids": [
+        "mulanhua_dixon"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f4c54690cd9475c",
+      "statement": "贵族免咒信念、授权与保护百姓。",
+      "annotation_character_ids": [
+        "mulanhua_tong_ya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_896e0b83246a9ccd",
+      "statement": "权力戒指的制度象征。",
+      "annotation_character_ids": [
+        "mulanhua_tong_ya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_96038b5c7069365d",
+      "statement": "教育、形貌、联络与地图。",
+      "annotation_character_ids": [
+        "mulanhua_sangda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f6c576d4988de08",
+      "statement": "遇袭受伤。",
+      "annotation_character_ids": [
+        "mulanhua_sangda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1a0dbe190fecaa12",
+      "statement": "禁令、语言与死亡威慑。",
+      "annotation_character_ids": [
+        "mulanhua_gold_temple_village_shaman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4aeb6b2bb5d165a0",
+      "statement": "解释竹地板。",
+      "annotation_character_ids": [
+        "mulanhua_sangda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82e8e54712e2d096",
+      "statement": "面对飞头的恐惧和思考。",
+      "annotation_character_ids": [
+        "mulanhua_sangda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_74e0d9ccea58c3f5",
+      "statement": "与梅斯共同出场并驱散村民。",
+      "annotation_character_ids": [
+        "mulanhua_gold_temple_village_shaman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_683216b7c7797d3a",
+      "statement": "身份伪装、和平话术与毒物威胁。",
+      "annotation_character_ids": [
+        "mulanhua_meisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_56a6fde80244dbaf",
+      "statement": "毒物解释",
+      "annotation_character_ids": [
+        "mulanhua_yun_sanfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_03be5ff5b4da0774",
+      "statement": "押送和履带车。",
+      "annotation_character_ids": [
+        "mulanhua_gold_temple_village_shaman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1c7a99001038d98d",
+      "statement": "面具、控制机关、杀桑达与延期死亡策略。",
+      "annotation_character_ids": [
+        "mulanhua_gold_temple_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_31ed30961c3560f5",
+      "statement": "死亡与威慑。",
+      "annotation_character_ids": [
+        "mulanhua_sangda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_14ba6fcfad5c510c",
+      "statement": "承认处置云三风和迪逊。",
+      "annotation_character_ids": [
+        "mulanhua_gold_temple_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_55c3061fedcc31c7",
+      "statement": "买通入庙确认",
+      "annotation_character_ids": [
+        "mulanhua_yun_sanfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_602ddf7d9643aaf3",
+      "statement": "买通入庙与主谋承认。",
+      "annotation_character_ids": [
+        "mulanhua_dixon"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5720432f1ac608f5",
+      "statement": "被制服、反中毒与药剂师自述。",
+      "annotation_character_ids": [
+        "mulanhua_meisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d2e8e1727218392",
+      "statement": "取解药、招揽及将军线索。",
+      "annotation_character_ids": [
+        "mulanhua_meisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83bc7b9673d03207",
+      "statement": "将军身份及更高职位暗示。",
+      "annotation_character_ids": [
+        "mulanhua_gold_temple_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0dff6c6eb5b97410",
+      "statement": "解毒后被麻醉。",
+      "annotation_character_ids": [
+        "mulanhua_meisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_94d8080b610bbd50",
+      "statement": "罂粟发现与逮捕终局。",
+      "annotation_character_ids": [
+        "mulanhua_gold_temple_general"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7f9cd1dbb8a9139a",
+      "statement": "真实军职与逮捕。",
+      "annotation_character_ids": [
+        "mulanhua_meisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e338504f2eecb681",
+      "statement": "技术开发延续。",
+      "annotation_character_ids": [
+        "mulanhua_dixon"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f52580348d83ec60",
+      "statement": "逮捕与开发终局。",
+      "annotation_character_ids": [
+        "mulanhua_tong_ya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ebd84ea4ace7977e",
+      "statement": "纪念工程。",
+      "annotation_character_ids": [
+        "mulanhua_sangda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

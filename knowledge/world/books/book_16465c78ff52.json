@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0",
+  "id": "book_16465c78ff52",
+  "title": "自杀阴谋",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/26.自杀阴谋.txt",
+  "file": "books/book_16465c78ff52.json",
+  "inherited_fact_count": 14,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "b4b7d85338366a5e12b5280ac6e0f8212b004bdfc2be5f168a1458868e39b4a6",
+  "source_lines": 7767,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "心理危机与反击"
+    },
+    {
+      "name": "曹银雪",
+      "card_id": "yuanzhenxia_cao_yinxue",
+      "role": "重要配角",
+      "basis": "关怀及击退杀手"
+    },
+    {
+      "name": "仲大雅",
+      "card_id": "yuanzhenxia_zhong_daya",
+      "role": "跨书主线人物",
+      "basis": "退化后保护家人"
+    },
+    {
+      "name": "黑白无常",
+      "card_id": "yuanzhenxia_heibai_wuchang",
+      "role": "重要配角",
+      "basis": "联络与承诺"
+    },
+    {
+      "name": "老刀",
+      "card_id": "yuanzhenxia_laodao",
+      "role": "反派",
+      "basis": "杀手集团阴谋"
+    },
+    {
+      "name": "小刀",
+      "card_id": "yuanzhenxia_xiaodao",
+      "role": "反派",
+      "basis": "杀手集团阴谋"
+    },
+    {
+      "name": "美姬",
+      "card_id": "yuanzhenxia_meiji",
+      "role": "反派",
+      "basis": "杀手集团阴谋"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "高级警官",
+      "reason": "单次办案协助者，没有跨书同一性证据"
+    },
+    {
+      "name": "土蜂",
+      "reason": "自杀新闻中的引述人物，不等于本书实际独立行动角色"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_5d725d6c1b92098c",
+      "statement": "袭击与敌意",
+      "annotation_character_ids": [
+        "yuanzhenxia_meiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e30627fc41819bbd",
+      "statement": "形象关系及关怀",
+      "annotation_character_ids": [
+        "yuanzhenxia_cao_yinxue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d01d2a15768e1cb",
+      "statement": "退化与保护家人",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhong_daya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_75f51508d38bfea8",
+      "statement": "考验安排",
+      "annotation_character_ids": [
+        "yuanzhenxia_laodao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d051f6d5b93935c",
+      "statement": "集团与依附关系",
+      "annotation_character_ids": [
+        "yuanzhenxia_meiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_96054ce47d5a2c48",
+      "statement": "病房对抗",
+      "annotation_character_ids": [
+        "yuanzhenxia_meiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a3eb59a1b8c179e7",
+      "statement": "死亡成为施压手段",
+      "annotation_character_ids": [
+        "yuanzhenxia_meiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_31d76018ffda7dd2",
+      "statement": "持续施压",
+      "annotation_character_ids": [
+        "yuanzhenxia_laodao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3bd1fe6b91a0643d",
+      "statement": "制伏杀手",
+      "annotation_character_ids": [
+        "yuanzhenxia_cao_yinxue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c3ae5e3fbb2f1aac",
+      "statement": "袭击失败与终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_xiaodao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_07b2001db64b3f20",
+      "statement": "感应、联络与承诺",
+      "annotation_character_ids": [
+        "yuanzhenxia_heibai_wuchang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f8f4a89e24c632b1",
+      "statement": "只有治疗承诺",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhong_daya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5746367fca6dc225",
+      "statement": "父子关系与过往",
+      "annotation_character_ids": [
+        "yuanzhenxia_xiaodao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b23bb913a900ebfc",
+      "statement": "最终自白",
+      "annotation_character_ids": [
+        "yuanzhenxia_laodao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

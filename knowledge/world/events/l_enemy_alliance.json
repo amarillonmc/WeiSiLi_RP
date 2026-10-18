@@ -1,0 +1,27 @@
+{
+  "id": "l_enemy_alliance",
+  "title": "罗开与衰弱的时间大神共同脱困",
+  "kind": "event",
+  "summary": "时间大神受困山腹并衰弱为光团，与罗开等借仪器和脑能力合作后离去。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《怪头》，受创之后。",
+    "narrative_layer": "present"
+  },
+  "state_before": "敌对双方同陷环境危机。",
+  "state_after": "敌人未消灭，出现一次合作及承诺。",
+  "knowledge_boundary": "合作不等于永久同盟或已兑现的任意援助。",
+  "character_ids": [
+    "adventure_luokai",
+    "adventure_time_god"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_7043568fc1252fae"
+  ],
+  "book_ids": [
+    "book_b032f28a589d"
+  ]
+}

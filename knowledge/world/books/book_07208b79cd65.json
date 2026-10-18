@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "book_07208b79cd65",
+  "title": "鬼脑",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/鬼脑.txt",
+  "file": "books/book_07208b79cd65.json",
+  "inherited_fact_count": 2,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "3a727c9d7966a7dcc15c543bc113309a68d8c84c1317b1674ee268c58316f508",
+  "source_lines": 77,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "南仔",
+      "card_id": "guihua_nan_zi",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "墓中未知死者",
+      "reason": "身份不明且与终局南仔的主体边界未厘清，相关可能性保留在南仔卡，避免重复叠加能力。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7a2c18f6ae2e2b39",
+      "statement": "原有性格与墓地变化",
+      "annotation_character_ids": [
+        "guihua_nan_zi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_573f75deeaf8fcde",
+      "statement": "仪式、语言、航海生涯和终局",
+      "annotation_character_ids": [
+        "guihua_nan_zi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

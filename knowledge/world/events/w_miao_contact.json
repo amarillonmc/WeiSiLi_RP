@@ -1,0 +1,31 @@
+{
+  "id": "w_miao_contact",
+  "title": "陈月兰异星身份及基地联系确认",
+  "kind": "event",
+  "summary": "陈月兰通过立体投影与白素相见；红绫说明设备教学来历并留下飞行背心。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《祸根》末。",
+    "narrative_layer": "present"
+  },
+  "state_before": "外婆去向与异星联系尚有猜测。",
+  "state_after": "身份得到本次联络确认，联络又结束；背心没有变成随身装备。",
+  "knowledge_boundary": "确认身份仍不等于知道她转化全过程或能随时召回。",
+  "character_ids": [
+    "weisili_chen_yuelan",
+    "weisili_bai_su",
+    "weisili_hong_ling"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_2b1dd125d9f6d5be",
+    "evidence_0bb1e9d7e786e292",
+    "evidence_ee42f3cc9a489e8c",
+    "evidence_3beea314932e36e3"
+  ],
+  "book_ids": [
+    "book_02a15832ae8a"
+  ]
+}

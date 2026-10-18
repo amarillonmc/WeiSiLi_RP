@@ -1,0 +1,386 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b0c91e969080",
+  "title": "奇门",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/016奇门.txt",
+  "file": "books/book_b0c91e969080.json",
+  "inherited_fact_count": 36,
+  "curated_links": {
+    "entities": [
+      "heaven_book"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "22f609669f4f6bdf4910f932fdabe592b97b28d5eebbceecc5147d808e4b0896",
+  "source_lines": 2887,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "米伦太太",
+      "card_id": "weisili_milun_furen",
+      "role": "单书主角",
+      "basis": "失乡旅人及返航谜团"
+    },
+    {
+      "name": "米伦",
+      "card_id": "weisili_milun",
+      "role": "单书主线人物",
+      "basis": "共同远航及遗体记录"
+    },
+    {
+      "name": "基度·马天奴",
+      "card_id": "weisili_jidu_matianlu",
+      "role": "单书主角",
+      "basis": "发现、收留和死亡"
+    },
+    {
+      "name": "基度太太",
+      "card_id": "weisili_jidu_furen",
+      "role": "单书主线人物",
+      "basis": "遗物处理、回国与遇害"
+    },
+    {
+      "name": "姬娜·基度",
+      "card_id": "weisili_jina_jidu",
+      "role": "重要配角",
+      "basis": "童年线索与后续天书连续"
+    },
+    {
+      "name": "肯斯基",
+      "card_id": "weisili_kensiji",
+      "role": "反派",
+      "basis": "潜艇囚禁和审讯"
+    },
+    {
+      "name": "季洛夫",
+      "card_id": "weisili_jiluofu",
+      "role": "反派",
+      "basis": "强迫邀请和转运"
+    },
+    {
+      "name": "内政副部长",
+      "card_id": "weisili_qimen_deputy_minister",
+      "role": "阶段性对立者",
+      "basis": "证据消失后的行政冲突"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "通讯和家中支援"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "尊埃牧师、葛里牧师、贝教授及考古朋友、丁科长、渔船人员",
+      "reason": "提供历史见证、信件、鉴别、行政或救援支持；本书未形成独立主角或反派计划。"
+    },
+    {
+      "name": "潜艇三名高层和其他卫兵",
+      "reason": "身份未分化、主要作为司令权力和人质条件，不编造个人背景。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7d5f4f16474de04e",
+      "statement": "少年接待",
+      "annotation_character_ids": [
+        "weisili_jina_jidu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_08a4b4e99eedd4d5",
+      "statement": "接待和戒备",
+      "annotation_character_ids": [
+        "weisili_jidu_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c89f623f0358c5ef",
+      "statement": "寄信",
+      "annotation_character_ids": [
+        "weisili_jina_jidu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0fafd3ace03881a7",
+      "statement": "姓名与职业",
+      "annotation_character_ids": [
+        "weisili_jidu_matianlu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_da16e2cd646de3d2",
+      "statement": "向导及观测经验",
+      "annotation_character_ids": [
+        "weisili_jidu_matianlu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_64f8b523dfcd7274",
+      "statement": "相遇和迁居",
+      "annotation_character_ids": [
+        "weisili_jidu_matianlu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_75ade61f9bd0516f",
+      "statement": "出现、语言学习和迁居",
+      "annotation_character_ids": [
+        "weisili_milun_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b5439fb08bdd0369",
+      "statement": "飞行中死亡",
+      "annotation_character_ids": [
+        "weisili_milun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_243214dfbd87b49e",
+      "statement": "回国与遗物交易",
+      "annotation_character_ids": [
+        "weisili_jidu_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f04803e08a6fb3dc",
+      "statement": "遗物和记录",
+      "annotation_character_ids": [
+        "weisili_jina_jidu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f7e5d073706c3d51",
+      "statement": "死亡与家庭处境",
+      "annotation_character_ids": [
+        "weisili_jidu_matianlu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_36b998325067705e",
+      "statement": "丧夫态度及确认图片",
+      "annotation_character_ids": [
+        "weisili_jidu_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d981d95adb7c84b2",
+      "statement": "身份、施压与蒙眼争执",
+      "annotation_character_ids": [
+        "weisili_jiluofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2de66f12a3023220",
+      "statement": "保密",
+      "annotation_character_ids": [
+        "weisili_jiluofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_25e28dc3b1216a05",
+      "statement": "转运和毁艇",
+      "annotation_character_ids": [
+        "weisili_jiluofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6aecf105fa9c473d",
+      "statement": "身份及扣留",
+      "annotation_character_ids": [
+        "weisili_kensiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_25205f2b3b4e4921",
+      "statement": "邀请实为扣留",
+      "annotation_character_ids": [
+        "weisili_jiluofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_07ddf94e031c6cee",
+      "statement": "限时会面",
+      "annotation_character_ids": [
+        "weisili_kensiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2211cff71c9a2486",
+      "statement": "拒错与被反制",
+      "annotation_character_ids": [
+        "weisili_kensiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a1ec36821839fdfc",
+      "statement": "求死、小艇及囚禁",
+      "annotation_character_ids": [
+        "weisili_milun_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fd2652d793faf414",
+      "statement": "小艇真相",
+      "annotation_character_ids": [
+        "weisili_jidu_matianlu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c67f218fd39cb37c",
+      "statement": "记忆完整却不解归处",
+      "annotation_character_ids": [
+        "weisili_milun_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_808a120cc12d1dce",
+      "statement": "窃听和审讯",
+      "annotation_character_ids": [
+        "weisili_kensiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eee9876700e70eea",
+      "statement": "受迫释放安排",
+      "annotation_character_ids": [
+        "weisili_kensiji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4d38dfe5aa8e1dda",
+      "statement": "死亡与遗体下落",
+      "annotation_character_ids": [
+        "weisili_milun_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f27adf24cecf1680",
+      "statement": "遗信和船门",
+      "annotation_character_ids": [
+        "weisili_milun_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dc25499b4433c4ef",
+      "statement": "妻子保存遗体",
+      "annotation_character_ids": [
+        "weisili_milun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_251ee3c2216c8edc",
+      "statement": "容器与双人飞船",
+      "annotation_character_ids": [
+        "weisili_milun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1bd321cd87b58072",
+      "statement": "飞船与共同旅行记录",
+      "annotation_character_ids": [
+        "weisili_milun_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5016a9da7cbf6623",
+      "statement": "旅行及出发影像",
+      "annotation_character_ids": [
+        "weisili_milun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_265a5e7a06702822",
+      "statement": "接见及位置核对",
+      "annotation_character_ids": [
+        "weisili_qimen_deputy_minister"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ab32d123c6eaffb3",
+      "statement": "怒斥和爆发新闻",
+      "annotation_character_ids": [
+        "weisili_qimen_deputy_minister"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_40f7297c1b0de038",
+      "statement": "飞船失去可及性",
+      "annotation_character_ids": [
+        "weisili_milun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d1ea843a9ebb5610",
+      "statement": "接受理由并保留疑问",
+      "annotation_character_ids": [
+        "weisili_qimen_deputy_minister"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb4db5355a34f1b6",
+      "statement": "生活改善与遇害",
+      "annotation_character_ids": [
+        "weisili_jidu_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eb41c5a79f539bc2",
+      "statement": "母亡失踪",
+      "annotation_character_ids": [
+        "weisili_jina_jidu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

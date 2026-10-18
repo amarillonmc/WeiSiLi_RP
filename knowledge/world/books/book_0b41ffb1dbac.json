@@ -1,0 +1,452 @@
+{
+  "schema_version": "1.0",
+  "id": "book_0b41ffb1dbac",
+  "title": "茫点",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/058茫点.txt",
+  "file": "books/book_0b41ffb1dbac.json",
+  "inherited_fact_count": 40,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "6f47589bfc97b80eb1472a74ca08146f406f917980282f0847cde47069aa23bf",
+  "source_lines": 4481,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "调查并以物证救白素"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "调查者及被误控者"
+    },
+    {
+      "name": "时造旨人",
+      "card_id": "weisili_shizao_zhiren",
+      "role": "主角",
+      "basis": "信号干扰受害者"
+    },
+    {
+      "name": "时造芳子",
+      "card_id": "weisili_shizao_fangzi",
+      "role": "主角",
+      "basis": "救援和提供线索"
+    },
+    {
+      "name": "尾杉三郎",
+      "card_id": "weisili_weishan_sanlang",
+      "role": "反派",
+      "basis": "袭击与危险设备使用"
+    },
+    {
+      "name": "张强",
+      "card_id": "weisili_zhang_qiang",
+      "role": "主角",
+      "basis": "医学调查受害"
+    },
+    {
+      "name": "梁若水",
+      "card_id": "weisili_liang_ruoshui",
+      "role": "重要配角",
+      "basis": "医学研究者"
+    },
+    {
+      "name": "陈岛",
+      "card_id": "weisili_chen_dao",
+      "role": "重要配角",
+      "basis": "信号研究者"
+    },
+    {
+      "name": "高田",
+      "card_id": "weisili_gao_tian",
+      "role": "主角",
+      "basis": "刑案合作与物证"
+    },
+    {
+      "name": "江楼月",
+      "card_id": "weisili_jiang_louyue",
+      "role": "主角",
+      "basis": "电脑研究协作"
+    },
+    {
+      "name": "道吉尔",
+      "card_id": "weisili_daojier",
+      "role": "主角",
+      "basis": "太空生物研究"
+    },
+    {
+      "name": "葛陵",
+      "card_id": "weisili_ge_ling",
+      "role": "主角",
+      "basis": "太空任务受影响者"
+    },
+    {
+      "name": "洪安",
+      "card_id": "weisili_hong_an",
+      "role": "主角",
+      "basis": "研究工作人员受影响者"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "调查张强职业"
+    },
+    {
+      "name": "安普女伯爵",
+      "card_id": "adventure_anpu",
+      "role": "重要配角",
+      "basis": "资助研究机构"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "桃丽",
+      "reason": "太空人亲属和开篇生活视角，不独立参与后续核心冲突，不据此扩大为跨书重要配角"
+    },
+    {
+      "name": "弥子",
+      "reason": "酒店一次性帮助者及尾杉情妇，未见跨书身份或独立反派目的"
+    },
+    {
+      "name": "宝田满和两名女工",
+      "reason": "感知受干扰的证人，不是已证实的合谋诬告者"
+    },
+    {
+      "name": "弗烈、杰克",
+      "reason": "仪器制作来源为推断，缺少独立主线行动，记在机制不确定项"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_98166c5c05af4623",
+      "statement": "身份、训练与夫妻关系",
+      "annotation_character_ids": [
+        "weisili_ge_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8bc7c6ebf49767d9",
+      "statement": "资助研究的物业及财富来历",
+      "annotation_character_ids": [
+        "adventure_anpu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82bab488486c25a0",
+      "statement": "棋坛身份与失态",
+      "annotation_character_ids": [
+        "weisili_weishan_sanlang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aeb9c7095a9178fe",
+      "statement": "作者身份与标题",
+      "annotation_character_ids": [
+        "weisili_shizao_zhiren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5689c37b316d809d",
+      "statement": "学术身份和过往争论",
+      "annotation_character_ids": [
+        "weisili_daojier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_407e452c681f6ac5",
+      "statement": "外形与性格互动",
+      "annotation_character_ids": [
+        "weisili_jiang_louyue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_74e2732b83f12dc3",
+      "statement": "求助和信号分析",
+      "annotation_character_ids": [
+        "weisili_daojier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dab0b1bdb6cc5981",
+      "statement": "电脑与专业讨论",
+      "annotation_character_ids": [
+        "weisili_jiang_louyue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_191c29ee58da6e5d",
+      "statement": "职业与梁若水关系",
+      "annotation_character_ids": [
+        "weisili_zhang_qiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e9e811f9d1f5ea9b",
+      "statement": "身份与接待",
+      "annotation_character_ids": [
+        "weisili_liang_ruoshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c78070921450ed8e",
+      "statement": "探病求助",
+      "annotation_character_ids": [
+        "weisili_shizao_fangzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e06ca20e7f094b7b",
+      "statement": "维护文章与兄妹生活",
+      "annotation_character_ids": [
+        "weisili_shizao_fangzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_20752f6a38ea307c",
+      "statement": "袭击中救援",
+      "annotation_character_ids": [
+        "weisili_shizao_fangzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f7a399e78a419a5",
+      "statement": "遭袭与后果",
+      "annotation_character_ids": [
+        "weisili_shizao_zhiren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa3b28c155b8180e",
+      "statement": "实际袭击",
+      "annotation_character_ids": [
+        "weisili_weishan_sanlang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_23ecefe090049194",
+      "statement": "警官身份与案件",
+      "annotation_character_ids": [
+        "weisili_gao_tian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_64caf2295b79f88e",
+      "statement": "赴日本调查",
+      "annotation_character_ids": [
+        "weisili_zhang_qiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9c7c67e3f9f8639f",
+      "statement": "镜中不见自己",
+      "annotation_character_ids": [
+        "weisili_shizao_zhiren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6d15eaee3d9c96c8",
+      "statement": "职责、信任和保释",
+      "annotation_character_ids": [
+        "weisili_gao_tian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d6aea73edf54f22f",
+      "statement": "陪伴白素",
+      "annotation_character_ids": [
+        "weisili_shizao_fangzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a06f73a02aad7858",
+      "statement": "持续提供经费",
+      "annotation_character_ids": [
+        "adventure_anpu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a1ea1630fc1d9e2",
+      "statement": "症状与同类受害者",
+      "annotation_character_ids": [
+        "weisili_hong_an"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f5fd5658a0977a3",
+      "statement": "信号伤害",
+      "annotation_character_ids": [
+        "weisili_zhang_qiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dc9ab26c0bb24cd3",
+      "statement": "机制假说和危险",
+      "annotation_character_ids": [
+        "weisili_weishan_sanlang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee45534ec062321d",
+      "statement": "信号解释与治疗不确定",
+      "annotation_character_ids": [
+        "weisili_shizao_zhiren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_636909fd82de8337",
+      "statement": "研究讨论",
+      "annotation_character_ids": [
+        "weisili_liang_ruoshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_672947171ef7010a",
+      "statement": "暴露机制与治疗假说",
+      "annotation_character_ids": [
+        "weisili_hong_an"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f7a80ca31e6831b7",
+      "statement": "回所安排",
+      "annotation_character_ids": [
+        "weisili_hong_an"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e2184da194081112",
+      "statement": "安全降落事实",
+      "annotation_character_ids": [
+        "weisili_ge_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fdd3db9d708c6f0d",
+      "statement": "承认事件关联",
+      "annotation_character_ids": [
+        "weisili_jiang_louyue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_41d5a941264f7e44",
+      "statement": "面对太空人异常",
+      "annotation_character_ids": [
+        "weisili_daojier"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5be071bf53d71932",
+      "statement": "研究处理",
+      "annotation_character_ids": [
+        "weisili_ge_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_24e492b7279b1448",
+      "statement": "研究协作承诺",
+      "annotation_character_ids": [
+        "weisili_jiang_louyue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5ec76334f9621881",
+      "statement": "识破证词矛盾并送来尸体",
+      "annotation_character_ids": [
+        "weisili_gao_tian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f8fbe2dcd872624c",
+      "statement": "物证、死亡与未解段落",
+      "annotation_character_ids": [
+        "weisili_zhang_qiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2145ad97856f8318",
+      "statement": "死亡解释及催眠未证实",
+      "annotation_character_ids": [
+        "weisili_weishan_sanlang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1cb238fee8548e05",
+      "statement": "研究目标和治疗仍不确定",
+      "annotation_character_ids": [
+        "weisili_liang_ruoshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86b30f5361dab7c4",
+      "statement": "恢复与记忆空白",
+      "annotation_character_ids": [
+        "weisili_ge_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ead62259461b25e8",
+      "statement": "研究限制、机构与恢复的不确定性",
+      "annotation_character_ids": [
+        "weisili_chen_dao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_118d960c158370e6",
+      "statement": "终局未定",
+      "annotation_character_ids": [
+        "weisili_hong_an"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "id": "book_951e382811f4",
+  "title": "隐形奇人",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/16隐形奇人.txt",
+  "file": "books/book_951e382811f4.json",
+  "inherited_fact_count": 19,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "9bbf5c34d97a39999700d842f9a928a8a1b99b63c6c8f5b3ca4485de49adc108",
+  "source_lines": 2380,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "麦谷",
+      "card_id": "mulanhua_mai_gu",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "一号（电光衣事件中校）",
+      "card_id": "mulanhua_electrocoat_number_one",
+      "role": "反派/重要配角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "一号的瘦削助手",
+      "card_id": "mulanhua_electrocoat_thin_deputy",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "电光衣事件的国家安全署长与助理",
+      "card_id": "mulanhua_electrocoat_security_leadership",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "石少明",
+      "reason": "真实科学家为被谋杀的发明者，正文主要行动者始终是冒名的麦谷；真实人物仅作受害背景，无独立视角或反派行动。"
+    },
+    {
+      "name": "仓库保镖、安全署跟踪人员和护卫",
+      "reason": "一次执行助手，重要独立决策已归实际负责人卡，不另造姓名。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d4f5d0c6f7656792",
+      "statement": "假求助姿态",
+      "annotation_character_ids": [
+        "mulanhua_mai_gu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e41073d697da05af",
+      "statement": "骗取信任与销毁文件",
+      "annotation_character_ids": [
+        "mulanhua_mai_gu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_70c876743c0389a1",
+      "statement": "误判、追捕要求和听取解释",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_security_leadership"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa11464a19d7b1bf",
+      "statement": "冒名及科学家死亡真相",
+      "annotation_character_ids": [
+        "mulanhua_mai_gu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6da650c50596a695",
+      "statement": "跟踪命令及科学家死亡",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_security_leadership"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0b1ec6c037ce3e74",
+      "statement": "受激遣走护卫后被反制",
+      "annotation_character_ids": [
+        "mulanhua_mai_gu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a34bddc8bf54cdd4",
+      "statement": "真实履历",
+      "annotation_character_ids": [
+        "mulanhua_mai_gu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e91e0d23a00807f",
+      "statement": "拒绝木兰花统一指挥",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_security_leadership"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c374e256a5208d55",
+      "statement": "地位及索款冲突",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_number_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_296514af34ce599b",
+      "statement": "外观、拖延及警觉",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_thin_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9352808be287da57",
+      "statement": "索酬争执",
+      "annotation_character_ids": [
+        "mulanhua_mai_gu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_40f9d0b61699bf96",
+      "statement": "使枪口转向与撤退指令",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_thin_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9750e1c6326ab7bd",
+      "statement": "受罚焦虑与谈判",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_number_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_20e624b8fbc95a5b",
+      "statement": "参与决策及压制麦谷",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_thin_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e0bb3393a03591f2",
+      "statement": "被买家制服",
+      "annotation_character_ids": [
+        "mulanhua_mai_gu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4806db46ad6c1b5a",
+      "statement": "随首领退出",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_thin_deputy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e24a17fb1393b4c",
+      "statement": "毒药条件、本人受制与核验",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_number_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b4f82e2ac64d6745",
+      "statement": "交出衣物及被毁",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_number_one"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1b7fedff38cddcf0",
+      "statement": "先讽刺后确认并同意销毁",
+      "annotation_character_ids": [
+        "mulanhua_electrocoat_security_leadership"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

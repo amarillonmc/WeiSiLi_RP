@@ -1,0 +1,46 @@
+{
+  "id": "aishen_world",
+  "title": "爱神星、培育计划与新爱神星",
+  "kind": "place",
+  "summary": "异星援助、生命实验及文明危机交汇的活动范围。",
+  "mechanism": {
+    "text": "爱神参与范围、玛仙的培育；后续灾难、机械生命活动和神经技术使玛仙经历新阶段。",
+    "epistemic_status": "textual_fact"
+  },
+  "access_conditions": [
+    "异星通讯和接送",
+    "各阶段尚存的设施与参与者"
+  ],
+  "limits": [
+    "不是无条件赐福的神域",
+    "玛仙恢复不能推广为任何伤病都可立刻解决",
+    "旧星与新星不能混写"
+  ],
+  "last_known_state": "玛仙恢复后参与新爱神星建设；末期仍无法找到原振侠。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "研究伦理、救援与新社会安排可作场景核心，必须另定交通条件。"
+  },
+  "character_ids": [
+    "yuanzhenxia_aishen",
+    "yuanzhenxia_ma_xian"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_3cdda5a66aec79cf",
+    "evidence_4d067da8077e111c",
+    "evidence_3a04ac604be05591",
+    "evidence_e6f5b4bc3efed193",
+    "evidence_6bce224e44c7cc4b",
+    "evidence_f63061fff25e814e",
+    "evidence_73412a59c3cdd4ac"
+  ],
+  "book_ids": [
+    "book_16e87a9465f3",
+    "book_1b2ce90d0135",
+    "book_6a15650b973f",
+    "book_8e795168086a",
+    "book_e56e749e59f8"
+  ]
+}

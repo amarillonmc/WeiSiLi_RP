@@ -1,0 +1,35 @@
+{
+  "id": "life_quota",
+  "title": "生命配额",
+  "kind": "concept",
+  "summary": "生命可用量的小说内解释，也是豪富、伴侣与研究机构竞争的目标。",
+  "mechanism": {
+    "text": "身体年轻化不等于意识无限续存；存在特殊个案，但普通人间普遍转移当时仍在研究。",
+    "epistemic_status": "testimony"
+  },
+  "access_conditions": [
+    "研究设施与个案适配",
+    "出让和接受双方真实自愿是提出的必要原则"
+  ],
+  "limits": [
+    "不能把必要原则写成已完成算法",
+    "不能因有钱或得到会员资格就直接加寿命",
+    "不同延寿个案不能拼接成随时生效的统一方案"
+  ],
+  "last_known_state": "《卖命》《考验》明确通用转移未实现；研究与分配争论继续。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "围绕希望、骗局、资格、真实同意和分配展开任务，而非把寿命设为通用货币。"
+  },
+  "character_ids": [],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_1a8ec46a7d553b66",
+    "evidence_58604c0547f7356e"
+  ],
+  "book_ids": [
+    "book_285c39eb6c50",
+    "book_c33c05bc68a3"
+  ]
+}

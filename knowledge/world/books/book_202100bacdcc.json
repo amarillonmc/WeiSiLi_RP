@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0",
+  "id": "book_202100bacdcc",
+  "title": "行动救星",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/136行动救星.txt",
+  "file": "books/book_202100bacdcc.json",
+  "inherited_fact_count": 7,
+  "curated_links": {
+    "rules": [
+      "rule_alien_ethics",
+      "rule_world_origin"
+    ],
+    "entities": [
+      "elder"
+    ],
+    "events": [
+      "earth_engineering",
+      "w_elder_contact"
+    ],
+    "relations": [
+      "revealed_by__earth_engineering__w_elder_contact"
+    ],
+    "arcs": [
+      "arc_wen",
+      "arc_lansi"
+    ]
+  },
+  "direct_source_review": true,
+  "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+  "source_lines": 1294,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "长老",
+      "card_id": "weisili_chang_lao",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "巴曼",
+      "card_id": "weisili_ba_man",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "海中无名非人协会会员",
+      "reason": "一次性辅助；可能与都连加农相同但姓名身份无明证，不强并"
+    },
+    {
+      "name": "大章鱼",
+      "reason": "协助潜艇的动物，没有独立人格式角色线"
+    },
+    {
+      "name": "七种外星成分",
+      "reason": "长老身体来源与科学讨论，不各自虚构为独立出场人格"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0d0a1251fffd4ea9",
+      "statement": "对长老信仰与读心场所的限制",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9987aa03750371b3",
+      "statement": "投影操作和纠正计划差错的愿望",
+      "annotation_character_ids": [
+        "weisili_ba_man"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_26f739f4dc20585c",
+      "statement": "酿酒、材料技术及放弃国族观念",
+      "annotation_character_ids": [
+        "weisili_ba_man"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f87d4336d11fb38",
+      "statement": "交流范围、电脑中介与知识吸收",
+      "annotation_character_ids": [
+        "weisili_chang_lao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ae777a376f977579",
+      "statement": "起源、故障、引爆能力及减人口动机",
+      "annotation_character_ids": [
+        "weisili_chang_lao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_85e9af2934c561cd",
+      "statement": "拒绝开关、继续交流与不引爆原则",
+      "annotation_character_ids": [
+        "weisili_chang_lao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_adda98d811a74414",
+      "statement": "陪蓝丝留下并用网络向长老提供外界情况",
+      "annotation_character_ids": [
+        "weisili_wen_baoyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

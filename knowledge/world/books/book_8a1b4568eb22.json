@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "id": "book_8a1b4568eb22",
+  "title": "房客",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/房客.txt",
+  "file": "books/book_8a1b4568eb22.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "c84bfc731625e23b949c1175d27d85bbf90cba4aac5986d971ebc68776235a91",
+  "source_lines": 67,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "怪房客的男房东",
+      "card_id": "guihua_landlord_husband",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "怪房客的女房东",
+      "card_id": "guihua_landlord_wife",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "王先生",
+      "reason": "本篇核心谜面与一次性配角，按约付租；没有证明主动对抗或超常身份。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7c30ed019cdf31e9",
+      "statement": "出租、满意转疑虑与试钥匙",
+      "annotation_character_ids": [
+        "guihua_landlord_husband"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d0401f442f5e82e0",
+      "statement": "共同购房出租与最初满意",
+      "annotation_character_ids": [
+        "guihua_landlord_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_98054283add2f8fa",
+      "statement": "守夜、争吵、最后退却",
+      "annotation_character_ids": [
+        "guihua_landlord_husband"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_41e7be3c7001b644",
+      "statement": "争吵、横闩办法和退却",
+      "annotation_character_ids": [
+        "guihua_landlord_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

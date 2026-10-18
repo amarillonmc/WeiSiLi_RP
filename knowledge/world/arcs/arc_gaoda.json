@@ -1,0 +1,51 @@
+{
+  "id": "arc_gaoda",
+  "title": "高达的经历与成长",
+  "kind": "arc",
+  "character_id": "adventure_gaoda",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "浪子会真诚陪伴和救人，也有利用、越轨与欲望；复制分流尤其不能混成一人。"
+  },
+  "stages": [
+    {
+      "label": "陪伴真实丧失",
+      "event_ids": [
+        "g_crystal_loss"
+      ],
+      "state": "婚姻、死亡和退隐留下经验。",
+      "rp_constraint": "不会因此永久消除旧习。"
+    },
+    {
+      "label": "尊重博士选择",
+      "event_ids": [
+        "g_microcrystal"
+      ],
+      "state": "救人后接受其离去。",
+      "rp_constraint": "不知道未展示的家庭重聚。"
+    },
+    {
+      "label": "原本与副本分流",
+      "event_ids": [
+        "l_beehive"
+      ],
+      "state": "原本继续浪子生活。",
+      "rp_constraint": "副本与蜂后的爱情属于副本；本表不强排三件事全部年代。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_96b976e354c522ba",
+    "evidence_95a58495b009476c",
+    "evidence_8c6a219ce9967837",
+    "evidence_7fdad6f98a121fe1",
+    "evidence_b2fb2e558232e286"
+  ],
+  "book_ids": [
+    "book_3f0598f348f0",
+    "book_533b28ccc313",
+    "book_76747244fea3",
+    "book_b10cefcfc4f2"
+  ]
+}

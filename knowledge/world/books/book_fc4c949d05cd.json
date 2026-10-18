@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "id": "book_fc4c949d05cd",
+  "title": "擒凶记",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/19擒凶记.txt",
+  "file": "books/book_fc4c949d05cd.json",
+  "inherited_fact_count": 7,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "43699cbe2c4fdd83a4eeceb1148ae4c31a81d774a03c51652b30477e0180b294",
+  "source_lines": 680,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "劳天",
+      "card_id": "gaosi_lao_tian",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "李华（擒凶记）",
+      "card_id": "gaosi_li_hua",
+      "role": "单书主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "石叔、未具名死者",
+      "reason": "石叔是一次性清洁证人；死者未给身份、动机或生前独立行动，无法独立角色化。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_288c428244496c5f",
+      "statement": "警方因探险经历推测",
+      "annotation_character_ids": [
+        "gaosi_li_hua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f0045be65c716ab",
+      "statement": "人物与生活安排",
+      "annotation_character_ids": [
+        "gaosi_li_hua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63967b79ec0e015b",
+      "statement": "挂钟与现场推理",
+      "annotation_character_ids": [
+        "gaosi_lao_tian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_924b394c8165457f",
+      "statement": "接待及资料帮助",
+      "annotation_character_ids": [
+        "gaosi_li_hua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c1003af9c6922a49",
+      "statement": "身份、误判与被捕",
+      "annotation_character_ids": [
+        "gaosi_lao_tian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fdcd2cc69de47116",
+      "statement": "协助抓人",
+      "annotation_character_ids": [
+        "gaosi_li_hua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee4475ec8c96bad6",
+      "statement": "完整解释及照片盲区",
+      "annotation_character_ids": [
+        "gaosi_lao_tian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

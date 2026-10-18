@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "id": "book_859ed7023fbf",
+  "title": "异宝",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/066异宝.txt",
+  "file": "books/book_859ed7023fbf.json",
+  "inherited_fact_count": 9,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "de6ac55c30f8c89744e293294742ad8c45b5cf430c25d093748ffaa370d6fa19",
+  "source_lines": 2969,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "研究合金并参加远程通信"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "重要配角",
+      "basis": "联系线索和参与讨论"
+    },
+    {
+      "name": "齐白",
+      "card_id": "weisili_qi_bai",
+      "role": "重要配角",
+      "basis": "取合金与寻找控制室"
+    },
+    {
+      "name": "陈长青",
+      "card_id": "weisili_chen_changqing",
+      "role": "重要配角",
+      "basis": "参与实验和通信"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "提供设想及结尾讨论"
+    },
+    {
+      "name": "鲍士方",
+      "card_id": "weisili_bao_shifang",
+      "role": "重要配角",
+      "basis": "拍摄雾中异常提供位置"
+    },
+    {
+      "name": "卓丝卡娃",
+      "card_id": "weisili_zhuosikawa",
+      "role": "主角",
+      "basis": "磁学研究与风险追问"
+    },
+    {
+      "name": "建陵外星巨人",
+      "card_id": "weisili_tomb_giant",
+      "role": "主角",
+      "basis": "回应唯一通讯并解释往事"
+    },
+    {
+      "name": "秦王",
+      "card_id": "weisili_qin_shihuang",
+      "role": "阶段性对立者",
+      "basis": "追述中要求长生及统治，获有限建陵协助"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "科学院副院长",
+      "reason": "与齐白关系的支线背景，未具独立主线或已核跨书行动"
+    },
+    {
+      "name": "巨人其余同伴",
+      "reason": "只确认共同航行建陵，个人身份未区分，不虚构十一张相同卡"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_23313554b6046ddf",
+      "statement": "身份及研究背景",
+      "annotation_character_ids": [
+        "weisili_zhuosikawa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa2ce63b49ebd1a8",
+      "statement": "测量上限和风险条件",
+      "annotation_character_ids": [
+        "weisili_zhuosikawa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d06eda20d949b93d",
+      "statement": "失去样本和求助目的",
+      "annotation_character_ids": [
+        "weisili_zhuosikawa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4178cb9a93cc90d9",
+      "statement": "再次登场并带照片",
+      "annotation_character_ids": [
+        "weisili_bao_shifang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c8347d563ab1b753",
+      "statement": "记录条件和推测",
+      "annotation_character_ids": [
+        "weisili_bao_shifang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b0f37aa6f3b92fa",
+      "statement": "来历、团队和投影",
+      "annotation_character_ids": [
+        "weisili_tomb_giant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c79db8d3e00da9c",
+      "statement": "对人类判断与建陵",
+      "annotation_character_ids": [
+        "weisili_tomb_giant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_09d59c1d6e9b8f83",
+      "statement": "通讯位置、一次限制与终止",
+      "annotation_character_ids": [
+        "weisili_tomb_giant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3ff887326f44ecf3",
+      "statement": "通讯结束及她仍追问",
+      "annotation_character_ids": [
+        "weisili_zhuosikawa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

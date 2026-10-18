@@ -1,0 +1,29 @@
+{
+  "id": "y_spell_recoil",
+  "title": "玛仙解咒反噬、黄绢与李固离去",
+  "kind": "event",
+  "summary": "玛仙主动解咒承担反噬，脑活动受损；爱神接走求治，黄绢与恢复后的李固离去。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《催命情圣》，接续血魇。",
+    "narrative_layer": "present"
+  },
+  "state_before": "李固失能，原有政治与感情纠葛未平。",
+  "state_after": "李固恢复，玛仙待救治；原振侠失去熟悉的相处格局。",
+  "knowledge_boundary": "救走不等于当场治愈；黄绢的去向属于她自己的选择。",
+  "character_ids": [
+    "yuanzhenxia_ma_xian",
+    "yuanzhenxia_yuanzhenxia",
+    "yuanzhenxia_huang_juan"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_f45466ef333bb7ee",
+    "evidence_671d7a62de927dbc"
+  ],
+  "book_ids": [
+    "book_1b2ce90d0135"
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "schema_version": "1.0",
+  "id": "book_28b211db8b99",
+  "title": "秘密党",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/20秘密党.txt",
+  "file": "books/book_28b211db8b99.json",
+  "inherited_fact_count": 29,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "50f489bb61d846b6484e2b35c9721a61bbb5b2377e94ba20b4b59b769e377ca4",
+  "source_lines": 2386,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "Ａ一号（秘密党）",
+      "card_id": "mulanhua_secret_party_a1",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "柏克",
+      "card_id": "mulanhua_secret_party_boke",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "泰勒中校",
+      "card_id": "mulanhua_secret_party_taylor",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "秘密党的心理学博士顾问",
+      "card_id": "mulanhua_secret_party_psychologist",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "伍良",
+      "card_id": "mulanhua_secret_party_wuliang",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "秘密党的瘦助手",
+      "card_id": "mulanhua_secret_party_thin_aide",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "秘密党的中年赎金使者",
+      "card_id": "mulanhua_secret_party_ransom_emissary",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "秘密党的毒针女监视者",
+      "card_id": "mulanhua_secret_party_needle_woman",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "平原、平太太、王警官及匿名司机",
+      "reason": "平原是试图退出而被杀的成员，未见独立犯罪行动；其妻与王为一次性线索或警务角色；司机为同次执行助手。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d2da76514afcaea1",
+      "statement": "通讯器分发",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_thin_aide"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d37ee4101f07a9b9",
+      "statement": "招募、代号与杀退出者",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_a1"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_817f3ab5480473fd",
+      "statement": "由影片识别少数人施暴策略",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_wuliang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e3dec7b84ea6918",
+      "statement": "顾问身份与对公众心理的阐释",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_psychologist"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_50e00edee52098f9",
+      "statement": "会议暴力、暴乱目标和利益承诺",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_psychologist"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_25439c00f327c913",
+      "statement": "开窗及协助杀人",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_thin_aide"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_af24cd0fbc386a40",
+      "statement": "询问利益及首领承诺",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_wuliang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f642eedab4583b1",
+      "statement": "核心成员的集体动员",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_wuliang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a70cd590afd4c1ca",
+      "statement": "组织据此动员暴乱",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_psychologist"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e4846bed8cb42952",
+      "statement": "收买及暴乱部署",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_a1"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5ab8298b92ce2d2c",
+      "statement": "职务、资助及强行收编",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_boke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_73d2c79427cd85e0",
+      "statement": "反制柏克及泰勒",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_a1"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e083c99e3276f8a7",
+      "statement": "出场、军衔与任命",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_taylor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22408f249eaf0437",
+      "statement": "反击失败及成为人质",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_boke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22902e6bf734db16",
+      "statement": "握手中被利用和死亡",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_taylor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f92dd9e3b635d514",
+      "statement": "反接管后的态度与看守安排",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_thin_aide"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c784d34a7fb3207",
+      "statement": "外貌、谈判及获利解释",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_ransom_emissary"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c8d155903462cb3e",
+      "statement": "金融获利目的",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_a1"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6e5ab3b6b0d69b5e",
+      "statement": "索款、怂恿犯罪与被制服",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_ransom_emissary"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a26b0ed8994053cb",
+      "statement": "保护条件与供情报意图",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_ransom_emissary"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9051b2d1270e490d",
+      "statement": "毒针杀害",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_ransom_emissary"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b939303287e186af",
+      "statement": "毒针痕迹及杀人失败与成功",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_needle_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b774e7aa0dc013f2",
+      "statement": "高翔诱敌、女郎出场与烟嘴",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_needle_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_42fe1a856c42b1e5",
+      "statement": "受制、供坐标和敌意",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_needle_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0bccbd2ff513e4de",
+      "statement": "烟嘴毁损、离开与坐标有效",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_needle_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_27d58f36810057ef",
+      "statement": "拘束、羞辱与勒索",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_a1"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b713c85c3707816",
+      "statement": "独裁者亲属关系与赎金",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_boke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad9c7ee9509a6914",
+      "statement": "既往残酷与囚禁时反应",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_boke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_18b7ff88afc19a8c",
+      "statement": "救援、组织覆灭和死刑",
+      "annotation_character_ids": [
+        "mulanhua_secret_party_a1"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

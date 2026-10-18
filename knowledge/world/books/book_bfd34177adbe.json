@@ -1,0 +1,497 @@
+{
+  "schema_version": "1.0",
+  "id": "book_bfd34177adbe",
+  "title": "算帐",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/114算帐.txt",
+  "file": "books/book_bfd34177adbe.json",
+  "inherited_fact_count": 39,
+  "curated_links": {
+    "events": [
+      "w_lansi_succession"
+    ],
+    "arcs": [
+      "arc_baisu",
+      "arc_lansi"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "f8f9e5ec07ee6721fcd672383d584179a02d23e9272e55dae934908e6e2a27c8",
+  "source_lines": 2785,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "实际调查和决断"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "实际调查、谈判与家庭选择"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "实际参与调查和讨论"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "主角",
+      "basis": "实际观察、与神鹰协作及家庭互动"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "主角",
+      "basis": "参与降头、失踪和亲情选择"
+    },
+    {
+      "name": "公主",
+      "card_id": "weisili_virus_princess",
+      "role": "主角",
+      "basis": "亲手交还首级并继续邀田活研究"
+    },
+    {
+      "name": "田活",
+      "card_id": "weisili_tian_huo",
+      "role": "主角",
+      "basis": "悲恸、解释单恋及接受继续研究"
+    },
+    {
+      "name": "铁蛋",
+      "card_id": "weisili_tie_dan",
+      "role": "主角",
+      "basis": "为儿求救及父子重逢"
+    },
+    {
+      "name": "铁天音",
+      "card_id": "weisili_tie_tianyin",
+      "role": "主角",
+      "basis": "被拘后获释的中心人物"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "项目利益与救人协调"
+    },
+    {
+      "name": "大亨",
+      "card_id": "weisili_da_heng",
+      "role": "重要配角",
+      "basis": "项目利益与朱槿关系"
+    },
+    {
+      "name": "朱槿",
+      "card_id": "weisili_zhu_jin",
+      "role": "重要配角",
+      "basis": "求医、通报拘禁、联系与义父关系"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "重要配角",
+      "basis": "见义父、分析派系与实际接触"
+    },
+    {
+      "name": "亮声",
+      "card_id": "weisili_liang_sheng",
+      "role": "重要配角",
+      "basis": "接待、说明技术与回访"
+    },
+    {
+      "name": "勒曼医院",
+      "card_id": "weisili_leman_hospital",
+      "role": "重要配角",
+      "basis": "资料核算和治疗边界"
+    },
+    {
+      "name": "老人家",
+      "card_id": "yuanzhenxia_oriental_sun_leader",
+      "role": "重要配角",
+      "basis": "身体延续但思想活动将尽的终局"
+    },
+    {
+      "name": "浮莲",
+      "card_id": "weisili_fu_lian",
+      "role": "阶段性对立者",
+      "basis": "逃亡、留信与据点"
+    },
+    {
+      "name": "双性特工",
+      "card_id": "weisili_suan_hermaphrodite",
+      "role": "阶段性对立者",
+      "basis": "近战与终局谈判"
+    },
+    {
+      "name": "迅捷女特工",
+      "card_id": "weisili_suan_fast_agent",
+      "role": "阶段性对立者",
+      "basis": "夺取样品与交换"
+    },
+    {
+      "name": "胖司机",
+      "card_id": "weisili_suan_driver",
+      "role": "阶段性对立者",
+      "basis": "甩尾接送后出卖信息"
+    },
+    {
+      "name": "已死官员",
+      "card_id": "weisili_suan_dead_official",
+      "role": "反派",
+      "basis": "死亡与派系风波的核心人物"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "打电话的无名朋友",
+      "reason": "开篇讨论及寻找未知者的支线尚未具体展开，未见跨书身份证据"
+    },
+    {
+      "name": "小郭",
+      "reason": "受托寻找被回述，卫明确没有再去问他，本书不编新实际行动"
+    },
+    {
+      "name": "铁蛋老部下",
+      "reason": "所谓背叛仅卫的推断，未亲自出现或确认行动"
+    },
+    {
+      "name": "各派来客、核心、普通官员",
+      "reason": "政治背景与未分名谈判人员，独立执行者已另卡"
+    },
+    {
+      "name": "猜王",
+      "reason": "本书为遗首与前事延续，无新可行动状态；主卡已综合死亡"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0cbefab1e6eca346",
+      "statement": "自述哭泣源于觉得猜王以牺牲赢得青睐，自己的勇气不及；公主仍邀研究",
+      "annotation_character_ids": [
+        "weisili_tian_huo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fc5189d5ad932825",
+      "statement": "交还遗首、研究信心低而仍邀田活继续",
+      "annotation_character_ids": [
+        "weisili_virus_princess"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f6a4a64e7861588c",
+      "statement": "面对师父遗首、独自回去接任天头派掌门，忧伤而非庆贺",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f37e53b6dc39ed07",
+      "statement": "局势复杂且坦言无能为力",
+      "annotation_character_ids": [
+        "weisili_zhu_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_696e0463c96dbf1c",
+      "statement": "助手任命、公开自杀说与灭口推断",
+      "annotation_character_ids": [
+        "weisili_suan_dead_official"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f3079ea4d2fc435b",
+      "statement": "亮声接待、设施记录与身体年轻不等于意识延寿",
+      "annotation_character_ids": [
+        "weisili_leman_hospital",
+        "weisili_liang_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_03a4828f311861f5",
+      "statement": "生命配额为小说技术解释，研究有限且调整繁复",
+      "annotation_character_ids": [
+        "weisili_leman_hospital",
+        "weisili_liang_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_754e04813df085c2",
+      "statement": "财富及关系传闻",
+      "annotation_character_ids": [
+        "weisili_suan_dead_official"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_568ad797d7bc2408",
+      "statement": "铁旦义女、严格训练及真实亲情，军方权限分隔。",
+      "annotation_character_ids": [
+        "adventure_shui_hong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c5b2289144e8f9fc",
+      "statement": "朱槿、水荭真诚称铁蛋义父，训练关系与系统不同导致无直接调动权",
+      "annotation_character_ids": [
+        "weisili_tie_dan",
+        "weisili_zhu_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8420c0e05153d478",
+      "statement": "评价浮莲与分析资料效力的时效性。",
+      "annotation_character_ids": [
+        "adventure_shui_hong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a8e23bf717c296a0",
+      "statement": "同门背景、他人眼中的野心与谋杀猜测",
+      "annotation_character_ids": [
+        "weisili_fu_lian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd74d3dd8c95c332",
+      "statement": "浮莲和档案说法及不同死因猜测",
+      "annotation_character_ids": [
+        "weisili_suan_dead_official"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4428cdf5b9376369",
+      "statement": "承认向白素供线索，说明失信任和指挥限制；卫的另有任务推断未证实",
+      "annotation_character_ids": [
+        "weisili_zhu_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bc0e374cae56c17b",
+      "statement": "承认不知道另一系统派遣，辞别义父随陶启泉离开。",
+      "annotation_character_ids": [
+        "adventure_shui_hong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_26262c059b2e03c9",
+      "statement": "化装年轻白人女侍、发现暗室并与卫协作制造假资料",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5759bdd5db080a42",
+      "statement": "驾驶、绕行与甩尾能力",
+      "annotation_character_ids": [
+        "weisili_suan_driver"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f69decd3f0050c25",
+      "statement": "留下信件否认资料与完整关系传闻",
+      "annotation_character_ids": [
+        "weisili_fu_lian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4bcce80fc6ed5269",
+      "statement": "浮莲否认档案与外界关系说法",
+      "annotation_character_ids": [
+        "weisili_suan_dead_official"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d7b5f6f6f744a64f",
+      "statement": "暗室电脑设施与引路电话推断",
+      "annotation_character_ids": [
+        "weisili_fu_lian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c22a0ad1704b5f06",
+      "statement": "旧交与赏金诱惑下的可靠性边界",
+      "annotation_character_ids": [
+        "weisili_suan_driver"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8c7ddee7745095e7",
+      "statement": "再次运送追索者，出卖被利用",
+      "annotation_character_ids": [
+        "weisili_suan_driver"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3be55e63195483e1",
+      "statement": "化装与自述双性身份、提出条件交换",
+      "annotation_character_ids": [
+        "weisili_suan_hermaphrodite"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b3c8691598d1df24",
+      "statement": "识破化装与质问",
+      "annotation_character_ids": [
+        "weisili_suan_fast_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3fd0798d5d807814",
+      "statement": "抢样、躲滚水、因撞物和不放软件被制",
+      "annotation_character_ids": [
+        "weisili_suan_fast_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ea58b7dcbbc31a2",
+      "statement": "撞击、相互制约、道歉退开",
+      "annotation_character_ids": [
+        "weisili_suan_hermaphrodite"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c99423c9e3155168",
+      "statement": "借热水突袭、用冰插制约双性特工",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3a3b3e6e1fca59f8",
+      "statement": "对取样的理由与迅速离开",
+      "annotation_character_ids": [
+        "weisili_suan_fast_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_90a360edc613d54e",
+      "statement": "据点毁灭及此后失去消息",
+      "annotation_character_ids": [
+        "weisili_fu_lian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_96a7bffa594752b9",
+      "statement": "铁蛋不识其来历",
+      "annotation_character_ids": [
+        "weisili_suan_hermaphrodite"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63277cdf1bf916d0",
+      "statement": "算出三句话余量、可触发但不能指定其思想内容",
+      "annotation_character_ids": [
+        "weisili_leman_hospital",
+        "weisili_liang_sheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f746e5fcb5fd539",
+      "statement": "三句话及内容不能指定",
+      "annotation_character_ids": [
+        "yuanzhenxia_oriental_sun_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8278832bf3c1e114",
+      "statement": "激素方法仅提议",
+      "annotation_character_ids": [
+        "yuanzhenxia_oriental_sun_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_31d4eb634388f1ef",
+      "statement": "铁天音获释与父亲重逢，危机由交换结束",
+      "annotation_character_ids": [
+        "weisili_tie_dan",
+        "weisili_tie_tianyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76b13b8f67c8af0a",
+      "statement": "带铁天音和各派代表登门达成交易",
+      "annotation_character_ids": [
+        "weisili_suan_hermaphrodite"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7a9d14768c291cef",
+      "statement": "获释另有原因、老人终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_oriental_sun_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a6c77cadd2cca5ee",
+      "statement": "轮椅状态及父子团聚",
+      "annotation_character_ids": [
+        "weisili_tie_dan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e78f97bf9c6f462c",
+      "statement": "获释、父子团聚及恢复交流",
+      "annotation_character_ids": [
+        "weisili_tie_tianyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10a82903c4aecfeb",
+      "statement": "参与终局谈判",
+      "annotation_character_ids": [
+        "weisili_suan_fast_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

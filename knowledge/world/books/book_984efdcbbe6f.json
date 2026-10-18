@@ -1,0 +1,317 @@
+{
+  "schema_version": "1.0",
+  "id": "book_984efdcbbe6f",
+  "title": "电网火花",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/53电网火花.txt",
+  "file": "books/book_984efdcbbe6f.json",
+  "inherited_fact_count": 27,
+  "curated_links": {
+    "arcs": [
+      "arc_mulanhua",
+      "arc_muxiuzhen"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "fac71c1fd44f5bdf45f1974cb199821eed86f6e7110ea1f6a9f9fca6a3e1c893",
+  "source_lines": 2426,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "摩亨将军",
+      "card_id": "mulanhua_moheng",
+      "role": "反派",
+      "basis": "绑架专家、武器阴谋和囚禁。"
+    },
+    {
+      "name": "佛德烈上校",
+      "card_id": "mulanhua_fudeli_colonel",
+      "role": "单书主角",
+      "basis": "潜艇追踪、接应、被俘和获释。"
+    },
+    {
+      "name": "李少校",
+      "card_id": "mulanhua_li_major",
+      "role": "阶段性对立者",
+      "basis": "留守抵抗后受迫合作、携家属出逃。"
+    },
+    {
+      "name": "二二〇",
+      "card_id": "mulanhua_agent_220",
+      "role": "反派",
+      "basis": "具代号人质看守。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "潜入与共同救援。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "被绑、夺枪及释放。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "跨书重要配角",
+      "basis": "被迫技术合作并获救。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "系列主角",
+      "basis": "联络与回国迎接。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "跨书重要配角",
+      "basis": "协调警务和领事。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "接讯提前从欧洲返回。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "无名守卫上校、军官、领事、李少校妻儿及国家领袖",
+      "reason": "警戒、通报、家属或政治背景，缺乏独立人物线；守卫被上级当通敌者并不证明其实际叛变。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_221773d7a9a0ed19",
+      "statement": "行动计划与警戒讨论。",
+      "annotation_character_ids": [
+        "mulanhua_agent_220"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e04eae489191b021",
+      "statement": "夺枪失败、代号和职业说辞。",
+      "annotation_character_ids": [
+        "mulanhua_agent_220"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d6e668d5d7cad450",
+      "statement": "以安妮胁迫云五风及网的规模。",
+      "annotation_character_ids": [
+        "mulanhua_moheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dc3c6f30c8229175",
+      "statement": "将军确认其身份。",
+      "annotation_character_ids": [
+        "mulanhua_agent_220"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9c17500b15c5146f",
+      "statement": "导电知识、拒战争与换安妮",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_482099a158b0a9be",
+      "statement": "被推倒后滚出船舱。",
+      "annotation_character_ids": [
+        "mulanhua_agent_220"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a4a24baab01ce816",
+      "statement": "身份、合作与调查范围。",
+      "annotation_character_ids": [
+        "mulanhua_fudeli_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b35d5881c7890f87",
+      "statement": "代号、组织与武装游艇。",
+      "annotation_character_ids": [
+        "mulanhua_moheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16e0c9074230718f",
+      "statement": "供电和升降技术条件。",
+      "annotation_character_ids": [
+        "mulanhua_moheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c0741abcaca2c5b",
+      "statement": "电网工程条件",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e4175116b1e3fc73",
+      "statement": "反潜风险与距离。",
+      "annotation_character_ids": [
+        "mulanhua_fudeli_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04ae9a88df5f01d8",
+      "statement": "接应分工和潜入。",
+      "annotation_character_ids": [
+        "mulanhua_fudeli_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6cccbf6314a33733",
+      "statement": "集中学外语",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8515f803d60e9ad1",
+      "statement": "武装对抗、被制及家属威胁。",
+      "annotation_character_ids": [
+        "mulanhua_li_major"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_076c1b5a313596dd",
+      "statement": "发音露破绽",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a31a186f66e2fec",
+      "statement": "胁迫李少校",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f7d2271b71ef4b18",
+      "statement": "职位、通行证和恐惧。",
+      "annotation_character_ids": [
+        "mulanhua_li_major"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0597772271e2a3f6",
+      "statement": "识破画像、玻璃隔断与暗门。",
+      "annotation_character_ids": [
+        "mulanhua_moheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4b3127c9dd491ddd",
+      "statement": "面积与工程要求",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ca640dd3aa557ff",
+      "statement": "暴怒阻碍反对意见。",
+      "annotation_character_ids": [
+        "mulanhua_moheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1df87998261a4579",
+      "statement": "接人、证件代价与全家出逃。",
+      "annotation_character_ids": [
+        "mulanhua_li_major"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d9d64203969e9eee",
+      "statement": "被俘消息。",
+      "annotation_character_ids": [
+        "mulanhua_fudeli_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_60b384a9862b58b5",
+      "statement": "游艇离港、情报换庇护。",
+      "annotation_character_ids": [
+        "mulanhua_li_major"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_05289f2050b4688d",
+      "statement": "贡献及获释终局。",
+      "annotation_character_ids": [
+        "mulanhua_fudeli_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_009f7fa698046d94",
+      "statement": "情报获验证。",
+      "annotation_character_ids": [
+        "mulanhua_li_major"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a62e5afbad00d69",
+      "statement": "电网实战失败。",
+      "annotation_character_ids": [
+        "mulanhua_moheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_936e1ac4eb446909",
+      "statement": "惧技术杀人",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

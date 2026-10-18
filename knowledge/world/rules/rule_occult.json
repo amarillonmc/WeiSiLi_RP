@@ -1,0 +1,31 @@
+{
+  "id": "rule_occult",
+  "title": "巫术和降头有师承、媒介与反噬",
+  "kind": "rule",
+  "epistemic_status": "synthesis",
+  "statement": "巫术与降头在一些事件中确实产生作用，但对象关联、师承、媒介、禁制和施术者状态决定效果；未知科技也可能使之失灵。",
+  "rp_application": "指定已学会的术法和适用对象；处理解除、反噬、追索失败，而非一句咒语完成任意愿望。",
+  "limits": [
+    "玛仙血魇、蓝丝降头和幽灵星座技术不合并成通用法力池。",
+    "天头派长老的起源叙述不能解释全部巫术传统。"
+  ],
+  "schema_version": "1.0",
+  "section": "rules",
+  "evidence_ids": [
+    "evidence_e52f8d1b3dee8152",
+    "evidence_10886455c2602b59",
+    "evidence_874c2674543492ba",
+    "evidence_63ff5cbd4f73be6c",
+    "evidence_93b356990e89307c",
+    "evidence_6775f4be59d1602c",
+    "evidence_9d59e6d52655c64e",
+    "evidence_7480fb0e08bc9a97",
+    "evidence_f45466ef333bb7ee"
+  ],
+  "book_ids": [
+    "book_1b2ce90d0135",
+    "book_51ac5b7920ea",
+    "book_5f3fbef0e5c5",
+    "book_daabf1bd27ce"
+  ]
+}

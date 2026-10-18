@@ -1,0 +1,158 @@
+{
+  "schema_version": "1.0",
+  "id": "book_59553fc35355",
+  "title": "新年",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/045新年.txt",
+  "file": "books/book_59553fc35355.json",
+  "inherited_fact_count": 11,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "91c5b3a1e45c6f7c5a234e64d735493a508d6bf949feae94562d15ca62fcbcdc",
+  "source_lines": 1532,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "杰克",
+      "card_id": "weisili_jieke",
+      "role": "重要配角",
+      "basis": "警务调查"
+    },
+    {
+      "name": "王其英",
+      "card_id": "weisili_wang_qiying",
+      "role": "单书主角",
+      "basis": "暴富实验与失踪"
+    },
+    {
+      "name": "宋警官（新年）",
+      "card_id": "weisili_song_officer_xinnian",
+      "role": "反派",
+      "basis": "暴富实验与失踪"
+    },
+    {
+      "name": "《新年》的赠宝观察者",
+      "card_id": "weisili_xinnian_observer",
+      "role": "非人主角",
+      "basis": "暴富实验与失踪"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "安德臣",
+      "reason": "单次调查相关人物"
+    },
+    {
+      "name": "年兽",
+      "reason": "收尾比喻，不实体化为吞噬杰克的怪物"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_b8ef6a8468024a8c",
+      "statement": "流浪状态",
+      "annotation_character_ids": [
+        "weisili_wang_qiying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8fe604757d2996d9",
+      "statement": "失去珠宝的反应",
+      "annotation_character_ids": [
+        "weisili_wang_qiying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_52d4f9385d724d6b",
+      "statement": "可清晰叙述",
+      "annotation_character_ids": [
+        "weisili_wang_qiying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d0ea40b597722967",
+      "statement": "身份与携宝潜逃",
+      "annotation_character_ids": [
+        "weisili_song_officer_xinnian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d262ce10c7a000a6",
+      "statement": "贪欲、失态和威胁",
+      "annotation_character_ids": [
+        "weisili_jieke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_adf2375f23f022d9",
+      "statement": "会面、实验及外形差异",
+      "annotation_character_ids": [
+        "weisili_xinnian_observer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a07d9b2d9e2d6054",
+      "statement": "二十年服务与背信",
+      "annotation_character_ids": [
+        "weisili_song_officer_xinnian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0201f09df7cde1c1",
+      "statement": "理论、局部能力和离去",
+      "annotation_character_ids": [
+        "weisili_xinnian_observer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_91d439eacad31526",
+      "statement": "单篇失踪叙述",
+      "annotation_character_ids": [
+        "weisili_jieke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e001e0176b82129d",
+      "statement": "下落不明",
+      "annotation_character_ids": [
+        "weisili_song_officer_xinnian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_338d7b81baa35ebf",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "weisili_wang_qiying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

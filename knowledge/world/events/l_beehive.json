@@ -1,0 +1,29 @@
+{
+  "id": "l_beehive",
+  "title": "蜂后计划受阻与高达复制体分流",
+  "kind": "event",
+  "summary": "交易会幕后揭明；高达复制体反抗植入意念，与蜂后离去，原本继续浪子生活。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《蜂后》；明确晚于后备秘密曝光。",
+    "narrative_layer": "present"
+  },
+  "state_before": "蜂后替代计划与医院利益冲突。",
+  "state_after": "拍卖取消，副本和原本分立，复制体去向摆脱追踪。",
+  "knowledge_boundary": "副本承接的爱情不能写给原本；医院也无法保证副本永久服从。",
+  "character_ids": [
+    "adventure_gaoda",
+    "adventure_gaoda_copy",
+    "adventure_luokai",
+    "adventure_fenghou"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_cf16cbda23d83427"
+  ],
+  "book_ids": [
+    "book_533b28ccc313"
+  ]
+}

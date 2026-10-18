@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d0e0ef61d706",
+  "title": "奇轮",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/18奇轮.txt",
+  "file": "books/book_d0e0ef61d706.json",
+  "inherited_fact_count": 5,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "d08910a50a7963ee4db13911f1dfbbd8c1aad30f2295dc87cf160f7922f783e4",
+  "source_lines": 701,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "祁利",
+      "card_id": "gaosi_qi_li",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "祁利的蒙面绑架队",
+      "card_id": "gaosi_qi_li_kidnappers",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "韩格、警方内奸",
+      "reason": "韩格为间接提及的线人；内奸只在结尾说明已查出，未给独立身份或行动场面。"
+    },
+    {
+      "name": "亚洲老板",
+      "reason": "此书仅为上级威胁与组织背景；其实际登场归入《亚洲皇后》的统一卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_4998df4c96d66949",
+      "statement": "委托与金钱诱导",
+      "annotation_character_ids": [
+        "gaosi_qi_li"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e9ba84752ece4cc9",
+      "statement": "跟踪、夹车、运输与暗门",
+      "annotation_character_ids": [
+        "gaosi_qi_li_kidnappers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04f557af4d5712ea",
+      "statement": "身份暴露及投降",
+      "annotation_character_ids": [
+        "gaosi_qi_li"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c7de6155be263f1a",
+      "statement": "追踪器使据点暴露",
+      "annotation_character_ids": [
+        "gaosi_qi_li_kidnappers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1454fea1a00bced8",
+      "statement": "组织、内奸与轮胎机制",
+      "annotation_character_ids": [
+        "gaosi_qi_li"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

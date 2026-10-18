@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "id": "book_34c10b16ba3f",
+  "title": "迷途横祸",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/14迷途横祸.txt",
+  "file": "books/book_34c10b16ba3f.json",
+  "inherited_fact_count": 6,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "8fd3052d403cf6a5775c75443bf45a1e5d0660bfc8b58c8aa0a2b2c6dfc0e3f2",
+  "source_lines": 666,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "郑先生及黑名单追索行动方",
+      "card_id": "gaosi_blacklist_zheng",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "山洞口的络腮胡携枪人",
+      "card_id": "gaosi_cave_rifle_contact",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "四名同游朋友、快艇接应者",
+      "reason": "朋友为一次性救援协助；接应者只实施接走，无可区分个体，已记入携枪人行动条件。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_4f3ecc875b021889",
+      "statement": "守候与受惊掉枪",
+      "annotation_character_ids": [
+        "gaosi_cave_rifle_contact"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1168291d21235381",
+      "statement": "快艇接走",
+      "annotation_character_ids": [
+        "gaosi_cave_rifle_contact"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_25d691447d24efa9",
+      "statement": "郑先生与持枪袭击",
+      "annotation_character_ids": [
+        "gaosi_blacklist_zheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_79c0876f171ad2e6",
+      "statement": "搜毁与威胁",
+      "annotation_character_ids": [
+        "gaosi_blacklist_zheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b0e683446e90f01a",
+      "statement": "交换、外交身份和名单真相",
+      "annotation_character_ids": [
+        "gaosi_blacklist_zheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0cb61c57dceb7054",
+      "statement": "枪柄中名单",
+      "annotation_character_ids": [
+        "gaosi_cave_rifle_contact"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

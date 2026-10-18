@@ -1,0 +1,28 @@
+{
+  "id": "issue_adapted_resurrection",
+  "title": "角色卡的部署约定不写入原作历史",
+  "kind": "issue",
+  "claims": [
+    "部分角色卡为了跨世界参战恢复生前可行动版本。",
+    "原作里的天使牺牲、陈长青失去肉身及原振侠失踪仍需保留。"
+  ],
+  "handling": {
+    "epistemic_status": "adaptation",
+    "text": "世界内 RP 默认遵守事件状态；要调用部署版本时单列 scenario_override，并说明恢复身体、保留何时记忆与代价。"
+  },
+  "schema_version": "1.0",
+  "section": "issues",
+  "evidence_ids": [
+    "evidence_bb015999e4c17ce8",
+    "evidence_ee74e8fe97b1a055",
+    "evidence_98c4eff68d44a597",
+    "evidence_65f0c0ecdf5792cb",
+    "evidence_87d5af21ab4b92fd",
+    "evidence_3f0b55873f0513a6"
+  ],
+  "book_ids": [
+    "book_4061a76cea80",
+    "book_8e795168086a",
+    "book_daabf1bd27ce"
+  ]
+}

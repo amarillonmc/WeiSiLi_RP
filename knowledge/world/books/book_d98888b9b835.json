@@ -1,0 +1,382 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d98888b9b835",
+  "title": "活路",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/116活路.txt",
+  "file": "books/book_d98888b9b835.json",
+  "inherited_fact_count": 31,
+  "curated_links": {
+    "arcs": [
+      "arc_lansi"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "452a30338a1f524c501ff49f274a206433e9f728ebe284e3abdc2c97f603b0cb",
+  "source_lines": 2701,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "实际调查和决断"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "实际调查、谈判与家庭选择"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "实际参与调查和讨论"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "主角",
+      "basis": "实际观察、与神鹰协作及家庭互动"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "主角",
+      "basis": "参与降头、失踪和亲情选择"
+    },
+    {
+      "name": "冷若冰",
+      "card_id": "weisili_leng_ruobing",
+      "role": "重要配角",
+      "basis": "访谈、失踪调查和物品保护"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "重要配角",
+      "basis": "开篇随红绫前往鸡场研究"
+    },
+    {
+      "name": "易琳",
+      "card_id": "weisili_yi_lin",
+      "role": "主角",
+      "basis": "接收灵魂信息、进入宝盒、选择回来"
+    },
+    {
+      "name": "陈民店主",
+      "card_id": "weisili_chenmin_owner",
+      "role": "阶段性对立者",
+      "basis": "库存隐瞒、逐利与交板"
+    },
+    {
+      "name": "沈万三",
+      "card_id": "weisili_shen_wansan",
+      "role": "主角",
+      "basis": "附板灵魂、旧事和迟疑主线"
+    },
+    {
+      "name": "蛙形生物",
+      "card_id": "weisili_huolu_frog_beings",
+      "role": "主角",
+      "basis": "赠宝、呼唤、说明与送返"
+    },
+    {
+      "name": "宝盒",
+      "card_id": "weisili_huolu_box",
+      "role": "主角",
+      "basis": "被称通灵的自主转移器物"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "古意教授",
+      "reason": "一次引介老师，虽误判但以帮助学生为意，非主线反派或跨书角色"
+    },
+    {
+      "name": "柏芳婉／柏婉芳",
+      "reason": "课堂传播纸条的一次同窗冲突；非本案核心对立者，名字异写保留"
+    },
+    {
+      "name": "易父易母",
+      "reason": "本书亲属照护和失踪反应，无独立主线或跨书实际登场"
+    },
+    {
+      "name": "朱警官",
+      "reason": "一次现场调查协助，不能仅凭姓朱与别书警员合并"
+    },
+    {
+      "name": "旧货店其余附物灵魂",
+      "reason": "五六个未具独立身份者的争吵，保留现象和沈魂关系，不拼成无来历的强者"
+    },
+    {
+      "name": "浮浪子弟、明太祖、沈妻",
+      "reason": "得宝和失势叙事中的历史背景或一次行为，没有独立当下主线，不移植真实历史全传"
+    },
+    {
+      "name": "纳塔莎、阿大",
+      "reason": "开篇补述离去和分析，无新可行动场景；已合入各自主卡终局"
+    },
+    {
+      "name": "陈岛、黄堂",
+      "reason": "仅询问消息和说明出差，未在本书实际参与"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_21cfb36594c19f58",
+      "statement": "续篇叙述者明确推定雌性纳塔蛇，实际已与阿大离开，完整原形仍未展示",
+      "annotation_character_ids": [
+        "weisili_natasha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dc7b62eabea9d1eb",
+      "statement": "已经随纳塔莎离开，仍未完成变人",
+      "annotation_character_ids": [
+        "weisili_ada_rooster"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5e01c325dd3cedf",
+      "statement": "隐私被传播与坚持自身体验",
+      "annotation_character_ids": [
+        "weisili_yi_lin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_40d71f7111b680c2",
+      "statement": "教授身份、旧识及陈岛联系",
+      "annotation_character_ids": [
+        "weisili_leng_ruobing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd2eb391a3b0042f",
+      "statement": "访谈中的预设与温宝裕补问",
+      "annotation_character_ids": [
+        "weisili_leng_ruobing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_207226c7f86840dc",
+      "statement": "保护失踪学生物品",
+      "annotation_character_ids": [
+        "weisili_leng_ruobing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bddb603e24e108fd",
+      "statement": "见到异常后承认无法判断并退离",
+      "annotation_character_ids": [
+        "weisili_leng_ruobing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b95c0fe1a5e98de0",
+      "statement": "店主身份、逐客与店大欺客态度",
+      "annotation_character_ids": [
+        "weisili_chenmin_owner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d1bd31eed591160",
+      "statement": "依信息指出宝盒所在",
+      "annotation_character_ids": [
+        "weisili_yi_lin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_43a7d32a92ad0074",
+      "statement": "库存编号、族产隐情和卖盒过程",
+      "annotation_character_ids": [
+        "weisili_chenmin_owner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b790ff30f818fb35",
+      "statement": "拒交、追索宝物与惊恐",
+      "annotation_character_ids": [
+        "weisili_chenmin_owner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9f4d614e90b9ae2d",
+      "statement": "交出板件、求平安与不吃亏",
+      "annotation_character_ids": [
+        "weisili_chenmin_owner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_250b5fa001cdd01f",
+      "statement": "宝盒空间阻断与温的通常感应，她并非跨空间万能定位",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f54bb72d26e076ae",
+      "statement": "对接收能力的分析及非父母遗传判断",
+      "annotation_character_ids": [
+        "weisili_yi_lin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_180648ea78f2b2d5",
+      "statement": "附板、拒谈与身份确认",
+      "annotation_character_ids": [
+        "weisili_shen_wansan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1ddc5660703659cf",
+      "statement": "形态、篓子受困与求救",
+      "annotation_character_ids": [
+        "weisili_huolu_frog_beings"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_698a7ce0e818dd4f",
+      "statement": "救蛙、财富愿望及复制仪解释",
+      "annotation_character_ids": [
+        "weisili_shen_wansan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04197183b5d6141d",
+      "statement": "赠复制仪及反复提醒愿望代价",
+      "annotation_character_ids": [
+        "weisili_huolu_frog_beings"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b4c93628a6a70e8",
+      "statement": "获宝、死亡、附板与迟疑阻止同伴",
+      "annotation_character_ids": [
+        "weisili_shen_wansan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5f64684b89ce2853",
+      "statement": "沈魂被拿板姿态吓到，蓝丝明确其实什么也没做，不据此赋伤魂术",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3ccb5ffaf92efd62",
+      "statement": "板为家、通灵说法与召回条件",
+      "annotation_character_ids": [
+        "weisili_huolu_box"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_674dd53cabc6bb28",
+      "statement": "召盒条件及转附衣袖",
+      "annotation_character_ids": [
+        "weisili_shen_wansan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0650f21fe53d0ea5",
+      "statement": "交通工具解释仍为人物分析",
+      "annotation_character_ids": [
+        "weisili_huolu_box"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e31e3ecb24316d67",
+      "statement": "惧怕阴间权威的明确心理",
+      "annotation_character_ids": [
+        "weisili_shen_wansan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e0f266c1f0a6dc91",
+      "statement": "应请求送人返回",
+      "annotation_character_ids": [
+        "weisili_huolu_frog_beings"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f574ef62c7a92ee6",
+      "statement": "多人回返、盒板缩小消失",
+      "annotation_character_ids": [
+        "weisili_huolu_box"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_281a4f9998def312",
+      "statement": "返家与亲人团聚",
+      "annotation_character_ids": [
+        "weisili_yi_lin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_43660b496a307537",
+      "statement": "板消失后去向未明",
+      "annotation_character_ids": [
+        "weisili_shen_wansan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2330a039facf06b2",
+      "statement": "空间解释、放下要求与尊重拒绝",
+      "annotation_character_ids": [
+        "weisili_huolu_frog_beings"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7cf03987519c7f2a",
+      "statement": "接触宝盒空间，因依恋现有生活而拒绝改变",
+      "annotation_character_ids": [
+        "weisili_yi_lin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_421a2eef6741ef92",
+      "statement": "宝盒内空间及拒绝改变后可回返",
+      "annotation_character_ids": [
+        "weisili_huolu_box"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "id": "book_e2ec5e693740",
+  "title": "怪物",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/085怪物.txt",
+  "file": "books/book_e2ec5e693740.json",
+  "inherited_fact_count": 17,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "cb3ee4d77787b29a584a083205a25604fcc9d92a8c9522ce7eec8ce6a0d61c1e",
+  "source_lines": 3200,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "追查异常"
+    },
+    {
+      "name": "陈景德",
+      "card_id": "yuanzhenxia_chen_jingde",
+      "role": "主角",
+      "basis": "记忆联结试探"
+    },
+    {
+      "name": "陈宜兴",
+      "card_id": "yuanzhenxia_chen_yixing",
+      "role": "主角",
+      "basis": "记忆联结试探"
+    },
+    {
+      "name": "方如花",
+      "card_id": "yuanzhenxia_fang_ruhua",
+      "role": "主角",
+      "basis": "与陈氏组成四人记忆联结"
+    },
+    {
+      "name": "方似玉",
+      "card_id": "yuanzhenxia_fang_siyu",
+      "role": "主角",
+      "basis": "记忆被攫取及待恢复"
+    },
+    {
+      "name": "成金润",
+      "card_id": "weisili_cheng_jinrun",
+      "role": "主角",
+      "basis": "调查线索及退避理论"
+    },
+    {
+      "name": "管理主任",
+      "card_id": "weisili_twin_tower_manager",
+      "role": "阶段性对立者",
+      "basis": "掩饰、伤人及失神"
+    },
+    {
+      "name": "电脑系统",
+      "card_id": "weisili_twin_tower_computer",
+      "role": "非人对立实体",
+      "basis": "设施异常与疑似记忆攫取"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "调查及救黄堂"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "调查及救黄堂"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "搜救与警方调查"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "助手失神求助"
+    },
+    {
+      "name": "陈岛",
+      "card_id": "weisili_chen_dao",
+      "role": "重要配角",
+      "basis": "陶的巨型保镖实际阻拦陈氏"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "转述原医生来电"
+    },
+    {
+      "name": "温妈妈",
+      "card_id": "weisili_wen_mama",
+      "role": "重要配角",
+      "basis": "在家中与老蔡、卫斯理的实际互动并推动开端误会"
+    },
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "重要配角",
+      "basis": "开篇由老蔡转述实际来电找卫氏夫妇及温宝裕，属于通信行动；主卡归原振侠批"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "十二名失神受害者、陶氏杨姓助手等",
+      "reason": "被害与搜救对象，缺独立主角行为；不因其惨遇推定为敌"
+    },
+    {
+      "name": "成金润同行、六号、酿酒者",
+      "reason": "一次讨论中的未具名专业协作者，其共同理论由成卡记录"
+    },
+    {
+      "name": "搜寻犬、训犬员、电梯工程师、守卫",
+      "reason": "一次性工作或受害角色，无独立主要人格"
+    },
+    {
+      "name": "亲王",
+      "reason": "一次来访与电梯现象说明，不另造王室主角"
+    },
+    {
+      "name": "陈景润等现实人物",
+      "reason": "叙述举例和推测，不属于实际故事登场角色"
+    },
+    {
+      "name": "白素",
+      "reason": "本书在苗疆，检索为背景提及或借述，未发现实际参与本案"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_cb0afcbbdcc08271",
+      "statement": "文件及废纸异常",
+      "annotation_character_ids": [
+        "weisili_twin_tower_computer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c0c11195bbc6ac7",
+      "statement": "电流伤害与空白记录",
+      "annotation_character_ids": [
+        "weisili_twin_tower_computer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b1c0a1d0ac8c0911",
+      "statement": "专业背景与自信",
+      "annotation_character_ids": [
+        "weisili_twin_tower_manager"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2dbed998b063f81",
+      "statement": "异常反应、否认与反客为主",
+      "annotation_character_ids": [
+        "weisili_twin_tower_manager"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ecda79f574b1e9f",
+      "statement": "电梯机械伤害",
+      "annotation_character_ids": [
+        "weisili_twin_tower_computer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9150b109fa019335",
+      "statement": "抓领带、机械力与攀出",
+      "annotation_character_ids": [
+        "weisili_twin_tower_manager"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a53bcd9b6a1faae",
+      "statement": "监视操作、发现异常而掩饰",
+      "annotation_character_ids": [
+        "weisili_cheng_jinrun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22243378598db6dc",
+      "statement": "失神乘客",
+      "annotation_character_ids": [
+        "weisili_twin_tower_computer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb47eea90b25c346",
+      "statement": "最终失神状态",
+      "annotation_character_ids": [
+        "weisili_twin_tower_manager"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_454703ccaf38f8d0",
+      "statement": "住处、外观与辞职",
+      "annotation_character_ids": [
+        "weisili_cheng_jinrun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_710d9f02362bc5c5",
+      "statement": "电筒和供应链争论",
+      "annotation_character_ids": [
+        "weisili_cheng_jinrun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_40fda9b82e056139",
+      "statement": "逃生选择与不信大众可唤醒",
+      "annotation_character_ids": [
+        "weisili_cheng_jinrun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_85d17011422fe637",
+      "statement": "同步感受和记忆被攫的推断",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_jingde",
+        "yuanzhenxia_chen_yixing",
+        "yuanzhenxia_fang_ruhua",
+        "yuanzhenxia_fang_siyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a54e510e3a2cc787",
+      "statement": "体验与攫取解释",
+      "annotation_character_ids": [
+        "weisili_twin_tower_computer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d7f31eefc368f261",
+      "statement": "冒险动机和准备求助",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_jingde",
+        "yuanzhenxia_chen_yixing",
+        "yuanzhenxia_fang_ruhua",
+        "yuanzhenxia_fang_siyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_afab9625e370d382",
+      "statement": "未决结局与全球化推断",
+      "annotation_character_ids": [
+        "weisili_twin_tower_computer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77f4c84500ef3efd",
+      "statement": "财富无法解除异常伤害",
+      "annotation_character_ids": [
+        "weisili_tao_qiquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

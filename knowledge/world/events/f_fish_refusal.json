@@ -1,0 +1,29 @@
+{
+  "id": "f_fish_refusal",
+  "title": "鱼人拒绝继续参与战争",
+  "kind": "event",
+  "summary": "范先生寻找并教育都连加农，将其带入战争；鱼人因杀戮痛苦选择与阿里回到海洋。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《鱼人》回述的经历；历史战争语境不换算精确年月。",
+    "narrative_layer": "recollection"
+  },
+  "state_before": "招揽异人被视为荣誉和助战机会。",
+  "state_after": "范先生接受拒绝，强大个体选择退出人类战争。",
+  "knowledge_boundary": "协会会员与人类胜利不必是鱼人自己的目标。",
+  "character_ids": [
+    "adventure_fan",
+    "adventure_dulian"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_01577f97c1716d0c",
+    "evidence_39e94221a12787cd",
+    "evidence_c538874727de88a1"
+  ],
+  "book_ids": [
+    "book_2d60d6b88429"
+  ]
+}

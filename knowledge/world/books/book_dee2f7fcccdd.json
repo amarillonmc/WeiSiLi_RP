@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "id": "book_dee2f7fcccdd",
+  "title": "四条金龙",
+  "aliases": [],
+  "series": "年轻人",
+  "source_path": "年轻人/10四条金龙.txt",
+  "file": "books/book_dee2f7fcccdd.json",
+  "inherited_fact_count": 20,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "120ead339d90d0fb0183d5882f5f2f6b985a29dfe04f55bcd6662c1fa1b65f44",
+  "source_lines": 1318,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "年轻人",
+      "card_id": "adventure_young",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "奥丽卡公主",
+      "card_id": "adventure_princess",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "中国人",
+      "card_id": "adventure_uncle",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "冯夫人",
+      "card_id": "adventure_feng_furen",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "冯军师",
+      "card_id": "adventure_junshi",
+      "role": "单书主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "焦田",
+      "card_id": "adventure_jiaotian",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "方一甲",
+      "card_id": "adventure_fangyijia",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "乐老爷",
+      "card_id": "adventure_le_laoye",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "黄金屯子受伤来客",
+      "card_id": "adventure_gold_alien",
+      "role": "单书主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "军师娘子",
+      "card_id": "adventure_junshi_wife",
+      "role": "重要配角",
+      "basis": "年轻人回忆与卫134有独立救人、迁徙行动，采用综合卡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "冯念慈、乐老四",
+      "reason": "一次性家属接待与总管辅助，无跨书独立重要行动。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_5cbb22db6edcb05c",
+      "statement": "年龄、人参与资源",
+      "annotation_character_ids": [
+        "adventure_fangyijia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_29cc15f2a7d16375",
+      "statement": "纵火、勒索和伏击",
+      "annotation_character_ids": [
+        "adventure_junshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2716bd5f8634ff99",
+      "statement": "迟疑、骑术、纵火和壮大",
+      "annotation_character_ids": [
+        "adventure_jiaotian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9e2efb4db41b7eaa",
+      "statement": "军师关系与对防线判断",
+      "annotation_character_ids": [
+        "adventure_jiaotian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f971e396b415c7ec",
+      "statement": "据城与潜入",
+      "annotation_character_ids": [
+        "adventure_junshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_34758aa950872570",
+      "statement": "孙儿与家族结构",
+      "annotation_character_ids": [
+        "adventure_le_laoye"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3491efe6b6cc1988",
+      "statement": "出身、婚姻与双枪训练",
+      "annotation_character_ids": [
+        "adventure_junshi_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2a430b54153307e0",
+      "statement": "姓冯",
+      "annotation_character_ids": [
+        "adventure_junshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_55e4425d4aebc3a8",
+      "statement": "旧武装营救",
+      "annotation_character_ids": [
+        "adventure_fangyijia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_337f86b23b6120d2",
+      "statement": "控制女儿婚事",
+      "annotation_character_ids": [
+        "adventure_le_laoye"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b29af34e5d11037a",
+      "statement": "利用感情探秘",
+      "annotation_character_ids": [
+        "adventure_fangyijia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_619c9a29aa689c4b",
+      "statement": "怨恨和机缘执念",
+      "annotation_character_ids": [
+        "adventure_fangyijia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed8d246b33f83110",
+      "statement": "明信片、旧信及未解关系",
+      "annotation_character_ids": [
+        "adventure_feng_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6ef3793e4ddd4197",
+      "statement": "晚年店铺与女儿",
+      "annotation_character_ids": [
+        "adventure_junshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2aa374b97354d4b5",
+      "statement": "死亡与家庭后果",
+      "annotation_character_ids": [
+        "adventure_junshi_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0da7d0cbe398c275",
+      "statement": "黄金用途与离开争执",
+      "annotation_character_ids": [
+        "adventure_gold_alien"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_515f93cfa66420da",
+      "statement": "索金、恩情和冲突",
+      "annotation_character_ids": [
+        "adventure_le_laoye"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_228ac10ab033bf10",
+      "statement": "重新解释往事",
+      "annotation_character_ids": [
+        "adventure_junshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_50bdcdb0f85cdd16",
+      "statement": "受伤来客与未知疏散",
+      "annotation_character_ids": [
+        "adventure_le_laoye"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_56e22dae611e0761",
+      "statement": "旧伤、工厂及疏散推论",
+      "annotation_character_ids": [
+        "adventure_gold_alien"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "s_magic_exposed",
+  "title": "高斯的奇迹案骗局被识破",
+  "kind": "event",
+  "summary": "假召魂与魔术骗局遭揭穿，涉案人偷运赃物被捕的后续由《粉红钻石》回述。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《奇迹》案先于《粉红钻石》开头回顾，目录17与04不能当时间顺序。",
+    "narrative_layer": "present"
+  },
+  "state_before": "高斯等面对似乎神异的演出。",
+  "state_after": "可由人造骗局解释并追回财物；不足以否定别处真实异常。",
+  "knowledge_boundary": "高斯依摄影和调查，不因世界有鬼就跳过取证。",
+  "character_ids": [
+    "gaosi_gao_si",
+    "gaosi_li_yufang"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_15ba291b81608f09"
+  ],
+  "book_ids": [
+    "book_c157bc6751a0"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0",
+  "id": "book_752e950f39e6",
+  "title": "泥沼火人",
+  "aliases": [],
+  "series": "非人协会系列",
+  "source_path": "非人协会系列/05泥沼火人.txt",
+  "file": "books/book_752e950f39e6.json",
+  "inherited_fact_count": 11,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "bff18ac8353b13382506f5c8c80e4523445d49e68fae4d25ea0d760ef0cedc4c",
+  "source_lines": 610,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "端纳",
+      "card_id": "adventure_duanna",
+      "role": "主角",
+      "basis": "调查与后果承担"
+    },
+    {
+      "name": "伦伦",
+      "card_id": "adventure_lunlun",
+      "role": "主角",
+      "basis": "关键独立选择决定结局"
+    },
+    {
+      "name": "泥沼火人",
+      "card_id": "adventure_nizhao_huoren",
+      "role": "主角/阶段性对立者",
+      "basis": "电击威胁与亲密关系中心"
+    },
+    {
+      "name": "勃朗医生",
+      "card_id": "adventure_bolang",
+      "role": "阶段性对立者",
+      "basis": "误判致命开枪者，非恶意反派"
+    },
+    {
+      "name": "史保",
+      "card_id": "adventure_shibao",
+      "role": "重要配角",
+      "basis": "讨论异人"
+    },
+    {
+      "name": "范先生",
+      "card_id": "adventure_fan",
+      "role": "重要配角",
+      "basis": "接待伦伦"
+    },
+    {
+      "name": "总管",
+      "card_id": "adventure_zongguan",
+      "role": "重要配角",
+      "basis": "接待"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "祭师、族长、军方官员",
+      "reason": "单书背景与信息角色"
+    },
+    {
+      "name": "未出生的孩子",
+      "reason": "已有发电征兆，尚无独立行为人格；存于伦伦和泥人关系及不确定项"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7876696c23bf11bb",
+      "statement": "探测能力与任务",
+      "annotation_character_ids": [
+        "adventure_duanna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f4e4ab7c1a318ede",
+      "statement": "山猫皮与自主态度",
+      "annotation_character_ids": [
+        "adventure_lunlun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c9ec6230f62d3646",
+      "statement": "村民伤亡与泥沼外形",
+      "annotation_character_ids": [
+        "adventure_nizhao_huoren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c3e85b50b01609b",
+      "statement": "童年探险与带路",
+      "annotation_character_ids": [
+        "adventure_lunlun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c57f6bfe5e56335",
+      "statement": "电击机制",
+      "annotation_character_ids": [
+        "adventure_nizhao_huoren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4565d8ed9fb6d4c3",
+      "statement": "电击使其受伤昏迷",
+      "annotation_character_ids": [
+        "adventure_duanna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f205a9d4eff0c4f2",
+      "statement": "专业分析与调查意愿",
+      "annotation_character_ids": [
+        "adventure_bolang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71bd3fe60fed720d",
+      "statement": "开枪、误判与确认死亡",
+      "annotation_character_ids": [
+        "adventure_bolang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f477f75ed85005df",
+      "statement": "死亡、关系和遗传征兆",
+      "annotation_character_ids": [
+        "adventure_nizhao_huoren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_208c3d667b51862b",
+      "statement": "丧偶、怀孕和协会",
+      "annotation_character_ids": [
+        "adventure_lunlun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_465ed4a4f30a5a48",
+      "statement": "后果与照顾母子",
+      "annotation_character_ids": [
+        "adventure_duanna"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

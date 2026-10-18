@@ -1,0 +1,20 @@
+{
+  "id": "before__m_watch__m_wedding",
+  "source": "m_watch",
+  "target": "m_wedding",
+  "relation": "before",
+  "epistemic_status": "synthesis",
+  "reason": "高翔从早期交易关系转入警方合作，婚姻为后来阶段；并非只由篇号推断。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "高翔从早期交易关系转入警方合作，婚姻为后来阶段；并非只由篇号推断。",
+  "evidence_ids": [
+    "evidence_59e3305b52d927fc",
+    "evidence_fa6af1fed9557685",
+    "evidence_33de46028aa0bd94"
+  ],
+  "book_ids": [
+    "book_3a4be15d72e1",
+    "book_c2535674b4f0"
+  ]
+}

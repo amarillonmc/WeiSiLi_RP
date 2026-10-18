@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "id": "book_0c1410b315bf",
+  "title": "旋风神偷",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/21旋风神偷.txt",
+  "file": "books/book_0c1410b315bf.json",
+  "inherited_fact_count": 19,
+  "curated_links": {
+    "arcs": [
+      "arc_yunsifeng"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "cf1ef503f3bd0fedd47a1864a4dcc606b63a223c9d39f8519039553666e70e21",
+  "source_lines": 2762,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "沙炳兴",
+      "card_id": "mulanhua_sha_bingxing",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云一风",
+      "card_id": "mulanhua_yun_yifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云二风",
+      "card_id": "mulanhua_yun_erfeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云三风",
+      "card_id": "mulanhua_yun_sanfeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "匡效衡、陈洪光、沈秘书",
+      "reason": "一次性警方受害者与秘书执行者；未见跨册重要作用或独立犯罪决策。"
+    },
+    {
+      "name": "云旋风及另外两位鬼手",
+      "reason": "旧案背景中的已故前辈；本册不以独立行动人格出现，兄弟寻父旧事录入主卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_399ac569464fe17a",
+      "statement": "守财外貌和求警方保护",
+      "annotation_character_ids": [
+        "mulanhua_sha_bingxing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_300810a13e08f150",
+      "statement": "持枪拦截、礼数与释放",
+      "annotation_character_ids": [
+        "mulanhua_yun_yifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_44b186c0939131cc",
+      "statement": "共同挂车行动",
+      "annotation_character_ids": [
+        "mulanhua_yun_sanfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_56adf98eccf104d9",
+      "statement": "害羞、刹车和游泳冠军",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8369bcde245f9200",
+      "statement": "受伤、制止弟弟和送人",
+      "annotation_character_ids": [
+        "mulanhua_yun_yifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_41dcc5449353ba30",
+      "statement": "枪械威吓与长兄约束",
+      "annotation_character_ids": [
+        "mulanhua_yun_erfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45bf7269f3e58cfd",
+      "statement": "火箭枪、真实姓名、反摔和毒烟",
+      "annotation_character_ids": [
+        "mulanhua_sha_bingxing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0bcf398f7e51604e",
+      "statement": "初始性格与受麻",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e348b373653db442",
+      "statement": "试探穆秀珍与开枪灭口",
+      "annotation_character_ids": [
+        "mulanhua_sha_bingxing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46ee16545b4de25b",
+      "statement": "假血、藏刀及救穆",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1470d62e14d01587",
+      "statement": "给机会反遭暗算",
+      "annotation_character_ids": [
+        "mulanhua_yun_yifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5de199356620aa53",
+      "statement": "与兄弟翻宅",
+      "annotation_character_ids": [
+        "mulanhua_yun_sanfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_727726f13107d80d",
+      "statement": "地雷机枪伏击、旧案及被迫谈条件",
+      "annotation_character_ids": [
+        "mulanhua_sha_bingxing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c22d3baaa944c3d5",
+      "statement": "掌掴及撞车主意说明",
+      "annotation_character_ids": [
+        "mulanhua_yun_erfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b0c0d3510b98dcb2",
+      "statement": "分辨撞车主意归属",
+      "annotation_character_ids": [
+        "mulanhua_yun_sanfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_832f020328a5a762",
+      "statement": "飞行器与企业",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_88d2c29ac886b34e",
+      "statement": "退休和失去集团控制",
+      "annotation_character_ids": [
+        "mulanhua_sha_bingxing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71d7a6cb35a09846",
+      "statement": "共同董事会",
+      "annotation_character_ids": [
+        "mulanhua_yun_erfeng",
+        "mulanhua_yun_yifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b9a1353553cb23fb",
+      "statement": "共同企业",
+      "annotation_character_ids": [
+        "mulanhua_yun_sanfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

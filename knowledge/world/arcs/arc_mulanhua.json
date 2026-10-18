@@ -1,0 +1,110 @@
+{
+  "id": "arc_mulanhua",
+  "title": "木兰花的经历与成长",
+  "kind": "arc",
+  "character_id": "mulanhua_mu_lanhua",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "训练和判断不是免错特权；失明、照护和婚姻让她学习承认他人也能负责。"
+  },
+  "stages": [
+    {
+      "label": "破解技术犯罪",
+      "event_ids": [
+        "m_watch"
+      ],
+      "state": "使用训练与现场判断破局。",
+      "rp_constraint": "不保留已毁死光表。"
+    },
+    {
+      "label": "接纳安妮",
+      "event_ids": [
+        "m_annie_family"
+      ],
+      "state": "组成照护和学习关系。",
+      "rp_constraint": "保护可能过度。"
+    },
+    {
+      "label": "接受脆弱与帮助",
+      "event_ids": [
+        "m_blind"
+      ],
+      "state": "失明期间工具、同伴和治疗重要。",
+      "rp_constraint": "不增设永久盲视。"
+    },
+    {
+      "label": "婚后仍独立冒险",
+      "event_ids": [
+        "m_wedding"
+      ],
+      "state": "婚姻与个人判断并存。",
+      "rp_constraint": "身体仍会疲劳和遇险。"
+    },
+    {
+      "label": "承认同伴成长",
+      "event_ids": [
+        "m_annie_independent"
+      ],
+      "state": "安妮已经能承担任务。",
+      "rp_constraint": "不永远替她决定。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_353efa770c37a0b2",
+    "evidence_fb9637e3293de67d",
+    "evidence_2f9437bf619e0628",
+    "evidence_cbe7dbbd6ca4b32f",
+    "evidence_6a1801f3a0798a24",
+    "evidence_8e872426b1399a0c",
+    "evidence_000372b181440de3",
+    "evidence_3bb73381bbedfcc8",
+    "evidence_a74346030f70eed7",
+    "evidence_bee8f80ee5d3f2b8",
+    "evidence_1bdc6023f403e5a5",
+    "evidence_ab9914ccaf7d7756",
+    "evidence_3f90efc5458c6497",
+    "evidence_7c2f9a914bb2917f",
+    "evidence_e5667aabf045586e",
+    "evidence_45a44e0e611feb25",
+    "evidence_f740651d33833ac7",
+    "evidence_720d25a0dd88acd4",
+    "evidence_3bded767f679bf21",
+    "evidence_66728cf971b27062",
+    "evidence_982856be5aa23afb",
+    "evidence_24eb6725086290a0",
+    "evidence_9a31a186f66e2fec",
+    "evidence_cf7a6bc524d7b775",
+    "evidence_038e97d0718f83de",
+    "evidence_53cab6483b0a8254",
+    "evidence_445f2c8453f73e66",
+    "evidence_931832d78af012d5",
+    "evidence_7b0e36121feb1066",
+    "evidence_924441133b361245",
+    "evidence_55f94c9be1a8010a",
+    "evidence_bc61895854f3a2b6",
+    "evidence_c0713dd186aae719",
+    "evidence_bce6b4bac2c1a32f"
+  ],
+  "book_ids": [
+    "book_010028e53ed7",
+    "book_0b0a0d1dcca5",
+    "book_0d683e643d16",
+    "book_1759a14aa7d2",
+    "book_1905922229f9",
+    "book_227fb88cd97f",
+    "book_32f5137e3369",
+    "book_3a4be15d72e1",
+    "book_46efdff81598",
+    "book_676f75bdba78",
+    "book_859f2b1ca2cd",
+    "book_91f9ff962ece",
+    "book_93599e44ee3e",
+    "book_984efdcbbe6f",
+    "book_afc4b3885657",
+    "book_d1e263538229",
+    "book_d891efd52524",
+    "book_f8a7c1a887d7"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rule_local_mechanisms",
+  "title": "异常机制按个案成立",
+  "kind": "rule",
+  "epistemic_status": "synthesis",
+  "statement": "同样被称为鬼、神、灵魂、幻境的现象可能来自不同主体、设备、误认或未解原因；名称相同不足以归为一种力量。",
+  "rp_application": "先按当案证据辨别骗局、主观经验、装置效果和自主生命；跨系统相互作用需要场景约定。",
+  "limits": [
+    "不将鬼话全体改写成思想仪制造。",
+    "不把所有神话归为同一外星文明的伪装。"
+  ],
+  "schema_version": "1.0",
+  "section": "rules",
+  "evidence_ids": [
+    "evidence_f6defc93bb8a442e",
+    "evidence_fa17af95d7b462c6",
+    "evidence_9b56cb49b31ba1c2",
+    "evidence_aee546978e362bb4",
+    "evidence_2213a8685c61f34a",
+    "evidence_47c4faa4a3841ba4"
+  ],
+  "book_ids": [
+    "book_36e3d4c8cce1",
+    "book_d135e392bd20",
+    "book_ede3a34d0069"
+  ]
+}

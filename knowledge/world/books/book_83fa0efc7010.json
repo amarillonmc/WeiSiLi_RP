@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "id": "book_83fa0efc7010",
+  "title": "怒歼恶魔团",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/18怒歼恶魔团.txt",
+  "file": "books/book_83fa0efc7010.json",
+  "inherited_fact_count": 20,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "ae717820513f4cc08b286a5406e0457708313dd97a5b8ebed2a4f944ceac8fc1",
+  "source_lines": 2558,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "江涛",
+      "card_id": "mulanhua_jiang_tao",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "赤魔团首领",
+      "card_id": "mulanhua_red_demon_chief",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "凌副首领",
+      "card_id": "mulanhua_red_demon_ling",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "钻石美保",
+      "card_id": "mulanhua_diamond_meibao",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "史特朗（警犬）",
+      "reason": "本册重要破案动物但非主视角，也未在别册实际再次出现；42的史特朗是黑手党教授，明确不同人物。"
+    },
+    {
+      "name": "哥德华、小八重法、关警官、戒指针绑架者及基地空手道守卫",
+      "reason": "前两位仅被提及为整容医生；其余为一次执行助手，未另具持续主线或独立重要身份。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_1ff94b06937f4b3d",
+      "statement": "外观、处死成员和组织结构",
+      "annotation_character_ids": [
+        "mulanhua_red_demon_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9950ed6047136413",
+      "statement": "外观、军队传闻、组织作用及核验",
+      "annotation_character_ids": [
+        "mulanhua_red_demon_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b88fbca4cee8c2b5",
+      "statement": "整容、声线与职位目标",
+      "annotation_character_ids": [
+        "mulanhua_jiang_tao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_19d140812cfa2c3c",
+      "statement": "照片圈套和替换身份",
+      "annotation_character_ids": [
+        "mulanhua_jiang_tao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e0e95477ca62bfed",
+      "statement": "避免仓促惊动木兰花",
+      "annotation_character_ids": [
+        "mulanhua_red_demon_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2f7e7d3481ee5d0",
+      "statement": "不知办公室而借人带路",
+      "annotation_character_ids": [
+        "mulanhua_jiang_tao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1daac3e5e429b724",
+      "statement": "犯罪获利、警犬识破及更大野心",
+      "annotation_character_ids": [
+        "mulanhua_jiang_tao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e20335e3d10dd38",
+      "statement": "被真高翔擒住",
+      "annotation_character_ids": [
+        "mulanhua_jiang_tao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b14bcea6f84c5883",
+      "statement": "犯罪后果、求情与拘押",
+      "annotation_character_ids": [
+        "mulanhua_jiang_tao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ccbffa3552585ebb",
+      "statement": "不信任江涛及职位交易",
+      "annotation_character_ids": [
+        "mulanhua_red_demon_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e80040cbd29979af",
+      "statement": "试探高翔身份",
+      "annotation_character_ids": [
+        "mulanhua_red_demon_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_435bbe3a0cb78fc8",
+      "statement": "审问与公开处刑计划",
+      "annotation_character_ids": [
+        "mulanhua_red_demon_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_93896d06238974e8",
+      "statement": "刑具、外围监视与处刑计划",
+      "annotation_character_ids": [
+        "mulanhua_red_demon_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_51a1672592e0c0cf",
+      "statement": "身份、外观、钻戒与突袭",
+      "annotation_character_ids": [
+        "mulanhua_diamond_meibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a324cf8bbd83c28d",
+      "statement": "围攻、炸弹及被录音误导",
+      "annotation_character_ids": [
+        "mulanhua_diamond_meibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c26b28bf4439513a",
+      "statement": "爆炸冲击、近身败北与供述",
+      "annotation_character_ids": [
+        "mulanhua_diamond_meibao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f0e785d4dd8164db",
+      "statement": "迟来的反向冒充识破",
+      "annotation_character_ids": [
+        "mulanhua_red_demon_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e4e448dcc87e3d50",
+      "statement": "逼警方撤退",
+      "annotation_character_ids": [
+        "mulanhua_red_demon_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0307b9e3616434d5",
+      "statement": "被俘虏反制并投降",
+      "annotation_character_ids": [
+        "mulanhua_red_demon_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3db8ffe167458fca",
+      "statement": "最终被控制",
+      "annotation_character_ids": [
+        "mulanhua_red_demon_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

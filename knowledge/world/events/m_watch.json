@@ -1,0 +1,30 @@
+{
+  "id": "m_watch",
+  "title": "木兰花毁掉死光表、高翔转向警方",
+  "kind": "event",
+  "summary": "死光交易中的假死与夺取计划被破解，核心武器与图样毁去，高翔的行动方向改变。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《巧夺死光表》末。",
+    "narrative_layer": "present"
+  },
+  "state_before": "高翔仍在与木兰花交锋的犯罪关系中。",
+  "state_after": "武器交易失去原物，后续出现警务身份和合作关系。",
+  "knowledge_boundary": "不能把后期高翔一开始就写成成熟警官。",
+  "character_ids": [
+    "mulanhua_mu_lanhua",
+    "mulanhua_gao_xiang"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_59e3305b52d927fc",
+    "evidence_997a9828418db5f3",
+    "evidence_b78804d5392586ce",
+    "evidence_c5bc97419524dd06"
+  ],
+  "book_ids": [
+    "book_c2535674b4f0"
+  ]
+}

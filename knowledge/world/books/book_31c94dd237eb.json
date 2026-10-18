@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "id": "book_31c94dd237eb",
+  "title": "大鹰",
+  "aliases": [],
+  "series": "非人协会系列",
+  "source_path": "非人协会系列/04大鹰.txt",
+  "file": "books/book_31c94dd237eb.json",
+  "inherited_fact_count": 8,
+  "curated_links": {
+    "events": [
+      "f_eagle_origin"
+    ],
+    "arcs": [
+      "arc_jinwei"
+    ],
+    "issues": [
+      "issue_retelling"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "453889f6ddc32f4341f839ccf197f953a5a7eef400ba87cd369058f2739e1d50",
+  "source_lines": 687,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "金维",
+      "card_id": "adventure_jinwei",
+      "role": "主角",
+      "basis": "山地调查视角"
+    },
+    {
+      "name": "孤峰大鹰",
+      "card_id": "adventure_daying",
+      "role": "主角/阶段性对立者",
+      "basis": "独立行动的中心异兽"
+    },
+    {
+      "name": "孤峰怪人",
+      "card_id": "adventure_gufeng_yiren",
+      "role": "主角",
+      "basis": "中心生命谜团，身份未解"
+    },
+    {
+      "name": "范先生",
+      "card_id": "adventure_fan",
+      "role": "重要配角",
+      "basis": "协会会议参与"
+    },
+    {
+      "name": "史保",
+      "card_id": "adventure_shibao",
+      "role": "重要配角",
+      "basis": "协会会议参与"
+    },
+    {
+      "name": "阿尼密",
+      "card_id": "adventure_animi",
+      "role": "重要配角",
+      "basis": "追问怪人遗体"
+    },
+    {
+      "name": "卓力克",
+      "card_id": "adventure_zhuolike",
+      "role": "重要配角",
+      "basis": "追问推荐对象"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "木里喇嘛、贡加喇嘛、尼达",
+      "reason": "单书辅助者与被调查人物，没有跨书实际行动"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_a479c4071dd10d71",
+      "statement": "外貌、语言和山地天赋",
+      "annotation_character_ids": [
+        "adventure_jinwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5c7e15e9614ce00c",
+      "statement": "雪地与扑击应对",
+      "annotation_character_ids": [
+        "adventure_jinwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_58b10430e945fed7",
+      "statement": "体型与猎击",
+      "annotation_character_ids": [
+        "adventure_daying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7212d7668f54918d",
+      "statement": "解救大鹰、怪人死亡与学习决定",
+      "annotation_character_ids": [
+        "adventure_jinwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_751e9dfc6043c5bf",
+      "statement": "捕缚、释放和运送",
+      "annotation_character_ids": [
+        "adventure_daying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d9fdd770f9732577",
+      "statement": "脚印与两人死亡的关联及疑问",
+      "annotation_character_ids": [
+        "adventure_gufeng_yiren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2c12ecc938a0207b",
+      "statement": "怪人死亡、遗物与大鹰",
+      "annotation_character_ids": [
+        "adventure_gufeng_yiren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d7c475040d3977db",
+      "statement": "处理遗体及推荐",
+      "annotation_character_ids": [
+        "adventure_daying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

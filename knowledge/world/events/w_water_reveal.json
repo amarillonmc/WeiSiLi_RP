@@ -1,0 +1,27 @@
+{
+  "id": "w_water_reveal",
+  "title": "洪荒中的水生命警告",
+  "kind": "event",
+  "summary": "黄而与水的联系让调查者面对地球本身的生命意志与污染警告。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《洪荒》揭露，后接买命、卖命研究线。",
+    "narrative_layer": "present"
+  },
+  "state_before": "水被按普通物质理解。",
+  "state_after": "特定亲历者接受另一种解释，公众并未自动获知。",
+  "knowledge_boundary": "古洪水、冰期及三大生命的宏观解释仍按证言处理。",
+  "character_ids": [
+    "weisili_water_life"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_329858c60a8196bc",
+    "evidence_f858a570dde0c17e"
+  ],
+  "book_ids": [
+    "book_f4a7e356d619"
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "schema_version": "1.0",
+  "id": "book_c33c05bc68a3",
+  "title": "考验",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/121考验.txt",
+  "file": "books/book_c33c05bc68a3.json",
+  "inherited_fact_count": 44,
+  "curated_links": {
+    "rules": [
+      "rule_knowledge",
+      "rule_macguffin"
+    ],
+    "entities": [
+      "life_quota",
+      "water"
+    ],
+    "events": [
+      "w_quota_research"
+    ],
+    "arcs": [
+      "arc_baisu",
+      "arc_qibai",
+      "arc_kangwei"
+    ],
+    "issues": [
+      "issue_quota_promise"
+    ]
+  },
+  "direct_source_review": true,
+  "source_sha256": "5d04c847014b0e5dc365977bf7227c07675b26061c0ff91c31b6fd7914e9dc31",
+  "source_lines": 3251,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "天嘉土王",
+      "card_id": "weisili_tianjia",
+      "role": "单书主角",
+      "basis": "考验事件行动者"
+    },
+    {
+      "name": "海高",
+      "card_id": "weisili_hai_gao",
+      "role": "反派",
+      "basis": "考验事件行动者"
+    },
+    {
+      "name": "图生王叔",
+      "card_id": "weisili_tusheng",
+      "role": "单书重要人物",
+      "basis": "考验事件行动者"
+    },
+    {
+      "name": "旧教长（天嘉考验）",
+      "card_id": "weisili_kaoyan_priest",
+      "role": "反派",
+      "basis": "考验事件行动者"
+    },
+    {
+      "name": "考验天神（山洞系统）",
+      "card_id": "weisili_kaoyan_god",
+      "role": "单书关键非人角色",
+      "basis": "考验事件行动者"
+    },
+    {
+      "name": "齐白",
+      "card_id": "weisili_qi_bai",
+      "role": "重要配角",
+      "basis": "实际参与主线或开场配额收束"
+    },
+    {
+      "name": "黄而",
+      "card_id": "weisili_huang_er",
+      "role": "重要配角",
+      "basis": "实际参与主线或开场配额收束"
+    },
+    {
+      "name": "水",
+      "card_id": "weisili_water_life",
+      "role": "重要配角",
+      "basis": "实际参与主线或开场配额收束"
+    },
+    {
+      "name": "范总管",
+      "card_id": "weisili_fan_zongguan",
+      "role": "重要配角",
+      "basis": "实际参与主线或开场配额收束"
+    },
+    {
+      "name": "亮声",
+      "card_id": "weisili_liang_sheng",
+      "role": "重要配角",
+      "basis": "实际参与主线或开场配额收束"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "实际参与主线或开场配额收束"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "实际参与主线或开场配额收束"
+    },
+    {
+      "name": "大亨",
+      "card_id": "weisili_da_heng",
+      "role": "重要配角",
+      "basis": "实际参与主线或开场配额收束"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "实际参与主线或开场配额收束"
+    },
+    {
+      "name": "康维",
+      "card_id": "yuanzhenxia_kangwei",
+      "role": "跨系列主角",
+      "basis": "古堡聚会和配额事件收束"
+    },
+    {
+      "name": "柳絮",
+      "card_id": "yuanzhenxia_liu_xu",
+      "role": "跨系列主角",
+      "basis": "古堡聚会和配额事件收束"
+    },
+    {
+      "name": "陈景德",
+      "card_id": "yuanzhenxia_chen_jingde",
+      "role": "跨系列主角",
+      "basis": "古堡聚会和配额事件收束"
+    },
+    {
+      "name": "陈宜兴",
+      "card_id": "yuanzhenxia_chen_yixing",
+      "role": "跨系列主角",
+      "basis": "古堡聚会和配额事件收束"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "新任教长及递补教士",
+      "reason": "现场获任的短段人物，未展开独立主角线或施害。"
+    },
+    {
+      "name": "过去三位土王及助手",
+      "reason": "只余考验历史与骸骨，不补造姓名、生前能力或人格。"
+    },
+    {
+      "name": "匿名买命富豪",
+      "reason": "开场群体背景，未具名的个人无独立行动线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_b6e94461e53d34e8",
+      "statement": "继续讨论",
+      "annotation_character_ids": [
+        "weisili_fan_zongguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_395f968e85a24da8",
+      "statement": "输送速度及意识限制",
+      "annotation_character_ids": [
+        "weisili_water_life"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_65e396f9dcc22ef6",
+      "statement": "限制及外出",
+      "annotation_character_ids": [
+        "weisili_huang_er"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_00eeabddede5dd8d",
+      "statement": "当前新会员身份",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9189ae6e1ee50174",
+      "statement": "当前会员与漫长会议",
+      "annotation_character_ids": [
+        "weisili_fan_zongguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7300bc70eba702b2",
+      "statement": "不能收讯与转移未成",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bbbf2fc7aca2e04a",
+      "statement": "康维无水例外",
+      "annotation_character_ids": [
+        "weisili_water_life"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cbf6bcaedbc5de75",
+      "statement": "再次联系与转移仍未成功",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_jingde",
+        "yuanzhenxia_chen_yixing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cf1b9e2ade7932da",
+      "statement": "收到讯号与转移未成",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_xu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_00a3aa28b2a3bcab",
+      "statement": "研究尚未成功",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9c310e3f8afb7497",
+      "statement": "普遍转移研究仍未完成",
+      "annotation_character_ids": [
+        "weisili_wen_yilai",
+        "weisili_wen_yilai_brother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f6024aaef67ec27a",
+      "statement": "身份与求助",
+      "annotation_character_ids": [
+        "weisili_tianjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0ed6efcbc1c35613",
+      "statement": "齐白与筹码",
+      "annotation_character_ids": [
+        "weisili_tianjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3c352150221ae52c",
+      "statement": "空间离开及秘密请求",
+      "annotation_character_ids": [
+        "weisili_qi_bai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fda4460a3221d1f8",
+      "statement": "监视与交谈",
+      "annotation_character_ids": [
+        "weisili_hai_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_24352c73667d9c05",
+      "statement": "身份、监视与程序立场",
+      "annotation_character_ids": [
+        "weisili_tusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a33a4a7d2640b666",
+      "statement": "地位、学识与改革态度",
+      "annotation_character_ids": [
+        "weisili_tusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb075dae8b4891e2",
+      "statement": "王位竞争及支持背景",
+      "annotation_character_ids": [
+        "weisili_hai_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e0bb487d9f166f9",
+      "statement": "身份揭示",
+      "annotation_character_ids": [
+        "weisili_hai_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7415d91421dbbd62",
+      "statement": "政治学历和自保坦白",
+      "annotation_character_ids": [
+        "weisili_tusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c2478f4e79adc5dc",
+      "statement": "驾驶与权力观",
+      "annotation_character_ids": [
+        "weisili_tianjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f7e6f353795ea46",
+      "statement": "冒名谋位",
+      "annotation_character_ids": [
+        "weisili_hai_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_65aec1138636d0c9",
+      "statement": "宣布考验",
+      "annotation_character_ids": [
+        "weisili_tusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_161acd988e815efb",
+      "statement": "劝说",
+      "annotation_character_ids": [
+        "weisili_tusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7a3bdb16f52c89f8",
+      "statement": "历代参与者",
+      "annotation_character_ids": [
+        "weisili_kaoyan_god"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c1dc06472baf7239",
+      "statement": "破坏合作",
+      "annotation_character_ids": [
+        "weisili_hai_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c89bf4abdbab8dd8",
+      "statement": "陪同",
+      "annotation_character_ids": [
+        "weisili_tusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_66a9c0c2ad597833",
+      "statement": "信任与疑点",
+      "annotation_character_ids": [
+        "weisili_kaoyan_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4a53f9589beeed8d",
+      "statement": "仪式位置与神秘形象",
+      "annotation_character_ids": [
+        "weisili_kaoyan_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_454d6007d5d46d77",
+      "statement": "试吹与误判",
+      "annotation_character_ids": [
+        "weisili_kaoyan_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_592a665a566e80a4",
+      "statement": "讥讽与骗术被揭穿",
+      "annotation_character_ids": [
+        "weisili_kaoyan_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f7516a689194cba5",
+      "statement": "现场发笑",
+      "annotation_character_ids": [
+        "weisili_hai_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9f78c99cce27021e",
+      "statement": "幸灾乐祸的实际表现",
+      "annotation_character_ids": [
+        "weisili_hai_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6029f657eb5d7879",
+      "statement": "识破阴谋后的应变",
+      "annotation_character_ids": [
+        "weisili_tianjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f91f69a6fcd274c",
+      "statement": "揭谋和任命",
+      "annotation_character_ids": [
+        "weisili_tianjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b1ffed2979817f5",
+      "statement": "交物、被带走与换任",
+      "annotation_character_ids": [
+        "weisili_kaoyan_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e55d0f82d317cb3f",
+      "statement": "交出设备、被捕及撤职",
+      "annotation_character_ids": [
+        "weisili_kaoyan_priest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_de111b0ff994bce6",
+      "statement": "局势转变",
+      "annotation_character_ids": [
+        "weisili_hai_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c7f3e96884a1aed1",
+      "statement": "封闭",
+      "annotation_character_ids": [
+        "weisili_kaoyan_god"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7c4c24b32f3414df",
+      "statement": "考验及终局",
+      "annotation_character_ids": [
+        "weisili_tianjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_885c162f791b8b25",
+      "statement": "信息、民意及推测",
+      "annotation_character_ids": [
+        "weisili_kaoyan_god"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6ac1b0a85cdfe454",
+      "statement": "民意考验与通过",
+      "annotation_character_ids": [
+        "weisili_tianjia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fc21cae1d44ad34e",
+      "statement": "解除封闭和制度局限",
+      "annotation_character_ids": [
+        "weisili_kaoyan_god"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_19c7a39e11778754",
+      "statement": "当篇请求仍未说明",
+      "annotation_character_ids": [
+        "weisili_qi_bai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

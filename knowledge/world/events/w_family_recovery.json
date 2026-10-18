@@ -1,0 +1,35 @@
+{
+  "id": "w_family_recovery",
+  "title": "探险中的家史追索与女儿归来",
+  "kind": "event",
+  "summary": "卫白追索苗疆与家族证词，红绫回到父母关系之中；木兰花一方提供证词联系。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《探险》《继续探险》调查线；后续进入烈火女、祸根阶段。",
+    "narrative_layer": "present"
+  },
+  "state_before": "女儿和长辈往事存在未知。",
+  "state_after": "家史逐步可解释，父母开始面对女儿已形成的生活与关系。",
+  "knowledge_boundary": "陈月兰成为外星人的事实尚不能代替当时的猜测。",
+  "character_ids": [
+    "weisili_wei_sili",
+    "weisili_bai_su",
+    "weisili_hong_ling",
+    "mulanhua_mu_lanhua"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_318e289b38da960d",
+    "evidence_94c91f9606dc3c2b",
+    "evidence_b68bbc86fcf830e8",
+    "evidence_48ad0b3d897f0574",
+    "evidence_bc61895854f3a2b6",
+    "evidence_c0713dd186aae719",
+    "evidence_bce6b4bac2c1a32f"
+  ],
+  "book_ids": [
+    "book_afc4b3885657"
+  ]
+}

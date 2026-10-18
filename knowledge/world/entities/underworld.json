@@ -1,0 +1,45 @@
+{
+  "id": "underworld",
+  "title": "阴间及思想仪",
+  "kind": "place",
+  "summary": "被地球人理解为阴主掌管的灵魂收容空间，后来显露为异星设备及航行员活动。",
+  "mechanism": {
+    "text": "一至三号维持残缺思想仪；四号携部件离队。完整仪器的思想控制危险在后期揭露。",
+    "epistemic_status": "textual_fact"
+  },
+  "access_conditions": [
+    "对应时期的装置、使者或经过改造的通行者",
+    "进入和离开可能有不同条件"
+  ],
+  "limits": [
+    "不能据此统一所有鬼魂与死后世界",
+    "残缺仪器有信息盲区",
+    "后期停机后不得作为正常基地或随身军队"
+  ],
+  "last_known_state": "《只限老友》思想仪停摆、灵魂光点消失；一至三号及灵魂去向未知，齐白与李宣宣团聚断讯。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "早期可追查使者滥权、回收部件；停机后只宜调查遗迹、失踪和通讯，不默认恢复全部功能。"
+  },
+  "character_ids": [
+    "weisili_yin_1",
+    "weisili_yin_2",
+    "weisili_yin_3",
+    "weisili_yin_4",
+    "weisili_qi_bai"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_aee546978e362bb4",
+    "evidence_2213a8685c61f34a",
+    "evidence_47c4faa4a3841ba4",
+    "evidence_e18c3af16ef5faec",
+    "evidence_14eb5a476aee45ab"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da",
+    "book_460f6aca3017",
+    "book_ede3a34d0069"
+  ]
+}

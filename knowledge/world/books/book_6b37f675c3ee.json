@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "id": "book_6b37f675c3ee",
+  "title": "死神殿",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/46死神殿.txt",
+  "file": "books/book_6b37f675c3ee.json",
+  "inherited_fact_count": 19,
+  "curated_links": {
+    "arcs": [
+      "arc_gaoxiang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "b9077ad827b01b4f81b20bd44436122431d2cf9e173468708bed3a084f274b29",
+  "source_lines": 2606,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "死神",
+      "card_id": "mulanhua_death_palace_master",
+      "role": "反派",
+      "basis": "幕后袭击与胁迫警方。"
+    },
+    {
+      "name": "佟宁",
+      "card_id": "mulanhua_tong_ning",
+      "role": "阶段性对立者",
+      "basis": "商业恐吓后转为供车合作。"
+    },
+    {
+      "name": "琵琶",
+      "card_id": "mulanhua_pipa",
+      "role": "反派",
+      "basis": "借钳藏弹破坏赛车。"
+    },
+    {
+      "name": "大乔治",
+      "card_id": "mulanhua_george_elder",
+      "role": "反派",
+      "basis": "共同赛车杀人履历与受雇威胁。"
+    },
+    {
+      "name": "小乔治",
+      "card_id": "mulanhua_george_younger",
+      "role": "反派",
+      "basis": "共同赛车杀人履历与受雇威胁。"
+    },
+    {
+      "name": "冷声赛车手",
+      "card_id": "mulanhua_cold_voice_racer",
+      "role": "反派",
+      "basis": "枪击木兰花汽车、谋求参赛优势。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "跨书重要配角",
+      "basis": "识破烙印胁迫，部署拘捕。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "赛车第二冲线并遇谋杀威胁。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "受托独立调查高翔下落。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "支援与照顾伤员。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "跨书重要配角",
+      "basis": "设计赛车并受爆炸重伤。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "跨书重要配角",
+      "basis": "协助调查与警力部署。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "麦维拉、贝波夫人、莎娃中尉",
+      "reason": "一次性专业协助或参赛背景，不是独立主角或已证反派。"
+    },
+    {
+      "name": "匿名追车者、接引人员、黑衣水手与赛场执行者",
+      "reason": "执行身份未个体化；不把三名匿名赛车手强并乔治兄弟。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d0ca67ab250b17e2",
+      "statement": "兄弟身份与驾驶评价。",
+      "annotation_character_ids": [
+        "mulanhua_george_elder",
+        "mulanhua_george_younger"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5c701a93a4b09b6",
+      "statement": "商业目的、暗拍和恐吓。",
+      "annotation_character_ids": [
+        "mulanhua_tong_ning"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_84cf6425456fd3d2",
+      "statement": "受雇和被用来恐吓对手的共同记录。",
+      "annotation_character_ids": [
+        "mulanhua_george_elder",
+        "mulanhua_george_younger"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_07a847bc132a0e70",
+      "statement": "借钳、还钳与提前爆炸。",
+      "annotation_character_ids": [
+        "mulanhua_pipa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_120d70c3941018e7",
+      "statement": "爆炸应变和重伤",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b9373e2cf5792ec",
+      "statement": "真实称号、受雇行事、通缉与触发原因。",
+      "annotation_character_ids": [
+        "mulanhua_pipa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e4641a2275ad00e3",
+      "statement": "尚未找到本人。",
+      "annotation_character_ids": [
+        "mulanhua_pipa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7033e4566e903941",
+      "statement": "拘留冲突后达成合作。",
+      "annotation_character_ids": [
+        "mulanhua_tong_ning"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a3ee1406e6715749",
+      "statement": "麦维拉设计、试车与供车。",
+      "annotation_character_ids": [
+        "mulanhua_tong_ning"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f51fc276472f0c4b",
+      "statement": "枪击、冷声对话、待遇与辨声计划。",
+      "annotation_character_ids": [
+        "mulanhua_cold_voice_racer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f099d001fddabab3",
+      "statement": "恢复预期而非永久失能",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_64a3d21ef54140e2",
+      "statement": "只顾竞赛收益与转向支持。",
+      "annotation_character_ids": [
+        "mulanhua_tong_ning"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d924255f4cd77f88",
+      "statement": "黑船和束缚椅的物质机关。",
+      "annotation_character_ids": [
+        "mulanhua_death_palace_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_573fa1046a8fbd29",
+      "statement": "死神承认伤害主角的组织目的。",
+      "annotation_character_ids": [
+        "mulanhua_cold_voice_racer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_be604556099f5609",
+      "statement": "目的、倒签文件和烙印要求。",
+      "annotation_character_ids": [
+        "mulanhua_death_palace_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e5a0b4bec7398b28",
+      "statement": "烙铁假印与布警诱捕",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1a6b6a2feb01628f",
+      "statement": "无线电假位置、赛车威胁与真身暴露。",
+      "annotation_character_ids": [
+        "mulanhua_death_palace_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_01204fae6d0e533c",
+      "statement": "便衣部署。",
+      "annotation_character_ids": [
+        "mulanhua_death_palace_master"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7526a7613819d6e3",
+      "statement": "比赛终点。",
+      "annotation_character_ids": [
+        "mulanhua_tong_ning"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

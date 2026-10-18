@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "id": "book_648f720528b8",
+  "title": "橘树",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/橘树.txt",
+  "file": "books/book_648f720528b8.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "e9d57da920144fd034afab42e78887cad500e1882ca06aefa0072736181719e6",
+  "source_lines": 59,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "兴化县令之女",
+      "card_id": "guihua_orange_woman",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "与县令之女相约的橘树",
+      "card_id": "guihua_orange_tree",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_03061ab528905279",
+      "statement": "童年性格与照料",
+      "annotation_character_ids": [
+        "guihua_orange_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16ee8913d6457c37",
+      "statement": "女孩感知的交流与生长",
+      "annotation_character_ids": [
+        "guihua_orange_tree"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_059fee79b970fffd",
+      "statement": "移栽、重逢与终别",
+      "annotation_character_ids": [
+        "guihua_orange_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2599f09dc6446172",
+      "statement": "成年树、丰产和落叶",
+      "annotation_character_ids": [
+        "guihua_orange_tree"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

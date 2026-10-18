@@ -1,0 +1,372 @@
+{
+  "schema_version": "1.0",
+  "id": "book_eeb0e48b439a",
+  "title": "蜂云",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/007蜂云.txt",
+  "file": "books/book_eeb0e48b439a.json",
+  "inherited_fact_count": 34,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "64997c0e874645af11ef648d072ce573b31857b035a91392164f19ccff34d37a",
+  "source_lines": 3842,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "陈天远",
+      "card_id": "weisili_chen_tianyuan",
+      "role": "单书主角",
+      "basis": "研究、被绑与危机解释"
+    },
+    {
+      "name": "殷嘉丽",
+      "card_id": "weisili_yin_jiali",
+      "role": "单书主角／反派",
+      "basis": "情报行为、逼死上级与退职"
+    },
+    {
+      "name": "符强生",
+      "card_id": "weisili_fu_qiangsheng",
+      "role": "单书主角",
+      "basis": "研究解释与情感行动"
+    },
+    {
+      "name": "Ｇ大使",
+      "card_id": "weisili_g_ambassador",
+      "role": "重要配角／阶段性对立者",
+      "basis": "明确续接001人物并死亡"
+    },
+    {
+      "name": "锡格林",
+      "card_id": "weisili_xigelin",
+      "role": "反派",
+      "basis": "强制转移、监禁与招揽"
+    },
+    {
+      "name": "胖上校",
+      "card_id": "weisili_beeyun_colonel",
+      "role": "阶段性对立者",
+      "basis": "错误调查和监听"
+    },
+    {
+      "name": "五名液态生命",
+      "card_id": "weisili_neptune_liquid_five",
+      "role": "非人对立者",
+      "basis": "墓穴异变与危机核心"
+    },
+    {
+      "name": "巨蜂群",
+      "card_id": "weisili_neptune_bees",
+      "role": "非人对立者",
+      "basis": "杀伤、蜂云与迁移"
+    },
+    {
+      "name": "杰克",
+      "card_id": "weisili_jieke",
+      "role": "重要配角",
+      "basis": "调查、军警协调及危机处置"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "家庭协助和采购"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "阿星、胖子联络员及四名枪手",
+      "reason": "具具体执行行动但无独立主线，以情报组织从属行动记入；没有赋予虚构个人能力。"
+    },
+    {
+      "name": "化装师及军官、无名警员",
+      "reason": "受胁迫的技术辅助、执行者或受害者，无独立跨书重要线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_efa740167130558a",
+      "statement": "研究身份",
+      "annotation_character_ids": [
+        "weisili_chen_tianyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f944898806db4ef",
+      "statement": "公开身份",
+      "annotation_character_ids": [
+        "weisili_yin_jiali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e180ee0a0be40acb",
+      "statement": "资料行动与部属武器",
+      "annotation_character_ids": [
+        "weisili_yin_jiali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd3aa36b6b1f115a",
+      "statement": "错误判断",
+      "annotation_character_ids": [
+        "weisili_beeyun_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6614be2b083f968f",
+      "statement": "朋友身份",
+      "annotation_character_ids": [
+        "weisili_fu_qiangsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_97fd2f4f7a562fda",
+      "statement": "异变机制是假说及已发生杀伤",
+      "annotation_character_ids": [
+        "weisili_neptune_bees"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a23aad5d320e6b0b",
+      "statement": "实验、异变与推测边界",
+      "annotation_character_ids": [
+        "weisili_chen_tianyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b3788bdbc661b07f",
+      "statement": "机制解释和承认未知",
+      "annotation_character_ids": [
+        "weisili_fu_qiangsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1796b1b3c06c1e73",
+      "statement": "监听器与改判",
+      "annotation_character_ids": [
+        "weisili_beeyun_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1d092310524d85cb",
+      "statement": "招揽合作及拒绝监听",
+      "annotation_character_ids": [
+        "weisili_beeyun_colonel"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b8d9297ebaea4567",
+      "statement": "空军照片",
+      "annotation_character_ids": [
+        "weisili_neptune_bees"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_35b03f8588931b6c",
+      "statement": "恋爱关系及不懂圈套",
+      "annotation_character_ids": [
+        "weisili_fu_qiangsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa231f8e8aa302ea",
+      "statement": "枪械、驾驶和身份信念",
+      "annotation_character_ids": [
+        "weisili_yin_jiali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1259afa4fc5b38bc",
+      "statement": "与钻石花旧事同人及长期帮助",
+      "annotation_character_ids": [
+        "weisili_g_ambassador"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16842fde1c2e91b6",
+      "statement": "答应释放、被撤权",
+      "annotation_character_ids": [
+        "weisili_g_ambassador"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2fc6492c974de081",
+      "statement": "接管与逼迫Ｇ",
+      "annotation_character_ids": [
+        "weisili_yin_jiali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_80048c529585ea96",
+      "statement": "以名誉逼死",
+      "annotation_character_ids": [
+        "weisili_g_ambassador"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f292bb346969b925",
+      "statement": "身份和对待俘虏",
+      "annotation_character_ids": [
+        "weisili_xigelin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5bc71e28be86592a",
+      "statement": "监禁、招揽及威胁",
+      "annotation_character_ids": [
+        "weisili_xigelin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_68449c789b293884",
+      "statement": "所称斡旋",
+      "annotation_character_ids": [
+        "weisili_xigelin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8754261cf8582388",
+      "statement": "死亡压力",
+      "annotation_character_ids": [
+        "weisili_xigelin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c888ac8baabd0c12",
+      "statement": "假死与任务记录",
+      "annotation_character_ids": [
+        "weisili_xigelin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9081e31e0210411a",
+      "statement": "档案确认解决Ｇ",
+      "annotation_character_ids": [
+        "weisili_g_ambassador"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ac391752ad777f0",
+      "statement": "墓穴中渗出与成形",
+      "annotation_character_ids": [
+        "weisili_neptune_liquid_five"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83d3e17e405bac9e",
+      "statement": "共同面对怪物",
+      "annotation_character_ids": [
+        "weisili_fu_qiangsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_21586c9c7d41031a",
+      "statement": "感情和任务冲突",
+      "annotation_character_ids": [
+        "weisili_yin_jiali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5521b81e1f9029b7",
+      "statement": "脱困与不顾危险",
+      "annotation_character_ids": [
+        "weisili_chen_tianyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a585bee69b98850a",
+      "statement": "能力表现与数量",
+      "annotation_character_ids": [
+        "weisili_neptune_liquid_five"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d3630912505e0248",
+      "statement": "蜂云与高空活动",
+      "annotation_character_ids": [
+        "weisili_neptune_bees"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6ad59d69a998796c",
+      "statement": "回归解释及未知",
+      "annotation_character_ids": [
+        "weisili_chen_tianyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a33e03c81f05f5b7",
+      "statement": "趋向来源及终局未知",
+      "annotation_character_ids": [
+        "weisili_neptune_bees"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d4686e44e8766fd1",
+      "statement": "离去解释和未知终局",
+      "annotation_character_ids": [
+        "weisili_neptune_liquid_five"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e87808eea4e2e4c5",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "weisili_fu_qiangsheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fae757481e1b44bf",
+      "statement": "辞职终局",
+      "annotation_character_ids": [
+        "weisili_yin_jiali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

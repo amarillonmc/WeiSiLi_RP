@@ -1,0 +1,31 @@
+{
+  "id": "w_rhino",
+  "title": "犀照研究与温宝裕进入冒险圈",
+  "kind": "event",
+  "summary": "温宝裕参与犀照及异常生物研究，研究者在风险与证据上分歧，胡怀玉等人成为后续联系。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "早于《黑白无常》对研究所的明确回指。",
+    "narrative_layer": "present"
+  },
+  "state_before": "好奇心驱动试验和极地调查。",
+  "state_after": "亲历死亡、失去现场与残存材料，研究解释仍有限。",
+  "knowledge_boundary": "不能把一次研究结论推广为所有见鬼机制。",
+  "character_ids": [
+    "weisili_wen_baoyu",
+    "weisili_hu_huaiyu"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_b6b07c7c56420cb9",
+    "evidence_313ed8782d41982c",
+    "evidence_987dbf4161b33db3",
+    "evidence_74c3db13aa3dc427",
+    "evidence_714fa8cc07d0cfeb"
+  ],
+  "book_ids": [
+    "book_1eceb61f788e"
+  ]
+}

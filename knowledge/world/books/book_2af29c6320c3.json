@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0",
+  "id": "book_2af29c6320c3",
+  "title": "异人",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/10异人.txt",
+  "file": "books/book_2af29c6320c3.json",
+  "inherited_fact_count": 11,
+  "curated_links": {
+    "events": [
+      "l_coexistence"
+    ],
+    "arcs": [
+      "arc_luokai"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "28ceb1449356424283c25441b39d0d9b78dd47ec8af47abe02ac2f9e5a74c98e",
+  "source_lines": 1397,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "禇上民",
+      "card_id": "adventure_chushangmin",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "哈德",
+      "card_id": "adventure_hade",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "卡娅",
+      "card_id": "adventure_kaya",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "远",
+      "card_id": "adventure_yuan",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "康维十七世",
+      "card_id": "yuanzhenxia_kangwei",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "阿清",
+      "reason": "重要背景证人和孕育者，单书配角而无自主主线"
+    },
+    {
+      "name": "无名机构人员",
+      "reason": "对立方没有个体可辨身份"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7a73ef1e8ac9c9e4",
+      "statement": "定位、组织与录音调查",
+      "annotation_character_ids": [
+        "adventure_shui_hong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3bc4ead1ebc93055",
+      "statement": "封闭瓶展示",
+      "annotation_character_ids": [
+        "adventure_chushangmin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7aa1981311451791",
+      "statement": "与哈德的关系",
+      "annotation_character_ids": [
+        "adventure_kaya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f483fc9bb5944538",
+      "statement": "关系、机械身体与运输",
+      "annotation_character_ids": [
+        "adventure_hade"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_558f37b9f8a00f66",
+      "statement": "爱情、承诺与离开计划",
+      "annotation_character_ids": [
+        "adventure_shui_hong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_87c0890c930b4d8d",
+      "statement": "身体认知与天敌克制",
+      "annotation_character_ids": [
+        "adventure_chushangmin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4817d7a1d38e36d4",
+      "statement": "天敌、承诺和思念",
+      "annotation_character_ids": [
+        "adventure_hade"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b046d043ad0ad023",
+      "statement": "穿越、和平承诺与终局",
+      "annotation_character_ids": [
+        "adventure_chushangmin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4758b9520195eb6f",
+      "statement": "主张和平共处",
+      "annotation_character_ids": [
+        "adventure_luokai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_faf245ec5a16080c",
+      "statement": "警惕天敌后同意合作",
+      "annotation_character_ids": [
+        "adventure_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_912869870688862b",
+      "statement": "持续关系",
+      "annotation_character_ids": [
+        "adventure_yanyan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

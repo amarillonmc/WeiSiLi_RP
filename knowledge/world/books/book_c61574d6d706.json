@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0",
+  "id": "book_c61574d6d706",
+  "title": "双程",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/117双程.txt",
+  "file": "books/book_c61574d6d706.json",
+  "inherited_fact_count": 22,
+  "curated_links": {
+    "arcs": [
+      "arc_baisu"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "5eebe6641437cd63bdfefa72fbfb51dcafe629a94250eac48b1169a72c5fa6c2",
+  "source_lines": 2784,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "实际参与事件"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "实际参与事件"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "实际参与事件"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "实际参与事件"
+    },
+    {
+      "name": "大亨",
+      "card_id": "weisili_da_heng",
+      "role": "重要配角",
+      "basis": "实际参与事件"
+    },
+    {
+      "name": "朱槿",
+      "card_id": "weisili_zhu_jin",
+      "role": "重要配角",
+      "basis": "实际参与事件"
+    },
+    {
+      "name": "小纳尔逊",
+      "card_id": "weisili_xiao_na",
+      "role": "重要配角",
+      "basis": "实际参与事件"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "实际参与事件"
+    },
+    {
+      "name": "沈万三",
+      "card_id": "weisili_shen_wansan",
+      "role": "重要配角",
+      "basis": "实际参与事件"
+    },
+    {
+      "name": "四巧堂双程巨人",
+      "card_id": "weisili_shuangcheng_giant",
+      "role": "单书主角",
+      "basis": "双程生命主线"
+    },
+    {
+      "name": "四巧堂养父长老",
+      "card_id": "weisili_siqiao_elder",
+      "role": "单书关键人物",
+      "basis": "双程生命主线"
+    },
+    {
+      "name": "警务总监（双程空难事件）",
+      "card_id": "weisili_shuangcheng_commissioner",
+      "role": "反派",
+      "basis": "双程生命主线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "鲁健",
+      "reason": "一次性协助处理机场警告的警务人员，无独立主角线。"
+    },
+    {
+      "name": "机场主管、民航局长、市府秘书长",
+      "reason": "临时行政争论中的职务人物，未形成独立反派行动线；主要施害决策者总监已建卡。"
+    },
+    {
+      "name": "陈宅旧主人与长辫老人",
+      "reason": "只在巨人童年片段参与未解安排，身份和独立能力不足，不自动合并陈长青或历史人物。"
+    },
+    {
+      "name": "四巧堂旧日惩戒人物与恶霸",
+      "reason": "用以解释帮会背景的短段旧事，无连续人物线。"
+    },
+    {
+      "name": "S W H",
+      "reason": "末尾小说内信件署名，没有独立人物主线；信中理论仅按小说设想处理。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7be6d4fc39440b9d",
+      "statement": "续篇仍有实际对话，继续犹豫活路；几百年对魂不是长时间",
+      "annotation_character_ids": [
+        "weisili_shen_wansan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1cc55814a52de61b",
+      "statement": "体格和手语",
+      "annotation_character_ids": [
+        "weisili_shuangcheng_giant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_443fbf9ce8e561b0",
+      "statement": "记忆和变化边界",
+      "annotation_character_ids": [
+        "weisili_shuangcheng_giant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb0d9dc87bada773",
+      "statement": "机场决定",
+      "annotation_character_ids": [
+        "weisili_shuangcheng_commissioner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee27f7a7494f412c",
+      "statement": "记者证的实际依据",
+      "annotation_character_ids": [
+        "weisili_liang_chen",
+        "weisili_mei_jing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_703f4283110efb03",
+      "statement": "实际巨力",
+      "annotation_character_ids": [
+        "weisili_shuangcheng_giant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ddb545859a394300",
+      "statement": "养父、童年和沟通",
+      "annotation_character_ids": [
+        "weisili_shuangcheng_giant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_415b4e657c09a815",
+      "statement": "养育和识字限制",
+      "annotation_character_ids": [
+        "weisili_siqiao_elder"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04a29d6859c32c16",
+      "statement": "生命机会",
+      "annotation_character_ids": [
+        "weisili_siqiao_elder"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0824a6c22c4710c8",
+      "statement": "临终传承",
+      "annotation_character_ids": [
+        "weisili_siqiao_elder"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a027dd305ae2902c",
+      "statement": "双程起点",
+      "annotation_character_ids": [
+        "weisili_shuangcheng_giant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_66299e343a2b89f9",
+      "statement": "空难误判及消失",
+      "annotation_character_ids": [
+        "weisili_shuangcheng_giant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4b178f29dc9939ac",
+      "statement": "阻登机获救",
+      "annotation_character_ids": [
+        "weisili_da_heng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa319dcc6d168f1e",
+      "statement": "终局身份和支持会议",
+      "annotation_character_ids": [
+        "weisili_xiao_na"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fda05b93502d7ef9",
+      "statement": "情报及组织判断",
+      "annotation_character_ids": [
+        "weisili_zhu_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16d48017cc14cd2e",
+      "statement": "主持听取并明确接受",
+      "annotation_character_ids": [
+        "weisili_xiao_na"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_224e2211b09628a5",
+      "statement": "对权势反应",
+      "annotation_character_ids": [
+        "weisili_shuangcheng_commissioner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83db3f4797f61a80",
+      "statement": "律师协助边界",
+      "annotation_character_ids": [
+        "weisili_da_heng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_54a4b7a2ff7016fb",
+      "statement": "归罪与羁押",
+      "annotation_character_ids": [
+        "weisili_shuangcheng_commissioner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_37627516e799dc62",
+      "statement": "监视",
+      "annotation_character_ids": [
+        "weisili_shuangcheng_commissioner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a3f8cc7934368f53",
+      "statement": "封机场后停职羁押保释",
+      "annotation_character_ids": [
+        "weisili_huang_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e06c638cfaaaa025",
+      "statement": "六岁四巧堂手语来源",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

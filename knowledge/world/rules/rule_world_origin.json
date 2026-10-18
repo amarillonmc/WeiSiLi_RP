@@ -1,0 +1,20 @@
+{
+  "id": "rule_world_origin",
+  "title": "多套起源解释并存，保留叙述层级",
+  "kind": "rule",
+  "epistemic_status": "synthesis",
+  "statement": "外星工程、生命播种、灵魂理论与宗教意象提供不同尺度的起源解释；若缺少直接连接，应保留各自证据范围。",
+  "rp_application": "可以把它们安排在同一世界，但不补写唯一创世神、统一进化阶梯或全宇宙统一时间单位。",
+  "limits": [
+    "长老自述的七种外星人及地球改造是具体历史证言。",
+    "其人口论和灾难预测是角色判断，不能当作已经发生的世界末日。"
+  ],
+  "schema_version": "1.0",
+  "section": "rules",
+  "evidence_ids": [
+    "evidence_2c549e9e349c9779"
+  ],
+  "book_ids": [
+    "book_202100bacdcc"
+  ]
+}

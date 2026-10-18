@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0",
+  "id": "book_b3303d3266ed",
+  "title": "黑白无常",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/25.黑白无常.txt",
+  "file": "books/book_b3303d3266ed.json",
+  "inherited_fact_count": 15,
+  "curated_links": {
+    "events": [
+      "y_black_white"
+    ],
+    "relations": [
+      "before__w_rhino__y_black_white"
+    ],
+    "bridges": [
+      "bridge_hu"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "d88954a9d8345ba805bb5c178f7a1219853b7104d5156f70736cf91d66ea54f4",
+  "source_lines": 2783,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查与解释"
+    },
+    {
+      "name": "胡怀玉",
+      "card_id": "weisili_hu_huaiyu",
+      "role": "单书主要行动者",
+      "basis": "海洋异变、夺宝与生育主线"
+    },
+    {
+      "name": "陈克生",
+      "card_id": "yuanzhenxia_chen_kesheng",
+      "role": "单书主要行动者",
+      "basis": "海洋异变、夺宝与生育主线"
+    },
+    {
+      "name": "仲大雅",
+      "card_id": "yuanzhenxia_zhong_daya",
+      "role": "跨书主线人物",
+      "basis": "海洋异变、夺宝与生育主线"
+    },
+    {
+      "name": "曹银雪",
+      "card_id": "yuanzhenxia_cao_yinxue",
+      "role": "重要配角",
+      "basis": "海洋异变、夺宝与生育主线"
+    },
+    {
+      "name": "姚正年",
+      "card_id": "yuanzhenxia_yao_zhengnian",
+      "role": "历史主线人物",
+      "basis": "海洋异变、夺宝与生育主线"
+    },
+    {
+      "name": "仲文量",
+      "card_id": "yuanzhenxia_zhong_wenliang",
+      "role": "反派",
+      "basis": "海洋异变、夺宝与生育主线"
+    },
+    {
+      "name": "黑白无常（异星访客）",
+      "card_id": "yuanzhenxia_heibai_wuchang",
+      "role": "重要配角",
+      "basis": "海洋异变、夺宝与生育主线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "被改变的渔民一家",
+      "reason": "异常现象与受害者线索，未建立独立反派或跨书行动线"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_ac7a614eb71390c8",
+      "statement": "海洋生物学者与调查开端",
+      "annotation_character_ids": [
+        "weisili_hu_huaiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_793f46c637297daa",
+      "statement": "履历及异常生物线索",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_kesheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c25174562708af65",
+      "statement": "明确跨书指认",
+      "annotation_character_ids": [
+        "weisili_hu_huaiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_be1086ed785b4cc2",
+      "statement": "后期仍有对自身感知的疑虑",
+      "annotation_character_ids": [
+        "weisili_hu_huaiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5349fbb657e6396",
+      "statement": "误认与接触",
+      "annotation_character_ids": [
+        "yuanzhenxia_heibai_wuchang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7efec0e404d112e",
+      "statement": "志向",
+      "annotation_character_ids": [
+        "yuanzhenxia_yao_zhengnian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d9675e746ec236eb",
+      "statement": "愿望",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhong_wenliang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_474d14a5f0b0fddc",
+      "statement": "夺取、丢弃、补偿与隐瞒",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhong_wenliang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a89bbac26f383ef4",
+      "statement": "两项异术及报复",
+      "annotation_character_ids": [
+        "yuanzhenxia_yao_zhengnian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83c0d2086d7037b8",
+      "statement": "家族秘密和价值观",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhong_daya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_79445e087af96fa2",
+      "statement": "潜水与勇气",
+      "annotation_character_ids": [
+        "yuanzhenxia_cao_yinxue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7ccd6a5fda503fb2",
+      "statement": "合格潜水及实际出海",
+      "annotation_character_ids": [
+        "weisili_hu_huaiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d6fd2ba28b19ca8b",
+      "statement": "装置真相与研究边界",
+      "annotation_character_ids": [
+        "weisili_hu_huaiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b0b40c55f3c9917",
+      "statement": "真相及未获得装置",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_kesheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c189a56c8426c5e",
+      "statement": "设备损坏及限度",
+      "annotation_character_ids": [
+        "yuanzhenxia_heibai_wuchang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

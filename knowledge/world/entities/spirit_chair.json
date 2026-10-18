@@ -1,0 +1,34 @@
+{
+  "id": "spirit_chair",
+  "title": "灵椅与石台",
+  "kind": "object",
+  "summary": "可发声并提出结合主张的装置，吸引权力人物利用。",
+  "mechanism": {
+    "text": "接口的自述、实际展示和最终失败要分别处理；制造者及完整技术未明。",
+    "epistemic_status": "testimony"
+  },
+  "access_conditions": [
+    "对应灵椅、石台与操作条件"
+  ],
+  "limits": [
+    "威胁性主张不等于已经实现全球统治",
+    "终局没有兑现卡尔斯的扩张计划"
+  ],
+  "last_known_state": "装置归卡尔斯计划使用，未使其扩张成功。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "围绕是否结合装置、如何验证自述及如何拒绝权力诱惑展开。"
+  },
+  "character_ids": [
+    "yuanzhenxia_lingyi_interface"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_583fc26209394428",
+    "evidence_800485255118fa6e"
+  ],
+  "book_ids": [
+    "book_77f6858f5020"
+  ]
+}

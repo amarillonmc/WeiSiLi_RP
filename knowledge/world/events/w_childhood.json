@@ -1,0 +1,27 @@
+{
+  "id": "w_childhood",
+  "title": "少年卫斯理与神秘声音",
+  "kind": "event",
+  "summary": "少年卫斯理通过集中思念联络声音，处理况英豪被误抓等事；声音身份到后书才进一步揭明。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "卫斯理童年；书目位置晚于部分成年故事不改变发生时间。",
+    "narrative_layer": "recollection"
+  },
+  "state_before": "少年不明白声音背后的主体。",
+  "state_after": "建立特殊联络与委托经历，身份仍未揭明。",
+  "knowledge_boundary": "此时不能认识“一至四号”的完整关系；后来揭露不应回填童年对白。",
+  "character_ids": [
+    "weisili_wei_sili",
+    "weisili_yin_4"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_5aac8f8ec213639b"
+  ],
+  "book_ids": [
+    "book_7eed28bd703f"
+  ]
+}

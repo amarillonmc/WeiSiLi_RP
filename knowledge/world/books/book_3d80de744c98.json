@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0",
+  "id": "book_3d80de744c98",
+  "title": "虚像",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/030虚像.txt",
+  "file": "books/book_3d80de744c98.json",
+  "inherited_fact_count": 8,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "154c6af0612f06d9130d406a26fde0f971cab433e215a231e29808b84a4210fa",
+  "source_lines": 1812,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "江文涛",
+      "card_id": "weisili_jiang_wentao",
+      "role": "单书主角",
+      "basis": "沙漠虚像与实际对抗"
+    },
+    {
+      "name": "可罗娜",
+      "card_id": "weisili_keluona",
+      "role": "反派",
+      "basis": "沙漠虚像与实际对抗"
+    },
+    {
+      "name": "彭都",
+      "card_id": "weisili_pengdu",
+      "role": "反派",
+      "basis": "沙漠虚像与实际对抗"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_49a14c9aaa1e6817",
+      "statement": "职业与旅行",
+      "annotation_character_ids": [
+        "weisili_jiang_wentao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0ddbb0291655eaac",
+      "statement": "逃亡安排",
+      "annotation_character_ids": [
+        "weisili_pengdu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_753e63998216842a",
+      "statement": "残酷统治的认识",
+      "annotation_character_ids": [
+        "weisili_keluona"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e8dcab72639a1f4",
+      "statement": "揭穿计划",
+      "annotation_character_ids": [
+        "weisili_pengdu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0276fa3cd5a60e2c",
+      "statement": "匪帮婚配与追捕规则",
+      "annotation_character_ids": [
+        "weisili_keluona"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_27d80a0614011bac",
+      "statement": "反击和缺足",
+      "annotation_character_ids": [
+        "weisili_pengdu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2cfe28d757f41c28",
+      "statement": "真实与虚像的终局",
+      "annotation_character_ids": [
+        "weisili_jiang_wentao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3717a4333dadb6fc",
+      "statement": "抓捕及终局",
+      "annotation_character_ids": [
+        "weisili_keluona"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

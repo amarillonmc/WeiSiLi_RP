@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "id": "book_2d3443649105",
+  "title": "猎头禁地",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/44猎头禁地.txt",
+  "file": "books/book_2d3443649105.json",
+  "inherited_fact_count": 22,
+  "curated_links": {
+    "rules": [
+      "rule_mortality"
+    ],
+    "events": [
+      "m_annie_walks"
+    ],
+    "relations": [
+      "before__m_annie_family__m_marriage_swap",
+      "before__m_marriage_swap__m_annie_walks",
+      "before__m_annie_walks__m_annie_independent"
+    ],
+    "arcs": [
+      "arc_annie"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "a9fc87232e96b38fbcbe063d5dc0a23df73e5029e7387c0ae1dc6c2a4656b133",
+  "source_lines": 2746,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "王可丽",
+      "card_id": "mulanhua_wang_keli",
+      "role": "单书主角",
+      "basis": "求援、寻找哥哥，最终阻止屠杀而死。"
+    },
+    {
+      "name": "王可敬",
+      "card_id": "mulanhua_wang_kejing",
+      "role": "反派",
+      "basis": "假借神威控制族人并强迫采矿、杀人。"
+    },
+    {
+      "name": "毕卡族酋长",
+      "card_id": "mulanhua_bika_chief",
+      "role": "阶段性对立者",
+      "basis": "围车阻留、后接纳救援。"
+    },
+    {
+      "name": "毕卡族大巫师",
+      "card_id": "mulanhua_bika_shaman",
+      "role": "阶段性对立者",
+      "basis": "初次对峙与仪式影响。"
+    },
+    {
+      "name": "刚利族酋长",
+      "card_id": "mulanhua_gangli_chief",
+      "role": "阶段性对立者",
+      "basis": "首领仪式及受剥削后反抗被杀。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "跨书重要配角",
+      "basis": "解围、取奈比及处理王氏兄妹终局。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "同行与照顾安妮。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "受毒箭伤，最终恢复行走。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "制造探险车辆、驾驶与照顾伤者。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "跨书重要配角",
+      "basis": "安排器材并在机场迎接。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "毛得",
+      "reason": "一次性向导线索提供者，未构成独立主角或反派。"
+    },
+    {
+      "name": "被杀向导与脚夫、无名行刑者及巡逻兵",
+      "reason": "未个体化的背景受害者与群体执行者，不把全族自动合为一张反派。"
+    },
+    {
+      "name": "巨蟒、鳄鱼、水蛭",
+      "reason": "自然险境，不作为有角色逻辑的反派人物。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d07fc524be1251c3",
+      "statement": "年龄、家庭、书信求助与真实警讯。",
+      "annotation_character_ids": [
+        "mulanhua_wang_keli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f4e9135d7dab9aab",
+      "statement": "探险履历。",
+      "annotation_character_ids": [
+        "mulanhua_wang_kejing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3a5e0ab2d6e6a87d",
+      "statement": "初次戒备及受技术震慑。",
+      "annotation_character_ids": [
+        "mulanhua_bika_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8b65d15657aa496a",
+      "statement": "呼叫、坐骑中针、敏捷后跃与伏地。",
+      "annotation_character_ids": [
+        "mulanhua_bika_shaman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_54ccffc4f08e3efd",
+      "statement": "善意互动、王可敬线索与交换。",
+      "annotation_character_ids": [
+        "mulanhua_bika_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_28e09ea24bb5cb20",
+      "statement": "围车留客形成阶段性阻碍。",
+      "annotation_character_ids": [
+        "mulanhua_bika_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_34d76f41844075a0",
+      "statement": "借救援假装神圣、控制现场。",
+      "annotation_character_ids": [
+        "mulanhua_wang_kejing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_baddfbec66ef6cae",
+      "statement": "拒绝离开及围攻指使仍属推断。",
+      "annotation_character_ids": [
+        "mulanhua_wang_kejing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_18f008b13310df9c",
+      "statement": "自愿留下陪伴哥哥。",
+      "annotation_character_ids": [
+        "mulanhua_wang_keli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8cff2832b41274d6",
+      "statement": "接待与用动作说明毒箭危险。",
+      "annotation_character_ids": [
+        "mulanhua_bika_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9351ce76bde5eaa4",
+      "statement": "再次接待。",
+      "annotation_character_ids": [
+        "mulanhua_bika_shaman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5cc89005c63899ba",
+      "statement": "外貌、守卫与木罐仪式。",
+      "annotation_character_ids": [
+        "mulanhua_gangli_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4876bcec5a8b6d91",
+      "statement": "奈比实际储存与取用。",
+      "annotation_character_ids": [
+        "mulanhua_gangli_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c4e93e64d24a581",
+      "statement": "草棚仪式与真正抢救的区别。",
+      "annotation_character_ids": [
+        "mulanhua_bika_shaman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_417cdd1e6b8d692b",
+      "statement": "识别奈比并欢呼。",
+      "annotation_character_ids": [
+        "mulanhua_bika_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10e8045857ddd18d",
+      "statement": "恢复与原因未知",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_156d057f3f6a31fb",
+      "statement": "随队、争论、被枪杀及剥削目的。",
+      "annotation_character_ids": [
+        "mulanhua_gangli_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_380ebdeacebdf3d6",
+      "statement": "开枪屠杀、杀妹与惊象结局。",
+      "annotation_character_ids": [
+        "mulanhua_wang_kejing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb42f0eeec981925",
+      "statement": "劝阻屠杀、扑倒夺枪并被射杀。",
+      "annotation_character_ids": [
+        "mulanhua_wang_keli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_265a57ec4596a075",
+      "statement": "族人逃离未及带走其尸体。",
+      "annotation_character_ids": [
+        "mulanhua_gangli_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c9bce2a7bebde8e8",
+      "statement": "死亡与同伴不知道的安葬、隐瞒。",
+      "annotation_character_ids": [
+        "mulanhua_wang_keli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76356d25d426c8e3",
+      "statement": "机场独自行走",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,376 @@
+{
+  "schema_version": "1.0",
+  "id": "book_93164b8bdda7",
+  "title": "地底奇人",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/002地底奇人.txt",
+  "file": "books/book_93164b8bdda7.json",
+  "inherited_fact_count": 32,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "3393a567fed2c9033b76c2cd1229e3aa23f277e23f8030895452059df726a8ca",
+  "source_lines": 6982,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "调查、营救与终局关系"
+    },
+    {
+      "name": "白奇伟",
+      "card_id": "weisili_bai_qiwei",
+      "role": "阶段性对立者",
+      "basis": "钢板阴谋与后期和解"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "地下世界、发明与集会"
+    },
+    {
+      "name": "宋坚",
+      "card_id": "weisili_song_jian",
+      "role": "单书主角",
+      "basis": "共同寻宝与公共财产原则"
+    },
+    {
+      "name": "宋富",
+      "card_id": "weisili_song_fu",
+      "role": "反派",
+      "basis": "夺宝、毒箭和毒贩身份"
+    },
+    {
+      "name": "红红",
+      "card_id": "weisili_wang_honghong",
+      "role": "单书主角",
+      "basis": "独立选择与宋富同行"
+    },
+    {
+      "name": "杜仲",
+      "card_id": "weisili_du_zhong",
+      "role": "反派",
+      "basis": "召灵伪装及盗钢板操作"
+    },
+    {
+      "name": "里加度",
+      "card_id": "weisili_lijia_du",
+      "role": "反派",
+      "basis": "胡克党首领"
+    },
+    {
+      "name": "李根",
+      "card_id": "weisili_li_gen",
+      "role": "反派",
+      "basis": "武装对立"
+    },
+    {
+      "name": "石看天",
+      "card_id": "weisili_shi_kantian",
+      "role": "反派",
+      "basis": "受收买嫌疑与构陷"
+    },
+    {
+      "name": "刘阿根",
+      "card_id": "weisili_liu_agen",
+      "role": "反派",
+      "basis": "具名逼迫者"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "家庭关系与接应"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "秦正器",
+      "reason": "单书提供身份与避难配合的辅助角色，无独立主角线或跨书行动证据。"
+    },
+    {
+      "name": "黄彼德、程警官、田利东、于廷文",
+      "reason": "检索和传讯等辅助人物，未形成独立反派人格线；不以出现频率直接升级。"
+    },
+    {
+      "name": "死神、阴姓大师伯",
+      "reason": "本书只补述终局或授艺经历，引用前书主卡证据，不重复建卡。"
+    },
+    {
+      "name": "胡克党及各帮会普通成员",
+      "reason": "从属执行群体，无独立人物线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_389e039d63ef2fa4",
+      "statement": "成长背景和性格",
+      "annotation_character_ids": [
+        "weisili_wang_honghong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_289cbb5c3d780d86",
+      "statement": "召灵伪装",
+      "annotation_character_ids": [
+        "weisili_du_zhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_266709aa0b94b61f",
+      "statement": "传授幻影三式，机制是分散注意而非超自然幻影。",
+      "annotation_character_ids": [
+        "weisili_yin_shibo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c7d9f3b2369fdfb1",
+      "statement": "身份、赈灾与财产原则",
+      "annotation_character_ids": [
+        "weisili_song_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_501bd84d73ae4b8e",
+      "statement": "身份与构陷逻辑",
+      "annotation_character_ids": [
+        "weisili_liu_agen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a84533a6d44d192",
+      "statement": "身份、逼供与支票反应",
+      "annotation_character_ids": [
+        "weisili_shi_kantian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_218e439e2c26d4c2",
+      "statement": "后作明确称唐天翔死后，无死因细节。",
+      "annotation_character_ids": [
+        "weisili_tang_tianxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4745db775814d353",
+      "statement": "阻止查验",
+      "annotation_character_ids": [
+        "weisili_shi_kantian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_51a9a75cf12d8fc8",
+      "statement": "试图转移注意",
+      "annotation_character_ids": [
+        "weisili_shi_kantian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a72648de96a826f9",
+      "statement": "实验室和夺钢片机制",
+      "annotation_character_ids": [
+        "weisili_du_zhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d3e5780bb1a9b79e",
+      "statement": "会议中的权力指责",
+      "annotation_character_ids": [
+        "weisili_liu_agen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d58f13f53954c97e",
+      "statement": "败露后听令",
+      "annotation_character_ids": [
+        "weisili_du_zhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_313a48f12cb7f7ec",
+      "statement": "无法回答仍不服",
+      "annotation_character_ids": [
+        "weisili_liu_agen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_526f1438b9d60280",
+      "statement": "同貌造成误判与钢板计划",
+      "annotation_character_ids": [
+        "weisili_song_fu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e9e90ee61e614c5c",
+      "statement": "远摄器参数",
+      "annotation_character_ids": [
+        "weisili_du_zhong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3d5fac5e82cadfe7",
+      "statement": "主动同盟而非纯人质",
+      "annotation_character_ids": [
+        "weisili_wang_honghong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3ee8bb4153184dff",
+      "statement": "追索责任、武术与兄弟区别",
+      "annotation_character_ids": [
+        "weisili_song_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4c04660eafcf683c",
+      "statement": "与兄长不同的枪箭特长",
+      "annotation_character_ids": [
+        "weisili_song_fu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6af1d4c1ce0a0813",
+      "statement": "身份",
+      "annotation_character_ids": [
+        "weisili_lijia_du"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e94e2f726da57df8",
+      "statement": "来历与冒充首领",
+      "annotation_character_ids": [
+        "weisili_li_gen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2d984807c9a552c7",
+      "statement": "实际首领地位",
+      "annotation_character_ids": [
+        "weisili_lijia_du"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1436444b7d2a907d",
+      "statement": "利用与翻脸",
+      "annotation_character_ids": [
+        "weisili_lijia_du"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7860d8430439ba20",
+      "statement": "死亡及里加度利用",
+      "annotation_character_ids": [
+        "weisili_li_gen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_49937af90ade10df",
+      "statement": "公开维护宋富",
+      "annotation_character_ids": [
+        "weisili_wang_honghong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_65a6e0353b5f317f",
+      "statement": "教授身份与红红立场",
+      "annotation_character_ids": [
+        "weisili_song_fu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7827180c9b58500e",
+      "statement": "驾艇离去",
+      "annotation_character_ids": [
+        "weisili_lijia_du"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_09d44f3fdb3e7c07",
+      "statement": "空桶与拘禁白奇伟",
+      "annotation_character_ids": [
+        "weisili_lijia_du"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8e3513215bbf8a49",
+      "statement": "兄弟关切与共同撤离原则",
+      "annotation_character_ids": [
+        "weisili_song_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b801c440e54ccdcc",
+      "statement": "地层判断",
+      "annotation_character_ids": [
+        "weisili_song_fu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_17f3bf12b0276a6e",
+      "statement": "关切同伴",
+      "annotation_character_ids": [
+        "weisili_wang_honghong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0ecb89ec6443384c",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "weisili_wang_honghong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3a1aaec4f82b4f06",
+      "statement": "毒贩自白与终局",
+      "annotation_character_ids": [
+        "weisili_song_fu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

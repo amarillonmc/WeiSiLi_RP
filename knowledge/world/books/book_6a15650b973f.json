@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0",
+  "id": "book_6a15650b973f",
+  "title": "假太阳",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/27.假太阳.txt",
+  "file": "books/book_6a15650b973f.json",
+  "inherited_fact_count": 9,
+  "curated_links": {
+    "rules": [
+      "rule_plural_life",
+      "rule_alien_ethics"
+    ],
+    "entities": [
+      "aishen_world"
+    ],
+    "events": [
+      "y_maxian_recovery"
+    ],
+    "relations": [
+      "before__y_maxian_origin__y_blood_spell",
+      "before__y_blood_spell__y_spell_recoil",
+      "before__y_spell_recoil__y_maxian_recovery",
+      "before__y_maxian_recovery__y_disappearance"
+    ],
+    "arcs": [
+      "arc_maxian",
+      "arc_kangwei"
+    ],
+    "issues": [
+      "issue_nature_gods"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "8bd1f4fa234561a0f2c31508489acf05bee9150c41984d2fcae576f305a3db8d",
+  "source_lines": 2911,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "寻回玛仙"
+    },
+    {
+      "name": "玛仙",
+      "card_id": "yuanzhenxia_ma_xian",
+      "role": "主角",
+      "basis": "治疗与新生"
+    },
+    {
+      "name": "康维十七世",
+      "card_id": "yuanzhenxia_kangwei",
+      "role": "重要配角",
+      "basis": "机器生命与救援"
+    },
+    {
+      "name": "海棠",
+      "card_id": "yuanzhenxia_hai_tang",
+      "role": "重要配角",
+      "basis": "脑结构帮助"
+    },
+    {
+      "name": "李文",
+      "card_id": "yuanzhenxia_li_wen",
+      "role": "重要配角",
+      "basis": "治疗协作"
+    },
+    {
+      "name": "朱淑芬",
+      "card_id": "yuanzhenxia_zhu_shufen",
+      "role": "重要配角",
+      "basis": "治疗协作"
+    },
+    {
+      "name": "爱神星新生机械人",
+      "card_id": "yuanzhenxia_aishen_machines",
+      "role": "重要配角",
+      "basis": "自主与救援"
+    },
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "重要配角",
+      "basis": "提供联络帮助"
+    },
+    {
+      "name": "曲如眉",
+      "card_id": "adventure_qu_rumei",
+      "role": "重要配角",
+      "basis": "交通帮助"
+    },
+    {
+      "name": "八角星恋人",
+      "card_id": "adventure_bajiaoxing_yingzi",
+      "role": "重要配角",
+      "basis": "接触与交通协助"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_6bce224e44c7cc4b",
+      "statement": "危机与封锁",
+      "annotation_character_ids": [
+        "yuanzhenxia_aishen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f5d976f7092ad85",
+      "statement": "观察地带协助",
+      "annotation_character_ids": [
+        "yuanzhenxia_hai_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e2d0a30217c9b9cb",
+      "statement": "生命与活动身体的转变",
+      "annotation_character_ids": [
+        "yuanzhenxia_aishen_machines"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d5f8672ac7d83623",
+      "statement": "机械身份、接口、能力与自我认识",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6219cf4c5b9d65d1",
+      "statement": "资料中心与边界",
+      "annotation_character_ids": [
+        "yuanzhenxia_aishen_machines"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f63061fff25e814e",
+      "statement": "脑活动恢复增强",
+      "annotation_character_ids": [
+        "yuanzhenxia_ma_xian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_26ffb91ccf151883",
+      "statement": "后续",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhu_shufen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6f08cda32a460042",
+      "statement": "后续协作",
+      "annotation_character_ids": [
+        "yuanzhenxia_li_wen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8e709f6879bf6b1b",
+      "statement": "后续神经协作",
+      "annotation_character_ids": [
+        "yuanzhenxia_paradise_teachers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

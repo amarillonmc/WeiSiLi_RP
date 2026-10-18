@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "id": "book_2c323b3cec3b",
+  "title": "死亡爆炸网",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/14死亡爆炸网.txt",
+  "file": "books/book_2c323b3cec3b.json",
+  "inherited_fact_count": 19,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "7555f06269ca9bb505bca2c99eac26041dcd0e388ae785b6fd18d997e4d74528",
+  "source_lines": 2686,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木村谷",
+      "card_id": "mulanhua_kimuragu",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "顾大章",
+      "card_id": "mulanhua_gu_dazhang",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "于四夏",
+      "card_id": "mulanhua_yu_sixia",
+      "role": "反派/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "日新炼油厂董事会的阻挠者",
+      "card_id": "mulanhua_rixin_board",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "胡法天",
+      "card_id": "mulanhua_hu_fatian",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "吕元泰、孙中彦、洪警官、军火专家、地下基地枪手、老宅赌客等",
+      "reason": "一次性事务协助或执行人员；厂长的成本顾虑作为场景条件记录，不与匿名董事长合并。"
+    },
+    {
+      "name": "马超文、儿岛强介、儿岛谷温",
+      "reason": "仅被提及或回忆，未在本册实际行动。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_72b7a92b86d06829",
+      "statement": "实际越狱和油厂威胁",
+      "annotation_character_ids": [
+        "mulanhua_hu_fatian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f77f8e5230a26ee",
+      "statement": "身份、外观和挑战动机",
+      "annotation_character_ids": [
+        "mulanhua_kimuragu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8cb186b9446d12fe",
+      "statement": "实际武术表现及手骨受伤",
+      "annotation_character_ids": [
+        "mulanhua_kimuragu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_98ccab20739ef109",
+      "statement": "医学检查与奉承",
+      "annotation_character_ids": [
+        "mulanhua_yu_sixia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_002abf0b85589c16",
+      "statement": "职务及识破逮捕",
+      "annotation_character_ids": [
+        "mulanhua_gu_dazhang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4cfa446183efbffd",
+      "statement": "油塔位置、断梯和手枪",
+      "annotation_character_ids": [
+        "mulanhua_gu_dazhang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_375abfb8e3a2f3d5",
+      "statement": "对直升机开枪、失衡及死亡",
+      "annotation_character_ids": [
+        "mulanhua_gu_dazhang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9e4beeb4652510f3",
+      "statement": "麻醉首领后被攻心、开笼叛离",
+      "annotation_character_ids": [
+        "mulanhua_yu_sixia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5211d466b04519b",
+      "statement": "本人也受麻醉且身体较弱",
+      "annotation_character_ids": [
+        "mulanhua_hu_fatian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_be46ba2846285d44",
+      "statement": "胡法天通过他安排油厂事件",
+      "annotation_character_ids": [
+        "mulanhua_gu_dazhang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f358cd59ac7a02d0",
+      "statement": "身份履历、枪械与守井口实战",
+      "annotation_character_ids": [
+        "mulanhua_yu_sixia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_79458f7c08917af3",
+      "statement": "首领逃走与警方保护",
+      "annotation_character_ids": [
+        "mulanhua_yu_sixia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f948b83bc16e4f1",
+      "statement": "排库存争执和资格责难",
+      "annotation_character_ids": [
+        "mulanhua_rixin_board"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f2ac46208ab8d3cd",
+      "statement": "催问勒索条件",
+      "annotation_character_ids": [
+        "mulanhua_rixin_board"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a824afd274061d3",
+      "statement": "枪法、误杀同伙和再次被捕",
+      "annotation_character_ids": [
+        "mulanhua_hu_fatian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db2c256942aeeaa9",
+      "statement": "后续被突袭击昏",
+      "annotation_character_ids": [
+        "mulanhua_kimuragu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8ac970b3a37fe74b",
+      "statement": "被同伙误射死亡",
+      "annotation_character_ids": [
+        "mulanhua_kimuragu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b958ef0a59317dd4",
+      "statement": "假失忆、求生与炸药拆除",
+      "annotation_character_ids": [
+        "mulanhua_hu_fatian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_29841e4a5506cef0",
+      "statement": "爆炸解除后的反应",
+      "annotation_character_ids": [
+        "mulanhua_rixin_board"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

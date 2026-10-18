@@ -1,0 +1,470 @@
+{
+  "schema_version": "1.0",
+  "id": "book_7eed28bd703f",
+  "title": "少年卫斯理",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/94少年卫斯理.txt",
+  "file": "books/book_7eed28bd703f.json",
+  "inherited_fact_count": 41,
+  "curated_links": {
+    "rules": [
+      "rule_relative_time"
+    ],
+    "events": [
+      "w_childhood"
+    ],
+    "relations": [
+      "before__w_childhood__w_underworld_reveal"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "737691e69b80e689c81bbaab02f2dd690c5c9c9a6f523af5cad4c50f020a60bd",
+  "source_lines": 3331,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "铁蛋／铁旦",
+      "card_id": "weisili_tie_dan",
+      "role": "系列重要配角",
+      "basis": "少年传令兵及后续将军"
+    },
+    {
+      "name": "七堂叔",
+      "card_id": "weisili_wei_qishu",
+      "role": "重要配角",
+      "basis": "介绍师父与取得鬼竹"
+    },
+    {
+      "name": "阴间四号",
+      "card_id": "weisili_yin_4",
+      "role": "重要配角",
+      "basis": "102明确早年神秘联络者身份"
+    },
+    {
+      "name": "祝香香",
+      "card_id": "weisili_zhu_xiangxiang",
+      "role": "单书主角",
+      "basis": "少年主线及父辈旧事"
+    },
+    {
+      "name": "宣瑛",
+      "card_id": "weisili_xuan_ying",
+      "role": "单书主角",
+      "basis": "少年主线及父辈旧事"
+    },
+    {
+      "name": "王天兵",
+      "card_id": "weisili_wang_tianbing",
+      "role": "重要配角",
+      "basis": "少年主线及父辈旧事"
+    },
+    {
+      "name": "祝志强",
+      "card_id": "weisili_zhu_zhiqiang",
+      "role": "单书主角",
+      "basis": "少年主线及父辈旧事"
+    },
+    {
+      "name": "况志强",
+      "card_id": "weisili_kuang_zhiqiang",
+      "role": "单书主角",
+      "basis": "少年主线及父辈旧事"
+    },
+    {
+      "name": "况英豪",
+      "card_id": "weisili_kuang_yinghao",
+      "role": "单书主角",
+      "basis": "少年主线及父辈旧事"
+    },
+    {
+      "name": "大眼神",
+      "card_id": "weisili_dayanshen",
+      "role": "单篇主角",
+      "basis": "少年主线及父辈旧事"
+    },
+    {
+      "name": "大块（少年卫斯理）",
+      "card_id": "weisili_dakuai_school",
+      "role": "反派",
+      "basis": "少年主线及父辈旧事"
+    },
+    {
+      "name": "铁叔叔",
+      "card_id": "weisili_tie_shushu",
+      "role": "单篇主角",
+      "basis": "少年主线及父辈旧事"
+    },
+    {
+      "name": "胖汉奸（少年卫斯理）",
+      "card_id": "weisili_shaonian_collaborator",
+      "role": "短场景反派",
+      "basis": "短场景反派亦建卡，已知资料有限，原文未定部分留白"
+    },
+    {
+      "name": "两名漏网骑兵（少年卫斯理）",
+      "card_id": "weisili_shaonian_cavalry_survivors",
+      "role": "反派小组",
+      "basis": "短场景反派亦建卡，已知资料有限，原文未定部分留白"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "祝家祖辈及三姓创始人",
+      "reason": "背景家史，不将短段历史介绍扩大为主角。"
+    },
+    {
+      "name": "高级军官",
+      "reason": "单书重要解释者，后与成年卫重遇仍是本书回忆；未核实跨书独立身份。"
+    },
+    {
+      "name": "暗算祝志强的马夫",
+      "reason": "具体身份未定，可能与王天兵同人，暂在王、祝卡记录独立事件和疑点，不臆造新姓名。"
+    },
+    {
+      "name": "锄奸团其他成员",
+      "reason": "未分辨身份，不能按组织称谓增造个体。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_96583692d37148ae",
+      "statement": "毒虫与自主应对",
+      "annotation_character_ids": [
+        "weisili_zhu_xiangxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cf28abc7e050c352",
+      "statement": "欺凌、反击与退场",
+      "annotation_character_ids": [
+        "weisili_dakuai_school"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5ba299c0b60ac64b",
+      "statement": "自述罪责、死亡与毒物判断",
+      "annotation_character_ids": [
+        "weisili_shaonian_collaborator"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca30bcb5a8c51e46",
+      "statement": "蝎毒线索",
+      "annotation_character_ids": [
+        "weisili_zhu_xiangxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b2ad7a1dab23b21",
+      "statement": "同学身份",
+      "annotation_character_ids": [
+        "weisili_dayanshen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb505d39d97057d3",
+      "statement": "对大眼神的羞辱",
+      "annotation_character_ids": [
+        "weisili_dakuai_school"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_31d3375da83ef5d7",
+      "statement": "伪装环境",
+      "annotation_character_ids": [
+        "weisili_tie_shushu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6702093be29e8a0d",
+      "statement": "钥匙、诱饵与死亡",
+      "annotation_character_ids": [
+        "weisili_shaonian_cavalry_survivors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_870c0a9719cab366",
+      "statement": "身份揭露与行动",
+      "annotation_character_ids": [
+        "weisili_tie_shushu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f47a78a98514c38d",
+      "statement": "少年传令兵、叔侄伪装与后来成为将军",
+      "annotation_character_ids": [
+        "weisili_tie_dan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b1237517666d973f",
+      "statement": "武艺与初见",
+      "annotation_character_ids": [
+        "weisili_zhu_xiangxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c7ebd8dd8a01f47c",
+      "statement": "授业及状态",
+      "annotation_character_ids": [
+        "weisili_wang_tianbing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7e0dc755f63062a4",
+      "statement": "鬼竹与交游",
+      "annotation_character_ids": [
+        "weisili_wei_qishu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_506ba927049e2cf2",
+      "statement": "安抚和婚约",
+      "annotation_character_ids": [
+        "weisili_xuan_ying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f4d185767b66ea1c",
+      "statement": "关系与军职",
+      "annotation_character_ids": [
+        "weisili_kuang_zhiqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1415fe02ab67426b",
+      "statement": "背景与枪法",
+      "annotation_character_ids": [
+        "weisili_kuang_yinghao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7ed7f457f70fb28b",
+      "statement": "能力、恐惧与比赛",
+      "annotation_character_ids": [
+        "weisili_dayanshen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f63323f6eb2aa568",
+      "statement": "比赛与友谊",
+      "annotation_character_ids": [
+        "weisili_kuang_yinghao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8091674fabcbf64e",
+      "statement": "欣赏少年",
+      "annotation_character_ids": [
+        "weisili_kuang_zhiqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_57907f6f52fe701e",
+      "statement": "离场",
+      "annotation_character_ids": [
+        "weisili_dayanshen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5a8ce0a60598b442",
+      "statement": "恐惧",
+      "annotation_character_ids": [
+        "weisili_kuang_yinghao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a0420cbe154fd929",
+      "statement": "理解少年",
+      "annotation_character_ids": [
+        "weisili_wei_qishu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b01cc49abe9ecda5",
+      "statement": "保护母亲",
+      "annotation_character_ids": [
+        "weisili_zhu_xiangxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1c5790c13e047345",
+      "statement": "怒意与搜索边界",
+      "annotation_character_ids": [
+        "weisili_kuang_zhiqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5aac8f8ec213639b",
+      "statement": "误抓、释放、委托与识别限制",
+      "annotation_character_ids": [
+        "weisili_yin_4"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d4a58ba07fd9e295",
+      "statement": "归来",
+      "annotation_character_ids": [
+        "weisili_kuang_yinghao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_162a2cdcafe8ba39",
+      "statement": "碎竹",
+      "annotation_character_ids": [
+        "weisili_wang_tianbing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eaef6eebd9338ee7",
+      "statement": "武学与失态",
+      "annotation_character_ids": [
+        "weisili_xuan_ying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_91941a622a0cdf9a",
+      "statement": "青年成就与落差",
+      "annotation_character_ids": [
+        "weisili_wang_tianbing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cbeb91a25f293440",
+      "statement": "选择及受袭",
+      "annotation_character_ids": [
+        "weisili_xuan_ying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ec69dc13278510ee",
+      "statement": "实际追杀",
+      "annotation_character_ids": [
+        "weisili_wang_tianbing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cda4ba07e9f99235",
+      "statement": "关系、边界与军职",
+      "annotation_character_ids": [
+        "weisili_zhu_zhiqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8abbee13abee906c",
+      "statement": "夜袭任务",
+      "annotation_character_ids": [
+        "weisili_zhu_zhiqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3de9ea406dfa1f5f",
+      "statement": "伤势、沉默与死亡",
+      "annotation_character_ids": [
+        "weisili_zhu_zhiqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f50983fc7c9fe295",
+      "statement": "暗算疑点",
+      "annotation_character_ids": [
+        "weisili_wang_tianbing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_93efe2f5ca03a770",
+      "statement": "旧仇",
+      "annotation_character_ids": [
+        "weisili_kuang_zhiqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d4d0aee8032e9720",
+      "statement": "终局决定",
+      "annotation_character_ids": [
+        "weisili_zhu_xiangxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f34212a6a4cfdbdc",
+      "statement": "疑点与终局",
+      "annotation_character_ids": [
+        "weisili_xuan_ying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_81c9cced9e36183b",
+      "statement": "判断与终局",
+      "annotation_character_ids": [
+        "weisili_kuang_yinghao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82a14a913b72013b",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "weisili_kuang_zhiqiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dba20eb5040fd12a",
+      "statement": "鼓励出行",
+      "annotation_character_ids": [
+        "weisili_wei_qishu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

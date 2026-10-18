@@ -1,0 +1,214 @@
+{
+  "schema_version": "1.0",
+  "id": "book_77ccd1a6eaff",
+  "title": "迷失乐园",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/19.迷失乐园.txt",
+  "file": "books/book_77ccd1a6eaff.json",
+  "inherited_fact_count": 16,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "4d5ece0644c482f7d977e4fe1dcebb3140550ca3406b9de5ef674bedaf19bc8e",
+  "source_lines": 4379,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查与认知冲突"
+    },
+    {
+      "name": "海棠",
+      "card_id": "yuanzhenxia_hai_tang",
+      "role": "主角",
+      "basis": "以玫瑰身份加入乐园"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "调查"
+    },
+    {
+      "name": "李文",
+      "card_id": "yuanzhenxia_li_wen",
+      "role": "重要配角",
+      "basis": "主要叙事与终局行动"
+    },
+    {
+      "name": "朱淑芬",
+      "card_id": "yuanzhenxia_zhu_shufen",
+      "role": "重要配角",
+      "basis": "主要叙事与终局行动"
+    },
+    {
+      "name": "豪特",
+      "card_id": "yuanzhenxia_haote",
+      "role": "单书主角",
+      "basis": "主要叙事与终局行动"
+    },
+    {
+      "name": "卓克",
+      "card_id": "yuanzhenxia_zhuoke",
+      "role": "单书核心人物",
+      "basis": "主要叙事与终局行动"
+    },
+    {
+      "name": "海底乐园的三触须传授者",
+      "card_id": "yuanzhenxia_paradise_teachers",
+      "role": "集体主要角色",
+      "basis": "主要叙事与终局行动"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "李老先生",
+      "reason": "一次性求助者，作为李文父亲的关系记录"
+    },
+    {
+      "name": "玫瑰父母",
+      "reason": "未具名共同改造者，未见独立叙事线"
+    },
+    {
+      "name": "小郭调查员",
+      "reason": "一次性执行者"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_7ca31322487f8cb2",
+      "statement": "职业与理想",
+      "annotation_character_ids": [
+        "yuanzhenxia_li_wen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9639846e6fbbee0c",
+      "statement": "身份与态度",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhu_shufen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a4cbf68397abd138",
+      "statement": "惊惧后的状态",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhuoke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0d8daf73a133e5fc",
+      "statement": "死亡经过",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhuoke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e831f6d62eeae2a",
+      "statement": "卓克事件",
+      "annotation_character_ids": [
+        "yuanzhenxia_haote"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_07db034e701959f1",
+      "statement": "留下疑点",
+      "annotation_character_ids": [
+        "yuanzhenxia_haote"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0451a6942b88a8a5",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_haote"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eb485a3a6f2ff2ba",
+      "statement": "计划与立场",
+      "annotation_character_ids": [
+        "yuanzhenxia_paradise_teachers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_53e144c44b290359",
+      "statement": "乐园与改变",
+      "annotation_character_ids": [
+        "yuanzhenxia_li_wen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dcfd3d6ce9e749b8",
+      "statement": "立场",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhu_shufen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5eac0f24903e3fd0",
+      "statement": "知识传授及迁移",
+      "annotation_character_ids": [
+        "yuanzhenxia_li_wen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e968a3dbabe9dd5f",
+      "statement": "展示与地位",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhu_shufen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_220aafe776c5af62",
+      "statement": "身体和技术",
+      "annotation_character_ids": [
+        "yuanzhenxia_paradise_teachers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2ff103942ee0a646",
+      "statement": "知识传授",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhu_shufen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ae1288761146f8f1",
+      "statement": "真相",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhuoke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d99005e58261ac61",
+      "statement": "误解说明",
+      "annotation_character_ids": [
+        "yuanzhenxia_haote"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

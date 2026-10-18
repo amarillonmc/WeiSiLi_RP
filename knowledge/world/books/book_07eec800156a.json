@@ -1,0 +1,222 @@
+{
+  "schema_version": "1.0",
+  "id": "book_07eec800156a",
+  "title": "再来一次",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/021再来一次.txt",
+  "file": "books/book_07eec800156a.json",
+  "inherited_fact_count": 17,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "1e687dd800c094808c838ae456168e9bab9c41c4b45b3766832055558e0df475",
+  "source_lines": 1684,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "跨书重要配角",
+      "basis": "识别失踪老人并提供车辆线索。"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "跨书重要配角",
+      "basis": "诱查、被控制及追踪实验地点。"
+    },
+    {
+      "name": "杰克",
+      "card_id": "weisili_jieke",
+      "role": "跨书重要配角",
+      "basis": "负责老人失踪案的警官。"
+    },
+    {
+      "name": "蒙博士",
+      "card_id": "weisili_meng_boshi",
+      "role": "单书主角及阶段对立者",
+      "basis": "试验、隐藏后果、承担照护。"
+    },
+    {
+      "name": "两名接引学生",
+      "card_id": "weisili_meng_two_students",
+      "role": "阶段性对立者",
+      "basis": "控制调查者与封锁地址。"
+    },
+    {
+      "name": "第一位可交流再生者",
+      "card_id": "weisili_first_regrown_person",
+      "role": "单书主线人物",
+      "basis": "相遇和学习体现新生命主体。"
+    },
+    {
+      "name": "郭老先生",
+      "card_id": "weisili_guo_elder_regrown",
+      "role": "单书主线人物",
+      "basis": "有姓名关系锚点、决定及个体实验结果。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "郭老太太及其余未能稳定对应的再生者",
+      "reason": "参与实验属实，但除已单列者之外缺乏稳定个体对应、独立主线行为与终局人格信息，不杜撰逐人卡。"
+    },
+    {
+      "name": "布朗、布朗太太、占太太、占先生",
+      "reason": "夏威夷线索提供及家庭经营人物，没有明确独立主角或反派线；布朗口头驱逐未落实为战斗。"
+    },
+    {
+      "name": "郭奎、未名女助手和其余助手",
+      "reason": "家属信息或团队后勤；缺少独立主线，迁离选择并入博士证据。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_87779e6c3b5f2d9f",
+      "statement": "夫妻的衰老感与接受邀请",
+      "annotation_character_ids": [
+        "weisili_guo_elder_regrown"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a51c1626b69cfb47",
+      "statement": "身份背景和失踪",
+      "annotation_character_ids": [
+        "weisili_guo_elder_regrown"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_abd9bd2ace57c4f4",
+      "statement": "埋伏、假枪与心理诱导",
+      "annotation_character_ids": [
+        "weisili_meng_two_students"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_36fe535189e5d08d",
+      "statement": "自愿记录",
+      "annotation_character_ids": [
+        "weisili_guo_elder_regrown"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b3ec68eda0ea6c0d",
+      "statement": "同意文件与隐瞒",
+      "annotation_character_ids": [
+        "weisili_meng_boshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4bb3ceeadbf5ed82",
+      "statement": "追踪装置被移走",
+      "annotation_character_ids": [
+        "weisili_meng_two_students"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_37231077a9843715",
+      "statement": "首次出现的形体与行为",
+      "annotation_character_ids": [
+        "weisili_first_regrown_person"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_34ecddb70c242690",
+      "statement": "氧气箱形体及博士说明",
+      "annotation_character_ids": [
+        "weisili_guo_elder_regrown"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b3deaca4db588b41",
+      "statement": "注射及意外返始",
+      "annotation_character_ids": [
+        "weisili_meng_boshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_546e8c57b7acc04e",
+      "statement": "受佯称指令骗过",
+      "annotation_character_ids": [
+        "weisili_meng_two_students"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7dcc44b7f091dcf5",
+      "statement": "与两名妇人相遇",
+      "annotation_character_ids": [
+        "weisili_first_regrown_person"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8b724c66326ee545",
+      "statement": "救醒邻居并否认所见",
+      "annotation_character_ids": [
+        "weisili_meng_two_students"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6f398ef2657aa741",
+      "statement": "智力增长、文字与互相恐惧",
+      "annotation_character_ids": [
+        "weisili_meng_boshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d3a505f9821cdcb2",
+      "statement": "学习、书写及自身恐惧",
+      "annotation_character_ids": [
+        "weisili_first_regrown_person"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b8428d11cc62f7c4",
+      "statement": "停止新试验与照护计划",
+      "annotation_character_ids": [
+        "weisili_meng_boshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a57fce9e01318df",
+      "statement": "搬离后失踪",
+      "annotation_character_ids": [
+        "weisili_meng_boshi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9c06280c57abedae",
+      "statement": "群体下落未知",
+      "annotation_character_ids": [
+        "weisili_first_regrown_person"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

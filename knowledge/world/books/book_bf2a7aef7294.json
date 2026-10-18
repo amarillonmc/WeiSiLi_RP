@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.0",
+  "id": "book_bf2a7aef7294",
+  "title": "亚洲皇后",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/27亚洲皇后.txt",
+  "file": "books/book_bf2a7aef7294.json",
+  "inherited_fact_count": 13,
+  "curated_links": {
+    "arcs": [
+      "arc_gaosi",
+      "arc_liyufang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "9ca49604a279d1117f564ff26d81e9bf036bd7b6b534c47891306055314bb7bf",
+  "source_lines": 545,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "亚洲皇后",
+      "card_id": "gaosi_asia_queen",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "亚洲皇后的接引女郎",
+      "card_id": "gaosi_asia_guide",
+      "role": "反派/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "亚洲皇后的地窖巡查者",
+      "card_id": "gaosi_asia_cell_guard",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "结尾递信的绿衣女子",
+      "reason": "原文明确不是接引女郎，只完成一次投信，是否知情参与犯罪未明。"
+    },
+    {
+      "name": "据点其他士兵、船员、司机",
+      "reason": "未有可区分独立人物身份，作为组织条件性资源记录。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_23c6c3c6a8b540c8",
+      "statement": "外观、识名与接近",
+      "annotation_character_ids": [
+        "gaosi_asia_guide"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1108fb455ae9cd46",
+      "statement": "限制活动、个人界限及交通能力",
+      "annotation_character_ids": [
+        "gaosi_asia_guide"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_05ed8a71d8d149f3",
+      "statement": "见首领时的态度",
+      "annotation_character_ids": [
+        "gaosi_asia_guide"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2383e6bdd7c6d3de",
+      "statement": "外貌与称号",
+      "annotation_character_ids": [
+        "gaosi_asia_queen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b75ba3153dba91d",
+      "statement": "金钱招揽、武力与地窖机关",
+      "annotation_character_ids": [
+        "gaosi_asia_queen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e7047f075e01eee3",
+      "statement": "组织及断食胁迫",
+      "annotation_character_ids": [
+        "gaosi_asia_queen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_50fe6be81187ae4f",
+      "statement": "严格分配食水与静息求生，仍严重衰弱",
+      "annotation_character_ids": [
+        "gaosi_li_yufang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72d5754df02955ae",
+      "statement": "共同以静卧、瑜珈和节食减耗，仍几近死亡",
+      "annotation_character_ids": [
+        "gaosi_gao_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0aeebb712bc184b2",
+      "statement": "借高斯扑击机会击杀巡查者，随即力竭",
+      "annotation_character_ids": [
+        "gaosi_li_yufang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_36d16e7a2b2f95c8",
+      "statement": "误判死亡、撤退和形貌公开",
+      "annotation_character_ids": [
+        "gaosi_asia_queen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d0a78cf13f6626d8",
+      "statement": "检查、报告、撤离命令及死亡",
+      "annotation_character_ids": [
+        "gaosi_asia_cell_guard"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_42ef4ac8c80e4639",
+      "statement": "密信与整容计划",
+      "annotation_character_ids": [
+        "gaosi_asia_queen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f28ce9b0c364836",
+      "statement": "结尾明确是另一女子",
+      "annotation_character_ids": [
+        "gaosi_asia_guide"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

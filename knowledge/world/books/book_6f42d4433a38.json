@@ -1,0 +1,401 @@
+{
+  "schema_version": "1.0",
+  "id": "book_6f42d4433a38",
+  "title": "烈火女",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/089烈火女.txt",
+  "file": "books/book_6f42d4433a38.json",
+  "inherited_fact_count": 18,
+  "curated_links": {
+    "events": [
+      "w_hongling_choices"
+    ],
+    "relations": [
+      "before__w_family_recovery__w_hongling_choices",
+      "before__w_hongling_choices__w_miao_contact"
+    ],
+    "arcs": [
+      "arc_hongling"
+    ],
+    "issues": [
+      "issue_truthful_views"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "d5e3ac012a9d66ec67eb57ec8651f69aae8dfbc34ac0f965b1be45ed92f9b143",
+  "source_lines": 3105,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "亲自调查、决断与叙述"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "实际参与调查、家庭选择与行动"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "实际参与线索和行动"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "主角",
+      "basis": "关系与自主能力发展的中心人物"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "主角",
+      "basis": "身世、婚配与苗疆行动中心"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "赴苗疆、银猿冲突与观察"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "赴苗疆、银猿冲突与观察"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "卫家接待"
+    },
+    {
+      "name": "陈耳",
+      "card_id": "weisili_chen_er",
+      "role": "重要配角",
+      "basis": "直升机与调查设备联络"
+    },
+    {
+      "name": "猛哥",
+      "card_id": "weisili_mengge",
+      "role": "主角",
+      "basis": "救生、寻父、姑母与身世解释"
+    },
+    {
+      "name": "金凤",
+      "card_id": "weisili_jin_feng",
+      "role": "主角",
+      "basis": "烈火女程序与拒绝的回忆中心"
+    },
+    {
+      "name": "陈月梅",
+      "card_id": "weisili_chen_yuemei",
+      "role": "主角",
+      "basis": "产女、用一次神虫助力和死亡"
+    },
+    {
+      "name": "何先达",
+      "card_id": "weisili_he_xianda",
+      "role": "主角",
+      "basis": "悔过记录与寻父线索"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "救金凤、拒婚赠虫的回忆行动"
+    },
+    {
+      "name": "陈月兰",
+      "card_id": "weisili_chen_yuelan",
+      "role": "重要配角",
+      "basis": "红绫身世与异星线索中心"
+    },
+    {
+      "name": "苗疆外星访问者",
+      "card_id": "weisili_miao_alien_visitors",
+      "role": "重要配角",
+      "basis": "脑操作、转化邀约与基地门控"
+    },
+    {
+      "name": "穿背心银猿",
+      "card_id": "weisili_silver_ape_vest",
+      "role": "重要配角",
+      "basis": "与红绫亲情和头部手术线索"
+    },
+    {
+      "name": "银猿同伴",
+      "card_id": "weisili_silver_ape_companion",
+      "role": "重要配角",
+      "basis": "与红绫亲情和头部手术线索"
+    },
+    {
+      "name": "黄豪",
+      "card_id": "weisili_huang_hao",
+      "role": "阶段性对立者",
+      "basis": "开篇在陈安安身体中接受询问并隐藏身份"
+    },
+    {
+      "name": "陈父",
+      "card_id": "weisili_chen_anan_father",
+      "role": "重要配角",
+      "basis": "实际接待并接受交还女儿"
+    },
+    {
+      "name": "陈母",
+      "card_id": "weisili_chen_anan_mother",
+      "role": "重要配角",
+      "basis": "实际接待并亲近温宝裕"
+    },
+    {
+      "name": "困敦（当代鼠天官）",
+      "card_id": "weisili_tg_kun_dun",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "赤奋若（当代牛天官）",
+      "card_id": "weisili_tg_chi_fenruo",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "摄提格（当代虎天官）",
+      "card_id": "weisili_tg_she_tige",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "单阏（当代兔天官）",
+      "card_id": "weisili_tg_dan_e",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "执徐（当代龙天官）",
+      "card_id": "weisili_tg_zhi_xu",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "大荒落（当代蛇天官）",
+      "card_id": "weisili_tg_da_huangluo",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "敦牂（当代马天官）",
+      "card_id": "weisili_tg_dun_zang",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "协洽（当代羊天官）",
+      "card_id": "weisili_tg_xie_qia",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "涒滩（当代猴天官）",
+      "card_id": "weisili_tg_tun_tan",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "作噩（当代鸡天官）",
+      "card_id": "weisili_tg_zuo_e",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "阉茂（当代狗天官）",
+      "card_id": "weisili_tg_yan_mao",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "大渊献（当代猪天官）",
+      "card_id": "weisili_tg_da_yuanxian",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "陈安安原本人",
+      "reason": "仅身体被黄豪使用，不把他人的回答归给她"
+    },
+    {
+      "name": "历任未具名烈火女",
+      "reason": "仪式遗骸与传说，未能区分个人且无可核独立人格行动"
+    },
+    {
+      "name": "原振侠、海棠、玛仙",
+      "reason": "以往转化与巫术案例提及，不是本案实际参与者"
+    },
+    {
+      "name": "金凤之前的烈火女",
+      "reason": "只在仪式传承和金凤接近中出现的背景，无独立主线"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_fef9ff1f4f9f9cf6",
+      "statement": "夫妇实际接待卫温、交还身体后接受孩子并外出",
+      "annotation_character_ids": [
+        "weisili_chen_anan_father",
+        "weisili_chen_anan_mother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2168c3633226ffa3",
+      "statement": "头部手术痕迹",
+      "annotation_character_ids": [
+        "weisili_silver_ape_companion",
+        "weisili_silver_ape_vest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_118bb55ae4b472d7",
+      "statement": "头部查看与亲人保护",
+      "annotation_character_ids": [
+        "weisili_silver_ape_companion",
+        "weisili_silver_ape_vest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d25d701d02cfc16b",
+      "statement": "产女、获救婴儿与母亲死亡",
+      "annotation_character_ids": [
+        "weisili_chen_yuemei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8510ef5398e5c19a",
+      "statement": "族长、辨识材料与救助接生",
+      "annotation_character_ids": [
+        "weisili_mengge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_95be7a90aeaebca3",
+      "statement": "一愿神虫与守诺条件",
+      "annotation_character_ids": [
+        "weisili_mengge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7c943c13cfd6f4b",
+      "statement": "一次身体愿望使其暂时复苏并托付寻父，此后对她失效",
+      "annotation_character_ids": [
+        "weisili_chen_yuemei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_06f48d7a1a70052c",
+      "statement": "放婴顺流与占算信念",
+      "annotation_character_ids": [
+        "weisili_mengge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c7c6cdd97d968b3",
+      "statement": "纹身实际由猛哥安排，限制神意解释",
+      "annotation_character_ids": [
+        "weisili_lan_dongzhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_32241b1db2fd30cb",
+      "statement": "家族身份、潜入和烈火女经历",
+      "annotation_character_ids": [
+        "weisili_jin_feng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9014796c06a49837",
+      "statement": "山崩获救、求婚被拒与赠虫",
+      "annotation_character_ids": [
+        "weisili_jin_feng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f7601fcf4588645",
+      "statement": "拒绝脑改造和焚身，入口受设备限制",
+      "annotation_character_ids": [
+        "weisili_jin_feng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fe21f429373714c0",
+      "statement": "金凤叙述入口、脑操作及拒绝",
+      "annotation_character_ids": [
+        "weisili_miao_alien_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aab59b6dd291df33",
+      "statement": "异星脑改造仍是假说",
+      "annotation_character_ids": [
+        "weisili_chen_yuelan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_19b6a2861f02bfe5",
+      "statement": "阅读忏悔及继续寻父",
+      "annotation_character_ids": [
+        "weisili_mengge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bc62225251412e94",
+      "statement": "何的忏悔证实侵害与女儿得知身世",
+      "annotation_character_ids": [
+        "weisili_chen_yuemei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dd1c60aa81859e82",
+      "statement": "侵害、长期忏悔及女儿寻父办法",
+      "annotation_character_ids": [
+        "weisili_he_xianda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d7ff2aa7e94f812",
+      "statement": "保护银猿与母女关系中的成长",
+      "annotation_character_ids": [
+        "weisili_hong_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "before__y_heisha__y_body_rescue",
+  "source": "y_heisha",
+  "target": "y_body_rescue",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "受罚的黑纱后来在救援中牺牲并留下身体。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "受罚的黑纱后来在救援中牺牲并留下身体。",
+  "evidence_ids": [
+    "evidence_54e6041b00751529",
+    "evidence_ee4464a82b653c4e",
+    "evidence_6a9ac53e37a6ace3",
+    "evidence_e5e903ecd7cafc86",
+    "evidence_038c14f9c81590cb"
+  ],
+  "book_ids": [
+    "book_4b64c28681b2",
+    "book_b918ee450d56"
+  ]
+}

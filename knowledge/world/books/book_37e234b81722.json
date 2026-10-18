@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0",
+  "id": "book_37e234b81722",
+  "title": "潜艇迷宫",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/29潜艇迷宫.txt",
+  "file": "books/book_37e234b81722.json",
+  "inherited_fact_count": 14,
+  "curated_links": {
+    "arcs": [
+      "arc_gaoxiang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "0d9b77bdf955d3c135b7a2a3d74588c65bfaf811df6f83d39691e22704212c6d",
+  "source_lines": 2576,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "杜道夫",
+      "card_id": "mulanhua_dudaofu",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "威勒中校",
+      "card_id": "mulanhua_weile",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "杜道夫派出的男女监视者",
+      "card_id": "mulanhua_submarine_surveillance_pair",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "达扬、蒙丹少将、阿瑟及法军潜水人员",
+      "reason": "本书政治背景或单次调查协作者，未展开独立反派线；不借现实同名人物补履历。"
+    },
+    {
+      "name": "加士度男爵",
+      "reason": "仅作拉丁美洲情报负责人提及，没有个人实际行动链。"
+    },
+    {
+      "name": "杰夫、弗德烈中尉、守卫及控制室军官",
+      "reason": "一次对话或机关守备者，无跨书身份链；弗德烈不可因译名相似与卫035佛德烈或木53人物合并。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_a3255b4a67b2f49b",
+      "statement": "身份、隐匿及资源",
+      "annotation_character_ids": [
+        "mulanhua_dudaofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d26ef910dc22a6ff",
+      "statement": "迷惑设备与政变目标",
+      "annotation_character_ids": [
+        "mulanhua_dudaofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7588e86b8c09bee9",
+      "statement": "拒绝屈服及人质",
+      "annotation_character_ids": [
+        "mulanhua_dudaofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e45e91e10f05d25b",
+      "statement": "接头、履历、助手任命和会议地点",
+      "annotation_character_ids": [
+        "mulanhua_weile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_31c0769cde80ce98",
+      "statement": "找到酒店、假电报和枪口",
+      "annotation_character_ids": [
+        "mulanhua_submarine_surveillance_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8b6b78e5b9fb60fc",
+      "statement": "夺人质失败及权限反制",
+      "annotation_character_ids": [
+        "mulanhua_submarine_surveillance_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb57b4d488f31d62",
+      "statement": "暴露后留下行动窗口",
+      "annotation_character_ids": [
+        "mulanhua_submarine_surveillance_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a5cacbd80c72ba82",
+      "statement": "会议与准备",
+      "annotation_character_ids": [
+        "mulanhua_weile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2a58de6cd798fdf3",
+      "statement": "放松监视",
+      "annotation_character_ids": [
+        "mulanhua_dudaofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2911b9ca5ea14d40",
+      "statement": "反攻与潜艇爆炸",
+      "annotation_character_ids": [
+        "mulanhua_dudaofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63281edff53582e5",
+      "statement": "潜艇攻击、误认木死与情绪崩溃",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8803002672fe8ab5",
+      "statement": "死亡和资源处置",
+      "annotation_character_ids": [
+        "mulanhua_dudaofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b2ea5f8548a0a6a",
+      "statement": "网络名单终局",
+      "annotation_character_ids": [
+        "mulanhua_weile"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c740fd52ca77ad55",
+      "statement": "网络处置",
+      "annotation_character_ids": [
+        "mulanhua_submarine_surveillance_pair"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

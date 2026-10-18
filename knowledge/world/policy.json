@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "title": "统一世界、事件偏序与 RP 状态知识库",
+  "premise": {
+    "epistemic_status": "adaptation",
+    "text": "按用户要求，336个文本置于同一世界背景。明确串场作为原作连接；其余共存是项目假设，不反推互相认识或统一幕后。"
+  },
+  "source_hierarchy": [
+    "本地清理后正文与可定位行号",
+    "既有角色卡的证据注释（继承资料，未冒称本轮全文重读）",
+    "跨书整合分析",
+    "为RP明确指定的改编"
+  ],
+  "epistemic_statuses": {
+    "textual_fact": "叙述明确呈现的事件或效果；不代表所有角色知道。",
+    "testimony": "人物、接口或叙述者对未独立展示机制及过去的说明；可质疑或被更正。",
+    "hypothesis": "书中或当事人的未定假说。",
+    "unresolved": "明确保留身份、机制、结局等未知。",
+    "synthesis": "本项目依据多处材料的归纳；不是原文逐字法则。",
+    "adaptation": "用户统一前提、RP建议或场景人为约定。"
+  },
+  "time_policy": {
+    "calendar": "没有足够证据建立全书公历年表。本批关键节点calendar_date为null，不能由文件号、出版年或新闻年份填充。",
+    "order": "before才构成先后约束；revealed_by仅说明获知关系。synthesis类型先后可在检索时显式纳入。未连通的两事件先后未知，不等于同时。",
+    "layers": [
+      "present",
+      "recollection",
+      "reported_past",
+      "revelation",
+      "multi_event_group"
+    ],
+    "scene": "历史场景以已完成事件集及角色已知信息建立；原作结局、角色卡参战部署与用户场景改编分开。",
+    "absolute_anchors": "非人协会序中的三月一日为年度聚会月日；《天人》文末1981年9月27日是嵌入新闻日期，不据此指定全书事件日期。"
+  },
+  "coverage_policy": {
+    "book_index": "每个文本均有独立事件证据档案，继承已有角色证据并保留来源ID。",
+    "curation": "规则、实体、重点事件、成长线、跨系列桥与争议是本轮另行整理；只在实际关联的文本上计数。",
+    "direct_review": "单独统计本轮直接回读正文的引用，不把继承注释冒充本轮全文校读。",
+    "not_claimed": [
+      "336部作品全部重新通读",
+      "全部世界观实体与情节穷尽",
+      "每个事件都能排序或确定日期",
+      "所有矛盾均已消除"
+    ]
+  },
+  "scene_fields": [
+    "completed_event_ids",
+    "current_location",
+    "participant_character_ids",
+    "body_state",
+    "relationships",
+    "knows",
+    "believes",
+    "suspects",
+    "resources_present",
+    "unavailable_resources",
+    "open_questions",
+    "scenario_overrides"
+  ],
+  "series_profiles": [
+    {
+      "series": "卫斯理系列",
+      "role": "以家庭和朋友网络串起江湖、异星、身份与思想自由问题。",
+      "ordering": "多条长线及回忆穿插，两个002和特殊编号仅作定位。"
+    },
+    {
+      "series": "原振侠系列",
+      "role": "医疗入口通向巫术、意识、爱情与宇宙危险；亲密关系和生命伦理贯穿。",
+      "ordering": "对换身、血魇、救治、失踪建立状态约束。"
+    },
+    {
+      "series": "亚洲之鹰罗开系列",
+      "role": "独行冒险者面对代理组织、复制、跨星体关系与自主权。",
+      "ordering": "时间大神和蜂后等可接续线分开，不排整个地球总年表。"
+    },
+    {
+      "series": "浪子高达系列",
+      "role": "越轨团队、财富争夺、技术交易及亲密关系。",
+      "ordering": "八文件无一致绝对次序，蛇王石未完；原本与复制体分开。"
+    },
+    {
+      "series": "年轻人",
+      "role": "从骗局、权力欲与伴侣关系进入换身、魔界和神话投影。",
+      "ordering": "以黑暗天使为换身跨系列锚；缺页不补。"
+    },
+    {
+      "series": "木兰花全集",
+      "role": "科学犯罪、警方合作、工程资源与家庭共同成长。",
+      "ordering": "以婚姻、失明复明和安妮身体变化作人物阶段锚。"
+    },
+    {
+      "series": "神探高斯系列",
+      "role": "维持日常城市、摄影取证、骗局与警务规则的层次。",
+      "ordering": "编号并非可靠时间轴；奇迹与粉红钻石提供反例。"
+    },
+    {
+      "series": "非人协会系列",
+      "role": "以招揽独特个体考察生命多样性、自由及人类文明的局限。",
+      "ordering": "序为背景设定文本，不虚构一本发生在所有案件前的剧情。"
+    },
+    {
+      "series": "倪匡之鬼话系列",
+      "role": "短篇日常裂隙、死亡认知与未解异象。",
+      "ordering": "大多独立遭遇；并入世界不等于归属阴间或任何已知机构。"
+    }
+  ]
+}

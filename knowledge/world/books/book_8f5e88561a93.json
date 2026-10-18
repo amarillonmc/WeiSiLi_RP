@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0",
+  "id": "book_8f5e88561a93",
+  "title": "爆炸",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/109爆炸.txt",
+  "file": "books/book_8f5e88561a93.json",
+  "inherited_fact_count": 21,
+  "curated_links": {
+    "arcs": [
+      "arc_lansi"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "484c26b72bc83b2b7647d758eefbf9b9d9082e062898fb835a5b7aaadba37abe",
+  "source_lines": 2728,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "实际参与、联络或终局处置"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "实际参与、联络或终局处置"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "实际参与、联络或终局处置"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "重要配角",
+      "basis": "实际参与、联络或终局处置"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "实际参与、联络或终局处置"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "重要配角",
+      "basis": "实际参与、联络或终局处置"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "实际参与、联络或终局处置"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "实际参与、联络或终局处置"
+    },
+    {
+      "name": "猜王",
+      "card_id": "weisili_cai_wang",
+      "role": "重要配角",
+      "basis": "实际参与、联络或终局处置"
+    },
+    {
+      "name": "宝先生",
+      "card_id": "weisili_bao_xiansheng",
+      "role": "单书主角",
+      "basis": "失窃和爆炸案的独立行动者"
+    },
+    {
+      "name": "双生独裁者（爆炸事件）",
+      "card_id": "weisili_baozha_dictator",
+      "role": "反派",
+      "basis": "失窃和爆炸案的独立行动者"
+    },
+    {
+      "name": "研究所所长（双生独裁者之弟）",
+      "card_id": "weisili_baozha_director",
+      "role": "反派",
+      "basis": "失窃和爆炸案的独立行动者"
+    },
+    {
+      "name": "研究员甲（元胎实验）",
+      "card_id": "weisili_researcher_jia",
+      "role": "谜案核心人物",
+      "basis": "失窃和爆炸案的独立行动者"
+    },
+    {
+      "name": "研究员乙（元胎实验）",
+      "card_id": "weisili_researcher_yi",
+      "role": "谜案核心人物",
+      "basis": "失窃和爆炸案的独立行动者"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "外星人Ａ与Ｂ种族",
+      "reason": "结尾用于解释事故的假说符号，不构造确定存在且具任意爆破能力的角色。"
+    },
+    {
+      "name": "元胎",
+      "reason": "重要实验材料，未呈现可辨认自主人格。"
+    },
+    {
+      "name": "古代神话及秘藏创立者",
+      "reason": "背景来源与类比，未独立演出。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_ce32b52a99d4137c",
+      "statement": "组织及保安",
+      "annotation_character_ids": [
+        "weisili_baozha_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d1b0ef0f32dfb6cf",
+      "statement": "兄弟关系与分工",
+      "annotation_character_ids": [
+        "weisili_baozha_dictator"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad96ed734b4e8f45",
+      "statement": "身法与求救",
+      "annotation_character_ids": [
+        "weisili_bao_xiansheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_88f740180c686765",
+      "statement": "链子与同门",
+      "annotation_character_ids": [
+        "weisili_bao_xiansheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_313568eb06366669",
+      "statement": "盗宝条件",
+      "annotation_character_ids": [
+        "weisili_bao_xiansheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d7deaa372c1f6194",
+      "statement": "雇盗与训练",
+      "annotation_character_ids": [
+        "weisili_baozha_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fbbbdcbc8b8ca9bd",
+      "statement": "蓝丝追责",
+      "annotation_character_ids": [
+        "weisili_bao_xiansheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_02613c626cf82a82",
+      "statement": "相通与暴政",
+      "annotation_character_ids": [
+        "weisili_baozha_dictator"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3e92471727b4cf6d",
+      "statement": "兄弟感应及制度",
+      "annotation_character_ids": [
+        "weisili_baozha_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c02f2ae93bcf9c03",
+      "statement": "降头与国库交涉",
+      "annotation_character_ids": [
+        "weisili_baozha_dictator"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3db5314802f2eca5",
+      "statement": "安全愿望",
+      "annotation_character_ids": [
+        "weisili_baozha_dictator"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a1824cae71bb488",
+      "statement": "甲乙与元胎",
+      "annotation_character_ids": [
+        "weisili_baozha_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b1613b3eca645655",
+      "statement": "入所和研究",
+      "annotation_character_ids": [
+        "weisili_researcher_jia",
+        "weisili_researcher_yi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_44dbafc77d38ccfb",
+      "statement": "救宝先生及秘藏归属",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7c3183c97383e8e8",
+      "statement": "守藏终局",
+      "annotation_character_ids": [
+        "weisili_bao_xiansheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_362b3892deb07bc9",
+      "statement": "残手接触和作画",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_483d4edb83228b9d",
+      "statement": "残手感应",
+      "annotation_character_ids": [
+        "weisili_researcher_jia",
+        "weisili_researcher_yi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b5226df9680ed294",
+      "statement": "残手与不确定性",
+      "annotation_character_ids": [
+        "weisili_baozha_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_659d73d7b1792d27",
+      "statement": "明确假设范围",
+      "annotation_character_ids": [
+        "weisili_researcher_jia",
+        "weisili_researcher_yi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1be7ebc2a044ea1d",
+      "statement": "没有科学佐证",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bc8636cefc160b65",
+      "statement": "未知结局",
+      "annotation_character_ids": [
+        "weisili_baozha_dictator"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "before__n_new_body__n_myth_return",
+  "source": "n_new_body",
+  "target": "n_myth_return",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "早期帝国与伴侣经历在前；黑暗天使换身是夜归飞行及后续神话经历的身体条件。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "早期帝国与伴侣经历在前；黑暗天使换身是夜归飞行及后续神话经历的身体条件。",
+  "evidence_ids": [
+    "evidence_d6c107671ff001f7",
+    "evidence_b1d5c38e381b7644",
+    "evidence_a9550617d1379158",
+    "evidence_f97d09fb5a38f1b5",
+    "evidence_d9f1d22ed64c29a0",
+    "evidence_dc68380d2a26ec34",
+    "evidence_c7baa09df2007ebb",
+    "evidence_2e7a6aaa88e5e8e5"
+  ],
+  "book_ids": [
+    "book_00387402bed3",
+    "book_b227612aca17",
+    "book_b918ee450d56",
+    "book_d135e392bd20",
+    "book_d2f0e3b9ed17"
+  ]
+}

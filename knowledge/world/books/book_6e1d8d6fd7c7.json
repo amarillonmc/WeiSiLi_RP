@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0",
+  "id": "book_6e1d8d6fd7c7",
+  "title": "人鬼疑云",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/29.人鬼疑云.txt",
+  "file": "books/book_6e1d8d6fd7c7.json",
+  "inherited_fact_count": 18,
+  "curated_links": {
+    "events": [
+      "y_liuxu_rescue"
+    ],
+    "relations": [
+      "before__y_liuxu_rescue__w_quota_research"
+    ],
+    "arcs": [
+      "arc_kangwei"
+    ],
+    "bridges": [
+      "bridge_animi"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "82f7d1c0a6f9db3ae4642f6099ef7d578fe054f24190b7b8849abcf831966e7b",
+  "source_lines": 7617,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查与交涉"
+    },
+    {
+      "name": "柳絮",
+      "card_id": "yuanzhenxia_liu_xu",
+      "role": "主角",
+      "basis": "恢复自主"
+    },
+    {
+      "name": "陈庆国",
+      "card_id": "yuanzhenxia_chen_qingguo",
+      "role": "反派",
+      "basis": "灵魂忠诚与报信"
+    },
+    {
+      "name": "康维十七世",
+      "card_id": "yuanzhenxia_kangwei",
+      "role": "重要配角",
+      "basis": "治疗与感情"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "重要配角",
+      "basis": "联络与脱离"
+    },
+    {
+      "name": "阿尼密",
+      "card_id": "adventure_animi",
+      "role": "重要配角",
+      "basis": "灵魂研究"
+    },
+    {
+      "name": "曹金福",
+      "card_id": "weisili_cao_jinfu",
+      "role": "重要配角",
+      "basis": "终局寻找亲人安排"
+    },
+    {
+      "name": "东方太阳最高领导人",
+      "card_id": "yuanzhenxia_oriental_sun_leader",
+      "role": "反派",
+      "basis": "最终交涉"
+    },
+    {
+      "name": "鬼界外星人",
+      "card_id": "yuanzhenxia_guijie_aliens",
+      "role": "重要配角",
+      "basis": "技术合作与求援"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_1d0c139fb89a2f8d",
+      "statement": "三子出生",
+      "annotation_character_ids": [
+        "yuanzhenxia_cao_yinxue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b79711c387223ab",
+      "statement": "仍待寻找",
+      "annotation_character_ids": [
+        "yuanzhenxia_zhong_daya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c2c0f4707fd64445",
+      "statement": "探姐姐三胞胎并寻找姐夫",
+      "annotation_character_ids": [
+        "weisili_cao_jinfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e7be2a98fed06f71",
+      "statement": "可干预感情信号的伦理问题",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b462198065ee53b",
+      "statement": "灵魂与身体个案无固定简单规则",
+      "annotation_character_ids": [
+        "adventure_animi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dddd56f23921a4f0",
+      "statement": "康维仪器能捕脑电波显鬼，非阿尼密个人权能",
+      "annotation_character_ids": [
+        "adventure_animi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e1582899370d154d",
+      "statement": "与康维合作联络",
+      "annotation_character_ids": [
+        "adventure_animi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5ed306a84009b35d",
+      "statement": "被组织安排走向死亡",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_qingguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_963ee38ca45aca81",
+      "statement": "与陈庆国分歧及观察限制",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_xu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c305e4384c242b9",
+      "statement": "忠诚与感情分裂",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_qingguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1887aca9ebd8dd25",
+      "statement": "柳絮改善后告辞",
+      "annotation_character_ids": [
+        "adventure_animi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fc573c6109a1fa33",
+      "statement": "康维表达与恢复视力",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_xu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a0a40b637ba108e8",
+      "statement": "向组织传讯",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_qingguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71e38e6453c53390",
+      "statement": "异星合作、衰亡与交易",
+      "annotation_character_ids": [
+        "yuanzhenxia_oriental_sun_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9003fe3ecc247a6e",
+      "statement": "与组织技术合作，最后只约定未来脱离鬼界的援助",
+      "annotation_character_ids": [
+        "yuanzhenxia_guijie_aliens"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_613ee6ccddad9d88",
+      "statement": "拆除武器与脱离",
+      "annotation_character_ids": [
+        "yuanzhenxia_liu_xu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_577b8c15e407e1cd",
+      "statement": "后续援助尚待叙述",
+      "annotation_character_ids": [
+        "yuanzhenxia_guijie_aliens"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ff33b67b466dd857",
+      "statement": "未获复生",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_qingguo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

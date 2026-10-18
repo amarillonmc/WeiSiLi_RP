@@ -1,0 +1,29 @@
+{
+  "id": "w_leman",
+  "title": "勒曼医院后备人体秘密被揭",
+  "kind": "event",
+  "summary": "卫斯理接触复制人体及移植制度，研究成就与牺牲副本的伦理冲突进入叙述。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "早于《蜂后》中医院迁址及复制高达事件。",
+    "narrative_layer": "present"
+  },
+  "state_before": "医院秘密经营后备人体项目。",
+  "state_after": "秘密曝光，后书说明医院迁往格陵兰冰层下。",
+  "knowledge_boundary": "这是机构项目，不是卫斯理学会复制；也不能让本案人物提前掌握杜良晚期成果。",
+  "character_ids": [
+    "weisili_wei_sili",
+    "weisili_du_liang"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_a85a014a5881d95d",
+    "evidence_2da3842da4df00dc"
+  ],
+  "book_ids": [
+    "book_17ded030e4d8",
+    "book_533b28ccc313"
+  ]
+}

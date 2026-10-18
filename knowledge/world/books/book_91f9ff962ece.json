@@ -1,0 +1,395 @@
+{
+  "schema_version": "1.0",
+  "id": "book_91f9ff962ece",
+  "title": "钻石镭射",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/27钻石镭射.txt",
+  "file": "books/book_91f9ff962ece.json",
+  "inherited_fact_count": 35,
+  "curated_links": {
+    "events": [
+      "m_annie_family"
+    ],
+    "relations": [
+      "before__m_annie_family__m_marriage_swap",
+      "before__m_marriage_swap__m_annie_walks",
+      "before__m_annie_walks__m_annie_independent"
+    ],
+    "arcs": [
+      "arc_mulanhua",
+      "arc_muxiuzhen",
+      "arc_annie",
+      "arc_gaoxiang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "bf3bedc6681ee59161f4b597c687ebd1e77127db7d4de04d51888ec18c8d9740",
+  "source_lines": 2648,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "麦泰许",
+      "card_id": "mulanhua_maitaixu",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "钻石兰妮",
+      "card_id": "mulanhua_diamond_lanni",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "金发琳达",
+      "card_id": "mulanhua_diamond_linda",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "妙手柏克",
+      "card_id": "mulanhua_diamond_baike",
+      "role": "单书主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "田凡统",
+      "card_id": "mulanhua_tian_fantong",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "索取太空之光的秃顶特务头子",
+      "card_id": "mulanhua_diamond_bald_agent",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "钻石雷射计划的领事",
+      "card_id": "mulanhua_diamond_consul",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "两名假警察、琳达同行枪手及领馆守卫",
+      "reason": "同谋或机构执行者，没有独立姓名与人物线，条件性行动列入所属角色。"
+    },
+    {
+      "name": "送安妮的司机、医生、邻居和其他警员",
+      "reason": "一次性帮助或背景人员，不满足跨书重要配角条件。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_8533f583fddc775c",
+      "statement": "初遇救援",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b00d4f43ffa0beee",
+      "statement": "外观与救安妮",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_095a59534c60f296",
+      "statement": "借继母身份联络",
+      "annotation_character_ids": [
+        "mulanhua_diamond_linda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a63eb5478020e21",
+      "statement": "强带安妮离开",
+      "annotation_character_ids": [
+        "mulanhua_diamond_linda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6ac55ad8973e9347",
+      "statement": "持枪协助强带孩子",
+      "annotation_character_ids": [
+        "mulanhua_tian_fantong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e94f15329ccbdf14",
+      "statement": "近战与为人质停枪",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_52f9b9b074adfba0",
+      "statement": "被擒、执照和委托漏洞",
+      "annotation_character_ids": [
+        "mulanhua_tian_fantong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cbac6ec9fe2636e0",
+      "statement": "履历、偏好和高翔旧事",
+      "annotation_character_ids": [
+        "mulanhua_diamond_lanni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f588f5db8b6f6dbb",
+      "statement": "旧情与东方王子",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7fdbcbc696c60395",
+      "statement": "身份误判和名钻线索",
+      "annotation_character_ids": [
+        "mulanhua_diamond_lanni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a0863018858b65f",
+      "statement": "对安妮的许诺失效",
+      "annotation_character_ids": [
+        "mulanhua_diamond_lanni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bc1f3fae2589b01d",
+      "statement": "对安妮施压",
+      "annotation_character_ids": [
+        "mulanhua_maitaixu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_98c9c6d7c15b91fb",
+      "statement": "化名与辨认细节",
+      "annotation_character_ids": [
+        "mulanhua_maitaixu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8bded413a9c1d2d3",
+      "statement": "继母与四盗身份",
+      "annotation_character_ids": [
+        "mulanhua_diamond_linda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a013124b583eaf76",
+      "statement": "父女与四盗身份",
+      "annotation_character_ids": [
+        "mulanhua_diamond_baike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a80595c68ca0a8de",
+      "statement": "家庭与维护父亲",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e52804cd16f2e65e",
+      "statement": "计划和杀柏克",
+      "annotation_character_ids": [
+        "mulanhua_maitaixu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e7cc64ab36d581d2",
+      "statement": "四年潜伏及跳伞盗钻",
+      "annotation_character_ids": [
+        "mulanhua_diamond_linda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2fed8b9f12ce3e5b",
+      "statement": "切割专长和被杀",
+      "annotation_character_ids": [
+        "mulanhua_diamond_baike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6aebaa6502c87e9d",
+      "statement": "情报判断与泄密威胁",
+      "annotation_character_ids": [
+        "mulanhua_diamond_lanni"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_182ebefab153a21f",
+      "statement": "交换口供和放人",
+      "annotation_character_ids": [
+        "mulanhua_maitaixu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8e872426b1399a0c",
+      "statement": "将安妮作妹妹",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b7824e216d8d4752",
+      "statement": "购买威胁及拒售原因",
+      "annotation_character_ids": [
+        "mulanhua_diamond_bald_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f1305d047b83be30",
+      "statement": "拒售缘由初证",
+      "annotation_character_ids": [
+        "mulanhua_diamond_baike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f79f11db5ddacd32",
+      "statement": "人质和计时武器",
+      "annotation_character_ids": [
+        "mulanhua_diamond_bald_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_776fef5f85dcaa8c",
+      "statement": "身份与军事目的",
+      "annotation_character_ids": [
+        "mulanhua_diamond_consul"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b5df404d342543ce",
+      "statement": "承认风险并受领事命令",
+      "annotation_character_ids": [
+        "mulanhua_diamond_bald_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2182ef1598891f7f",
+      "statement": "录音欺骗、报警和被擒",
+      "annotation_character_ids": [
+        "mulanhua_diamond_consul"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_166830ae6b20a558",
+      "statement": "胁迫木兰花",
+      "annotation_character_ids": [
+        "mulanhua_diamond_bald_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6026b2f8c8c017ad",
+      "statement": "以钻换人及加入家庭",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2dd72d35674b701f",
+      "statement": "放人与公开计划应对",
+      "annotation_character_ids": [
+        "mulanhua_diamond_consul"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_30854ae6603aa9d6",
+      "statement": "交物放人",
+      "annotation_character_ids": [
+        "mulanhua_diamond_bald_agent"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86ce9f9af04f95f8",
+      "statement": "集中营经历及反战选择",
+      "annotation_character_ids": [
+        "mulanhua_diamond_baike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_000372b181440de3",
+      "statement": "接纳安妮选择",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a8452372a8d4705a",
+      "statement": "假身份火灾终局",
+      "annotation_character_ids": [
+        "mulanhua_maitaixu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

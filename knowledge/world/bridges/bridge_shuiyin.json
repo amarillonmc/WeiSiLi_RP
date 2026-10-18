@@ -1,0 +1,24 @@
+{
+  "id": "bridge_shuiyin",
+  "title": "水银将军及黛娜的情报网络",
+  "kind": "bridge",
+  "series": [
+    "亚洲之鹰罗开系列",
+    "卫斯理系列"
+  ],
+  "connection_level": "explicit_crossover",
+  "claim": "《谜踪》中黛娜明确指认其上司水银将军，形成身份桥；不能只凭职业合并其他将军。",
+  "schema_version": "1.0",
+  "section": "bridges",
+  "evidence_ids": [
+    "evidence_12298c1b421c8181",
+    "evidence_c15db007437e589c",
+    "evidence_5701481bc30692d5",
+    "evidence_f5d6329e0e4de4a7",
+    "evidence_80279636cef39840",
+    "evidence_c45dd36fb3ca3893"
+  ],
+  "book_ids": [
+    "book_f7287efb3d54"
+  ]
+}

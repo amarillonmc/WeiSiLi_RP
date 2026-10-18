@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "id": "book_3f0598f348f0",
+  "title": "蛇王石",
+  "aliases": [],
+  "series": "浪子高达系列",
+  "source_path": "浪子高达系列/蛇王石.txt",
+  "file": "books/book_3f0598f348f0.json",
+  "inherited_fact_count": 7,
+  "curated_links": {
+    "arcs": [
+      "arc_gaoda"
+    ],
+    "issues": [
+      "issue_catalog_order",
+      "issue_missing_sources"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "aa603e3e99083d89231ff528fd0d568e6c1b4391fbdbbf58cc4bcb26b182bc11",
+  "source_lines": 331,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "高达",
+      "card_id": "adventure_gaoda",
+      "role": "主角",
+      "basis": "全书核心行动视角"
+    },
+    {
+      "name": "钱晋福",
+      "card_id": "adventure_qianjinfu",
+      "role": "单书主角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "曹万盛",
+      "card_id": "adventure_caowansheng",
+      "role": "反派",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "渡边次郎",
+      "card_id": "adventure_watanabe",
+      "role": "反派",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "克莉丝汀·狄克",
+      "reason": "现存部分只介绍酒会主人、传闻财富与邀请，未实际会面或显示反派行为；不靠传闻硬造能力。"
+    },
+    {
+      "name": "郑姓股东",
+      "reason": "诈赌纠纷的单书调停人。"
+    },
+    {
+      "name": "金色小蛇",
+      "reason": "仅见照片转述，活物真实性、人格与能力均未确认。"
+    },
+    {
+      "name": "无名日本播报者、保镖和女侍",
+      "reason": "从属执行者，未展开独立身份。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_1cc0715fc27ee770",
+      "statement": "身份与受骗背景",
+      "annotation_character_ids": [
+        "adventure_qianjinfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2e2312d128de103",
+      "statement": "身份、串通与作弊机制",
+      "annotation_character_ids": [
+        "adventure_caowansheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e62c6f4d61ac3278",
+      "statement": "外表、自称与作弊原理",
+      "annotation_character_ids": [
+        "adventure_watanabe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_96b976e354c522ba",
+      "statement": "识破电子诈赌、近战、夺势与协商",
+      "annotation_character_ids": [
+        "adventure_gaoda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3cdb1a0b577cb19f",
+      "statement": "反咬、拔枪与赔付调停",
+      "annotation_character_ids": [
+        "adventure_caowansheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_514130e97d615202",
+      "statement": "败露、挟持与调停",
+      "annotation_character_ids": [
+        "adventure_watanabe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_427ccbcbe73d769e",
+      "statement": "戒赌、珠宝专长和未见原石的边界",
+      "annotation_character_ids": [
+        "adventure_qianjinfu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,476 @@
+{
+  "schema_version": "1.0",
+  "id": "book_3e607a62aa6b",
+  "title": "愿望猴神",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/52愿望猴神.txt",
+  "file": "books/book_3e607a62aa6b.json",
+  "inherited_fact_count": 38,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "f761de854d04eb12fb636b7c451f39c935bdd037f28aeec5988256dbd12dc1cc",
+  "source_lines": 3003,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "健一",
+      "card_id": "weisili_jianyi",
+      "role": "重要配角",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "耶里王子",
+      "card_id": "weisili_yeli",
+      "role": "单书主角",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "板垣一郎（本体）",
+      "card_id": "weisili_banyuan_yilang",
+      "role": "单书主角",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "贞弓（本体）",
+      "card_id": "weisili_zhen_gong",
+      "role": "单书主角",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "大良云子（本体）",
+      "card_id": "weisili_daliang_yunzi",
+      "role": "单书主角",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "铁轮（本体）",
+      "card_id": "weisili_tielun",
+      "role": "反派",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "奈可",
+      "card_id": "weisili_naike",
+      "role": "重要配角",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "板垣光义",
+      "card_id": "weisili_banyuan_guangyi",
+      "role": "单书主角",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "求取快乐的古代王子",
+      "card_id": "weisili_ancient_prince_monkey",
+      "role": "单篇主角",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "健一的复制体",
+      "card_id": "weisili_jianyi_copy",
+      "role": "反派",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "耶里王子的复制体",
+      "card_id": "weisili_yeli_copy",
+      "role": "反派",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "板垣一郎的复制体",
+      "card_id": "weisili_banyuan_yilang_copy",
+      "role": "反派",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "贞弓的复制体",
+      "card_id": "weisili_zhen_gong_copy",
+      "role": "反派",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "大良云子的复制体",
+      "card_id": "weisili_daliang_yunzi_copy",
+      "role": "反派",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "铁轮的复制体",
+      "card_id": "weisili_tielun_copy",
+      "role": "反派",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "板垣光义的复制体",
+      "card_id": "weisili_banyuan_guangyi_copy",
+      "role": "反派",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "灵异猴神",
+      "card_id": "weisili_monkey_god",
+      "role": "单书主角",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    },
+    {
+      "name": "奇渥达卡（白色眼镜猴）",
+      "card_id": "weisili_qiwodaka",
+      "role": "单书主角",
+      "basis": "连锁命案、求愿与复制体冲突的独立参与者"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "卫斯理的复制影像",
+      "reason": "仅短暂看见另一个自己，无独立主角或反派行动；不与本体叠加。"
+    },
+    {
+      "name": "管理员武夫",
+      "reason": "单次受害者；故意灭口说未证实。"
+    },
+    {
+      "name": "石野等调查警员",
+      "reason": "案中辅助调查或遇害，未有独立主角线及跨书重要出场。"
+    },
+    {
+      "name": "那蒂星",
+      "reason": "动物专家提供照料及传说资料；未形成独立主角或反派线。"
+    },
+    {
+      "name": "神话教授、弹琴老人",
+      "reason": "一次性线索提供者。"
+    },
+    {
+      "name": "前两名古代求愿者",
+      "reason": "猴神回忆中的概括例证，缺少独立人格与行动情节。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_8c7b21148102af79",
+      "statement": "照料",
+      "annotation_character_ids": [
+        "weisili_naike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9990f13545f0c40e",
+      "statement": "耶里祖先关系",
+      "annotation_character_ids": [
+        "weisili_ancient_prince_monkey"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b0c3ffc37167301f",
+      "statement": "求助及留信",
+      "annotation_character_ids": [
+        "weisili_banyuan_guangyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2f05bc10ba6bafe",
+      "statement": "身世及与光义初遇",
+      "annotation_character_ids": [
+        "weisili_yeli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fd61377487a5b0f2",
+      "statement": "求愿缘由",
+      "annotation_character_ids": [
+        "weisili_yeli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5265a1559bad344a",
+      "statement": "两个身体",
+      "annotation_character_ids": [
+        "weisili_banyuan_guangyi",
+        "weisili_banyuan_guangyi_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_96a625cfe8058f12",
+      "statement": "重要复数线索",
+      "annotation_character_ids": [
+        "weisili_naike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c9119e9ab60125f0",
+      "statement": "光义亲属关系",
+      "annotation_character_ids": [
+        "weisili_banyuan_yilang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a1800494a7d842c3",
+      "statement": "自省与装置",
+      "annotation_character_ids": [
+        "weisili_banyuan_guangyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71595f410b697346",
+      "statement": "动机、装置与隐瞒",
+      "annotation_character_ids": [
+        "weisili_banyuan_yilang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0acc2163d07fedb3",
+      "statement": "互杀解释",
+      "annotation_character_ids": [
+        "weisili_banyuan_guangyi",
+        "weisili_banyuan_guangyi_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4d8018495966861d",
+      "statement": "合作",
+      "annotation_character_ids": [
+        "weisili_yeli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad55800f0891c8e9",
+      "statement": "猎装射击、误杀与悔意",
+      "annotation_character_ids": [
+        "weisili_zhen_gong_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d4228c8d7203491",
+      "statement": "死亡",
+      "annotation_character_ids": [
+        "weisili_yeli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f97ca7067b22408c",
+      "statement": "婚姻、看见自己与遇害",
+      "annotation_character_ids": [
+        "weisili_zhen_gong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0fc6abe7fb5bae67",
+      "statement": "接触贞弓",
+      "annotation_character_ids": [
+        "weisili_daliang_yunzi_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_206e765376f0d9a6",
+      "statement": "杀贞弓本体",
+      "annotation_character_ids": [
+        "weisili_banyuan_yilang_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_342301f7d17d9caf",
+      "statement": "危险反应",
+      "annotation_character_ids": [
+        "weisili_qiwodaka"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2cc860b2fcf85a4a",
+      "statement": "冲突同行",
+      "annotation_character_ids": [
+        "weisili_zhen_gong_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b87e4cd4c1b6228",
+      "statement": "途中动作",
+      "annotation_character_ids": [
+        "weisili_yeli_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_833575bec11977c3",
+      "statement": "射蛇",
+      "annotation_character_ids": [
+        "weisili_tielun_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed312ffdee38a8fe",
+      "statement": "胁迫及出发",
+      "annotation_character_ids": [
+        "weisili_jianyi_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db610c17a5e2d95f",
+      "statement": "求无惧与殿后",
+      "annotation_character_ids": [
+        "weisili_tielun_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_090b5b8a04abaa6d",
+      "statement": "补给及双向枪阴谋",
+      "annotation_character_ids": [
+        "weisili_banyuan_yilang_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_851dc2440f8049ca",
+      "statement": "引导",
+      "annotation_character_ids": [
+        "weisili_qiwodaka"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_817ffab7d9b3c648",
+      "statement": "促成连锁命案",
+      "annotation_character_ids": [
+        "weisili_yeli_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47ec6ae9992c22e1",
+      "statement": "进入光路",
+      "annotation_character_ids": [
+        "weisili_daliang_yunzi_copy",
+        "weisili_jianyi_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bdcf169455b88782",
+      "statement": "进入场所",
+      "annotation_character_ids": [
+        "weisili_qiwodaka"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e4d4473a2420ee3c",
+      "statement": "外形与科技来源",
+      "annotation_character_ids": [
+        "weisili_monkey_god"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_35bfd81c5e399602",
+      "statement": "往事与快乐边界",
+      "annotation_character_ids": [
+        "weisili_monkey_god"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b4239486268d2b9b",
+      "statement": "猴神所述",
+      "annotation_character_ids": [
+        "weisili_ancient_prince_monkey"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1a7b05215046bf52",
+      "statement": "复制、研究局限与回收",
+      "annotation_character_ids": [
+        "weisili_monkey_god"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_48e2462c068d0e43",
+      "statement": "猴神确认",
+      "annotation_character_ids": [
+        "weisili_banyuan_guangyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a1f8f6e6dc5fe5ad",
+      "statement": "猴神确认",
+      "annotation_character_ids": [
+        "weisili_banyuan_guangyi_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b6fff7be1198c7ad",
+      "statement": "六复制体结局与外援来源",
+      "annotation_character_ids": [
+        "weisili_banyuan_yilang_copy",
+        "weisili_daliang_yunzi_copy",
+        "weisili_jianyi_copy",
+        "weisili_tielun_copy",
+        "weisili_yeli_copy",
+        "weisili_zhen_gong_copy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_35e9c2f424859ef4",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "weisili_daliang_yunzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77f66e9a40897312",
+      "statement": "辞职后下落及推测",
+      "annotation_character_ids": [
+        "weisili_jianyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ac50cb017f4069f5",
+      "statement": "持续陪伴",
+      "annotation_character_ids": [
+        "weisili_naike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

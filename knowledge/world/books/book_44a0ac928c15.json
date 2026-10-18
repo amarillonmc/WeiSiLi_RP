@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "id": "book_44a0ac928c15",
+  "title": "拼命",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/084拼命.txt",
+  "file": "books/book_44a0ac928c15.json",
+  "inherited_fact_count": 15,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "759b6b1838e61d4a9270c0652a6d01bc37ba6272632025ca5de26121aacb62ac",
+  "source_lines": 3157,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "亲自调查、决断与叙述"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "实际参与调查、家庭选择与行动"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "实际参与线索和行动"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "主角",
+      "basis": "身世、婚配与苗疆行动中心"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "主角",
+      "basis": "关系与自主能力发展的中心人物"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "卫家接待与回应出门安排"
+    },
+    {
+      "name": "杜令",
+      "card_id": "weisili_du_ling",
+      "role": "主角",
+      "basis": "复制身体、远行及留躯结果"
+    },
+    {
+      "name": "金月亮",
+      "card_id": "weisili_jin_yueliang",
+      "role": "主角",
+      "basis": "自主与杜令共同远行"
+    },
+    {
+      "name": "蓝家峒峒主",
+      "card_id": "weisili_lan_dongzhu",
+      "role": "重要配角",
+      "basis": "接待、继承安排与双月危机"
+    },
+    {
+      "name": "陈耳",
+      "card_id": "weisili_chen_er",
+      "role": "重要配角",
+      "basis": "联络蓝丝、协调直升机与机场"
+    },
+    {
+      "name": "猜王",
+      "card_id": "weisili_cai_wang",
+      "role": "重要配角",
+      "basis": "与陈耳实际来访并协助"
+    },
+    {
+      "name": "汉烈米",
+      "card_id": "yuanzhenxia_hanliemi",
+      "role": "重要配角",
+      "basis": "杜令关系与医疗联络共享卡"
+    },
+    {
+      "name": "前代天官同门",
+      "card_id": "weisili_old_tianguan_companions",
+      "role": "反派",
+      "basis": "师徒回述中有杀人、避难和传承"
+    },
+    {
+      "name": "困敦（当代鼠天官）",
+      "card_id": "weisili_tg_kun_dun",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "赤奋若（当代牛天官）",
+      "card_id": "weisili_tg_chi_fenruo",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "摄提格（当代虎天官）",
+      "card_id": "weisili_tg_she_tige",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "单阏（当代兔天官）",
+      "card_id": "weisili_tg_dan_e",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "执徐（当代龙天官）",
+      "card_id": "weisili_tg_zhi_xu",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "大荒落（当代蛇天官）",
+      "card_id": "weisili_tg_da_huangluo",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "敦牂（当代马天官）",
+      "card_id": "weisili_tg_dun_zang",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "协洽（当代羊天官）",
+      "card_id": "weisili_tg_xie_qia",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "涒滩（当代猴天官）",
+      "card_id": "weisili_tg_tun_tan",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "作噩（当代鸡天官）",
+      "card_id": "weisili_tg_zuo_e",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "阉茂（当代狗天官）",
+      "card_id": "weisili_tg_yan_mao",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "大渊献（当代猪天官）",
+      "card_id": "weisili_tg_da_yuanxian",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "猛哥、京版、芭珠",
+      "reason": "回顾蛊惑及能力比较，本书未实际新出场"
+    },
+    {
+      "name": "胡说、良辰、美景",
+      "reason": "主要是温宝裕事后转述受众与评论，未另编本案行动"
+    },
+    {
+      "name": "白老大",
+      "reason": "天官门传闻与武术比较，未在当下行动"
+    },
+    {
+      "name": "无名机场、船员和苗民",
+      "reason": "群体服务或见证，未见独立主要人物性格"
+    },
+    {
+      "name": "原振侠",
+      "reason": "仅被引用观点"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_359af65d6ee16081",
+      "statement": "旧门滥杀、隐居悔过与齐心蛊",
+      "annotation_character_ids": [
+        "weisili_old_tianguan_companions"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_504f61654d58f142",
+      "statement": "本代来历、传艺、齐心蛊及与旧天官不同",
+      "annotation_character_ids": [
+        "weisili_tg_chi_fenruo",
+        "weisili_tg_da_huangluo",
+        "weisili_tg_da_yuanxian",
+        "weisili_tg_dan_e",
+        "weisili_tg_dun_zang",
+        "weisili_tg_kun_dun",
+        "weisili_tg_she_tige",
+        "weisili_tg_tun_tan",
+        "weisili_tg_xie_qia",
+        "weisili_tg_yan_mao",
+        "weisili_tg_zhi_xu",
+        "weisili_tg_zuo_e"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ae438f70194549c2",
+      "statement": "本峒收留旧天官与本地传授背景",
+      "annotation_character_ids": [
+        "weisili_lan_dongzhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ac9a37606a74153d",
+      "statement": "认蓝丝为神赐继承者",
+      "annotation_character_ids": [
+        "weisili_lan_dongzhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0090f19d5d5f6a7e",
+      "statement": "后续考古资助",
+      "annotation_character_ids": [
+        "yuanzhenxia_hanliemi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82e76bbc4de9215e",
+      "statement": "收到另一复制体并资助考古",
+      "annotation_character_ids": [
+        "weisili_jinmoon_sheikh"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77f73f44e4234b48",
+      "statement": "记忆返乡",
+      "annotation_character_ids": [
+        "weisili_desert_queen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d77c69dee344262",
+      "statement": "已通过装置返乡",
+      "annotation_character_ids": [
+        "weisili_desert_white_women"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_90c93c84227bf216",
+      "statement": "六十二人已送回",
+      "annotation_character_ids": [
+        "weisili_du_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77608d183d89bc6f",
+      "statement": "后续确认死亡年代与完整生平记录",
+      "annotation_character_ids": [
+        "weisili_pei_siqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7bec33a61177d4be",
+      "statement": "来地球方式、脑影响及借体伦理",
+      "annotation_character_ids": [
+        "weisili_du_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad3dee9f2cdd52ca",
+      "statement": "身体复制、所学操作与借体条件",
+      "annotation_character_ids": [
+        "weisili_jin_yueliang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a425c54e7f9006fc",
+      "statement": "接待与双月危机",
+      "annotation_character_ids": [
+        "weisili_lan_dongzhu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0e20e6dea59966f2",
+      "statement": "实际远行",
+      "annotation_character_ids": [
+        "weisili_du_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a86e2732a93c3546",
+      "statement": "记忆远行和留下身体",
+      "annotation_character_ids": [
+        "weisili_jin_yueliang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

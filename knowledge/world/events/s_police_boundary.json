@@ -1,0 +1,31 @@
+{
+  "id": "s_police_boundary",
+  "title": "高斯破案仍不能免交通罚单",
+  "kind": "event",
+  "summary": "《预告》中推理不断修正，高斯办完案想请李玉芳取消交通罚单，遭拒。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《预告》本案末；不把29个编号转换成全部案子的年代。",
+    "narrative_layer": "present"
+  },
+  "state_before": "协作关系亲近，但嫌疑判断仍会出错。",
+  "state_after": "成功没有赋予法律豁免，职业边界保留。",
+  "knowledge_boundary": "作为日常城市层的终局样本，不给二人异星技术或超自然调查权限。",
+  "character_ids": [
+    "gaosi_gao_si",
+    "gaosi_li_yufang"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_e55eb6f4016f9f09",
+    "evidence_e815b21243982d43",
+    "evidence_029ae5cf28d35b8d",
+    "evidence_52ba029183f768a6",
+    "evidence_a26f6b8fcebefc0a"
+  ],
+  "book_ids": [
+    "book_6223e2d26cdb"
+  ]
+}

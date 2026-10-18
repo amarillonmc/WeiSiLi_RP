@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "id": "book_7ee77fb86e3e",
+  "title": "迷路",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/02.迷路.txt",
+  "file": "books/book_7ee77fb86e3e.json",
+  "inherited_fact_count": 22,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "d5744fc89841cfa8c7b7e6c45366f7ce850aeb86ac264016907b03da863395d0",
+  "source_lines": 3843,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "参与调查与实验"
+    },
+    {
+      "name": "黄绢",
+      "card_id": "yuanzhenxia_huang_juan",
+      "role": "主角",
+      "basis": "调查与政治交易"
+    },
+    {
+      "name": "温谷",
+      "card_id": "yuanzhenxia_wengu",
+      "role": "重要配角",
+      "basis": "本书独立行动或核心对抗线"
+    },
+    {
+      "name": "王一恒",
+      "card_id": "yuanzhenxia_wang_yiheng",
+      "role": "单书主角",
+      "basis": "本书独立行动或核心对抗线"
+    },
+    {
+      "name": "陈维如",
+      "card_id": "yuanzhenxia_chen_weiru",
+      "role": "单书主角",
+      "basis": "本书独立行动或核心对抗线"
+    },
+    {
+      "name": "徐玉音",
+      "card_id": "yuanzhenxia_xu_yuyin",
+      "role": "单书主角",
+      "basis": "本书独立行动或核心对抗线"
+    },
+    {
+      "name": "尼格酋长",
+      "card_id": "yuanzhenxia_nige",
+      "role": "单书主角",
+      "basis": "本书独立行动或核心对抗线"
+    },
+    {
+      "name": "针尖峰空间实验者",
+      "card_id": "yuanzhenxia_transfer_researchers",
+      "role": "阶段性对立者（集体）",
+      "basis": "本书独立行动或核心对抗线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "吕特生",
+      "reason": "单书灵学研究协助者"
+    },
+    {
+      "name": "三桥、许小姐、达尔智者等",
+      "reason": "一次性证人或辅助角色"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_45d61e14ba8564b4",
+      "statement": "财富与利益判断",
+      "annotation_character_ids": [
+        "yuanzhenxia_wang_yiheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c1a7dbb80dcd281",
+      "statement": "询问方式",
+      "annotation_character_ids": [
+        "yuanzhenxia_wengu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_78569a163a12cd6c",
+      "statement": "表面正常与异常疑点",
+      "annotation_character_ids": [
+        "yuanzhenxia_xu_yuyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b861255bff6d5b8d",
+      "statement": "统治与智者关系",
+      "annotation_character_ids": [
+        "yuanzhenxia_nige"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2502cdd375547424",
+      "statement": "杀妻自白与身份困惑",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_weiru"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4d25d5c22846114c",
+      "statement": "关系交锋",
+      "annotation_character_ids": [
+        "yuanzhenxia_wang_yiheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47531828a84a68dc",
+      "statement": "死亡与调查",
+      "annotation_character_ids": [
+        "yuanzhenxia_xu_yuyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e89a3967992a6685",
+      "statement": "医者双手的反省",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_weiru"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_410f5f002bf8ca4f",
+      "statement": "意识归属疑问",
+      "annotation_character_ids": [
+        "yuanzhenxia_xu_yuyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a3d1c7415f430a05",
+      "statement": "徐玉音身份被侵入的后果",
+      "annotation_character_ids": [
+        "yuanzhenxia_nige"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fab39b0b49c243c1",
+      "statement": "悲剧终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_weiru"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45a7efb7a2935e68",
+      "statement": "亲情冷淡与权力比较",
+      "annotation_character_ids": [
+        "yuanzhenxia_wang_yiheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b20490290e1650ba",
+      "statement": "研究与未得联系",
+      "annotation_character_ids": [
+        "yuanzhenxia_wengu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c502bb9eadc03aa3",
+      "statement": "实验失败、尼格事故及能量限制",
+      "annotation_character_ids": [
+        "yuanzhenxia_transfer_researchers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e087572d7c342fc4",
+      "statement": "转移事故、死亡和记忆系统",
+      "annotation_character_ids": [
+        "yuanzhenxia_nige"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c0e1816928cbde05",
+      "statement": "死亡原因及记忆逸出的事故性质",
+      "annotation_character_ids": [
+        "yuanzhenxia_nige"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_43d2c32621b39880",
+      "statement": "实验事故不能由普通死亡复制",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_weiru"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_559e58c79a1873a4",
+      "statement": "尼格记忆系统侵入",
+      "annotation_character_ids": [
+        "yuanzhenxia_xu_yuyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1cd4ff5d78345c4c",
+      "statement": "机制与返回",
+      "annotation_character_ids": [
+        "yuanzhenxia_transfer_researchers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_283647b73159b7dd",
+      "statement": "搜索无果",
+      "annotation_character_ids": [
+        "yuanzhenxia_wengu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5604faf986efef30",
+      "statement": "未赴约",
+      "annotation_character_ids": [
+        "yuanzhenxia_wang_yiheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77ec883820479008",
+      "statement": "未找到设备",
+      "annotation_character_ids": [
+        "yuanzhenxia_transfer_researchers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

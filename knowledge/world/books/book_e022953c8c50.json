@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0",
+  "id": "book_e022953c8c50",
+  "title": "弄假成真",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/16弄假成真.txt",
+  "file": "books/book_e022953c8c50.json",
+  "inherited_fact_count": 9,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "5c335133e7eb1dcd2123ec17d0b7de279b77fba26482b3f06b7468cd3fb3477b",
+  "source_lines": 653,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "快乐玩具厂胖老板",
+      "card_id": "gaosi_happy_toy_boss",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "玩具枪案走私执行队",
+      "card_id": "gaosi_toy_gun_smugglers",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "占士方与两名邻居少年",
+      "card_id": "gaosi_james_fang_children",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_f32f0fb6f7f96504",
+      "statement": "身份、恶作剧与取枪",
+      "annotation_character_ids": [
+        "gaosi_james_fang_children"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_30ff70ce0a59bf16",
+      "statement": "真枪惊吓",
+      "annotation_character_ids": [
+        "gaosi_james_fang_children"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cad5c8241e106e83",
+      "statement": "拦截和楼梯追赶",
+      "annotation_character_ids": [
+        "gaosi_toy_gun_smugglers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1c94e11ae9cb36c2",
+      "statement": "首次搜查时的表演",
+      "annotation_character_ids": [
+        "gaosi_happy_toy_boss"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a957d04b6ceab38",
+      "statement": "警局作证",
+      "annotation_character_ids": [
+        "gaosi_james_fang_children"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c8b6c33034ba786",
+      "statement": "车辆与货物替换",
+      "annotation_character_ids": [
+        "gaosi_happy_toy_boss"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_08b4dea84a9c0165",
+      "statement": "司机变化和复制车辆",
+      "annotation_character_ids": [
+        "gaosi_toy_gun_smugglers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9e6bf40fade82778",
+      "statement": "再查、枪战与利用报案者",
+      "annotation_character_ids": [
+        "gaosi_happy_toy_boss"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0e2f9c86fb71e8c8",
+      "statement": "枪战与投降",
+      "annotation_character_ids": [
+        "gaosi_toy_gun_smugglers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

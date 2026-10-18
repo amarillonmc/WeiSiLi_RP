@@ -1,0 +1,354 @@
+{
+  "schema_version": "1.0",
+  "id": "book_feef27707791",
+  "title": "运气",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/099运气.txt",
+  "file": "books/book_feef27707791.json",
+  "inherited_fact_count": 26,
+  "curated_links": {
+    "arcs": [
+      "arc_baisu"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "34bb98e27aa50e1d39dbd5c14aead2f42eaebce498edee9df83882a3b3c82d3a",
+  "source_lines": 2647,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "李远",
+      "card_id": "weisili_li_yuan",
+      "role": "单书主角",
+      "basis": "推动身份调查、关系冲突或实际异常遭遇"
+    },
+    {
+      "name": "李莲",
+      "card_id": "weisili_li_lian",
+      "role": "单书重要人物",
+      "basis": "推动身份调查、关系冲突或实际异常遭遇"
+    },
+    {
+      "name": "小唐",
+      "card_id": "weisili_xiao_tang",
+      "role": "重要配角",
+      "basis": "推动身份调查、关系冲突或实际异常遭遇"
+    },
+    {
+      "name": "关总裁",
+      "card_id": "weisili_guan_president",
+      "role": "反派",
+      "basis": "推动身份调查、关系冲突或实际异常遭遇"
+    },
+    {
+      "name": "小仙",
+      "card_id": "weisili_xiaoxian",
+      "role": "单书主角",
+      "basis": "推动身份调查、关系冲突或实际异常遭遇"
+    },
+    {
+      "name": "金儿",
+      "card_id": "weisili_jiner",
+      "role": "单书主角",
+      "basis": "推动身份调查、关系冲突或实际异常遭遇"
+    },
+    {
+      "name": "拿骚机场的气体人",
+      "card_id": "weisili_nassau_gas_visitor",
+      "role": "单书主角",
+      "basis": "推动身份调查、关系冲突或实际异常遭遇"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "调查、交往或结尾实际听述"
+    },
+    {
+      "name": "小纳尔逊",
+      "card_id": "weisili_xiao_na",
+      "role": "重要配角",
+      "basis": "调查、交往或结尾实际听述"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "调查、交往或结尾实际听述"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "调查、交往或结尾实际听述"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "调查、交往或结尾实际听述"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "调查、交往或结尾实际听述"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "重要配角",
+      "basis": "调查、交往或结尾实际听述"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "调查、交往或结尾实际听述"
+    },
+    {
+      "name": "曹金福",
+      "card_id": "weisili_cao_jinfu",
+      "role": "重要配角",
+      "basis": "调查、交往或结尾实际听述"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "关氏职员、助手、保安与警方人员",
+      "reason": "无独立角色线的一次性工作人员；不为每名围观者建卡。"
+    },
+    {
+      "name": "太上老君、三清、瓶中巨人",
+      "reason": "仅为温宝裕的神话类比，并未在故事中登场。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_a3635f103898416e",
+      "statement": "职业",
+      "annotation_character_ids": [
+        "weisili_li_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_30a183344dd28437",
+      "statement": "保释与家庭",
+      "annotation_character_ids": [
+        "weisili_li_lian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_43b797af82db06e5",
+      "statement": "记录反证",
+      "annotation_character_ids": [
+        "weisili_li_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04e2c980913eb070",
+      "statement": "婚姻及守密",
+      "annotation_character_ids": [
+        "weisili_xiao_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5120d718fc25f5a5",
+      "statement": "孤儿院旧友",
+      "annotation_character_ids": [
+        "weisili_li_lian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_883c5e940e891ae6",
+      "statement": "郭夫人小唐及孤儿院同学经历",
+      "annotation_character_ids": [
+        "weisili_xiao_guo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_05b0a29af70cfcdd",
+      "statement": "婚姻选择",
+      "annotation_character_ids": [
+        "weisili_xiaoxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_19c00519c4349ad7",
+      "statement": "组织与会面",
+      "annotation_character_ids": [
+        "weisili_guan_president"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_181c3a5ecbf3ae70",
+      "statement": "没有指纹",
+      "annotation_character_ids": [
+        "weisili_jiner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4cb1ead5f6160b21",
+      "statement": "公众误解",
+      "annotation_character_ids": [
+        "weisili_jiner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_df7b2900b8d86f08",
+      "statement": "断绝经济支持",
+      "annotation_character_ids": [
+        "weisili_guan_president"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c9a133b1c266b3c2",
+      "statement": "反对在小仙私居安装偷拍器，明确无权干涉",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_24f17015ef7f97cd",
+      "statement": "授权后说明",
+      "annotation_character_ids": [
+        "weisili_xiao_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d1f6f182967e4c07",
+      "statement": "痛苦威胁与摊牌",
+      "annotation_character_ids": [
+        "weisili_xiaoxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_240c630604310adb",
+      "statement": "威胁的转述",
+      "annotation_character_ids": [
+        "weisili_guan_president"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_21f619a69ba0ec35",
+      "statement": "互相相爱",
+      "annotation_character_ids": [
+        "weisili_jiner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb1ab9a7da7d4b8e",
+      "statement": "书与就医",
+      "annotation_character_ids": [
+        "weisili_li_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f2c44f709e7b308b",
+      "statement": "接应就医",
+      "annotation_character_ids": [
+        "weisili_li_lian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_38e20b79d9f8fe1c",
+      "statement": "同貌与时间冲突",
+      "annotation_character_ids": [
+        "weisili_jiner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a1cdcd4052374db",
+      "statement": "身份矛盾",
+      "annotation_character_ids": [
+        "weisili_nassau_gas_visitor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e6cb3f710f2985d6",
+      "statement": "无重量与变脸",
+      "annotation_character_ids": [
+        "weisili_nassau_gas_visitor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aae76b2a66e03703",
+      "statement": "气化脱身",
+      "annotation_character_ids": [
+        "weisili_nassau_gas_visitor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6996cbbf27071bb5",
+      "statement": "身份和终局推断",
+      "annotation_character_ids": [
+        "weisili_jiner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_29d53c83b068ce3c",
+      "statement": "终局推断",
+      "annotation_character_ids": [
+        "weisili_xiaoxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_de2a83e8138633ab",
+      "statement": "寻找与终局",
+      "annotation_character_ids": [
+        "weisili_xiao_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f0ddb1acf1a957c4",
+      "statement": "无法接受消失",
+      "annotation_character_ids": [
+        "weisili_guan_president"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

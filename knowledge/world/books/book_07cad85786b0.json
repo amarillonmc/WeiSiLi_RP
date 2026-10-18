@@ -1,0 +1,211 @@
+{
+  "schema_version": "1.0",
+  "id": "book_07cad85786b0",
+  "title": "巫艳",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/13.巫艳.txt",
+  "file": "books/book_07cad85786b0.json",
+  "inherited_fact_count": 15,
+  "curated_links": {
+    "events": [
+      "y_maxian_origin"
+    ],
+    "relations": [
+      "before__y_maxian_origin__y_blood_spell",
+      "before__y_blood_spell__y_spell_recoil",
+      "before__y_spell_recoil__y_maxian_recovery",
+      "before__y_maxian_recovery__y_disappearance"
+    ],
+    "arcs": [
+      "arc_maxian"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "bfbf82cd325b99abfb1ccb54f4b3ce960f818a5621b8a820d4b2ed87e5e2c390",
+  "source_lines": 3133,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "医生与感情选择"
+    },
+    {
+      "name": "玛仙",
+      "card_id": "yuanzhenxia_ma_xian",
+      "role": "主角",
+      "basis": "巫术改貌"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "养父"
+    },
+    {
+      "name": "古托",
+      "card_id": "yuanzhenxia_gutuo",
+      "role": "重要配角",
+      "basis": "血咒研究"
+    },
+    {
+      "name": "苏耀西",
+      "card_id": "yuanzhenxia_su_yaoxi",
+      "role": "重要配角",
+      "basis": "研究与联系"
+    },
+    {
+      "name": "鲁旺财",
+      "card_id": "yuanzhenxia_lu_wangcai",
+      "role": "重要配角",
+      "basis": "阿财承担改变"
+    },
+    {
+      "name": "桑雅",
+      "card_id": "yuanzhenxia_sangya",
+      "role": "单书主角",
+      "basis": "桑雅承担改变与职业选择"
+    },
+    {
+      "name": "达伊安",
+      "card_id": "yuanzhenxia_dayian",
+      "role": "重要配角",
+      "basis": "导师"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "医院院长",
+      "reason": "未具名职务人物，未确认各书同一自然人"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_34bd2a13de55ce05",
+      "statement": "身份与守信",
+      "annotation_character_ids": [
+        "yuanzhenxia_lu_wangcai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_979f7c2c4446b8f7",
+      "statement": "后续仍照料留在医院的身体",
+      "annotation_character_ids": [
+        "yuanzhenxia_lu_dafa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a8e14c06fa738a3f",
+      "statement": "肉身后续照顾",
+      "annotation_character_ids": [
+        "yuanzhenxia_lu_dafa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_25fd20beae124747",
+      "statement": "医学边界",
+      "annotation_character_ids": [
+        "yuanzhenxia_sangya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b4c6eead3519f63",
+      "statement": "施术与血咒转移",
+      "annotation_character_ids": [
+        "yuanzhenxia_dayian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_49ed5527320c778b",
+      "statement": "血咒转移成功，并非仍承受伤口",
+      "annotation_character_ids": [
+        "yuanzhenxia_gutuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2c408e271a01f015",
+      "statement": "发现玛仙",
+      "annotation_character_ids": [
+        "yuanzhenxia_dayian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_13b41305b01e91d0",
+      "statement": "转移与态度",
+      "annotation_character_ids": [
+        "yuanzhenxia_sangya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4daabd6013d8f524",
+      "statement": "情感不对称",
+      "annotation_character_ids": [
+        "yuanzhenxia_sangya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_514fbc007d840994",
+      "statement": "感情和血液联系",
+      "annotation_character_ids": [
+        "yuanzhenxia_lu_wangcai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_27b268cd77c21f02",
+      "statement": "右臂畸变来源",
+      "annotation_character_ids": [
+        "yuanzhenxia_lu_wangcai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f8555e3dd90d11c",
+      "statement": "转移具体后果",
+      "annotation_character_ids": [
+        "yuanzhenxia_dayian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86ddd5b77c1cdc23",
+      "statement": "终局选择",
+      "annotation_character_ids": [
+        "yuanzhenxia_sangya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d49424c75e4f18d5",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_lu_wangcai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bdafc99c209a88dc",
+      "statement": "收养、外貌及巫术来历争论",
+      "annotation_character_ids": [
+        "yuanzhenxia_ma_xian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

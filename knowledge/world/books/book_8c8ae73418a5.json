@@ -1,0 +1,360 @@
+{
+  "schema_version": "1.0",
+  "id": "book_8c8ae73418a5",
+  "title": "尸变惊魂",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/05尸变惊魂.txt",
+  "file": "books/book_8c8ae73418a5.json",
+  "inherited_fact_count": 30,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "0818a214d7185dad2a2e87260b743bd7f3d82ec3690e3a284bec2e07a9806804",
+  "source_lines": 1328,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "胜三郎",
+      "card_id": "mulanhua_sheng_sanlang",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "宫本龟太郎",
+      "card_id": "mulanhua_miyamoto_kametaro",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "杜鬼脸",
+      "card_id": "mulanhua_du_guilian",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "杨登霆",
+      "card_id": "mulanhua_yang_dengting",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "截留机密公函的警务机要秘书",
+      "card_id": "mulanhua_confidential_secretary",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "钱一晴诊所的秘密据点人员",
+      "card_id": "mulanhua_dental_clinic_cell",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "胜三郎手下的陆姓摄影助手",
+      "card_id": "mulanhua_lu_photography_helper",
+      "role": "阶段性对立者/转为救助者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "停尸箱内的伪尸取齿人",
+      "card_id": "mulanhua_morgue_false_corpse",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "昆格",
+      "card_id": "mulanhua_kunge",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "吴福、携带假牙的死者",
+      "reason": "引发调查的受害者与短暂开场视角，不承担本书主角线、跨书重要配角或反派身份。"
+    },
+    {
+      "name": "连奥爵士",
+      "reason": "一次性合法谈判代表和线索提供者，和匪徒谈判不构成反派。"
+    },
+    {
+      "name": "胜三郎的三名伏击部下、水警朱中校",
+      "reason": "一次性执行助手，各自行动和死伤作为主线事件记录；没有独立人物目标。"
+    },
+    {
+      "name": "钱一晴、邓尔",
+      "reason": "仅诊所招牌或人物猜测提及，没有可靠实际出场。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_41d168cb28015c09",
+      "statement": "三十七号箱的怪声及年轻外观",
+      "annotation_character_ids": [
+        "mulanhua_morgue_false_corpse"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83fd3694edba3d4e",
+      "statement": "潜入并杀死看守",
+      "annotation_character_ids": [
+        "mulanhua_du_guilian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c32c1d14538cbc03",
+      "statement": "警官身份和假意求助",
+      "annotation_character_ids": [
+        "mulanhua_yang_dengting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b4568b12c57fe21",
+      "statement": "身份、武艺、求见与藏钳",
+      "annotation_character_ids": [
+        "mulanhua_du_guilian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04531661aa302f46",
+      "statement": "化名识别",
+      "annotation_character_ids": [
+        "mulanhua_sheng_sanlang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b66445b45f5d0f89",
+      "statement": "身份分工、试探与绑架",
+      "annotation_character_ids": [
+        "mulanhua_dental_clinic_cell"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7f1d02dd472485fa",
+      "statement": "毁据点、拒命及爆炸",
+      "annotation_character_ids": [
+        "mulanhua_dental_clinic_cell"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_69d9a04069328cd2",
+      "statement": "四人结局",
+      "annotation_character_ids": [
+        "mulanhua_dental_clinic_cell"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bf9c20c3f1422ee0",
+      "statement": "身份、处死部下与药物",
+      "annotation_character_ids": [
+        "mulanhua_sheng_sanlang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8140dae372b33b4f",
+      "statement": "任务归属",
+      "annotation_character_ids": [
+        "mulanhua_du_guilian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5570af82aa227b64",
+      "statement": "胁迫与被假线索骗走",
+      "annotation_character_ids": [
+        "mulanhua_sheng_sanlang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_104510a4e479a7be",
+      "statement": "奉命准备威胁器材",
+      "annotation_character_ids": [
+        "mulanhua_lu_photography_helper"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c22c24d28a48edb3",
+      "statement": "确认身份、解药与恐惧",
+      "annotation_character_ids": [
+        "mulanhua_lu_photography_helper"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ab38e046c34de0ac",
+      "statement": "谈判、形貌与死亡",
+      "annotation_character_ids": [
+        "mulanhua_miyamoto_kametaro"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ecbfe24a93bb9a94",
+      "statement": "杀上司夺权及被俘",
+      "annotation_character_ids": [
+        "mulanhua_sheng_sanlang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6b16b30b76ecdc1e",
+      "statement": "对相遇和取齿的重建",
+      "annotation_character_ids": [
+        "mulanhua_morgue_false_corpse"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed9dc2233c1292e4",
+      "statement": "与伪尸冲突的重建",
+      "annotation_character_ids": [
+        "mulanhua_du_guilian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f0ff6ed051cc3fa",
+      "statement": "明确修正催眠假说",
+      "annotation_character_ids": [
+        "mulanhua_morgue_false_corpse"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0b357fb090128311",
+      "statement": "引诱包围及分利说辞",
+      "annotation_character_ids": [
+        "mulanhua_yang_dengting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d71b29378c13d0ef",
+      "statement": "墙边相遇、武装包围与承认需要掩护",
+      "annotation_character_ids": [
+        "mulanhua_confidential_secretary"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_762844f00fd5860a",
+      "statement": "扣公函的自辩",
+      "annotation_character_ids": [
+        "mulanhua_confidential_secretary"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a2fafa97d9225e79",
+      "statement": "放械及死亡",
+      "annotation_character_ids": [
+        "mulanhua_sheng_sanlang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_432599f7c2ab5e60",
+      "statement": "职务、劫钞及勒索缘由",
+      "annotation_character_ids": [
+        "mulanhua_miyamoto_kametaro"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_288bec7980b7970e",
+      "statement": "被截文件的真相",
+      "annotation_character_ids": [
+        "mulanhua_confidential_secretary"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f7a40e98e688f4d4",
+      "statement": "阴谋重建",
+      "annotation_character_ids": [
+        "mulanhua_yang_dengting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0ad9f0a1e3d291aa",
+      "statement": "宽纵承诺促杨交证",
+      "annotation_character_ids": [
+        "mulanhua_fang_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d48ece49eef8486b",
+      "statement": "逃亡失败、交出秘密",
+      "annotation_character_ids": [
+        "mulanhua_yang_dengting"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f3982320c3952208",
+      "statement": "内奸队伍被截击",
+      "annotation_character_ids": [
+        "mulanhua_confidential_secretary"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eab64da7c0be4a8c",
+      "statement": "藏地查明与钞票处理",
+      "annotation_character_ids": [
+        "mulanhua_miyamoto_kametaro"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_405aa22f4c65b4a6",
+      "statement": "海底藏库任务、求婚和布置炸药",
+      "annotation_character_ids": [
+        "mulanhua_kunge"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

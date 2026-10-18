@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "id": "book_8c0de180ffa0",
+  "title": "仙境",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/027仙境.txt",
+  "file": "books/book_8c0de180ffa0.json",
+  "inherited_fact_count": 20,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "056877b11516b327b8631abb2ef5e802608d4dd1c6aef2a16553ab30fb1f7e7c",
+  "source_lines": 1913,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "跨书重要配角",
+      "basis": "前段商议与家庭联系。"
+    },
+    {
+      "name": "德拉",
+      "card_id": "weisili_dela",
+      "role": "单书主角及阶段性对立者",
+      "basis": "探险、自证、威胁与变形。"
+    },
+    {
+      "name": "黛",
+      "card_id": "weisili_dai",
+      "role": "前史主角",
+      "basis": "画作、旅行和被杀引发主线。"
+    },
+    {
+      "name": "晋美",
+      "card_id": "weisili_jinmei",
+      "role": "阶段性对立者",
+      "basis": "围捕、神判及报恩。"
+    },
+    {
+      "name": "遮庞土王",
+      "card_id": "weisili_zhepang",
+      "role": "前史反派",
+      "basis": "命令枪杀黛、兵败焚宫。"
+    },
+    {
+      "name": "古董店主",
+      "card_id": "weisili_xianjing_antique_owner",
+      "role": "阶段性对立者",
+      "basis": "违约抬价与报警施压。"
+    },
+    {
+      "name": "夺钻袭击者",
+      "card_id": "weisili_xianjing_robbers",
+      "role": "反派群体",
+      "basis": "巷中有组织伏击。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "珠宝公司主人",
+      "reason": "提供钻石鉴定，派人夺钻仅为卫斯理推断，未作确定反派卡；不与古董店主合并。"
+    },
+    {
+      "name": "两个康巴儿童、接待村民、俱乐部职员",
+      "reason": "短篇遇险、引路与后勤辅助，无独立主角或反派弧。"
+    },
+    {
+      "name": "售货员、公司经理、海员熟人、画师及核研究朋友",
+      "reason": "交易、背景与解释性辅助；不因职业或从属关系推定共同罪责。"
+    },
+    {
+      "name": "康巴法师、卫士及其他军队",
+      "reason": "未具独立个体身份，具体强制行为分别归首领和土王；不是额外个人能力。"
+    },
+    {
+      "name": "异物及仙境宝石",
+      "reason": "未显示主体人格，不按角色建立卡；作用原因仍有争议。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_db8773e7baac874e",
+      "statement": "接受改售及付款条件",
+      "annotation_character_ids": [
+        "weisili_xianjing_antique_owner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_022cbfa1c5d2d6e6",
+      "statement": "加价与报警威胁",
+      "annotation_character_ids": [
+        "weisili_xianjing_antique_owner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_709a58269043cb5e",
+      "statement": "买家退出使安排落空",
+      "annotation_character_ids": [
+        "weisili_xianjing_antique_owner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3aea643f66f98fa4",
+      "statement": "身份、婚姻和性格",
+      "annotation_character_ids": [
+        "weisili_dela"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5bcb2c1bcef69c42",
+      "statement": "绘画、旅行与同情",
+      "annotation_character_ids": [
+        "weisili_dai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_812397da4101215c",
+      "statement": "统治、战争与焚宫",
+      "annotation_character_ids": [
+        "weisili_zhepang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_35a6c10793442c2a",
+      "statement": "宝藏检查",
+      "annotation_character_ids": [
+        "weisili_zhepang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ce5e2f87d1e1c9dc",
+      "statement": "拒取珍宝和病中绘画",
+      "annotation_character_ids": [
+        "weisili_dai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b2b2f7fa86363848",
+      "statement": "变形与枪杀",
+      "annotation_character_ids": [
+        "weisili_dai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fdb08fffebfcaa35",
+      "statement": "命卫士射死黛",
+      "annotation_character_ids": [
+        "weisili_zhepang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a03efd029310931",
+      "statement": "自证妻子清白与持枪强迫",
+      "annotation_character_ids": [
+        "weisili_dela"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_081bd7c2d65554c9",
+      "statement": "触摸异物和头晕",
+      "annotation_character_ids": [
+        "weisili_dai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f63da18063299aac",
+      "statement": "围捕及拒绝解释",
+      "annotation_character_ids": [
+        "weisili_jinmei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_86fd52af690eb1d0",
+      "statement": "战争处境、腕力与神判",
+      "annotation_character_ids": [
+        "weisili_jinmei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_de363e1eead1767c",
+      "statement": "救童后的态度转变",
+      "annotation_character_ids": [
+        "weisili_jinmei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3c04bd6ce8592899",
+      "statement": "巨力、缓慢、理解及坠坑",
+      "annotation_character_ids": [
+        "weisili_dela"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4898cdda066c202d",
+      "statement": "老板对讲机与袭击开端分开记录",
+      "annotation_character_ids": [
+        "weisili_xianjing_robbers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bbc79c5c4af473b8",
+      "statement": "反击、逃离与钻石遗失",
+      "annotation_character_ids": [
+        "weisili_xianjing_robbers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_488aebfbb74d8d70",
+      "statement": "雇主仅为卫斯理推断",
+      "annotation_character_ids": [
+        "weisili_xianjing_robbers"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_676b36b2da37d8ac",
+      "statement": "死亡表述及辐射解释存疑",
+      "annotation_character_ids": [
+        "weisili_dela"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

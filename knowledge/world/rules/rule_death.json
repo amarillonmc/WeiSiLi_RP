@@ -1,0 +1,24 @@
+{
+  "id": "rule_death",
+  "title": "死亡后的存在不等于普遍复活",
+  "kind": "rule",
+  "epistemic_status": "synthesis",
+  "statement": "部分离体意识可保留、被联络或换用身体；另一些失去联络、没有容器或只剩无法验证的愿望。任何人的死亡都不能因世界有灵魂而自动撤销。",
+  "rp_application": "记录死亡、肉身维护、意识位置、通讯条件、复归条件五项；无证据时保留未知。",
+  "limits": [
+    "陈长青仍求而未得彻底解脱。",
+    "阴间停机不等于已证所有灵魂消灭或转世。",
+    "角色卡的参战恢复方案属于改编，不能写入世界历史。"
+  ],
+  "schema_version": "1.0",
+  "section": "rules",
+  "evidence_ids": [
+    "evidence_65f0c0ecdf5792cb",
+    "evidence_87d5af21ab4b92fd",
+    "evidence_f9002cc32a926185"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da",
+    "book_daabf1bd27ce"
+  ]
+}

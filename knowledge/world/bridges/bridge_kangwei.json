@@ -1,0 +1,25 @@
+{
+  "id": "bridge_kangwei",
+  "title": "康维与柳絮连接星际及配额调查",
+  "kind": "bridge",
+  "series": [
+    "原振侠系列",
+    "卫斯理系列"
+  ],
+  "connection_level": "explicit_crossover",
+  "claim": "机械生命康维在卫斯理案件中继续组织研究，并为柳絮关心寿命；技术仍有边界。",
+  "schema_version": "1.0",
+  "section": "bridges",
+  "evidence_ids": [
+    "evidence_085016989c36978a",
+    "evidence_808849acbe26be49",
+    "evidence_3d8062cdf0019882",
+    "evidence_ffb4721ae0737a32",
+    "evidence_db91b370c1b9beee",
+    "evidence_e0ab4720457af797"
+  ],
+  "book_ids": [
+    "book_285c39eb6c50",
+    "book_723871ef0f84"
+  ]
+}

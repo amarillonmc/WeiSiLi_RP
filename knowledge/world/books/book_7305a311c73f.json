@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0",
+  "id": "book_7305a311c73f",
+  "title": "怪新郎",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/40怪新郎.txt",
+  "file": "books/book_7305a311c73f.json",
+  "inherited_fact_count": 25,
+  "curated_links": {
+    "events": [
+      "m_marriage_swap"
+    ],
+    "relations": [
+      "before__m_annie_family__m_marriage_swap",
+      "before__m_marriage_swap__m_annie_walks",
+      "before__m_annie_walks__m_annie_independent"
+    ],
+    "arcs": [
+      "arc_muxiuzhen",
+      "arc_annie",
+      "arc_yunsifeng"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "cf26929980b69181cc98d05b8e00cbcd75831124db87d86d170ef4a11168ebb2",
+  "source_lines": 2744,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "金妃",
+      "card_id": "mulanhua_jinfei",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "周丝",
+      "card_id": "mulanhua_zhou_si",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "杀害周丝的毒贩",
+      "card_id": "mulanhua_zhousi_poisoner",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "银色汽车上的四名毒箭伏击者",
+      "card_id": "mulanhua_silvercar_arrow_team",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "姚雄",
+      "card_id": "mulanhua_yao_xiong",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "周丝的女佣",
+      "reason": "一次性受害配角，未显示独立主线或对立行为。"
+    },
+    {
+      "name": "匪巢守卫、医生及常规警员",
+      "reason": "无独立身份的次要执行者或一次助手，其支援条件并入相关主卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_49dddb36eb2a47f9",
+      "statement": "动力拐杖及试用",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6d9f74efab447422",
+      "statement": "云四风中毒与牛奶疑点",
+      "annotation_character_ids": [
+        "mulanhua_jinfei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_15fd4ad8053e7827",
+      "statement": "毒箭追踪与安妮火箭",
+      "annotation_character_ids": [
+        "mulanhua_silvercar_arrow_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3283479bfcadb619",
+      "statement": "一人受控与三人逃离",
+      "annotation_character_ids": [
+        "mulanhua_silvercar_arrow_team"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a49ff543ca4cbb1b",
+      "statement": "接近云四风与饮酒",
+      "annotation_character_ids": [
+        "mulanhua_zhou_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_507ece651eaab343",
+      "statement": "卧室照片、关系主张和装修矛盾",
+      "annotation_character_ids": [
+        "mulanhua_zhou_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f1c988ba0951ea1a",
+      "statement": "药物解释",
+      "annotation_character_ids": [
+        "mulanhua_zhou_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_18970f5402445ed3",
+      "statement": "亲密记忆与红衣试探",
+      "annotation_character_ids": [
+        "mulanhua_jinfei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e631089cc7836242",
+      "statement": "识假与记忆试探",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6574cc39af72e923",
+      "statement": "通话、遇害和逃离者",
+      "annotation_character_ids": [
+        "mulanhua_zhou_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_57bb9708bc597797",
+      "statement": "中毒现场、逃窗、开枪未中与跌死",
+      "annotation_character_ids": [
+        "mulanhua_zhousi_poisoner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2096dacd2713075f",
+      "statement": "身份背景和前科",
+      "annotation_character_ids": [
+        "mulanhua_zhousi_poisoner"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6736492935b884ff",
+      "statement": "安妮饮食试探及窃听",
+      "annotation_character_ids": [
+        "mulanhua_jinfei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_88c3253b81ce8be0",
+      "statement": "识假和窃听",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_94cf2c799d803040",
+      "statement": "与姚雄通话、自名及杀云计划",
+      "annotation_character_ids": [
+        "mulanhua_jinfei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_849c26090eaef556",
+      "statement": "阴谋中的药酒安排",
+      "annotation_character_ids": [
+        "mulanhua_zhou_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0073649531873df6",
+      "statement": "冒名财产计划",
+      "annotation_character_ids": [
+        "mulanhua_yao_xiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04bedc25d92548a0",
+      "statement": "手术和财产计划说明",
+      "annotation_character_ids": [
+        "mulanhua_jinfei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4163e49940a8f569",
+      "statement": "赎金、反跟踪和烟盒检查",
+      "annotation_character_ids": [
+        "mulanhua_yao_xiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ffaf5cd196bbe0d3",
+      "statement": "传爆炸香烟救妻",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca53d0f75888babf",
+      "statement": "真穆破门夺枪但被火力困",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4534140faa90c25c",
+      "statement": "被追踪、围攻及末枪判断",
+      "annotation_character_ids": [
+        "mulanhua_yao_xiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8e01347772bb4fd5",
+      "statement": "记短停找到巢穴",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2379610642a8b321",
+      "statement": "警方解围",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_238984c560e4dcd7",
+      "statement": "被捕",
+      "annotation_character_ids": [
+        "mulanhua_jinfei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

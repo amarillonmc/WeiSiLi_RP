@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "id": "book_040db2e01a69",
+  "title": "血美人",
+  "aliases": [
+    "学美人"
+  ],
+  "series": "浪子高达系列",
+  "source_path": "浪子高达系列/学美人.txt",
+  "file": "books/book_040db2e01a69.json",
+  "inherited_fact_count": 18,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "c305c79a2c5b648c76f77f804ecdf8c71d259b4ccc4747875f9b277fa03202fb",
+  "source_lines": 3793,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "高达",
+      "card_id": "adventure_gaoda",
+      "role": "主角",
+      "basis": "全书核心行动视角"
+    },
+    {
+      "name": "杜雪",
+      "card_id": "adventure_du_xue",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "时重池",
+      "card_id": "adventure_shi_lushi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "费经理",
+      "card_id": "adventure_fei",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "莫教授",
+      "card_id": "adventure_mo",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "黎探长",
+      "card_id": "adventure_li_tanzhang",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "妮娜",
+      "card_id": "adventure_nina",
+      "role": "阶段性对立者",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "金康",
+      "card_id": "adventure_jinkang",
+      "role": "阶段性对立者",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "蝎子老大",
+      "card_id": "adventure_xiezi",
+      "role": "反派",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "凤屏",
+      "card_id": "adventure_fengping",
+      "role": "阶段性对立者",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "钟宝玲",
+      "card_id": "adventure_baoling",
+      "role": "单书主角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "无名法国寡妇、小吧女及普通手下",
+      "reason": "一次性关系、受害者或从属执行者，无独立主要行动线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_1b45305729f3762f",
+      "statement": "高达被误作金康后的威胁",
+      "annotation_character_ids": [
+        "adventure_nina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a6e5b33f67b1b7e9",
+      "statement": "同伙卷款与身份追索的线索",
+      "annotation_character_ids": [
+        "adventure_jinkang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_64413cc0388be372",
+      "statement": "旧识、认出与选择协助",
+      "annotation_character_ids": [
+        "adventure_baoling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_040b758f56819e1a",
+      "statement": "与蝎子及现金交易关系",
+      "annotation_character_ids": [
+        "adventure_jinkang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5904b3c55cf004f6",
+      "statement": "金康、妮娜与资金调查背景",
+      "annotation_character_ids": [
+        "adventure_nina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_95f45f5ec9f7b1ec",
+      "statement": "毒品组织与现金结构",
+      "annotation_character_ids": [
+        "adventure_xiezi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_de7e2de57663b344",
+      "statement": "追问、证人危险与调查限制",
+      "annotation_character_ids": [
+        "adventure_li_tanzhang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22aff39dc9f35e0d",
+      "statement": "遇害终局",
+      "annotation_character_ids": [
+        "adventure_jinkang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2fb321fc175f60d9",
+      "statement": "妮娜和金康遇害及高达理解其陷害",
+      "annotation_character_ids": [
+        "adventure_nina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7640b9bc354b2c85",
+      "statement": "任务、持枪、失手、恐惧与改变态度",
+      "annotation_character_ids": [
+        "adventure_fengping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47ba4b725f3955e0",
+      "statement": "派凤屏诱捕",
+      "annotation_character_ids": [
+        "adventure_xiezi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b94f67b82d8fe14b",
+      "statement": "联络与组织暴力",
+      "annotation_character_ids": [
+        "adventure_fengping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e7aecbc393792d14",
+      "statement": "协助接近巢穴",
+      "annotation_character_ids": [
+        "adventure_fengping"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_721924b4583d0e5a",
+      "statement": "施暴、被突袭与报案",
+      "annotation_character_ids": [
+        "adventure_xiezi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9583ffb55695f5ff",
+      "statement": "重聚与高达再度出游",
+      "annotation_character_ids": [
+        "adventure_baoling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4deedf2f12b719c4",
+      "statement": "十五年判刑",
+      "annotation_character_ids": [
+        "adventure_xiezi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f277449a95db796f",
+      "statement": "蝎子判刑及破案成果",
+      "annotation_character_ids": [
+        "adventure_li_tanzhang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b908c0a17b725d5f",
+      "statement": "主动加入与对高达名声的了解",
+      "annotation_character_ids": [
+        "adventure_du_xue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

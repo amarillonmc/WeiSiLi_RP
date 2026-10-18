@@ -1,0 +1,503 @@
+{
+  "schema_version": "1.0",
+  "id": "book_02a15832ae8a",
+  "title": "祸根",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/091祸根.txt",
+  "file": "books/book_02a15832ae8a.json",
+  "inherited_fact_count": 28,
+  "curated_links": {
+    "rules": [
+      "rule_tech_access"
+    ],
+    "entities": [
+      "miao_base"
+    ],
+    "events": [
+      "w_miao_contact",
+      "m_weicrossover"
+    ],
+    "relations": [
+      "before__w_family_recovery__w_hongling_choices",
+      "before__w_hongling_choices__w_miao_contact"
+    ],
+    "arcs": [
+      "arc_hongling",
+      "arc_muxiuzhen"
+    ],
+    "issues": [
+      "issue_truthful_views"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "58a9c164879750cfb0c427b1d7237396ac3b25507b3f7e46ad19215d78407e60",
+  "source_lines": 3165,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "亲自调查、决断与叙述"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "实际参与调查、家庭选择与行动"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "实际参与线索和行动"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "主角",
+      "basis": "关系与自主能力发展的中心人物"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "主角",
+      "basis": "身世、婚配与苗疆行动中心"
+    },
+    {
+      "name": "温妈妈",
+      "card_id": "weisili_wen_mama",
+      "role": "重要配角",
+      "basis": "小岛见陶与婚配家长互动"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "接待蓝丝等、与卫白离岛"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "重要配角",
+      "basis": "教红绫潜水、亲密相处和离去"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "告知卫家人所在"
+    },
+    {
+      "name": "铁蛋",
+      "card_id": "weisili_tie_dan",
+      "role": "重要配角",
+      "basis": "亲历往事与儿子对话"
+    },
+    {
+      "name": "铁天音",
+      "card_id": "weisili_tie_tianyin",
+      "role": "主角",
+      "basis": "撕页目的、政治交涉、发作与武器事故解释"
+    },
+    {
+      "name": "何先达",
+      "card_id": "weisili_he_xianda",
+      "role": "主角",
+      "basis": "救卫白、制止发作、伤药与父女关系"
+    },
+    {
+      "name": "陈月兰",
+      "card_id": "weisili_chen_yuelan",
+      "role": "主角",
+      "basis": "外星投影与家人相认、教红绫"
+    },
+    {
+      "name": "穿背心银猿",
+      "card_id": "weisili_silver_ape_vest",
+      "role": "主角",
+      "basis": "步枪误击同伴再误伤自亡"
+    },
+    {
+      "name": "银猿同伴",
+      "card_id": "weisili_silver_ape_companion",
+      "role": "主角",
+      "basis": "夺枪事件与中弹死亡"
+    },
+    {
+      "name": "苗疆外星访问者",
+      "card_id": "weisili_miao_alien_visitors",
+      "role": "重要配角",
+      "basis": "金甲神回忆与基地继续运作"
+    },
+    {
+      "name": "前代龙天官",
+      "card_id": "weisili_old_dragon_tg",
+      "role": "反派",
+      "basis": "阴谋来由和隐居结局"
+    },
+    {
+      "name": "前代其余天官",
+      "card_id": "weisili_old_tianguan_companions",
+      "role": "反派",
+      "basis": "共同施术、异星劝告与终局"
+    },
+    {
+      "name": "更前一代天官",
+      "card_id": "weisili_elder_tianguan",
+      "role": "反派",
+      "basis": "诱拐、迁葬及长期谋划"
+    },
+    {
+      "name": "旧主领袖",
+      "card_id": "weisili_tie_leader",
+      "role": "反派",
+      "basis": "政治后果及已死前史"
+    },
+    {
+      "name": "扬州继任者",
+      "card_id": "weisili_yangzhou_successor",
+      "role": "阶段性对立者",
+      "basis": "实际会见铁天音并拒放人要求"
+    },
+    {
+      "name": "困敦（当代鼠天官）",
+      "card_id": "weisili_tg_kun_dun",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "赤奋若（当代牛天官）",
+      "card_id": "weisili_tg_chi_fenruo",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "摄提格（当代虎天官）",
+      "card_id": "weisili_tg_she_tige",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "单阏（当代兔天官）",
+      "card_id": "weisili_tg_dan_e",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "执徐（当代龙天官）",
+      "card_id": "weisili_tg_zhi_xu",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "大荒落（当代蛇天官）",
+      "card_id": "weisili_tg_da_huangluo",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "敦牂（当代马天官）",
+      "card_id": "weisili_tg_dun_zang",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "协洽（当代羊天官）",
+      "card_id": "weisili_tg_xie_qia",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "涒滩（当代猴天官）",
+      "card_id": "weisili_tg_tun_tan",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "作噩（当代鸡天官）",
+      "card_id": "weisili_tg_zuo_e",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "阉茂（当代狗天官）",
+      "card_id": "weisili_tg_yan_mao",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    },
+    {
+      "name": "大渊献（当代猪天官）",
+      "card_id": "weisili_tg_da_yuanxian",
+      "role": "重要配角",
+      "basis": "当代十二天官有固定名号，共同实际行动，与前代分开"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "军区司令及地下关系网络中间人",
+      "reason": "仅为铁天音获取会面/装备的帮助背景，未有独立主线"
+    },
+    {
+      "name": "康维、原振侠、海棠",
+      "reason": "关系与去向被谈论，未亲自在本书出现"
+    },
+    {
+      "name": "良辰美景",
+      "reason": "身法比较和旧事件回忆，不算本案当前参与"
+    },
+    {
+      "name": "两头抬尸大猴",
+      "reason": "临时帮助搬运的无独立身份动物，不与银猿混同"
+    },
+    {
+      "name": "陈耳、猛哥",
+      "reason": "安排联络和搜寻的提及；未把提及扩展为此书独立新行动"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_343d7b36097852bc",
+      "statement": "晚年暴行、继承猜测与逝世回述",
+      "annotation_character_ids": [
+        "weisili_tie_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_071bd3e23f66a6d0",
+      "statement": "铁天音通过关系会见、请求失败与继任者反应",
+      "annotation_character_ids": [
+        "weisili_yangzhou_successor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa86ba71cc09ec00",
+      "statement": "交换自由与青春的明确回指",
+      "annotation_character_ids": [
+        "yuanzhenxia_oriental_sun_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_15ecc7ad2951c26e",
+      "statement": "三代异术区别及诱拐迁葬记录",
+      "annotation_character_ids": [
+        "weisili_elder_tianguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2403deea113c64bb",
+      "statement": "诱拐传承、隐居与当代区别",
+      "annotation_character_ids": [
+        "weisili_old_dragon_tg"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9865bcd897e24ed1",
+      "statement": "商人收养的来源",
+      "annotation_character_ids": [
+        "weisili_yangzhou_successor"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa066b4b5e468959",
+      "statement": "下落情报、后代失败与本代传承边界",
+      "annotation_character_ids": [
+        "weisili_elder_tianguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_875f0b3a868d98c1",
+      "statement": "本代为纯朴苗人，不确认龙位仍是皇族",
+      "annotation_character_ids": [
+        "weisili_tg_chi_fenruo",
+        "weisili_tg_da_huangluo",
+        "weisili_tg_da_yuanxian",
+        "weisili_tg_dan_e",
+        "weisili_tg_dun_zang",
+        "weisili_tg_kun_dun",
+        "weisili_tg_she_tige",
+        "weisili_tg_tun_tan",
+        "weisili_tg_xie_qia",
+        "weisili_tg_yan_mao",
+        "weisili_tg_zhi_xu",
+        "weisili_tg_zuo_e"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_12ba14fbed8da80f",
+      "statement": "集体施术与异星回应",
+      "annotation_character_ids": [
+        "weisili_old_tianguan_companions"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_018a3c4f67345554",
+      "statement": "后辈对前辈咒术的称述",
+      "annotation_character_ids": [
+        "weisili_elder_tianguan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b083ca1bae9bdeaf",
+      "statement": "金甲神记录及政治干预仅是假设",
+      "annotation_character_ids": [
+        "weisili_miao_alien_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ab6d92e9eb7bc012",
+      "statement": "劝告与政治影响只属推测",
+      "annotation_character_ids": [
+        "weisili_old_tianguan_companions"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_32c32868e07ea777",
+      "statement": "潜水常识与红绫关系",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0bb1e9d7e786e292",
+      "statement": "长途行动中的力量与准备",
+      "annotation_character_ids": [
+        "weisili_hong_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ea4661a16d42f55e",
+      "statement": "两具尸体与致命枪伤",
+      "annotation_character_ids": [
+        "weisili_silver_ape_companion",
+        "weisili_silver_ape_vest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0627d6ed9d342159",
+      "statement": "以内家功救助因刺激而气血失控的卫白，明确实际效果",
+      "annotation_character_ids": [
+        "weisili_he_xianda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9373e89bfd3fc315",
+      "statement": "带铁天音前来",
+      "annotation_character_ids": [
+        "weisili_he_xianda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a88310b8938837e",
+      "statement": "制止发作与伤药",
+      "annotation_character_ids": [
+        "weisili_he_xianda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b1934451f0db141",
+      "statement": "失控、创伤原因、约束和救治",
+      "annotation_character_ids": [
+        "weisili_tie_tianyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5245a1db8be5c8d4",
+      "statement": "双腿被打断与儿子的创伤",
+      "annotation_character_ids": [
+        "weisili_tie_dan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8707c4e99fd8c8c3",
+      "statement": "枪械事故实情与两猿个体区别",
+      "annotation_character_ids": [
+        "weisili_silver_ape_companion",
+        "weisili_silver_ape_vest"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_29f9177c8caa5f8a",
+      "statement": "主动请求治疗",
+      "annotation_character_ids": [
+        "weisili_tie_tianyin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_34533ba1c816b26a",
+      "statement": "只承诺试治",
+      "annotation_character_ids": [
+        "weisili_he_xianda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b1dd125d9f6d5be",
+      "statement": "外星身份、远程立体投影、拒见与指导红绫，明确更正前书猜测",
+      "annotation_character_ids": [
+        "weisili_chen_yuelan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f7fcedaa46cd182",
+      "statement": "基地继续可用、陈月兰投影与红绫操作",
+      "annotation_character_ids": [
+        "weisili_miao_alien_visitors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3beea314932e36e3",
+      "statement": "祖母教用背心及基地设备，主动留下背心，不能主动召祖母",
+      "annotation_character_ids": [
+        "weisili_hong_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee42f3cc9a489e8c",
+      "statement": "不携带背心并获得父母尊重",
+      "annotation_character_ids": [
+        "weisili_hong_ling"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_345dd2a9f8d492f4",
+      "statement": "卫仅希望已治好",
+      "annotation_character_ids": [
+        "weisili_he_xianda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

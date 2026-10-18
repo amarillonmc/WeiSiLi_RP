@@ -1,0 +1,33 @@
+{
+  "id": "w_du_copy_reveal",
+  "title": "杜良替身及思想植入实验曝光",
+  "kind": "event",
+  "summary": "医院发现复制杜良不能吸收新知识且六年循环；本尊留下微片并在外实施受精卵思想实验。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《另类复制》揭露；替身工作和植入实验发生在此前多年。",
+    "narrative_layer": "revelation"
+  },
+  "state_before": "同仁以为面对持续创新的本尊。",
+  "state_after": "副本与本尊分开认定；旧暗示停止响应，实验伤害进入调查。",
+  "knowledge_boundary": "实验只能证明其植入机制，不证明他的全人类起源假说。",
+  "character_ids": [
+    "weisili_du_liang",
+    "weisili_du_liang_copy"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_f253506602afc4e0",
+    "evidence_cf0393cf1acf709f",
+    "evidence_00a673d12d539052",
+    "evidence_b28861735fbe5e57",
+    "evidence_3bd387cc3cb6e21d",
+    "evidence_82d34fd7e22a6090",
+    "evidence_8399b4852b52cb65"
+  ],
+  "book_ids": [
+    "book_ccfaaef512be"
+  ]
+}

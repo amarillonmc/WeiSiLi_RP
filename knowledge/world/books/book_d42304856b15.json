@@ -1,0 +1,306 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d42304856b15",
+  "title": "水晶宫",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/110水晶宫.txt",
+  "file": "books/book_d42304856b15.json",
+  "inherited_fact_count": 22,
+  "curated_links": {
+    "arcs": [
+      "arc_qibai"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "1af3a0dc3e1190bed546dff900f2655b9464537cc6a81566a287b5285a644fd4",
+  "source_lines": 2725,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "齐白",
+      "card_id": "weisili_qi_bai",
+      "role": "重要配角",
+      "basis": "实际参与调查与探索"
+    },
+    {
+      "name": "大亨",
+      "card_id": "weisili_da_heng",
+      "role": "重要配角",
+      "basis": "实际参与调查与探索"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "实际参与调查与探索"
+    },
+    {
+      "name": "朱槿",
+      "card_id": "weisili_zhu_jin",
+      "role": "重要配角",
+      "basis": "实际参与调查与探索"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "实际参与调查与探索"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "实际参与调查与探索"
+    },
+    {
+      "name": "人树结合男子",
+      "card_id": "weisili_wood_man",
+      "role": "重要配角",
+      "basis": "实际参与调查与探索"
+    },
+    {
+      "name": "人树结合女子",
+      "card_id": "weisili_wood_woman",
+      "role": "重要配角",
+      "basis": "实际参与调查与探索"
+    },
+    {
+      "name": "阿水",
+      "card_id": "weisili_a_shui",
+      "role": "单书主角",
+      "basis": "海底经历与生活选择的关键人物"
+    },
+    {
+      "name": "阿花",
+      "card_id": "weisili_a_hua",
+      "role": "单书重要人物",
+      "basis": "海底经历与生活选择的关键人物"
+    },
+    {
+      "name": "冷若水",
+      "card_id": "weisili_leng_ruoshui",
+      "role": "单书重要人物",
+      "basis": "海底经历与生活选择的关键人物"
+    },
+    {
+      "name": "三十七（海底守墓者）",
+      "card_id": "weisili_thirty_seven",
+      "role": "单书主角",
+      "basis": "海底经历与生活选择的关键人物"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "张盛和老路",
+      "reason": "马队阶段的一次性同行及警告者，无独立主角线或反派行动。"
+    },
+    {
+      "name": "海底居民与首领",
+      "reason": "共同执行生活和守墓规则；有明确人格行动者三十七单独建卡，其他成员未被充分个体化。"
+    },
+    {
+      "name": "求长生的几位老人家",
+      "reason": "背景权力群体，身份不能仅凭称呼和以前匿名人一一对应。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e41961a4567ed234",
+      "statement": "处境与坚持",
+      "annotation_character_ids": [
+        "weisili_a_hua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2888f7409338b823",
+      "statement": "医疗观察",
+      "annotation_character_ids": [
+        "weisili_leng_ruoshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3316a5844065b4c3",
+      "statement": "兄妹和陶的照顾",
+      "annotation_character_ids": [
+        "weisili_a_hua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cf814ce9c6a1ecf1",
+      "statement": "兄妹与经历",
+      "annotation_character_ids": [
+        "weisili_a_shui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_171a8da430c8ab44",
+      "statement": "地下生活和相处",
+      "annotation_character_ids": [
+        "weisili_a_shui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b256a3e728aee2a4",
+      "statement": "体格、照顾与冲突",
+      "annotation_character_ids": [
+        "weisili_thirty_seven"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_724799fab5727a8c",
+      "statement": "认真倾听",
+      "annotation_character_ids": [
+        "weisili_leng_ruoshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_67e981f83f399b23",
+      "statement": "维护证词",
+      "annotation_character_ids": [
+        "weisili_a_hua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd73c2474c82c42c",
+      "statement": "空气问题",
+      "annotation_character_ids": [
+        "weisili_leng_ruoshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f0d037b5da7cdf2e",
+      "statement": "带回阿水",
+      "annotation_character_ids": [
+        "weisili_thirty_seven"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f815b022f4fec6ce",
+      "statement": "离开与器具",
+      "annotation_character_ids": [
+        "weisili_a_shui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a468b50addded2cd",
+      "statement": "减压与器材",
+      "annotation_character_ids": [
+        "weisili_leng_ruoshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_642115116b29ecb3",
+      "statement": "出院判断",
+      "annotation_character_ids": [
+        "weisili_leng_ruoshui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_41de14908ba76a27",
+      "statement": "想念伴侣",
+      "annotation_character_ids": [
+        "weisili_a_shui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e5a6204cc2d82d2",
+      "statement": "实际恢复与谢意",
+      "annotation_character_ids": [
+        "weisili_wood_man",
+        "weisili_wood_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_48677f3ef3686ab5",
+      "statement": "记忆与道德冲突",
+      "annotation_character_ids": [
+        "weisili_wood_man",
+        "weisili_wood_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9aed9fd5813035e9",
+      "statement": "有限路线和暗语",
+      "annotation_character_ids": [
+        "weisili_wood_man",
+        "weisili_wood_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_291ab0c1604ebda7",
+      "statement": "失败、会淹死与尊重选择",
+      "annotation_character_ids": [
+        "weisili_wood_man",
+        "weisili_wood_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b0a009b282bd18e4",
+      "statement": "本人不能确认是否免溺水",
+      "annotation_character_ids": [
+        "weisili_qi_bai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_43edca018c53a7e1",
+      "statement": "接引、地位与选择",
+      "annotation_character_ids": [
+        "weisili_thirty_seven"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d9ee0312ac147db",
+      "statement": "自主留下",
+      "annotation_character_ids": [
+        "weisili_a_shui"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fce331c20e79c81e",
+      "statement": "未告知的终局",
+      "annotation_character_ids": [
+        "weisili_a_hua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

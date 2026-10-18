@@ -1,0 +1,412 @@
+{
+  "schema_version": "1.0",
+  "id": "book_439488d0010e",
+  "title": "真相",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/082真相.txt",
+  "file": "books/book_439488d0010e.json",
+  "inherited_fact_count": 31,
+  "curated_links": {
+    "arcs": [
+      "arc_baisu"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "456b816785e514e92617c4feff5d55616e052a3b527b624fd6711fbbd2745764",
+  "source_lines": 3252,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "追查并撮合父子"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "资料调查及讨论"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "主角",
+      "basis": "上海寻根"
+    },
+    {
+      "name": "哈山",
+      "card_id": "weisili_ha_shan",
+      "role": "主角",
+      "basis": "查得身世、团聚"
+    },
+    {
+      "name": "刘根生",
+      "card_id": "weisili_liu_gensheng",
+      "role": "主角／对立者",
+      "basis": "讲述前史、处理毛斯、团聚"
+    },
+    {
+      "name": "红海女子",
+      "card_id": "weisili_liu_wife",
+      "role": "主角",
+      "basis": "前史共同生活、找子与离开"
+    },
+    {
+      "name": "史道福",
+      "card_id": "weisili_shi_daofu",
+      "role": "阶段叙事主角",
+      "basis": "物证与回忆揭示关系"
+    },
+    {
+      "name": "史皮匠",
+      "card_id": "weisili_shi_cobbler",
+      "role": "反派／阶段性对立者",
+      "basis": "背弃托养并侵占钱财"
+    },
+    {
+      "name": "史皮匠之妻",
+      "card_id": "weisili_shi_cobbler_wife",
+      "role": "反派",
+      "basis": "主张遗弃与隐瞒"
+    },
+    {
+      "name": "毛斯",
+      "card_id": "weisili_mao_si",
+      "role": "主角／阶段性对立者",
+      "basis": "发现与强夺容器"
+    },
+    {
+      "name": "邮轮船长",
+      "card_id": "weisili_cuoshou_captain",
+      "role": "重要配角／对立者",
+      "basis": "赌局后失控伤人及送医"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "研究及通信"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "研究及通信"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "通报船长失控"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "联络及电话会议"
+    },
+    {
+      "name": "胡说",
+      "card_id": "weisili_hu_shuo",
+      "role": "重要配角",
+      "basis": "讨论"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "电话会议"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "电话会议"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "亲自参加电话会议并取得研究许可"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "大半、小半",
+      "reason": "一次性潜水伙伴，依毛斯指挥、后领取酬劳；未独立发起强夺，非反派"
+    },
+    {
+      "name": "陈落、李平",
+      "reason": "一次性船舶操作与运输协作者，未核跨书实际登场"
+    },
+    {
+      "name": "外国运输船长、兵士、小刀会众",
+      "reason": "历史海战双方的职务性群像，没有超出战事的独立反派人格"
+    },
+    {
+      "name": "偷懒丢信的小瘪三",
+      "reason": "极短前史中的匿名送信过失，缺可识别持续身份"
+    },
+    {
+      "name": "历代容器使用者、制造者",
+      "reason": "传承链与来源推测，不据此生成未出现的人物"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_2ed77d6715fee398",
+      "statement": "赌注未兑现、自责酗酒、被停职",
+      "annotation_character_ids": [
+        "weisili_cuoshou_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_211522d2e2d9cbc1",
+      "statement": "伤人、攻击卫及受制",
+      "annotation_character_ids": [
+        "weisili_cuoshou_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c0aa02c74ba79f25",
+      "statement": "得知后果后承诺帮助补偿",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_578321c7cadc64e9",
+      "statement": "外貌、叔叔身份与伙伴",
+      "annotation_character_ids": [
+        "weisili_mao_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dff445762e033ca6",
+      "statement": "送医安置",
+      "annotation_character_ids": [
+        "weisili_cuoshou_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_75684e8bda7928fc",
+      "statement": "沉船线索和分成谈判",
+      "annotation_character_ids": [
+        "weisili_mao_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aef89bb5bf148cde",
+      "statement": "研究背景及谨慎吐露",
+      "annotation_character_ids": [
+        "weisili_shi_daofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e9bf4ea6230cf79c",
+      "statement": "职业与抚养侄儿",
+      "annotation_character_ids": [
+        "weisili_shi_cobbler"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb6aa936614c365e",
+      "statement": "托养争执及遗弃主张",
+      "annotation_character_ids": [
+        "weisili_shi_cobbler_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cf0a1e6882a65ab0",
+      "statement": "争执、报纸与放弃托养",
+      "annotation_character_ids": [
+        "weisili_shi_cobbler"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0be106c31434bc6e",
+      "statement": "童年害怕、讲述习惯",
+      "annotation_character_ids": [
+        "weisili_shi_daofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_74c016772812455d",
+      "statement": "弃婴证据与情绪冲击",
+      "annotation_character_ids": [
+        "weisili_ha_shan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f6198a50ec6a99d5",
+      "statement": "送孤儿院的实际方式",
+      "annotation_character_ids": [
+        "weisili_shi_cobbler"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_531721a6714621ef",
+      "statement": "迁居获利、终生恐惧与临终嘱托",
+      "annotation_character_ids": [
+        "weisili_shi_cobbler_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5cf045265f3eeff2",
+      "statement": "获利、悔惧与死亡",
+      "annotation_character_ids": [
+        "weisili_shi_cobbler"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2d0326e80f870b3d",
+      "statement": "保存衣物",
+      "annotation_character_ids": [
+        "weisili_shi_daofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_33df8c0a386e4171",
+      "statement": "海战、伤势与旧日暴力标准",
+      "annotation_character_ids": [
+        "weisili_liu_gensheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee94427ab1535e69",
+      "statement": "翻译仪",
+      "annotation_character_ids": [
+        "weisili_liu_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c3347703f24756be",
+      "statement": "告知未知风险及转移",
+      "annotation_character_ids": [
+        "weisili_liu_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b1702a032fcb9c96",
+      "statement": "学会使用但不知装置来历",
+      "annotation_character_ids": [
+        "weisili_liu_gensheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e30c5fb9f4cdc02a",
+      "statement": "年龄、红海人类出身、名字未被丈夫记住",
+      "annotation_character_ids": [
+        "weisili_liu_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_630fac64efb23daa",
+      "statement": "违背妻意带走儿子、便携装置原理",
+      "annotation_character_ids": [
+        "weisili_liu_gensheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a4b4070adcb3d020",
+      "statement": "孩子抚养分歧与设备",
+      "annotation_character_ids": [
+        "weisili_liu_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_34b85b878338ac09",
+      "statement": "时间故障及离去终局",
+      "annotation_character_ids": [
+        "weisili_liu_wife"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7688c475a6e9a001",
+      "statement": "转移时间故障不可修复、夫妻分散",
+      "annotation_character_ids": [
+        "weisili_liu_gensheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b7535a04b3190b27",
+      "statement": "寄信未达与成年畏缩",
+      "annotation_character_ids": [
+        "weisili_shi_daofu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82f3fd868a3cb133",
+      "statement": "强夺、受制、消失",
+      "annotation_character_ids": [
+        "weisili_mao_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f047a76891b416d",
+      "statement": "制住并令毛斯消失",
+      "annotation_character_ids": [
+        "weisili_liu_gensheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_80dfdd7e7ef0803d",
+      "statement": "父子团聚及未来休眠",
+      "annotation_character_ids": [
+        "weisili_ha_shan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9850d46d81dcd0d9",
+      "statement": "父子团聚、休眠决定及毛斯去向未知",
+      "annotation_character_ids": [
+        "weisili_liu_gensheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63dd64c67f04bb44",
+      "statement": "去向未问明",
+      "annotation_character_ids": [
+        "weisili_mao_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

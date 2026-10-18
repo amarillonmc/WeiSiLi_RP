@@ -1,0 +1,32 @@
+{
+  "id": "l_angel_loss",
+  "title": "天使牺牲、重要之物毁去",
+  "kind": "event",
+  "summary": "罗开被欲望幻象动摇，天使越过原计划救人，以牺牲造成时间大神受创并毁去任务目标。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《魔像》。",
+    "narrative_layer": "present"
+  },
+  "state_before": "夺物任务与救罗开开始冲突。",
+  "state_after": "天使生命消失，目标毁去；罗开留下丧失与古堡关系。",
+  "knowledge_boundary": "恢复天使参战只能作为明确改编；时间大神受伤不等于已死。",
+  "character_ids": [
+    "adventure_luokai",
+    "adventure_tianshi",
+    "adventure_time_god"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_bb015999e4c17ce8",
+    "evidence_ee74e8fe97b1a055",
+    "evidence_98c4eff68d44a597",
+    "evidence_9859fc06837ceb51",
+    "evidence_1d8fb1f0e0b938f5"
+  ],
+  "book_ids": [
+    "book_4061a76cea80"
+  ]
+}

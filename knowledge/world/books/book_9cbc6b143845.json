@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "id": "book_9cbc6b143845",
+  "title": "飞艇",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/03飞艇.txt",
+  "file": "books/book_9cbc6b143845.json",
+  "inherited_fact_count": 6,
+  "curated_links": {
+    "arcs": [
+      "arc_gaosi",
+      "arc_liyufang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "c64efb8cf09e66eb239b1ce46011832441ac68dd1d5a52a074a73ec5ee255e8d",
+  "source_lines": 688,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "回收白金跳虱的船长",
+      "card_id": "gaosi_fleas_captain",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "偷取金盒的二副",
+      "card_id": "gaosi_fleas_second_officer",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "冒警船员",
+      "reason": "未给独立身份与个人逻辑，行动归入船长组织手段；不虚构个人姓名。"
+    },
+    {
+      "name": "燕玲",
+      "reason": "开头仅提及好友职业，未在本书实际登场。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_488f87e079545cd5",
+      "statement": "遭窥察、挨拳与持枪对质",
+      "annotation_character_ids": [
+        "gaosi_fleas_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c71b30eb75a86dbe",
+      "statement": "西洋拳与武装劣势",
+      "annotation_character_ids": [
+        "gaosi_gao_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0ea82db6a5c5baa9",
+      "statement": "死者证件将事件指向船上",
+      "annotation_character_ids": [
+        "gaosi_fleas_second_officer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6bf9b3d22588670a",
+      "statement": "假说错误后据实调整",
+      "annotation_character_ids": [
+        "gaosi_li_yufang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1b1978561bf1cbdb",
+      "statement": "珍宝展示、任务和死亡解释",
+      "annotation_character_ids": [
+        "gaosi_fleas_captain"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_df352e43ffbb49de",
+      "statement": "盗取事实及死亡解释",
+      "annotation_character_ids": [
+        "gaosi_fleas_second_officer"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

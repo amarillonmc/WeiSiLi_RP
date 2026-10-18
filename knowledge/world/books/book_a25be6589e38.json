@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "id": "book_a25be6589e38",
+  "title": "身外化身",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/140身外化身.txt",
+  "file": "books/book_a25be6589e38.json",
+  "inherited_fact_count": 2,
+  "curated_links": {
+    "rules": [
+      "rule_mind_body"
+    ],
+    "entities": [
+      "leman",
+      "leman_copy",
+      "knowledge_transfer"
+    ],
+    "events": [
+      "w_copy_refusal"
+    ],
+    "relations": [
+      "before__w_knowledge_transfer__w_copy_refusal"
+    ],
+    "arcs": [
+      "arc_weisili"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "138e644990f164b83bf345d32d2c16dcf722bca0405ed053d21498047d72b0c3",
+  "source_lines": 1415,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "杜良",
+      "card_id": "weisili_du_liang",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "亮声",
+      "card_id": "weisili_liang_sheng",
+      "role": "阶段性对立者",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "勒曼医院",
+      "card_id": "weisili_leman_hospital",
+      "role": "阶段性对立者",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "卫斯理复制体",
+      "reason": "空白脑接受指令而阻止知识转移，未证实形成独立卫斯理人格；不重复主卡或赋予完整知识"
+    },
+    {
+      "name": "姚专营、姚大达",
+      "reason": "以既往实验作讨论，本书不重复新增个人形态"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_1f8f330b4dc52b31",
+      "statement": "接受指令是计划前提，被反向指令阻断",
+      "annotation_character_ids": [
+        "weisili_du_liang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a78b60a520a681db",
+      "statement": "用反向指令破坏复制人计划并明确地球人身份",
+      "annotation_character_ids": [
+        "weisili_wei_sili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

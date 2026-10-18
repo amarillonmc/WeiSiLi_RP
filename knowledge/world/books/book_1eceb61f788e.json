@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1eceb61f788e",
+  "title": "犀照",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/063犀照.txt",
+  "file": "books/book_1eceb61f788e.json",
+  "inherited_fact_count": 16,
+  "curated_links": {
+    "events": [
+      "w_rhino"
+    ],
+    "arcs": [
+      "arc_wen"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "b2d74fd5b2dacc4173bdebc19d9586e47b064cf29b6e3990bd3d8412febcb76a",
+  "source_lines": 3657,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "调查与极地救援"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "调查胡并参与化验"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "初登场、事故与保存标本"
+    },
+    {
+      "name": "温妈妈",
+      "card_id": "weisili_wen_mama",
+      "role": "重要配角",
+      "basis": "亲子关系与寻找"
+    },
+    {
+      "name": "张坚",
+      "card_id": "weisili_zhang_jian",
+      "role": "重要配角",
+      "basis": "南极研究主线"
+    },
+    {
+      "name": "胡怀玉",
+      "card_id": "weisili_hu_huaiyu",
+      "role": "阶段性对立者",
+      "basis": "研究者及擅自销毁者"
+    },
+    {
+      "name": "田中",
+      "card_id": "weisili_tianzhong_ocean",
+      "role": "主角",
+      "basis": "飞行与罹难"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "调查胡的家世"
+    },
+    {
+      "name": "梁若水",
+      "card_id": "weisili_liang_ruoshui",
+      "role": "重要配角",
+      "basis": "相关病情研究和资料联系"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "冰中生物与容器内四个身形",
+      "reason": "本书只见遗存，未证实行动人格，不把古文明推测编成反派群体"
+    },
+    {
+      "name": "所谓入脑微生物",
+      "reason": "只有成因假说，存在与身份未确认"
+    },
+    {
+      "name": "胡氏七兄弟",
+      "reason": "家族背景中的历史海盗，不独立承担本书主线；不把罪责转给后代"
+    },
+    {
+      "name": "基地队长与科考人员",
+      "reason": "一次性救援和研究协作，未见独立主角线或跨书身份"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c717406f1f4bb54d",
+      "statement": "极地长期工作",
+      "annotation_character_ids": [
+        "weisili_zhang_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_313ed8782d41982c",
+      "statement": "身份和经费",
+      "annotation_character_ids": [
+        "weisili_hu_huaiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_49beb0b3ae077459",
+      "statement": "设计与采样协议",
+      "annotation_character_ids": [
+        "weisili_zhang_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_987dbf4161b33db3",
+      "statement": "培养操作",
+      "annotation_character_ids": [
+        "weisili_hu_huaiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a003891aed1ae8b2",
+      "statement": "黄堂接任职务",
+      "annotation_character_ids": [
+        "weisili_jieke"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_78e3d2bfedae4c32",
+      "statement": "离家事件中的父母忧虑和求助",
+      "annotation_character_ids": [
+        "weisili_wen_mama"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b3aa95e64181e80",
+      "statement": "身份、飞行与性格",
+      "annotation_character_ids": [
+        "weisili_tianzhong_ocean"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0fc2ef5aee6caa75",
+      "statement": "低飞、警告及事故录音",
+      "annotation_character_ids": [
+        "weisili_tianzhong_ocean"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2fe9cd701761e11a",
+      "statement": "死亡确认",
+      "annotation_character_ids": [
+        "weisili_tianzhong_ocean"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_28e1e0e3f6dad6b4",
+      "statement": "遗体处置与温宝裕哀悼",
+      "annotation_character_ids": [
+        "weisili_tianzhong_ocean"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_74c3db13aa3dc427",
+      "statement": "风险争论与擅自销毁",
+      "annotation_character_ids": [
+        "weisili_hu_huaiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e4d848f21c51f89b",
+      "statement": "研究风险分歧",
+      "annotation_character_ids": [
+        "weisili_zhang_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_714fa8cc07d0cfeb",
+      "statement": "家族背景及成因仍有分歧",
+      "annotation_character_ids": [
+        "weisili_hu_huaiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4ec68f66114a314a",
+      "statement": "现场和潜艇消失",
+      "annotation_character_ids": [
+        "weisili_zhang_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_237e8de7ed84bf63",
+      "statement": "残存样本及有限结论",
+      "annotation_character_ids": [
+        "weisili_zhang_jian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b6b07c7c56420cb9",
+      "statement": "好奇、参与命名与对母亲的反应",
+      "annotation_character_ids": [
+        "weisili_wen_baoyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1a18c351cf2d",
+  "title": "地图",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/041地图.txt",
+  "file": "books/book_1a18c351cf2d.json",
+  "inherited_fact_count": 6,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "8ff1d3904e8c7886659c97c94122a5f66689b175f831a725e0100c930ba389f4",
+  "source_lines": 2800,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "杰克",
+      "card_id": "weisili_jieke",
+      "role": "重要配角",
+      "basis": "警务调查"
+    },
+    {
+      "name": "阮耀",
+      "card_id": "weisili_ruan_yao",
+      "role": "单书主角",
+      "basis": "地图与家族旧事"
+    },
+    {
+      "name": "罗洛",
+      "card_id": "weisili_luoluo",
+      "role": "单书核心人物",
+      "basis": "地图与家族旧事"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "唐月海、乐生、吴子俊、唐明",
+      "reason": "本书调查、受害或收尾线索人物，未见跨书实际登场"
+    },
+    {
+      "name": "地下来客",
+      "reason": "无实体直接现身或身份确认；其存在、动机、航行速度与技术均为所见现象的解释，不另造完整人格"
+    },
+    {
+      "name": "阮耀曾祖父、吴慧",
+      "reason": "家族历史材料残缺，不把产业争议推测定为明确反派事实"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_598c4f4e650fdee5",
+      "statement": "性格与遗物",
+      "annotation_character_ids": [
+        "weisili_luoluo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_389e629c03fe4eb2",
+      "statement": "地图对应花园",
+      "annotation_character_ids": [
+        "weisili_ruan_yao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_685777164430124d",
+      "statement": "获救与所见",
+      "annotation_character_ids": [
+        "weisili_ruan_yao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71c1ccbbc1e5cef8",
+      "statement": "受托调查及地图",
+      "annotation_character_ids": [
+        "weisili_luoluo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1e712f64afa56ec0",
+      "statement": "争议与终局",
+      "annotation_character_ids": [
+        "weisili_ruan_yao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_914b3446a413517d",
+      "statement": "隐瞒动机未解",
+      "annotation_character_ids": [
+        "weisili_luoluo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "id": "book_cb8837ef6517",
+  "title": "衬衫",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/衬衫.txt",
+  "file": "books/book_cb8837ef6517.json",
+  "inherited_fact_count": 2,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "9e0016dab1ddab4cf6195e8eb7d1bd35bc6e054755003082d3d8dfdb5af10112",
+  "source_lines": 67,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "声称被衬衫陷害的事业家",
+      "card_id": "guihua_shirt_businessman",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "年轻秘书",
+      "reason": "一次性重要配角及死者；有恋爱与职业野心，但未展示应归为反派的伤害行为。"
+    },
+    {
+      "name": "衬衫",
+      "reason": "异常作用只由嫌疑人陈述，无独立人格证据，不建立拟人反派。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_818c3aa86af57aca",
+      "statement": "守规生活与关系转折",
+      "annotation_character_ids": [
+        "guihua_shirt_businessman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f80690bfe54caa18",
+      "statement": "事故陈述、法庭分歧与未知真相",
+      "annotation_character_ids": [
+        "guihua_shirt_businessman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

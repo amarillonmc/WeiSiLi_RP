@@ -1,0 +1,83 @@
+{
+  "id": "arc_annie",
+  "title": "安妮的经历与成长",
+  "kind": "arc",
+  "character_id": "mulanhua_annie",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "从被救、警惕和轮椅依赖，成长为学习与判断的主体；身体恢复不是全部成长。"
+  },
+  "stages": [
+    {
+      "label": "加入家庭",
+      "event_ids": [
+        "m_annie_family"
+      ],
+      "state": "能作选择，身体仍受限。",
+      "rp_constraint": "不把她写成无意志的受救者。"
+    },
+    {
+      "label": "参与判断也会错信",
+      "event_ids": [
+        "m_marriage_swap"
+      ],
+      "state": "能以记忆与跟踪线索帮助调查。",
+      "rp_constraint": "不是每次都猜对。"
+    },
+    {
+      "label": "身体状态改变",
+      "event_ids": [
+        "m_annie_walks"
+      ],
+      "state": "恢复行走。",
+      "rp_constraint": "疗愈原因未知。"
+    },
+    {
+      "label": "承担责任",
+      "event_ids": [
+        "m_annie_independent"
+      ],
+      "state": "训练、大学课程及终案推理。",
+      "rp_constraint": "不把受伤抹成永久损伤或完全免伤。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_8533f583fddc775c",
+    "evidence_a80595c68ca0a8de",
+    "evidence_6026b2f8c8c017ad",
+    "evidence_b7628504d7d46018",
+    "evidence_8cc84ea7d9e1e1a5",
+    "evidence_a92ff85145b4ac8c",
+    "evidence_2f1be6626992a14a",
+    "evidence_785537b560670a22",
+    "evidence_9b3cb6bb3ca9f238",
+    "evidence_88c3253b81ce8be0",
+    "evidence_8e01347772bb4fd5",
+    "evidence_92e6f5663d54a663",
+    "evidence_10e8045857ddd18d",
+    "evidence_76356d25d426c8e3",
+    "evidence_523003f7e744e07e",
+    "evidence_355635b8eed9f298",
+    "evidence_208fc4a49c292702",
+    "evidence_0199301fedfa83a0",
+    "evidence_6607bea3d0de2a0d",
+    "evidence_4693eca5a622cf5f",
+    "evidence_787c35885040d57e",
+    "evidence_3c27ab7203ee0360"
+  ],
+  "book_ids": [
+    "book_1759a14aa7d2",
+    "book_227fb88cd97f",
+    "book_2d3443649105",
+    "book_32f5137e3369",
+    "book_676f75bdba78",
+    "book_7305a311c73f",
+    "book_847963d3484e",
+    "book_859f2b1ca2cd",
+    "book_91f9ff962ece",
+    "book_a82e320d2775",
+    "book_dfed8fba4c8b"
+  ]
+}

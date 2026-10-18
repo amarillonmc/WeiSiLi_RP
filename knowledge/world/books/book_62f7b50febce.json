@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "id": "book_62f7b50febce",
+  "title": "暗号之二",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/104暗号之二.txt",
+  "file": "books/book_62f7b50febce.json",
+  "inherited_fact_count": 19,
+  "curated_links": {
+    "arcs": [
+      "arc_shenying"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "0d06f2a60b61820326b077fbbed8c0c0667a06424a1d78008fc4146437690229",
+  "source_lines": 2715,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "系列主角",
+      "basis": "实际协助与亲近秋英"
+    },
+    {
+      "name": "黄蝉",
+      "card_id": "weisili_huang_chan",
+      "role": "反派与重要配角",
+      "basis": "设计时机与监视"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "重要配角",
+      "basis": "通讯、识别和擒隼"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "器材协助"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "器材协助"
+    },
+    {
+      "name": "卫七",
+      "card_id": "weisili_wei_qishu",
+      "role": "重要配角",
+      "basis": "取宝与重逢"
+    },
+    {
+      "name": "二活佛",
+      "card_id": "weisili_second_living_buddha",
+      "role": "单书主角",
+      "basis": "接掌与退隐"
+    },
+    {
+      "name": "训练秋英的统帅",
+      "card_id": "weisili_qiuying_commander",
+      "role": "反派",
+      "basis": "历史决定造成核心困境"
+    },
+    {
+      "name": "秋英",
+      "card_id": "weisili_qiuying",
+      "role": "单书主角",
+      "basis": "实际行动与终局解释"
+    },
+    {
+      "name": "监视用海冬青群",
+      "card_id": "weisili_haidongqing",
+      "role": "阶段性对立者",
+      "basis": "实际行动与终局解释"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "持七雁幡联络的喇嘛",
+      "reason": "卫判断很可能是黄蝉化装，身份未证；暂并入黄蝉不另造确定人物。"
+    },
+    {
+      "name": "铁蛋、已故登珠及大活佛",
+      "reason": "背景与往事提及，不据此新增当场出席。"
+    },
+    {
+      "name": "谈海冬青的朋友",
+      "reason": "结尾一次性知识提供者，无独立角色线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_687523923034c47b",
+      "statement": "对秋英的关切",
+      "annotation_character_ids": [
+        "weisili_huang_chan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bc484c9ff68a1456",
+      "statement": "早期状态与训练",
+      "annotation_character_ids": [
+        "weisili_qiuying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0861e726568c8fa9",
+      "statement": "医疗历史与统帅继任",
+      "annotation_character_ids": [
+        "weisili_qiuying_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1c64a2b79e8e575d",
+      "statement": "训练制度及后果",
+      "annotation_character_ids": [
+        "weisili_qiuying_commander"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_319ea4417007be40",
+      "statement": "工作流程",
+      "annotation_character_ids": [
+        "weisili_qiuying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa15262d8c4c649c",
+      "statement": "轻功和跟随",
+      "annotation_character_ids": [
+        "weisili_qiuying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dcf61ae85c378daa",
+      "statement": "参与十二花培养的背景、失势堕楼断腿与德国隐居的后书叙述",
+      "annotation_character_ids": [
+        "weisili_tie_dan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f6df3746a4d3658",
+      "statement": "神鹰识别",
+      "annotation_character_ids": [
+        "weisili_haidongqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed4678c007d46fed",
+      "statement": "识别海东青",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_282da1212bb5591c",
+      "statement": "捕获及身体",
+      "annotation_character_ids": [
+        "weisili_haidongqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cbf7713e0239617f",
+      "statement": "捕获海东青",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4a8f4953da5560b3",
+      "statement": "身份与恢复",
+      "annotation_character_ids": [
+        "weisili_qiuying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d9f027977c1751c",
+      "statement": "召唤和终局",
+      "annotation_character_ids": [
+        "weisili_qiuying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_04c8b6b7ab7e2024",
+      "statement": "接掌及离去",
+      "annotation_character_ids": [
+        "weisili_second_living_buddha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a70f90e4ccf155b5",
+      "statement": "受骗和归隐",
+      "annotation_character_ids": [
+        "weisili_wei_qishu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_06910ba74eac670b",
+      "statement": "伪喇嘛并非卫七所派，黄蝉化装为卫的推测",
+      "annotation_character_ids": [
+        "weisili_huang_chan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8df19d94c818da83",
+      "statement": "终局处境",
+      "annotation_character_ids": [
+        "weisili_great_living_buddha"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_806857b9df29fb66",
+      "statement": "阻止公开确认但损失三法物，监视机制仍是推断",
+      "annotation_character_ids": [
+        "weisili_huang_chan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b4f3b03ef2723a91",
+      "statement": "雄隼与三雌的推断",
+      "annotation_character_ids": [
+        "weisili_haidongqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

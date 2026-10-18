@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "id": "book_3ce9d442f6f5",
+  "title": "异种人生",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/133异种人生.txt",
+  "file": "books/book_3ce9d442f6f5.json",
+  "inherited_fact_count": 3,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "64db677a42782d72f3cdb292a066c315066f62a5d36fcff0f167ebe859e3a41c",
+  "source_lines": 653,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "温伯如",
+      "card_id": "weisili_wen_boru",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "温妈妈",
+      "card_id": "weisili_wen_mama",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "神的法则及理想社会中的神",
+      "reason": "解释模型与梦境讨论，未确认可区分的独立神格人格"
+    },
+    {
+      "name": "黑甜汤体验中的背景人群",
+      "reason": "没有足以区分的主要行动者身份"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_b7b53b694330dde6",
+      "statement": "父亲身份、自号与家庭性情",
+      "annotation_character_ids": [
+        "weisili_wen_boru"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0ea5431970d17500",
+      "statement": "喷剂唤醒",
+      "annotation_character_ids": [
+        "weisili_wen_boru"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_615378e02c2c7643",
+      "statement": "共同体验、固定边界和收药结局",
+      "annotation_character_ids": [
+        "weisili_wen_boru"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

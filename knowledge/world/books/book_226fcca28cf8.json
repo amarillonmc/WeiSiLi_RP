@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "id": "book_226fcca28cf8",
+  "title": "鬼界",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/09.鬼界.txt",
+  "file": "books/book_226fcca28cf8.json",
+  "inherited_fact_count": 9,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "1aca3fba598ed20ae551524dc10176997146398901312577b4e2d5c11e244d95",
+  "source_lines": 2753,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查者"
+    },
+    {
+      "name": "海棠",
+      "card_id": "yuanzhenxia_hai_tang",
+      "role": "主角",
+      "basis": "任务执行者"
+    },
+    {
+      "name": "苏耀西",
+      "card_id": "yuanzhenxia_su_yaoxi",
+      "role": "重要配角",
+      "basis": "聚会交往"
+    },
+    {
+      "name": "新几内亚大祭师",
+      "card_id": "yuanzhenxia_dajishi",
+      "role": "单书主角",
+      "basis": "本书探索与求援核心"
+    },
+    {
+      "name": "鬼界受困外星人",
+      "card_id": "yuanzhenxia_guijie_aliens",
+      "role": "单书核心人物（集体）",
+      "basis": "本书探索与求援核心"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "第一代祭师",
+      "reason": "主要为传说和器物来源，无当前独立行动"
+    },
+    {
+      "name": "海棠的未名同伴",
+      "reason": "一次性任务辅助者"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d3083909f760309b",
+      "statement": "身份与权威",
+      "annotation_character_ids": [
+        "yuanzhenxia_dajishi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_89a61b13c321d627",
+      "statement": "祭师历史与独自探险",
+      "annotation_character_ids": [
+        "yuanzhenxia_dajishi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_911ddade9dac7af5",
+      "statement": "人形工具的自我认识",
+      "annotation_character_ids": [
+        "yuanzhenxia_hai_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ade0c952296967c7",
+      "statement": "生命形式与磁场损害",
+      "annotation_character_ids": [
+        "yuanzhenxia_guijie_aliens"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_42857697bcf56f8c",
+      "statement": "方案与工具",
+      "annotation_character_ids": [
+        "yuanzhenxia_guijie_aliens"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e7eeab9662bd89be",
+      "statement": "无法强迫履约",
+      "annotation_character_ids": [
+        "yuanzhenxia_guijie_aliens"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_dee217a91c02000d",
+      "statement": "危险代价与困境",
+      "annotation_character_ids": [
+        "yuanzhenxia_guijie_aliens"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_09a4940cb97d0719",
+      "statement": "最后所得信息与器物去向",
+      "annotation_character_ids": [
+        "yuanzhenxia_dajishi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a581e762d960efcd",
+      "statement": "外星器物的取得和隐瞒",
+      "annotation_character_ids": [
+        "yuanzhenxia_hai_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "before__w_eagle_friend__w_real_illusion",
+  "source": "w_eagle_friend",
+  "target": "w_real_illusion",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "鹰身、幻境经历、成人和成人后须被背负的状态接续。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "鹰身、幻境经历、成人和成人后须被背负的状态接续。",
+  "evidence_ids": [
+    "evidence_c0ea364e1da92276",
+    "evidence_613c8b92ec2ad7ab",
+    "evidence_53954a717fce6da5",
+    "evidence_d90d90f29684c376",
+    "evidence_7efaaf365ec8c345",
+    "evidence_79844f5ea8f52fcc"
+  ],
+  "book_ids": [
+    "book_6e319aaba962",
+    "book_9a4da2ea3ef3",
+    "book_f4ea5e801b15"
+  ]
+}

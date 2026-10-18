@@ -1,0 +1,19 @@
+{
+  "id": "before__w_knowledge_transfer__w_copy_refusal",
+  "source": "w_knowledge_transfer",
+  "target": "w_copy_refusal",
+  "relation": "before",
+  "epistemic_status": "synthesis",
+  "reason": "已有知识转移成果后，另一复制体受体计划仍能被拒绝。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "已有知识转移成果后，另一复制体受体计划仍能被拒绝。",
+  "evidence_ids": [
+    "evidence_aac593bf0e5b450b",
+    "evidence_1f8f330b4dc52b31"
+  ],
+  "book_ids": [
+    "book_1a10e56018a3",
+    "book_a25be6589e38"
+  ]
+}

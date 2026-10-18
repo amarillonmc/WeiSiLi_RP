@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d33ed0dd790d",
+  "title": "从阴间来",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/092从阴间来.txt",
+  "file": "books/book_d33ed0dd790d.json",
+  "inherited_fact_count": 3,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "6cac18241c95a0a573009a4be1d1780005950a8c61cdd64655d6a45a79242fd8",
+  "source_lines": 2612,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "王大同",
+      "card_id": "weisili_wang_datong",
+      "role": "主角",
+      "basis": "复生、婚姻与身份冲突的中心人物"
+    },
+    {
+      "name": "李宣宣",
+      "card_id": "weisili_li_xuanxuan",
+      "role": "主角",
+      "basis": "来人间寻找阴间器物并与王大同发生关系"
+    },
+    {
+      "name": "祖天开",
+      "card_id": "weisili_zu_tiankai",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "陈长青",
+      "card_id": "weisili_chen_changqing",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "黄堂",
+      "card_id": "weisili_huang_tang",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "老蔡",
+      "card_id": "weisili_lao_cai",
+      "role": "重要配角",
+      "basis": "在本书中实际参与调查、冲突或事件，并有跨书角色作用"
+    },
+    {
+      "name": "王朝",
+      "card_id": "weisili_wang_zhao",
+      "role": "反派",
+      "basis": "宝镜旧史的获利者，后续揭开夺宝责任"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "护士与王医生的常规医护同事",
+      "reason": "一次性证人与职业背景，未见独立对抗或跨书重要行动"
+    },
+    {
+      "name": "开篇巨大外星探索者",
+      "reason": "叙述用于说明尺度误认的设例，不将比喻性开场等同主线角色"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d12f960dcc424cbb",
+      "statement": "管家身份、扬州话与对黄堂的态度",
+      "annotation_character_ids": [
+        "weisili_lao_cai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_603387374f231ac5",
+      "statement": "使用宝镜的有限方式和家族传承",
+      "annotation_character_ids": [
+        "weisili_wang_zhao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b3b0c49e76610ce3",
+      "statement": "参与许愿镜讨论的实际好奇",
+      "annotation_character_ids": [
+        "weisili_lao_cai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

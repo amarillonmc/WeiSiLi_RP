@@ -1,0 +1,65 @@
+{
+  "id": "arc_lansi",
+  "title": "蓝丝的经历与成长",
+  "kind": "arc",
+  "character_id": "weisili_lan_si",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "恋爱、师承责任和信仰可以彼此冲突；强术法不能解决失师或替她判断长老是否正确。"
+  },
+  "stages": [
+    {
+      "label": "失师继任",
+      "event_ids": [
+        "w_lansi_succession"
+      ],
+      "state": "哀伤中接任天头派。",
+      "rp_constraint": "不凭掌门称谓补齐所有术法。"
+    },
+    {
+      "label": "信仰与亲密关系",
+      "event_ids": [
+        "w_elder_contact"
+      ],
+      "state": "坚持照顾长老，爱人留下陪伴。",
+      "rp_constraint": "仍保留师门禁制和对未知设备的无能为力。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_ceff0edce4144736",
+    "evidence_e52f8d1b3dee8152",
+    "evidence_ee7510e7c6e63af6",
+    "evidence_0d0a1251fffd4ea9",
+    "evidence_ffd12944c396356b",
+    "evidence_10886455c2602b59",
+    "evidence_874c2674543492ba",
+    "evidence_e1755620afa3fb3a",
+    "evidence_250b5fa001cdd01f",
+    "evidence_5f64684b89ce2853",
+    "evidence_f6a4a64e7861588c",
+    "evidence_e0738df150f85354",
+    "evidence_2fe4a3686dec9265",
+    "evidence_0c0f058f3e5269c5",
+    "evidence_63ff5cbd4f73be6c",
+    "evidence_93b356990e89307c",
+    "evidence_44dbafc77d38ccfb",
+    "evidence_362b3892deb07bc9",
+    "evidence_1be7ebc2a044ea1d",
+    "evidence_6775f4be59d1602c",
+    "evidence_9d59e6d52655c64e"
+  ],
+  "book_ids": [
+    "book_0041f4c9e250",
+    "book_202100bacdcc",
+    "book_256733d70464",
+    "book_5f3fbef0e5c5",
+    "book_8f5e88561a93",
+    "book_9a4da2ea3ef3",
+    "book_bfd34177adbe",
+    "book_c23bc58a3f43",
+    "book_d98888b9b835",
+    "book_daabf1bd27ce"
+  ]
+}

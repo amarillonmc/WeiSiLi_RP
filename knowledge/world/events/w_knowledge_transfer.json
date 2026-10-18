@@ -1,0 +1,26 @@
+{
+  "id": "w_knowledge_transfer",
+  "title": "杜良完成具体知识转移",
+  "kind": "event",
+  "summary": "姚教授知识被转给姚大达，知识与运用知识产生的思想被明确区分。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《乾坤挪移》成果展示。",
+    "narrative_layer": "present"
+  },
+  "state_before": "保存知识有具体实验瓶颈。",
+  "state_after": "出现可用个案，研究者继续保密。",
+  "knowledge_boundary": "接受知识不等于继承教授的全部人格、动机与经验判断。",
+  "character_ids": [
+    "weisili_du_liang"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_aac593bf0e5b450b"
+  ],
+  "book_ids": [
+    "book_1a10e56018a3"
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "schema_version": "1.0",
+  "id": "book_2789d5cc76fb",
+  "title": "血咒",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/03.血咒.txt",
+  "file": "books/book_2789d5cc76fb.json",
+  "inherited_fact_count": 17,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "d0dc5b5244fcb4924e841597258f83e381b903c52dd845d7ac1cdac2f59e9809",
+  "source_lines": 4521,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查血咒"
+    },
+    {
+      "name": "古托",
+      "card_id": "yuanzhenxia_gutuo",
+      "role": "重要配角",
+      "basis": "独立故事线或跨书参与"
+    },
+    {
+      "name": "盛远天",
+      "card_id": "yuanzhenxia_sheng_yuantian",
+      "role": "反派",
+      "basis": "独立故事线或跨书参与"
+    },
+    {
+      "name": "韦定咸",
+      "card_id": "yuanzhenxia_weidingxian",
+      "role": "阶段性对立者",
+      "basis": "独立故事线或跨书参与"
+    },
+    {
+      "name": "黑风族大巫师",
+      "card_id": "yuanzhenxia_heifeng_wushi",
+      "role": "反派",
+      "basis": "独立故事线或跨书参与"
+    },
+    {
+      "name": "黑风族大巫师之女",
+      "card_id": "yuanzhenxia_heifeng_daughter",
+      "role": "悲剧核心人物",
+      "basis": "独立故事线或跨书参与"
+    },
+    {
+      "name": "苏耀东",
+      "card_id": "yuanzhenxia_su_yaodong",
+      "role": "重要配角",
+      "basis": "独立故事线或跨书参与"
+    },
+    {
+      "name": "苏耀西",
+      "card_id": "yuanzhenxia_su_yaoxi",
+      "role": "重要配角",
+      "basis": "独立故事线或跨书参与"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "玛丽、盛夫人、小宝、苏安",
+      "reason": "单书的起因、家属与辅助人物；已在核心人物证据中保存关系，不满足多书配角条件"
+    },
+    {
+      "name": "苏耀南",
+      "reason": "本书受托兄弟之一，尚无第二书实际参与证据"
+    },
+    {
+      "name": "马特、高诺",
+      "reason": "本书研究或调查协助者"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_15704e49d2b07ef1",
+      "statement": "联络中的焦急",
+      "annotation_character_ids": [
+        "yuanzhenxia_su_yaoxi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_42520b8cc3cdbb77",
+      "statement": "非枪击伤口",
+      "annotation_character_ids": [
+        "yuanzhenxia_gutuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4fc39863ad36a9b5",
+      "statement": "远天机构资金与受托责任",
+      "annotation_character_ids": [
+        "yuanzhenxia_su_yaodong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a500bdf168be54de",
+      "statement": "受托关系",
+      "annotation_character_ids": [
+        "yuanzhenxia_su_yaoxi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_68289fe534459810",
+      "statement": "辨识雕像",
+      "annotation_character_ids": [
+        "yuanzhenxia_weidingxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7c0274931ac8fd46",
+      "statement": "野外危险知识",
+      "annotation_character_ids": [
+        "yuanzhenxia_weidingxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10c410528c51ff7f",
+      "statement": "神像冲突与杀伤",
+      "annotation_character_ids": [
+        "yuanzhenxia_heifeng_wushi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6acaece3baf56e93",
+      "statement": "杀人后的部落冲突",
+      "annotation_character_ids": [
+        "yuanzhenxia_weidingxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3674cfc529e4d090",
+      "statement": "被枪杀与施咒",
+      "annotation_character_ids": [
+        "yuanzhenxia_heifeng_daughter"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_70678946a8e931f8",
+      "statement": "杀害救命者与自我辩护",
+      "annotation_character_ids": [
+        "yuanzhenxia_sheng_yuantian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_05c42ffa80fc0f50",
+      "statement": "血咒、家族限制与救人缘由",
+      "annotation_character_ids": [
+        "yuanzhenxia_heifeng_daughter"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a063759c6cd2b25f",
+      "statement": "财富、女儿死亡、儿子安排与巫术终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_sheng_yuantian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_68446e0882a482cb",
+      "statement": "权力背景、家族制度与女儿",
+      "annotation_character_ids": [
+        "yuanzhenxia_heifeng_wushi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a92873ca98663139",
+      "statement": "神像与权力动因",
+      "annotation_character_ids": [
+        "yuanzhenxia_weidingxian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa17e343d339a98f",
+      "statement": "身世与父亲安排",
+      "annotation_character_ids": [
+        "yuanzhenxia_gutuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ba636c6e7f9dcca7",
+      "statement": "研究邀请的边界",
+      "annotation_character_ids": [
+        "yuanzhenxia_heifeng_wushi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f26e65e20f5103d4",
+      "statement": "不育、戒除依赖和研究计划",
+      "annotation_character_ids": [
+        "yuanzhenxia_gutuo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

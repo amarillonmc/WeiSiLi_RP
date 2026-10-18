@@ -1,0 +1,24 @@
+{
+  "id": "before__w_real_illusion__w_eagle_departure",
+  "source": "w_real_illusion",
+  "target": "w_eagle_departure",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "金维在后书明确重述孤峰旧经历，后来与成人神鹰再赴孤峰。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "金维在后书明确重述孤峰旧经历，后来与成人神鹰再赴孤峰。",
+  "evidence_ids": [
+    "evidence_fa282b4c2178a058",
+    "evidence_e82971096e2de5ea",
+    "evidence_e836dde3531ec0a3",
+    "evidence_67787ee0ee83a415",
+    "evidence_1e0d8bdd5450a550",
+    "evidence_d4f7bb04c2414de3",
+    "evidence_c14134b6688b8d70"
+  ],
+  "book_ids": [
+    "book_6e319aaba962",
+    "book_f4ea5e801b15"
+  ]
+}

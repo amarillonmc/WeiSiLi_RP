@@ -1,0 +1,139 @@
+{
+  "schema_version": "1.0",
+  "id": "book_5dba74386b36",
+  "title": "财神宝库",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/138财神宝库.txt",
+  "file": "books/book_5dba74386b36.json",
+  "inherited_fact_count": 7,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "57f540a0c90e4e3f7eb03235d1a844ea526fbb59e062768c2f2af32d9175ff18",
+  "source_lines": 1423,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "江海",
+      "card_id": "weisili_jiang_hai",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "财神老板",
+      "card_id": "weisili_caishen_laoban",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白奇伟",
+      "card_id": "weisili_bai_qiwei",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "银行及保险库工作人员",
+      "reason": "一次性职业帮助者"
+    },
+    {
+      "name": "历年寻宝人群",
+      "reason": "未经个体化的背景人物"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_4ac2c81a28e4e7ab",
+      "statement": "身份、外貌、别号、法语与关系",
+      "annotation_character_ids": [
+        "weisili_jiang_hai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_248f5a93130d0f94",
+      "statement": "聚敛、意外身亡、产业被瓜分及虚构说明",
+      "annotation_character_ids": [
+        "weisili_caishen_laoban"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_19c62084393623e0",
+      "statement": "旧财产线索与自称不取死人财",
+      "annotation_character_ids": [
+        "weisili_jiang_hai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_098567e1d5661391",
+      "statement": "托书隐语的历史行动",
+      "annotation_character_ids": [
+        "weisili_caishen_laoban"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eca297f3b24420a6",
+      "statement": "放下宝库并成朋友",
+      "annotation_character_ids": [
+        "weisili_jiang_hai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1778fe73ce500778",
+      "statement": "终局与江海成为朋友",
+      "annotation_character_ids": [
+        "weisili_bai_laoda"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_288a9eeac1560214",
+      "statement": "对小保险箱的技术敬佩",
+      "annotation_character_ids": [
+        "weisili_ge_bi",
+        "weisili_sha_mo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

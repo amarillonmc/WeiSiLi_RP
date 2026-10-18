@@ -1,0 +1,158 @@
+{
+  "schema_version": "1.0",
+  "id": "book_fcb6d8e88204",
+  "title": "奇迹",
+  "aliases": [],
+  "series": "神探高斯系列",
+  "source_path": "神探高斯系列/17奇迹.txt",
+  "file": "books/book_fcb6d8e88204.json",
+  "inherited_fact_count": 11,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "bc6cc6b67ba7b4c9d846d4eea4e418d8b2c9188ee607c90e3bc1780f2a9901c2",
+  "source_lines": 804,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "陈洛",
+      "card_id": "gaosi_chen_luo",
+      "role": "重要配角/单书主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "神木大吉",
+      "card_id": "gaosi_shenmu_daji",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "奇迹案的黑衣魔术师",
+      "card_id": "gaosi_miracle_magician",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "假扮陈八的魔术师助手",
+      "card_id": "gaosi_fake_chen_ba",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "高斯",
+      "card_id": "gaosi_gao_si",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    },
+    {
+      "name": "李玉芳",
+      "card_id": "gaosi_li_yufang",
+      "role": "主角",
+      "basis": "本书实际参与调查或解决事件；综合经历见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "陈八",
+      "reason": "本人仅为已故背景人物；显形实际是助手，不另建亡灵卡。"
+    },
+    {
+      "name": "韩祖勋（后写韩伯勋）、罗埃、布隆、冯欢及看屋人",
+      "reason": "本书一次性观众或线索协助者，未发现跨书实际登场；舅父姓名异文保留。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_ecca93430ab7e56c",
+      "statement": "家世、关系与核验安排",
+      "annotation_character_ids": [
+        "gaosi_chen_luo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f88d97503dad4469",
+      "statement": "假名与外表",
+      "annotation_character_ids": [
+        "gaosi_shenmu_daji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a938d55480fbe1ed",
+      "statement": "规则控制",
+      "annotation_character_ids": [
+        "gaosi_miracle_magician"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c92665c7947ee79a",
+      "statement": "假陈八出现、写字和消失",
+      "annotation_character_ids": [
+        "gaosi_fake_chen_ba"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d5d941fd1fafa8f9",
+      "statement": "显形与语言策略",
+      "annotation_character_ids": [
+        "gaosi_miracle_magician"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_78d636696d5f98d2",
+      "statement": "灯光与推动开箱",
+      "annotation_character_ids": [
+        "gaosi_shenmu_daji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_61d6a80117c1ce8b",
+      "statement": "失窃和双重密码",
+      "annotation_character_ids": [
+        "gaosi_chen_luo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_32a979e0dc10145a",
+      "statement": "化妆解释",
+      "annotation_character_ids": [
+        "gaosi_fake_chen_ba"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_681f38f9333876d0",
+      "statement": "身份和机制",
+      "annotation_character_ids": [
+        "gaosi_shenmu_daji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ef63bf4d714fa5e2",
+      "statement": "真实职业与骗局",
+      "annotation_character_ids": [
+        "gaosi_miracle_magician"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3370a691ec314342",
+      "statement": "助手身份",
+      "annotation_character_ids": [
+        "gaosi_fake_chen_ba"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

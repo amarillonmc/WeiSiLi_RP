@@ -1,0 +1,21 @@
+{
+  "valid": true,
+  "query_checks": {
+    "entity": "passed",
+    "book": "passed",
+    "character": "passed",
+    "scene": "passed",
+    "late_scene": "passed",
+    "ambiguous_name": "passed",
+    "invalid_scene": "passed",
+    "markdown_links": "passed",
+    "body_title": "passed",
+    "filename_title": "passed",
+    "updated_liuxu": "passed"
+  },
+  "markdown_files_checked": 537,
+  "broken_links": [],
+  "world_output_files": 1073,
+  "output_bytes": 8095704,
+  "interpretation_notice": "结构、检索与状态隔离检查；不声称文学解释穷尽或逐条已全文复核。"
+}

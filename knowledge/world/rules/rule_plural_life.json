@@ -1,0 +1,25 @@
+{
+  "id": "rule_plural_life",
+  "title": "生命形态多元，身份不由外形决定",
+  "kind": "rule",
+  "epistemic_status": "synthesis",
+  "statement": "人类、异星人、机械生命、离体意识与其他生命形式可以接触；人形不是人类的充分条件，非人形也不取消人格。",
+  "rp_application": "分别记录身体、记忆、意识连续性与本人认同，再裁定身份和关系。",
+  "limits": [
+    "不同作品的生命理论只在有证据的个案内互通。",
+    "机器具有人格不等于任意机器都已觉醒。"
+  ],
+  "schema_version": "1.0",
+  "section": "rules",
+  "evidence_ids": [
+    "evidence_d5f8672ac7d83623",
+    "evidence_a9550617d1379158",
+    "evidence_f97d09fb5a38f1b5",
+    "evidence_6ec94a5456d34594"
+  ],
+  "book_ids": [
+    "book_6a15650b973f",
+    "book_b918ee450d56",
+    "book_ccfaaef512be"
+  ]
+}

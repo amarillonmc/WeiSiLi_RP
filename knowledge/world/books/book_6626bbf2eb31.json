@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "id": "book_6626bbf2eb31",
+  "title": "鸡蛋",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/鸡蛋.txt",
+  "file": "books/book_6626bbf2eb31.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "737561188028afb04dbd0e345b0fdeec5e0176f83c92469e46017590a333615b",
+  "source_lines": 61,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "观察鸡蛋的少年",
+      "card_id": "guihua_egg_boy",
+      "role": "主角/反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "观察鸡蛋少年的父亲",
+      "card_id": "guihua_egg_father",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "母亲",
+      "reason": "一次性照料者，行动与父亲共构家庭背景，未独立展开主线。"
+    },
+    {
+      "name": "两名被杀同学",
+      "reason": "不知宠物身份而宰鸡，未显示独立恶意；不把死者自动列反派。"
+    },
+    {
+      "name": "宠物母鸡",
+      "reason": "特殊关系明显但未表现可辨的独立人格或对抗行动。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0e41f2216311b4c5",
+      "statement": "家庭状态和功课解释",
+      "annotation_character_ids": [
+        "guihua_egg_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8fd7d5ae24cfa129",
+      "statement": "实验、隐私与生命问题",
+      "annotation_character_ids": [
+        "guihua_egg_boy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c2623c027b98c0b0",
+      "statement": "漏看线索、玩笑及灾难通知",
+      "annotation_character_ids": [
+        "guihua_egg_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a09f27ef5d0beaaa",
+      "statement": "异常转变、宠物关系和杀人失踪",
+      "annotation_character_ids": [
+        "guihua_egg_boy"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0",
+  "id": "book_16e87a9465f3",
+  "title": "大犯罪者",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/16.大犯罪者.txt",
+  "file": "books/book_16e87a9465f3.json",
+  "inherited_fact_count": 9,
+  "curated_links": {
+    "rules": [
+      "rule_alien_ethics"
+    ],
+    "entities": [
+      "aishen_world"
+    ],
+    "events": [
+      "y_maxian_origin"
+    ],
+    "relations": [
+      "before__y_maxian_origin__y_blood_spell",
+      "before__y_blood_spell__y_spell_recoil",
+      "before__y_spell_recoil__y_maxian_recovery",
+      "before__y_maxian_recovery__y_disappearance"
+    ],
+    "arcs": [
+      "arc_maxian"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "7c6a554128e27a9283152d27909036e1f718a6e1d3bb831354088bc1bfd84fb9",
+  "source_lines": 5977,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查与选择"
+    },
+    {
+      "name": "黄绢",
+      "card_id": "yuanzhenxia_huang_juan",
+      "role": "重要配角",
+      "basis": "政治与行动"
+    },
+    {
+      "name": "范围",
+      "card_id": "yuanzhenxia_fanwei",
+      "role": "反派",
+      "basis": "主要叙事、关系或敌对行动"
+    },
+    {
+      "name": "玛仙",
+      "card_id": "yuanzhenxia_ma_xian",
+      "role": "主角",
+      "basis": "身世与制止范围"
+    },
+    {
+      "name": "爱神",
+      "card_id": "yuanzhenxia_aishen",
+      "role": "主角",
+      "basis": "实验来历与对抗"
+    },
+    {
+      "name": "海棠",
+      "card_id": "yuanzhenxia_hai_tang",
+      "role": "重要配角",
+      "basis": "调查联系"
+    },
+    {
+      "name": "卡尔斯",
+      "card_id": "yuanzhenxia_kaersi",
+      "role": "反派",
+      "basis": "政治利益"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "被勒索各国官员及范围手下",
+      "reason": "未具名职务集合，不等同独立角色"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_40d828e48cb0cc82",
+      "statement": "外形",
+      "annotation_character_ids": [
+        "yuanzhenxia_fanwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a816e09498c5d67b",
+      "statement": "能力边界",
+      "annotation_character_ids": [
+        "yuanzhenxia_kangbi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_98e637fa537fb65c",
+      "statement": "核系统威胁",
+      "annotation_character_ids": [
+        "yuanzhenxia_fanwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71d7d0790316bd02",
+      "statement": "实验身世",
+      "annotation_character_ids": [
+        "yuanzhenxia_fanwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4d067da8077e111c",
+      "statement": "范围能力受制",
+      "annotation_character_ids": [
+        "yuanzhenxia_aishen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6e8b54f7303ba385",
+      "statement": "借装置放大及外援",
+      "annotation_character_ids": [
+        "yuanzhenxia_fanwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7954a700a8a005f9",
+      "statement": "能力毁损与终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_fanwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_126561bb163290d4",
+      "statement": "实验身世和秘密",
+      "annotation_character_ids": [
+        "yuanzhenxia_ma_xian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3a04ac604be05591",
+      "statement": "培育实验来历",
+      "annotation_character_ids": [
+        "yuanzhenxia_aishen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

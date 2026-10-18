@@ -1,0 +1,34 @@
+{
+  "id": "tianren_station",
+  "title": "天人研究站及脑内金属装置",
+  "kind": "institution",
+  "summary": "把不知情地球人当研究样本的秘密观察网络。",
+  "mechanism": {
+    "text": "植入物用于观察、危机保护与控制；保密优先造成杀害知情样本。",
+    "epistemic_status": "testimony"
+  },
+  "access_conditions": [
+    "被选定的样本与研究站装置"
+  ],
+  "limits": [
+    "奇迹生还不是统治资格",
+    "终止后的样本不保留整套保护网络"
+  ],
+  "last_known_state": "《天人》末研究终止、自毁及消解植入物；文末另有遗漏个案。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "历史场景可围绕样本自主权调查；后续只可用有证据的遗留线索，不能默认研究站仍营业。"
+  },
+  "character_ids": [
+    "yuanzhenxia_tianren_station"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_f6defc93bb8a442e",
+    "evidence_fa17af95d7b462c6"
+  ],
+  "book_ids": [
+    "book_36e3d4c8cce1"
+  ]
+}

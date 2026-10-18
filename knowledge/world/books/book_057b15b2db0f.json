@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "id": "book_057b15b2db0f",
+  "title": "离魂奇遇",
+  "aliases": [],
+  "series": "年轻人",
+  "source_path": "年轻人/12离魂奇遇.txt",
+  "file": "books/book_057b15b2db0f.json",
+  "inherited_fact_count": 2,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "081e431ff7a58a23f882ca47c20bdbb59dcfd999a3a0eb2e5223b1c09d1b7362",
+  "source_lines": 1373,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "年轻人",
+      "card_id": "adventure_young",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "奥丽卡公主",
+      "card_id": "adventure_princess",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "神仙手",
+      "card_id": "adventure_linglong",
+      "role": "重要配角",
+      "basis": "明确提到同一盗窃失败旧事，按玲珑手异称归并"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "戈壁",
+      "card_id": "weisili_ge_bi",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "沙漠",
+      "card_id": "weisili_sha_mo",
+      "role": "重要配角",
+      "basis": "具有独立目标并推动本书主要事件"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "尚皮亚博士、无名三副",
+      "reason": "一次性技术鉴定与发现者；无跨书重要行动。"
+    },
+    {
+      "name": "关闭危险通道者",
+      "reason": "没有进一步可辨个人身份，不能把入口效应当作个人超能力。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_42526469551ed93b",
+      "statement": "称呼、唯一失败、外形和聚会",
+      "annotation_character_ids": [
+        "adventure_linglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ec161c8be90dfa41",
+      "statement": "误判、旧体能与改变态度",
+      "annotation_character_ids": [
+        "adventure_linglong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "id": "book_0326b81e179c",
+  "title": "死结",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/11死结.txt",
+  "file": "books/book_0326b81e179c.json",
+  "inherited_fact_count": 1,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "6b32c56396b59d7e65f236d037c3daa61471313448f2c3277435e72fb8671496",
+  "source_lines": 1329,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "安歌人",
+      "card_id": "adventure_angeren",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "雷雪",
+      "card_id": "adventure_leixue",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "康维十七世",
+      "card_id": "yuanzhenxia_kangwei",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "月球干尸与天神星人",
+      "reason": "前者非行动人物，后者仅留下许诺和设备，无独立可定位人格"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0643d82577cf4976",
+      "statement": "坚持盒子与关系冲突",
+      "annotation_character_ids": [
+        "adventure_angeren"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

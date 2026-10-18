@@ -1,0 +1,429 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d891efd52524",
+  "title": "失踪新娘",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/39失踪新娘.txt",
+  "file": "books/book_d891efd52524.json",
+  "inherited_fact_count": 35,
+  "curated_links": {
+    "events": [
+      "m_marriage_swap"
+    ],
+    "relations": [
+      "before__m_ma_loss__m_marriage_swap"
+    ],
+    "arcs": [
+      "arc_mulanhua",
+      "arc_muxiuzhen",
+      "arc_yunsifeng",
+      "arc_gaoxiang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "f39d9a9e0987b443f6548b60a8499b6aa9e19d326c75e8893c7340503ca8265d",
+  "source_lines": 2594,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "姚雄",
+      "card_id": "mulanhua_yao_xiong",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "何保",
+      "card_id": "mulanhua_he_bao",
+      "role": "阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "小黑豹",
+      "card_id": "mulanhua_black_panther",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "阿发（潜艇匪徒）",
+      "card_id": "mulanhua_afa_submarine",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "送求救瓶的中年妇人",
+      "card_id": "mulanhua_bottle_kidnap_woman",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "送求救瓶的中年绅士",
+      "card_id": "mulanhua_bottle_kidnap_man",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "飞天龙",
+      "card_id": "mulanhua_feitianlong",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "刀疤老四",
+      "card_id": "mulanhua_scar_fourth",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "贝泰组织的三名假贵妇",
+      "card_id": "mulanhua_wedding_three_impostors",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "金妃",
+      "card_id": "mulanhua_jinfei",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "黄勃",
+      "reason": "本书一次性开锁协助者，其他命中核查无实际续出，非主角或反派。"
+    },
+    {
+      "name": "婚礼杂项投毒或爆炸执行者、普通警员、医生",
+      "reason": "未具独立身份的次要执行者或一次性助手；本书主要对立链已分别建卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_88a85f0e86d00114",
+      "statement": "身份外观",
+      "annotation_character_ids": [
+        "mulanhua_he_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6f316b114ec3d5f8",
+      "statement": "记忆特点",
+      "annotation_character_ids": [
+        "mulanhua_he_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb39b8a89ecd4a76",
+      "statement": "婚礼受到姚雄电话恐吓的背景",
+      "annotation_character_ids": [
+        "mulanhua_wedding_three_impostors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1e001eaf18c344d5",
+      "statement": "结婚",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed9be54abf3ab96f",
+      "statement": "婚姻",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4098640dd7a79f16",
+      "statement": "冒亲属、识破、反抗与制服",
+      "annotation_character_ids": [
+        "mulanhua_wedding_three_impostors"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7df2d5dbea6af899",
+      "statement": "询问、旧案和要挟",
+      "annotation_character_ids": [
+        "mulanhua_he_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ae9bc3dd6c02aa89",
+      "statement": "逼问何保",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6deb21ef83cfa618",
+      "statement": "要挟何保泄露情报",
+      "annotation_character_ids": [
+        "mulanhua_yao_xiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_99d9cc9de521b713",
+      "statement": "亲手杀何保",
+      "annotation_character_ids": [
+        "mulanhua_yao_xiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a2f763c467cacb90",
+      "statement": "被杀与钮扣",
+      "annotation_character_ids": [
+        "mulanhua_he_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cc079f8a071c4cdc",
+      "statement": "挟持高翔和手伤",
+      "annotation_character_ids": [
+        "mulanhua_yao_xiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0a2cc73d709d0e59",
+      "statement": "钮弹、肩伤和返岗",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e5486d411919ae15",
+      "statement": "远处开枪与高翔受伤",
+      "annotation_character_ids": [
+        "mulanhua_black_panther"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c89a574222147ee",
+      "statement": "声音证据辨认",
+      "annotation_character_ids": [
+        "mulanhua_he_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9060da26fec2cb59",
+      "statement": "身份链及录音",
+      "annotation_character_ids": [
+        "mulanhua_yao_xiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_048a4d267fe66832",
+      "statement": "被控制、传话及所知范围",
+      "annotation_character_ids": [
+        "mulanhua_afa_submarine"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_74912968cad8c4e1",
+      "statement": "职业身份",
+      "annotation_character_ids": [
+        "mulanhua_black_panther"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6e29bfc62790768c",
+      "statement": "麻醉控制",
+      "annotation_character_ids": [
+        "mulanhua_afa_submarine"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5e1798328d966820",
+      "statement": "潜艇识破与戒备",
+      "annotation_character_ids": [
+        "mulanhua_yao_xiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0cb7da9beee44713",
+      "statement": "枪口控制、敏捷和水中投炸",
+      "annotation_character_ids": [
+        "mulanhua_black_panther"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10dfc5994be0d4ad",
+      "statement": "共同送瓶与绑架",
+      "annotation_character_ids": [
+        "mulanhua_bottle_kidnap_man"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e420cf84106648e8",
+      "statement": "送瓶、改目标、麻醉与搬运",
+      "annotation_character_ids": [
+        "mulanhua_bottle_kidnap_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_151228cbfeff1035",
+      "statement": "隔挡谈判与安排见人",
+      "annotation_character_ids": [
+        "mulanhua_bottle_kidnap_man"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2bb123df105514d7",
+      "statement": "安妮受控制后的利用",
+      "annotation_character_ids": [
+        "mulanhua_bottle_kidnap_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7f8784e70eeaa6cb",
+      "statement": "包围、杀投降者和被击毙",
+      "annotation_character_ids": [
+        "mulanhua_feitianlong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9ec2f837e53845c3",
+      "statement": "据点失败及首领死亡背景",
+      "annotation_character_ids": [
+        "mulanhua_scar_fourth"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0844fab180f20cd0",
+      "statement": "身份、前科、投降与供述",
+      "annotation_character_ids": [
+        "mulanhua_scar_fourth"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_60e3db1220abe8f1",
+      "statement": "副手说明合作与信息边界",
+      "annotation_character_ids": [
+        "mulanhua_feitianlong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45a44e0e611feb25",
+      "statement": "击昏医生借身份",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4d6042751369fde1",
+      "statement": "被医生伪装骗过和分层保密",
+      "annotation_character_ids": [
+        "mulanhua_yao_xiong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f22d66ebf1cb3fd",
+      "statement": "威胁医生",
+      "annotation_character_ids": [
+        "mulanhua_black_panther"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_20258f17b40b8a26",
+      "statement": "被首领瞒住的不满",
+      "annotation_character_ids": [
+        "mulanhua_black_panther"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d5863b4456a64ac",
+      "statement": "机枪突袭、受伤与死亡",
+      "annotation_character_ids": [
+        "mulanhua_black_panther"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b19259bac536882",
+      "statement": "假获救和撞车后姚雄逃脱",
+      "annotation_character_ids": [
+        "mulanhua_jinfei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,286 @@
+{
+  "schema_version": "1.0",
+  "id": "book_6fc25920ef91",
+  "title": "变换双星",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/22.变换双星.txt",
+  "file": "books/book_6fc25920ef91.json",
+  "inherited_fact_count": 23,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "7442dda2ec2412527f0f8916e000404cda26d9bf765d36d22b9db61c15008964",
+  "source_lines": 3165,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查"
+    },
+    {
+      "name": "玛仙",
+      "card_id": "yuanzhenxia_ma_xian",
+      "role": "主角",
+      "basis": "感应追踪"
+    },
+    {
+      "name": "良辰",
+      "card_id": "weisili_liang_chen",
+      "role": "重要配角",
+      "basis": "双生推理与质问"
+    },
+    {
+      "name": "美景",
+      "card_id": "weisili_mei_jing",
+      "role": "重要配角",
+      "basis": "双生推理与质问"
+    },
+    {
+      "name": "苏耀西",
+      "card_id": "yuanzhenxia_su_yaoxi",
+      "role": "重要配角",
+      "basis": "引介与终局见证"
+    },
+    {
+      "name": "陈景德",
+      "card_id": "yuanzhenxia_chen_jingde",
+      "role": "单书主角",
+      "basis": "双生实验主线"
+    },
+    {
+      "name": "陈宜兴",
+      "card_id": "yuanzhenxia_chen_yixing",
+      "role": "单书主角",
+      "basis": "双生实验主线"
+    },
+    {
+      "name": "方如花",
+      "card_id": "yuanzhenxia_fang_ruhua",
+      "role": "单书主角",
+      "basis": "双生实验主线"
+    },
+    {
+      "name": "方似玉",
+      "card_id": "yuanzhenxia_fang_siyu",
+      "role": "单书主角",
+      "basis": "双生实验主线"
+    },
+    {
+      "name": "马进",
+      "card_id": "yuanzhenxia_ma_jin",
+      "role": "单书主要行动者",
+      "basis": "双生实验主线"
+    },
+    {
+      "name": "双生子研究的神秘人",
+      "card_id": "yuanzhenxia_twin_researcher",
+      "role": "反派性研究者",
+      "basis": "双生实验主线"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "方继祖",
+      "reason": "单次养父及协助者，关系与隐瞒记入方如花卡"
+    },
+    {
+      "name": "探险家兼考古学家",
+      "reason": "未具名石像运输者，不与其他系列同类职业强行合并"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e0fbbeda08b80f21",
+      "statement": "财富和外界形象",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_jingde"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3ab1d8355d3723dd",
+      "statement": "感情与观察",
+      "annotation_character_ids": [
+        "yuanzhenxia_ma_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16f463f40a739f20",
+      "statement": "相见与家庭",
+      "annotation_character_ids": [
+        "yuanzhenxia_fang_ruhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0e527d8eb39cd865",
+      "statement": "相见与表达",
+      "annotation_character_ids": [
+        "yuanzhenxia_fang_siyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2cce1446a915391e",
+      "statement": "诊断突破",
+      "annotation_character_ids": [
+        "yuanzhenxia_ma_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f63f3488cb2c8671",
+      "statement": "并非普通失忆",
+      "annotation_character_ids": [
+        "yuanzhenxia_fang_siyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b913808408dc0924",
+      "statement": "交谈方法",
+      "annotation_character_ids": [
+        "yuanzhenxia_ma_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9fe86cbe2895990a",
+      "statement": "失踪焦急",
+      "annotation_character_ids": [
+        "yuanzhenxia_ma_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8fe0ee2001091228",
+      "statement": "早期限制与主体表达",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_yixing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d1c8962acd1a177a",
+      "statement": "兄弟关系",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_jingde"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e9bd4e8a8b0ffa8c",
+      "statement": "实验安排",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_yixing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77a1bd8d1c0ed28c",
+      "statement": "伦理争论",
+      "annotation_character_ids": [
+        "yuanzhenxia_twin_researcher"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b4e0d325db63073d",
+      "statement": "反对禁锢另一半双生子",
+      "annotation_character_ids": [
+        "weisili_liang_chen",
+        "weisili_mei_jing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f9b7da60dc5d010",
+      "statement": "出身",
+      "annotation_character_ids": [
+        "yuanzhenxia_fang_ruhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c54a8ee04aaa112a",
+      "statement": "身世和安排",
+      "annotation_character_ids": [
+        "yuanzhenxia_twin_researcher"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c78d3a4812aa80af",
+      "statement": "实验安排",
+      "annotation_character_ids": [
+        "yuanzhenxia_fang_siyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_30cb6dc5ca5ef5f9",
+      "statement": "技术边界与终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_twin_researcher"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eda14166226fe522",
+      "statement": "愿协助、问公开和清除基地记忆的同意",
+      "annotation_character_ids": [
+        "weisili_liang_chen",
+        "weisili_mei_jing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3ef9a097809e19e3",
+      "statement": "选择与终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_jingde"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7392f3e42035622e",
+      "statement": "选择和终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_fang_ruhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_42f317d3d6c7f6b9",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_yixing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_00204269065d144b",
+      "statement": "终局",
+      "annotation_character_ids": [
+        "yuanzhenxia_fang_siyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_738aa616489bcfe2",
+      "statement": "后续实际参与",
+      "annotation_character_ids": [
+        "yuanzhenxia_su_yaoxi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

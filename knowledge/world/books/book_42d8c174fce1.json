@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "id": "book_42d8c174fce1",
+  "title": "解开密码",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/132解开密码.txt",
+  "file": "books/book_42d8c174fce1.json",
+  "inherited_fact_count": 7,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "729fc0f38475ee2d249f8eb580cd4268d031b5fe8aa7e9faebe2f87faf714362",
+  "source_lines": 1424,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "明白老夫人",
+      "card_id": "weisili_mingbai",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "班登",
+      "card_id": "weisili_ban_deng",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "汤达旦",
+      "card_id": "weisili_tang_dadan",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "亮声",
+      "card_id": "weisili_liang_sheng",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "勒曼医院研究人员",
+      "card_id": "weisili_leman_hospital",
+      "role": "阶段性对立者",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "光头研究员",
+      "reason": "本书医院代表，没有可与群体分离的跨书身份与独立目标，行动记入勒曼医院共同条目"
+    },
+    {
+      "name": "怪蛹及微型翼胎",
+      "reason": "是研究对象，未展示可独立演绎的人格、选择或主角视角，不把标本直接拟人化"
+    },
+    {
+      "name": "协助班登的两名非人协会会员",
+      "reason": "未具名且只承担一次性辅助，不能凭协会身份套用某个已知会员"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_fc75506b8c14bad9",
+      "statement": "自我介绍、探索身份与举石表现",
+      "annotation_character_ids": [
+        "weisili_tang_dadan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8692866d94c98f63",
+      "statement": "真实交易履历改变初始偏见",
+      "annotation_character_ids": [
+        "weisili_tang_dadan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7850b6cb2dad145b",
+      "statement": "外貌、快速来访解释与竞价判断",
+      "annotation_character_ids": [
+        "weisili_mingbai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e6b69a2b5e6d8569",
+      "statement": "协会支持财力与情感表现",
+      "annotation_character_ids": [
+        "weisili_mingbai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_481509cce29f8e69",
+      "statement": "后作修正发现来源、医院扣留和求助协会",
+      "annotation_character_ids": [
+        "weisili_ban_deng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f5f0dcdca7a7339",
+      "statement": "拒绝结论并退出合作",
+      "annotation_character_ids": [
+        "weisili_mingbai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1fd19d4f36e74c10",
+      "statement": "交易成交",
+      "annotation_character_ids": [
+        "weisili_tang_dadan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

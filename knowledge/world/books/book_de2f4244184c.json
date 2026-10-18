@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "id": "book_de2f4244184c",
+  "title": "原子空间",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/009原子空间.txt",
+  "file": "books/book_de2f4244184c.json",
+  "inherited_fact_count": 20,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "9dae749ed628eb5ceb7b9d717c3ba7cb222361a3de297b59eb6e579705387685",
+  "source_lines": 3317,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "被囚、共同漂流与返乡"
+    },
+    {
+      "name": "革大鹏",
+      "card_id": "weisili_ge_dapeng",
+      "role": "单书主角／阶段性对立者",
+      "basis": "劫持、领航和最终选择"
+    },
+    {
+      "name": "法拉齐",
+      "card_id": "weisili_falazi",
+      "role": "单书主角",
+      "basis": "航行团队及独立情绪线"
+    },
+    {
+      "name": "格勒",
+      "card_id": "weisili_gele",
+      "role": "单书主角",
+      "basis": "航程工程和延寿研究"
+    },
+    {
+      "name": "迪安",
+      "card_id": "weisili_dian",
+      "role": "单书主角",
+      "basis": "未来幸存者与同行"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "永恒星人",
+      "reason": "未分化姓名的群体接待与文明解释者，不是对立主角；技术不授予地球同行者。"
+    },
+    {
+      "name": "被掳乘客、死去的探测员",
+      "reason": "群体受害与背景人物，没有独立身份主线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_b907785048fc2f77",
+      "statement": "身份及最初事故",
+      "annotation_character_ids": [
+        "weisili_falazi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d4e938b6f65e6462",
+      "statement": "事故观察",
+      "annotation_character_ids": [
+        "weisili_gele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5bcf1f6b26cdc31b",
+      "statement": "研究专长",
+      "annotation_character_ids": [
+        "weisili_ge_dapeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b9665427e3ff35df",
+      "statement": "装备实测、野心与巨大装置限制",
+      "annotation_character_ids": [
+        "weisili_ge_dapeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_26179e437be0cad2",
+      "statement": "苏醒、翻译与身份",
+      "annotation_character_ids": [
+        "weisili_dian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3db9b4672c4a296a",
+      "statement": "面对时间差",
+      "annotation_character_ids": [
+        "weisili_gele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83ee9cd56dc4369a",
+      "statement": "改航与承认未知",
+      "annotation_character_ids": [
+        "weisili_ge_dapeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_102e613bf949d48b",
+      "statement": "知识边界",
+      "annotation_character_ids": [
+        "weisili_dian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_66f9ee24ff077419",
+      "statement": "动力移装协作",
+      "annotation_character_ids": [
+        "weisili_falazi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b73901d80a6ad654",
+      "statement": "动力设备",
+      "annotation_character_ids": [
+        "weisili_dian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9664e3dd7bae2bed",
+      "statement": "询问同伴去留",
+      "annotation_character_ids": [
+        "weisili_ge_dapeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_948b1ff33106e4e0",
+      "statement": "漂流中的失控",
+      "annotation_character_ids": [
+        "weisili_falazi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c033bbcd1ebebc17",
+      "statement": "漂流与研究",
+      "annotation_character_ids": [
+        "weisili_dian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9abbf75ccb622676",
+      "statement": "食物与未成功研究",
+      "annotation_character_ids": [
+        "weisili_gele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5335b876ee054e1c",
+      "statement": "识别星座",
+      "annotation_character_ids": [
+        "weisili_gele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ab0d318a4482bb1b",
+      "statement": "回归希望",
+      "annotation_character_ids": [
+        "weisili_falazi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_018f05b7879dbda6",
+      "statement": "航程与终局",
+      "annotation_character_ids": [
+        "weisili_gele"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_75d0ef8f8b61f676",
+      "statement": "归属选择",
+      "annotation_character_ids": [
+        "weisili_dian"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_19e8ce4307b80061",
+      "statement": "继续航行",
+      "annotation_character_ids": [
+        "weisili_falazi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f068566b4af34dfc",
+      "statement": "继续航行和未证实终局",
+      "annotation_character_ids": [
+        "weisili_ge_dapeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

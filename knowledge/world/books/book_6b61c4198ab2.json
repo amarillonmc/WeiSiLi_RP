@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "id": "book_6b61c4198ab2",
+  "title": "不祥之兆",
+  "aliases": [],
+  "series": "倪匡之鬼话系列",
+  "source_path": "倪匡之鬼话系列/不祥之兆.txt",
+  "file": "books/book_6b61c4198ab2.json",
+  "inherited_fact_count": 4,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "e0fb759ef3b59c7086cef95ef532ebd80963f83d9abe38a233b1e8df04f0cb75",
+  "source_lines": 55,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "小诗",
+      "card_id": "guihua_xiao_shi",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "小于",
+      "card_id": "guihua_xiao_yu",
+      "role": "主角",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    }
+  ],
+  "excluded_character_decisions": [],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_e8e63d89af887778",
+      "statement": "婚姻、镜像异常与日记",
+      "annotation_character_ids": [
+        "guihua_xiao_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e08d2104c7c47e06",
+      "statement": "陪伴妻子与身体动作",
+      "annotation_character_ids": [
+        "guihua_xiao_yu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_156a0ba2c0cc53ac",
+      "statement": "错误解释、求助与死亡结局",
+      "annotation_character_ids": [
+        "guihua_xiao_shi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_62c5b961570297bf",
+      "statement": "轻视警告及终局悔悟",
+      "annotation_character_ids": [
+        "guihua_xiao_yu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

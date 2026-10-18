@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "id": "book_fbd86e8f5385",
+  "title": "暗算",
+  "aliases": [],
+  "series": "年轻人",
+  "source_path": "年轻人/07暗算.txt",
+  "file": "books/book_fbd86e8f5385.json",
+  "inherited_fact_count": 6,
+  "curated_links": {
+    "arcs": [
+      "arc_young"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "ceeb76564c6cf53a6108abaf618b090b70457b0ff3c1e2b8d95fd1a6cf2fa150",
+  "source_lines": 1249,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "年轻人",
+      "card_id": "adventure_young",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "奥丽卡公主",
+      "card_id": "adventure_princess",
+      "role": "主角",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "安普女伯爵",
+      "card_id": "adventure_anpu",
+      "role": "阶段性对立者",
+      "basis": "具有独立目标并推动本书主要事件"
+    },
+    {
+      "name": "魔界意志",
+      "card_id": "adventure_mojie",
+      "role": "反派",
+      "basis": "具有独立目标并推动本书主要事件"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "女伯爵前夫、模特等",
+      "reason": "作为被控制历史与失踪后果出现，缺独立完整身份行动。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_64b9c3e5c37e7a0c",
+      "statement": "外貌、聚会与彩钻",
+      "annotation_character_ids": [
+        "adventure_anpu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_038eb43ce07b59ab",
+      "statement": "受操纵与求救假象",
+      "annotation_character_ids": [
+        "adventure_anpu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0c4aa317aa62fa57",
+      "statement": "媒介、受控与空间变化",
+      "annotation_character_ids": [
+        "adventure_mojie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f622d2e8c11763a",
+      "statement": "拖入魔界与终局",
+      "annotation_character_ids": [
+        "adventure_anpu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d13ae50ab1f2f3f3",
+      "statement": "目标、诱惑、抵抗和未解威胁",
+      "annotation_character_ids": [
+        "adventure_mojie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3d4ac0b43ae1fb2e",
+      "statement": "与公主共同抵抗",
+      "annotation_character_ids": [
+        "adventure_young"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

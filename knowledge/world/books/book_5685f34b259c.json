@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "id": "book_5685f34b259c",
+  "title": "精怪",
+  "aliases": [],
+  "series": "原振侠系列",
+  "source_path": "原振侠系列/08.精怪.txt",
+  "file": "books/book_5685f34b259c.json",
+  "inherited_fact_count": 11,
+  "curated_links": {
+    "arcs": [
+      "arc_yuan"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "0c10442a7e9dc239d0df8e17c497d96915c646e323103f5caea6cba881d99366",
+  "source_lines": 2697,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "原振侠",
+      "card_id": "yuanzhenxia_yuanzhenxia",
+      "role": "主角",
+      "basis": "调查者"
+    },
+    {
+      "name": "海棠",
+      "card_id": "yuanzhenxia_hai_tang",
+      "role": "主角",
+      "basis": "任务执行者"
+    },
+    {
+      "name": "卡尔斯",
+      "card_id": "yuanzhenxia_kaersi",
+      "role": "反派",
+      "basis": "企图利用异种研究"
+    },
+    {
+      "name": "厉大遒",
+      "card_id": "yuanzhenxia_li_daqiu",
+      "role": "单书主角",
+      "basis": "实验故事核心"
+    },
+    {
+      "name": "陈阿牛",
+      "card_id": "yuanzhenxia_chen_aniu",
+      "role": "单书主角",
+      "basis": "实验故事核心"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "冯森乐、关律师",
+      "reason": "单书研究或法律协助"
+    },
+    {
+      "name": "厉氏三姐妹及其丈夫",
+      "reason": "一次性继承争执配角，未显示异种能力"
+    },
+    {
+      "name": "实验培育个体",
+      "reason": "未具稳定可辨独立身份；能力与伦理后果记录在创造者卡"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_1983cf0b18b9eef5",
+      "statement": "医者对生命缺陷的关注",
+      "annotation_character_ids": [
+        "yuanzhenxia_yuanzhenxia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63ae41936abbea4a",
+      "statement": "病中身份",
+      "annotation_character_ids": [
+        "yuanzhenxia_li_daqiu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63fed2821e160faa",
+      "statement": "去世",
+      "annotation_character_ids": [
+        "yuanzhenxia_li_daqiu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_685e17680a013751",
+      "statement": "与厉大遒关系",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_aniu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb978553feb049f8",
+      "statement": "地狱自述",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_aniu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8485ff1b05fe094d",
+      "statement": "实验与儿子认知",
+      "annotation_character_ids": [
+        "yuanzhenxia_li_daqiu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3ca1888e70523c3c",
+      "statement": "毁灭创造物与伦理争执",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_aniu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ffbffaaa9ab9f3ce",
+      "statement": "死亡与资料消失",
+      "annotation_character_ids": [
+        "yuanzhenxia_chen_aniu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ccb07317a013bdf0",
+      "statement": "资料毁灭",
+      "annotation_character_ids": [
+        "yuanzhenxia_li_daqiu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_625ee529a5644e2b",
+      "statement": "以军政强制推动研究",
+      "annotation_character_ids": [
+        "yuanzhenxia_kaersi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e15c662eb1b81361",
+      "statement": "受命调查而与原振侠交往",
+      "annotation_character_ids": [
+        "yuanzhenxia_hai_tang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

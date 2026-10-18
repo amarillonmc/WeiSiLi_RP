@@ -1,0 +1,205 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d00aaaa4bf0c",
+  "title": "电王",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/068电王.txt",
+  "file": "books/book_d00aaaa4bf0c.json",
+  "inherited_fact_count": 12,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "1f06c68001a4e46a81953d8c5ffad7450c05628d236e57c3bd5061a2c93cdeb5",
+  "source_lines": 3552,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "亲自追查身世并经历末段武装冲突"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "重要配角",
+      "basis": "参与推理与事后讨论"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "身世赌约推动调查"
+    },
+    {
+      "name": "文依来",
+      "card_id": "weisili_wen_yilai",
+      "role": "主角",
+      "basis": "身世和能力觉醒的中心"
+    },
+    {
+      "name": "文依来的双生弟弟",
+      "card_id": "weisili_wen_yilai_brother",
+      "role": "主角",
+      "basis": "与兄长互通记忆、共同离开地球"
+    },
+    {
+      "name": "伦伦",
+      "card_id": "adventure_lunlun",
+      "role": "主角",
+      "basis": "母亲往事与终局选择是独立叙事线"
+    },
+    {
+      "name": "笛立医生",
+      "card_id": "weisili_di_li",
+      "role": "反派",
+      "basis": "隐瞒身世、分离兄弟并联系武装买主"
+    },
+    {
+      "name": "要命的瘦子",
+      "card_id": "weisili_yaoming_shouzi",
+      "role": "反派",
+      "basis": "职业杀手参与对文依来的威胁"
+    },
+    {
+      "name": "端纳",
+      "card_id": "adventure_duanna",
+      "role": "重要配角",
+      "basis": "非人协会成员，亲自调查、协助并提供伦伦居所"
+    },
+    {
+      "name": "泥沼火人／文依来兄弟之父",
+      "card_id": "adventure_nizhao_huoren",
+      "role": "重要配角",
+      "basis": "与非人协会原书及本书确认相同身世，合并其历史行动，不额建人名"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "英生",
+      "reason": "本书线索提供者，本语料未见另一独立故事实际登场，不因在结尾再出现算多书。"
+    },
+    {
+      "name": "包令上校",
+      "reason": "本书的调查关联者，无独立主线或已证实跨书行动。"
+    },
+    {
+      "name": "琴亚",
+      "reason": "开端爱情与村中事件的见证配角，未构成终局能力行动的主角或反派。"
+    },
+    {
+      "name": "文依来的父亲",
+      "reason": "已故航行者的身世和遗传信息由他人转述，未见可独立行动的具名人物段落。"
+    },
+    {
+      "name": "武装部队中年人",
+      "reason": "未提供可辨个人身份，作为笛立交易武装方的群体背景，不虚构单人卡。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_ccab4168477fd112",
+      "statement": "致命接触与死因推测",
+      "annotation_character_ids": [
+        "weisili_yaoming_shouzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e1625fbc4aeb15fb",
+      "statement": "知晓泥淖位置",
+      "annotation_character_ids": [
+        "weisili_yaoming_shouzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_abf2adb61a92045b",
+      "statement": "红头老爹身份与买主关联",
+      "annotation_character_ids": [
+        "weisili_di_li"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72f82774fe419656",
+      "statement": "接触交换信息及单独弱、共同强的限制",
+      "annotation_character_ids": [
+        "weisili_wen_yilai",
+        "weisili_wen_yilai_brother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8e09a7eb26b8c0cc",
+      "statement": "用养育关系控制的失败",
+      "annotation_character_ids": [
+        "weisili_di_li"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5bed32f2dfe585a8",
+      "statement": "母子告别及拒绝同行",
+      "annotation_character_ids": [
+        "adventure_lunlun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5879cdd38b2bf653",
+      "statement": "遗传任务与解除武装",
+      "annotation_character_ids": [
+        "weisili_wen_yilai",
+        "weisili_wen_yilai_brother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72cf3f820601d3ec",
+      "statement": "电网排泥和飞船离开",
+      "annotation_character_ids": [
+        "weisili_wen_yilai",
+        "weisili_wen_yilai_brother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ef0eb6eaa8a25c10",
+      "statement": "死亡后留下钥匙并与其他人的结局对照",
+      "annotation_character_ids": [
+        "weisili_yaoming_shouzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2d8e4b8014431b02",
+      "statement": "保护笛立的复杂关系",
+      "annotation_character_ids": [
+        "adventure_lunlun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a64879090008454",
+      "statement": "武装买主、畏惧握手与最后离去",
+      "annotation_character_ids": [
+        "weisili_di_li"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_71c80ac1495e145c",
+      "statement": "最终居所与昔日受利用的母性",
+      "annotation_character_ids": [
+        "adventure_lunlun"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

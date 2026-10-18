@@ -1,0 +1,17 @@
+{
+  "id": "before__w_underworld_shutdown__w_alliance",
+  "source": "w_underworld_shutdown",
+  "target": "w_alliance",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "终章按先见停机、回家、来访叙述；停机本身日期仍不明。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "终章按先见停机、回家、来访叙述；停机本身日期仍不明。",
+  "evidence_ids": [
+    "evidence_f2c68e214ccbfa25"
+  ],
+  "book_ids": [
+    "book_1fb6bf0030da"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "m_annie_walks",
+  "title": "安妮恢复行走",
+  "kind": "event",
+  "summary": "中毒、解药和发热之后，安妮双腿逐渐恢复，原文没有确定是哪一因素起作用。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《猎头禁地》后段。",
+    "narrative_layer": "present"
+  },
+  "state_before": "安妮原先需轮椅。",
+  "state_after": "能独立行走，仍需继续训练和学习。",
+  "knowledge_boundary": "恢复原因未知，不得当作可复用疗法。",
+  "character_ids": [
+    "mulanhua_annie"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_10e8045857ddd18d",
+    "evidence_76356d25d426c8e3"
+  ],
+  "book_ids": [
+    "book_2d3443649105"
+  ]
+}

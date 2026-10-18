@@ -1,0 +1,532 @@
+{
+  "schema_version": "1.0",
+  "id": "book_46efdff81598",
+  "title": "无价奇石",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/38无价奇石.txt",
+  "file": "books/book_46efdff81598.json",
+  "inherited_fact_count": 49,
+  "curated_links": {
+    "arcs": [
+      "arc_mulanhua",
+      "arc_muxiuzhen",
+      "arc_yunsifeng"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "fb28a3699778df70efce17d5961513591f7ede6820a463f3b51bd245ddb06050",
+  "source_lines": 2366,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "柯克教授",
+      "card_id": "mulanhua_keke_volcano",
+      "role": "单书主角/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "孟斯",
+      "card_id": "mulanhua_mengsi",
+      "role": "单书主角/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "汉谷",
+      "card_id": "mulanhua_hangu",
+      "role": "单书主角/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "火山探险团第四名科学家",
+      "card_id": "mulanhua_volcano_fourth_scientist",
+      "role": "单书主角/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "钻石财团秃顶董事",
+      "card_id": "mulanhua_diamond_bald_director",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "钻石财团胖董事",
+      "card_id": "mulanhua_diamond_fat_director",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "布列治",
+      "card_id": "mulanhua_buliezhi",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "郭老大（钻石买凶中介）",
+      "card_id": "mulanhua_guo_diamond_boss",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "化装老妇的钻石财团刺客",
+      "card_id": "mulanhua_diamond_old_woman_assassin",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "火山空袭战斗机驾驶员",
+      "card_id": "mulanhua_volcano_attack_pilot",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "裴隆律师及其家人",
+      "reason": "一次性委托与被胁迫询问的配角，未参与科学家违法计划；不因守职业秘密标为反派。"
+    },
+    {
+      "name": "花楷模／花蛤蟆",
+      "reason": "本书一次线人，过去被木兰花抓捕只是概述，未检到其他书实际出场；不据背景一句扩成跨书角色。"
+    },
+    {
+      "name": "李总编辑、驻军官员及服务人员",
+      "reason": "一次性协助、传讯与场景角色，无独立主角线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0109b31c51767e5c",
+      "statement": "保护职员",
+      "annotation_character_ids": [
+        "mulanhua_yun_sifeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa955b7da5b0aef9",
+      "statement": "高温技术与好胜",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_58203f9b97ee73bf",
+      "statement": "工程关系和查访",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_242abcbd10234ee2",
+      "statement": "取消抢劫、改用合作",
+      "annotation_character_ids": [
+        "mulanhua_volcano_fourth_scientist"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_407a2eecbb2c8144",
+      "statement": "共同违法逻辑被纠正",
+      "annotation_character_ids": [
+        "mulanhua_keke_volcano"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_954d66ddd2f79bab",
+      "statement": "固定四人构成及共同计划",
+      "annotation_character_ids": [
+        "mulanhua_volcano_fourth_scientist"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c3a1acd5bd7a692f",
+      "statement": "四名科学家共同身份",
+      "annotation_character_ids": [
+        "mulanhua_hangu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ca5f0dc6c60dca93",
+      "statement": "科学家身份、计划和狂热",
+      "annotation_character_ids": [
+        "mulanhua_keke_volcano"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_03293ddbc478a708",
+      "statement": "地质身份与政府协助",
+      "annotation_character_ids": [
+        "mulanhua_mengsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a23820774818e6e2",
+      "statement": "驾驶资格和风险说明",
+      "annotation_character_ids": [
+        "mulanhua_mengsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c7f96467af9baebc",
+      "statement": "热流失控与救援困难",
+      "annotation_character_ids": [
+        "mulanhua_mengsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_201102ce3dcf907c",
+      "statement": "危机安抚",
+      "annotation_character_ids": [
+        "mulanhua_keke_volcano"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e5667aabf045586e",
+      "statement": "爱情与独立劝告",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b012b3c5f1cd400",
+      "statement": "线人身份、郭的掩护与招募链",
+      "annotation_character_ids": [
+        "mulanhua_guo_diamond_boss"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fb4d8ab7e1f658ea",
+      "statement": "买凶背景及误判",
+      "annotation_character_ids": [
+        "mulanhua_diamond_bald_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a1ef746640dc306d",
+      "statement": "财团动机与目标误判",
+      "annotation_character_ids": [
+        "mulanhua_buliezhi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a467591c860d6ba",
+      "statement": "木借介绍身份进入酒店",
+      "annotation_character_ids": [
+        "mulanhua_guo_diamond_boss"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1ae1c3c7085cfc72",
+      "statement": "外貌、条件与董事会",
+      "annotation_character_ids": [
+        "mulanhua_diamond_bald_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_adc7dd62b77f5e45",
+      "statement": "外貌及加价",
+      "annotation_character_ids": [
+        "mulanhua_diamond_fat_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a735a30ad7db903",
+      "statement": "董事会决策链",
+      "annotation_character_ids": [
+        "mulanhua_buliezhi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e729d27e477bf97d",
+      "statement": "怀疑承包者",
+      "annotation_character_ids": [
+        "mulanhua_diamond_fat_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_396b40a16cee7847",
+      "statement": "署名信与已聘刺客",
+      "annotation_character_ids": [
+        "mulanhua_buliezhi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5cc88d5b3bdfc18e",
+      "statement": "接待刺客并要求移出现场",
+      "annotation_character_ids": [
+        "mulanhua_diamond_bald_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b8d91e811f1ce7df",
+      "statement": "雇佣、工具自述与杀人规则",
+      "annotation_character_ids": [
+        "mulanhua_diamond_old_woman_assassin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f824b4ae64f74009",
+      "statement": "害怕凶器及酒店关联",
+      "annotation_character_ids": [
+        "mulanhua_diamond_fat_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f3d0b40676e48f9",
+      "statement": "电梯追踪及化装破绽",
+      "annotation_character_ids": [
+        "mulanhua_diamond_old_woman_assassin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5bacf4ddf8f9a472",
+      "statement": "试探接近、谈判和被捕",
+      "annotation_character_ids": [
+        "mulanhua_diamond_old_woman_assassin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ae750c4b8a7b9716",
+      "statement": "失败与离城建议",
+      "annotation_character_ids": [
+        "mulanhua_diamond_bald_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82e761ae571ed99b",
+      "statement": "可能被供出的风险",
+      "annotation_character_ids": [
+        "mulanhua_buliezhi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f755be36c9b6e913",
+      "statement": "供述忧虑和结局",
+      "annotation_character_ids": [
+        "mulanhua_diamond_fat_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1c2d47099991afcc",
+      "statement": "买凶路线受阻",
+      "annotation_character_ids": [
+        "mulanhua_guo_diamond_boss"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e6c8416cbb4985ea",
+      "statement": "协同接回",
+      "annotation_character_ids": [
+        "mulanhua_mengsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77de6698f12ec72f",
+      "statement": "永恒钻石说",
+      "annotation_character_ids": [
+        "mulanhua_keke_volcano"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cc34accbe110d454",
+      "statement": "记录仪和周期分析",
+      "annotation_character_ids": [
+        "mulanhua_volcano_fourth_scientist"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_544f2411965775cc",
+      "statement": "气流驾驶、空战和伤疲",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d16e456e19b5ca12",
+      "statement": "分工调整",
+      "annotation_character_ids": [
+        "mulanhua_mengsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_088a47a632b0c8f2",
+      "statement": "任务与实验调整",
+      "annotation_character_ids": [
+        "mulanhua_keke_volcano"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_56504aa0ddf1f1ef",
+      "statement": "顶上分工",
+      "annotation_character_ids": [
+        "mulanhua_volcano_fourth_scientist"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6925950234d88f64",
+      "statement": "突袭、任务与飞行技术",
+      "annotation_character_ids": [
+        "mulanhua_volcano_attack_pilot"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7f9488deac2bfe3a",
+      "statement": "营地雷达消息",
+      "annotation_character_ids": [
+        "mulanhua_hangu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a201a928b8aa7aa7",
+      "statement": "交战、避撞及反击",
+      "annotation_character_ids": [
+        "mulanhua_volcano_attack_pilot"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cfa14b05a02fb014",
+      "statement": "击伤对方与撞山终局",
+      "annotation_character_ids": [
+        "mulanhua_volcano_attack_pilot"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5d758bf6a4655e9f",
+      "statement": "目击、扶伤者与替飞",
+      "annotation_character_ids": [
+        "mulanhua_hangu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2f0ca7976267aa8",
+      "statement": "让出名额与吊运",
+      "annotation_character_ids": [
+        "mulanhua_mengsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cb27fe664b5365de",
+      "statement": "下探器械与辐射检查",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8234c354a57cc000",
+      "statement": "紧急撤回、反思、发现和终局",
+      "annotation_character_ids": [
+        "mulanhua_keke_volcano"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_969d0808b7ab84c3",
+      "statement": "救回、损坏与终局",
+      "annotation_character_ids": [
+        "mulanhua_volcano_fourth_scientist"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_39578c31a4ed1f24",
+      "statement": "开启受损囊、发现样品、受勋",
+      "annotation_character_ids": [
+        "mulanhua_hangu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76911c483a325df2",
+      "statement": "撤回、报告、异石及终局",
+      "annotation_character_ids": [
+        "mulanhua_mengsi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

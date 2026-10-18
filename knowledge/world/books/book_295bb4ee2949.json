@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0",
+  "id": "book_295bb4ee2949",
+  "title": "活俑",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/062活俑.txt",
+  "file": "books/book_295bb4ee2949.json",
+  "inherited_fact_count": 25,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "eb89b4f33e8ff9f5afdd9fba60ee32b1007cdb5ab85835e98ac0184e734037ad",
+  "source_lines": 3509,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "查失踪及王陵"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "见金花、调查并理解隐情"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "旧友与介绍"
+    },
+    {
+      "name": "卓齿",
+      "card_id": "weisili_zhuo_chi",
+      "role": "主角",
+      "basis": "长生试药者和父亲"
+    },
+    {
+      "name": "卓长根",
+      "card_id": "weisili_zhuo_changgen",
+      "role": "主角",
+      "basis": "追寻初恋与父亲"
+    },
+    {
+      "name": "马金花",
+      "card_id": "weisili_ma_jinhua",
+      "role": "主角",
+      "basis": "草原少女和汉学家"
+    },
+    {
+      "name": "马醉木",
+      "card_id": "weisili_ma_zuimu",
+      "role": "主角",
+      "basis": "历史父亲与托孤者"
+    },
+    {
+      "name": "鲍士方",
+      "card_id": "weisili_bao_shifang",
+      "role": "重要配角",
+      "basis": "组织搜寻并跨《异宝》再现"
+    },
+    {
+      "name": "金花丈夫",
+      "card_id": "weisili_ma_jinhua_husband",
+      "role": "主角",
+      "basis": "驯马与婚姻直接行动者"
+    },
+    {
+      "name": "秦王",
+      "card_id": "weisili_qin_shihuang",
+      "role": "反派",
+      "basis": "下令试药并杀方士的历史行动"
+    },
+    {
+      "name": "赵高",
+      "card_id": "weisili_zhao_gao",
+      "role": "反派",
+      "basis": "引出试药和处死的具体进言"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "其余八名活俑",
+      "reason": "只呈沉睡与共同药效，无可区分个性和主线行动；保留群体事实不虚构八卡"
+    },
+    {
+      "name": "孟法",
+      "reason": "一次性副总裁，未见独立主线或跨书实际行动"
+    },
+    {
+      "name": "江忠及当地官员",
+      "reason": "提供历史接待或行政阻碍，未有足够独立反派意图和主角线"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_5116fc83f29ace0a",
+      "statement": "少年经历",
+      "annotation_character_ids": [
+        "weisili_ma_jinhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_779707f74bb2d233",
+      "statement": "牧场身份和个性",
+      "annotation_character_ids": [
+        "weisili_ma_zuimu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ebfbc644f8fe6207",
+      "statement": "年龄外形和骑术",
+      "annotation_character_ids": [
+        "weisili_zhuo_changgen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0522a0da3038e61f",
+      "statement": "托付儿子和良马",
+      "annotation_character_ids": [
+        "weisili_zhuo_chi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f33fddeacd119b85",
+      "statement": "识马和接纳托付",
+      "annotation_character_ids": [
+        "weisili_ma_zuimu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d639b94cbac39cd2",
+      "statement": "归来求学和学术地位",
+      "annotation_character_ids": [
+        "weisili_ma_jinhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_febfc7a1073cadf1",
+      "statement": "尊重女儿与支持求学",
+      "annotation_character_ids": [
+        "weisili_ma_zuimu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5c827453ea8b1808",
+      "statement": "死亡和牧场消失",
+      "annotation_character_ids": [
+        "weisili_ma_zuimu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ee075fc37e54c041",
+      "statement": "担忧金花与相见",
+      "annotation_character_ids": [
+        "weisili_zhuo_changgen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bab273ed0ec1990e",
+      "statement": "晚年身体、性格与死亡",
+      "annotation_character_ids": [
+        "weisili_ma_jinhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_385a9065a0c9ecbc",
+      "statement": "事业和坚持独行",
+      "annotation_character_ids": [
+        "weisili_zhuo_changgen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a24e45bc57e5634",
+      "statement": "副总裁身份和求助",
+      "annotation_character_ids": [
+        "weisili_bao_shifang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4432c2441940c204",
+      "statement": "十人服丹由来",
+      "annotation_character_ids": [
+        "weisili_zhuo_chi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_08d9ca60861e6060",
+      "statement": "所见形态与活人状态",
+      "annotation_character_ids": [
+        "weisili_ma_jinhua_husband"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_74e846cb779dd3db",
+      "statement": "赵高建议与试药处死",
+      "annotation_character_ids": [
+        "weisili_qin_shihuang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_85ee02b7d529df28",
+      "statement": "进言的明确内容与后果",
+      "annotation_character_ids": [
+        "weisili_zhao_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a77383a3df5c903",
+      "statement": "十人药物共同背景",
+      "annotation_character_ids": [
+        "weisili_ma_jinhua_husband"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4d324a3ca79dc662",
+      "statement": "卓齿和卫斯理对其不同评价",
+      "annotation_character_ids": [
+        "weisili_zhao_gao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e744b972ed186df9",
+      "statement": "君臣称谓与死亡殉葬",
+      "annotation_character_ids": [
+        "weisili_qin_shihuang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e72cecee2ed454ee",
+      "statement": "休眠周期和外出成家",
+      "annotation_character_ids": [
+        "weisili_zhuo_chi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_106a7f00eb690fa1",
+      "statement": "成婚与五年经历",
+      "annotation_character_ids": [
+        "weisili_ma_jinhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_88a027c2c03ac521",
+      "statement": "驯马、婚姻和记录",
+      "annotation_character_ids": [
+        "weisili_ma_jinhua_husband"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d7aa139c6f5fac29",
+      "statement": "重逢离别及仍会衰老",
+      "annotation_character_ids": [
+        "weisili_zhuo_changgen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_99107e9ddfcc4ef5",
+      "statement": "父子离别及留陵选择",
+      "annotation_character_ids": [
+        "weisili_zhuo_chi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e92b08d994cd2964",
+      "statement": "获救结果与信息边界",
+      "annotation_character_ids": [
+        "weisili_bao_shifang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "y_maxian_origin",
+  "title": "玛仙身世与培育实验揭露",
+  "kind": "event",
+  "summary": "从巫艳中的容貌变化和巫术来历，推进到爱神说明玛仙与范围的培育实验。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《巫艳》到《大犯罪者》的身份揭露链。",
+    "narrative_layer": "present"
+  },
+  "state_before": "玛仙的潜能被以巫术和神秘身世理解。",
+  "state_after": "她对自身有新认识，身世秘密并未向所有人公开。",
+  "knowledge_boundary": "实验身世并不取消她的人格，爱神也没有因此拥有她。",
+  "character_ids": [
+    "yuanzhenxia_ma_xian",
+    "yuanzhenxia_aishen"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_bdafc99c209a88dc",
+    "evidence_126561bb163290d4"
+  ],
+  "book_ids": [
+    "book_07cad85786b0",
+    "book_16e87a9465f3"
+  ]
+}

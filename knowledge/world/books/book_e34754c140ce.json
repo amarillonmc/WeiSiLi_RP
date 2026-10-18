@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0",
+  "id": "book_e34754c140ce",
+  "title": "飞焰",
+  "aliases": [],
+  "series": "亚洲之鹰罗开系列",
+  "source_path": "亚洲之鹰罗开系列/15飞焰.txt",
+  "file": "books/book_e34754c140ce.json",
+  "inherited_fact_count": 12,
+  "curated_links": {
+    "events": [
+      "l_flying_flame"
+    ],
+    "arcs": [
+      "arc_luokai"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "4b495e99e0d1f415caab438a2fbb30b0135ff0defc868f35a40061f4ce4d05c5",
+  "source_lines": 1227,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "高达",
+      "card_id": "adventure_gaoda",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "曲如眉",
+      "card_id": "adventure_qu_rumei",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "八角星恋人",
+      "card_id": "adventure_bajiaoxing_yingzi",
+      "role": "主角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "远",
+      "card_id": "adventure_yuan",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "哈德",
+      "card_id": "adventure_hade",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    },
+    {
+      "name": "卡娅",
+      "card_id": "adventure_kaya",
+      "role": "重要配角",
+      "basis": "具有本书实质行动或主线作用"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "原振侠及爱神事件",
+      "reason": "主要作机构问题背景，能力以其主卡另核"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c9f750cc1816f5f5",
+      "statement": "共同保管装置条件",
+      "annotation_character_ids": [
+        "adventure_daina"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_926bc4fb0d1c29b8",
+      "statement": "重生期限与航程",
+      "annotation_character_ids": [
+        "adventure_qu_rumei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d69923226ef122a4",
+      "statement": "既往运输与受罚削弱",
+      "annotation_character_ids": [
+        "adventure_yuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5020422330c8f4f2",
+      "statement": "联系消耗与终局衰弱",
+      "annotation_character_ids": [
+        "adventure_bajiaoxing_yingzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8ce5c16ff4d844b6",
+      "statement": "改变寿命的来源",
+      "annotation_character_ids": [
+        "adventure_bajiaoxing_yingzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb47832c5f3a2175",
+      "statement": "基因来源及火箭事件不确定性",
+      "annotation_character_ids": [
+        "adventure_qu_rumei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7c8ef7ae0df81292",
+      "statement": "隐居、身份与寻找",
+      "annotation_character_ids": [
+        "adventure_hade"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b406ac82870c102d",
+      "statement": "离开组织与隐居",
+      "annotation_character_ids": [
+        "adventure_kaya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_60b93ffcc7b84163",
+      "statement": "脑波联系与不许胁迫卡娅",
+      "annotation_character_ids": [
+        "adventure_bajiaoxing_yingzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6bb852d9edca4d06",
+      "statement": "未知身份与援助",
+      "annotation_character_ids": [
+        "adventure_kaya"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_81513ebf39b4b572",
+      "statement": "保全卡娅和水荭",
+      "annotation_character_ids": [
+        "adventure_luokai"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a18055b6ef43a07",
+      "statement": "在职终局与未来意愿",
+      "annotation_character_ids": [
+        "adventure_shui_hong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

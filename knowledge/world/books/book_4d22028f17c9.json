@@ -1,0 +1,133 @@
+{
+  "schema_version": "1.0",
+  "id": "book_4d22028f17c9",
+  "title": "卫斯理与白素",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/002卫斯理与白素.txt",
+  "file": "books/book_4d22028f17c9.json",
+  "inherited_fact_count": 2,
+  "curated_links": {
+    "events": [
+      "w_bai_union"
+    ],
+    "arcs": [
+      "arc_baisu"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "0bd0e8ff985eeea835442679fa34b2bd3852e78980480ab62210286a0c8a73b0",
+  "source_lines": 1748,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "本书叙述与主要调查行动。"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "调查、营救与终局关系"
+    },
+    {
+      "name": "白奇伟",
+      "card_id": "weisili_bai_qiwei",
+      "role": "阶段性对立者",
+      "basis": "钢板阴谋与后期和解"
+    },
+    {
+      "name": "白老大",
+      "card_id": "weisili_bai_laoda",
+      "role": "重要配角",
+      "basis": "地下世界、发明与集会"
+    },
+    {
+      "name": "宋坚",
+      "card_id": "weisili_song_jian",
+      "role": "单书主角",
+      "basis": "共同寻宝与公共财产原则"
+    },
+    {
+      "name": "宋富",
+      "card_id": "weisili_song_fu",
+      "role": "反派",
+      "basis": "夺宝、毒箭和毒贩身份"
+    },
+    {
+      "name": "红红",
+      "card_id": "weisili_wang_honghong",
+      "role": "单书主角",
+      "basis": "独立选择与宋富同行"
+    },
+    {
+      "name": "杜仲",
+      "card_id": "weisili_du_zhong",
+      "role": "反派",
+      "basis": "召灵伪装及盗钢板操作"
+    },
+    {
+      "name": "里加度",
+      "card_id": "weisili_lijia_du",
+      "role": "反派",
+      "basis": "胡克党首领"
+    },
+    {
+      "name": "李根",
+      "card_id": "weisili_li_gen",
+      "role": "反派",
+      "basis": "武装对立"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "秦正器",
+      "reason": "单书提供身份与避难配合的辅助角色，无独立主角线或跨书行动证据。"
+    },
+    {
+      "name": "黄彼德、程警官、田利东、于廷文",
+      "reason": "检索和传讯等辅助人物，未形成独立反派人格线；不以出现频率直接升级。"
+    },
+    {
+      "name": "死神、阴姓大师伯",
+      "reason": "本书只补述终局或授艺经历，引用前书主卡证据，不重复建卡。"
+    },
+    {
+      "name": "胡克党及各帮会普通成员",
+      "reason": "从属执行群体，无独立人物线。"
+    },
+    {
+      "name": "石看天、刘阿根",
+      "reason": "本文件从第十一章开始，二人此前会议行动不在此文件。"
+    },
+    {
+      "name": "老蔡",
+      "reason": "本文件仅一处回指，不构成新的实际登场。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_3d03b5a91cc37d91",
+      "statement": "以财富垫脚脱险并确立与卫斯理关系",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb5688cfc3302727",
+      "statement": "财富争执、脱险与家庭关系",
+      "annotation_character_ids": [
+        "weisili_bai_qiwei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

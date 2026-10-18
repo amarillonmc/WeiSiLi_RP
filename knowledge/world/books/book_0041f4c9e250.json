@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "id": "book_0041f4c9e250",
+  "title": "闭关开关",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/135闭关开关.txt",
+  "file": "books/book_0041f4c9e250.json",
+  "inherited_fact_count": 6,
+  "curated_links": {
+    "arcs": [
+      "arc_baisu",
+      "arc_lansi"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "3a954b783d485dd9b50c6951e6fa43b86b113dea9c64f2e8588cc094184619d1",
+  "source_lines": 946,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "长老",
+      "card_id": "weisili_chang_lao",
+      "role": "阶段性对立者",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "汤达旦",
+      "card_id": "weisili_tang_dadan",
+      "role": "主角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "大亨",
+      "card_id": "weisili_da_heng",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "朱槿",
+      "card_id": "weisili_zhu_jin",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    },
+    {
+      "name": "水荭",
+      "card_id": "adventure_shui_hong",
+      "role": "重要配角",
+      "basis": "本书实际参与事件，与跨书主卡合并"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "教派众人",
+      "reason": "信仰群体没有足够独立身份，不给每人分配蓝丝或长老能力"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_ffd12944c396356b",
+      "statement": "本派谋财禁制",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_01075b71a93d54a1",
+      "statement": "参与切断汤达旦合作资金",
+      "annotation_character_ids": [
+        "weisili_tao_qiquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_767719aea0cc4627",
+      "statement": "参与阻断危险工程资金",
+      "annotation_character_ids": [
+        "weisili_zhu_jin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b0758f0142fcf20",
+      "statement": "利用合作关系阻断汤达旦资金",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_daf9b30f161a4f7b",
+      "statement": "金融资源受合作者转向击败",
+      "annotation_character_ids": [
+        "weisili_tang_dadan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e557b53cf590242c",
+      "statement": "商界合作改变影响资金结果",
+      "annotation_character_ids": [
+        "weisili_da_heng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

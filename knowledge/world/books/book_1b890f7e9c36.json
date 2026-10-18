@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1b890f7e9c36",
+  "title": "追龙",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/060追龙.txt",
+  "file": "books/book_1b890f7e9c36.json",
+  "inherited_fact_count": 7,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "0c2ec04524394261eed54f6a05a279441facc32f80560f377b703dcf5f718aac",
+  "source_lines": 3227,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "承接预警并查灾兆"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "重要配角",
+      "basis": "安抚与共同调查"
+    },
+    {
+      "name": "陈长青",
+      "card_id": "weisili_chen_changqing",
+      "role": "重要配角",
+      "basis": "研究星图及推理"
+    },
+    {
+      "name": "孔振泉",
+      "card_id": "weisili_kong_zhenquan",
+      "role": "主角",
+      "basis": "临终预警者"
+    },
+    {
+      "name": "孔振源",
+      "card_id": "weisili_kong_zhenyuan",
+      "role": "主角",
+      "basis": "求助、照料与提供经过"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "江星月",
+      "reason": "已故朋友被追述，未在本书独立行动"
+    },
+    {
+      "name": "灾难中的他们",
+      "reason": "解释不定的泛称，未确认可独立建卡的具体操纵者"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_f3a0b86028b83ba7",
+      "statement": "年龄、兄弟关系和经营性格",
+      "annotation_character_ids": [
+        "weisili_kong_zhenyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f81ca1a98c752ec9",
+      "statement": "临终求助和性格",
+      "annotation_character_ids": [
+        "weisili_kong_zhenquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72d2e886cee0dc97",
+      "statement": "观象、忧患与死亡",
+      "annotation_character_ids": [
+        "weisili_kong_zhenquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a7395929c869471d",
+      "statement": "照料及面对死亡",
+      "annotation_character_ids": [
+        "weisili_kong_zhenyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b92cf22b7d64861d",
+      "statement": "记录被解释及灾难推测",
+      "annotation_character_ids": [
+        "weisili_kong_zhenquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e776a343bbddeacd",
+      "statement": "承认拖延并提供经过",
+      "annotation_character_ids": [
+        "weisili_kong_zhenyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_df4960959c3d6300",
+      "statement": "始终只有观察而未改变",
+      "annotation_character_ids": [
+        "weisili_kong_zhenquan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

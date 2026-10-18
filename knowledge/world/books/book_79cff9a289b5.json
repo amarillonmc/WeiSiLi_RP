@@ -1,0 +1,310 @@
+{
+  "schema_version": "1.0",
+  "id": "book_79cff9a289b5",
+  "title": "还阳",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/098还阳.txt",
+  "file": "books/book_79cff9a289b5.json",
+  "inherited_fact_count": 22,
+  "curated_links": {
+    "entities": [
+      "fate_patterns"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "647a5496330983ae12d4af40398e5d425097b032462cb6b93cc23bd4fae8c345",
+  "source_lines": 2720,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "黄老太（还阳）",
+      "card_id": "weisili_huang_laotai_huanyang",
+      "role": "阶段性对立者",
+      "basis": "情报安排、历史行动或当下研究决策"
+    },
+    {
+      "name": "神木居参谋长",
+      "card_id": "weisili_shenmu_chief_of_staff",
+      "role": "单书主角",
+      "basis": "情报安排、历史行动或当下研究决策"
+    },
+    {
+      "name": "下令锯神木的最高当局",
+      "card_id": "weisili_shenmu_supreme_leader",
+      "role": "反派",
+      "basis": "情报安排、历史行动或当下研究决策"
+    },
+    {
+      "name": "神木居事件的特务头子",
+      "card_id": "weisili_shenmu_spy_chief",
+      "role": "反派",
+      "basis": "情报安排、历史行动或当下研究决策"
+    },
+    {
+      "name": "主持还阳研究的首长",
+      "card_id": "weisili_huanyang_elder_leader",
+      "role": "反派",
+      "basis": "情报安排、历史行动或当下研究决策"
+    },
+    {
+      "name": "宋自然",
+      "card_id": "weisili_song_tianran",
+      "role": "重要配角",
+      "basis": "与《命运》宋天然同人，带来资料与事件"
+    },
+    {
+      "name": "黄蝉",
+      "card_id": "weisili_huang_chan",
+      "role": "重要配角",
+      "basis": "安排神木居和研究接触"
+    },
+    {
+      "name": "小郭",
+      "card_id": "weisili_xiao_guo",
+      "role": "重要配角",
+      "basis": "调查与联系"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "系列主角",
+      "basis": "参与讨论"
+    },
+    {
+      "name": "罗开",
+      "card_id": "adventure_luokai",
+      "role": "跨系列主角",
+      "basis": "电话实际联系"
+    },
+    {
+      "name": "水红",
+      "card_id": "adventure_shui_hong",
+      "role": "重要配角",
+      "basis": "电话联系并谈姐姐处境"
+    },
+    {
+      "name": "勒曼医院研究者",
+      "card_id": "weisili_leman_hospital",
+      "role": "重要配角",
+      "basis": "协助说明实验和提出移交研究条件"
+    },
+    {
+      "name": "人树结合男子",
+      "card_id": "weisili_wood_man",
+      "role": "跨书主角",
+      "basis": "本书实验对象，后来《遗传》《水晶宫》明确人格与行动，合并记录早期状态"
+    },
+    {
+      "name": "人树结合女子",
+      "card_id": "weisili_wood_woman",
+      "role": "跨书主角",
+      "basis": "本书实验对象，后来《遗传》《水晶宫》明确人格与行动，合并记录早期状态"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "历史降将、接待和搬运人员",
+      "reason": "一次性背景和辅助人物，无独立主角线。"
+    },
+    {
+      "name": "十二花其他成员",
+      "reason": "作为背景比较被提及，不能当作全员在本书出场。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_ac03777c9e551cc2",
+      "statement": "关系疑问",
+      "annotation_character_ids": [
+        "weisili_huang_laotai_huanyang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e371b0abc3fb70da",
+      "statement": "情报与任务",
+      "annotation_character_ids": [
+        "weisili_huang_laotai_huanyang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f031855e480f7d1f",
+      "statement": "安排",
+      "annotation_character_ids": [
+        "weisili_huang_laotai_huanyang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_22c812c0308694b2",
+      "statement": "闭门与传话",
+      "annotation_character_ids": [
+        "weisili_huang_laotai_huanyang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_77868e8a17ab5d16",
+      "statement": "黄芳子身份揭明",
+      "annotation_character_ids": [
+        "weisili_huang_chan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3207c193011abe07",
+      "statement": "温妈妈弟弟身份",
+      "annotation_character_ids": [
+        "weisili_song_tianran"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b16fd1e9c816bdc6",
+      "statement": "访问与记述",
+      "annotation_character_ids": [
+        "weisili_shenmu_chief_of_staff"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1f05b32278825ddc",
+      "statement": "保护及监视",
+      "annotation_character_ids": [
+        "weisili_shenmu_chief_of_staff"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2d552009235bea60",
+      "statement": "监视系统",
+      "annotation_character_ids": [
+        "weisili_shenmu_spy_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f708686a1eae294d",
+      "statement": "命令与批语",
+      "annotation_character_ids": [
+        "weisili_shenmu_supreme_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d77dfbaecb6d7e8b",
+      "statement": "调职",
+      "annotation_character_ids": [
+        "weisili_shenmu_chief_of_staff"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d2bc2e9bec6f0d8a",
+      "statement": "指控及锯树",
+      "annotation_character_ids": [
+        "weisili_shenmu_spy_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_892cd7142e9a0d57",
+      "statement": "抱树经验",
+      "annotation_character_ids": [
+        "weisili_shenmu_chief_of_staff"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8621ec0b239bf027",
+      "statement": "树运来后",
+      "annotation_character_ids": [
+        "weisili_shenmu_supreme_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5825c428c525304c",
+      "statement": "主管任命",
+      "annotation_character_ids": [
+        "weisili_huang_chan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_52b04cdeb53cc59c",
+      "statement": "下令还阳",
+      "annotation_character_ids": [
+        "weisili_huanyang_elder_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8a6264908ebdc860",
+      "statement": "研究目标",
+      "annotation_character_ids": [
+        "weisili_huanyang_elder_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_13b5bf74ca825e0a",
+      "statement": "谈判破裂",
+      "annotation_character_ids": [
+        "weisili_huanyang_elder_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1b635fb399b18bb4",
+      "statement": "个人限度与白素的安慰",
+      "annotation_character_ids": [
+        "weisili_huang_chan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_49e1133ef53d94d4",
+      "statement": "宋自然记忆处理及其机构来源",
+      "annotation_character_ids": [
+        "weisili_huang_chan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5175bbe15539463f",
+      "statement": "失去相关记忆的表现与推断",
+      "annotation_character_ids": [
+        "weisili_song_tianran"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_653f7bc41ddd5e67",
+      "statement": "当时关于记忆清除的推断",
+      "annotation_character_ids": [
+        "weisili_huang_chan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

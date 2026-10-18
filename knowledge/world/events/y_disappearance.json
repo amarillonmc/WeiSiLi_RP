@@ -1,0 +1,29 @@
+{
+  "id": "y_disappearance",
+  "title": "原振侠返航失踪",
+  "kind": "event",
+  "summary": "原振侠为相会进入宇宙，返地球航程遭不可测变故，康维和玛仙的搜索未获确讯。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《天皇巨星》末。",
+    "narrative_layer": "present"
+  },
+  "state_before": "原振侠仍有可追索航程与相会目标。",
+  "state_after": "失踪成立；生死、所在时空与是否能返乡未定。",
+  "knowledge_boundary": "不能把后续正常登场自动视为原作已获救；需先选失踪前场景或明确救回改编。",
+  "character_ids": [
+    "yuanzhenxia_yuanzhenxia",
+    "yuanzhenxia_ma_xian",
+    "yuanzhenxia_kangwei"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_3f0b55873f0513a6",
+    "evidence_73412a59c3cdd4ac"
+  ],
+  "book_ids": [
+    "book_8e795168086a"
+  ]
+}

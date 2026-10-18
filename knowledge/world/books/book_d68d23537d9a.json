@@ -1,0 +1,218 @@
+{
+  "schema_version": "1.0",
+  "id": "book_d68d23537d9a",
+  "title": "珍珠荡妇",
+  "aliases": [],
+  "series": "浪子高达系列",
+  "source_path": "浪子高达系列/珍珠荡妇.txt",
+  "file": "books/book_d68d23537d9a.json",
+  "inherited_fact_count": 12,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "f551efdea0c50b08f4e5bccd766bc30c6c5f2a8d40bee83de90d1820247b503f",
+  "source_lines": 4798,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "高达",
+      "card_id": "adventure_gaoda",
+      "role": "主角",
+      "basis": "全书核心行动视角"
+    },
+    {
+      "name": "杜雪",
+      "card_id": "adventure_du_xue",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "克鲁斯",
+      "card_id": "adventure_kelusi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "时重池",
+      "card_id": "adventure_shi_lushi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "费经理",
+      "card_id": "adventure_fei",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "莫教授",
+      "card_id": "adventure_mo",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "阿发",
+      "card_id": "adventure_afa",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "万夹",
+      "card_id": "adventure_wanjia",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "金手勤",
+      "card_id": "adventure_jinshouqin",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "韦松石",
+      "card_id": "adventure_wei_songshi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "黎探长",
+      "card_id": "adventure_li_tanzhang",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "白美玉",
+      "card_id": "adventure_bai_meiyu",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "雅丽",
+      "card_id": "adventure_yali",
+      "role": "阶段性对立者",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "甘夫人",
+      "card_id": "adventure_gan_furen",
+      "role": "单书主角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "鲍勃",
+      "reason": "一次性航海者、被牵连的丈夫与核实照片的证人；无独立主要行动目标。"
+    },
+    {
+      "name": "夏威夷黑鲨",
+      "reason": "只作为拟议合作人与竞争背景提及，未参与已完成行动。"
+    },
+    {
+      "name": "法兰克",
+      "reason": "尾声单书求爱者与误会对象，未形成独立主要反派线。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_eb794bde99b634ff",
+      "statement": "珠宝邀约线索",
+      "annotation_character_ids": [
+        "adventure_bai_meiyu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4372bf99229ac6d0",
+      "statement": "身份、情报能力与游说",
+      "annotation_character_ids": [
+        "adventure_shi_lushi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_47a8a5b2047051da",
+      "statement": "化学博士身份",
+      "annotation_character_ids": [
+        "adventure_mo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a47d8156fcb04004",
+      "statement": "万宝全书身份与团队态度",
+      "annotation_character_ids": [
+        "adventure_fei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b32557b88584a94a",
+      "statement": "身份、珠宝动机与报价",
+      "annotation_character_ids": [
+        "adventure_gan_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_07502fe41f750240",
+      "statement": "登船、照片威胁与要求全部利益",
+      "annotation_character_ids": [
+        "adventure_yali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_46dc5715531cce55",
+      "statement": "潜水搜索、枪伤与相机",
+      "annotation_character_ids": [
+        "adventure_afa"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e6e5b35bfa7180a8",
+      "statement": "处理阿发枪伤",
+      "annotation_character_ids": [
+        "adventure_mo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ba749e773323c74c",
+      "statement": "虚假照片被拆穿及接受款项离去",
+      "annotation_character_ids": [
+        "adventure_yali"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_06c1819c70947f74",
+      "statement": "付款与财政有限",
+      "annotation_character_ids": [
+        "adventure_fei"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_158acfc2afabce4d",
+      "statement": "分手、别墅与现实限制",
+      "annotation_character_ids": [
+        "adventure_gan_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3f88d5a18a9ed6db",
+      "statement": "支票被用于后续补偿",
+      "annotation_character_ids": [
+        "adventure_gan_furen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

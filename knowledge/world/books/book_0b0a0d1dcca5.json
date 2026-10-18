@@ -1,0 +1,351 @@
+{
+  "schema_version": "1.0",
+  "id": "book_0b0a0d1dcca5",
+  "title": "玻璃伪钞模",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/30玻璃伪钞模.txt",
+  "file": "books/book_0b0a0d1dcca5.json",
+  "inherited_fact_count": 29,
+  "curated_links": {
+    "events": [
+      "m_blind"
+    ],
+    "arcs": [
+      "arc_mulanhua",
+      "arc_muxiuzhen",
+      "arc_gaoxiang"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "714654f9a7d146204772a84d705d7f74642cf0e959f71462b158ac928f384813",
+  "source_lines": 2678,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "贝泰",
+      "card_id": "mulanhua_betta",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "吉蒂",
+      "card_id": "mulanhua_jidi",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "安泰保",
+      "card_id": "mulanhua_antai_bao",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "玻璃伪钞案的三名前纳粹军官",
+      "card_id": "mulanhua_counterfeit_nazi_three",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "花秃子",
+      "card_id": "mulanhua_hua_tuzi",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "贝泰的铜钮助手",
+      "card_id": "mulanhua_counterfeit_copper_button",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "机场同行女子与老妇、守卫及印刷人员",
+      "reason": "机场女子和老妇只参与假交易的执行，没有独立身份链；其余属据点普通守备与工人。不给每个匿名群演重复建卡。"
+    },
+    {
+      "name": "白蓓兰、黄警官、院长及医护人员",
+      "reason": "白蓓兰仅来信笑谈，黄警官和医护是本书单次执行或治疗协作者，未展开独立主线。"
+    },
+    {
+      "name": "云五风",
+      "reason": "本书仅说明可以负责安妮安置，未具体展开其实际行动；综合卡按其他书证据。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_0ae44f9cb0a23c1d",
+      "statement": "死亡、遗言、雕刻背景及判刑",
+      "annotation_character_ids": [
+        "mulanhua_antai_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_244f7810055ded78",
+      "statement": "索遗物、拔枪及身份识破",
+      "annotation_character_ids": [
+        "mulanhua_counterfeit_nazi_three"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9e6953cf57514115",
+      "statement": "商店、设备采购与玻璃模",
+      "annotation_character_ids": [
+        "mulanhua_antai_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1ac1905d11b03fa7",
+      "statement": "旧案、释囚及木的旧恩",
+      "annotation_character_ids": [
+        "mulanhua_hua_tuzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b6de40fa2623c5b0",
+      "statement": "伏击穆、夺玻璃粒",
+      "annotation_character_ids": [
+        "mulanhua_betta"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_36f97ffdf9bb8163",
+      "statement": "外观、知识和被带走",
+      "annotation_character_ids": [
+        "mulanhua_hua_tuzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e13b50bbeed5c75a",
+      "statement": "花秃子被带走和投毒痕迹",
+      "annotation_character_ids": [
+        "mulanhua_counterfeit_copper_button"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_28069faae0b76067",
+      "statement": "车祸和前推断被纠正",
+      "annotation_character_ids": [
+        "mulanhua_counterfeit_nazi_three"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6f37cb9242a010ed",
+      "statement": "黑吃黑身份及版模合作",
+      "annotation_character_ids": [
+        "mulanhua_betta"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_72325e34071ade63",
+      "statement": "四人合作及贝泰吞并",
+      "annotation_character_ids": [
+        "mulanhua_antai_bao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_88075de6082961b6",
+      "statement": "伤者交代合作",
+      "annotation_character_ids": [
+        "mulanhua_counterfeit_nazi_three"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_041089719c2103d9",
+      "statement": "假护士与毒笔",
+      "annotation_character_ids": [
+        "mulanhua_jidi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bee8f80ee5d3f2b8",
+      "statement": "毒笔眼伤",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5dd75955c4c1265",
+      "statement": "最后伤者被灭口",
+      "annotation_character_ids": [
+        "mulanhua_counterfeit_nazi_three"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a9397fefb850b62",
+      "statement": "受伤后的克制和组织",
+      "annotation_character_ids": [
+        "mulanhua_gao_xiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8b1c3b049e54605f",
+      "statement": "接手保卫",
+      "annotation_character_ids": [
+        "mulanhua_fang_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c07b994fbb8979ce",
+      "statement": "年龄及身份",
+      "annotation_character_ids": [
+        "mulanhua_jidi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ed2fd5820c8bd08a",
+      "statement": "技击背景",
+      "annotation_character_ids": [
+        "mulanhua_betta"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8fc7036ce926216b",
+      "statement": "铜钮身份及机场骗局",
+      "annotation_character_ids": [
+        "mulanhua_counterfeit_copper_button"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45cb80648692ef61",
+      "statement": "假交易诱警方",
+      "annotation_character_ids": [
+        "mulanhua_betta"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_16b4ca70c604bdcc",
+      "statement": "陪护受伤朋友",
+      "annotation_character_ids": [
+        "mulanhua_fang_director"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_306a1035c87b57dd",
+      "statement": "服装线索及浦夫人身份",
+      "annotation_character_ids": [
+        "mulanhua_jidi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eecc058072282f5b",
+      "statement": "商标线索与豪客套话",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8fec98bc22db0b01",
+      "statement": "与贝泰回据点",
+      "annotation_character_ids": [
+        "mulanhua_counterfeit_copper_button"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bd2cecabf82b84d6",
+      "statement": "技击优势、自负失利与死亡",
+      "annotation_character_ids": [
+        "mulanhua_betta"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_284bac24b442ec5f",
+      "statement": "误杀情人、开枪和飞行逃脱",
+      "annotation_character_ids": [
+        "mulanhua_jidi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_be27b2d53d6f2ee7",
+      "statement": "被迫生产、贿诱及获放",
+      "annotation_character_ids": [
+        "mulanhua_hua_tuzi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1c776c612963c3fa",
+      "statement": "绑来花秃子指导生产",
+      "annotation_character_ids": [
+        "mulanhua_counterfeit_copper_button"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6711d70ea5dbba27",
+      "statement": "爆炸诱饵及夺机逃亡",
+      "annotation_character_ids": [
+        "mulanhua_jidi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

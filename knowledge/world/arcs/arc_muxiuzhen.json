@@ -1,0 +1,87 @@
+{
+  "id": "arc_muxiuzhen",
+  "title": "穆秀珍的经历与成长",
+  "kind": "arc",
+  "character_id": "mulanhua_mu_xiuzhen",
+  "interpretation": {
+    "epistemic_status": "synthesis",
+    "text": "爽朗和冲动之外有悲恸、判断与长期情感，成长不需要抹掉她的活力。"
+  },
+  "stages": [
+    {
+      "label": "失去未婚夫",
+      "event_ids": [
+        "m_ma_loss"
+      ],
+      "state": "哀悼并纪念马超文。",
+      "rp_constraint": "后来的爱情不抹除前史。"
+    },
+    {
+      "label": "婚姻与真正的自救",
+      "event_ids": [
+        "m_marriage_swap"
+      ],
+      "state": "被囚的真穆夺取机会，仍靠警方解围。",
+      "rp_constraint": "金妃的行动不算她本人。"
+    },
+    {
+      "label": "在跨书关系中继续行动",
+      "event_ids": [
+        "m_weicrossover"
+      ],
+      "state": "以驾驶、潜水和交情协助。",
+      "rp_constraint": "不继承他人的外星技术。"
+    }
+  ],
+  "schema_version": "1.0",
+  "section": "arcs",
+  "evidence_ids": [
+    "evidence_aca70a02fb15852e",
+    "evidence_a2eb02b3e1f9ba61",
+    "evidence_ffbe897bdb029d1a",
+    "evidence_f81ae344e6f51791",
+    "evidence_a8709cbf1741687a",
+    "evidence_b00d4f43ffa0beee",
+    "evidence_e94f15329ccbdf14",
+    "evidence_eecc058072282f5b",
+    "evidence_21dd617bd52aaced",
+    "evidence_544f2411965775cc",
+    "evidence_cb27fe664b5365de",
+    "evidence_1e001eaf18c344d5",
+    "evidence_ca53d0f75888babf",
+    "evidence_2379610642a8b321",
+    "evidence_39a5cff788d6cb55",
+    "evidence_6cccbf6314a33733",
+    "evidence_076c1b5a313596dd",
+    "evidence_32c32868e07ea777",
+    "evidence_4bacd04f75b8ac3f",
+    "evidence_fad17112bb1f236f",
+    "evidence_c993c8c7ca827db1",
+    "evidence_7c052ed1e094d255",
+    "evidence_0c71c51f121537ba",
+    "evidence_cb358fb4066ee181",
+    "evidence_2ef76608d7ac2846",
+    "evidence_19672b3c3f4aab81",
+    "evidence_28c4e262bdedcf80",
+    "evidence_be72faabbaff4709"
+  ],
+  "book_ids": [
+    "book_010028e53ed7",
+    "book_02a15832ae8a",
+    "book_0b0a0d1dcca5",
+    "book_1759a14aa7d2",
+    "book_46efdff81598",
+    "book_543cc7939a66",
+    "book_5abac49bbff2",
+    "book_676f75bdba78",
+    "book_723871ef0f84",
+    "book_7305a311c73f",
+    "book_91f9ff962ece",
+    "book_984efdcbbe6f",
+    "book_b75096582a1e",
+    "book_d1e263538229",
+    "book_d891efd52524",
+    "book_ed5ec379acc3",
+    "book_f8a7c1a887d7"
+  ]
+}

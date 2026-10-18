@@ -1,0 +1,34 @@
+{
+  "id": "ghost_parking",
+  "title": "鬼停车场与重复归来",
+  "kind": "place",
+  "summary": "日常地点中的死亡认知反转；当事人逐渐意识到自身可能已死。",
+  "mechanism": {
+    "text": "停车场遭遇、管理员解释与无影现象支持反转，但没有交代完整死后管理体系。",
+    "epistemic_status": "testimony"
+  },
+  "access_conditions": [
+    "对应地点与亲历条件"
+  ],
+  "limits": [
+    "不外推全体死者都循环于死地",
+    "不为管理员虚构阴间官职"
+  ],
+  "last_known_state": "阿陈仍留停车场，结尾停在认知变化。",
+  "rp_use": {
+    "status": "adaptation",
+    "text": "可用重复日常、错认他人为鬼与自我确认组织悬疑。"
+  },
+  "character_ids": [
+    "guihua_parking_chen"
+  ],
+  "schema_version": "1.0",
+  "section": "entities",
+  "evidence_ids": [
+    "evidence_e8d923de6a12506a",
+    "evidence_5893f64ed8bf7ade"
+  ],
+  "book_ids": [
+    "book_376132b17fcd"
+  ]
+}

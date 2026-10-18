@@ -1,0 +1,325 @@
+{
+  "schema_version": "1.0",
+  "id": "book_0e286a75c508",
+  "title": "搜灵",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/057搜灵.txt",
+  "file": "books/book_0e286a75c508.json",
+  "inherited_fact_count": 27,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "2575d0afd2f6c4b7392561f1ad16e68e2a1064764c817b01d8d4adc12d2cf35d",
+  "source_lines": 3766,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "主角",
+      "basis": "贯通多个搜灵经历"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "主角",
+      "basis": "讨论结果与价值"
+    },
+    {
+      "name": "乔森",
+      "card_id": "weisili_qiao_sen",
+      "role": "主角",
+      "basis": "无法承受追问的调查者"
+    },
+    {
+      "name": "金特",
+      "card_id": "yuanzhenxia_jinte",
+      "role": "主角",
+      "basis": "宗教研究与概念线索"
+    },
+    {
+      "name": "青木归一",
+      "card_id": "weisili_qingmu_guiyi",
+      "role": "主角",
+      "basis": "天国号见证"
+    },
+    {
+      "name": "但丁",
+      "card_id": "weisili_dan_ding",
+      "role": "反派",
+      "basis": "合作寻宝后企图独占杀人"
+    },
+    {
+      "name": "但丁祖母",
+      "card_id": "weisili_dante_grandmother",
+      "role": "主角",
+      "basis": "历史搜灵经历"
+    },
+    {
+      "name": "山本五十六小说人物",
+      "card_id": "weisili_yamamoto_fiction",
+      "role": "反派",
+      "basis": "执行虚假集体殉亡命令"
+    },
+    {
+      "name": "搜灵光环",
+      "card_id": "weisili_soul_halo",
+      "role": "反派",
+      "basis": "实验性杀人及心理压迫"
+    },
+    {
+      "name": "普索利",
+      "card_id": "weisili_pusuoli",
+      "role": "重要配角",
+      "basis": "解释金特来历"
+    },
+    {
+      "name": "陈长青",
+      "card_id": "weisili_chen_changqing",
+      "role": "重要配角",
+      "basis": "早期聚会实际参与"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "七名珠宝大盗",
+      "reason": "社会关系背景，没有逐名独立行动"
+    },
+    {
+      "name": "湖边人群",
+      "reason": "末尾行为可见但是否杀但丁未知，未具区分身份"
+    },
+    {
+      "name": "宫中侍卫及普通官兵",
+      "reason": "历史受害者群体，不虚构每个人的能力和意志"
+    },
+    {
+      "name": "康和",
+      "reason": "已故介绍信来源，仅背景提及"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_587bc04895a461cd",
+      "statement": "引介金特及身份知识有限",
+      "annotation_character_ids": [
+        "weisili_pusuoli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_766db0362942ad82",
+      "statement": "宗教经历",
+      "annotation_character_ids": [
+        "yuanzhenxia_jinte"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_176d024086f02357",
+      "statement": "职业、性格与朋友关系",
+      "annotation_character_ids": [
+        "weisili_qiao_sen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3feb07898ef1a335",
+      "statement": "请柬与窃贼关系边界",
+      "annotation_character_ids": [
+        "yuanzhenxia_jinte"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76d485daf1d22ea2",
+      "statement": "逃亡、家族与财富",
+      "annotation_character_ids": [
+        "weisili_dante_grandmother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b1e78329ec3a0ed3",
+      "statement": "提供但丁资料",
+      "annotation_character_ids": [
+        "weisili_qiao_sen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e704b1d0b3302439",
+      "statement": "身世、教育与专业",
+      "annotation_character_ids": [
+        "weisili_dan_ding"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_112cee063542db0c",
+      "statement": "身份与持续恐惧",
+      "annotation_character_ids": [
+        "weisili_qingmu_guiyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cc57c99e515519d5",
+      "statement": "小说中的秘密生还设定",
+      "annotation_character_ids": [
+        "weisili_yamamoto_fiction"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_83b8ba7f3f453341",
+      "statement": "恐惧与指挥反应",
+      "annotation_character_ids": [
+        "weisili_yamamoto_fiction"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5a2944cc659bc9c2",
+      "statement": "军令与集体压力",
+      "annotation_character_ids": [
+        "weisili_qingmu_guiyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_80854bc409d6d5c3",
+      "statement": "执行集体死亡命令",
+      "annotation_character_ids": [
+        "weisili_yamamoto_fiction"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_48a13041f9a50117",
+      "statement": "搜灵追问",
+      "annotation_character_ids": [
+        "weisili_qingmu_guiyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f9cbe61a0038e7fd",
+      "statement": "概念讨论",
+      "annotation_character_ids": [
+        "yuanzhenxia_jinte"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_99d31521d867b914",
+      "statement": "追问与误解比喻",
+      "annotation_character_ids": [
+        "weisili_soul_halo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eb07715d3ddf05d2",
+      "statement": "比喻被搜灵者误解",
+      "annotation_character_ids": [
+        "weisili_dante_grandmother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_02a98ff20e5c15ac",
+      "statement": "理解乔森危险",
+      "annotation_character_ids": [
+        "weisili_qingmu_guiyi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4f80b932a24e0a64",
+      "statement": "精神困局和死亡事实",
+      "annotation_character_ids": [
+        "weisili_qiao_sen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_69bc42c123916df3",
+      "statement": "公开演说",
+      "annotation_character_ids": [
+        "yuanzhenxia_jinte"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4297406a82414920",
+      "statement": "祖母死后急于探险",
+      "annotation_character_ids": [
+        "weisili_dan_ding"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e06cc3384ffb5cf4",
+      "statement": "死亡及留下的线索",
+      "annotation_character_ids": [
+        "weisili_dante_grandmother"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e029a4ea8bfb0620",
+      "statement": "显形、读心、杀人与碎石",
+      "annotation_character_ids": [
+        "weisili_soul_halo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6c0e54706cdbc4a5",
+      "statement": "命令实为光环意念",
+      "annotation_character_ids": [
+        "weisili_yamamoto_fiction"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_df134f1d4b914be6",
+      "statement": "独占宝石而害人",
+      "annotation_character_ids": [
+        "weisili_dan_ding"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5b4af2305f543dc0",
+      "statement": "来源追寻及身份未解",
+      "annotation_character_ids": [
+        "weisili_soul_halo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9c00c6202f17c524",
+      "statement": "最终死亡与财富散失",
+      "annotation_character_ids": [
+        "weisili_dan_ding"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6d2b90d2d2f0ea6d",
+      "statement": "失联",
+      "annotation_character_ids": [
+        "weisili_qingmu_guiyi",
+        "yuanzhenxia_jinte"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

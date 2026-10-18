@@ -1,0 +1,575 @@
+{
+  "schema_version": "1.0",
+  "id": "book_1759a14aa7d2",
+  "title": "无名怪尸",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/60无名怪尸.txt",
+  "file": "books/book_1759a14aa7d2.json",
+  "inherited_fact_count": 54,
+  "curated_links": {
+    "rules": [
+      "rule_mortality"
+    ],
+    "events": [
+      "m_annie_independent"
+    ],
+    "relations": [
+      "before__m_annie_family__m_marriage_swap",
+      "before__m_marriage_swap__m_annie_walks",
+      "before__m_annie_walks__m_annie_independent"
+    ],
+    "arcs": [
+      "arc_mulanhua",
+      "arc_muxiuzhen",
+      "arc_annie"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "3665c301ca46948146acfed72867347e90878320be434b75ecd3df29a2d1c1e3",
+  "source_lines": 1940,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "黄义和教授",
+      "card_id": "mulanhua_huang_yihe",
+      "role": "单书主角、阶段性对立者",
+      "basis": "秘密治疗、失踪、线索与救醒安妮。"
+    },
+    {
+      "name": "卢利根勋爵",
+      "card_id": "mulanhua_luligen",
+      "role": "反派",
+      "basis": "政治阴谋、组织控制与古堡机关。"
+    },
+    {
+      "name": "陈思空",
+      "card_id": "mulanhua_chen_sikong",
+      "role": "反派",
+      "basis": "独立武学高手、两次伤害、假死与末期转向。"
+    },
+    {
+      "name": "陆嘉",
+      "card_id": "mulanhua_lu_jia",
+      "role": "反派",
+      "basis": "餐馆行动、飞行押送与引见。"
+    },
+    {
+      "name": "卢所长",
+      "card_id": "mulanhua_lu_detention_chief",
+      "role": "反派",
+      "basis": "受收买配合假枪脱押。"
+    },
+    {
+      "name": "遥控谈判者",
+      "card_id": "mulanhua_universe_remote_chief",
+      "role": "反派",
+      "basis": "有独立对话和调度的匿名层级负责人。"
+    },
+    {
+      "name": "遭刺领袖",
+      "card_id": "mulanhua_unnamed_assassinated_leader",
+      "role": "单书主角",
+      "basis": "病例与政治阴谋核心人物。"
+    },
+    {
+      "name": "领袖父亲",
+      "card_id": "mulanhua_unnamed_leader_father",
+      "role": "单书主角",
+      "basis": "实际来访、求证和善后决断。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "救援、重伤、休养及恢复。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "课程调查、发现线索、脑伤与恢复。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "系列主角",
+      "basis": "枪口制陈、调查尸体与找到教授。"
+    },
+    {
+      "name": "云四风",
+      "card_id": "mulanhua_yun_sifeng",
+      "role": "跨书重要配角",
+      "basis": "照护、忧虑与医院保安。"
+    },
+    {
+      "name": "云五风",
+      "card_id": "mulanhua_yun_wufeng",
+      "role": "跨书重要配角",
+      "basis": "情感支持、推理启发和医院保安。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "奥捷、杰逊、达拉斯三位脑科专家",
+      "reason": "只有失踪和联系资料，无独立行动或已证反派行为。"
+    },
+    {
+      "name": "王阿巧、王医生、医院院长、校役以外学校人员",
+      "reason": "一次性线索、医疗或职能配角，未见跨书重要行动。"
+    },
+    {
+      "name": "儿岛、霍元甲、农劲荪",
+      "reason": "本书历史回述中的武学人物，不把追忆扩成此时到场或现实史实。"
+    },
+    {
+      "name": "民族解放阵线首脑、餐馆与古堡匿名执行者",
+      "reason": "一次性身份展示或无独立决断的组织职能人员；已记在主谋及行动负责人资源条件内。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_a3775aa1a86a9218",
+      "statement": "课程与研究领域。",
+      "annotation_character_ids": [
+        "mulanhua_huang_yihe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_4693eca5a622cf5f",
+      "statement": "大学课程与不盲闯火场",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82875ee16dd4ea6e",
+      "statement": "专著、孤僻和学术联系。",
+      "annotation_character_ids": [
+        "mulanhua_huang_yihe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ea1b27bc2a1c7a64",
+      "statement": "旧枪伤和失能证据。",
+      "annotation_character_ids": [
+        "mulanhua_unnamed_assassinated_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0cb7e8635d966830",
+      "statement": "改建房间与纵火推断。",
+      "annotation_character_ids": [
+        "mulanhua_huang_yihe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a053d41b54bf2dc0",
+      "statement": "餐馆伪装和识别。",
+      "annotation_character_ids": [
+        "mulanhua_lu_jia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_28c4e262bdedcf80",
+      "statement": "陈思空重击内出血与手术",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9d148869f367fcf3",
+      "statement": "与安妮牵手",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6872b5c9c3102d15",
+      "statement": "撤离、伤员与指挥冲突。",
+      "annotation_character_ids": [
+        "mulanhua_lu_jia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_41fe0c04e3e2a9df",
+      "statement": "内功、名声与自行其是。",
+      "annotation_character_ids": [
+        "mulanhua_chen_sikong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5469c5cc66c0cc41",
+      "statement": "受上级压力及无线电指令。",
+      "annotation_character_ids": [
+        "mulanhua_lu_jia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_025b707efb7f3436",
+      "statement": "替换餐馆人员。",
+      "annotation_character_ids": [
+        "mulanhua_lu_jia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_29b8af2a62dc355b",
+      "statement": "无线电指示和监听推断。",
+      "annotation_character_ids": [
+        "mulanhua_universe_remote_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8fde7405de6a9b13",
+      "statement": "否认纵火、赔偿条件及知情边界。",
+      "annotation_character_ids": [
+        "mulanhua_universe_remote_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_37eba0ccfe36ccd8",
+      "statement": "撤离据点。",
+      "annotation_character_ids": [
+        "mulanhua_universe_remote_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_45dc6f5ca015508c",
+      "statement": "一拳断树。",
+      "annotation_character_ids": [
+        "mulanhua_chen_sikong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_445f2c8453f73e66",
+      "statement": "力量边界与恐惧",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_58496ebaec921bdb",
+      "statement": "留下组织线索。",
+      "annotation_character_ids": [
+        "mulanhua_huang_yihe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_def5000d35382d5b",
+      "statement": "压制安妮。",
+      "annotation_character_ids": [
+        "mulanhua_chen_sikong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cd80d9c219428b72",
+      "statement": "见安妮昏迷发抖失语",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0f39a356183d95e3",
+      "statement": "近战抗击反制及枪口制止。",
+      "annotation_character_ids": [
+        "mulanhua_chen_sikong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7d88100c71a851b7",
+      "statement": "需劝休息",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3d6a076ce43729b2",
+      "statement": "年龄焦虑与武术挑战。",
+      "annotation_character_ids": [
+        "mulanhua_chen_sikong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_931832d78af012d5",
+      "statement": "承认武术不敌",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_64f6c704bfc7fa99",
+      "statement": "身份、军火及政治势力。",
+      "annotation_character_ids": [
+        "mulanhua_luligen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6a71e705799043b8",
+      "statement": "良好记录、现场操作、录音。",
+      "annotation_character_ids": [
+        "mulanhua_lu_detention_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_37eb0244397c2e84",
+      "statement": "追捕与外逃判断。",
+      "annotation_character_ids": [
+        "mulanhua_lu_detention_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1af01b4d49d935bb",
+      "statement": "身份及政治背景推测。",
+      "annotation_character_ids": [
+        "mulanhua_unnamed_assassinated_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a6631233bac4fc85",
+      "statement": "组织规模与个人边界。",
+      "annotation_character_ids": [
+        "mulanhua_luligen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ef37d101ba7b2017",
+      "statement": "兄弟护院",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2e096c944013b387",
+      "statement": "驾机引导、军服与情报交锋。",
+      "annotation_character_ids": [
+        "mulanhua_lu_jia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2afc95e2c52bbea9",
+      "statement": "堡垒和权威展示。",
+      "annotation_character_ids": [
+        "mulanhua_luligen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2327dc99f95c7c2a",
+      "statement": "古堡引见与退出。",
+      "annotation_character_ids": [
+        "mulanhua_lu_jia"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6e6c4ba5d4deff46",
+      "statement": "假死机制。",
+      "annotation_character_ids": [
+        "mulanhua_chen_sikong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6f0cb7b74db0b8c0",
+      "statement": "后续揭明假死和假枪。",
+      "annotation_character_ids": [
+        "mulanhua_lu_detention_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a1bea7a9dedf67b9",
+      "statement": "交锋与信息试探。",
+      "annotation_character_ids": [
+        "mulanhua_luligen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e0076066ab280fd3",
+      "statement": "交锋中的政治故事及推测界限。",
+      "annotation_character_ids": [
+        "mulanhua_unnamed_assassinated_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c05279b966070acf",
+      "statement": "玻璃罩机关。",
+      "annotation_character_ids": [
+        "mulanhua_luligen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b0e36121feb1066",
+      "statement": "有限氧气与罩不可割",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7b0e85fd70d45b89",
+      "statement": "来访、信件、求证与关切。",
+      "annotation_character_ids": [
+        "mulanhua_unnamed_leader_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f0bd28e852cd90fc",
+      "statement": "父亲确认存活、治疗与死亡。",
+      "annotation_character_ids": [
+        "mulanhua_unnamed_assassinated_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0284c971a0ecfaae",
+      "statement": "信件、实验事故和搜寻。",
+      "annotation_character_ids": [
+        "mulanhua_huang_yihe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f41bf8a77cc6469",
+      "statement": "断腿、龟息误判、固定及转向。",
+      "annotation_character_ids": [
+        "mulanhua_chen_sikong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_924441133b361245",
+      "statement": "趁失防伤腿及心理制胜",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_90ffbd14052c96ba",
+      "statement": "被挟持、离堡与弹出。",
+      "annotation_character_ids": [
+        "mulanhua_luligen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_787c35885040d57e",
+      "statement": "治疗苏醒和脑震荡限度",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_92829b86a0020eb6",
+      "statement": "安妮获救与离去。",
+      "annotation_character_ids": [
+        "mulanhua_huang_yihe"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_be72faabbaff4709",
+      "statement": "末章恢复走动",
+      "annotation_character_ids": [
+        "mulanhua_mu_xiuzhen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_474895094d9728c4",
+      "statement": "密谈、克制与后续计划。",
+      "annotation_character_ids": [
+        "mulanhua_unnamed_leader_father"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_82006607dc3ffc8c",
+      "statement": "证据约束及后续计划。",
+      "annotation_character_ids": [
+        "mulanhua_luligen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa6d91906a4e37c0",
+      "statement": "秘密传递后的处理。",
+      "annotation_character_ids": [
+        "mulanhua_unnamed_assassinated_leader"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3c27ab7203ee0360",
+      "statement": "清醒与先推药液换气",
+      "annotation_character_ids": [
+        "mulanhua_annie"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb3cdc6a2557ae56",
+      "statement": "苏醒场面在场",
+      "annotation_character_ids": [
+        "mulanhua_yun_wufeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_55f94c9be1a8010a",
+      "statement": "不会龟息及换气装置解释",
+      "annotation_character_ids": [
+        "mulanhua_mu_lanhua"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

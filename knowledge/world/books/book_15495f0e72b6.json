@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "id": "book_15495f0e72b6",
+  "title": "冰川亡魂",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/11冰川亡魂.txt",
+  "file": "books/book_15495f0e72b6.json",
+  "inherited_fact_count": 20,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "4fe65ec6ff18196191085fb0c6e5acdf4bd76752affa5622a3ca5688f73df881",
+  "source_lines": 2590,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "辛格里王子",
+      "card_id": "mulanhua_prince_xingeli",
+      "role": "反派/阶段性对立者",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "鲍星",
+      "card_id": "mulanhua_bao_xing",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "大吉岭山羊胡特务首领",
+      "card_id": "mulanhua_glacier_goatee_chief",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "达里基",
+      "card_id": "mulanhua_daliji",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "大吉岭的巨无霸打手",
+      "card_id": "mulanhua_glacier_giant",
+      "role": "反派",
+      "basis": "该人物直接承担本篇行动、冲突或叙事视角。"
+    },
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "主角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    },
+    {
+      "name": "方局长",
+      "card_id": "mulanhua_fang_director",
+      "role": "重要配角",
+      "basis": "本书实际出场；系列综合经历另见主卡。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "老辛格里土王",
+      "reason": "求助一方的病弱父亲，起初轻视年轻女子并隐瞒困境，最终同意坦白；未证实参与儿子后来的杀人计划。"
+    },
+    {
+      "name": "彼德逊",
+      "reason": "本册仅被其上司提及，未实际出场；关系证据可补04主卡，不能记成跨书参与。"
+    },
+    {
+      "name": "美国情报组长及队员",
+      "reason": "一次性援助方，截检敌方车辆救出姐妹并促成经济支持；未对主角承担敌对主线。"
+    },
+    {
+      "name": "灰衣登山队员、女看守、投斧与烧帐篷枪手、王秘书长等",
+      "reason": "无完整独立身份的一次性执行助手或程序性陪同；相关攻击记录在所属策划者下，不凭辅助动作增造个人履历。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_a845a1426ed76ebc",
+      "statement": "外观",
+      "annotation_character_ids": [
+        "mulanhua_prince_xingeli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_764fb6df9789ce95",
+      "statement": "捏瘪铜门球、身形、反被击摔",
+      "annotation_character_ids": [
+        "mulanhua_glacier_giant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_85b93dcf68f912a3",
+      "statement": "首领外观及关系",
+      "annotation_character_ids": [
+        "mulanhua_glacier_goatee_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d36373bd31c10ce8",
+      "statement": "身份姿态与法律威吓",
+      "annotation_character_ids": [
+        "mulanhua_daliji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5158ff4c62c0b570",
+      "statement": "棒棍对枪的现实顾忌",
+      "annotation_character_ids": [
+        "mulanhua_glacier_giant"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9587deab73b729d6",
+      "statement": "援手到来、被牺牲及死亡",
+      "annotation_character_ids": [
+        "mulanhua_daliji"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_eacb473ac85912b9",
+      "statement": "命令牺牲达里基",
+      "annotation_character_ids": [
+        "mulanhua_glacier_goatee_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7856270c5dfb54ed",
+      "statement": "俘虏处理与对警方掩饰",
+      "annotation_character_ids": [
+        "mulanhua_glacier_goatee_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bef6e8f9a4ad4047",
+      "statement": "真诚争取信任",
+      "annotation_character_ids": [
+        "mulanhua_prince_xingeli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2241f792a8e563e2",
+      "statement": "拒绝外国暗控",
+      "annotation_character_ids": [
+        "mulanhua_prince_xingeli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9a642c7d62bab36b",
+      "statement": "所属集团经济控制目的",
+      "annotation_character_ids": [
+        "mulanhua_glacier_goatee_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_718e0e2a639fed7b",
+      "statement": "押运失败",
+      "annotation_character_ids": [
+        "mulanhua_glacier_goatee_chief"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1d9a4cac7e9c0986",
+      "statement": "带路与宫务",
+      "annotation_character_ids": [
+        "mulanhua_bao_xing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7cb4d56c3a962792",
+      "statement": "错误地图",
+      "annotation_character_ids": [
+        "mulanhua_bao_xing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_31707738b0e8f7f0",
+      "statement": "伏击、手榴弹和死亡",
+      "annotation_character_ids": [
+        "mulanhua_bao_xing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_87765e3e38131fa7",
+      "statement": "管家被同谋灭口",
+      "annotation_character_ids": [
+        "mulanhua_prince_xingeli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a3a2be05bf12e838",
+      "statement": "忠诚与错误内奸推断",
+      "annotation_character_ids": [
+        "mulanhua_bao_xing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_27e2bb1e65c74131",
+      "statement": "冰川枪战与烟幕被破",
+      "annotation_character_ids": [
+        "mulanhua_prince_xingeli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_81023cbe340e4e8d",
+      "statement": "身份、承认、宝库结局与忏悔",
+      "annotation_character_ids": [
+        "mulanhua_prince_xingeli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d5c1d48255c61a6c",
+      "statement": "王子确认共同谋害",
+      "annotation_character_ids": [
+        "mulanhua_bao_xing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

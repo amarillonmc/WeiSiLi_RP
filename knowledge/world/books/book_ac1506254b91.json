@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "id": "book_ac1506254b91",
+  "title": "珊瑚古城",
+  "aliases": [],
+  "series": "木兰花全集",
+  "source_path": "木兰花全集/43珊瑚古城.txt",
+  "file": "books/book_ac1506254b91.json",
+  "inherited_fact_count": 23,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "38a26779df233601741e53d64c2d41721370a8e50499030c49683acf58c05a18",
+  "source_lines": 2844,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "木兰花",
+      "card_id": "mulanhua_mu_lanhua",
+      "role": "系列主角",
+      "basis": "本书核心调查与行动。"
+    },
+    {
+      "name": "安妮",
+      "card_id": "mulanhua_annie",
+      "role": "系列主角",
+      "basis": "船上协助、监听与巴黎等候。"
+    },
+    {
+      "name": "高翔",
+      "card_id": "mulanhua_gao_xiang",
+      "role": "系列主角",
+      "basis": "前期调查和海上配合。"
+    },
+    {
+      "name": "穆秀珍",
+      "card_id": "mulanhua_mu_xiuzhen",
+      "role": "系列主角",
+      "basis": "调查与海上支援。"
+    },
+    {
+      "name": "维龙",
+      "card_id": "mulanhua_weilong",
+      "role": "反派",
+      "basis": "犯罪首领、寻宝与隐藏战罪。"
+    },
+    {
+      "name": "维娜丽丝",
+      "card_id": "mulanhua_weinalisi",
+      "role": "主线人物",
+      "basis": "专业、身份与器材协助。"
+    },
+    {
+      "name": "搜索团少妇",
+      "card_id": "mulanhua_war_search_woman",
+      "role": "阶段性对立者",
+      "basis": "袭击范达后合作。"
+    },
+    {
+      "name": "断腿中年人",
+      "card_id": "mulanhua_war_search_limp",
+      "role": "主线人物",
+      "basis": "具体追责与外援联络。"
+    },
+    {
+      "name": "彼德",
+      "card_id": "mulanhua_peter_war_search",
+      "role": "阶段性对立者",
+      "basis": "持枪威胁协作者。"
+    },
+    {
+      "name": "叶奇",
+      "card_id": "mulanhua_ye_qi",
+      "role": "阶段性对立者",
+      "basis": "识破冒名、被维龙排斥。"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "范达",
+      "reason": "独立执行机密档案运送、遭麻醉而未死，是一次性警务辅助，无后续主角或反派线。"
+    },
+    {
+      "name": "未名潜艇将军",
+      "reason": "外援的独立指挥者，拒绝留取财宝并撤退；资源条件记入事件，不把整支国家军队变个人卡。"
+    },
+    {
+      "name": "搜索团其他成员、被救潜入者、船队女侍和电讯员",
+      "reason": "分组协助、受害或监视的执行身份，未形成可持续独立人物弧。"
+    },
+    {
+      "name": "但尼克公爵、朱英",
+      "reason": "前篇回顾和命令转述，无新实场行动，补证原卡。"
+    },
+    {
+      "name": "古城原住民与海洋生物",
+      "reason": "历史遗迹与环境对象，无可辨角色人格。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_dea0492c181fe8d8",
+      "statement": "手下转述公爵要求避免与木兰花作对。",
+      "annotation_character_ids": [
+        "mulanhua_danike"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d7ab733cfb481c04",
+      "statement": "档案、军旅及化装",
+      "annotation_character_ids": [
+        "mulanhua_weilong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e5e5b4536b1af675",
+      "statement": "麻醉抢资料、伪证和被制",
+      "annotation_character_ids": [
+        "mulanhua_war_search_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_140be2e4aa28173d",
+      "statement": "身体与具体辨认线索",
+      "annotation_character_ids": [
+        "mulanhua_war_search_limp"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_009fa700d0c5bc54",
+      "statement": "组织身份",
+      "annotation_character_ids": [
+        "mulanhua_war_search_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fbbb0d7b783b6851",
+      "statement": "争执、举枪与被制止",
+      "annotation_character_ids": [
+        "mulanhua_peter_war_search"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3041c68dae147668",
+      "statement": "承认程序风险并合作",
+      "annotation_character_ids": [
+        "mulanhua_war_search_limp"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c43840e250cf9695",
+      "statement": "绑架计划、制止彼德与合作",
+      "annotation_character_ids": [
+        "mulanhua_war_search_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aaa31bf7869588bd",
+      "statement": "收枪、不信任和等待要求",
+      "annotation_character_ids": [
+        "mulanhua_peter_war_search"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3d6a348aa85137a6",
+      "statement": "联络及牺牲立场",
+      "annotation_character_ids": [
+        "mulanhua_war_search_woman"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_aa7faa6e76ebf4be",
+      "statement": "设备和专家身份",
+      "annotation_character_ids": [
+        "mulanhua_weinalisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_067c0d66297b9605",
+      "statement": "合作、技术讨论与私人边界",
+      "annotation_character_ids": [
+        "mulanhua_weinalisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_97d58a22857c7766",
+      "statement": "前夫身份、专业和关系边界",
+      "annotation_character_ids": [
+        "mulanhua_ye_qi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_52fd2f2b695be6cf",
+      "statement": "铜罩依赖船上联络",
+      "annotation_character_ids": [
+        "mulanhua_weinalisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_764c6d8ef0a794f2",
+      "statement": "正确警告、扣留及被排除",
+      "annotation_character_ids": [
+        "mulanhua_ye_qi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9862ad7f28b903f9",
+      "statement": "叶奇警告和自信误判",
+      "annotation_character_ids": [
+        "mulanhua_weilong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_cc1a887a1cddd3df",
+      "statement": "语言误判与合法申请",
+      "annotation_character_ids": [
+        "mulanhua_weilong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2b1fb209bcc670a7",
+      "statement": "援助消息",
+      "annotation_character_ids": [
+        "mulanhua_war_search_limp"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_bb8c5fc137abe79d",
+      "statement": "识破线索但被麻醉",
+      "annotation_character_ids": [
+        "mulanhua_weilong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_7fbf0e5a95e0e33b",
+      "statement": "登船、指挥关系及供认",
+      "annotation_character_ids": [
+        "mulanhua_war_search_limp"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fb6b591b66b00f3b",
+      "statement": "被送回雅典及后悔未采信",
+      "annotation_character_ids": [
+        "mulanhua_ye_qi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_79e2bd8d9a44c569",
+      "statement": "承认罪行与受审",
+      "annotation_character_ids": [
+        "mulanhua_weilong"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10a2631710610d4a",
+      "statement": "本人终局在巴黎",
+      "annotation_character_ids": [
+        "mulanhua_weinalisi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

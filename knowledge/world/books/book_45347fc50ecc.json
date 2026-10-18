@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "id": "book_45347fc50ecc",
+  "title": "老猫",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/039老猫.txt",
+  "file": "books/book_45347fc50ecc.json",
+  "inherited_fact_count": 10,
+  "curated_links": {
+    "arcs": [
+      "arc_baisu"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "621a886ee61cc6aa8bbb89f647d4a789d056c37f1769bc0fa224c14ed29147ad",
+  "source_lines": 2617,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "白奇伟",
+      "card_id": "weisili_bai_qiwei",
+      "role": "重要配角",
+      "basis": "工业供电协助"
+    },
+    {
+      "name": "老黑猫",
+      "card_id": "weisili_old_cat",
+      "role": "非人主角",
+      "basis": "猫身寄居、回返与搏斗"
+    },
+    {
+      "name": "张老头",
+      "card_id": "weisili_zhang_laotou",
+      "role": "单书主角",
+      "basis": "猫身寄居、回返与搏斗"
+    },
+    {
+      "name": "老布（犬）",
+      "card_id": "weisili_laobu_dog",
+      "role": "非人主要行动者",
+      "basis": "猫身寄居、回返与搏斗"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "李同、杰美、老陈",
+      "reason": "单书报案、调查及动物照护的辅助人物"
+    },
+    {
+      "name": "入侵外星军队",
+      "reason": "只是卫斯理的担忧，不虚构为已存在反派"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_c13143dce3ea85b6",
+      "statement": "外形与主人评价",
+      "annotation_character_ids": [
+        "weisili_laobu_dog"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_14acd9e3a430366f",
+      "statement": "战斗和受伤",
+      "annotation_character_ids": [
+        "weisili_laobu_dog"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e56713d4e7bb3675",
+      "statement": "猫狗搏斗和受伤",
+      "annotation_character_ids": [
+        "weisili_old_cat"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_2f5ebaabadaaab1f",
+      "statement": "技术差异",
+      "annotation_character_ids": [
+        "weisili_zhang_laotou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c75732bfeb0c5769",
+      "statement": "完全康复",
+      "annotation_character_ids": [
+        "weisili_laobu_dog"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fae708efdf396042",
+      "statement": "已有工潮与七日电力协调",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_0b0d409dadd99ef9",
+      "statement": "资源与馈赠",
+      "annotation_character_ids": [
+        "weisili_zhang_laotou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b4864ca83aef06cf",
+      "statement": "回返条件与信任",
+      "annotation_character_ids": [
+        "weisili_old_cat"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a06ad6cb6115b532",
+      "statement": "成功、身份和终局",
+      "annotation_character_ids": [
+        "weisili_zhang_laotou"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_5a853f08514b2d62",
+      "statement": "脱离躯体及伴侣身份",
+      "annotation_character_ids": [
+        "weisili_old_cat"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

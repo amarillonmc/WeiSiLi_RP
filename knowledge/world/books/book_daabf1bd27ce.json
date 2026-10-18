@@ -1,0 +1,246 @@
+{
+  "schema_version": "1.0",
+  "id": "book_daabf1bd27ce",
+  "title": "解脱",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/107解脱.txt",
+  "file": "books/book_daabf1bd27ce.json",
+  "inherited_fact_count": 16,
+  "curated_links": {
+    "rules": [
+      "rule_death",
+      "rule_occult"
+    ],
+    "events": [
+      "w_chen_spirit"
+    ],
+    "arcs": [
+      "arc_lansi",
+      "arc_chen",
+      "arc_shenying"
+    ],
+    "issues": [
+      "issue_adapted_resurrection"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "8cc906d580b95902749f67034ee2bb6dce45e5712c2fd68a2647851f37b8a514",
+  "source_lines": 2750,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "陈长青",
+      "card_id": "weisili_chen_changqing",
+      "role": "重要配角",
+      "basis": "实际参与招灵及解脱事件"
+    },
+    {
+      "name": "天池上人",
+      "card_id": "weisili_tianchi",
+      "role": "重要配角",
+      "basis": "实际参与招灵及解脱事件"
+    },
+    {
+      "name": "天池七位大弟子",
+      "card_id": "weisili_tianchi_seven",
+      "role": "重要配角",
+      "basis": "实际参与招灵及解脱事件"
+    },
+    {
+      "name": "温宝裕",
+      "card_id": "weisili_wen_baoyu",
+      "role": "重要配角",
+      "basis": "实际参与招灵及解脱事件"
+    },
+    {
+      "name": "红绫",
+      "card_id": "weisili_hong_ling",
+      "role": "重要配角",
+      "basis": "实际参与招灵及解脱事件"
+    },
+    {
+      "name": "蓝丝",
+      "card_id": "weisili_lan_si",
+      "role": "重要配角",
+      "basis": "实际参与招灵及解脱事件"
+    },
+    {
+      "name": "李宣宣",
+      "card_id": "weisili_li_xuanxuan",
+      "role": "重要配角",
+      "basis": "实际参与招灵及解脱事件"
+    },
+    {
+      "name": "神鹰",
+      "card_id": "weisili_shenying",
+      "role": "重要配角",
+      "basis": "实际参与招灵及解脱事件"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "剑中精灵",
+      "reason": "召出剑灵的方案被阻止；没有实际出现可独立刻画的剑灵角色。"
+    },
+    {
+      "name": "小绿",
+      "reason": "本书一次性的毒蜗牛，以诱惑神鹰的具体情境记录在蓝丝和神鹰卡中。"
+    },
+    {
+      "name": "历代佩剑者和木炭旧事人物",
+      "reason": "历史举例、比喻与前情回顾，不算新增实际出场。"
+    },
+    {
+      "name": "寺中僧众与其他通灵者",
+      "reason": "辅助群体，未形成另一个可独立识别的主角或反派主体。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d4a1864a3002148a",
+      "statement": "通灵背景",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_10886455c2602b59",
+      "statement": "毒蜗牛气味诱鹰吞食，蓝丝引导其克服冲动",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3292da8c053a0954",
+      "statement": "毒蜗牛诱惑与克服",
+      "annotation_character_ids": [
+        "weisili_shenying"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63ff5cbd4f73be6c",
+      "statement": "绿蜗牛的诱食及指导神鹰",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3b91cb61c11d74f5",
+      "statement": "心意相通、排外及首徒身份",
+      "annotation_character_ids": [
+        "weisili_tianchi_seven"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ad081a2ecf0904a5",
+      "statement": "延迟死亡代价",
+      "annotation_character_ids": [
+        "weisili_tianchi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b86a71bfec933d67",
+      "statement": "赶路失败与临终代价",
+      "annotation_character_ids": [
+        "weisili_tianchi_seven"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_3025f745baae83f8",
+      "statement": "未来不可预知和通灵失败",
+      "annotation_character_ids": [
+        "weisili_tianchi_seven"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_37fbe1907c5c4067",
+      "statement": "终局目标与尚无办法",
+      "annotation_character_ids": [
+        "weisili_tianchi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_65f0c0ecdf5792cb",
+      "statement": "清醒灵魂的困境与中断沟通",
+      "annotation_character_ids": [
+        "weisili_chen_changqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b0408c62b33ec865",
+      "statement": "对灵魂意愿与彻底消灭问题的解释及未知",
+      "annotation_character_ids": [
+        "weisili_li_xuanxuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_87d5af21ab4b92fd",
+      "statement": "拒绝轮回和阴间安住，未找到解脱方法",
+      "annotation_character_ids": [
+        "weisili_chen_changqing"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_a8e44b1d9994968b",
+      "statement": "生前苦难、阴间安排和能力边界",
+      "annotation_character_ids": [
+        "weisili_li_xuanxuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_874c2674543492ba",
+      "statement": "李宣宣警告召灵杂乱难送，没有已完成改良",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_93b356990e89307c",
+      "statement": "召灵杂乱与风险警告",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e52f8d1b3dee8152",
+      "statement": "召灵术杂乱、凶灵难遣的明确限制",
+      "annotation_character_ids": [
+        "weisili_lan_si"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

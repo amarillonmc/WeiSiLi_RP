@@ -1,0 +1,406 @@
+{
+  "schema_version": "1.0",
+  "id": "book_9023fbdb662f",
+  "title": "木炭",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/050木炭.txt",
+  "file": "books/book_9023fbdb662f.json",
+  "inherited_fact_count": 34,
+  "curated_links": {
+    "arcs": [
+      "arc_baisu"
+    ]
+  },
+  "direct_source_review": false,
+  "source_sha256": "761554324d61f733c3480a0a1c37a8096d0a7c21c37865bc9bb575495f10854a",
+  "source_lines": 4345,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "陈长青",
+      "card_id": "weisili_chen_changqing",
+      "role": "重要配角",
+      "basis": "发起调查、提供研究场所并持续监测"
+    },
+    {
+      "name": "普索利爵士",
+      "card_id": "weisili_pusuoli",
+      "role": "重要配角",
+      "basis": "灵学合作与实验"
+    },
+    {
+      "name": "陶启泉",
+      "card_id": "weisili_tao_qiquan",
+      "role": "重要配角",
+      "basis": "商业关系推动林伯骏合作"
+    },
+    {
+      "name": "计天祥",
+      "card_id": "weisili_ji_tianxiang",
+      "role": "前史主角",
+      "basis": "木炭与炭帮主线或关键前史"
+    },
+    {
+      "name": "四婶（炭帮）",
+      "card_id": "weisili_tanbang_sishen",
+      "role": "单书核心人物",
+      "basis": "木炭与炭帮主线或关键前史"
+    },
+    {
+      "name": "祁三",
+      "card_id": "weisili_qi_san",
+      "role": "单书主要行动者",
+      "basis": "木炭与炭帮主线或关键前史"
+    },
+    {
+      "name": "边五",
+      "card_id": "weisili_bian_wu",
+      "role": "单书主要行动者",
+      "basis": "木炭与炭帮主线或关键前史"
+    },
+    {
+      "name": "老七（花皮金刚）",
+      "card_id": "weisili_tanbang_laoqi",
+      "role": "前史反派性行动者",
+      "basis": "木炭与炭帮主线或关键前史"
+    },
+    {
+      "name": "林子渊",
+      "card_id": "weisili_lin_ziyuan",
+      "role": "单书主角",
+      "basis": "木炭与炭帮主线或关键前史"
+    },
+    {
+      "name": "林玉声",
+      "card_id": "weisili_lin_yusheng",
+      "role": "前史主角",
+      "basis": "木炭与炭帮主线或关键前史"
+    },
+    {
+      "name": "忠王（《木炭》小说形象）",
+      "card_id": "weisili_zhongwang_mutan",
+      "role": "前史反派",
+      "basis": "木炭与炭帮主线或关键前史"
+    },
+    {
+      "name": "张队长（《木炭》）",
+      "card_id": "weisili_zhang_duizhang_mutan",
+      "role": "前史反派",
+      "basis": "木炭与炭帮主线或关键前史"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "林老太太",
+      "reason": "单书关键亲历讲述者，非独立主角或反派；保留在林子渊关系与证据中。"
+    },
+    {
+      "name": "林伯骏",
+      "reason": "单书家属与册子提供者，未证实跨书；冷淡不等于反派。"
+    },
+    {
+      "name": "皮耀国",
+      "reason": "单次仪器检查协作者。"
+    },
+    {
+      "name": "甘敏斯",
+      "reason": "本书研究协作者，在十七年仅被建议联络，不构成第二次实际出场。"
+    },
+    {
+      "name": "白老大",
+      "reason": "本书多为旧交与往事提及，不把提及算实际再出场。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_a296ec9b78cff915",
+      "statement": "身份与离别",
+      "annotation_character_ids": [
+        "weisili_ji_tianxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_57afc282c126d29e",
+      "statement": "口音与仪态",
+      "annotation_character_ids": [
+        "weisili_qi_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1c4d059c3abf8830",
+      "statement": "礼节、敏锐与护短",
+      "annotation_character_ids": [
+        "weisili_tanbang_sishen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_db0085b8fd3047f0",
+      "statement": "江湖信用与认可受教训的偏向",
+      "annotation_character_ids": [
+        "weisili_bai_su"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8bca6eda79dcc7f6",
+      "statement": "打伤陈长青",
+      "annotation_character_ids": [
+        "weisili_bian_wu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ccf71281d98fc120",
+      "statement": "近战与护短",
+      "annotation_character_ids": [
+        "weisili_qi_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1d57be328a572503",
+      "statement": "道歉、托付及条件",
+      "annotation_character_ids": [
+        "weisili_tanbang_sishen"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_02d82a94bc70e827",
+      "statement": "性格与外号",
+      "annotation_character_ids": [
+        "weisili_tanbang_laoqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_984b9c8465280393",
+      "statement": "面罩与伤残",
+      "annotation_character_ids": [
+        "weisili_bian_wu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_37457300b442298e",
+      "statement": "擒拿及补救",
+      "annotation_character_ids": [
+        "weisili_tanbang_laoqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6b5b64955c9cd5af",
+      "statement": "制止伤客",
+      "annotation_character_ids": [
+        "weisili_qi_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9badac836db96912",
+      "statement": "投火决定",
+      "annotation_character_ids": [
+        "weisili_ji_tianxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1dc63e83f2582240",
+      "statement": "火中救援",
+      "annotation_character_ids": [
+        "weisili_bian_wu"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6036e0b30f33392c",
+      "statement": "救援",
+      "annotation_character_ids": [
+        "weisili_qi_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f5a8e8f41a69d047",
+      "statement": "救边五",
+      "annotation_character_ids": [
+        "weisili_tanbang_laoqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_6cc504c2edcfeb98",
+      "statement": "访家与保存木炭",
+      "annotation_character_ids": [
+        "weisili_ji_tianxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f60ee0726d13a8e8",
+      "statement": "对访家意见",
+      "annotation_character_ids": [
+        "weisili_tanbang_laoqi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_c0c26e6008ae56f3",
+      "statement": "知情边界与同行",
+      "annotation_character_ids": [
+        "weisili_qi_san"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_deab25d34a502775",
+      "statement": "反对后人愚行",
+      "annotation_character_ids": [
+        "weisili_ji_tianxiang"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9505a5af1337f05f",
+      "statement": "完整日记主线",
+      "annotation_character_ids": [
+        "weisili_lin_yusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b4c98b648d4f4e9b",
+      "statement": "担忧、藏宝与密令",
+      "annotation_character_ids": [
+        "weisili_zhongwang_mutan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_96d925160b1b6b58",
+      "statement": "身份与突袭",
+      "annotation_character_ids": [
+        "weisili_zhang_duizhang_mutan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_755d3fe6a06d8b5a",
+      "statement": "灭口执行",
+      "annotation_character_ids": [
+        "weisili_zhongwang_mutan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d1659b01adf798a1",
+      "statement": "杀戮、犹豫与推测",
+      "annotation_character_ids": [
+        "weisili_zhang_duizhang_mutan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_76c3eab610eb2043",
+      "statement": "离去",
+      "annotation_character_ids": [
+        "weisili_zhang_duizhang_mutan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_368aef0739ae7434",
+      "statement": "晚年仍无法控制",
+      "annotation_character_ids": [
+        "weisili_lin_yusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_b76945bcbd58a3c8",
+      "statement": "动机演变",
+      "annotation_character_ids": [
+        "weisili_lin_ziyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_44bc4d1913550b49",
+      "statement": "科学家、灵学经验及研究热情",
+      "annotation_character_ids": [
+        "weisili_pusuoli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_90677cd6d0d4a463",
+      "statement": "鬼屋与降灵会",
+      "annotation_character_ids": [
+        "weisili_pusuoli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d28935d94342ae58",
+      "statement": "信号研究依赖多方本领",
+      "annotation_character_ids": [
+        "weisili_pusuoli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_79cf2e5391b48776",
+      "statement": "本人叙述与未知",
+      "annotation_character_ids": [
+        "weisili_lin_ziyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_fa1a4f916e389a99",
+      "statement": "后人感应叙述",
+      "annotation_character_ids": [
+        "weisili_lin_yusheng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_89c5412e4cbf9359",
+      "statement": "无法再联络及长期等待",
+      "annotation_character_ids": [
+        "weisili_pusuoli"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_efb18310f6cd7705",
+      "statement": "最终断讯及多解",
+      "annotation_character_ids": [
+        "weisili_lin_ziyuan"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

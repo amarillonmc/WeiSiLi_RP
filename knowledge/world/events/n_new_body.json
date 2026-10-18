@@ -1,0 +1,28 @@
+{
+  "id": "n_new_body",
+  "title": "奥丽卡在新身体中学习行动",
+  "kind": "event",
+  "summary": "换用黑纱留下的身体后，公主展现飞行及读取遗留讯息的能力，但解释讯息仍需时间。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《夜归》所示阶段；必须晚于黑暗天使换身。",
+    "narrative_layer": "present"
+  },
+  "state_before": "有新身体而不等于已知全部用途。",
+  "state_after": "与年轻人相处中出现能力和认知差异。",
+  "knowledge_boundary": "不把身体来源变为幽冥机构全部权限。",
+  "character_ids": [
+    "adventure_princess",
+    "adventure_young"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_d9f1d22ed64c29a0",
+    "evidence_dc68380d2a26ec34"
+  ],
+  "book_ids": [
+    "book_00387402bed3"
+  ]
+}

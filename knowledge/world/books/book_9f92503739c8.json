@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "id": "book_9f92503739c8",
+  "title": "盗尸艳遇",
+  "aliases": [],
+  "series": "浪子高达系列",
+  "source_path": "浪子高达系列/盗尸艳遇.txt",
+  "file": "books/book_9f92503739c8.json",
+  "inherited_fact_count": 20,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "1920d2255095402b7bcfc759f8b38538f1e1385c0f25fd7d147a1849232c29df",
+  "source_lines": 4587,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "高达",
+      "card_id": "adventure_gaoda",
+      "role": "主角",
+      "basis": "全书核心行动视角"
+    },
+    {
+      "name": "杜雪",
+      "card_id": "adventure_du_xue",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "克鲁斯",
+      "card_id": "adventure_kelusi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "时重池",
+      "card_id": "adventure_shi_lushi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "费经理",
+      "card_id": "adventure_fei",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "莫教授",
+      "card_id": "adventure_mo",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "阿发",
+      "card_id": "adventure_afa",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "万夹",
+      "card_id": "adventure_wanjia",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "金手勤",
+      "card_id": "adventure_jinshouqin",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "韦松石",
+      "card_id": "adventure_wei_songshi",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "黎探长",
+      "card_id": "adventure_li_tanzhang",
+      "role": "重要配角",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "紫妮",
+      "card_id": "adventure_zini",
+      "role": "阶段性对立者",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "韦金凤",
+      "card_id": "adventure_wei_jinfeng",
+      "role": "阶段性对立者",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "蓓莉",
+      "card_id": "adventure_beili",
+      "role": "阶段性对立者",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    },
+    {
+      "name": "孔连德",
+      "card_id": "adventure_kongliande",
+      "role": "反派",
+      "basis": "本书有实际行动，跨书使用统一综合卡"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "韦寿祺",
+      "reason": "受害者与财产秘密来源，无在本书完整展开的独立行动视角。"
+    },
+    {
+      "name": "孔连德两名同伙",
+      "reason": "无名从属共犯，其劫杀行动与判决记入孔连德证据，未创个人姓名。"
+    },
+    {
+      "name": "小冰",
+      "reason": "末尾一次性按摩女郎，不是跨书重要人物。"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_d710faf82d7c6c22",
+      "statement": "委托盗尸",
+      "annotation_character_ids": [
+        "adventure_zini"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_63d6ff11a497f83a",
+      "statement": "泄露消息、承认失误与后勤安排",
+      "annotation_character_ids": [
+        "adventure_mo"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_29d1be89e85580b8",
+      "statement": "冷冻房安排与澄清杜雪关系",
+      "annotation_character_ids": [
+        "adventure_kelusi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_499c6db9d78a72c3",
+      "statement": "车辆准备与任务安排",
+      "annotation_character_ids": [
+        "adventure_jinshouqin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d36fc200f010dfe1",
+      "statement": "观察戒备并劝止",
+      "annotation_character_ids": [
+        "adventure_jinshouqin"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e179a77a0b80bf5a",
+      "statement": "独女与继承人身份",
+      "annotation_character_ids": [
+        "adventure_wei_jinfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_1eebbb394932a718",
+      "statement": "通报行踪、假眼钥匙与主凶线索",
+      "annotation_character_ids": [
+        "adventure_zini"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_675dec81a7a33d05",
+      "statement": "通报行踪与谋杀线索",
+      "annotation_character_ids": [
+        "adventure_kongliande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8785b5624989b755",
+      "statement": "假眼钥匙、藏尸与棺中设局",
+      "annotation_character_ids": [
+        "adventure_wei_jinfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_85ac8ca1676a9b12",
+      "statement": "金凤与另一女性共同布置",
+      "annotation_character_ids": [
+        "adventure_beili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_057b49224caff87e",
+      "statement": "主凶姓名与电话",
+      "annotation_character_ids": [
+        "adventure_kongliande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_ccef9f2e85550d3b",
+      "statement": "蓓莉身份与亲近关系",
+      "annotation_character_ids": [
+        "adventure_beili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_d86ce8d3351dcc98",
+      "statement": "遭麻醉",
+      "annotation_character_ids": [
+        "adventure_beili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9b2c0abf168c9e02",
+      "statement": "被捕及伪证脱身",
+      "annotation_character_ids": [
+        "adventure_zini"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f24b764a0e6668f2",
+      "statement": "制造口供掩护",
+      "annotation_character_ids": [
+        "adventure_shi_lushi"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_9dbb2fd0f1dcfd0d",
+      "statement": "绑架威胁与被制服",
+      "annotation_character_ids": [
+        "adventure_wei_jinfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_e8fdf1ef9778cca5",
+      "statement": "受制、救援与受训但大意的限制",
+      "annotation_character_ids": [
+        "adventure_du_xue"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_f50283e829400250",
+      "statement": "绑架与被制服",
+      "annotation_character_ids": [
+        "adventure_beili"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_62a8acbf0699652c",
+      "statement": "供认动机、杀人及审判",
+      "annotation_character_ids": [
+        "adventure_kongliande"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8093ba3ea4273541",
+      "statement": "审讯后续",
+      "annotation_character_ids": [
+        "adventure_wei_jinfeng"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bridge_princess",
+  "title": "黑暗天使连接原振侠与年轻人",
+  "kind": "bridge",
+  "series": [
+    "原振侠系列",
+    "年轻人"
+  ],
+  "connection_level": "explicit_crossover",
+  "claim": "奥丽卡使用黑纱留下的身体，是跨系列持续生效的身体变更。",
+  "schema_version": "1.0",
+  "section": "bridges",
+  "evidence_ids": [
+    "evidence_a9550617d1379158",
+    "evidence_f97d09fb5a38f1b5",
+    "evidence_d9f1d22ed64c29a0",
+    "evidence_dc68380d2a26ec34"
+  ],
+  "book_ids": [
+    "book_00387402bed3",
+    "book_b918ee450d56"
+  ]
+}

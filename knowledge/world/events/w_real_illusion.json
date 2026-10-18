@@ -1,0 +1,36 @@
+{
+  "id": "w_real_illusion",
+  "title": "金维与卫斯理共同进入真实幻境",
+  "kind": "event",
+  "summary": "多年孤峰追索接上鸡场与神鹰关系；共同入境经历出现，但金维持续尝试也不能重现。",
+  "epistemic_status": "textual_fact",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "《真实幻境》；神鹰当时仍是鹰。",
+    "narrative_layer": "present"
+  },
+  "state_before": "寻求孤峰旧案答案。",
+  "state_after": "存在特殊经验而未取得稳定、可重复的精神远游术。",
+  "knowledge_boundary": "幻境未来形态不能当作已发生或可随时切换的身体。",
+  "character_ids": [
+    "adventure_jinwei",
+    "weisili_wei_sili",
+    "weisili_shenying"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_fa282b4c2178a058",
+    "evidence_e82971096e2de5ea",
+    "evidence_e836dde3531ec0a3",
+    "evidence_67787ee0ee83a415",
+    "evidence_1e0d8bdd5450a550",
+    "evidence_d4f7bb04c2414de3",
+    "evidence_d90d90f29684c376",
+    "evidence_7efaaf365ec8c345",
+    "evidence_79844f5ea8f52fcc"
+  ],
+  "book_ids": [
+    "book_6e319aaba962"
+  ]
+}

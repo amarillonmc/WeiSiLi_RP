@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "id": "book_699681a8e91e",
+  "title": "聚宝盆",
+  "aliases": [],
+  "series": "卫斯理系列",
+  "source_path": "卫斯理系列/034聚宝盆.txt",
+  "file": "books/book_699681a8e91e.json",
+  "inherited_fact_count": 3,
+  "curated_links": {},
+  "direct_source_review": false,
+  "source_sha256": "8cbcceaeda2a5c5f9628e09f9a588f4cbd9a2300f55921b5ee66d7cc3b0a4e75",
+  "source_lines": 1111,
+  "coverage_type": "all_text_evidence_index",
+  "chronology": {
+    "calendar_date": null,
+    "book_order_is_chronology": false
+  },
+  "characters": [
+    {
+      "name": "卫斯理",
+      "card_id": "weisili_wei_sili",
+      "role": "系列主角",
+      "basis": "调查与行动"
+    },
+    {
+      "name": "白素",
+      "card_id": "weisili_bai_su",
+      "role": "系列主角",
+      "basis": "判断与协助"
+    },
+    {
+      "name": "王正操",
+      "card_id": "weisili_wang_zhengcao",
+      "role": "单书主角",
+      "basis": "复制研究核心"
+    }
+  ],
+  "excluded_character_decisions": [
+    {
+      "name": "郭幼伦、蔡美约",
+      "reason": "偶遇实验的引线人物"
+    },
+    {
+      "name": "石文通、韦应龙",
+      "reason": "古物来源和交易线索人物"
+    },
+    {
+      "name": "沈万三",
+      "reason": "历史传闻背景，不将传说当个人已证能力"
+    }
+  ],
+  "evidence_fragments": [
+    {
+      "evidence_id": "evidence_23201c2e27673a2b",
+      "statement": "身份与最初实验",
+      "annotation_character_ids": [
+        "weisili_wang_zhengcao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_8f03ea9519ce73b9",
+      "statement": "铜粉与想像愿景之别",
+      "annotation_character_ids": [
+        "weisili_wang_zhengcao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    },
+    {
+      "evidence_id": "evidence_27c07d6dc4fa512c",
+      "statement": "困境与失踪终局",
+      "annotation_character_ids": [
+        "weisili_wang_zhengcao"
+      ],
+      "classification": "inherited_evidence_annotation"
+    }
+  ],
+  "notice": "逐书事件证据入口：继承已有角色卡注释，不是本轮重读全文的完整剧情梗概；注释中没有写出的因果、目击关系及日期不得自动补出。"
+}

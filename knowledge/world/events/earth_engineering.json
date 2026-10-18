@@ -1,0 +1,26 @@
+{
+  "id": "earth_engineering",
+  "title": "七方改造工程及一处失灵",
+  "kind": "event",
+  "summary": "长老叙述七种外星生命共同寻找生存地、改造地球；一处未爆使自己受困，也使原计划偏离。",
+  "epistemic_status": "testimony",
+  "time": {
+    "calendar_date": null,
+    "relative_position": "远古；只知在现代人类及当代调查之前，不换算绝对年份。",
+    "narrative_layer": "reported_past"
+  },
+  "state_before": "七方联合实施改造。",
+  "state_after": "六处爆炸、一处受困；后世人类形成。",
+  "knowledge_boundary": "事件发生很早，调查者至《行动救星》才获知这套解释；不能给童年的卫斯理这一知识。",
+  "character_ids": [
+    "weisili_chang_lao"
+  ],
+  "schema_version": "1.0",
+  "section": "events",
+  "evidence_ids": [
+    "evidence_b67444551c3c677e"
+  ],
+  "book_ids": [
+    "book_202100bacdcc"
+  ]
+}

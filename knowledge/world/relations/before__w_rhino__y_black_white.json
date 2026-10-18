@@ -1,0 +1,21 @@
+{
+  "id": "before__w_rhino__y_black_white",
+  "source": "w_rhino",
+  "target": "y_black_white",
+  "relation": "before",
+  "epistemic_status": "textual_fact",
+  "reason": "《黑白无常》直接回指《犀照》研究所和主持人。",
+  "schema_version": "1.0",
+  "section": "relations",
+  "title": "《黑白无常》直接回指《犀照》研究所和主持人。",
+  "evidence_ids": [
+    "evidence_ac7a614eb71390c8",
+    "evidence_d6fd2ba28b19ca8b",
+    "evidence_c25174562708af65",
+    "evidence_be1086ed785b4cc2",
+    "evidence_7ccd6a5fda503fb2"
+  ],
+  "book_ids": [
+    "book_b3303d3266ed"
+  ]
+}
