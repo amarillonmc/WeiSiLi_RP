@@ -1,0 +1,18 @@
+[
+  {"id":"transparent_example","guide_claim":"010透明光；印加瓦片、反波长瓦片/深海滤镜、骨骼脆化和铅板解法。","finding":"本库为005透明光；同一矿物随环境不同发光，真空还原失败。所回读原文不支持把示例钥匙和战斗反噬作为原作事实。","dossier_ids":["transparent_mineral"],"disposition":"修正书目与机制；未知还原条件保留。"},
+  {"id":"dasha_example","guide_claim":"046大厦；罗定制造四维无线电死角，测重力和频率找到开关。","finding":"本库为044大厦，046是头发；实验者王直义，罗定受困。原文脱困经过与所给开关法不同。","dossier_ids":["dasha_elevator"],"disposition":"采用已展示的事故、冒险脱困及后来返程阶段。"},
+  {"id":"immortality_example","guide_claim":"027不死药；柏莱岛驻军即时全员失智，三份解药及三席相位潜艇。","finding":"本库为012不死药，027是仙境；药源是汉同架岛，断供与意识损害相关，心脏仍是致命处。三份/三席和相位技术未在回读段落建立。","dossier_ids":["immortality_drug"],"disposition":"删去未经证实的母株和限额设定，以供药依赖组织冲突。"},
+  {"id":"maxian_example","guide_claim":"玛仙（苗疆蓝家/血咒巫后）；血雾盾、血冰针、银鱼波长及镜面死穴。","finding":"现有角色ID为yuanzhenxia_ma_xian；本次原文回读支持供血关联、抑制智力及主动解咒反噬。血咒03、海异04不是指南的05、06。","dossier_ids":["maxian_blood_link","death_blood_curse"],"disposition":"不用指南示例身世和杀招；与古托血咒分开。"},
+  {"id":"blue_parasite_example","guide_claim":"获壳依毒菌是生物毒菌。","finding":"本库正文写获壳依毒间，并解释为无形飞魔、类似脑电波的非物质寄生者。","dossier_ids":["formless_parasite","positron_hood"],"disposition":"按非物质生命分类；保护设备与寄生者分开。"},
+  {"id":"dismember_example","guide_claim":"牛头金属片直接作为支离能力装置。","finding":"金属片是古文字线索；分解光来自电脑盒。邓石为何寻片仍有未知。","dossier_ids":["dismember_computer","dismember_inscription"],"disposition":"拆分载体线索与真实装置。"},
+  {"id":"hormone_example","guide_claim":"妖火内分泌控制仪。","finding":"回读段落指向张小龙的分离技术、制剂和被胁迫的协作，不支持任意遥控人的单件控制仪。","dossier_ids":["endocrine_control"],"disposition":"记录研究者、资料与制剂依赖。"},
+  {"id":"fairy_example","guide_claim":"仙境致死脑波幻觉洞。","finding":"原作末段讨论宝谷接触后异常、辐射样伤害与不确定的外太空解释，并有反对意见。","dossier_ids":["fairy_valley"],"disposition":"保留未决机制，不补脑波陷阱。"},
+  {"id":"ancient_voice_example","guide_claim":"古声次声波共振杀局。","finding":"古声核心为古瓶细纹、实验室取声与录音年代误判。","dossier_ids":["ancient_voice_vase"],"disposition":"做取证奇物与调查剧本，不凭标题制造声波杀伤。"},
+  {"id":"fox_example","guide_claim":"狐变时间停滞。","finding":"回读内容是回到过去及返回后持续缩小的事故，不是暂停时间。","dossier_ids":["fox_time_device"],"disposition":"记录装置条件与不可保证逆转的副作用。"},
+  {"id":"ship_example","guide_claim":"沉船深海怨念。","finding":"原作结尾是特殊船体与人鱼呼吸器官移植的条件推断。","dossier_ids":["ship_breathing"],"disposition":"保留假说，不创设怨念技能。"},
+  {"id":"hair_and_trap_examples","guide_claim":"头发宗教筛魂场；圈套四维折叠迷宫。","finding":"回读证据分别支持异星时间差/身体伦理，以及历史安排和自主性争议。","dossier_ids":["hair_time_ratio","historical_trap"],"disposition":"按有据主题建场景；不收录未证实筛魂场和迷宫。"},
+  {"id":"deathwatch_example","guide_claim":"卫斯理死光古表。","finding":"本库对应木兰花全集/01巧夺死光表.txt，且本案机件与图样终局已毁。","dossier_ids":["deathwatch"],"disposition":"修正系列、题名与末态。"},
+  {"id":"black_princess_example","guide_claim":"黑纱公主可作为统一强敌。","finding":"黑纱牺牲让出身体，奥丽卡是其后的使用者。能力、人格与历史阶段不可自动合并。","dossier_ids":["princess_new_body"],"disposition":"对手卡链接adventure_princess，保留牺牲代价与后期飞行证据。"},
+  {"id":"all_bosses_example","guide_claim":"强力角色全部自动敌对并具有唯一死穴。","finding":"大鹰可运送救人；长老拒绝发动毁灭爆炸；蜂后依靠组织；阴间思想仪后期停摆。指南不能证明这些角色是恒常杀戮型敌人。","dossier_ids":["great_eagle","mountain_elder","hive_network","thought_instrument"],"disposition":"部署写明敌对条件；未知唯一死穴使用null。"},
+  {"id":"ambiguous_candidates","guide_claim":"灰衣人、水银、纳尔逊、齐白、白奇伟、血影均需灌铅杀招。","finding":"血影候选有梅乐的器械与身份链。纳尔逊有多个独立角色卡；其余名字不构成杀招证据。灰衣人本轮未完成唯一身份与对应战绩核对。","dossier_ids":["bloodshadow_network","formless_parasite"],"disposition":"不批量制造未证杀招。未落地候选明确留待后续定位，不宣称原著无此人物或能力。"}
+]

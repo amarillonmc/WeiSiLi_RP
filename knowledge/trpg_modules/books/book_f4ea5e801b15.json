@@ -1,0 +1,66 @@
+{
+  "book_id": "book_f4ea5e801b15",
+  "source_book": "卫斯理系列/126未来身份.txt",
+  "title": "未来身份",
+  "source_sha256": "1724f940e2703308b4a116e593e429ebe41d136fb1c4ea2b5f5fc9b11bc1bb83",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        31,
+        67,
+        254,
+        398,
+        2067,
+        2281,
+        2445,
+        2580
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        672,
+        2217,
+        2346,
+        2372,
+        2374,
+        2377,
+        2464,
+        2568
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        830,
+        1343,
+        1355,
+        1439,
+        1440,
+        1613,
+        1714,
+        2252
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 49,
+      "sample_line_numbers": [
+        52,
+        348,
+        548,
+        1402,
+        1771,
+        2305,
+        2456,
+        2564
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

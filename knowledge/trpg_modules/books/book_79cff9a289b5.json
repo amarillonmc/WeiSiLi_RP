@@ -1,0 +1,64 @@
+{
+  "book_id": "book_79cff9a289b5",
+  "source_book": "卫斯理系列/098还阳.txt",
+  "title": "还阳",
+  "source_sha256": "647a5496330983ae12d4af40398e5d425097b032462cb6b93cc23bd4fae8c345",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        33,
+        276,
+        986,
+        1898,
+        2350,
+        2448,
+        2550,
+        2712
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        445,
+        578,
+        581,
+        592,
+        766,
+        869,
+        1734,
+        2604
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        720,
+        756,
+        763,
+        984,
+        1525,
+        1537
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        151,
+        847,
+        1169,
+        1197,
+        1423,
+        1742,
+        2505,
+        2621
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

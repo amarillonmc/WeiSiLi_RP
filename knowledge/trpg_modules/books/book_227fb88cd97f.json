@@ -1,0 +1,54 @@
+{
+  "book_id": "book_227fb88cd97f",
+  "source_book": "木兰花全集/41金库奇案.txt",
+  "title": "金库奇案",
+  "source_sha256": "f6e9a2488c30f56274efa24fcec54d8c4947a26bb56b69fb4396a03047ae2844",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        136,
+        508,
+        510,
+        666,
+        1494
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        80,
+        366,
+        946,
+        1268,
+        2068,
+        2276,
+        2402,
+        2414
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        176,
+        538,
+        570,
+        1038,
+        1598,
+        1866,
+        2134,
+        2306
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

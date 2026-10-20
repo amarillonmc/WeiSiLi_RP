@@ -1,0 +1,96 @@
+{
+  "book_id": "book_751de23926f2",
+  "source_book": "卫斯理系列/029古声.txt",
+  "title": "古声",
+  "source_sha256": "e81094f0193dfa7371a92849b9bed30eff0f64e6eb6aefddc516fa64f3903335",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        360,
+        362,
+        364,
+        394,
+        645,
+        793,
+        873,
+        1033
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        537
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        558,
+        619,
+        1054
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        24,
+        418,
+        509,
+        574,
+        676,
+        988,
+        1071,
+        1097
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_ancient_voice_vase",
+    "scenario_ancient_voice_vase"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "ancient_voice_vase"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/029古声.txt",
+      "start_line": 1031,
+      "end_line": 1048,
+      "supports": "实验室收据与瓶身细纹提示声音来源。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "e81094f0193dfa7371a92849b9bed30eff0f64e6eb6aefddc516fa64f3903335",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/029古声.txt",
+      "start_line": 1050,
+      "end_line": 1077,
+      "supports": "车祸损坏古瓶，实验室确曾从细纹取得声音，内侧字迹显露年代。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "e81094f0193dfa7371a92849b9bed30eff0f64e6eb6aefddc516fa64f3903335",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/029古声.txt",
+      "start_line": 1079,
+      "end_line": 1097,
+      "supports": "熊逸提出无意录下祭祀声的假设。",
+      "epistemic_status": "hypothesis",
+      "source_sha256": "e81094f0193dfa7371a92849b9bed30eff0f64e6eb6aefddc516fa64f3903335",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

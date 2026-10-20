@@ -1,0 +1,66 @@
+{
+  "book_id": "book_47d92f518f4c",
+  "source_book": "卫斯理系列/049天书.txt",
+  "title": "天书",
+  "source_sha256": "f5a9c0aa9657e940b1ed592dcbba69558f32e6dfce23e214a0fc81ac3a941183",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 79,
+      "sample_line_numbers": [
+        414,
+        1037,
+        1087,
+        2229,
+        2662,
+        2911,
+        3327,
+        3657
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 37,
+      "sample_line_numbers": [
+        146,
+        210,
+        283,
+        633,
+        654,
+        704,
+        896,
+        1464
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        1785,
+        2187,
+        2586,
+        2592,
+        2613,
+        2660,
+        3535,
+        3560
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 32,
+      "sample_line_numbers": [
+        82,
+        302,
+        395,
+        681,
+        1855,
+        2300,
+        3223,
+        3699
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

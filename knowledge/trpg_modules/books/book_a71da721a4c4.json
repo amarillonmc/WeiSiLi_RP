@@ -1,0 +1,63 @@
+{
+  "book_id": "book_a71da721a4c4",
+  "source_book": "卫斯理系列/033环.txt",
+  "title": "环",
+  "source_sha256": "8ed6b020b1f0c3b180d57b9e58f3150bd3bc296e84ae8b256158c7bc379ae369",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        480,
+        677,
+        681,
+        690,
+        701,
+        719,
+        1184,
+        1792
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        214,
+        281,
+        441,
+        559,
+        1298
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        454,
+        472,
+        772,
+        818,
+        884,
+        1321,
+        1504,
+        1625
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        244,
+        333,
+        917,
+        945,
+        1492,
+        1676,
+        1804,
+        1818
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

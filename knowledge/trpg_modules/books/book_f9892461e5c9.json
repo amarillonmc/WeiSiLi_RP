@@ -1,0 +1,61 @@
+{
+  "book_id": "book_f9892461e5c9",
+  "source_book": "亚洲之鹰罗开系列/08火凤.txt",
+  "title": "火凤",
+  "source_sha256": "c0533c95fed04333673075a85e2367b30456c4bd2d6c21203a29f4d618ef46fd",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 47,
+      "sample_line_numbers": [
+        10,
+        740,
+        1019,
+        1040,
+        1072,
+        1092,
+        1126,
+        1233
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        107,
+        501,
+        755
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        55,
+        163,
+        306,
+        551,
+        975,
+        983,
+        999,
+        1230
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        85,
+        196,
+        397,
+        462,
+        931,
+        975,
+        1040,
+        1209
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

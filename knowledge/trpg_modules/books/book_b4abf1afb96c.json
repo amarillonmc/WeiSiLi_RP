@@ -1,0 +1,62 @@
+{
+  "book_id": "book_b4abf1afb96c",
+  "source_book": "卫斯理系列/130天打雷劈.txt",
+  "title": "天打雷劈",
+  "source_sha256": "05a8c5d71623245d2521c0026f8d3c9036c70f2355a29d31a59c4af3e4118dcf",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        135,
+        932,
+        1023,
+        2542
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 38,
+      "sample_line_numbers": [
+        786,
+        1121,
+        1726,
+        2121,
+        2151,
+        2168,
+        2258,
+        2539
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        188,
+        405,
+        1040,
+        1224,
+        1371,
+        1922,
+        1925,
+        1930
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 43,
+      "sample_line_numbers": [
+        13,
+        181,
+        444,
+        906,
+        1304,
+        1710,
+        2205,
+        2510
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

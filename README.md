@@ -4,6 +4,18 @@
 
 角色入口：[knowledge/README.md](knowledge/README.md)。调用方式和整理口径：[知识库使用说明](docs/knowledge_usage.md)。实际条目数、覆盖数量和原文哈希见 [knowledge/manifest.json](knowledge/manifest.json)，校验结果见 [reports/character_kb_validation.json](reports/character_kb_validation.json)。
 
+## 原著依据与 TRPG 扩展
+
+[模块入口](knowledge/trpg_modules/README.md)｜[使用说明](docs/trpg_modules_guide.md)。新增奇物与诅咒 23 条、环境危险 16 条、对手动作档案 12 条、调查剧本 28 条，分别提供原著条件、代价、应对、阶段与行号证据；骰子、DC 和私密任务另标为改编。
+
+已对 336 个文本做关键词筛查和哈希验证，直接回读引用涉及 33 个文本、9 个系列；不等于全书精读或要素穷尽。附件示例中的机制混淆另有[核对记录](knowledge/trpg_modules/guide_audit.json)。论坛规则全文本次未能取得，数值适配尚待规则核对与实局验证。
+
+```powershell
+python -X utf8 tools/query_trpg.py 透明光
+python -X utf8 tools/query_trpg.py boss_maxian_blood_link
+python -X utf8 tools/build_trpg_kb.py --check
+```
+
 ## 世界观、时间线与 RP 状态
 
 先读 [世界如何运作与演绎说明](docs/worldbuilding_guide.md)，条目入口为 [knowledge/world/README.md](knowledge/world/README.md)。

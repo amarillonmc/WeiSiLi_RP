@@ -1,0 +1,65 @@
+{
+  "book_id": "book_be7289b09195",
+  "source_book": "卫斯理系列/022尽头.txt",
+  "title": "尽头",
+  "source_sha256": "f225ccd27f97dbd8024a86f96b95c113ff601bd6d5169cf9c6bc622e0c51c36e",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        1503,
+        1598,
+        1603,
+        1686,
+        1689,
+        1690,
+        1694
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        402,
+        404,
+        421,
+        435,
+        546,
+        996,
+        1216,
+        1616
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 26,
+      "sample_line_numbers": [
+        37,
+        387,
+        391,
+        1505,
+        1655,
+        1703,
+        1727,
+        1788
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        80,
+        146,
+        569,
+        652,
+        1248,
+        1560,
+        1783,
+        1787
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

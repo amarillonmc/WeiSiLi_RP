@@ -1,0 +1,35 @@
+{
+  "book_id": "book_6ba794ffcd2a",
+  "source_book": "神探高斯系列/25未卜先知.txt",
+  "title": "未卜先知",
+  "source_sha256": "1e913cf5febf460101b5d687d25dab40f73375bcb98f0d0ec50afa46eb8a0991",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        338,
+        584
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        419
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

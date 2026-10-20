@@ -1,0 +1,61 @@
+{
+  "book_id": "book_d2f0e3b9ed17",
+  "source_book": "年轻人/04尺蠖 .txt",
+  "title": "尺蠖",
+  "source_sha256": "cc5764b4e8c69e04f8a02d25f0868f9ef08eebe1aab592dfd1c53e2a855618eb",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        73,
+        495,
+        497,
+        613,
+        615,
+        695,
+        933
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        389,
+        499,
+        503,
+        1003
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        227,
+        391,
+        411,
+        535,
+        541,
+        647,
+        709,
+        937
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        139,
+        149,
+        159,
+        405,
+        613,
+        645,
+        647,
+        863
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

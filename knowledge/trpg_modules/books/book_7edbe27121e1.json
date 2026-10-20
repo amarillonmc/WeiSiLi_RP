@@ -1,0 +1,41 @@
+{
+  "book_id": "book_7edbe27121e1",
+  "source_book": "非人协会系列/07主宰.txt",
+  "title": "主宰",
+  "source_sha256": "d8890669ac925d6702046ac32103abfa3686d35e319426d325ddc8f5e542857e",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        31,
+        135,
+        154,
+        163,
+        164,
+        172,
+        176,
+        209
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        17
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

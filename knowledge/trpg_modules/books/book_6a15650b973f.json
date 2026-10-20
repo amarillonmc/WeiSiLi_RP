@@ -1,0 +1,59 @@
+{
+  "book_id": "book_6a15650b973f",
+  "source_book": "原振侠系列/27.假太阳.txt",
+  "title": "假太阳",
+  "source_sha256": "8bd1f4fa234561a0f2c31508489acf05bee9150c41984d2fcae576f305a3db8d",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 78,
+      "sample_line_numbers": [
+        43,
+        1427,
+        1633,
+        1715,
+        1805,
+        1915,
+        2087,
+        2853
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        49
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        31,
+        373,
+        713,
+        751,
+        857,
+        1381,
+        2587,
+        2593
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 60,
+      "sample_line_numbers": [
+        167,
+        831,
+        1339,
+        1831,
+        2373,
+        2465,
+        2703,
+        2845
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

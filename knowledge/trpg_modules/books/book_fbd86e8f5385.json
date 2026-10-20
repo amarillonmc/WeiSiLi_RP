@@ -1,0 +1,66 @@
+{
+  "book_id": "book_fbd86e8f5385",
+  "source_book": "年轻人/07暗算.txt",
+  "title": "暗算",
+  "source_sha256": "ceeb76564c6cf53a6108abaf618b090b70457b0ff3c1e2b8d95fd1a6cf2fa150",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        368,
+        760,
+        881,
+        898,
+        903,
+        933,
+        952,
+        1197
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        14,
+        181,
+        370,
+        853,
+        954,
+        1022,
+        1024,
+        1177
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        152,
+        485,
+        677,
+        693,
+        696,
+        943,
+        1080,
+        1232
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 21,
+      "sample_line_numbers": [
+        25,
+        81,
+        248,
+        317,
+        370,
+        586,
+        980,
+        1199
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

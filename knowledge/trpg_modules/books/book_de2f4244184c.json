@@ -1,0 +1,66 @@
+{
+  "book_id": "book_de2f4244184c",
+  "source_book": "卫斯理系列/009原子空间.txt",
+  "title": "原子空间",
+  "source_sha256": "9dae749ed628eb5ceb7b9d717c3ba7cb222361a3de297b59eb6e579705387685",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 54,
+      "sample_line_numbers": [
+        85,
+        1035,
+        1059,
+        1287,
+        1461,
+        2255,
+        2454,
+        2847
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        1084,
+        1483,
+        1501,
+        1508,
+        2004,
+        2292,
+        2320,
+        2547
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        106,
+        1030,
+        1082,
+        1170,
+        1191,
+        2146,
+        3031,
+        3315
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        195,
+        363,
+        518,
+        589,
+        1862,
+        1926,
+        2692,
+        3127
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

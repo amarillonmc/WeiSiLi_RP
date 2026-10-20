@@ -1,0 +1,60 @@
+{
+  "book_id": "book_4c2c25adb6fa",
+  "source_book": "卫斯理系列/076瘟神.txt",
+  "title": "瘟神",
+  "source_sha256": "2c3a0b6f16fb00fddb908a698e7b4dcb1bec550d841c8150372510c8472c8841",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 38,
+      "sample_line_numbers": [
+        852,
+        1855,
+        2476,
+        3772,
+        3793,
+        3867,
+        4292,
+        4728
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        1691,
+        1941
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        1527,
+        3032,
+        4566,
+        4745,
+        4875,
+        4889,
+        5022,
+        5047
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 71,
+      "sample_line_numbers": [
+        47,
+        868,
+        1787,
+        2696,
+        3003,
+        3849,
+        4360,
+        5001
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

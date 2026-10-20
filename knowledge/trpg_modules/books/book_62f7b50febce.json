@@ -1,0 +1,60 @@
+{
+  "book_id": "book_62f7b50febce",
+  "source_book": "卫斯理系列/104暗号之二.txt",
+  "title": "暗号之二",
+  "source_sha256": "0d06f2a60b61820326b077fbbed8c0c0667a06424a1d78008fc4146437690229",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        61,
+        453,
+        851,
+        1610,
+        1994,
+        2153,
+        2420,
+        2428
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        381,
+        2659
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        67,
+        191,
+        209,
+        480,
+        1340,
+        1840,
+        1864,
+        2259
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 55,
+      "sample_line_numbers": [
+        76,
+        502,
+        534,
+        918,
+        1089,
+        1304,
+        1946,
+        2678
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

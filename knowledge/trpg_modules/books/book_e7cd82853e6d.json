@@ -1,0 +1,32 @@
+{
+  "book_id": "book_e7cd82853e6d",
+  "source_book": "倪匡之鬼话系列/鬼哭之一.txt",
+  "title": "鬼哭之一",
+  "source_sha256": "e63b8f5a7da9f2748eeaa60469afae760d243812498e3e97168d51e6684f0af9",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        59
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

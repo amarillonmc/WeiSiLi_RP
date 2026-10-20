@@ -1,0 +1,90 @@
+{
+  "book_id": "book_8c0de180ffa0",
+  "source_book": "卫斯理系列/027仙境.txt",
+  "title": "仙境",
+  "source_sha256": "056877b11516b327b8631abb2ef5e802608d4dd1c6aef2a16553ab30fb1f7e7c",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        86,
+        1716,
+        1717,
+        1729,
+        1734,
+        1739,
+        1743,
+        1806
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        1182,
+        1756,
+        1765,
+        1783,
+        1804,
+        1878,
+        1887,
+        1911
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1010
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        71,
+        255,
+        495,
+        496,
+        545,
+        577,
+        598,
+        1125
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_fairy_valley",
+    "hazard_fairy_valley",
+    "scenario_fairy_valley"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "fairy_valley"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/027仙境.txt",
+      "start_line": 1428,
+      "end_line": 1450,
+      "supports": "宝物诱惑、德拉的枪及生存物资限制。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "056877b11516b327b8631abb2ef5e802608d4dd1c6aef2a16553ab30fb1f7e7c",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/027仙境.txt",
+      "start_line": 1876,
+      "end_line": 1913,
+      "supports": "卫斯理未检出辐射，朋友认为症状类似辐射伤；触摸条件使通常辐射解释受质疑。",
+      "epistemic_status": "mixed",
+      "source_sha256": "056877b11516b327b8631abb2ef5e802608d4dd1c6aef2a16553ab30fb1f7e7c",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

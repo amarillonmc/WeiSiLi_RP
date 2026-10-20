@@ -1,0 +1,108 @@
+{
+  "book_id": "book_b10cefcfc4f2",
+  "source_book": "浪子高达系列/微晶之密.txt",
+  "title": "微晶之密",
+  "source_sha256": "10a68521da61edb10f16332fc9f39fe67bf0d025deaa0c448e7409e6b7c6f84e",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 98,
+      "sample_line_numbers": [
+        277,
+        1813,
+        2393,
+        2801,
+        4097,
+        4733,
+        6681,
+        7351
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        103,
+        119,
+        3651,
+        3671,
+        3689,
+        3707,
+        4877,
+        5235
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        231,
+        361,
+        1863,
+        3397,
+        3491,
+        4261,
+        6289,
+        7089
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 51,
+      "sample_line_numbers": [
+        33,
+        2245,
+        3115,
+        3645,
+        4293,
+        5603,
+        6241,
+        7259
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_memory_camera",
+    "scenario_memory_camera"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "memory_camera"
+  ],
+  "evidence": [
+    {
+      "path": "浪子高达系列/微晶之密.txt",
+      "start_line": 3729,
+      "end_line": 3759,
+      "supports": "追忆摄影机从过去几秒发展到数年前场景；依赖特殊放映机，博士被留在基地。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "10a68521da61edb10f16332fc9f39fe67bf0d025deaa0c448e7409e6b7c6f84e",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "浪子高达系列/微晶之密.txt",
+      "start_line": 3761,
+      "end_line": 3791,
+      "supports": "博士回摄发现洗脑植入及强迫劳动秘密，随后被逼销毁摄影机和底片。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "10a68521da61edb10f16332fc9f39fe67bf0d025deaa0c448e7409e6b7c6f84e",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "浪子高达系列/微晶之密.txt",
+      "start_line": 7247,
+      "end_line": 7253,
+      "supports": "博士只能制造显示器，缺微晶片则不能读取本次内容。",
+      "epistemic_status": "testimony",
+      "source_sha256": "10a68521da61edb10f16332fc9f39fe67bf0d025deaa0c448e7409e6b7c6f84e",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

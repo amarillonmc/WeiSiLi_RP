@@ -1,0 +1,59 @@
+{
+  "book_id": "book_312a777eded3",
+  "source_book": "卫斯理系列/040贝壳.txt",
+  "title": "贝壳",
+  "source_sha256": "4e8d519f4f86bf86da2ecdd88ea183e4940c7a8568baf9287c642c3fe912ad5d",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1981
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 59,
+      "sample_line_numbers": [
+        3,
+        227,
+        468,
+        762,
+        979,
+        1009,
+        1400,
+        1989
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        314,
+        1322,
+        1646,
+        1731,
+        1817,
+        1832,
+        1939,
+        1955
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        30,
+        65,
+        287,
+        486,
+        1183,
+        1256,
+        1716,
+        2162
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

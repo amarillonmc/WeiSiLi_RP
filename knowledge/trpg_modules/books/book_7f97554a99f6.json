@@ -1,0 +1,56 @@
+{
+  "book_id": "book_7f97554a99f6",
+  "source_book": "卫斯理系列/095阴差阳错.txt",
+  "title": "阴差阳错",
+  "source_sha256": "f0a6ca5936e52b47f88218300d5c37b67b1c3bdb6cee9a410836f6b0eb757976",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        265,
+        267,
+        269,
+        272,
+        1251,
+        1880,
+        1919
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1561
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        1252,
+        1416,
+        1740,
+        2125,
+        2564,
+        2579
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 21,
+      "sample_line_numbers": [
+        267,
+        890,
+        1267,
+        1428,
+        1615,
+        1919,
+        2078,
+        2372
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

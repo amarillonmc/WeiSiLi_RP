@@ -1,0 +1,93 @@
+{
+  "book_id": "book_77f6858f5020",
+  "source_book": "原振侠系列/06.灵椅.txt",
+  "title": "灵椅",
+  "source_sha256": "5b2790408f171f8dde0941799afdfd913457ffb2f7fe6345348f3b5bc8ee99f7",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 431,
+      "sample_line_numbers": [
+        287,
+        963,
+        1973,
+        4047,
+        4691,
+        6767,
+        7335,
+        9329
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        3013,
+        4521,
+        5125,
+        8233
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        423,
+        2417,
+        3641,
+        3653,
+        7211,
+        8903,
+        9211,
+        9317
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 32,
+      "sample_line_numbers": [
+        107,
+        237,
+        773,
+        2863,
+        5341,
+        6385,
+        7849,
+        9137
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_spirit_chair",
+    "hazard_spirit_chair",
+    "scenario_spirit_chair"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "spirit_chair"
+  ],
+  "evidence": [
+    {
+      "path": "原振侠系列/06.灵椅.txt",
+      "start_line": 9067,
+      "end_line": 9107,
+      "supports": "天庭承诺与主人公对代理统治的解释。",
+      "epistemic_status": "mixed",
+      "source_sha256": "5b2790408f171f8dde0941799afdfd913457ffb2f7fe6345348f3b5bc8ee99f7",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "原振侠系列/06.灵椅.txt",
+      "start_line": 9137,
+      "end_line": 9195,
+      "supports": "黄绢主张已有权位者才能受益，椅台组合及视而不见的说法。",
+      "epistemic_status": "mixed",
+      "source_sha256": "5b2790408f171f8dde0941799afdfd913457ffb2f7fe6345348f3b5bc8ee99f7",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

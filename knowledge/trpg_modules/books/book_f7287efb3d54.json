@@ -1,0 +1,66 @@
+{
+  "book_id": "book_f7287efb3d54",
+  "source_book": "卫斯理系列/075谜踪.txt",
+  "title": "谜踪",
+  "source_sha256": "c170816f5581da277abce66bb2fc660865163e13bb2125f1ddb16282a95c32bf",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 38,
+      "sample_line_numbers": [
+        862,
+        1004,
+        1045,
+        1098,
+        1945,
+        2332,
+        2605,
+        3295
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 92,
+      "sample_line_numbers": [
+        243,
+        287,
+        357,
+        417,
+        440,
+        836,
+        1988,
+        3251
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        512,
+        1040,
+        1131,
+        1142,
+        1144,
+        2396,
+        2433,
+        3380
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 78,
+      "sample_line_numbers": [
+        85,
+        975,
+        1801,
+        2732,
+        3258,
+        3316,
+        3453,
+        3483
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

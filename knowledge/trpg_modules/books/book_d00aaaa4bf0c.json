@@ -1,0 +1,66 @@
+{
+  "book_id": "book_d00aaaa4bf0c",
+  "source_book": "卫斯理系列/068电王.txt",
+  "title": "电王",
+  "source_sha256": "1f06c68001a4e46a81953d8c5ffad7450c05628d236e57c3bd5061a2c93cdeb5",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        339,
+        1385,
+        2287,
+        2690,
+        2698,
+        2952,
+        2957,
+        3540
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        559,
+        608,
+        626,
+        641,
+        670,
+        1555,
+        2562,
+        2931
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        58,
+        1272,
+        2138,
+        2555,
+        2837,
+        2909,
+        3157,
+        3390
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 56,
+      "sample_line_numbers": [
+        260,
+        701,
+        1396,
+        2049,
+        2383,
+        2535,
+        3175,
+        3536
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

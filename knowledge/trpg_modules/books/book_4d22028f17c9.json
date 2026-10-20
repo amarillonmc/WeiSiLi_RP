@@ -1,0 +1,59 @@
+{
+  "book_id": "book_4d22028f17c9",
+  "source_book": "卫斯理系列/002卫斯理与白素.txt",
+  "title": "卫斯理与白素",
+  "source_sha256": "0bd0e8ff985eeea835442679fa34b2bd3852e78980480ab62210286a0c8a73b0",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        62,
+        91,
+        92,
+        117,
+        155,
+        196,
+        727,
+        1189
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        290
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        440,
+        482,
+        579,
+        811,
+        827,
+        952,
+        1708,
+        1743
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        18,
+        243,
+        506,
+        595,
+        892,
+        1134,
+        1525,
+        1742
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

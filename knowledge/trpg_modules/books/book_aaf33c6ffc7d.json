@@ -1,0 +1,59 @@
+{
+  "book_id": "book_aaf33c6ffc7d",
+  "source_book": "木兰花全集/06超人集团.txt",
+  "title": "超人集团",
+  "source_sha256": "bf31ec075bd44139b231d2f3df57d84b07018adaba717d1fe54f5005c3efb466",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        278,
+        398,
+        438,
+        482,
+        494,
+        1368,
+        1874,
+        2336
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1758
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        140,
+        144,
+        216,
+        1270,
+        1612,
+        1880,
+        2028,
+        2350
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        426,
+        544,
+        1132,
+        1754,
+        1862,
+        1970,
+        2092,
+        2224
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

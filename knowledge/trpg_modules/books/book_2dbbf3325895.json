@@ -1,0 +1,43 @@
+{
+  "book_id": "book_2dbbf3325895",
+  "source_book": "神探高斯系列/05风向.txt",
+  "title": "风向",
+  "source_sha256": "1926ec6e778e87009f4d12937ce4d86c87753466d230007c2601790e7a3c97c0",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        535
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        536
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        167,
+        600,
+        805,
+        825,
+        941,
+        1019,
+        1188,
+        1194
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

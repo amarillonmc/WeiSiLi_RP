@@ -1,0 +1,58 @@
+{
+  "book_id": "book_7c390651f4cf",
+  "source_book": "卫斯理系列/035雨花台石.txt",
+  "title": "雨花台石",
+  "source_sha256": "b3dcbf8be1b47b248537dbeb5974d00d194a7b2d704f926c444341a46ef80a2b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        915,
+        1256
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        506,
+        1113,
+        1121,
+        1127,
+        1128,
+        1132
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        163,
+        495,
+        932,
+        1408,
+        1457,
+        1470,
+        1494,
+        1510
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        396,
+        446,
+        494,
+        584,
+        683,
+        999,
+        1295,
+        1515
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

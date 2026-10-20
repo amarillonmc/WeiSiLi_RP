@@ -1,0 +1,109 @@
+{
+  "book_id": "book_36e3d4c8cce1",
+  "source_book": "原振侠系列/01.天人.txt",
+  "title": "天人",
+  "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 63,
+      "sample_line_numbers": [
+        599,
+        1041,
+        1307,
+        1895,
+        2205,
+        2855,
+        3311,
+        3385
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        257,
+        353,
+        361,
+        507,
+        873,
+        2133,
+        2929
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        195,
+        621,
+        787,
+        1677,
+        1739,
+        2379,
+        2987,
+        3385
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 74,
+      "sample_line_numbers": [
+        11,
+        405,
+        931,
+        1405,
+        1893,
+        2309,
+        2769,
+        3355
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_tianren_implant",
+    "hazard_tianren_implant",
+    "boss_tianren_implant",
+    "scenario_tianren_implant"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "tianren_implant"
+  ],
+  "evidence": [
+    {
+      "path": "原振侠系列/01.天人.txt",
+      "start_line": 3313,
+      "end_line": 3343,
+      "supports": "站内声音解释选样、金属片形成、记录思想与暂时停顿机能。",
+      "epistemic_status": "testimony",
+      "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "原振侠系列/01.天人.txt",
+      "start_line": 3347,
+      "end_line": 3365,
+      "supports": "灭口限定于知道秘密的已选样本，研究结束准备移除植入物。",
+      "epistemic_status": "testimony",
+      "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "原振侠系列/01.天人.txt",
+      "start_line": 3381,
+      "end_line": 3385,
+      "supports": "基地毁灭与选定对象相关记忆消失；仍有遗漏个例。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "book_id": "book_2ce28fcf4698",
+  "source_book": "卫斯理系列/037创造.txt",
+  "title": "创造",
+  "source_sha256": "43f439ed14bb4c90dba5e764ee6dc61edbbdedbd9ef79bf97d02d6bfda911e9d",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        181,
+        298,
+        710,
+        1056,
+        1152,
+        1189,
+        1276,
+        1454
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        3,
+        164,
+        263,
+        796,
+        812,
+        828,
+        1067,
+        1424
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        683,
+        1030,
+        1135,
+        1172,
+        1184,
+        1185,
+        1481
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        181,
+        404,
+        471,
+        770,
+        946,
+        1079,
+        1379,
+        1496
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

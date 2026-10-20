@@ -1,0 +1,60 @@
+{
+  "book_id": "book_9f92503739c8",
+  "source_book": "浪子高达系列/盗尸艳遇.txt",
+  "title": "盗尸艳遇",
+  "source_sha256": "1920d2255095402b7bcfc759f8b38538f1e1385c0f25fd7d147a1849232c29df",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        465,
+        543,
+        3114,
+        3488,
+        3494,
+        4339
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        166,
+        2779,
+        4043,
+        4259,
+        4261
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        1042,
+        1907,
+        1919,
+        2675,
+        3745,
+        3747,
+        4364
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 35,
+      "sample_line_numbers": [
+        209,
+        495,
+        1348,
+        2254,
+        2965,
+        3449,
+        3520,
+        4179
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

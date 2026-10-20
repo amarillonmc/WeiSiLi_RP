@@ -1,0 +1,54 @@
+{
+  "book_id": "book_5dba74386b36",
+  "source_book": "卫斯理系列/138财神宝库.txt",
+  "title": "财神宝库",
+  "source_sha256": "57f540a0c90e4e3f7eb03235d1a844ea526fbb59e062768c2f2af32d9175ff18",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 133,
+      "sample_line_numbers": [
+        41,
+        318,
+        429,
+        682,
+        892,
+        976,
+        1142,
+        1369
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        519,
+        1384
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        838,
+        1001
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 42,
+      "sample_line_numbers": [
+        24,
+        169,
+        245,
+        480,
+        606,
+        743,
+        929,
+        1211
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

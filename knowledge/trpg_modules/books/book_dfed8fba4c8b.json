@@ -1,0 +1,59 @@
+{
+  "book_id": "book_dfed8fba4c8b",
+  "source_book": "木兰花全集/55金庙奇佛.txt",
+  "title": "金庙奇佛",
+  "source_sha256": "ecec4b8b8f69c4e54c79fa4660df19b541bf71449e67f73c3dd18c4de6d6341b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        260,
+        1246,
+        1864,
+        2084,
+        2170,
+        2196,
+        2258,
+        2318
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        2002
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        892,
+        894,
+        1388,
+        1494,
+        1874,
+        1880,
+        2124,
+        2360
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        636,
+        694,
+        952,
+        1422,
+        1928,
+        2138,
+        2312,
+        2362
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

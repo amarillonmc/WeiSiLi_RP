@@ -1,0 +1,77 @@
+{
+  "book_id": "book_00387402bed3",
+  "source_book": "年轻人/09夜归.txt",
+  "title": "夜归",
+  "source_sha256": "aa3f67531df05fd0c229d7451a8c828970e6dd681d85ea1d1943282cb3d61b2b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 155,
+      "sample_line_numbers": [
+        13,
+        452,
+        614,
+        802,
+        958,
+        1031,
+        1168,
+        1381
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        750,
+        928,
+        1392
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        17,
+        50,
+        401,
+        780,
+        1086,
+        1336
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 51,
+      "sample_line_numbers": [
+        3,
+        531,
+        795,
+        832,
+        976,
+        1102,
+        1152,
+        1354
+      ]
+    }
+  },
+  "module_ids": [
+    "boss_princess_new_body",
+    "scenario_princess_new_body"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "princess_new_body"
+  ],
+  "evidence": [
+    {
+      "path": "年轻人/09夜归.txt",
+      "start_line": 170,
+      "end_line": 175,
+      "supports": "后期叙述明确公主的新身体可克服地心吸力而飞行。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "aa3f67531df05fd0c229d7451a8c828970e6dd681d85ea1d1943282cb3d61b2b",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

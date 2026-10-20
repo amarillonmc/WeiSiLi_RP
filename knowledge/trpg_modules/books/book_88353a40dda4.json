@@ -1,0 +1,62 @@
+{
+  "book_id": "book_88353a40dda4",
+  "source_book": "卫斯理系列/052连锁.txt",
+  "title": "连锁",
+  "source_sha256": "f58d66a291b0d994f297be9ad03cf937c1ef4c6e3b6ea2eb97c88eb8b15981e6",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        62,
+        653,
+        895,
+        962,
+        1326,
+        1847,
+        2222,
+        2503
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        185,
+        988,
+        996,
+        1005,
+        1014,
+        1040,
+        1073,
+        1202
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        982,
+        1970,
+        2420,
+        2516
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 50,
+      "sample_line_numbers": [
+        47,
+        584,
+        828,
+        1190,
+        1966,
+        2106,
+        2432,
+        2729
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,66 @@
+{
+  "book_id": "book_e34754c140ce",
+  "source_book": "亚洲之鹰罗开系列/15飞焰.txt",
+  "title": "飞焰",
+  "source_sha256": "4b495e99e0d1f415caab438a2fbb30b0135ff0defc868f35a40061f4ce4d05c5",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        162,
+        322,
+        540,
+        707,
+        977,
+        982,
+        1075,
+        1224
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 30,
+      "sample_line_numbers": [
+        26,
+        117,
+        167,
+        248,
+        353,
+        436,
+        917,
+        1222
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        154,
+        189,
+        342,
+        661,
+        671,
+        715,
+        1038,
+        1214
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 46,
+      "sample_line_numbers": [
+        16,
+        146,
+        297,
+        516,
+        755,
+        863,
+        1028,
+        1224
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

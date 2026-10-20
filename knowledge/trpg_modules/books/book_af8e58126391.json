@@ -1,0 +1,51 @@
+{
+  "book_id": "book_af8e58126391",
+  "source_book": "卫斯理系列/024消失.txt",
+  "title": "消失",
+  "source_sha256": "8528c71e8193ffda7163ccd355a0e9b90feed5a9c7ea397fd70b95a8ee01213c",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        438,
+        441,
+        442,
+        445,
+        463,
+        477,
+        478,
+        931
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        178,
+        285,
+        362,
+        417,
+        443,
+        488,
+        619,
+        969
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        499,
+        783
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

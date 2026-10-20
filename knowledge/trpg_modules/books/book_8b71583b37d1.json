@@ -1,0 +1,93 @@
+{
+  "book_id": "book_8b71583b37d1",
+  "source_book": "木兰花全集/26神秘血影掌.txt",
+  "title": "神秘血影掌",
+  "source_sha256": "c7d3c8dc45ab21a921de84a0507261f10b9e7afdf2c918c8013f739c3ebfe1c7",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        204,
+        816,
+        980,
+        1130,
+        1166,
+        1544,
+        1876,
+        1976
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        38,
+        770,
+        1148,
+        1482
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        194,
+        386,
+        442,
+        1182,
+        1792,
+        1964,
+        2098,
+        2520
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        42,
+        380,
+        600,
+        796,
+        1184,
+        2148,
+        2178,
+        2416
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_bloodshadow_network",
+    "boss_bloodshadow_network",
+    "scenario_bloodshadow_network"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "bloodshadow_network"
+  ],
+  "evidence": [
+    {
+      "path": "木兰花全集/26神秘血影掌.txt",
+      "start_line": 196,
+      "end_line": 206,
+      "supports": "腕表有致命尖刺，无线电控制部分是木兰花推断。",
+      "epistemic_status": "mixed",
+      "source_sha256": "c7d3c8dc45ab21a921de84a0507261f10b9e7afdf2c918c8013f739c3ebfe1c7",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "木兰花全集/26神秘血影掌.txt",
+      "start_line": 2144,
+      "end_line": 2192,
+      "supports": "指纹比对和电话内容揭示血影掌为梅乐准将，地位掩护组织。",
+      "epistemic_status": "mixed",
+      "source_sha256": "c7d3c8dc45ab21a921de84a0507261f10b9e7afdf2c918c8013f739c3ebfe1c7",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

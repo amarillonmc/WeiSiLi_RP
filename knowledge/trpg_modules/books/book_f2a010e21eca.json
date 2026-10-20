@@ -1,0 +1,59 @@
+{
+  "book_id": "book_f2a010e21eca",
+  "source_book": "木兰花全集/17高空喋血.txt",
+  "title": "高空喋血",
+  "source_sha256": "7859eb56084d09ca51fd36e020c3cfa021d1c1aa4863bcfd76a474a55df046db",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        6,
+        812,
+        886,
+        1374,
+        1416,
+        1442,
+        1658,
+        2202
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1088
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 31,
+      "sample_line_numbers": [
+        308,
+        322,
+        848,
+        1570,
+        1848,
+        2280,
+        2310,
+        2480
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        110,
+        192,
+        718,
+        812,
+        914,
+        1668,
+        1878,
+        2388
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

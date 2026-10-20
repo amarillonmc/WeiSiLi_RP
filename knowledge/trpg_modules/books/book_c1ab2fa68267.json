@@ -1,0 +1,137 @@
+{
+  "book_id": "book_c1ab2fa68267",
+  "source_book": "卫斯理系列/004蓝血人.txt",
+  "title": "蓝血人",
+  "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 72,
+      "sample_line_numbers": [
+        558,
+        1557,
+        2506,
+        2855,
+        3494,
+        4535,
+        5619,
+        6573
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        77,
+        515,
+        682,
+        1762,
+        2485,
+        3258,
+        3966,
+        4709
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 41,
+      "sample_line_numbers": [
+        508,
+        3906,
+        4943,
+        5293,
+        5562,
+        5935,
+        6027,
+        6686
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 81,
+      "sample_line_numbers": [
+        7,
+        725,
+        1567,
+        2576,
+        3570,
+        4368,
+        5492,
+        6591
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_formless_parasite",
+    "hazard_formless_parasite",
+    "boss_formless_parasite",
+    "scenario_formless_parasite",
+    "artifact_positron_hood",
+    "boss_positron_hood"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "formless_parasite",
+    "positron_hood"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 5445,
+      "end_line": 5496,
+      "supports": "方天解释非物质思想寄生、宿主死亡、头罩预防；在人类中是否分裂尚不确定。",
+      "epistemic_status": "testimony",
+      "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 5556,
+      "end_line": 5559,
+      "supports": "方天指出普通爆炸不能消灭无形飞魔。",
+      "epistemic_status": "testimony",
+      "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 5832,
+      "end_line": 5835,
+      "supports": "保留木村信记忆使寄生者也成为线索来源。",
+      "epistemic_status": "testimony",
+      "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 6059,
+      "end_line": 6063,
+      "supports": "太空舱阳电子处理与牺牲纳尔逊身体的抉择。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/004蓝血人.txt",
+      "start_line": 5472,
+      "end_line": 5479,
+      "supports": "头罩放射阳电子，作为预防寄生的设备。",
+      "epistemic_status": "testimony",
+      "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

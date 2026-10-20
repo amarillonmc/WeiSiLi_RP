@@ -1,0 +1,34 @@
+{
+  "book_id": "book_e6319f803729",
+  "source_book": "倪匡之鬼话系列/寻人.txt",
+  "title": "寻人",
+  "source_sha256": "a35c6a54583baf829c4403fb52a2acda46ce195bbef014a1b1d8345a96652d49",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        3,
+        11,
+        13
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

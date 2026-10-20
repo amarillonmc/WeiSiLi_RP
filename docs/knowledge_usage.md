@@ -44,6 +44,8 @@ rating = json.loads((kb / entry["rating"]).read_text(encoding="utf-8"))
 
 ## 演绎时使用哪些字段
 
+需要奇物机制、环境危险、对手招式或调查剧本时，另读 [TRPG 扩展说明](trpg_modules_guide.md) 与 [模块索引](../knowledge/trpg_modules/README.md)。这些成品补充角色库，保留原著证据层级；热度、骰子和秘密任务是改编，不能反写为角色原作能力。
+
 先读取 `version`，确认最后明确状态与参战部署，再用 `logic` 和 `modes` 决定角色面对当前处境会怎样选择。`biography` 提供动机的来历，`abilities`、`baseline` 与 `weaknesses` 决定实际能做什么。`ooc` 保存最容易误写的边界，`adaptations` 标明为了演绎作出的调整。
 
 每次只加载本场景参与者。角色不需要在对白中背诵传记或能力清单，行为扳机也不是必须顺次执行的剧本。具体动作应随关系、已知信息、现场资源及代价改变；同一原则可以通过追问、沉默、协作、拒绝或冒险表现。

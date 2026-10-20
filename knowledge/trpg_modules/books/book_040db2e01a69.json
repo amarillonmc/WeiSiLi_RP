@@ -1,0 +1,55 @@
+{
+  "book_id": "book_040db2e01a69",
+  "source_book": "浪子高达系列/学美人.txt",
+  "title": "血美人",
+  "source_sha256": "c305c79a2c5b648c76f77f804ecdf8c71d259b4ccc4747875f9b277fa03202fb",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        7,
+        280,
+        615,
+        831,
+        1483,
+        1692,
+        2099,
+        2976
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        241,
+        285,
+        1340,
+        3781
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        2905
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        275,
+        539,
+        791,
+        1076,
+        1691,
+        2392,
+        2707,
+        3441
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

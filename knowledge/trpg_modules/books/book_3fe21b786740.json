@@ -1,0 +1,59 @@
+{
+  "book_id": "book_3fe21b786740",
+  "source_book": "卫斯理系列/026多了一个.txt",
+  "title": "多了一个",
+  "source_sha256": "c6acd754e4c381624675a1f490c71d2181eecfe51101b956252b683b2fe96624",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        66,
+        122,
+        188,
+        601,
+        683,
+        689,
+        702,
+        770
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        56
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        701,
+        704,
+        743,
+        746,
+        764,
+        1046,
+        1116,
+        1338
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        127,
+        591,
+        1010,
+        1031,
+        1034,
+        1052,
+        1242,
+        1343
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

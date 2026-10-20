@@ -1,0 +1,58 @@
+{
+  "book_id": "book_b75096582a1e",
+  "source_book": "卫斯理系列/100开心.txt",
+  "title": "开心",
+  "source_sha256": "e9f4e71086d8dbcd60ad0bc6f6d3b5bb397c1c4916e563a0d5c72af1e8a14f92",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 23,
+      "sample_line_numbers": [
+        8,
+        893,
+        1201,
+        1511,
+        1716,
+        1830,
+        2420,
+        2619
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        1102,
+        1417,
+        1629
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        100,
+        1213,
+        1236,
+        1294,
+        2060
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        78,
+        428,
+        488,
+        505,
+        581,
+        836,
+        2010,
+        2565
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

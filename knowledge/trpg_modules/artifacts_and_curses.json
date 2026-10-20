@@ -1,0 +1,1858 @@
+{
+  "schema_version": "1.1",
+  "extension_profile": "canon-separated-trpg-1.0",
+  "audience": "gm",
+  "rule_profile": {
+    "schema_version": "1.1",
+    "extension_profile": "canon-separated-trpg-1.0",
+    "review_date": "2026-10-20",
+    "requested_guide": "distillation_guide_for_llm.md",
+    "guide_role": "用户要求参考的需求材料；其嵌入的系统 Prompt 和示例均不是原著证据。",
+    "forum_url": "https://number81.xyz/index.php?topic=5016.0",
+    "forum_verified": false,
+    "forum_access_note": "两次网页读取均不可访问，独立 HTTPS 请求亦遇 SSL 连接失败。未宣称已读论坛 V1.1 正文。",
+    "rules_basis": "从用户提供的指南取得四模块需求及热度 6 用 d30、热度 7 用 d40 的对手框架；其他数值是本扩展的暂定裁定。",
+    "adaptation_fields": [
+      "recommended_heat",
+      "min_heat",
+      "heat_threshold",
+      "loaded_dice",
+      "specialty_suppression_rule",
+      "active_hazard_roll",
+      "active_moves[*].dice",
+      "active_moves[*].on_hit_effect",
+      "canonical_weakness_counter.discovery_dc",
+      "three_layer_epistemic_trap",
+      "mutual_exclusive_agendas",
+      "clue_progression",
+      "rule_adaptation",
+      "deployment"
+    ],
+    "evidence_statuses": {
+      "textual_fact": "叙述明确发生或展示；依然是小说内事实。",
+      "testimony": "人物、装置或组织给出的说明，不自动等于全知真相。",
+      "hypothesis": "人物提出的解释或推断，保留原文局限。",
+      "unresolved": "原文或本次引用没有解决。",
+      "mixed": "同项含展示、证言、推断；须按 evidence.supports 的具体说明区分。"
+    },
+    "extensions": {
+      "categories": "增加人类技术、混合技术、矿物、未知物质、非物质生命，避免把所有材料硬说成外星器械或生物毒菌。",
+      "canonical": "保存表象、机制层级、条件、代价、应对、末态与未知。",
+      "evidence": "结构化路径、行号、支持内容、认识层级和原文 SHA-256。",
+      "boss_id": "独立场景 ID；card_id 严格链接已有角色 ID，可有多种历史部署。",
+      "null_values": "未确立的唯一死穴为 null；自愿解咒等无需对抗的动作 dice 为 null。"
+    },
+    "deployment_policy": [
+      "先选择阶段与真实资源，不叠加失能期、恢复期和终局已毁设备。",
+      "热度不等于人物原评级，不因热度自动把友好角色变成敌人。",
+      "同一事件引用多个模块时只结算一次同源伤害。",
+      "本体、钥匙、代价的分配及 11 人 4/4/3 目标组是主持人改编。",
+      "原著没有可靠解法时保持未知；DC 只帮助发现线索，不能凭空产生原著死穴。",
+      "所有数值尚未经实局平衡验证；论坛兼容性待核。"
+    ]
+  },
+  "items": [
+    {
+      "dossier_id": "transparent_mineral",
+      "name": "透明光矿物与黄铜盒",
+      "public_name": "铜盒与失踪者",
+      "source_book": "卫斯理系列/005透明光.txt",
+      "source_books": [
+        "卫斯理系列/005透明光.txt"
+      ],
+      "canonical": {
+        "surface": "透明身体似乎提供隐匿优势，但衣物不会一同透明。",
+        "mechanism": "矿物在普通空气与金字塔内部环境表现不同。真空实验后王彦、燕芬失踪，矿物成灰；不能确认他们死亡还是完全隐形。",
+        "mechanism_status": "mixed",
+        "activation": "暴露于发光矿物；反透明现象涉及金字塔特定环境，具体成分未明。",
+        "price": "透明外观、社会隔离和错误还原实验的失踪风险；没有逐回合骨骼脆化的证据。",
+        "counter": "合上黄铜盒能停止继续暴露；真空仓不是已验证的治愈办法。",
+        "availability": "实验使用的小块已成灰；勃拉克另持的大块是否仍藏存未明。",
+        "unknowns": [
+          "没有第二块反波长瓦片或深海滤波镜的证据",
+          "最终去向未定"
+        ],
+        "counter_status": "mixed"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/005透明光.txt",
+          "start_line": 5162,
+          "end_line": 5206,
+          "supports": "卫斯理把同矿物两种发光状态误解为可用真空重现；实验前要求供氧与关盒。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/005透明光.txt",
+          "start_line": 5278,
+          "end_line": 5299,
+          "supports": "真空还原失败；金字塔气氛不能等同真空；矿物失活成灰。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/005透明光.txt",
+          "start_line": 5310,
+          "end_line": 5341,
+          "supports": "两人死亡或彻底隐形皆为猜测；外星来源是实验室意见。",
+          "epistemic_status": "hypothesis",
+          "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/005透明光.txt",
+          "start_line": 4677,
+          "end_line": 4678,
+          "supports": "合上铜盒后遮断发光；此处只作为停止暴露手段，不作为恢复身体的办法。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/005透明光.txt:L5162-L5206; 卫斯理系列/005透明光.txt:L5278-L5299; 卫斯理系列/005透明光.txt:L5310-L5341; 卫斯理系列/005透明光.txt:L4677-L4678",
+      "id": "artifact_transparent_mineral",
+      "category": "alien_material",
+      "recommended_heat": 5,
+      "surface_phenomenon_believes": "透明身体似乎提供隐匿优势，但衣物不会一同透明。",
+      "true_mechanism_knows": "【证据层级：mixed；非一律确证】矿物在普通空气与金字塔内部环境表现不同。真空实验后王彦、燕芬失踪，矿物成灰；不能确认他们死亡还是完全隐形。",
+      "the_key_activation": "暴露于发光矿物；反透明现象涉及金字塔特定环境，具体成分未明。",
+      "the_price_recoil": "【原著】透明外观、社会隔离和错误还原实验的失踪风险；没有逐回合骨骼脆化的证据。【改编】身体异常进展一档；还原失败改为失踪倒计时，结局须调查裁定",
+      "canonical_counter": "【mixed】合上黄铜盒能停止继续暴露；真空仓不是已验证的治愈办法。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 5,
+        "recoil": "身体异常进展一档；还原失败改为失踪倒计时，结局须调查裁定",
+        "three_rights": {
+          "body": "透明光矿物与黄铜盒",
+          "key": "暴露于发光矿物；反透明现象涉及金字塔特定环境，具体成分未明。",
+          "price": "透明外观、社会隔离和错误还原实验的失踪风险；没有逐回合骨骼脆化的证据。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "formless_parasite",
+      "name": "无形飞魔（获壳依毒间）",
+      "public_name": "蓝血人事件的陌生威胁",
+      "source_book": "卫斯理系列/004蓝血人.txt",
+      "source_books": [
+        "卫斯理系列/004蓝血人.txt"
+      ],
+      "canonical": {
+        "surface": "熟人的身体和记忆仍然存在，容易被误认为原人格仍可救回。",
+        "mechanism": "按方天说明，它是类似脑电波的非物质寄生者，取代宿主脑活动并保有其记忆；不是可供培养的毒菌。",
+        "mechanism_status": "testimony",
+        "activation": "侵入未受相应头罩防护的脑部；人类宿主中能否分裂保持未知。",
+        "price": "方天认为原人格已死亡；处置寄生者不等于救回原人格。",
+        "counter": "方天提供的阳电子头罩用于预防，太空舱相应装置用于消灭；普通爆炸无效的判断来自方天。",
+        "availability": "采用《蓝血人》寄生事件阶段，不推定所有纳尔逊或后续同名人物都被寄生。",
+        "unknowns": [
+          "无法从外观或记忆单独证实宿主还活着",
+          "不扩张为一切思想生命通用弱点"
+        ],
+        "counter_status": "mixed"
+      },
+      "character_ids": [
+        "weisili_wu_xing_feimo"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 5445,
+          "end_line": 5496,
+          "supports": "方天解释非物质思想寄生、宿主死亡、头罩预防；在人类中是否分裂尚不确定。",
+          "epistemic_status": "testimony",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 5556,
+          "end_line": 5559,
+          "supports": "方天指出普通爆炸不能消灭无形飞魔。",
+          "epistemic_status": "testimony",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 5832,
+          "end_line": 5835,
+          "supports": "保留木村信记忆使寄生者也成为线索来源。",
+          "epistemic_status": "testimony",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 6059,
+          "end_line": 6063,
+          "supports": "太空舱阳电子处理与牺牲纳尔逊身体的抉择。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/004蓝血人.txt:L5445-L5496; 卫斯理系列/004蓝血人.txt:L5556-L5559; 卫斯理系列/004蓝血人.txt:L5832-L5835; 卫斯理系列/004蓝血人.txt:L6059-L6063",
+      "id": "artifact_formless_parasite",
+      "category": "nonmaterial_life",
+      "recommended_heat": 6,
+      "surface_phenomenon_believes": "熟人的身体和记忆仍然存在，容易被误认为原人格仍可救回。",
+      "true_mechanism_knows": "【证据层级：testimony；非一律确证】按方天说明，它是类似脑电波的非物质寄生者，取代宿主脑活动并保有其记忆；不是可供培养的毒菌。",
+      "the_key_activation": "侵入未受相应头罩防护的脑部；人类宿主中能否分裂保持未知。",
+      "the_price_recoil": "【原著】方天认为原人格已死亡；处置寄生者不等于救回原人格。【改编】心智受制一档；人格是否已毁须由事先设定的阶段决定",
+      "canonical_counter": "【mixed】方天提供的阳电子头罩用于预防，太空舱相应装置用于消灭；普通爆炸无效的判断来自方天。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 6,
+        "recoil": "心智受制一档；人格是否已毁须由事先设定的阶段决定",
+        "three_rights": {
+          "body": "无形飞魔（获壳依毒间）",
+          "key": "侵入未受相应头罩防护的脑部；人类宿主中能否分裂保持未知。",
+          "price": "方天认为原人格已死亡；处置寄生者不等于救回原人格。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "positron_hood",
+      "name": "方天的防寄生透明头罩",
+      "public_name": "透明头罩",
+      "source_book": "卫斯理系列/004蓝血人.txt",
+      "source_books": [
+        "卫斯理系列/004蓝血人.txt"
+      ],
+      "canonical": {
+        "surface": "不起眼的透明头罩被误认成普通防护用品。",
+        "mechanism": "方天说明头罩持续放射阳电子以防无形飞魔侵入。",
+        "mechanism_status": "testimony",
+        "activation": "需要真实头罩并正确佩戴；不是方天徒手发动的能力。",
+        "price": "只证实针对本案寄生机制，不附送防弹、治愈或精神全免疫。",
+        "counter": "保护目标而非直接攻击；已经被侵入者的治疗效果未证。",
+        "availability": "历史场景需明确实物归谁，原文没有无限配发库存。",
+        "unknowns": [],
+        "counter_status": "testimony"
+      },
+      "character_ids": [
+        "weisili_fang_tian"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 5472,
+          "end_line": 5479,
+          "supports": "头罩放射阳电子，作为预防寄生的设备。",
+          "epistemic_status": "testimony",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/004蓝血人.txt:L5472-L5479",
+      "id": "artifact_positron_hood",
+      "category": "alien_device",
+      "recommended_heat": 5,
+      "surface_phenomenon_believes": "不起眼的透明头罩被误认成普通防护用品。",
+      "true_mechanism_knows": "【证据层级：testimony；非一律确证】方天说明头罩持续放射阳电子以防无形飞魔侵入。",
+      "the_key_activation": "需要真实头罩并正确佩戴；不是方天徒手发动的能力。",
+      "the_price_recoil": "【原著】只证实针对本案寄生机制，不附送防弹、治愈或精神全免疫。【改编】代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+      "canonical_counter": "【testimony】保护目标而非直接攻击；已经被侵入者的治疗效果未证。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 5,
+        "recoil": "代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+        "three_rights": {
+          "body": "方天的防寄生透明头罩",
+          "key": "需要真实头罩并正确佩戴；不是方天徒手发动的能力。",
+          "price": "只证实针对本案寄生机制，不附送防弹、治愈或精神全免疫。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "dismember_computer",
+      "name": "分解光电脑盒",
+      "public_name": "石棺与奇异盒子",
+      "source_book": "卫斯理系列/011支离人.txt",
+      "source_books": [
+        "卫斯理系列/011支离人.txt"
+      ],
+      "canonical": {
+        "surface": "支离人似乎天生能把肢体分开活动。",
+        "mechanism": "大祭师说明电脑发出分解光；电力不足形成分离而未送走的异常状态，肢体仍受神经关联影响。",
+        "mechanism_status": "testimony",
+        "activation": "真实电脑、供电和正确控制顺序；金属片的文字不是直接授予能力。",
+        "price": "误操作可导致长久冬眠；原子运输的可靠性并未由地球人全面掌握。",
+        "counter": "原文提供了供电及控制条件的解释，没有提供人人可用的万能复原按钮。",
+        "availability": "仅在已确认电脑存在的阶段部署；不把被照者的能力当成人人可学。",
+        "unknowns": [
+          "运输原理是大祭师陈述",
+          "不把神经关联扩张为无限距离"
+        ],
+        "counter_status": "unresolved"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/011支离人.txt",
+          "start_line": 3856,
+          "end_line": 3895,
+          "supports": "大祭师解释分解运输、供电不足导致支离、错误操作导致冬眠。",
+          "epistemic_status": "testimony",
+          "source_sha256": "1c4eb914a01b9a6a9de1a2a16acd6d7560789f574e9371fb0f3ff971a5b757c8",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/011支离人.txt:L3856-L3895",
+      "id": "artifact_dismember_computer",
+      "category": "alien_device",
+      "recommended_heat": 6,
+      "surface_phenomenon_believes": "支离人似乎天生能把肢体分开活动。",
+      "true_mechanism_knows": "【证据层级：testimony；非一律确证】大祭师说明电脑发出分解光；电力不足形成分离而未送走的异常状态，肢体仍受神经关联影响。",
+      "the_key_activation": "真实电脑、供电和正确控制顺序；金属片的文字不是直接授予能力。",
+      "the_price_recoil": "【原著】误操作可导致长久冬眠；原子运输的可靠性并未由地球人全面掌握。【改编】受制或身体分离一档；需要器械调查决定后续",
+      "canonical_counter": "【unresolved】原文提供了供电及控制条件的解释，没有提供人人可用的万能复原按钮。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 6,
+        "recoil": "受制或身体分离一档；需要器械调查决定后续",
+        "three_rights": {
+          "body": "分解光电脑盒",
+          "key": "真实电脑、供电和正确控制顺序；金属片的文字不是直接授予能力。",
+          "price": "误操作可导致长久冬眠；原子运输的可靠性并未由地球人全面掌握。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "dismember_inscription",
+      "name": "石棺中的古文字金属片",
+      "public_name": "古文字金属片",
+      "source_book": "卫斯理系列/011支离人.txt",
+      "source_books": [
+        "卫斯理系列/011支离人.txt"
+      ],
+      "canonical": {
+        "surface": "持有金属片似乎就能掌握支离能力的全部秘密。",
+        "mechanism": "它是争夺中的文字线索；不等同于分解光的发射器。",
+        "mechanism_status": "textual_fact",
+        "activation": "需要可靠释读与相关装置；得到实物不等于读懂文字。",
+        "price": "争夺会招致绑架与胁迫；没有直接触摸即受诅咒的证据。",
+        "counter": "核对译文与装置实证，保留未知部分。",
+        "availability": "叙述结尾仍未解清邓石的全部动机。",
+        "unknowns": [],
+        "counter_status": "derived_strategy"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/011支离人.txt",
+          "start_line": 1140,
+          "end_line": 1163,
+          "supports": "金属片藏于石棺盖夹层，有不能立即认出的文字。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "1c4eb914a01b9a6a9de1a2a16acd6d7560789f574e9371fb0f3ff971a5b757c8",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/011支离人.txt",
+          "start_line": 2766,
+          "end_line": 2770,
+          "supports": "邓石仅译约十分之一。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "1c4eb914a01b9a6a9de1a2a16acd6d7560789f574e9371fb0f3ff971a5b757c8",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/011支离人.txt",
+          "start_line": 4183,
+          "end_line": 4185,
+          "supports": "卫斯理不知邓石如何获知金属片以及为何迫切需要。",
+          "epistemic_status": "unresolved",
+          "source_sha256": "1c4eb914a01b9a6a9de1a2a16acd6d7560789f574e9371fb0f3ff971a5b757c8",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/011支离人.txt:L1140-L1163; 卫斯理系列/011支离人.txt:L2766-L2770; 卫斯理系列/011支离人.txt:L4183-L4185",
+      "id": "artifact_dismember_inscription",
+      "category": "ancient_relic",
+      "recommended_heat": 4,
+      "surface_phenomenon_believes": "持有金属片似乎就能掌握支离能力的全部秘密。",
+      "true_mechanism_knows": "【证据层级：textual_fact；非一律确证】它是争夺中的文字线索；不等同于分解光的发射器。",
+      "the_key_activation": "需要可靠释读与相关装置；得到实物不等于读懂文字。",
+      "the_price_recoil": "【原著】争夺会招致绑架与胁迫；没有直接触摸即受诅咒的证据。【改编】代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+      "canonical_counter": "【derived_strategy】核对译文与装置实证，保留未知部分。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 4,
+        "recoil": "代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+        "three_rights": {
+          "body": "石棺中的古文字金属片",
+          "key": "需要可靠释读与相关装置；得到实物不等于读懂文字。",
+          "price": "争夺会招致绑架与胁迫；没有直接触摸即受诅咒的证据。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "immortality_drug",
+      "name": "汉同架岛不死药",
+      "public_name": "不死药",
+      "source_book": "卫斯理系列/012不死药.txt",
+      "source_books": [
+        "卫斯理系列/012不死药.txt"
+      ],
+      "canonical": {
+        "surface": "药物提供抗衰老和异常恢复，看似可以让人永生。",
+        "mechanism": "原著强调持续供药依赖，断供可导致严重意识损害；肌肉快速恢复并不消除心脏致命弱点。",
+        "mechanism_status": "textual_fact",
+        "activation": "服食药物并维持供应；具体制备与安全剂量未明。",
+        "price": "供药依赖、意识损害及被药源控制者胁迫；不是服药立即丧失全部思想。",
+        "counter": "服药者可被绳索控制，心脏受击仍可致死；医学治疗只是尝试，不能视为已确证解药。",
+        "availability": "骆致谦已被处刑；卫斯理从海啸消息推断药源所在的汉同架岛沉没。",
+        "unknowns": [
+          "没有三份解药、三席相位潜艇或母株温室的原著依据"
+        ],
+        "counter_status": "mixed"
+      },
+      "character_ids": [
+        "weisili_luo_zhiqian"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/012不死药.txt",
+          "start_line": 2381,
+          "end_line": 2425,
+          "supports": "服药者仍能因心脏中枪死亡，波金被杀。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "add3e531fa3d2d7c2767b9c3b0e194fb54b7d61e4b81561efb86d8825848b14d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/012不死药.txt",
+          "start_line": 2445,
+          "end_line": 2494,
+          "supports": "需要持续供药；快速肌肉恢复与可被绑缚并存。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "add3e531fa3d2d7c2767b9c3b0e194fb54b7d61e4b81561efb86d8825848b14d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/012不死药.txt",
+          "start_line": 2955,
+          "end_line": 2991,
+          "supports": "断供导致柏秀琼失能；岛屿疑似陆沉；卫斯理接受不确定的治疗。",
+          "epistemic_status": "mixed",
+          "source_sha256": "add3e531fa3d2d7c2767b9c3b0e194fb54b7d61e4b81561efb86d8825848b14d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/012不死药.txt:L2381-L2425; 卫斯理系列/012不死药.txt:L2445-L2494; 卫斯理系列/012不死药.txt:L2955-L2991",
+      "id": "artifact_immortality_drug",
+      "category": "biological_agent",
+      "recommended_heat": 6,
+      "surface_phenomenon_believes": "药物提供抗衰老和异常恢复，看似可以让人永生。",
+      "true_mechanism_knows": "【证据层级：textual_fact；非一律确证】原著强调持续供药依赖，断供可导致严重意识损害；肌肉快速恢复并不消除心脏致命弱点。",
+      "the_key_activation": "服食药物并维持供应；具体制备与安全剂量未明。",
+      "the_price_recoil": "【原著】供药依赖、意识损害及被药源控制者胁迫；不是服药立即丧失全部思想。【改编】意识损害进度加一；供药周期为改编，不以回合数冒充原文剂量",
+      "canonical_counter": "【mixed】服药者可被绳索控制，心脏受击仍可致死；医学治疗只是尝试，不能视为已确证解药。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 6,
+        "recoil": "意识损害进度加一；供药周期为改编，不以回合数冒充原文剂量",
+        "three_rights": {
+          "body": "汉同架岛不死药",
+          "key": "服食药物并维持供应；具体制备与安全剂量未明。",
+          "price": "供药依赖、意识损害及被药源控制者胁迫；不是服药立即丧失全部思想。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "heart_gu",
+      "name": "芭珠的心蛊",
+      "public_name": "心蛊疑案",
+      "source_book": "卫斯理系列/015蛊惑.txt",
+      "source_books": [
+        "卫斯理系列/015蛊惑.txt"
+      ],
+      "canonical": {
+        "surface": "感情背弃似乎会自动招来神秘惩罚。",
+        "mechanism": "心蛊事件存在；教授的病毒及内分泌解释仍是假设，不能升级为整个宇宙的巫术定律。",
+        "mechanism_status": "mixed",
+        "activation": "须有本案施蛊关联；不能仅凭姓名隔空给任何人下蛊。",
+        "price": "可能发生致命后果，也牵连施术者与周围人的关系；原文无稳定通用解法。",
+        "counter": "芭珠说受蛊者只能以自己的心意救自己；这不是可强迫他人爱上的可靠解咒流程。",
+        "availability": "以《蛊惑》事件阶段使用；未知机制不补成虫群作战术。",
+        "unknowns": [
+          "精确生理机制未定",
+          "不同蛊的解法不能相互套用"
+        ],
+        "counter_status": "testimony"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/015蛊惑.txt",
+          "start_line": 1349,
+          "end_line": 1352,
+          "supports": "芭珠说明心意变化与心蛊后果。",
+          "epistemic_status": "testimony",
+          "source_sha256": "37bef72830a445097e04d2f98e7ee40e32134327cf9ff0e078a440b0078f7759",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/015蛊惑.txt",
+          "start_line": 1771,
+          "end_line": 1849,
+          "supports": "平纳教授提出病毒、情绪和内分泌假设，并承认研究不完整。",
+          "epistemic_status": "hypothesis",
+          "source_sha256": "37bef72830a445097e04d2f98e7ee40e32134327cf9ff0e078a440b0078f7759",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/015蛊惑.txt",
+          "start_line": 1857,
+          "end_line": 1869,
+          "supports": "不同蛊的培养媒介不同；心蛊媒介记为鸟心。",
+          "epistemic_status": "testimony",
+          "source_sha256": "37bef72830a445097e04d2f98e7ee40e32134327cf9ff0e078a440b0078f7759",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/015蛊惑.txt:L1349-L1352; 卫斯理系列/015蛊惑.txt:L1771-L1849; 卫斯理系列/015蛊惑.txt:L1857-L1869",
+      "id": "artifact_heart_gu",
+      "category": "occult_curse",
+      "recommended_heat": 5,
+      "surface_phenomenon_believes": "感情背弃似乎会自动招来神秘惩罚。",
+      "true_mechanism_knows": "【证据层级：mixed；非一律确证】心蛊事件存在；教授的病毒及内分泌解释仍是假设，不能升级为整个宇宙的巫术定律。",
+      "the_key_activation": "须有本案施蛊关联；不能仅凭姓名隔空给任何人下蛊。",
+      "the_price_recoil": "【原著】可能发生致命后果，也牵连施术者与周围人的关系；原文无稳定通用解法。【改编】代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+      "canonical_counter": "【testimony】芭珠说受蛊者只能以自己的心意救自己；这不是可强迫他人爱上的可靠解咒流程。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 5,
+        "recoil": "代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+        "three_rights": {
+          "body": "芭珠的心蛊",
+          "key": "须有本案施蛊关联；不能仅凭姓名隔空给任何人下蛊。",
+          "price": "可能发生致命后果，也牵连施术者与周围人的关系；原文无稳定通用解法。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "endocrine_control",
+      "name": "张小龙的内分泌研究成果",
+      "public_name": "失踪科学家的研究",
+      "source_book": "卫斯理系列/003妖火.txt",
+      "source_books": [
+        "卫斯理系列/003妖火.txt"
+      ],
+      "canonical": {
+        "surface": "异常驯服和行动变化被误认为个人选择。",
+        "mechanism": "集团企图利用张小龙的内分泌分离成果改变习性；资料、研究者和制剂不是一件东西。",
+        "mechanism_status": "testimony",
+        "activation": "需要具体制剂与施用机会；掌握文件不能自动复制生产。",
+        "price": "研究者被胁迫，受施用者自主性受威胁；不是手持按钮遥控任意人。",
+        "counter": "阻止强迫生产、隔离施用渠道及保护研究者，是依赖条件上的应对；没有通用解毒法实证。",
+        "availability": "按集团仍活动的历史阶段装配，不默认终局后仍有供应链。",
+        "unknowns": [],
+        "counter_status": "derived_strategy"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/003妖火.txt",
+          "start_line": 2295,
+          "end_line": 2296,
+          "supports": "控制内分泌以改变习性的研究说法。",
+          "epistemic_status": "testimony",
+          "source_sha256": "3d93b33a8bacae99e43876e6f987986b6f2fe3bbe0929ae1486b5bd54cc7f89b",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/003妖火.txt",
+          "start_line": 3347,
+          "end_line": 3349,
+          "supports": "集团要大量制造制剂，掌握资料仍需要张小龙本人技术。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "3d93b33a8bacae99e43876e6f987986b6f2fe3bbe0929ae1486b5bd54cc7f89b",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/003妖火.txt",
+          "start_line": 4000,
+          "end_line": 4011,
+          "supports": "集团选择黑海豚制剂并接近各国首脑。",
+          "epistemic_status": "testimony",
+          "source_sha256": "3d93b33a8bacae99e43876e6f987986b6f2fe3bbe0929ae1486b5bd54cc7f89b",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/003妖火.txt",
+          "start_line": 3397,
+          "end_line": 3400,
+          "supports": "集团承认得到资料仍不能代替张小龙本人协作。",
+          "epistemic_status": "testimony",
+          "source_sha256": "3d93b33a8bacae99e43876e6f987986b6f2fe3bbe0929ae1486b5bd54cc7f89b",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/003妖火.txt:L2295-L2296; 卫斯理系列/003妖火.txt:L3347-L3349; 卫斯理系列/003妖火.txt:L4000-L4011; 卫斯理系列/003妖火.txt:L3397-L3400",
+      "id": "artifact_endocrine_control",
+      "category": "biological_agent",
+      "recommended_heat": 5,
+      "surface_phenomenon_believes": "异常驯服和行动变化被误认为个人选择。",
+      "true_mechanism_knows": "【证据层级：testimony；非一律确证】集团企图利用张小龙的内分泌分离成果改变习性；资料、研究者和制剂不是一件东西。",
+      "the_key_activation": "需要具体制剂与施用机会；掌握文件不能自动复制生产。",
+      "the_price_recoil": "【原著】研究者被胁迫，受施用者自主性受威胁；不是手持按钮遥控任意人。【改编】代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+      "canonical_counter": "【derived_strategy】阻止强迫生产、隔离施用渠道及保护研究者，是依赖条件上的应对；没有通用解毒法实证。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 5,
+        "recoil": "代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+        "three_rights": {
+          "body": "张小龙的内分泌研究成果",
+          "key": "需要具体制剂与施用机会；掌握文件不能自动复制生产。",
+          "price": "研究者被胁迫，受施用者自主性受威胁；不是手持按钮遥控任意人。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "fairy_valley",
+      "name": "仙境宝石谷的接触风险",
+      "public_name": "仙境宝谷",
+      "source_book": "卫斯理系列/027仙境.txt",
+      "source_books": [
+        "卫斯理系列/027仙境.txt"
+      ],
+      "canonical": {
+        "surface": "遍地珍宝令人以为走进了可以一夜致富的仙境。",
+        "mechanism": "德拉的异常变化与谷内经历相连；辐射和外太空来源是推断，原文结尾明确保留反对意见。",
+        "mechanism_status": "hypothesis",
+        "activation": "进入山谷并接触可疑物；安全接触时间、材质防护和机制均未证。",
+        "price": "严重身体变化及死亡风险，外加风雪、饥饿和夺宝冲突。",
+        "counter": "卫斯理离开并检查身体；没有可以可靠解除异常的脑波开关。",
+        "availability": "宝谷位置仍可被记忆；带出的绿钻掉入水道，后续去向未证。",
+        "unknowns": [],
+        "counter_status": "mixed"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/027仙境.txt",
+          "start_line": 1428,
+          "end_line": 1450,
+          "supports": "宝物诱惑、德拉的枪及生存物资限制。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "056877b11516b327b8631abb2ef5e802608d4dd1c6aef2a16553ab30fb1f7e7c",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/027仙境.txt",
+          "start_line": 1876,
+          "end_line": 1913,
+          "supports": "卫斯理未检出辐射，朋友认为症状类似辐射伤；触摸条件使通常辐射解释受质疑。",
+          "epistemic_status": "mixed",
+          "source_sha256": "056877b11516b327b8631abb2ef5e802608d4dd1c6aef2a16553ab30fb1f7e7c",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/027仙境.txt:L1428-L1450; 卫斯理系列/027仙境.txt:L1876-L1913",
+      "id": "artifact_fairy_valley",
+      "category": "unknown_material",
+      "recommended_heat": 5,
+      "surface_phenomenon_believes": "遍地珍宝令人以为走进了可以一夜致富的仙境。",
+      "true_mechanism_knows": "【证据层级：hypothesis；非一律确证】德拉的异常变化与谷内经历相连；辐射和外太空来源是推断，原文结尾明确保留反对意见。",
+      "the_key_activation": "进入山谷并接触可疑物；安全接触时间、材质防护和机制均未证。",
+      "the_price_recoil": "【原著】严重身体变化及死亡风险，外加风雪、饥饿和夺宝冲突。【改编】身体异常进度加一；与已展示风险对应，不预设脑波幻觉",
+      "canonical_counter": "【mixed】卫斯理离开并检查身体；没有可以可靠解除异常的脑波开关。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 5,
+        "recoil": "身体异常进度加一；与已展示风险对应，不预设脑波幻觉",
+        "three_rights": {
+          "body": "仙境宝石谷的接触风险",
+          "key": "进入山谷并接触可疑物；安全接触时间、材质防护和机制均未证。",
+          "price": "严重身体变化及死亡风险，外加风雪、饥饿和夺宝冲突。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "fox_time_device",
+      "name": "狐变中的时间往返仪器",
+      "public_name": "古宅狐变",
+      "source_book": "卫斯理系列/028狐变.txt",
+      "source_books": [
+        "卫斯理系列/028狐变.txt"
+      ],
+      "canonical": {
+        "surface": "宅中异样被当成狐妖作祟。",
+        "mechanism": "博新转述时间实验与人体缩小事故；叔父能往返不意味着所有试验者都能安全返回。",
+        "mechanism_status": "testimony",
+        "activation": "叔父掌握的小型仪器和操作知识；其自称只能回到过去。",
+        "price": "父亲与狐狸出现持续缩小，叔父未能修复；不写成可随时暂停敌人的时间能力。",
+        "counter": "没有成功治愈持续缩小的明确方法；停止再次试验不能保证恢复。",
+        "availability": "由回述展开的历史实验，现成可用设备状态不可擅定。",
+        "unknowns": [
+          "不要把人物宇宙膨胀说当成现实物理定律"
+        ],
+        "counter_status": "unresolved"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/028狐变.txt",
+          "start_line": 1631,
+          "end_line": 1686,
+          "supports": "博新转述叔父实验：回到过去、正常回返与持续缩小事故，修复失败。",
+          "epistemic_status": "testimony",
+          "source_sha256": "ea0bcff3bbc830a04ad0ee856c6792daff5b5f4250d41c630ba9d48c35aeae40",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/028狐变.txt:L1631-L1686",
+      "id": "artifact_fox_time_device",
+      "category": "human_technology",
+      "recommended_heat": 5,
+      "surface_phenomenon_believes": "宅中异样被当成狐妖作祟。",
+      "true_mechanism_knows": "【证据层级：testimony；非一律确证】博新转述时间实验与人体缩小事故；叔父能往返不意味着所有试验者都能安全返回。",
+      "the_key_activation": "叔父掌握的小型仪器和操作知识；其自称只能回到过去。",
+      "the_price_recoil": "【原著】父亲与狐狸出现持续缩小，叔父未能修复；不写成可随时暂停敌人的时间能力。【改编】记录一次缩小进度；不直接无限连锁扣阶",
+      "canonical_counter": "【unresolved】没有成功治愈持续缩小的明确方法；停止再次试验不能保证恢复。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 5,
+        "recoil": "记录一次缩小进度；不直接无限连锁扣阶",
+        "three_rights": {
+          "body": "狐变中的时间往返仪器",
+          "key": "叔父掌握的小型仪器和操作知识；其自称只能回到过去。",
+          "price": "父亲与狐狸出现持续缩小，叔父未能修复；不写成可随时暂停敌人的时间能力。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "ancient_voice_vase",
+      "name": "记录古声的细纹古瓶",
+      "public_name": "尖叫录音与古瓶",
+      "source_book": "卫斯理系列/029古声.txt",
+      "source_books": [
+        "卫斯理系列/029古声.txt"
+      ],
+      "canonical": {
+        "surface": "尖叫录音像是现代谋杀或邪教犯罪线索。",
+        "mechanism": "古瓶细纹可被专门仪器探测出声音；制瓶过程如何录音及祭祀情境是人物重建。",
+        "mechanism_status": "mixed",
+        "activation": "需要古瓶、完整细纹和音响实验室；裸手拿着瓶子不会自动播放。",
+        "price": "脆弱实物会损毁，误解录音年代会把调查引向错误嫌疑人。",
+        "counter": "核对实验室收据、内侧纪年与取声记录，纠正时代误判。",
+        "availability": "原瓶在车祸中碎裂；已有录音和碎片的价值另行判断。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/029古声.txt",
+          "start_line": 1031,
+          "end_line": 1048,
+          "supports": "实验室收据与瓶身细纹提示声音来源。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "e81094f0193dfa7371a92849b9bed30eff0f64e6eb6aefddc516fa64f3903335",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/029古声.txt",
+          "start_line": 1050,
+          "end_line": 1077,
+          "supports": "车祸损坏古瓶，实验室确曾从细纹取得声音，内侧字迹显露年代。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "e81094f0193dfa7371a92849b9bed30eff0f64e6eb6aefddc516fa64f3903335",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/029古声.txt",
+          "start_line": 1079,
+          "end_line": 1097,
+          "supports": "熊逸提出无意录下祭祀声的假设。",
+          "epistemic_status": "hypothesis",
+          "source_sha256": "e81094f0193dfa7371a92849b9bed30eff0f64e6eb6aefddc516fa64f3903335",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/029古声.txt:L1031-L1048; 卫斯理系列/029古声.txt:L1050-L1077; 卫斯理系列/029古声.txt:L1079-L1097",
+      "id": "artifact_ancient_voice_vase",
+      "category": "ancient_relic",
+      "recommended_heat": 4,
+      "surface_phenomenon_believes": "尖叫录音像是现代谋杀或邪教犯罪线索。",
+      "true_mechanism_knows": "【证据层级：mixed；非一律确证】古瓶细纹可被专门仪器探测出声音；制瓶过程如何录音及祭祀情境是人物重建。",
+      "the_key_activation": "需要古瓶、完整细纹和音响实验室；裸手拿着瓶子不会自动播放。",
+      "the_price_recoil": "【原著】脆弱实物会损毁，误解录音年代会把调查引向错误嫌疑人。【改编】代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+      "canonical_counter": "【textual_fact】核对实验室收据、内侧纪年与取声记录，纠正时代误判。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 4,
+        "recoil": "代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+        "three_rights": {
+          "body": "记录古声的细纹古瓶",
+          "key": "需要古瓶、完整细纹和音响实验室；裸手拿着瓶子不会自动播放。",
+          "price": "脆弱实物会损毁，误解录音年代会把调查引向错误嫌疑人。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "dasha_elevator",
+      "name": "大厦的异常时间电梯",
+      "public_name": "大厦电梯失踪案",
+      "source_book": "卫斯理系列/044大厦.txt",
+      "source_books": [
+        "卫斯理系列/044大厦.txt"
+      ],
+      "canonical": {
+        "surface": "电梯不断上升，仿佛永远到不了顶。",
+        "mechanism": "装置使人进入异常时空；时间与尺度解释由卫斯理提出，罗定不是装置创造者。",
+        "mechanism_status": "mixed",
+        "activation": "进入王直义改装的电梯并处于相关实验状态。",
+        "price": "可能无法返回；跳出阳台的实际落点与直觉不符，已有坠亡。",
+        "counter": "原作出现冒险坠落脱困及后来可用的下降返程；没有重力频率定位开关的解法。",
+        "availability": "须指定未成熟实验阶段还是后来具备返程的阶段，不能混用。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/044大厦.txt",
+          "start_line": 2702,
+          "end_line": 2730,
+          "supports": "王直义的电梯实验困住罗定与小郭，研究尚未成熟。",
+          "epistemic_status": "mixed",
+          "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/044大厦.txt",
+          "start_line": 2740,
+          "end_line": 2819,
+          "supports": "陈毛的坠亡及卫斯理关于时间和尺度的解释。",
+          "epistemic_status": "mixed",
+          "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/044大厦.txt",
+          "start_line": 2830,
+          "end_line": 2896,
+          "supports": "卫斯理用改装门板承受撞击而返回；明确是冒险。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/044大厦.txt",
+          "start_line": 3163,
+          "end_line": 3165,
+          "supports": "末段说明电梯下降可返回正常空间。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/044大厦.txt:L2702-L2730; 卫斯理系列/044大厦.txt:L2740-L2819; 卫斯理系列/044大厦.txt:L2830-L2896; 卫斯理系列/044大厦.txt:L3163-L3165",
+      "id": "artifact_dasha_elevator",
+      "category": "human_technology",
+      "recommended_heat": 5,
+      "surface_phenomenon_believes": "电梯不断上升，仿佛永远到不了顶。",
+      "true_mechanism_knows": "【证据层级：mixed；非一律确证】装置使人进入异常时空；时间与尺度解释由卫斯理提出，罗定不是装置创造者。",
+      "the_key_activation": "进入王直义改装的电梯并处于相关实验状态。",
+      "the_price_recoil": "【原著】可能无法返回；跳出阳台的实际落点与直觉不符，已有坠亡。【改编】隔离并受制一档；有防护与准备可减免，未经预警不即死",
+      "canonical_counter": "【textual_fact】原作出现冒险坠落脱困及后来可用的下降返程；没有重力频率定位开关的解法。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 5,
+        "recoil": "隔离并受制一档；有防护与准备可减免，未经预警不即死",
+        "three_rights": {
+          "body": "大厦的异常时间电梯",
+          "key": "进入王直义改装的电梯并处于相关实验状态。",
+          "price": "可能无法返回；跳出阳台的实际落点与直觉不符，已有坠亡。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "tianren_implant",
+      "name": "天人脑内金属片与研究站",
+      "public_name": "奇迹幸存者",
+      "source_book": "原振侠系列/01.天人.txt",
+      "source_books": [
+        "原振侠系列/01.天人.txt"
+      ],
+      "canonical": {
+        "surface": "能在恶劣环境中生存的人被当成天选或神的使者。",
+        "mechanism": "研究站把选定对象当作思想样本；脑内片是控制和收集接口，能力来自站内干预。",
+        "mechanism_status": "testimony",
+        "activation": "预先已被选定、存在相容金属片及运行中的研究站；形成过程按站方说法约三年。",
+        "price": "被观测、被指令干预；样本认知秘密可能触发灭口。未选中旁观者不适用该触发。",
+        "counter": "原作研究结束时由站方移除金属片并关闭基地；未给出安全的自行手术万能解法。",
+        "availability": "终局基地毁灭，不应自动恢复样本监控与处刑。",
+        "unknowns": [],
+        "counter_status": "testimony"
+      },
+      "character_ids": [
+        "yuanzhenxia_tianren_station"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "原振侠系列/01.天人.txt",
+          "start_line": 3313,
+          "end_line": 3343,
+          "supports": "站内声音解释选样、金属片形成、记录思想与暂时停顿机能。",
+          "epistemic_status": "testimony",
+          "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/01.天人.txt",
+          "start_line": 3347,
+          "end_line": 3365,
+          "supports": "灭口限定于知道秘密的已选样本，研究结束准备移除植入物。",
+          "epistemic_status": "testimony",
+          "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/01.天人.txt",
+          "start_line": 3381,
+          "end_line": 3385,
+          "supports": "基地毁灭与选定对象相关记忆消失；仍有遗漏个例。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "原振侠系列/01.天人.txt:L3313-L3343; 原振侠系列/01.天人.txt:L3347-L3365; 原振侠系列/01.天人.txt:L3381-L3385",
+      "id": "artifact_tianren_implant",
+      "category": "alien_device",
+      "recommended_heat": 7,
+      "surface_phenomenon_believes": "能在恶劣环境中生存的人被当成天选或神的使者。",
+      "true_mechanism_knows": "【证据层级：testimony；非一律确证】研究站把选定对象当作思想样本；脑内片是控制和收集接口，能力来自站内干预。",
+      "the_key_activation": "预先已被选定、存在相容金属片及运行中的研究站；形成过程按站方说法约三年。",
+      "the_price_recoil": "【原著】被观测、被指令干预；样本认知秘密可能触发灭口。未选中旁观者不适用该触发。【改编】先进入锁定倒计时，下一轮才可能遭严重伤害；此预警窗口为可玩性改编",
+      "canonical_counter": "【testimony】原作研究结束时由站方移除金属片并关闭基地；未给出安全的自行手术万能解法。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 7,
+        "recoil": "先进入锁定倒计时，下一轮才可能遭严重伤害；此预警窗口为可玩性改编",
+        "three_rights": {
+          "body": "天人脑内金属片与研究站",
+          "key": "预先已被选定、存在相容金属片及运行中的研究站；形成过程按站方说法约三年。",
+          "price": "被观测、被指令干预；样本认知秘密可能触发灭口。未选中旁观者不适用该触发。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "maxian_blood_link",
+      "name": "玛仙血魇的供血关联",
+      "public_name": "血魇事件",
+      "source_book": "原振侠系列/23.血的诱惑.txt",
+      "source_books": [
+        "原振侠系列/23.血的诱惑.txt",
+        "原振侠系列/24.催命情圣.txt"
+      ],
+      "canonical": {
+        "surface": "强大的异星来客似乎可被巫术直接压倒。",
+        "mechanism": "玛仙利用李固已接受原振侠血液的关联施术，效果是抑制脑活动而非迫使他爱或服从某人。",
+        "mechanism_status": "mixed",
+        "activation": "需真实受血关系、相应血液和玛仙的施术能力；不能用陌生人的任意头发代替。",
+        "price": "解除自己所施血魇可使反噬落在自己身上，造成严重意识损害。",
+        "counter": "原作由玛仙主动解除；没有银鱼波长、镜面反射或毁掉血珀就自动降阶的依据。",
+        "availability": "只装配血魇阶段；不得把后来恢复增强阶段和反噬失能阶段叠加。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [
+        "yuanzhenxia_ma_xian"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "原振侠系列/23.血的诱惑.txt",
+          "start_line": 3087,
+          "end_line": 3103,
+          "supports": "玛仙不能改变心意而可抑制脑活动；李固接受原振侠血液构成施术关联。",
+          "epistemic_status": "testimony",
+          "source_sha256": "f7a54cdadd0da883051bf8eeeae0bfaf8d1f28917fc0834e1ed709ce61d7d99a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/23.血的诱惑.txt",
+          "start_line": 3133,
+          "end_line": 3153,
+          "supports": "会议流产及李固丧失智力的后果。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "f7a54cdadd0da883051bf8eeeae0bfaf8d1f28917fc0834e1ed709ce61d7d99a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/24.催命情圣.txt",
+          "start_line": 7649,
+          "end_line": 7687,
+          "supports": "李固血魇被解除后玛仙出现相同失智表现。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "5f959de7f4e1c40cda564c704745151d4e29a1a2c6b663a69e8bfc558cd332cf",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/24.催命情圣.txt",
+          "start_line": 8137,
+          "end_line": 8157,
+          "supports": "爱神带走玛仙寻求治疗，并未给出现场即愈办法。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "5f959de7f4e1c40cda564c704745151d4e29a1a2c6b663a69e8bfc558cd332cf",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "原振侠系列/23.血的诱惑.txt:L3087-L3103; 原振侠系列/23.血的诱惑.txt:L3133-L3153; 原振侠系列/24.催命情圣.txt:L7649-L7687; 原振侠系列/24.催命情圣.txt:L8137-L8157",
+      "id": "artifact_maxian_blood_link",
+      "category": "occult_curse",
+      "recommended_heat": 7,
+      "surface_phenomenon_believes": "强大的异星来客似乎可被巫术直接压倒。",
+      "true_mechanism_knows": "【证据层级：mixed；非一律确证】玛仙利用李固已接受原振侠血液的关联施术，效果是抑制脑活动而非迫使他爱或服从某人。",
+      "the_key_activation": "需真实受血关系、相应血液和玛仙的施术能力；不能用陌生人的任意头发代替。",
+      "the_price_recoil": "【原著】解除自己所施血魇可使反噬落在自己身上，造成严重意识损害。【改编】代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+      "canonical_counter": "【textual_fact】原作由玛仙主动解除；没有银鱼波长、镜面反射或毁掉血珀就自动降阶的依据。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 7,
+        "recoil": "代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+        "three_rights": {
+          "body": "玛仙血魇的供血关联",
+          "key": "需真实受血关系、相应血液和玛仙的施术能力；不能用陌生人的任意头发代替。",
+          "price": "解除自己所施血魇可使反噬落在自己身上，造成严重意识损害。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "thought_instrument",
+      "name": "阴间思想仪及残缺部件",
+      "public_name": "阴间的部件争夺",
+      "source_book": "卫斯理系列/102将来.txt",
+      "source_books": [
+        "卫斯理系列/102将来.txt",
+        "卫斯理系列/103改变.txt",
+        "卫斯理系列/145只限老友.txt"
+      ],
+      "canonical": {
+        "surface": "阴间主人似乎全知，拿回一个零件就能完全恢复所有能力。",
+        "mechanism": "思想仪由大量组件组成，功能取决于组合完整度；一至三号不能用现有仪器读出四号密码。",
+        "mechanism_status": "testimony",
+        "activation": "实际组件、接口与操作者；四号不是默认与其余三号共享立场和资源。",
+        "price": "追索组件涉及控制他人思想的权力；缺件与停机并不能用角色名补足。",
+        "counter": "特殊电离子层形成其感知死角；这只针对本体系，不是全宇宙反精神屏障。",
+        "availability": "《只限老友》看到思想仪停摆，灵魂去向未明；历史运行态必须明确。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [
+        "weisili_yin_1"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/102将来.txt",
+          "start_line": 1782,
+          "end_line": 1829,
+          "supports": "组件可以独立运行，读地球人与读同类要求不同，缺失超过四分之一造成限制。",
+          "epistemic_status": "testimony",
+          "source_sha256": "1084f9541690fd96c10731cd079b8419ed309a760377021d7a010a404d315122",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/102将来.txt",
+          "start_line": 1845,
+          "end_line": 1884,
+          "supports": "四号带走组件；模拟声音不等于知道脑内密码。",
+          "epistemic_status": "testimony",
+          "source_sha256": "1084f9541690fd96c10731cd079b8419ed309a760377021d7a010a404d315122",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/103改变.txt",
+          "start_line": 2735,
+          "end_line": 2748,
+          "supports": "海中与帐顶装置的特殊电离子层阻隔一至四号及狄可探知。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "172333a4ef1943dd3e24d1c3d12d9ce968a64b1274fbe6bba2cfc556fa6f2a2c",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/145只限老友.txt",
+          "start_line": 1297,
+          "end_line": 1314,
+          "supports": "关键部件与灵魂误听、思想仪停摆。",
+          "epistemic_status": "mixed",
+          "source_sha256": "be769564ff1e1450e11a488c6a80d989d15c358e0f7c687f7ab7482107021adf",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/145只限老友.txt",
+          "start_line": 1328,
+          "end_line": 1337,
+          "supports": "灵魂亮点消失，其最终去向只有猜测。",
+          "epistemic_status": "unresolved",
+          "source_sha256": "be769564ff1e1450e11a488c6a80d989d15c358e0f7c687f7ab7482107021adf",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/102将来.txt:L1782-L1829; 卫斯理系列/102将来.txt:L1845-L1884; 卫斯理系列/103改变.txt:L2735-L2748; 卫斯理系列/145只限老友.txt:L1297-L1314; 卫斯理系列/145只限老友.txt:L1328-L1337",
+      "id": "artifact_thought_instrument",
+      "category": "alien_device",
+      "recommended_heat": 7,
+      "surface_phenomenon_believes": "阴间主人似乎全知，拿回一个零件就能完全恢复所有能力。",
+      "true_mechanism_knows": "【证据层级：testimony；非一律确证】思想仪由大量组件组成，功能取决于组合完整度；一至三号不能用现有仪器读出四号密码。",
+      "the_key_activation": "实际组件、接口与操作者；四号不是默认与其余三号共享立场和资源。",
+      "the_price_recoil": "【原著】追索组件涉及控制他人思想的权力；缺件与停机并不能用角色名补足。【改编】代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+      "canonical_counter": "【textual_fact】特殊电离子层形成其感知死角；这只针对本体系，不是全宇宙反精神屏障。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 7,
+        "recoil": "代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+        "three_rights": {
+          "body": "阴间思想仪及残缺部件",
+          "key": "实际组件、接口与操作者；四号不是默认与其余三号共享立场和资源。",
+          "price": "追索组件涉及控制他人思想的权力；缺件与停机并不能用角色名补足。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "ion_blind_spot",
+      "name": "思想仪感知死角装置",
+      "public_name": "帐篷中的秘密会谈",
+      "source_book": "卫斯理系列/103改变.txt",
+      "source_books": [
+        "卫斯理系列/103改变.txt"
+      ],
+      "canonical": {
+        "surface": "在普通地点无从保密的谈话，在帐篷内却可进行。",
+        "mechanism": "特殊电离子层阻隔特定思想仪体系的探知，海底陵墓也因此隐藏。",
+        "mechanism_status": "textual_fact",
+        "activation": "需要本案帐顶装置或已确认的相应海中层；普通海水不自动满足。",
+        "price": "屏障也可能遮断己方想依赖的同源探知，不保证阻止实体进入。",
+        "counter": "到屏障外联系或核查装置；未展示远程关闭他人屏障的通用方法。",
+        "availability": "按装置实际可取得的场景部署，不无限复制。",
+        "unknowns": [],
+        "counter_status": "derived_strategy"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/103改变.txt",
+          "start_line": 2735,
+          "end_line": 2748,
+          "supports": "海中电离子层是死角，帐顶装置可产生同类屏障。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "172333a4ef1943dd3e24d1c3d12d9ce968a64b1274fbe6bba2cfc556fa6f2a2c",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/103改变.txt:L2735-L2748",
+      "id": "artifact_ion_blind_spot",
+      "category": "alien_device",
+      "recommended_heat": 6,
+      "surface_phenomenon_believes": "在普通地点无从保密的谈话，在帐篷内却可进行。",
+      "true_mechanism_knows": "【证据层级：textual_fact；非一律确证】特殊电离子层阻隔特定思想仪体系的探知，海底陵墓也因此隐藏。",
+      "the_key_activation": "需要本案帐顶装置或已确认的相应海中层；普通海水不自动满足。",
+      "the_price_recoil": "【原著】屏障也可能遮断己方想依赖的同源探知，不保证阻止实体进入。【改编】行动失败且消耗本次调查机会；不制造无依据的肉身伤害",
+      "canonical_counter": "【derived_strategy】到屏障外联系或核查装置；未展示远程关闭他人屏障的通用方法。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 6,
+        "recoil": "行动失败且消耗本次调查机会；不制造无依据的肉身伤害",
+        "three_rights": {
+          "body": "思想仪感知死角装置",
+          "key": "需要本案帐顶装置或已确认的相应海中层；普通海水不自动满足。",
+          "price": "屏障也可能遮断己方想依赖的同源探知，不保证阻止实体进入。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "deathwatch",
+      "name": "死光表及制作图样",
+      "public_name": "死光表",
+      "source_book": "木兰花全集/01巧夺死光表.txt",
+      "source_books": [
+        "木兰花全集/01巧夺死光表.txt"
+      ],
+      "canonical": {
+        "surface": "一只便携腕表和图样可带来巨额交易利益。",
+        "mechanism": "它是人类技术武器与制造资料的组合；拿到箱子不等于得到仍可用的机件。",
+        "mechanism_status": "textual_fact",
+        "activation": "需要完整实物与操作条件；复制还需未损坏图样及制造能力。",
+        "price": "武器扩散与交易灭口风险；辐射危害说法须与实际测试分开。",
+        "counter": "木兰花拆毁机件并破坏图样，使本次交易失去目标。",
+        "availability": "本案唯一交付的实物与图样已毁，不能默认终局仍完整。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "木兰花全集/01巧夺死光表.txt",
+          "start_line": 3158,
+          "end_line": 3158,
+          "supports": "持有人声称缺防护零件的试验有辐射风险；为人物说法。",
+          "epistemic_status": "testimony",
+          "source_sha256": "d17086adf4b01549f1ae00a598a20b5a19d9f5d0dfa3d6708f027929925a6171",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "木兰花全集/01巧夺死光表.txt",
+          "start_line": 3214,
+          "end_line": 3224,
+          "supports": "木兰花拆毁内部机件并划毁图样，放弃奖金。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "d17086adf4b01549f1ae00a598a20b5a19d9f5d0dfa3d6708f027929925a6171",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "木兰花全集/01巧夺死光表.txt:L3158-L3158; 木兰花全集/01巧夺死光表.txt:L3214-L3224",
+      "id": "artifact_deathwatch",
+      "category": "human_technology",
+      "recommended_heat": 6,
+      "surface_phenomenon_believes": "一只便携腕表和图样可带来巨额交易利益。",
+      "true_mechanism_knows": "【证据层级：textual_fact；非一律确证】它是人类技术武器与制造资料的组合；拿到箱子不等于得到仍可用的机件。",
+      "the_key_activation": "需要完整实物与操作条件；复制还需未损坏图样及制造能力。",
+      "the_price_recoil": "【原著】武器扩散与交易灭口风险；辐射危害说法须与实际测试分开。【改编】代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+      "canonical_counter": "【textual_fact】木兰花拆毁机件并破坏图样，使本次交易失去目标。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 6,
+        "recoil": "代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+        "three_rights": {
+          "body": "死光表及制作图样",
+          "key": "需要完整实物与操作条件；复制还需未损坏图样及制造能力。",
+          "price": "武器扩散与交易灭口风险；辐射危害说法须与实际测试分开。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "bloodshadow_network",
+      "name": "梅乐的腕表与身份掩护",
+      "public_name": "血影掌疑案",
+      "source_book": "木兰花全集/26神秘血影掌.txt",
+      "source_books": [
+        "木兰花全集/26神秘血影掌.txt"
+      ],
+      "canonical": {
+        "surface": "血影掌像是来去无踪、无法识别的神秘敌人。",
+        "mechanism": "案件指向梅乐的机构掩护和有限器械，指纹及通信证据能穿透外观伪装；不是超自然血影。",
+        "mechanism_status": "mixed",
+        "activation": "必须实际布置手表、人员与通信；不能给未佩戴者隔空施毒。",
+        "price": "下属可能被作为灭口对象，组织权威也依赖保密与服从。",
+        "counter": "指纹、电话和现场实物构成揭露链；不能把识破伪装写成全体自动败退。",
+        "availability": "选择身份尚未揭露的历史阶段；不把已瓦解组织当作终局随身能力。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [
+        "mulanhua_bloodshadow"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "木兰花全集/26神秘血影掌.txt",
+          "start_line": 196,
+          "end_line": 206,
+          "supports": "腕表有致命尖刺，无线电控制部分是木兰花推断。",
+          "epistemic_status": "mixed",
+          "source_sha256": "c7d3c8dc45ab21a921de84a0507261f10b9e7afdf2c918c8013f739c3ebfe1c7",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "木兰花全集/26神秘血影掌.txt",
+          "start_line": 2144,
+          "end_line": 2192,
+          "supports": "指纹比对和电话内容揭示血影掌为梅乐准将，地位掩护组织。",
+          "epistemic_status": "mixed",
+          "source_sha256": "c7d3c8dc45ab21a921de84a0507261f10b9e7afdf2c918c8013f739c3ebfe1c7",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "木兰花全集/26神秘血影掌.txt:L196-L206; 木兰花全集/26神秘血影掌.txt:L2144-L2192",
+      "id": "artifact_bloodshadow_network",
+      "category": "human_technology",
+      "recommended_heat": 5,
+      "surface_phenomenon_believes": "血影掌像是来去无踪、无法识别的神秘敌人。",
+      "true_mechanism_knows": "【证据层级：mixed；非一律确证】案件指向梅乐的机构掩护和有限器械，指纹及通信证据能穿透外观伪装；不是超自然血影。",
+      "the_key_activation": "必须实际布置手表、人员与通信；不能给未佩戴者隔空施毒。",
+      "the_price_recoil": "【原著】下属可能被作为灭口对象，组织权威也依赖保密与服从。【改编】代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+      "canonical_counter": "【textual_fact】指纹、电话和现场实物构成揭露链；不能把识破伪装写成全体自动败退。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 5,
+        "recoil": "代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+        "three_rights": {
+          "body": "梅乐的腕表与身份掩护",
+          "key": "必须实际布置手表、人员与通信；不能给未佩戴者隔空施毒。",
+          "price": "下属可能被作为灭口对象，组织权威也依赖保密与服从。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "sea_glass_box",
+      "name": "水中宝盒的无色气体",
+      "public_name": "水中宝盒",
+      "source_book": "神探高斯系列/22水中宝盒.txt",
+      "source_books": [
+        "神探高斯系列/22水中宝盒.txt"
+      ],
+      "canonical": {
+        "surface": "透明盒中看不见东西，似乎只是空盒。",
+        "mechanism": "李玉芳称盒中无色无臭气体有巨大杀伤危险；这是小说中的警务说明，未提供可验证现实原理。",
+        "mechanism_status": "testimony",
+        "activation": "必须有本案密封盒与其内容物，开启会破坏隔离；不推导现实配方。",
+        "price": "看不见的内容使随意开盒或拿外观估价尤其危险。",
+        "counter": "保持密封并交由原案警方接管；没有原著现场中和法。",
+        "availability": "结尾已由警方接收，不能默认仍在海底待捡。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "神探高斯系列/22水中宝盒.txt",
+          "start_line": 649,
+          "end_line": 666,
+          "supports": "李玉芳说明盒内不是空无，警方以危险物接收；威力为其口述。",
+          "epistemic_status": "testimony",
+          "source_sha256": "97fab48bdf2d9f49edfd0208732833362b9ecb5ff9915a654792309ca95d1257",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "神探高斯系列/22水中宝盒.txt:L649-L666",
+      "id": "artifact_sea_glass_box",
+      "category": "human_technology",
+      "recommended_heat": 5,
+      "surface_phenomenon_believes": "透明盒中看不见东西，似乎只是空盒。",
+      "true_mechanism_knows": "【证据层级：testimony；非一律确证】李玉芳称盒中无色无臭气体有巨大杀伤危险；这是小说中的警务说明，未提供可验证现实原理。",
+      "the_key_activation": "必须有本案密封盒与其内容物，开启会破坏隔离；不推导现实配方。",
+      "the_price_recoil": "【原著】看不见的内容使随意开盒或拿外观估价尤其危险。【改编】区域进入污染倒计时并要求撤离，实际数值为改编",
+      "canonical_counter": "【textual_fact】保持密封并交由原案警方接管；没有原著现场中和法。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 5,
+        "recoil": "区域进入污染倒计时并要求撤离，实际数值为改编",
+        "three_rights": {
+          "body": "水中宝盒的无色气体",
+          "key": "必须有本案密封盒与其内容物，开启会破坏隔离；不推导现实配方。",
+          "price": "看不见的内容使随意开盒或拿外观估价尤其危险。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "memory_camera",
+      "name": "追忆摄影机与微晶信息链",
+      "public_name": "微晶之密",
+      "source_book": "浪子高达系列/微晶之密.txt",
+      "source_books": [
+        "浪子高达系列/微晶之密.txt"
+      ],
+      "canonical": {
+        "surface": "拿到微晶片就仿佛拥有所有异星秘密。",
+        "mechanism": "信息载体、读出显示器、研发者及原摄影机是不同环节；摄影机可以取得过去景象但依赖设备。",
+        "mechanism_status": "textual_fact",
+        "activation": "需要相应载体与显示器；采集过去画面还要摄影机、研究知识与现场条件。",
+        "price": "研究成就伴随拘禁和被强迫销毁成果；追索信息也可能令研究者再次失去自由。",
+        "counter": "保护人与载体、核验读出条件；不把一枚晶片当作任意地点任意时间的全知法术。",
+        "availability": "原摄影机曾被迫销毁；原器、后来载体与显示器的阶段不得合并成无限可用套装。",
+        "unknowns": [],
+        "counter_status": "derived_strategy"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "浪子高达系列/微晶之密.txt",
+          "start_line": 3729,
+          "end_line": 3759,
+          "supports": "追忆摄影机从过去几秒发展到数年前场景；依赖特殊放映机，博士被留在基地。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "10a68521da61edb10f16332fc9f39fe67bf0d025deaa0c448e7409e6b7c6f84e",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "浪子高达系列/微晶之密.txt",
+          "start_line": 3761,
+          "end_line": 3791,
+          "supports": "博士回摄发现洗脑植入及强迫劳动秘密，随后被逼销毁摄影机和底片。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "10a68521da61edb10f16332fc9f39fe67bf0d025deaa0c448e7409e6b7c6f84e",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "浪子高达系列/微晶之密.txt",
+          "start_line": 7247,
+          "end_line": 7253,
+          "supports": "博士只能制造显示器，缺微晶片则不能读取本次内容。",
+          "epistemic_status": "testimony",
+          "source_sha256": "10a68521da61edb10f16332fc9f39fe67bf0d025deaa0c448e7409e6b7c6f84e",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "浪子高达系列/微晶之密.txt:L3729-L3759; 浪子高达系列/微晶之密.txt:L3761-L3791; 浪子高达系列/微晶之密.txt:L7247-L7253",
+      "id": "artifact_memory_camera",
+      "category": "human_alien_hybrid_technology",
+      "recommended_heat": 6,
+      "surface_phenomenon_believes": "拿到微晶片就仿佛拥有所有异星秘密。",
+      "true_mechanism_knows": "【证据层级：textual_fact；非一律确证】信息载体、读出显示器、研发者及原摄影机是不同环节；摄影机可以取得过去景象但依赖设备。",
+      "the_key_activation": "需要相应载体与显示器；采集过去画面还要摄影机、研究知识与现场条件。",
+      "the_price_recoil": "【原著】研究成就伴随拘禁和被强迫销毁成果；追索信息也可能令研究者再次失去自由。【改编】代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+      "canonical_counter": "【derived_strategy】保护人与载体、核验读出条件；不把一枚晶片当作任意地点任意时间的全知法术。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 6,
+        "recoil": "代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+        "three_rights": {
+          "body": "追忆摄影机与微晶信息链",
+          "key": "需要相应载体与显示器；采集过去画面还要摄影机、研究知识与现场条件。",
+          "price": "研究成就伴随拘禁和被强迫销毁成果；追索信息也可能令研究者再次失去自由。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "marine_microbes",
+      "name": "海异智慧微生物群",
+      "public_name": "海上异事",
+      "source_book": "原振侠系列/04.海异.txt",
+      "source_books": [
+        "原振侠系列/04.海异.txt"
+      ],
+      "canonical": {
+        "surface": "海难、断手与视听异常像是互不相干的鬼怪事件。",
+        "mechanism": "李邦殊将它们联系到有组织意志的微生物群；其说明不等于现实生物学定律。",
+        "mechanism_status": "testimony",
+        "activation": "需要本案能响应的微生物群及相应接触环境；不能指挥所有海水细菌。",
+        "price": "行动耗费群体生命；可能侵蚀身体和阻断呼吸；世界大战胜负说是人物判断。",
+        "counter": "沟通、停止敌对破坏并争取群体合作；没有原著万能抗菌药或银鱼波长克制。",
+        "availability": "本案存在警告、示范与救援，敌意须按阶段确定。",
+        "unknowns": [],
+        "counter_status": "mixed"
+      },
+      "character_ids": [
+        "yuanzhenxia_marine_microbes"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "原振侠系列/04.海异.txt",
+          "start_line": 7625,
+          "end_line": 7679,
+          "supports": "李邦殊转述水池接触引起消解及群体牺牲。",
+          "epistemic_status": "testimony",
+          "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/04.海异.txt",
+          "start_line": 7723,
+          "end_line": 7789,
+          "supports": "驱动完整肢体、阻断呼吸与视听警告的说明；尸群为想象。",
+          "epistemic_status": "mixed",
+          "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/04.海异.txt",
+          "start_line": 7811,
+          "end_line": 7813,
+          "supports": "它们组织力量送人离开，不是纯粹敌对。",
+          "epistemic_status": "testimony",
+          "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "原振侠系列/04.海异.txt:L7625-L7679; 原振侠系列/04.海异.txt:L7723-L7789; 原振侠系列/04.海异.txt:L7811-L7813",
+      "id": "artifact_marine_microbes",
+      "category": "biological_agent",
+      "recommended_heat": 7,
+      "surface_phenomenon_believes": "海难、断手与视听异常像是互不相干的鬼怪事件。",
+      "true_mechanism_knows": "【证据层级：testimony；非一律确证】李邦殊将它们联系到有组织意志的微生物群；其说明不等于现实生物学定律。",
+      "the_key_activation": "需要本案能响应的微生物群及相应接触环境；不能指挥所有海水细菌。",
+      "the_price_recoil": "【原著】行动耗费群体生命；可能侵蚀身体和阻断呼吸；世界大战胜负说是人物判断。【改编】身体异常进度一档，先保留撤离或求和行动",
+      "canonical_counter": "【mixed】沟通、停止敌对破坏并争取群体合作；没有原著万能抗菌药或银鱼波长克制。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 7,
+        "recoil": "身体异常进度一档，先保留撤离或求和行动",
+        "three_rights": {
+          "body": "海异智慧微生物群",
+          "key": "需要本案能响应的微生物群及相应接触环境；不能指挥所有海水细菌。",
+          "price": "行动耗费群体生命；可能侵蚀身体和阻断呼吸；世界大战胜负说是人物判断。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "death_blood_curse",
+      "name": "古托所受血咒",
+      "public_name": "血咒求解",
+      "source_book": "原振侠系列/03.血咒.txt",
+      "source_books": [
+        "原振侠系列/03.血咒.txt"
+      ],
+      "canonical": {
+        "surface": "找到更强巫师似乎就能解除代际血咒。",
+        "mechanism": "马特提出临终意愿、脑活动与未知能量结合的解释；它是研究假设。",
+        "mechanism_status": "hypothesis",
+        "activation": "本案施咒者及目标关联；没有任意复制临终咒术的完整流程。",
+        "price": "身体上的持续伤害与后代问题；不是玛仙的供血血魇。",
+        "counter": "原作未提供可靠解除法；不生育是当事人选择而非已经消除咒术，截肢建议也不确定。",
+        "availability": "古托接受继续研究，保留问题未决状态。",
+        "unknowns": [],
+        "counter_status": "unresolved"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "原振侠系列/03.血咒.txt",
+          "start_line": 4455,
+          "end_line": 4487,
+          "supports": "马特把未知能量与脑活动作为假设；断腿是否止咒也明确不肯定。",
+          "epistemic_status": "hypothesis",
+          "source_sha256": "d0dc5b5244fcb4924e841597258f83e381b903c52dd845d7ac1cdac2f59e9809",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/03.血咒.txt",
+          "start_line": 4493,
+          "end_line": 4507,
+          "supports": "求研究与不生育的选择；未有可靠消咒法。",
+          "epistemic_status": "mixed",
+          "source_sha256": "d0dc5b5244fcb4924e841597258f83e381b903c52dd845d7ac1cdac2f59e9809",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "原振侠系列/03.血咒.txt:L4455-L4487; 原振侠系列/03.血咒.txt:L4493-L4507",
+      "id": "artifact_death_blood_curse",
+      "category": "occult_curse",
+      "recommended_heat": 5,
+      "surface_phenomenon_believes": "找到更强巫师似乎就能解除代际血咒。",
+      "true_mechanism_knows": "【证据层级：hypothesis；非一律确证】马特提出临终意愿、脑活动与未知能量结合的解释；它是研究假设。",
+      "the_key_activation": "本案施咒者及目标关联；没有任意复制临终咒术的完整流程。",
+      "the_price_recoil": "【原著】身体上的持续伤害与后代问题；不是玛仙的供血血魇。【改编】代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+      "canonical_counter": "【unresolved】原作未提供可靠解除法；不生育是当事人选择而非已经消除咒术，截肢建议也不确定。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 5,
+        "recoil": "代价以原著记录为边界；若要数值化，主持人须事先说明本场条件，不能补造治愈或必杀效果。",
+        "three_rights": {
+          "body": "古托所受血咒",
+          "key": "本案施咒者及目标关联；没有任意复制临终咒术的完整流程。",
+          "price": "身体上的持续伤害与后代问题；不是玛仙的供血血魇。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    },
+    {
+      "dossier_id": "spirit_chair",
+      "name": "灵椅与石台组合",
+      "public_name": "灵椅争夺",
+      "source_book": "原振侠系列/06.灵椅.txt",
+      "source_books": [
+        "原振侠系列/06.灵椅.txt"
+      ],
+      "canonical": {
+        "surface": "坐上灵椅就会成为至高统治者。",
+        "mechanism": "石台与椅子需要组合；来自天庭的权力许诺可能把受益人变成外部力量的工具，来源解释仍属人物推论。",
+        "mechanism_status": "mixed",
+        "activation": "组合实物；已有权位是黄绢给出的资格条件，不能自动推广为无条件世界法则。",
+        "price": "追求权力者可能失去自主，获得权力不代表脱离幕后控制。",
+        "counter": "阻止实物组合或拒绝承诺是条件性应对；没有已展示的万能驱魔流程。",
+        "availability": "部署前声明所选组合阶段，不保证椅子单独出现即可运作。",
+        "unknowns": [],
+        "counter_status": "derived_strategy"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "原振侠系列/06.灵椅.txt",
+          "start_line": 9067,
+          "end_line": 9107,
+          "supports": "天庭承诺与主人公对代理统治的解释。",
+          "epistemic_status": "mixed",
+          "source_sha256": "5b2790408f171f8dde0941799afdfd913457ffb2f7fe6345348f3b5bc8ee99f7",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/06.灵椅.txt",
+          "start_line": 9137,
+          "end_line": 9195,
+          "supports": "黄绢主张已有权位者才能受益，椅台组合及视而不见的说法。",
+          "epistemic_status": "mixed",
+          "source_sha256": "5b2790408f171f8dde0941799afdfd913457ffb2f7fe6345348f3b5bc8ee99f7",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "原振侠系列/06.灵椅.txt:L9067-L9107; 原振侠系列/06.灵椅.txt:L9137-L9195",
+      "id": "artifact_spirit_chair",
+      "category": "alien_device",
+      "recommended_heat": 6,
+      "surface_phenomenon_believes": "坐上灵椅就会成为至高统治者。",
+      "true_mechanism_knows": "【证据层级：mixed；非一律确证】石台与椅子需要组合；来自天庭的权力许诺可能把受益人变成外部力量的工具，来源解释仍属人物推论。",
+      "the_key_activation": "组合实物；已有权位是黄绢给出的资格条件，不能自动推广为无条件世界法则。",
+      "the_price_recoil": "【原著】追求权力者可能失去自主，获得权力不代表脱离幕后控制。【改编】漏过一次物件定位；可用他人证言与实物位置交叉核验",
+      "canonical_counter": "【derived_strategy】阻止实物组合或拒绝承诺是条件性应对；没有已展示的万能驱魔流程。",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "heat": 6,
+        "recoil": "漏过一次物件定位；可用他人证言与实物位置交叉核验",
+        "three_rights": {
+          "body": "灵椅与石台组合",
+          "key": "组合实物；已有权位是黄绢给出的资格条件，不能自动推广为无条件世界法则。",
+          "price": "追求权力者可能失去自主，获得权力不代表脱离幕后控制。",
+          "ownership_assignment": "本体持有者、掌握条件者与承担代价者由场景分别分配；这种权利分配是改编。"
+        }
+      }
+    }
+  ]
+}

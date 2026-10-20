@@ -1,0 +1,59 @@
+{
+  "book_id": "book_6b37f675c3ee",
+  "source_book": "木兰花全集/46死神殿.txt",
+  "title": "死神殿",
+  "source_sha256": "b9077ad827b01b4f81b20bd44436122431d2cf9e173468708bed3a084f274b29",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        136,
+        328,
+        362,
+        532,
+        1354,
+        1358,
+        1700,
+        2578
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1562
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        464,
+        906,
+        1096,
+        1412,
+        1766,
+        2380,
+        2448,
+        2514
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        504,
+        1080,
+        1170,
+        1694,
+        1852,
+        1884,
+        1920,
+        2548
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

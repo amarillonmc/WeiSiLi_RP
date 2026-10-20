@@ -1,0 +1,66 @@
+{
+  "book_id": "book_2d3443649105",
+  "source_book": "木兰花全集/44猎头禁地.txt",
+  "title": "猎头禁地",
+  "source_sha256": "a9fc87232e96b38fbcbe063d5dc0a23df73e5029e7387c0ae1dc6c2a4656b133",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        448,
+        1074,
+        1226,
+        2104,
+        2126,
+        2152,
+        2232,
+        2540
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        1854,
+        2536,
+        2538,
+        2540,
+        2614,
+        2618,
+        2676,
+        2692
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        44,
+        752,
+        896,
+        1126,
+        1820,
+        2118,
+        2174,
+        2458
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        2,
+        180,
+        346,
+        1494,
+        1504,
+        2094,
+        2342,
+        2742
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

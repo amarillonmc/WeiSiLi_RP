@@ -1,0 +1,59 @@
+{
+  "book_id": "book_15495f0e72b6",
+  "source_book": "木兰花全集/11冰川亡魂.txt",
+  "title": "冰川亡魂",
+  "source_sha256": "4fe65ec6ff18196191085fb0c6e5acdf4bd76752affa5622a3ca5688f73df881",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        270,
+        728,
+        750,
+        900,
+        1484,
+        1486,
+        1508
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        1162,
+        1248
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        62,
+        514,
+        622,
+        740,
+        776,
+        880,
+        1106,
+        2588
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 30,
+      "sample_line_numbers": [
+        112,
+        380,
+        574,
+        596,
+        996,
+        1166,
+        1498,
+        2524
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,66 @@
+{
+  "book_id": "book_31c94dd237eb",
+  "source_book": "非人协会系列/04大鹰.txt",
+  "title": "大鹰",
+  "source_sha256": "453889f6ddc32f4341f839ccf197f953a5a7eef400ba87cd369058f2739e1d50",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        221
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        35
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        54,
+        88,
+        89,
+        260
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        9,
+        13,
+        96,
+        161,
+        263,
+        507,
+        653,
+        658
+      ]
+    }
+  },
+  "module_ids": [
+    "hazard_great_eagle",
+    "boss_great_eagle"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "great_eagle"
+  ],
+  "evidence": [
+    {
+      "path": "非人协会系列/04大鹰.txt",
+      "start_line": 612,
+      "end_line": 625,
+      "supports": "大鹰被绳索套住后获释，翼扫人群、抓金维升空并运送。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "453889f6ddc32f4341f839ccf197f953a5a7eef400ba87cd369058f2739e1d50",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

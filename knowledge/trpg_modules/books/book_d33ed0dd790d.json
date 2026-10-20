@@ -1,0 +1,56 @@
+{
+  "book_id": "book_d33ed0dd790d",
+  "source_book": "卫斯理系列/092从阴间来.txt",
+  "title": "从阴间来",
+  "source_sha256": "6cac18241c95a0a573009a4be1d1780005950a8c61cdd64655d6a45a79242fd8",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 33,
+      "sample_line_numbers": [
+        843,
+        1498,
+        2024,
+        2035,
+        2045,
+        2122,
+        2185,
+        2546
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        65,
+        374,
+        461,
+        934,
+        1909,
+        2011,
+        2288
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 29,
+      "sample_line_numbers": [
+        113,
+        1260,
+        1397,
+        1504,
+        1725,
+        1805,
+        2065,
+        2497
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

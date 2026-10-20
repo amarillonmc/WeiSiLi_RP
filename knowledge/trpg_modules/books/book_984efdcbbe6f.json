@@ -1,0 +1,63 @@
+{
+  "book_id": "book_984efdcbbe6f",
+  "source_book": "木兰花全集/53电网火花.txt",
+  "title": "电网火花",
+  "source_sha256": "fac71c1fd44f5bdf45f1974cb199821eed86f6e7110ea1f6a9f9fca6a3e1c893",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        120,
+        384,
+        484,
+        1406,
+        1530,
+        1852,
+        1914,
+        1980
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        390,
+        956,
+        1646,
+        2242,
+        2334
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 31,
+      "sample_line_numbers": [
+        26,
+        266,
+        588,
+        664,
+        992,
+        1334,
+        1910,
+        2410
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        430,
+        520,
+        1086,
+        1114,
+        1558,
+        1698,
+        1818,
+        2308
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

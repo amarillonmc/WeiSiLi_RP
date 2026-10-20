@@ -1,0 +1,43 @@
+{
+  "book_id": "book_35440df21d78",
+  "source_book": "卫斯理系列/065（命运附篇）十七年.txt",
+  "title": "（命运附篇）十七年",
+  "source_sha256": "737a131a903e78d950a6c976f141bbe0153c21b4eafe65959558b3167dea9cab",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        467,
+        668,
+        675
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        41,
+        328,
+        551,
+        646,
+        822,
+        872,
+        876,
+        1020
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

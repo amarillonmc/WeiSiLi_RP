@@ -1,0 +1,59 @@
+{
+  "book_id": "book_0b0a0d1dcca5",
+  "source_book": "木兰花全集/30玻璃伪钞模.txt",
+  "title": "玻璃伪钞模",
+  "source_sha256": "714654f9a7d146204772a84d705d7f74642cf0e959f71462b158ac928f384813",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        202,
+        236,
+        656,
+        1148,
+        1494,
+        2036,
+        2602,
+        2664
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1096
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        240,
+        950,
+        1052,
+        1106,
+        1162,
+        1650,
+        1850,
+        2672
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        164,
+        308,
+        490,
+        576,
+        600,
+        1162,
+        1704,
+        2668
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

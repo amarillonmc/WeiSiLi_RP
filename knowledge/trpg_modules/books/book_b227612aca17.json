@@ -1,0 +1,57 @@
+{
+  "book_id": "book_b227612aca17",
+  "source_book": "年轻人/05大宝藏.txt",
+  "title": "大宝藏",
+  "source_sha256": "ec0db252e0eaaa17cc950b33722a61b3d240b0f50e7e9bc3098005cdb93e6fde",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        117,
+        190,
+        191,
+        362,
+        434,
+        492,
+        692,
+        758
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        193,
+        455,
+        618,
+        782,
+        783
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        338,
+        455
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        145,
+        505,
+        517,
+        532,
+        556,
+        772,
+        804,
+        938
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,61 @@
+{
+  "book_id": "book_8f5e88561a93",
+  "source_book": "卫斯理系列/109爆炸.txt",
+  "title": "爆炸",
+  "source_sha256": "484c26b72bc83b2b7647d758eefbf9b9d9082e062898fb835a5b7aaadba37abe",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        109,
+        180,
+        275,
+        337,
+        954,
+        1082,
+        2105,
+        2402
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        247,
+        702,
+        1592
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 21,
+      "sample_line_numbers": [
+        38,
+        127,
+        166,
+        599,
+        691,
+        771,
+        1684,
+        2107
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 50,
+      "sample_line_numbers": [
+        13,
+        530,
+        1393,
+        1777,
+        1953,
+        2002,
+        2593,
+        2711
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

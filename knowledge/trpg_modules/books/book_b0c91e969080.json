@@ -1,0 +1,64 @@
+{
+  "book_id": "book_b0c91e969080",
+  "source_book": "卫斯理系列/016奇门.txt",
+  "title": "奇门",
+  "source_sha256": "22f609669f4f6bdf4910f932fdabe592b97b28d5eebbceecc5147d808e4b0896",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 64,
+      "sample_line_numbers": [
+        44,
+        920,
+        2065,
+        2126,
+        2214,
+        2302,
+        2482,
+        2774
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        249,
+        907,
+        1012,
+        1608,
+        1879,
+        2081
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        197,
+        1197,
+        1765,
+        1850,
+        2022,
+        2372,
+        2408,
+        2509
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 28,
+      "sample_line_numbers": [
+        132,
+        506,
+        747,
+        1257,
+        1268,
+        1698,
+        2627,
+        2856
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

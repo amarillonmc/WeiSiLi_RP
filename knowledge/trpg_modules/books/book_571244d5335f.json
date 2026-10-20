@@ -1,0 +1,63 @@
+{
+  "book_id": "book_571244d5335f",
+  "source_book": "原振侠系列/30.魂飞魄散.txt",
+  "title": "魂飞魄散",
+  "source_sha256": "6d349d5b4e41ebd3066c496f32e12ad9879394813107aa78cb84e20ad0dfcf92",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        327,
+        2621,
+        2625,
+        2791,
+        2831,
+        3363,
+        3997,
+        5777
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        19,
+        35,
+        635,
+        2539,
+        6087
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        3631,
+        6795,
+        6803,
+        6841,
+        6885,
+        6907,
+        7067,
+        7145
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 32,
+      "sample_line_numbers": [
+        1143,
+        1173,
+        3001,
+        4333,
+        4427,
+        4605,
+        5417,
+        6981
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

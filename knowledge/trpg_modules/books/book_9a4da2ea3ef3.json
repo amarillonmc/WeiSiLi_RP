@@ -1,0 +1,64 @@
+{
+  "book_id": "book_9a4da2ea3ef3",
+  "source_book": "卫斯理系列/125成精变人.txt",
+  "title": "成精变人",
+  "source_sha256": "2b9b3fdfe2b26cbfa394ffc551b1591152549e105edae0836c75b2221dc68f7f",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 54,
+      "sample_line_numbers": [
+        41,
+        173,
+        1013,
+        1400,
+        1913,
+        1985,
+        2393,
+        2678
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        334,
+        379,
+        381,
+        432,
+        714,
+        720
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 37,
+      "sample_line_numbers": [
+        39,
+        371,
+        416,
+        871,
+        1225,
+        1934,
+        1954,
+        2512
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 21,
+      "sample_line_numbers": [
+        683,
+        1314,
+        1794,
+        1878,
+        1881,
+        1963,
+        2474,
+        2643
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

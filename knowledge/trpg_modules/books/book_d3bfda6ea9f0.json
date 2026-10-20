@@ -1,0 +1,61 @@
+{
+  "book_id": "book_d3bfda6ea9f0",
+  "source_book": "木兰花全集/10电眼怪客.txt",
+  "title": "电眼怪客",
+  "source_sha256": "a2bf5c2f598b724f3e3673ea9fa39083bff4aa41649a54d9386752044306ee99",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        40,
+        206,
+        384,
+        882,
+        1770,
+        1786,
+        2270,
+        2578
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        2140,
+        2454,
+        2464
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        234,
+        416,
+        598,
+        1322,
+        1768,
+        2168,
+        2266,
+        2596
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        270,
+        446,
+        632,
+        1116,
+        1162,
+        1374,
+        1896,
+        2308
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

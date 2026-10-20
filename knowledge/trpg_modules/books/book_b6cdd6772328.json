@@ -1,0 +1,53 @@
+{
+  "book_id": "book_b6cdd6772328",
+  "source_book": "卫斯理系列/097许愿.txt",
+  "title": "许愿",
+  "source_sha256": "ac0e2b19299dd6a5546d02076649be09587ef4d96b1b4a017357e3729380225e",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        226,
+        232,
+        392,
+        498,
+        942,
+        1379,
+        2476,
+        2672
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        36,
+        581,
+        1446,
+        2603
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        115,
+        382,
+        521,
+        657,
+        784,
+        1206,
+        1774,
+        2663
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

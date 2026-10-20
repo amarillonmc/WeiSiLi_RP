@@ -1,0 +1,60 @@
+{
+  "book_id": "book_2c323b3cec3b",
+  "source_book": "木兰花全集/14死亡爆炸网.txt",
+  "title": "死亡爆炸网",
+  "source_sha256": "7555f06269ca9bb505bca2c99eac26041dcd0e388ae785b6fd18d997e4d74528",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        94,
+        148,
+        300,
+        388,
+        474,
+        1062,
+        2676,
+        2682
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        368,
+        394,
+        916,
+        984
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        6,
+        302,
+        1244,
+        1720,
+        1864,
+        2004
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        34,
+        210,
+        1114,
+        1318,
+        1902,
+        2178,
+        2294,
+        2378
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

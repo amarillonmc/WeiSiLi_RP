@@ -1,0 +1,60 @@
+{
+  "book_id": "book_676f75bdba78",
+  "source_book": "木兰花全集/31黑暗历险.txt",
+  "title": "黑暗历险",
+  "source_sha256": "8e1ee099de53004b65e0a96eb0a6704e6f5e1ae37b98037acc560270f611aae8",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        370,
+        852,
+        978,
+        1150,
+        1876,
+        2630,
+        2674,
+        2768
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        2154,
+        2164
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        122,
+        1032,
+        1532,
+        1914,
+        1996,
+        2070,
+        2406,
+        2722
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        76,
+        440,
+        1420,
+        1544,
+        2024,
+        2120,
+        2562,
+        2748
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

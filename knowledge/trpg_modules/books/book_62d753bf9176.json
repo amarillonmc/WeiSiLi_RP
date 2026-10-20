@@ -1,0 +1,59 @@
+{
+  "book_id": "book_62d753bf9176",
+  "source_book": "原振侠系列/14.爱神.txt",
+  "title": "爱神",
+  "source_sha256": "daaed62971df6f256e26d88a150285a98f432458dc506e31d34f345a66f2bc62",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        3535,
+        6069,
+        7497
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        683,
+        1311,
+        3819,
+        5575,
+        8015,
+        8077
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 21,
+      "sample_line_numbers": [
+        613,
+        4791,
+        5297,
+        5325,
+        5367,
+        5489,
+        5823,
+        7095
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        43,
+        1131,
+        1853,
+        3117,
+        4121,
+        4979,
+        6885,
+        8033
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

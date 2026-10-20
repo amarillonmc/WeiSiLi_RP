@@ -1,0 +1,56 @@
+{
+  "book_id": "book_1532f53d7550",
+  "source_book": "木兰花全集/49地道奇人.txt",
+  "title": "地道奇人",
+  "source_sha256": "0b0625f5a37f0ea0d92677fe333d1a6633ccc62e4d44ecfdc4bf4df32bfd1cd9",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        1176,
+        1186,
+        1734,
+        2088
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        1398,
+        1938
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        344,
+        914,
+        1292,
+        1774,
+        1782,
+        2068,
+        2128,
+        2164
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        204,
+        736,
+        1144,
+        1174,
+        1254,
+        1536,
+        1822,
+        1898
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

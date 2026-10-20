@@ -1,0 +1,66 @@
+{
+  "book_id": "book_859ed7023fbf",
+  "source_book": "卫斯理系列/066异宝.txt",
+  "title": "异宝",
+  "source_sha256": "de6ac55c30f8c89744e293294742ad8c45b5cf430c25d093748ffaa370d6fa19",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 77,
+      "sample_line_numbers": [
+        245,
+        640,
+        758,
+        1201,
+        1619,
+        2609,
+        2717,
+        2969
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        66,
+        67,
+        70,
+        72,
+        621,
+        637,
+        2053,
+        2070
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 30,
+      "sample_line_numbers": [
+        70,
+        1106,
+        1208,
+        1577,
+        2018,
+        2576,
+        2723,
+        2923
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        496,
+        658,
+        1159,
+        1372,
+        1648,
+        2594,
+        2720,
+        2853
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

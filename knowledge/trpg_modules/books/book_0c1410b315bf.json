@@ -1,0 +1,60 @@
+{
+  "book_id": "book_0c1410b315bf",
+  "source_book": "木兰花全集/21旋风神偷.txt",
+  "title": "旋风神偷",
+  "source_sha256": "cf1ef503f3bd0fedd47a1864a4dcc606b63a223c9d39f8519039553666e70e21",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        804,
+        824,
+        968,
+        1062,
+        1684,
+        1822,
+        2024,
+        2310
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        726,
+        894
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        104,
+        136,
+        530,
+        532,
+        1988,
+        1990,
+        2636,
+        2752
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 26,
+      "sample_line_numbers": [
+        234,
+        926,
+        1082,
+        1338,
+        1616,
+        1990,
+        2154,
+        2726
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

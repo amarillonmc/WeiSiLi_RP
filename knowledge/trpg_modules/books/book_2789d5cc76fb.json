@@ -1,0 +1,95 @@
+{
+  "book_id": "book_2789d5cc76fb",
+  "source_book": "原振侠系列/03.血咒.txt",
+  "title": "血咒",
+  "source_sha256": "d0dc5b5244fcb4924e841597258f83e381b903c52dd845d7ac1cdac2f59e9809",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        487,
+        717,
+        1499,
+        1531,
+        2107,
+        2867,
+        3063,
+        4503
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        169,
+        2419,
+        2425,
+        2819,
+        3679,
+        4021,
+        4383
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        495,
+        1071,
+        1607,
+        1619,
+        1823,
+        1977,
+        3691,
+        3739
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 23,
+      "sample_line_numbers": [
+        237,
+        681,
+        1441,
+        2435,
+        3197,
+        3547,
+        3969,
+        4309
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_death_blood_curse",
+    "scenario_death_blood_curse"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "death_blood_curse"
+  ],
+  "evidence": [
+    {
+      "path": "原振侠系列/03.血咒.txt",
+      "start_line": 4455,
+      "end_line": 4487,
+      "supports": "马特把未知能量与脑活动作为假设；断腿是否止咒也明确不肯定。",
+      "epistemic_status": "hypothesis",
+      "source_sha256": "d0dc5b5244fcb4924e841597258f83e381b903c52dd845d7ac1cdac2f59e9809",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "原振侠系列/03.血咒.txt",
+      "start_line": 4493,
+      "end_line": 4507,
+      "supports": "求研究与不生育的选择；未有可靠消咒法。",
+      "epistemic_status": "mixed",
+      "source_sha256": "d0dc5b5244fcb4924e841597258f83e381b903c52dd845d7ac1cdac2f59e9809",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

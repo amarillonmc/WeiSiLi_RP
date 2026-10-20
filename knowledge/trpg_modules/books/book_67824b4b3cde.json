@@ -1,0 +1,64 @@
+{
+  "book_id": "book_67824b4b3cde",
+  "source_book": "卫斯理系列/006地心洪炉.txt",
+  "title": "地心洪炉",
+  "source_sha256": "17ac5ffa74c0a0d790126106b4ec6a1762edf345c875242e884a235784b5b38c",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 31,
+      "sample_line_numbers": [
+        366,
+        921,
+        1722,
+        1864,
+        2100,
+        2322,
+        2448,
+        2666
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        221,
+        639,
+        1048,
+        1214,
+        2442,
+        2893
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 28,
+      "sample_line_numbers": [
+        221,
+        557,
+        928,
+        1728,
+        1921,
+        2442,
+        2507,
+        2960
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 37,
+      "sample_line_numbers": [
+        137,
+        438,
+        1100,
+        1293,
+        1471,
+        1994,
+        2648,
+        3043
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

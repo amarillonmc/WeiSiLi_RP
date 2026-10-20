@@ -1,0 +1,61 @@
+{
+  "book_id": "book_d97faef2bea3",
+  "source_book": "卫斯理系列/059神仙.txt",
+  "title": "神仙",
+  "source_sha256": "b08b08363a7bd71c84dfec51a1da6d31602b7ba254a0580dc3cc5edc4e4d3a0f",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 39,
+      "sample_line_numbers": [
+        575,
+        666,
+        739,
+        1280,
+        1465,
+        2185,
+        2435,
+        3589
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        569,
+        854,
+        2883
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        551,
+        827,
+        1212,
+        1257,
+        1354,
+        1700,
+        1813,
+        2254
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 69,
+      "sample_line_numbers": [
+        157,
+        736,
+        968,
+        1199,
+        1547,
+        1835,
+        2616,
+        3709
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

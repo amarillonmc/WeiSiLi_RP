@@ -1,0 +1,110 @@
+{
+  "book_id": "book_d3358ada2f8a",
+  "source_book": "年轻人/01手套.txt",
+  "title": "手套",
+  "source_sha256": "2b99befe90eb0ccc14811a7021b608d7d076e1a5d37989d9c344e5e57bb95afb",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        7,
+        68,
+        80,
+        140,
+        344,
+        620,
+        661,
+        718
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        86,
+        659
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        273,
+        306,
+        730,
+        732
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        90,
+        151,
+        245,
+        433,
+        570,
+        606,
+        732,
+        763
+      ]
+    }
+  },
+  "module_ids": [
+    "hazard_safe_substitution",
+    "scenario_safe_substitution"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "safe_substitution"
+  ],
+  "evidence": [
+    {
+      "path": "年轻人/01手套.txt",
+      "start_line": 7,
+      "end_line": 12,
+      "supports": "保险箱有密码、警号与时间掣；防护强度是推销说明。",
+      "epistemic_status": "testimony",
+      "source_sha256": "2b99befe90eb0ccc14811a7021b608d7d076e1a5d37989d9c344e5e57bb95afb",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "年轻人/01手套.txt",
+      "start_line": 656,
+      "end_line": 658,
+      "supports": "听声技术与音波仪均无法分辨号码差异。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "2b99befe90eb0ccc14811a7021b608d7d076e1a5d37989d9c344e5e57bb95afb",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "年轻人/01手套.txt",
+      "start_line": 699,
+      "end_line": 701,
+      "supports": "年轻人在水下把保险箱掉包，原物藏入船中消声暗格。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "2b99befe90eb0ccc14811a7021b608d7d076e1a5d37989d9c344e5e57bb95afb",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "年轻人/01手套.txt",
+      "start_line": 773,
+      "end_line": 790,
+      "supports": "公开现场打不开替代物，年轻人与中国人掌握真正所得。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "2b99befe90eb0ccc14811a7021b608d7d076e1a5d37989d9c344e5e57bb95afb",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

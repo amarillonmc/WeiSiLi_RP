@@ -1,0 +1,59 @@
+{
+  "book_id": "book_b60f03e1be18",
+  "source_book": "卫斯理系列/105闯祸.txt",
+  "title": "闯祸",
+  "source_sha256": "0f1d301ef14d58c4f9fa1c0983c38f64ae33f22ab2cc117f4ed604b2a279ed2c",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        808,
+        1716,
+        1754,
+        1865,
+        1958,
+        2167,
+        2278,
+        2621
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1065
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        177,
+        340,
+        343,
+        1889,
+        2078,
+        2122,
+        2161,
+        2734
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        446,
+        1043,
+        1148,
+        1865,
+        2012,
+        2390,
+        2571,
+        2773
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,59 @@
+{
+  "book_id": "book_376132b17fcd",
+  "source_book": "倪匡之鬼话系列/鬼停车场.txt",
+  "title": "鬼停车场",
+  "source_sha256": "134be49e4ab3f1fa49f02136277a32fbddff188a4715b37b2f04510498d82892",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    }
+  },
+  "module_ids": [
+    "scenario_ghost_parking"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "ghost_parking"
+  ],
+  "evidence": [
+    {
+      "path": "倪匡之鬼话系列/鬼停车场.txt",
+      "start_line": 3,
+      "end_line": 17,
+      "supports": "阿陈把停车场异样归因于醉酒并把影像解作日常事件。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "134be49e4ab3f1fa49f02136277a32fbddff188a4715b37b2f04510498d82892",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "倪匡之鬼话系列/鬼停车场.txt",
+      "start_line": 21,
+      "end_line": 47,
+      "supports": "他人恐惧和寒意、管理员说明车祸死者、阿陈发现没有影子。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "134be49e4ab3f1fa49f02136277a32fbddff188a4715b37b2f04510498d82892",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

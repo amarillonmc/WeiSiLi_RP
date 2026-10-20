@@ -1,0 +1,60 @@
+{
+  "book_id": "book_a597455f4c69",
+  "source_book": "卫斯理系列/054第二种人.txt",
+  "title": "第二种人",
+  "source_sha256": "b8431a163f8d71a21f99e272280c77c4c20372e402932aa9632343818c3e06c5",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        127,
+        2086,
+        2922,
+        3335
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        1159,
+        2510,
+        3202,
+        3204,
+        3355,
+        4245
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        113,
+        335,
+        881,
+        1929,
+        2745,
+        3455,
+        4019,
+        4256
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 59,
+      "sample_line_numbers": [
+        136,
+        1860,
+        2251,
+        2839,
+        2887,
+        2979,
+        3668,
+        4323
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

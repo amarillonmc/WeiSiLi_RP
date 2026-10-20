@@ -1,0 +1,53 @@
+{
+  "book_id": "book_0987c189c610",
+  "source_book": "木兰花全集/52生死碧玉.txt",
+  "title": "生死碧玉",
+  "source_sha256": "c0ac26bcec0deffa9338cf4a9fdd490f70c8dc1ed553f185e7cba799811af141",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        482,
+        998,
+        1188,
+        1414,
+        1416,
+        1686,
+        1848,
+        2444
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        546,
+        1154
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        2068
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        196,
+        562,
+        798,
+        1182,
+        1828,
+        1958,
+        2066,
+        2442
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

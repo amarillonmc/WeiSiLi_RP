@@ -1,0 +1,59 @@
+{
+  "book_id": "book_1a10e56018a3",
+  "source_book": "卫斯理系列/137乾坤挪移.txt",
+  "title": "乾坤挪移",
+  "source_sha256": "2fb84ddf03fc2217f4fa2da1b2ce24e2f1be77d3b71f97d4095f5effe740c6e9",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 40,
+      "sample_line_numbers": [
+        3,
+        729,
+        847,
+        1175,
+        1198,
+        1230,
+        1265,
+        1348
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        731
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        141,
+        694,
+        844,
+        849,
+        966,
+        1272,
+        1282,
+        1376
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 54,
+      "sample_line_numbers": [
+        5,
+        562,
+        741,
+        913,
+        1055,
+        1270,
+        1327,
+        1402
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

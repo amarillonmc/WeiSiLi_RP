@@ -1,0 +1,60 @@
+{
+  "book_id": "book_431747bbc9f2",
+  "source_book": "神探高斯系列/22水中宝盒.txt",
+  "title": "水中宝盒",
+  "source_sha256": "97fab48bdf2d9f49edfd0208732833362b9ecb5ff9915a654792309ca95d1257",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        224
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        126,
+        190,
+        217,
+        246,
+        434,
+        479,
+        629,
+        656
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_sea_glass_box",
+    "hazard_sea_glass_box",
+    "scenario_sea_glass_box"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "sea_glass_box"
+  ],
+  "evidence": [
+    {
+      "path": "神探高斯系列/22水中宝盒.txt",
+      "start_line": 649,
+      "end_line": 666,
+      "supports": "李玉芳说明盒内不是空无，警方以危险物接收；威力为其口述。",
+      "epistemic_status": "testimony",
+      "source_sha256": "97fab48bdf2d9f49edfd0208732833362b9ecb5ff9915a654792309ca95d1257",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

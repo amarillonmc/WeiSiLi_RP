@@ -1,0 +1,56 @@
+{
+  "book_id": "book_2598cbf0d529",
+  "source_book": "卫斯理系列/018合成.txt",
+  "title": "合成",
+  "source_sha256": "34ddbc82895dbf00e86740da49f68a157e79f615a76f6b836dd06eaeb9ec34b0",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        309,
+        602
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        672,
+        732,
+        1368,
+        1370
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        268,
+        270,
+        286,
+        987,
+        1126,
+        1138,
+        1140,
+        1157
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        92,
+        276,
+        676,
+        821,
+        1295,
+        1343,
+        1692,
+        1825
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

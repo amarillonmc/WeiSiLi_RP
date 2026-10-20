@@ -1,0 +1,64 @@
+{
+  "book_id": "book_b6f70bb43bd7",
+  "source_book": "原振侠系列/28.无间地狱.txt",
+  "title": "无间地狱",
+  "source_sha256": "45ca2d7799e1574489ec2076453f50d705939923e2a71ce26946d35e9a6ef512",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        57,
+        431,
+        845,
+        1045,
+        1055,
+        1585,
+        2291,
+        2631
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        961,
+        1247,
+        1249,
+        2357,
+        2493,
+        2501
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 26,
+      "sample_line_numbers": [
+        101,
+        1195,
+        1407,
+        1735,
+        1839,
+        2517,
+        2803,
+        3007
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 40,
+      "sample_line_numbers": [
+        475,
+        743,
+        1183,
+        1309,
+        1955,
+        2501,
+        2783,
+        3053
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

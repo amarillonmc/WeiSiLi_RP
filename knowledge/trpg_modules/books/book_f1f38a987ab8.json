@@ -1,0 +1,62 @@
+{
+  "book_id": "book_f1f38a987ab8",
+  "source_book": "卫斯理系列/108遗传.txt",
+  "title": "遗传",
+  "source_sha256": "ff11592ee72617244679af84c7989a4675a5cda238df0774e26154a524903aad",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        277,
+        279,
+        310,
+        313,
+        520,
+        560,
+        1306,
+        1641
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        343,
+        346,
+        354,
+        490
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        103,
+        645,
+        811,
+        818,
+        1779,
+        1961,
+        1964,
+        2656
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 29,
+      "sample_line_numbers": [
+        243,
+        298,
+        522,
+        975,
+        1074,
+        1632,
+        1985,
+        2715
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

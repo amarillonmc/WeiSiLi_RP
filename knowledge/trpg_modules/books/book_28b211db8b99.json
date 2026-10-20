@@ -1,0 +1,66 @@
+{
+  "book_id": "book_28b211db8b99",
+  "source_book": "木兰花全集/20秘密党.txt",
+  "title": "秘密党",
+  "source_sha256": "50f489bb61d846b6484e2b35c9721a61bbb5b2377e94ba20b4b59b769e377ca4",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        220,
+        616,
+        944,
+        1206,
+        1268,
+        1606,
+        2258,
+        2298
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        82,
+        756,
+        812,
+        816,
+        838,
+        874,
+        1456,
+        1460
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 38,
+      "sample_line_numbers": [
+        14,
+        456,
+        860,
+        1176,
+        1284,
+        1530,
+        1996,
+        2368
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 58,
+      "sample_line_numbers": [
+        34,
+        248,
+        948,
+        1034,
+        1778,
+        2082,
+        2294,
+        2380
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

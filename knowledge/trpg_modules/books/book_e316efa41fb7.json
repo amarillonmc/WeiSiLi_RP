@@ -1,0 +1,64 @@
+{
+  "book_id": "book_e316efa41fb7",
+  "source_book": "木兰花全集/09死亡织锦.txt",
+  "title": "死亡织锦",
+  "source_sha256": "a3b3f6c689f38e50cc5f3e76a425bfedeec4aee60c28ff4a61287fbc42ea8ffa",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        536,
+        758,
+        1006,
+        1016,
+        1146,
+        1248,
+        2232,
+        2440
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        112,
+        132,
+        318,
+        344,
+        722,
+        1042,
+        1838,
+        2252
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        498,
+        1444,
+        1684,
+        1690,
+        1732,
+        1734
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 29,
+      "sample_line_numbers": [
+        14,
+        608,
+        1174,
+        1464,
+        1812,
+        2242,
+        2368,
+        2546
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

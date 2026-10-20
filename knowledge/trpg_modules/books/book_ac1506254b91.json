@@ -1,0 +1,60 @@
+{
+  "book_id": "book_ac1506254b91",
+  "source_book": "木兰花全集/43珊瑚古城.txt",
+  "title": "珊瑚古城",
+  "source_sha256": "38a26779df233601741e53d64c2d41721370a8e50499030c49683acf58c05a18",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        94,
+        348,
+        834,
+        868,
+        962,
+        1344,
+        1552,
+        2530
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        168,
+        472
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        314,
+        954,
+        1144,
+        1222,
+        1924,
+        2502,
+        2668,
+        2796
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        20,
+        194,
+        778,
+        1212,
+        1418,
+        2440,
+        2816,
+        2834
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,60 @@
+{
+  "book_id": "book_fd0205d1bc5f",
+  "source_book": "卫斯理系列/042规律.txt",
+  "title": "规律",
+  "source_sha256": "881e9fb35a3ad03bdd1bfdca5338ee6b1eba4e14bbd7e860e3980cb2343091ed",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        154,
+        186,
+        376,
+        669,
+        1018,
+        1421,
+        1579,
+        1613
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        352,
+        383,
+        499,
+        545,
+        646,
+        763,
+        1250,
+        1329
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        1311,
+        1421
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        88,
+        679,
+        936,
+        1057,
+        1063,
+        1346,
+        1454,
+        1607
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

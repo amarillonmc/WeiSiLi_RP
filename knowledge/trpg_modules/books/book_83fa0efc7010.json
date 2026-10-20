@@ -1,0 +1,66 @@
+{
+  "book_id": "book_83fa0efc7010",
+  "source_book": "木兰花全集/18怒歼恶魔团.txt",
+  "title": "怒歼恶魔团",
+  "source_sha256": "ae717820513f4cc08b286a5406e0457708313dd97a5b8ebed2a4f944ceac8fc1",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        336,
+        1224,
+        1228,
+        1236,
+        1238,
+        1260,
+        1488,
+        1646
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        320,
+        322,
+        406,
+        1176,
+        1180,
+        1230,
+        1440,
+        1458
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        6,
+        484,
+        1050,
+        1224,
+        1270,
+        1652,
+        2148,
+        2558
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 23,
+      "sample_line_numbers": [
+        46,
+        666,
+        1010,
+        1234,
+        1484,
+        1544,
+        2224,
+        2524
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

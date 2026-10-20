@@ -1,0 +1,60 @@
+{
+  "book_id": "book_368ae83e2abe",
+  "source_book": "卫斯理系列/072废墟.txt",
+  "title": "废墟",
+  "source_sha256": "859c7722245a7bacdcd9535debe5de68892191a1aee9b001b69b5305675b9da3",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        77,
+        207,
+        408,
+        445,
+        448,
+        455,
+        2211,
+        2492
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        3038,
+        3039
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        51,
+        920,
+        1514,
+        1895,
+        2030,
+        2404,
+        2926,
+        2927
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 53,
+      "sample_line_numbers": [
+        14,
+        282,
+        938,
+        1585,
+        2486,
+        2625,
+        2847,
+        3222
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

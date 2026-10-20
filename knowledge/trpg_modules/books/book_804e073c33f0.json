@@ -1,0 +1,64 @@
+{
+  "book_id": "book_804e073c33f0",
+  "source_book": "亚洲之鹰罗开系列/14游魂.txt",
+  "title": "游魂",
+  "source_sha256": "4b204b354ba015aaa7bf94065b08b88e2163843da3d1909b86b25909a311152f",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        357,
+        382,
+        387,
+        726,
+        742,
+        851,
+        1131,
+        1181
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        13,
+        649,
+        691,
+        888,
+        1231,
+        1235
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        172,
+        177,
+        213,
+        258,
+        414,
+        934,
+        1131,
+        1235
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 28,
+      "sample_line_numbers": [
+        62,
+        354,
+        389,
+        617,
+        783,
+        882,
+        1004,
+        1289
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

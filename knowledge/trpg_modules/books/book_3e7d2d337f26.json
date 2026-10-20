@@ -1,0 +1,62 @@
+{
+  "book_id": "book_3e7d2d337f26",
+  "source_book": "木兰花全集/24魔掌余生.txt",
+  "title": "魔掌余生",
+  "source_sha256": "874dff614da446bfc451fedd00c101d09c16ecd88ff80612dd3d1674cb9465fb",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        324,
+        618,
+        688,
+        720,
+        762,
+        830,
+        962,
+        2316
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        252,
+        2256,
+        2262,
+        2354
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        342,
+        344,
+        378,
+        448,
+        928,
+        936,
+        1022,
+        1048
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        244,
+        384,
+        768,
+        1208,
+        1666,
+        1984,
+        2632,
+        2678
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

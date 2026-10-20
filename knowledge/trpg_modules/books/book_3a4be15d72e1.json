@@ -1,0 +1,63 @@
+{
+  "book_id": "book_3a4be15d72e1",
+  "source_book": "木兰花全集/50蜜月奇遇.txt",
+  "title": "蜜月奇遇",
+  "source_sha256": "de51e9859e8375de803abd0a6a33cd1788b96f08ec3037d55c229458bc4597e0",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        258,
+        668,
+        1086,
+        1216,
+        1618,
+        1750,
+        1834,
+        2262
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        344,
+        360,
+        636,
+        638,
+        852,
+        1212,
+        1724
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        204,
+        524,
+        822,
+        922,
+        1280,
+        2216
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 21,
+      "sample_line_numbers": [
+        62,
+        348,
+        412,
+        548,
+        902,
+        1680,
+        2032,
+        2502
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

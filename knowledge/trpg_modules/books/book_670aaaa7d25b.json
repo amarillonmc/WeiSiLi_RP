@@ -1,0 +1,66 @@
+{
+  "book_id": "book_670aaaa7d25b",
+  "source_book": "亚洲之鹰罗开系列/01鬼钟.txt",
+  "title": "鬼钟",
+  "source_sha256": "ab22cd0a925e789dbaa5ffc5964a133a4fb9c0e242e41cb8b014f84fb732555b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 30,
+      "sample_line_numbers": [
+        13,
+        61,
+        190,
+        421,
+        443,
+        515,
+        571,
+        760
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        381,
+        555,
+        562,
+        564,
+        567,
+        584,
+        594,
+        674
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 28,
+      "sample_line_numbers": [
+        21,
+        353,
+        410,
+        473,
+        566,
+        593,
+        686,
+        765
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 31,
+      "sample_line_numbers": [
+        3,
+        122,
+        351,
+        442,
+        526,
+        584,
+        625,
+        751
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

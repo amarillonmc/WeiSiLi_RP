@@ -1,0 +1,60 @@
+{
+  "book_id": "book_d1e263538229",
+  "source_book": "木兰花全集/22天外恩仇.txt",
+  "title": "天外恩仇",
+  "source_sha256": "041c00a8d51d7478a0df8a29692b53e6090d64a597a6df1b37aadf336d54db12",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        298,
+        340,
+        762,
+        908,
+        1820,
+        1822,
+        2006,
+        2050
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        1548,
+        1808
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 39,
+      "sample_line_numbers": [
+        546,
+        1256,
+        1448,
+        1562,
+        1774,
+        2122,
+        2374,
+        2662
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        218,
+        306,
+        1774,
+        2162,
+        2480,
+        2602,
+        2684,
+        2726
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

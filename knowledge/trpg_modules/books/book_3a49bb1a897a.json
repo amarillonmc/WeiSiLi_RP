@@ -1,0 +1,57 @@
+{
+  "book_id": "book_3a49bb1a897a",
+  "source_book": "亚洲之鹰罗开系列/12解开死结.txt",
+  "title": "解开死结",
+  "source_sha256": "2bea3302c4bc6269cd4420669182598930aebf8973bd3ecd6043a2f372fcbc15",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        211,
+        223,
+        236,
+        242,
+        245,
+        403,
+        607,
+        614
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        48,
+        148,
+        181,
+        329,
+        430,
+        768,
+        798,
+        1172
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 31,
+      "sample_line_numbers": [
+        5,
+        193,
+        509,
+        610,
+        796,
+        842,
+        874,
+        1259
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

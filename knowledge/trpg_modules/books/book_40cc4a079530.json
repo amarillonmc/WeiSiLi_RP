@@ -1,0 +1,60 @@
+{
+  "book_id": "book_40cc4a079530",
+  "source_book": "木兰花全集/36无敌凶手.txt",
+  "title": "无敌凶手",
+  "source_sha256": "c273b7bb2f3b77a9581dfad8fe736d53d730f56f7eb2a6819353209beebd1465",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        58,
+        864,
+        884,
+        1412,
+        1870,
+        2086,
+        2342,
+        2350
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        606,
+        608
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        52,
+        166,
+        342,
+        950,
+        1520,
+        2086,
+        2222,
+        2450
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 41,
+      "sample_line_numbers": [
+        384,
+        862,
+        1312,
+        1482,
+        1786,
+        2094,
+        2286,
+        2446
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

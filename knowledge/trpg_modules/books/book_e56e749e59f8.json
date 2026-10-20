@@ -1,0 +1,62 @@
+{
+  "book_id": "book_e56e749e59f8",
+  "source_book": "原振侠系列/15.寻找爱神.txt",
+  "title": "寻找爱神",
+  "source_sha256": "e5765803821591506399b2d4fde781d408c76e30b69e34c2c3caa56ff12bf661",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        471,
+        1643,
+        1787,
+        1827,
+        1917,
+        2967,
+        3023,
+        3093
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        847,
+        983,
+        999,
+        2155
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 65,
+      "sample_line_numbers": [
+        29,
+        787,
+        915,
+        1627,
+        1903,
+        2005,
+        2073,
+        3159
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        141,
+        515,
+        859,
+        971,
+        1825,
+        2077,
+        2909,
+        2993
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

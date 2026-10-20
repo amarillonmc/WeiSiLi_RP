@@ -1,0 +1,54 @@
+{
+  "book_id": "book_1c6d305a7482",
+  "source_book": "卫斯理系列/073密码.txt",
+  "title": "密码",
+  "source_sha256": "12d3df795be0899612ff0fef023fc9c4916ca798f27da2668ff17299e3c57ebb",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 35,
+      "sample_line_numbers": [
+        133,
+        986,
+        2067,
+        2484,
+        2803,
+        3503,
+        3667,
+        3716
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        1172,
+        1468,
+        1470,
+        1848,
+        2997
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 65,
+      "sample_line_numbers": [
+        349,
+        2008,
+        2121,
+        2343,
+        2642,
+        2813,
+        3216,
+        3716
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

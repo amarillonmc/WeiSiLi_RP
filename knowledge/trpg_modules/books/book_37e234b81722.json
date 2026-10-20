@@ -1,0 +1,59 @@
+{
+  "book_id": "book_37e234b81722",
+  "source_book": "木兰花全集/29潜艇迷宫.txt",
+  "title": "潜艇迷宫",
+  "source_sha256": "0d9b77bdf955d3c135b7a2a3d74588c65bfaf811df6f83d39691e22704212c6d",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        192,
+        416,
+        680,
+        1194,
+        1232,
+        1400,
+        1654,
+        2388
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        950
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 56,
+      "sample_line_numbers": [
+        34,
+        1046,
+        1936,
+        1962,
+        2020,
+        2090,
+        2308,
+        2544
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 40,
+      "sample_line_numbers": [
+        66,
+        796,
+        1160,
+        1674,
+        1910,
+        2010,
+        2076,
+        2194
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

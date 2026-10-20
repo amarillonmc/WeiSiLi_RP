@@ -1,0 +1,35 @@
+{
+  "book_id": "book_9d6719f86209",
+  "source_book": "神探高斯系列/21闪电天.txt",
+  "title": "闪电天",
+  "source_sha256": "4674066457619074fa9fea682e07bda016639c5e4651996c32bdc4f04820a7a1",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        37
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        340,
+        548
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

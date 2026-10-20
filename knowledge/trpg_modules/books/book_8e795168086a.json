@@ -1,0 +1,61 @@
+{
+  "book_id": "book_8e795168086a",
+  "source_book": "原振侠系列/32.天皇巨星.txt",
+  "title": "天皇巨星",
+  "source_sha256": "48538778037f6dff1876f9945b021ca78830dee45ca247f5eb404c42a4b82bf3",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 37,
+      "sample_line_numbers": [
+        19,
+        587,
+        715,
+        1077,
+        1957,
+        2025,
+        2301,
+        2519
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        825,
+        1769,
+        2145
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        155,
+        233,
+        317,
+        543,
+        1769,
+        2437,
+        2653,
+        2709
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        19,
+        745,
+        991,
+        1287,
+        1419,
+        2223,
+        2617,
+        2855
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

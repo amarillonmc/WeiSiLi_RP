@@ -1,0 +1,79 @@
+{
+  "book_id": "book_4ddcf710cddf",
+  "source_book": "卫斯理系列/043沉船.txt",
+  "title": "沉船",
+  "source_sha256": "58e530fd32abf622efa6fb9fd12fb0ed7a8a47f525a838388a281f5b242ae6c3",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        338,
+        1054,
+        1800,
+        1984,
+        2039,
+        2139,
+        2479,
+        2689
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        953,
+        955,
+        1476,
+        2056
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        424,
+        1163,
+        1166,
+        1245,
+        1559,
+        1673,
+        1848,
+        2352
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 33,
+      "sample_line_numbers": [
+        140,
+        975,
+        1004,
+        1577,
+        1835,
+        2089,
+        2315,
+        2683
+      ]
+    }
+  },
+  "module_ids": [
+    "scenario_ship_breathing"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "ship_breathing"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/043沉船.txt",
+      "start_line": 2808,
+      "end_line": 2839,
+      "supports": "专家作条件推论，卫斯理据骸骨和器械提出人鱼呼吸器官移植假说。",
+      "epistemic_status": "hypothesis",
+      "source_sha256": "58e530fd32abf622efa6fb9fd12fb0ed7a8a47f525a838388a281f5b242ae6c3",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

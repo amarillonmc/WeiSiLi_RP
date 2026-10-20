@@ -1,0 +1,96 @@
+{
+  "book_id": "book_533b28ccc313",
+  "source_book": "亚洲之鹰罗开系列/07蜂后.txt",
+  "title": "蜂后",
+  "source_sha256": "5ebaf946c9d6c675fdec8c8be34ba0071a3af2aa7bc5c92823f003c0078c59d1",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        149,
+        183,
+        197,
+        351,
+        390,
+        648,
+        1017,
+        1058
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        59,
+        142,
+        365,
+        392,
+        394,
+        520,
+        662,
+        1099
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 50,
+      "sample_line_numbers": [
+        19,
+        187,
+        474,
+        747,
+        836,
+        915,
+        961,
+        1157
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        40,
+        280,
+        349,
+        549,
+        813,
+        1045,
+        1134,
+        1147
+      ]
+    }
+  },
+  "module_ids": [
+    "boss_hive_network",
+    "scenario_hive_network"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "hive_network"
+  ],
+  "evidence": [
+    {
+      "path": "亚洲之鹰罗开系列/07蜂后.txt",
+      "start_line": 12,
+      "end_line": 18,
+      "supports": "基地传达命令，镜室提供心理安全感，成员带着各自野心加入。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "5ebaf946c9d6c675fdec8c8be34ba0071a3af2aa7bc5c92823f003c0078c59d1",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "亚洲之鹰罗开系列/07蜂后.txt",
+      "start_line": 1122,
+      "end_line": 1162,
+      "supports": "复制人感情与离去构成终局关系转向。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "5ebaf946c9d6c675fdec8c8be34ba0071a3af2aa7bc5c92823f003c0078c59d1",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

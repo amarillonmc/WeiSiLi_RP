@@ -1,0 +1,64 @@
+{
+  "book_id": "book_44a0ac928c15",
+  "source_book": "卫斯理系列/084拼命.txt",
+  "title": "拼命",
+  "source_sha256": "759b6b1838e61d4a9270c0652a6d01bc37ba6272632025ca5de26121aacb62ac",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 39,
+      "sample_line_numbers": [
+        759,
+        856,
+        1222,
+        1481,
+        1851,
+        1900,
+        1983,
+        3132
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        1876,
+        2648,
+        2707,
+        2876,
+        2936,
+        3124
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        527,
+        1451,
+        1545,
+        1735,
+        2129,
+        2207,
+        3003,
+        3116
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 41,
+      "sample_line_numbers": [
+        33,
+        599,
+        757,
+        973,
+        1832,
+        2110,
+        2467,
+        3111
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

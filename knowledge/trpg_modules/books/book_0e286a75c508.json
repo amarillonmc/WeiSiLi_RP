@@ -1,0 +1,63 @@
+{
+  "book_id": "book_0e286a75c508",
+  "source_book": "卫斯理系列/057搜灵.txt",
+  "title": "搜灵",
+  "source_sha256": "2575d0afd2f6c4b7392561f1ad16e68e2a1064764c817b01d8d4adc12d2cf35d",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 28,
+      "sample_line_numbers": [
+        227,
+        1386,
+        1471,
+        1494,
+        1790,
+        2301,
+        3001,
+        3080
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        95,
+        1623,
+        1632,
+        3326,
+        3534
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        200,
+        556,
+        559,
+        2298,
+        2895,
+        3420,
+        3534,
+        3554
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 40,
+      "sample_line_numbers": [
+        87,
+        504,
+        1231,
+        1362,
+        1615,
+        1878,
+        2127,
+        3554
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

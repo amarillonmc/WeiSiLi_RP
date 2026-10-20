@@ -1,0 +1,3933 @@
+{
+  "summary": {
+    "schema_version": "1.1",
+    "extension_profile": "canon-separated-trpg-1.0",
+    "counts": {
+      "artifacts": 23,
+      "hazards": 16,
+      "bosses": 12,
+      "scenarios": 28
+    },
+    "curated_dossiers": 32,
+    "corpus_texts": 336,
+    "keyword_screened_texts": 336,
+    "directly_reviewed_texts": 33,
+    "reviewed_series": {
+      "亚洲之鹰罗开系列": 1,
+      "倪匡之鬼话系列": 1,
+      "卫斯理系列": 17,
+      "原振侠系列": 7,
+      "年轻人": 2,
+      "木兰花全集": 2,
+      "浪子高达系列": 1,
+      "神探高斯系列": 1,
+      "非人协会系列": 1
+    },
+    "unique_citation_ranges": 81,
+    "exhaustive_extraction": false,
+    "forum_verified": false,
+    "source_catalog_sha256": "266d376f9c2930c8f7c71a70c43ca1a56969912827341b0f044b1ff94ea2c036",
+    "authored_sha256": {
+      "dossiers.json": "faa0dbd0f33c0896206d4ba7988137d3c3bca1138a045a5585c87f2d566ff2c9",
+      "guide_audit.json": "8230cfe33c0cba7d60bc385c26c0dfadea2ae663ca8b10c5bc65e184b75cc51e",
+      "policy.json": "f54e2fca36665caa8a9bcf1bb5b57b1348afb705ba16bf8c1a33ff94013dbebe",
+      "schema.json": "30f60627aae45fd9523ed193a1f01eaf8db71314831d39f1a819b4c0a7c23134"
+    },
+    "limitations": [
+      "全文关键词筛查不是全文精读；未审核文本保留为待扩展。",
+      "四个模块中的骰面、DC、状态与秘密任务均未实测，不作为原作事实。",
+      "只验证结构、引用行界与哈希，语义解释仍需人工回读。",
+      "论坛正文无法取得，规则适配以用户提供指南为依据。"
+    ]
+  },
+  "books": [
+    {
+      "book_id": "book_670aaaa7d25b",
+      "source_book": "亚洲之鹰罗开系列/01鬼钟.txt",
+      "title": "鬼钟",
+      "source_sha256": "ab22cd0a925e789dbaa5ffc5964a133a4fb9c0e242e41cb8b014f84fb732555b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_3d11fdd8a762",
+      "source_book": "亚洲之鹰罗开系列/02妖偶.txt",
+      "title": "妖偶",
+      "source_sha256": "f901d5b5d24092952fb92a1913f31ee808b5579aedd293a85d653e63c0c2a16c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_4061a76cea80",
+      "source_book": "亚洲之鹰罗开系列/03魔像.txt",
+      "title": "魔像",
+      "source_sha256": "fdbad61b635a4efc344a381183ae9124dbdf216993c953443c6aea7c669a83f5",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b032f28a589d",
+      "source_book": "亚洲之鹰罗开系列/04怪头.txt",
+      "title": "怪头",
+      "source_sha256": "faf95934f683de1d8cff341f5882106e2872fdef0c12b807908071b75f655070",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f621f4d4d1a7",
+      "source_book": "亚洲之鹰罗开系列/05巨龙.txt",
+      "title": "巨龙",
+      "source_sha256": "f95bef993e8bbdd496b465c52726bd16b9ccb158964c7ca50cfb47e501ea6629",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_947d367a6cc7",
+      "source_book": "亚洲之鹰罗开系列/06蛇神.txt",
+      "title": "蛇神",
+      "source_sha256": "09a3ab2ff1e1361f2693d3a97ae6d9fea563fb9de31b7343e00654d2d0d629d1",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_533b28ccc313",
+      "source_book": "亚洲之鹰罗开系列/07蜂后.txt",
+      "title": "蜂后",
+      "source_sha256": "5ebaf946c9d6c675fdec8c8be34ba0071a3af2aa7bc5c92823f003c0078c59d1",
+      "module_ids": [
+        "boss_hive_network",
+        "scenario_hive_network"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "hive_network"
+      ]
+    },
+    {
+      "book_id": "book_f9892461e5c9",
+      "source_book": "亚洲之鹰罗开系列/08火凤.txt",
+      "title": "火凤",
+      "source_sha256": "c0533c95fed04333673075a85e2367b30456c4bd2d6c21203a29f4d618ef46fd",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_ddec6bbb144f",
+      "source_book": "亚洲之鹰罗开系列/09夜光.txt",
+      "title": "夜光",
+      "source_sha256": "4e186c829052e788ba68ad824f4ac4e2fe3d2c13a7156b169cfd475d9ea57cba",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_2af29c6320c3",
+      "source_book": "亚洲之鹰罗开系列/10异人.txt",
+      "title": "异人",
+      "source_sha256": "28ceb1449356424283c25441b39d0d9b78dd47ec8af47abe02ac2f9e5a74c98e",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_0326b81e179c",
+      "source_book": "亚洲之鹰罗开系列/11死结.txt",
+      "title": "死结",
+      "source_sha256": "6b32c56396b59d7e65f236d037c3daa61471313448f2c3277435e72fb8671496",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_3a49bb1a897a",
+      "source_book": "亚洲之鹰罗开系列/12解开死结.txt",
+      "title": "解开死结",
+      "source_sha256": "2bea3302c4bc6269cd4420669182598930aebf8973bd3ecd6043a2f372fcbc15",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_97db20aab149",
+      "source_book": "亚洲之鹰罗开系列/13困兽.txt",
+      "title": "困兽",
+      "source_sha256": "f60bdcbd75df85d7d54ad04ef2868f18d2fb826825b2fa2c6cac5d5bd5cf3906",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_804e073c33f0",
+      "source_book": "亚洲之鹰罗开系列/14游魂.txt",
+      "title": "游魂",
+      "source_sha256": "4b204b354ba015aaa7bf94065b08b88e2163843da3d1909b86b25909a311152f",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_e34754c140ce",
+      "source_book": "亚洲之鹰罗开系列/15飞焰.txt",
+      "title": "飞焰",
+      "source_sha256": "4b495e99e0d1f415caab438a2fbb30b0135ff0defc868f35a40061f4ce4d05c5",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_6b61c4198ab2",
+      "source_book": "倪匡之鬼话系列/不祥之兆.txt",
+      "title": "不祥之兆",
+      "source_sha256": "e0fb759ef3b59c7086cef95ef532ebd80963f83d9abe38a233b1e8df04f0cb75",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_e563b13b0248",
+      "source_book": "倪匡之鬼话系列/不要问我从那里来.txt",
+      "title": "不要问我从那里来",
+      "source_sha256": "5ad843473a2d0b10b7bf39a08b457e13fb3188d53c6b9f0cea566b7d6ffd9121",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_05ac5649a416",
+      "source_book": "倪匡之鬼话系列/先生，别打尖.txt",
+      "title": "先生，别打尖",
+      "source_sha256": "bf5ae19ee3fb259305c0560b178ec7cbd4cec410cb6c8938de7bfafb7189b06b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_e6319f803729",
+      "source_book": "倪匡之鬼话系列/寻人.txt",
+      "title": "寻人",
+      "source_sha256": "a35c6a54583baf829c4403fb52a2acda46ce195bbef014a1b1d8345a96652d49",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_437d04c42917",
+      "source_book": "倪匡之鬼话系列/恒娘.txt",
+      "title": "恒娘",
+      "source_sha256": "da475937c087b162e0274cd984d076ca867ed4b3362c8568b0d19773c1cda576",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_8a1b4568eb22",
+      "source_book": "倪匡之鬼话系列/房客.txt",
+      "title": "房客",
+      "source_sha256": "c84bfc731625e23b949c1175d27d85bbf90cba4aac5986d971ebc68776235a91",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_c3aed44133b8",
+      "source_book": "倪匡之鬼话系列/择时剖腹.txt",
+      "title": "择时剖腹",
+      "source_sha256": "c01cdb4fea33e96f2a6c5c04999a42d5a8bd6b019b894a8e332f0a70d477c815",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_02ed3ef7a4bc",
+      "source_book": "倪匡之鬼话系列/搭电梯.txt",
+      "title": "搭电梯",
+      "source_sha256": "3599a792e185ec049669e02c5e9f3819fe27e24a75d9fc25415dea54e31fc53b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_156587d30b6f",
+      "source_book": "倪匡之鬼话系列/放屁.txt",
+      "title": "放屁",
+      "source_sha256": "a3393c2d86c1eb96b299dc74c7d37d4127508e1bdea6d52bdbc34922e3b92f5b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_9e24f6c8380c",
+      "source_book": "倪匡之鬼话系列/明天我们怎么联络.txt",
+      "title": "明天我们怎么联络",
+      "source_sha256": "ebd6ad93188faf4482344b7523219f3a3d9b29b4c78c0d916cf83cbf632b8807",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_648f720528b8",
+      "source_book": "倪匡之鬼话系列/橘树.txt",
+      "title": "橘树",
+      "source_sha256": "e9d57da920144fd034afab42e78887cad500e1882ca06aefa0072736181719e6",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_70a1f652c98e",
+      "source_book": "倪匡之鬼话系列/爱管闲事的司机.txt",
+      "title": "爱管闲事的司机",
+      "source_sha256": "2ec89a0aae856d4f7db9882c1ae26844dc066cb793a91752be77ae2ccff41f9e",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_7f3a54ace15f",
+      "source_book": "倪匡之鬼话系列/猫头鹰的眼睛.txt",
+      "title": "猫头鹰的眼睛",
+      "source_sha256": "25e7baacc7d078ca66a9010e7eff9f98011efab51c6c46e07fa30d5bc6c9d594",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_cb8837ef6517",
+      "source_book": "倪匡之鬼话系列/衬衫.txt",
+      "title": "衬衫",
+      "source_sha256": "9e0016dab1ddab4cf6195e8eb7d1bd35bc6e054755003082d3d8dfdb5af10112",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_9509770ca7ed",
+      "source_book": "倪匡之鬼话系列/选美记.txt",
+      "title": "选美记",
+      "source_sha256": "59884d41ab9284a55ebfe354e90416bc5e2bd15c2520f0a55668e37a5568488f",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_1e5a6bf2a99c",
+      "source_book": "倪匡之鬼话系列/陆判.txt",
+      "title": "陆判",
+      "source_sha256": "6be5480dc0fbb21639cdf4a5641326800c74b32dd0bb8eb9fe3bd0299b145187",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_63d1b23c0960",
+      "source_book": "倪匡之鬼话系列/顾客.txt",
+      "title": "顾客",
+      "source_sha256": "d3e2d8d3c0e8fca57dcf5a03d1852324009e73f909e42b0140b0728c382af34e",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_376132b17fcd",
+      "source_book": "倪匡之鬼话系列/鬼停车场.txt",
+      "title": "鬼停车场",
+      "source_sha256": "134be49e4ab3f1fa49f02136277a32fbddff188a4715b37b2f04510498d82892",
+      "module_ids": [
+        "scenario_ghost_parking"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "ghost_parking"
+      ]
+    },
+    {
+      "book_id": "book_e7cd82853e6d",
+      "source_book": "倪匡之鬼话系列/鬼哭之一.txt",
+      "title": "鬼哭之一",
+      "source_sha256": "e63b8f5a7da9f2748eeaa60469afae760d243812498e3e97168d51e6684f0af9",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_530107178547",
+      "source_book": "倪匡之鬼话系列/鬼哭之二.txt",
+      "title": "鬼哭之二",
+      "source_sha256": "4d108c616660dcb781c891dfb0692971fb34934de329199f3629472ed39d5778",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_fb8c67191e7b",
+      "source_book": "倪匡之鬼话系列/鬼屋.txt",
+      "title": "鬼屋",
+      "source_sha256": "465bce2b6ddf6e0b3931ff022d58f0e8676cc9784967dbd20f8a47f699ccf180",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_3e28f2404d41",
+      "source_book": "倪匡之鬼话系列/鬼胎之一.txt",
+      "title": "鬼胎之一",
+      "source_sha256": "6656cf0802c51f9f935ea3f28d6fe2df2b46db8ce594d39292291c0d713bd86f",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_98e89d39e8fa",
+      "source_book": "倪匡之鬼话系列/鬼胎之二.txt",
+      "title": "鬼胎之二",
+      "source_sha256": "5a29da764c403f2cdb8da15c4793d76c19299e04b1a428a63fc82fb68b82a463",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_07208b79cd65",
+      "source_book": "倪匡之鬼话系列/鬼脑.txt",
+      "title": "鬼脑",
+      "source_sha256": "3a727c9d7966a7dcc15c543bc113309a68d8c84c1317b1674ee268c58316f508",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_6626bbf2eb31",
+      "source_book": "倪匡之鬼话系列/鸡蛋.txt",
+      "title": "鸡蛋",
+      "source_sha256": "737561188028afb04dbd0e345b0fdeec5e0176f83c92469e46017590a333615b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_93d047542c1e",
+      "source_book": "卫斯理系列/001钻石花 .txt",
+      "title": "钻石花",
+      "source_sha256": "ca66287b899fab97c77a9a0f82ebe578fa90801b72d42e5b4a34e70e45b3983b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_4d22028f17c9",
+      "source_book": "卫斯理系列/002卫斯理与白素.txt",
+      "title": "卫斯理与白素",
+      "source_sha256": "0bd0e8ff985eeea835442679fa34b2bd3852e78980480ab62210286a0c8a73b0",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_93164b8bdda7",
+      "source_book": "卫斯理系列/002地底奇人.txt",
+      "title": "地底奇人",
+      "source_sha256": "3393a567fed2c9033b76c2cd1229e3aa23f277e23f8030895452059df726a8ca",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_02a848422833",
+      "source_book": "卫斯理系列/003妖火.txt",
+      "title": "妖火",
+      "source_sha256": "3d93b33a8bacae99e43876e6f987986b6f2fe3bbe0929ae1486b5bd54cc7f89b",
+      "module_ids": [
+        "artifact_endocrine_control",
+        "scenario_endocrine_control"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "endocrine_control"
+      ]
+    },
+    {
+      "book_id": "book_c1ab2fa68267",
+      "source_book": "卫斯理系列/004蓝血人.txt",
+      "title": "蓝血人",
+      "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+      "module_ids": [
+        "artifact_formless_parasite",
+        "hazard_formless_parasite",
+        "boss_formless_parasite",
+        "scenario_formless_parasite",
+        "artifact_positron_hood",
+        "boss_positron_hood"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "formless_parasite",
+        "positron_hood"
+      ]
+    },
+    {
+      "book_id": "book_6b3eeebde32f",
+      "source_book": "卫斯理系列/005透明光.txt",
+      "title": "透明光",
+      "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+      "module_ids": [
+        "artifact_transparent_mineral",
+        "hazard_transparent_mineral",
+        "scenario_transparent_mineral"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "transparent_mineral"
+      ]
+    },
+    {
+      "book_id": "book_67824b4b3cde",
+      "source_book": "卫斯理系列/006地心洪炉.txt",
+      "title": "地心洪炉",
+      "source_sha256": "17ac5ffa74c0a0d790126106b4ec6a1762edf345c875242e884a235784b5b38c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_eeb0e48b439a",
+      "source_book": "卫斯理系列/007蜂云.txt",
+      "title": "蜂云",
+      "source_sha256": "64997c0e874645af11ef648d072ce573b31857b035a91392164f19ccff34d37a",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_51825627918a",
+      "source_book": "卫斯理系列/008奇玉.txt",
+      "title": "奇玉",
+      "source_sha256": "483e371dd19a5b82e47b55c951f0f0866fcb7e46e0f3c01338cd3145617be2af",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_de2f4244184c",
+      "source_book": "卫斯理系列/009原子空间.txt",
+      "title": "原子空间",
+      "source_sha256": "9dae749ed628eb5ceb7b9d717c3ba7cb222361a3de297b59eb6e579705387685",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_df5971108097",
+      "source_book": "卫斯理系列/010天外金球.txt",
+      "title": "天外金球",
+      "source_sha256": "e9637bc936a76a902e6ec9959baf6656b55df519f8996b72635756dd6eced2b5",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_1099a60e7d4e",
+      "source_book": "卫斯理系列/011支离人.txt",
+      "title": "支离人",
+      "source_sha256": "1c4eb914a01b9a6a9de1a2a16acd6d7560789f574e9371fb0f3ff971a5b757c8",
+      "module_ids": [
+        "artifact_dismember_computer",
+        "hazard_dismember_computer",
+        "scenario_dismember_computer",
+        "artifact_dismember_inscription"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "dismember_computer",
+        "dismember_inscription"
+      ]
+    },
+    {
+      "book_id": "book_8c16342a57b1",
+      "source_book": "卫斯理系列/012不死药.txt",
+      "title": "不死药",
+      "source_sha256": "add3e531fa3d2d7c2767b9c3b0e194fb54b7d61e4b81561efb86d8825848b14d",
+      "module_ids": [
+        "artifact_immortality_drug",
+        "hazard_immortality_drug",
+        "boss_immortality_drug",
+        "scenario_immortality_drug"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "immortality_drug"
+      ]
+    },
+    {
+      "book_id": "book_f20f28b33b99",
+      "source_book": "卫斯理系列/013红月亮.txt",
+      "title": "红月亮",
+      "source_sha256": "749ed4b54c29c82162b2497567e859bbf402c90fecbb3d6fd0fdae91684eab13",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_7667762f571b",
+      "source_book": "卫斯理系列/014换头记.txt",
+      "title": "换头记",
+      "source_sha256": "091da9f8184a0806b54c1cacab25d0ec4d4e32a3d3be0ce9d32e5e60fead9fa6",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_ba6b0285889a",
+      "source_book": "卫斯理系列/015蛊惑.txt",
+      "title": "蛊惑",
+      "source_sha256": "37bef72830a445097e04d2f98e7ee40e32134327cf9ff0e078a440b0078f7759",
+      "module_ids": [
+        "artifact_heart_gu",
+        "scenario_heart_gu"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "heart_gu"
+      ]
+    },
+    {
+      "book_id": "book_b0c91e969080",
+      "source_book": "卫斯理系列/016奇门.txt",
+      "title": "奇门",
+      "source_sha256": "22f609669f4f6bdf4910f932fdabe592b97b28d5eebbceecc5147d808e4b0896",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b2eac659a858",
+      "source_book": "卫斯理系列/017尸变.txt",
+      "title": "尸变",
+      "source_sha256": "7eb28a035f77330cff9a0865a942fe5373dc739a9877aa057031ddce4fd6e764",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_2598cbf0d529",
+      "source_book": "卫斯理系列/018合成.txt",
+      "title": "合成",
+      "source_sha256": "34ddbc82895dbf00e86740da49f68a157e79f615a76f6b836dd06eaeb9ec34b0",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_65541b38f010",
+      "source_book": "卫斯理系列/019笔友.txt",
+      "title": "笔友",
+      "source_sha256": "01f6d100064c6eead5e3b7d16b845f332d28bf400f381c686354d9e277de4c74",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_87f0380e112a",
+      "source_book": "卫斯理系列/020丛林之神.txt",
+      "title": "丛林之神",
+      "source_sha256": "51d7b84e50cb29c2d9ab2589ceb6ac6d78626d969197093d5907f018278da78d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_07eec800156a",
+      "source_book": "卫斯理系列/021再来一次.txt",
+      "title": "再来一次",
+      "source_sha256": "1e687dd800c094808c838ae456168e9bab9c41c4b45b3766832055558e0df475",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_be7289b09195",
+      "source_book": "卫斯理系列/022尽头.txt",
+      "title": "尽头",
+      "source_sha256": "f225ccd27f97dbd8024a86f96b95c113ff601bd6d5169cf9c6bc622e0c51c36e",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_9e9a90d46cf4",
+      "source_book": "卫斯理系列/023湖水.txt",
+      "title": "湖水",
+      "source_sha256": "e4ef4303c24aaad746163b8a4538e13c5db5d8de5e025aa696a1141527a2f058",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_af8e58126391",
+      "source_book": "卫斯理系列/024消失.txt",
+      "title": "消失",
+      "source_sha256": "8528c71e8193ffda7163ccd355a0e9b90feed5a9c7ea397fd70b95a8ee01213c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_c2c7964f9840",
+      "source_book": "卫斯理系列/025影子.txt",
+      "title": "影子",
+      "source_sha256": "c042ebd25b879cac218aaed6e54bf389ce6103e3f578c27a6e82df92c8a1ed9c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_3fe21b786740",
+      "source_book": "卫斯理系列/026多了一个.txt",
+      "title": "多了一个",
+      "source_sha256": "c6acd754e4c381624675a1f490c71d2181eecfe51101b956252b683b2fe96624",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_8c0de180ffa0",
+      "source_book": "卫斯理系列/027仙境.txt",
+      "title": "仙境",
+      "source_sha256": "056877b11516b327b8631abb2ef5e802608d4dd1c6aef2a16553ab30fb1f7e7c",
+      "module_ids": [
+        "artifact_fairy_valley",
+        "hazard_fairy_valley",
+        "scenario_fairy_valley"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "fairy_valley"
+      ]
+    },
+    {
+      "book_id": "book_dc04cfea7731",
+      "source_book": "卫斯理系列/028狐变.txt",
+      "title": "狐变",
+      "source_sha256": "ea0bcff3bbc830a04ad0ee856c6792daff5b5f4250d41c630ba9d48c35aeae40",
+      "module_ids": [
+        "artifact_fox_time_device",
+        "hazard_fox_time_device",
+        "scenario_fox_time_device"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "fox_time_device"
+      ]
+    },
+    {
+      "book_id": "book_751de23926f2",
+      "source_book": "卫斯理系列/029古声.txt",
+      "title": "古声",
+      "source_sha256": "e81094f0193dfa7371a92849b9bed30eff0f64e6eb6aefddc516fa64f3903335",
+      "module_ids": [
+        "artifact_ancient_voice_vase",
+        "scenario_ancient_voice_vase"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "ancient_voice_vase"
+      ]
+    },
+    {
+      "book_id": "book_3d80de744c98",
+      "source_book": "卫斯理系列/030虚像.txt",
+      "title": "虚像",
+      "source_sha256": "154c6af0612f06d9130d406a26fde0f971cab433e215a231e29808b84a4210fa",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_60095d4a7e40",
+      "source_book": "卫斯理系列/031访客.txt",
+      "title": "访客",
+      "source_sha256": "61c5c6ac1bba44ca7b29c0d591dfff302a6a359e69f2670d7645d2fc41a453ce",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_fdfbc165519b",
+      "source_book": "卫斯理系列/032风水.txt",
+      "title": "风水",
+      "source_sha256": "41de77ea89f98833de1b5570bf583f1c9efce674242a134f42f40a84b7746f99",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_a71da721a4c4",
+      "source_book": "卫斯理系列/033环.txt",
+      "title": "环",
+      "source_sha256": "8ed6b020b1f0c3b180d57b9e58f3150bd3bc296e84ae8b256158c7bc379ae369",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_699681a8e91e",
+      "source_book": "卫斯理系列/034聚宝盆.txt",
+      "title": "聚宝盆",
+      "source_sha256": "8cbcceaeda2a5c5f9628e09f9a588f4cbd9a2300f55921b5ee66d7cc3b0a4e75",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_7c390651f4cf",
+      "source_book": "卫斯理系列/035雨花台石.txt",
+      "title": "雨花台石",
+      "source_sha256": "b3dcbf8be1b47b248537dbeb5974d00d194a7b2d704f926c444341a46ef80a2b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_72db0c764585",
+      "source_book": "卫斯理系列/036魔磁.txt",
+      "title": "魔磁",
+      "source_sha256": "fb24bf8b1934c661394235a64500c7dc610dc5dbda4022f92968db7de25c3b25",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_2ce28fcf4698",
+      "source_book": "卫斯理系列/037创造.txt",
+      "title": "创造",
+      "source_sha256": "43f439ed14bb4c90dba5e764ee6dc61edbbdedbd9ef79bf97d02d6bfda911e9d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_0ea77cc5e212",
+      "source_book": "卫斯理系列/038鬼子.txt",
+      "title": "鬼子",
+      "source_sha256": "82f1ddf86d3b97ba54b29a2fe1a87601d8ca79db40f460d2bf3daf4a0c50ac38",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_45347fc50ecc",
+      "source_book": "卫斯理系列/039老猫.txt",
+      "title": "老猫",
+      "source_sha256": "621a886ee61cc6aa8bbb89f647d4a789d056c37f1769bc0fa224c14ed29147ad",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_312a777eded3",
+      "source_book": "卫斯理系列/040贝壳.txt",
+      "title": "贝壳",
+      "source_sha256": "4e8d519f4f86bf86da2ecdd88ea183e4940c7a8568baf9287c642c3fe912ad5d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_1a18c351cf2d",
+      "source_book": "卫斯理系列/041地图.txt",
+      "title": "地图",
+      "source_sha256": "8ff1d3904e8c7886659c97c94122a5f66689b175f831a725e0100c930ba389f4",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_fd0205d1bc5f",
+      "source_book": "卫斯理系列/042规律.txt",
+      "title": "规律",
+      "source_sha256": "881e9fb35a3ad03bdd1bfdca5338ee6b1eba4e14bbd7e860e3980cb2343091ed",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_4ddcf710cddf",
+      "source_book": "卫斯理系列/043沉船.txt",
+      "title": "沉船",
+      "source_sha256": "58e530fd32abf622efa6fb9fd12fb0ed7a8a47f525a838388a281f5b242ae6c3",
+      "module_ids": [
+        "scenario_ship_breathing"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "ship_breathing"
+      ]
+    },
+    {
+      "book_id": "book_c808082c466e",
+      "source_book": "卫斯理系列/044大厦.txt",
+      "title": "大厦",
+      "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+      "module_ids": [
+        "artifact_dasha_elevator",
+        "hazard_dasha_elevator",
+        "scenario_dasha_elevator"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "dasha_elevator"
+      ]
+    },
+    {
+      "book_id": "book_59553fc35355",
+      "source_book": "卫斯理系列/045新年.txt",
+      "title": "新年",
+      "source_sha256": "91c5b3a1e45c6f7c5a234e64d735493a508d6bf949feae94562d15ca62fcbcdc",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f080c8aa29f2",
+      "source_book": "卫斯理系列/046头发.txt",
+      "title": "头发",
+      "source_sha256": "7ff73c54b80bd223236384562f5bc9704d73a9b1071953ad1ebadf8e4a736de2",
+      "module_ids": [
+        "hazard_hair_time_ratio",
+        "scenario_hair_time_ratio"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "hair_time_ratio"
+      ]
+    },
+    {
+      "book_id": "book_1fd78fe599aa",
+      "source_book": "卫斯理系列/047眼睛.txt",
+      "title": "眼睛",
+      "source_sha256": "ef99d2d8164f1a700599ea9e4533c03c56400e8db663a5f1f0688ca4764cfbe2",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_5a6e91fc41bf",
+      "source_book": "卫斯理系列/048迷藏.txt",
+      "title": "迷藏",
+      "source_sha256": "aac97f2b37dbce1bff76008fb5c02e79072fa9b59c7f403cb34044c946faf34a",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_47d92f518f4c",
+      "source_book": "卫斯理系列/049天书.txt",
+      "title": "天书",
+      "source_sha256": "f5a9c0aa9657e940b1ed592dcbba69558f32e6dfce23e214a0fc81ac3a941183",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_9023fbdb662f",
+      "source_book": "卫斯理系列/050木炭.txt",
+      "title": "木炭",
+      "source_sha256": "761554324d61f733c3480a0a1c37a8096d0a7c21c37865bc9bb575495f10854a",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_4999cd7d1822",
+      "source_book": "卫斯理系列/051玩具.txt",
+      "title": "玩具",
+      "source_sha256": "ef7ff5f748c981d163a7d19b348948285747bdd7f02f1565dd9f656d724e1860",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_88353a40dda4",
+      "source_book": "卫斯理系列/052连锁.txt",
+      "title": "连锁",
+      "source_sha256": "f58d66a291b0d994f297be9ad03cf937c1ef4c6e3b6ea2eb97c88eb8b15981e6",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_68310af66701",
+      "source_book": "卫斯理系列/053寻梦.txt",
+      "title": "寻梦",
+      "source_sha256": "1d73ea7cd15abfbc42b891ff547eb5d13cc4e89cf66ff4ce2748d7665eba2655",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_a597455f4c69",
+      "source_book": "卫斯理系列/054第二种人.txt",
+      "title": "第二种人",
+      "source_sha256": "b8431a163f8d71a21f99e272280c77c4c20372e402932aa9632343818c3e06c5",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_17ded030e4d8",
+      "source_book": "卫斯理系列/055后备.txt",
+      "title": "后备",
+      "source_sha256": "c684686b10e288645a5d3b6430c891642be5b175d0fa295ee20c1656a732511c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_aa5d20a2593d",
+      "source_book": "卫斯理系列/056盗墓.txt",
+      "title": "盗墓",
+      "source_sha256": "3192f142ac157bd356418e370e72d4e2fe638de8dfe52ef9a37187bd101bf4b6",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_0e286a75c508",
+      "source_book": "卫斯理系列/057搜灵.txt",
+      "title": "搜灵",
+      "source_sha256": "2575d0afd2f6c4b7392561f1ad16e68e2a1064764c817b01d8d4adc12d2cf35d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_0b41ffb1dbac",
+      "source_book": "卫斯理系列/058茫点.txt",
+      "title": "茫点",
+      "source_sha256": "6f47589bfc97b80eb1472a74ca08146f406f917980282f0847cde47069aa23bf",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d97faef2bea3",
+      "source_book": "卫斯理系列/059神仙.txt",
+      "title": "神仙",
+      "source_sha256": "b08b08363a7bd71c84dfec51a1da6d31602b7ba254a0580dc3cc5edc4e4d3a0f",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_1b890f7e9c36",
+      "source_book": "卫斯理系列/060追龙.txt",
+      "title": "追龙",
+      "source_sha256": "0c2ec04524394261eed54f6a05a279441facc32f80560f377b703dcf5f718aac",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_960709238b18",
+      "source_book": "卫斯理系列/061洞天.txt",
+      "title": "洞天",
+      "source_sha256": "507f48f0dc87e96b3119eb57874270445ff95dbd6c0f519e220dbf0d712245fb",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_295bb4ee2949",
+      "source_book": "卫斯理系列/062活俑.txt",
+      "title": "活俑",
+      "source_sha256": "eb89b4f33e8ff9f5afdd9fba60ee32b1007cdb5ab85835e98ac0184e734037ad",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_1eceb61f788e",
+      "source_book": "卫斯理系列/063犀照.txt",
+      "title": "犀照",
+      "source_sha256": "b2d74fd5b2dacc4173bdebc19d9586e47b064cf29b6e3990bd3d8412febcb76a",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_1e1e601ec986",
+      "source_book": "卫斯理系列/064命运.txt",
+      "title": "命运",
+      "source_sha256": "05e44f478a5db0845dad0475f063e1cf8c3f0227440e56bfa2cdc5933b9d8d7b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_35440df21d78",
+      "source_book": "卫斯理系列/065（命运附篇）十七年.txt",
+      "title": "（命运附篇）十七年",
+      "source_sha256": "737a131a903e78d950a6c976f141bbe0153c21b4eafe65959558b3167dea9cab",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_859ed7023fbf",
+      "source_book": "卫斯理系列/066异宝.txt",
+      "title": "异宝",
+      "source_sha256": "de6ac55c30f8c89744e293294742ad8c45b5cf430c25d093748ffaa370d6fa19",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_2cbde07c2bc4",
+      "source_book": "卫斯理系列/067极刑.txt",
+      "title": "极刑",
+      "source_sha256": "46cfa532c1c1b63014521f0758b1097fb4a131c7cb0b2fd4635f3c6ec7929147",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d00aaaa4bf0c",
+      "source_book": "卫斯理系列/068电王.txt",
+      "title": "电王",
+      "source_sha256": "1f06c68001a4e46a81953d8c5ffad7450c05628d236e57c3bd5061a2c93cdeb5",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_a29d882bf206",
+      "source_book": "卫斯理系列/069游戏.txt",
+      "title": "游戏",
+      "source_sha256": "497ab30939dcc63226b673e7c9cb080cb4e1fb3bb288c0f5a54f03389b4339e3",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_87a4d0bf6b68",
+      "source_book": "卫斯理系列/070生死锁.txt",
+      "title": "生死锁",
+      "source_sha256": "a630f7ba4b6a9a1e92be1e10538b3b82c6570fdada0cae89d72b07ddf549a339",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_cb3010eb1b45",
+      "source_book": "卫斯理系列/071黄金故事.txt",
+      "title": "黄金故事",
+      "source_sha256": "d27d9d729a12bcd62eb9efc1a455ddae75d56117b5886fccc34e0d71bac13976",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_368ae83e2abe",
+      "source_book": "卫斯理系列/072废墟.txt",
+      "title": "废墟",
+      "source_sha256": "859c7722245a7bacdcd9535debe5de68892191a1aee9b001b69b5305675b9da3",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_1c6d305a7482",
+      "source_book": "卫斯理系列/073密码.txt",
+      "title": "密码",
+      "source_sha256": "12d3df795be0899612ff0fef023fc9c4916ca798f27da2668ff17299e3c57ebb",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_4b02bc02acd9",
+      "source_book": "卫斯理系列/074血统.txt",
+      "title": "血统",
+      "source_sha256": "48819f80b1bcc7419e121be858c30d7fbc39961ad153e809b8e7f086ce8f433e",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f7287efb3d54",
+      "source_book": "卫斯理系列/075谜踪.txt",
+      "title": "谜踪",
+      "source_sha256": "c170816f5581da277abce66bb2fc660865163e13bb2125f1ddb16282a95c32bf",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_4c2c25adb6fa",
+      "source_book": "卫斯理系列/076瘟神.txt",
+      "title": "瘟神",
+      "source_sha256": "2c3a0b6f16fb00fddb908a698e7b4dcb1bec550d841c8150372510c8472c8841",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_2229d47a9403",
+      "source_book": "卫斯理系列/077招魂.txt",
+      "title": "招魂",
+      "source_sha256": "5581d45e86238fed770fd6e0b1227286dbee45bc6761b75921444eb73a412b6e",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_20c82d7b018b",
+      "source_book": "卫斯理系列/078背叛.txt",
+      "title": "背叛",
+      "source_sha256": "344388a9a413e99b34a1aa2d0b1fc5daa50b1ba06cb5d88652a279ba1b2a9aab",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_c23bc58a3f43",
+      "source_book": "卫斯理系列/079鬼混.txt",
+      "title": "鬼混",
+      "source_sha256": "b7cb0c3e94336019d3ed8698f53da86fa726c81ec5537d2337b2eb67e8f45f9a",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_7dd0784e73ec",
+      "source_book": "卫斯理系列/080报应.txt",
+      "title": "报应",
+      "source_sha256": "488a30574314ec3a7d57251398cb36a8a48bda0c0936df7ea19136784ee6e54a",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_0e73a43298e9",
+      "source_book": "卫斯理系列/081错手.txt",
+      "title": "错手",
+      "source_sha256": "2413dee14aa56be8107aebd1fb620c74e82c0a360d2c6fad1cc7fcdbca21555d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_439488d0010e",
+      "source_book": "卫斯理系列/082真相.txt",
+      "title": "真相",
+      "source_sha256": "456b816785e514e92617c4feff5d55616e052a3b527b624fd6711fbbd2745764",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_0c1cbe649a9a",
+      "source_book": "卫斯理系列/083毒誓.txt",
+      "title": "毒誓",
+      "source_sha256": "7cbd4e94603d697ecb560154dfb9401d01c39f9d1ea949b5a7b1b4507b59e2b2",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_44a0ac928c15",
+      "source_book": "卫斯理系列/084拼命.txt",
+      "title": "拼命",
+      "source_sha256": "759b6b1838e61d4a9270c0652a6d01bc37ba6272632025ca5de26121aacb62ac",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_e2ec5e693740",
+      "source_book": "卫斯理系列/085怪物.txt",
+      "title": "怪物",
+      "source_sha256": "cb3ee4d77787b29a584a083205a25604fcc9d92a8c9522ce7eec8ce6a0d61c1e",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_1664e10c286b",
+      "source_book": "卫斯理系列/086探险.txt",
+      "title": "探险",
+      "source_sha256": "8f1198a9aa041ea0138134cb32cd32a92b83c9f43bb9cf684c0aa76972934908",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_afc4b3885657",
+      "source_book": "卫斯理系列/087继续探险.txt",
+      "title": "继续探险",
+      "source_sha256": "e07f153c3bbd47c931d1129221d174f6647e2c5b4f8c59fea83c0607d2b4aed6",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_7a07f286d660",
+      "source_book": "卫斯理系列/088圈套.txt",
+      "title": "圈套",
+      "source_sha256": "b4c56fe35f08cd88fd9b83bcaa2ced669c1f051c325fa9497563e1ba2032671f",
+      "module_ids": [
+        "scenario_historical_trap"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "historical_trap"
+      ]
+    },
+    {
+      "book_id": "book_6f42d4433a38",
+      "source_book": "卫斯理系列/089烈火女.txt",
+      "title": "烈火女",
+      "source_sha256": "d5e3ac012a9d66ec67eb57ec8651f69aae8dfbc34ac0f965b1be45ed92f9b143",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_e968e0af1390",
+      "source_book": "卫斯理系列/090大秘密.txt",
+      "title": "大秘密",
+      "source_sha256": "7edeb79459c8dc416ca4b405b32ecedbb3d4284f77bbc5cb2e0d44c8e9df682f",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_02a15832ae8a",
+      "source_book": "卫斯理系列/091祸根.txt",
+      "title": "祸根",
+      "source_sha256": "58a9c164879750cfb0c427b1d7237396ac3b25507b3f7e46ad19215d78407e60",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d33ed0dd790d",
+      "source_book": "卫斯理系列/092从阴间来.txt",
+      "title": "从阴间来",
+      "source_sha256": "6cac18241c95a0a573009a4be1d1780005950a8c61cdd64655d6a45a79242fd8",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_914104aeec48",
+      "source_book": "卫斯理系列/093到阴间去.txt",
+      "title": "到阴间去",
+      "source_sha256": "0b132ecd58cba0f9315da491cdab631a9f698393a5f19748879c6a9e68b8eb77",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_7f97554a99f6",
+      "source_book": "卫斯理系列/095阴差阳错.txt",
+      "title": "阴差阳错",
+      "source_sha256": "f0a6ca5936e52b47f88218300d5c37b67b1c3bdb6cee9a410836f6b0eb757976",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_46069e874c48",
+      "source_book": "卫斯理系列/096阴魂不散.txt",
+      "title": "阴魂不散",
+      "source_sha256": "ee37c4de75188943eb4d5fc956ecab69f7729f7cb244ffce135207657b799b8b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b6cdd6772328",
+      "source_book": "卫斯理系列/097许愿.txt",
+      "title": "许愿",
+      "source_sha256": "ac0e2b19299dd6a5546d02076649be09587ef4d96b1b4a017357e3729380225e",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_79cff9a289b5",
+      "source_book": "卫斯理系列/098还阳.txt",
+      "title": "还阳",
+      "source_sha256": "647a5496330983ae12d4af40398e5d425097b032462cb6b93cc23bd4fae8c345",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_feef27707791",
+      "source_book": "卫斯理系列/099运气.txt",
+      "title": "运气",
+      "source_sha256": "34bb98e27aa50e1d39dbd5c14aead2f42eaebce498edee9df83882a3b3c82d3a",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b75096582a1e",
+      "source_book": "卫斯理系列/100开心.txt",
+      "title": "开心",
+      "source_sha256": "e9f4e71086d8dbcd60ad0bc6f6d3b5bb397c1c4916e563a0d5c72af1e8a14f92",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_051368140ce0",
+      "source_book": "卫斯理系列/101转世暗号.txt",
+      "title": "转世暗号",
+      "source_sha256": "0a69f3bc3ba2204d20f2a34622e6f5f9cfaec09649a08efd0c40c7f1682287f1",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_ede3a34d0069",
+      "source_book": "卫斯理系列/102将来.txt",
+      "title": "将来",
+      "source_sha256": "1084f9541690fd96c10731cd079b8419ed309a760377021d7a010a404d315122",
+      "module_ids": [
+        "artifact_thought_instrument",
+        "boss_thought_instrument",
+        "scenario_thought_instrument"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "thought_instrument"
+      ]
+    },
+    {
+      "book_id": "book_460f6aca3017",
+      "source_book": "卫斯理系列/103改变.txt",
+      "title": "改变",
+      "source_sha256": "172333a4ef1943dd3e24d1c3d12d9ce968a64b1274fbe6bba2cfc556fa6f2a2c",
+      "module_ids": [
+        "artifact_thought_instrument",
+        "boss_thought_instrument",
+        "scenario_thought_instrument",
+        "artifact_ion_blind_spot",
+        "hazard_ion_blind_spot"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "thought_instrument",
+        "ion_blind_spot"
+      ]
+    },
+    {
+      "book_id": "book_62f7b50febce",
+      "source_book": "卫斯理系列/104暗号之二.txt",
+      "title": "暗号之二",
+      "source_sha256": "0d06f2a60b61820326b077fbbed8c0c0667a06424a1d78008fc4146437690229",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b60f03e1be18",
+      "source_book": "卫斯理系列/105闯祸.txt",
+      "title": "闯祸",
+      "source_sha256": "0f1d301ef14d58c4f9fa1c0983c38f64ae33f22ab2cc117f4ed604b2a279ed2c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_723871ef0f84",
+      "source_book": "卫斯理系列/106在数难逃.txt",
+      "title": "在数难逃",
+      "source_sha256": "55e8fa566d17cc3a3516985e73b565261287ff51be7137182e53d76e33237ec7",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_daabf1bd27ce",
+      "source_book": "卫斯理系列/107解脱.txt",
+      "title": "解脱",
+      "source_sha256": "8cc906d580b95902749f67034ee2bb6dce45e5712c2fd68a2647851f37b8a514",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f1f38a987ab8",
+      "source_book": "卫斯理系列/108遗传.txt",
+      "title": "遗传",
+      "source_sha256": "ff11592ee72617244679af84c7989a4675a5cda238df0774e26154a524903aad",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_8f5e88561a93",
+      "source_book": "卫斯理系列/109爆炸.txt",
+      "title": "爆炸",
+      "source_sha256": "484c26b72bc83b2b7647d758eefbf9b9d9082e062898fb835a5b7aaadba37abe",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d42304856b15",
+      "source_book": "卫斯理系列/110水晶宫.txt",
+      "title": "水晶宫",
+      "source_sha256": "1af3a0dc3e1190bed546dff900f2655b9464537cc6a81566a287b5285a644fd4",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_df365f75c27c",
+      "source_book": "卫斯理系列/111前世.txt",
+      "title": "前世",
+      "source_sha256": "3511710d341a7a85d5c5905de764ae2541896d6886379db00cf8d681d56b3522",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_543cc7939a66",
+      "source_book": "卫斯理系列/112新武器.txt",
+      "title": "新武器",
+      "source_sha256": "824ddf0c78a3abb0f59cf65f874edbbabb722eea1c2ad556309d3cc5891a406e",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_256733d70464",
+      "source_book": "卫斯理系列/113病毒.txt",
+      "title": "病毒",
+      "source_sha256": "0e5d936e82f06811d5f772625872653eab4871dc5aa1c1342a6c316095956307",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_bfd34177adbe",
+      "source_book": "卫斯理系列/114算帐.txt",
+      "title": "算帐",
+      "source_sha256": "f8f9e5ec07ee6721fcd672383d584179a02d23e9272e55dae934908e6e2a27c8",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_c3eb683408d9",
+      "source_book": "卫斯理系列/115原形.txt",
+      "title": "原形",
+      "source_sha256": "1ffa2bd121521f647bd4c6e9ccd792f9c684b58b433f11404679bed0ab67e151",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d98888b9b835",
+      "source_book": "卫斯理系列/116活路.txt",
+      "title": "活路",
+      "source_sha256": "452a30338a1f524c501ff49f274a206433e9f728ebe284e3abdc2c97f603b0cb",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_c61574d6d706",
+      "source_book": "卫斯理系列/117双程.txt",
+      "title": "双程",
+      "source_sha256": "5eebe6641437cd63bdfefa72fbfb51dcafe629a94250eac48b1169a72c5fa6c2",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f4a7e356d619",
+      "source_book": "卫斯理系列/118洪荒.txt",
+      "title": "洪荒",
+      "source_sha256": "52cf61b764ba4439cb6f1a87ba8784e826fbea1379fa6a76e6262e68c146275d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_ab36d2b6adeb",
+      "source_book": "卫斯理系列/119买命.txt",
+      "title": "买命",
+      "source_sha256": "b8130b72d83c448ca2e73be58bfe12fad966ebc4b44a6de1f77606903b505314",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_285c39eb6c50",
+      "source_book": "卫斯理系列/120卖命.txt",
+      "title": "卖命",
+      "source_sha256": "e93d550015c33f8006240ac842783e731e022ba572d0e09de11cdddfc3eb296d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_c33c05bc68a3",
+      "source_book": "卫斯理系列/121考验.txt",
+      "title": "考验",
+      "source_sha256": "5d04c847014b0e5dc365977bf7227c07675b26061c0ff91c31b6fd7914e9dc31",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_5f3fbef0e5c5",
+      "source_book": "卫斯理系列/122传说.txt",
+      "title": "传说",
+      "source_sha256": "9a620ad906117272ee9aeb1af8ba3643c67924c71bc6d5e49eebd2f967eab99d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_24d705c0bdc0",
+      "source_book": "卫斯理系列/123豪赌.txt",
+      "title": "豪赌",
+      "source_sha256": "54f37d040e7c5c6d867f11f6532aa93ab654c814d05a586ee60261ea01be299b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_6e319aaba962",
+      "source_book": "卫斯理系列/124真实幻境.txt",
+      "title": "真实幻境",
+      "source_sha256": "632b00312b5dcf7efd3cbc894a49907fcf0a51a02cf8e3d275cb111dd914e823",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_9a4da2ea3ef3",
+      "source_book": "卫斯理系列/125成精变人.txt",
+      "title": "成精变人",
+      "source_sha256": "2b9b3fdfe2b26cbfa394ffc551b1591152549e105edae0836c75b2221dc68f7f",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f4ea5e801b15",
+      "source_book": "卫斯理系列/126未来身份.txt",
+      "title": "未来身份",
+      "source_sha256": "1724f940e2703308b4a116e593e429ebe41d136fb1c4ea2b5f5fc9b11bc1bb83",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_2d7fca10f0c2",
+      "source_book": "卫斯理系列/127移魂怪物.txt",
+      "title": "移魂怪物",
+      "source_sha256": "f4c3fea1917b09b958aa0cee2916232daf7b3349c696dfa3a08e04e14a2897cb",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_208391977d6e",
+      "source_book": "卫斯理系列/128人面组合.txt",
+      "title": "人面组合",
+      "source_sha256": "81b16ece0f1a7e34666dacc32f70d855b5476f4b5d53e59eda31626529cd1af2",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b54a1ab24606",
+      "source_book": "卫斯理系列/129本性难移.txt",
+      "title": "本性难移",
+      "source_sha256": "2da8230df04196d86719ba5c70b1c1d3a316a5eca56d6665880505ba3bb56409",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b4abf1afb96c",
+      "source_book": "卫斯理系列/130天打雷劈.txt",
+      "title": "天打雷劈",
+      "source_sha256": "05a8c5d71623245d2521c0026f8d3c9036c70f2355a29d31a59c4af3e4118dcf",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_ccfaaef512be",
+      "source_book": "卫斯理系列/131另类复制.txt",
+      "title": "另类复制",
+      "source_sha256": "34d35dafc5fb21fb08d6f32ad5423d0e17703c521c7199bbb1c87a0ade1aa47b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_42d8c174fce1",
+      "source_book": "卫斯理系列/132解开密码.txt",
+      "title": "解开密码",
+      "source_sha256": "729fc0f38475ee2d249f8eb580cd4268d031b5fe8aa7e9faebe2f87faf714362",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_3ce9d442f6f5",
+      "source_book": "卫斯理系列/133异种人生.txt",
+      "title": "异种人生",
+      "source_sha256": "64db677a42782d72f3cdb292a066c315066f62a5d36fcff0f167ebe859e3a41c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_43352802d46c",
+      "source_book": "卫斯理系列/134偷天换日.txt",
+      "title": "偷天换日",
+      "source_sha256": "7c07f878a130f1971e9bfe8b715b90539d44174d4b9b96f1bd6bee9e946eb9a3",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_0041f4c9e250",
+      "source_book": "卫斯理系列/135闭关开关.txt",
+      "title": "闭关开关",
+      "source_sha256": "3a954b783d485dd9b50c6951e6fa43b86b113dea9c64f2e8588cc094184619d1",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_202100bacdcc",
+      "source_book": "卫斯理系列/136行动救星.txt",
+      "title": "行动救星",
+      "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+      "module_ids": [
+        "hazard_mountain_elder",
+        "boss_mountain_elder",
+        "scenario_mountain_elder"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "mountain_elder"
+      ]
+    },
+    {
+      "book_id": "book_1a10e56018a3",
+      "source_book": "卫斯理系列/137乾坤挪移.txt",
+      "title": "乾坤挪移",
+      "source_sha256": "2fb84ddf03fc2217f4fa2da1b2ce24e2f1be77d3b71f97d4095f5effe740c6e9",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_5dba74386b36",
+      "source_book": "卫斯理系列/138财神宝库.txt",
+      "title": "财神宝库",
+      "source_sha256": "57f540a0c90e4e3f7eb03235d1a844ea526fbb59e062768c2f2af32d9175ff18",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b457a6d0232b",
+      "source_book": "卫斯理系列/139一半一半.txt",
+      "title": "一半一半",
+      "source_sha256": "bd10b3fef9d90c2054188509602956482dcc8b9968e4e8445080038179f4dd41",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_a25be6589e38",
+      "source_book": "卫斯理系列/140身外化身.txt",
+      "title": "身外化身",
+      "source_sha256": "138e644990f164b83bf345d32d2c16dcf722bca0405ed053d21498047d72b0c3",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_ab0673a37fb6",
+      "source_book": "卫斯理系列/141非常遭遇.txt",
+      "title": "非常遭遇",
+      "source_sha256": "edec55040c8d653cf2d8942f92f12902da91ca8315968706aacce8c99ecb3122",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_fdbc69603f88",
+      "source_book": "卫斯理系列/142一个地方.txt",
+      "title": "一个地方",
+      "source_sha256": "6e713ff2c8bd77a28a289344ccd726e90bf16d9facf53672c6fc9328beb99acd",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b1d274cab5de",
+      "source_book": "卫斯理系列/143须弥芥子.txt",
+      "title": "须弥芥子",
+      "source_sha256": "ad52cddb8115da82f328c611cbe283b714bd5676894dce68fa76ea8e62d17724",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_9e50e2320f44",
+      "source_book": "卫斯理系列/144死去活来.txt",
+      "title": "死去活来",
+      "source_sha256": "36833443e5bbfe7bf3762fb469bd76ac76619a1bc25b4c8b972bb69bdef5d655",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_1fb6bf0030da",
+      "source_book": "卫斯理系列/145只限老友.txt",
+      "title": "只限老友",
+      "source_sha256": "be769564ff1e1450e11a488c6a80d989d15c358e0f7c687f7ab7482107021adf",
+      "module_ids": [
+        "artifact_thought_instrument",
+        "boss_thought_instrument",
+        "scenario_thought_instrument"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "thought_instrument"
+      ]
+    },
+    {
+      "book_id": "book_3e607a62aa6b",
+      "source_book": "卫斯理系列/52愿望猴神.txt",
+      "title": "愿望猴神",
+      "source_sha256": "f761de854d04eb12fb636b7c451f39c935bdd037f28aeec5988256dbd12dc1cc",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_7eed28bd703f",
+      "source_book": "卫斯理系列/94少年卫斯理.txt",
+      "title": "少年卫斯理",
+      "source_sha256": "737691e69b80e689c81bbaab02f2dd690c5c9c9a6f523af5cad4c50f020a60bd",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_36e3d4c8cce1",
+      "source_book": "原振侠系列/01.天人.txt",
+      "title": "天人",
+      "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+      "module_ids": [
+        "artifact_tianren_implant",
+        "hazard_tianren_implant",
+        "boss_tianren_implant",
+        "scenario_tianren_implant"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "tianren_implant"
+      ]
+    },
+    {
+      "book_id": "book_7ee77fb86e3e",
+      "source_book": "原振侠系列/02.迷路.txt",
+      "title": "迷路",
+      "source_sha256": "d5744fc89841cfa8c7b7e6c45366f7ce850aeb86ac264016907b03da863395d0",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_2789d5cc76fb",
+      "source_book": "原振侠系列/03.血咒.txt",
+      "title": "血咒",
+      "source_sha256": "d0dc5b5244fcb4924e841597258f83e381b903c52dd845d7ac1cdac2f59e9809",
+      "module_ids": [
+        "artifact_death_blood_curse",
+        "scenario_death_blood_curse"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "death_blood_curse"
+      ]
+    },
+    {
+      "book_id": "book_39fb00415b22",
+      "source_book": "原振侠系列/04.海异.txt",
+      "title": "海异",
+      "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+      "module_ids": [
+        "artifact_marine_microbes",
+        "hazard_marine_microbes",
+        "boss_marine_microbes",
+        "scenario_marine_microbes"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "marine_microbes"
+      ]
+    },
+    {
+      "book_id": "book_e0f35641e223",
+      "source_book": "原振侠系列/05.宝狐.txt",
+      "title": "宝狐",
+      "source_sha256": "64e25f2593c53315029bc368bdc38d5bf104ee781d40dfe46a454057fb9ba2a5",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_77f6858f5020",
+      "source_book": "原振侠系列/06.灵椅.txt",
+      "title": "灵椅",
+      "source_sha256": "5b2790408f171f8dde0941799afdfd913457ffb2f7fe6345348f3b5bc8ee99f7",
+      "module_ids": [
+        "artifact_spirit_chair",
+        "hazard_spirit_chair",
+        "scenario_spirit_chair"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "spirit_chair"
+      ]
+    },
+    {
+      "book_id": "book_c26941f0be81",
+      "source_book": "原振侠系列/07.奇缘.txt",
+      "title": "奇缘",
+      "source_sha256": "c92952812cc636c9577255f8272c935998de207a6d97919014250e3f28638719",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_5685f34b259c",
+      "source_book": "原振侠系列/08.精怪.txt",
+      "title": "精怪",
+      "source_sha256": "0c10442a7e9dc239d0df8e17c497d96915c646e323103f5caea6cba881d99366",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_226fcca28cf8",
+      "source_book": "原振侠系列/09.鬼界.txt",
+      "title": "鬼界",
+      "source_sha256": "1aca3fba598ed20ae551524dc10176997146398901312577b4e2d5c11e244d95",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_cb528bd708df",
+      "source_book": "原振侠系列/10.魔女.txt",
+      "title": "魔女",
+      "source_sha256": "cd2df05c153fa2003e70462d1d0d7f7ef6ef0c125d27b70caf3a6b916a3ab2b9",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_3ce22cd3ec25",
+      "source_book": "原振侠系列/11.失魂.txt",
+      "title": "失魂",
+      "source_sha256": "8026c89f19e32652c09d52356b75ac90dd14f02aa2dc9e88ed92f67caf216a1d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_db2b59ea878a",
+      "source_book": "原振侠系列/12.降头.txt",
+      "title": "降头",
+      "source_sha256": "88395b1415d6e0f274e66c0ef4f80ca3215480b57a7993f8f42cd1b1995e9c47",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_07cad85786b0",
+      "source_book": "原振侠系列/13.巫艳.txt",
+      "title": "巫艳",
+      "source_sha256": "bfbf82cd325b99abfb1ccb54f4b3ce960f818a5621b8a820d4b2ed87e5e2c390",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_62d753bf9176",
+      "source_book": "原振侠系列/14.爱神.txt",
+      "title": "爱神",
+      "source_sha256": "daaed62971df6f256e26d88a150285a98f432458dc506e31d34f345a66f2bc62",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_e56e749e59f8",
+      "source_book": "原振侠系列/15.寻找爱神.txt",
+      "title": "寻找爱神",
+      "source_sha256": "e5765803821591506399b2d4fde781d408c76e30b69e34c2c3caa56ff12bf661",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_16e87a9465f3",
+      "source_book": "原振侠系列/16.大犯罪者.txt",
+      "title": "大犯罪者",
+      "source_sha256": "7c6a554128e27a9283152d27909036e1f718a6e1d3bb831354088bc1bfd84fb9",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_4b64c28681b2",
+      "source_book": "原振侠系列/17.幽灵星座.txt",
+      "title": "幽灵星座",
+      "source_sha256": "1512c711637508d5aa1a4e20a1b8e918bee903ab992eae341bb9d401e3154ed6",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b918ee450d56",
+      "source_book": "原振侠系列/18.黑暗天使.txt",
+      "title": "黑暗天使",
+      "source_sha256": "a43bfec6625e0fb7eef0725897ea8fb842d04ea7457d7a7c3949cdf77abcee74",
+      "module_ids": [
+        "boss_princess_new_body",
+        "scenario_princess_new_body"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "princess_new_body"
+      ]
+    },
+    {
+      "book_id": "book_77ccd1a6eaff",
+      "source_book": "原振侠系列/19.迷失乐园.txt",
+      "title": "迷失乐园",
+      "source_sha256": "4d5ece0644c482f7d977e4fe1dcebb3140550ca3406b9de5ef674bedaf19bc8e",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_28699f25b62e",
+      "source_book": "原振侠系列/20.劫数.txt",
+      "title": "劫数",
+      "source_sha256": "6907ce0af978918bf32a4690de5fc8af6ece6dff24d062c53055e12b940a65a7",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_0f399f095697",
+      "source_book": "原振侠系列/21.快活秘方.txt",
+      "title": "快活秘方",
+      "source_sha256": "c436b88f9a39165dfa397d47f3921e93fbb25af543c48eed797766d538438846",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_6fc25920ef91",
+      "source_book": "原振侠系列/22.变换双星.txt",
+      "title": "变换双星",
+      "source_sha256": "7442dda2ec2412527f0f8916e000404cda26d9bf765d36d22b9db61c15008964",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_51ac5b7920ea",
+      "source_book": "原振侠系列/23.血的诱惑.txt",
+      "title": "血的诱惑",
+      "source_sha256": "f7a54cdadd0da883051bf8eeeae0bfaf8d1f28917fc0834e1ed709ce61d7d99a",
+      "module_ids": [
+        "artifact_maxian_blood_link",
+        "boss_maxian_blood_link",
+        "scenario_maxian_blood_link"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "maxian_blood_link"
+      ]
+    },
+    {
+      "book_id": "book_1b2ce90d0135",
+      "source_book": "原振侠系列/24.催命情圣.txt",
+      "title": "催命情圣",
+      "source_sha256": "5f959de7f4e1c40cda564c704745151d4e29a1a2c6b663a69e8bfc558cd332cf",
+      "module_ids": [
+        "artifact_maxian_blood_link",
+        "boss_maxian_blood_link",
+        "scenario_maxian_blood_link"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "maxian_blood_link"
+      ]
+    },
+    {
+      "book_id": "book_b3303d3266ed",
+      "source_book": "原振侠系列/25.黑白无常.txt",
+      "title": "黑白无常",
+      "source_sha256": "d88954a9d8345ba805bb5c178f7a1219853b7104d5156f70736cf91d66ea54f4",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_16465c78ff52",
+      "source_book": "原振侠系列/26.自杀阴谋.txt",
+      "title": "自杀阴谋",
+      "source_sha256": "b4b7d85338366a5e12b5280ac6e0f8212b004bdfc2be5f168a1458868e39b4a6",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_6a15650b973f",
+      "source_book": "原振侠系列/27.假太阳.txt",
+      "title": "假太阳",
+      "source_sha256": "8bd1f4fa234561a0f2c31508489acf05bee9150c41984d2fcae576f305a3db8d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b6f70bb43bd7",
+      "source_book": "原振侠系列/28.无间地狱.txt",
+      "title": "无间地狱",
+      "source_sha256": "45ca2d7799e1574489ec2076453f50d705939923e2a71ce26946d35e9a6ef512",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_6e1d8d6fd7c7",
+      "source_book": "原振侠系列/29.人鬼疑云.txt",
+      "title": "人鬼疑云",
+      "source_sha256": "82f7d1c0a6f9db3ae4642f6099ef7d578fe054f24190b7b8849abcf831966e7b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_571244d5335f",
+      "source_book": "原振侠系列/30.魂飞魄散.txt",
+      "title": "魂飞魄散",
+      "source_sha256": "6d349d5b4e41ebd3066c496f32e12ad9879394813107aa78cb84e20ad0dfcf92",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_fa4a01f100bb",
+      "source_book": "原振侠系列/31.宇宙杀手.txt",
+      "title": "宇宙杀手",
+      "source_sha256": "2b9337f5281c2b3b5c74701554a46029f1918686a0a41c56c68506195ec9d8b5",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_8e795168086a",
+      "source_book": "原振侠系列/32.天皇巨星.txt",
+      "title": "天皇巨星",
+      "source_sha256": "48538778037f6dff1876f9945b021ca78830dee45ca247f5eb404c42a4b82bf3",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d3358ada2f8a",
+      "source_book": "年轻人/01手套.txt",
+      "title": "手套",
+      "source_sha256": "2b99befe90eb0ccc14811a7021b608d7d076e1a5d37989d9c344e5e57bb95afb",
+      "module_ids": [
+        "hazard_safe_substitution",
+        "scenario_safe_substitution"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "safe_substitution"
+      ]
+    },
+    {
+      "book_id": "book_1095fd0d1b57",
+      "source_book": "年轻人/02足球.txt",
+      "title": "足球",
+      "source_sha256": "a7f58facae73285a5b2d989da7fdb7f154aa304d775d1269df15001e2288503c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_c611c01a4c92",
+      "source_book": "年轻人/03宝刀.txt",
+      "title": "宝刀",
+      "source_sha256": "a887655ae3f54a50a58a885cca5f03ab2fe5a4fb7edf84973d787913b8d2dbc9",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d2f0e3b9ed17",
+      "source_book": "年轻人/04尺蠖 .txt",
+      "title": "尺蠖",
+      "source_sha256": "cc5764b4e8c69e04f8a02d25f0868f9ef08eebe1aab592dfd1c53e2a855618eb",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b227612aca17",
+      "source_book": "年轻人/05大宝藏.txt",
+      "title": "大宝藏",
+      "source_sha256": "ec0db252e0eaaa17cc950b33722a61b3d240b0f50e7e9bc3098005cdb93e6fde",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_5f4cae703ba6",
+      "source_book": "年轻人/06神机.txt",
+      "title": "神机",
+      "source_sha256": "cdd37707fd14c0e9cb027e4f092fdae12cc5365458e645339e7f8652a52a0aa3",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_fbd86e8f5385",
+      "source_book": "年轻人/07暗算.txt",
+      "title": "暗算",
+      "source_sha256": "ceeb76564c6cf53a6108abaf618b090b70457b0ff3c1e2b8d95fd1a6cf2fa150",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_005dc3e62dd2",
+      "source_book": "年轻人/08天敌.txt",
+      "title": "天敌",
+      "source_sha256": "3e8d9f7dc9c45281259003e43881056d191ac9e63c2ed1cde64b458304c7e7e4",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_00387402bed3",
+      "source_book": "年轻人/09夜归.txt",
+      "title": "夜归",
+      "source_sha256": "aa3f67531df05fd0c229d7451a8c828970e6dd681d85ea1d1943282cb3d61b2b",
+      "module_ids": [
+        "boss_princess_new_body",
+        "scenario_princess_new_body"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "princess_new_body"
+      ]
+    },
+    {
+      "book_id": "book_dee2f7fcccdd",
+      "source_book": "年轻人/10四条金龙.txt",
+      "title": "四条金龙",
+      "source_sha256": "120ead339d90d0fb0183d5882f5f2f6b985a29dfe04f55bcd6662c1fa1b65f44",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_deacb6b2ffbe",
+      "source_book": "年轻人/11消失女神.txt",
+      "title": "消失女神",
+      "source_sha256": "52245665e60eebf670b4d95ebadcaafc396e7c60fc5137745bec23eabcf7b010",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_057b15b2db0f",
+      "source_book": "年轻人/12离魂奇遇.txt",
+      "title": "离魂奇遇",
+      "source_sha256": "081e431ff7a58a23f882ca47c20bdbb59dcfd999a3a0eb2e5223b1c09d1b7362",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d135e392bd20",
+      "source_book": "年轻人/13神话世界.txt",
+      "title": "神话世界",
+      "source_sha256": "4fc6ab65fbdb0e9621df5e12713ea6dfd934422da981794244be376e706b7914",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_c2535674b4f0",
+      "source_book": "木兰花全集/01巧夺死光表.txt",
+      "title": "巧夺死光表",
+      "source_sha256": "d17086adf4b01549f1ae00a598a20b5a19d9f5d0dfa3d6708f027929925a6171",
+      "module_ids": [
+        "artifact_deathwatch",
+        "scenario_deathwatch"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "deathwatch"
+      ]
+    },
+    {
+      "book_id": "book_c58b72d1bd18",
+      "source_book": "木兰花全集/02黑龙现爪.txt",
+      "title": "黑龙现爪",
+      "source_sha256": "288f5d8b671cae2a2db5e96d92b2dccdb71f260bc437d53b4669a02a7d0ec47e",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f8a7c1a887d7",
+      "source_book": "木兰花全集/03太阳之女.txt",
+      "title": "太阳之女",
+      "source_sha256": "fe88f067382231943763db85889d6aeb63f3f7bb7bc368acb69b259e6f2b93f1",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f41d7fd92d2e",
+      "source_book": "木兰花全集/04木雕人头.txt",
+      "title": "木雕人头",
+      "source_sha256": "aed104a62f86943927a5f07cfe9d4a353eed243c453c96830b7aafce91833cda",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_8c8ae73418a5",
+      "source_book": "木兰花全集/05尸变惊魂.txt",
+      "title": "尸变惊魂",
+      "source_sha256": "0818a214d7185dad2a2e87260b743bd7f3d82ec3690e3a284bec2e07a9806804",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_aaf33c6ffc7d",
+      "source_book": "木兰花全集/06超人集团.txt",
+      "title": "超人集团",
+      "source_sha256": "bf31ec075bd44139b231d2f3df57d84b07018adaba717d1fe54f5005c3efb466",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_6270ef0eb81c",
+      "source_book": "木兰花全集/07高原之谜.txt",
+      "title": "高原之谜",
+      "source_sha256": "ee8daab386da10eed672a5caa23ff83ed8ae56d27ab5041abb025a3bfed01d07",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_bc1b8be792b0",
+      "source_book": "木兰花全集/08雷库惊魂.txt",
+      "title": "雷库惊魂",
+      "source_sha256": "f9ff771a65251368f76167a97402c496eaa5e35bdb6443bbd0621b3cb5a6748c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_e316efa41fb7",
+      "source_book": "木兰花全集/09死亡织锦.txt",
+      "title": "死亡织锦",
+      "source_sha256": "a3b3f6c689f38e50cc5f3e76a425bfedeec4aee60c28ff4a61287fbc42ea8ffa",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d3bfda6ea9f0",
+      "source_book": "木兰花全集/10电眼怪客.txt",
+      "title": "电眼怪客",
+      "source_sha256": "a2bf5c2f598b724f3e3673ea9fa39083bff4aa41649a54d9386752044306ee99",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_15495f0e72b6",
+      "source_book": "木兰花全集/11冰川亡魂.txt",
+      "title": "冰川亡魂",
+      "source_sha256": "4fe65ec6ff18196191085fb0c6e5acdf4bd76752affa5622a3ca5688f73df881",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_dde73ad52f3d",
+      "source_book": "木兰花全集/12夺命红烛.txt",
+      "title": "夺命红烛",
+      "source_sha256": "e8c145f3663fa97b3ae8200601c3b9410caa65867032b8d5fd63c57035ffad7c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_0050207a2763",
+      "source_book": "木兰花全集/13智擒电子盗.txt",
+      "title": "智擒电子盗",
+      "source_sha256": "cae5e4565a5c2dfe0cf6c7790eced723780960b63c6233d1171986440eca4192",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_2c323b3cec3b",
+      "source_book": "木兰花全集/14死亡爆炸网.txt",
+      "title": "死亡爆炸网",
+      "source_sha256": "7555f06269ca9bb505bca2c99eac26041dcd0e388ae785b6fd18d997e4d74528",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_383d3f6c3c1b",
+      "source_book": "木兰花全集/15杀人奖金.txt",
+      "title": "杀人奖金",
+      "source_sha256": "6301f596568dbb4e5480e2507becf8c1fc9b9be8dce36596c8cf1062f528dd07",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_951e382811f4",
+      "source_book": "木兰花全集/16隐形奇人.txt",
+      "title": "隐形奇人",
+      "source_sha256": "9bbf5c34d97a39999700d842f9a928a8a1b99b63c6c8f5b3ca4485de49adc108",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f2a010e21eca",
+      "source_book": "木兰花全集/17高空喋血.txt",
+      "title": "高空喋血",
+      "source_sha256": "7859eb56084d09ca51fd36e020c3cfa021d1c1aa4863bcfd76a474a55df046db",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_83fa0efc7010",
+      "source_book": "木兰花全集/18怒歼恶魔团.txt",
+      "title": "怒歼恶魔团",
+      "source_sha256": "ae717820513f4cc08b286a5406e0457708313dd97a5b8ebed2a4f944ceac8fc1",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_acfa0c7d39e7",
+      "source_book": "木兰花全集/19连环毒计.txt",
+      "title": "连环毒计",
+      "source_sha256": "85356acd31140b312f37dfd80fa5b6625e37d5945a799e18af28256d162d0db6",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_28b211db8b99",
+      "source_book": "木兰花全集/20秘密党.txt",
+      "title": "秘密党",
+      "source_sha256": "50f489bb61d846b6484e2b35c9721a61bbb5b2377e94ba20b4b59b769e377ca4",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_0c1410b315bf",
+      "source_book": "木兰花全集/21旋风神偷.txt",
+      "title": "旋风神偷",
+      "source_sha256": "cf1ef503f3bd0fedd47a1864a4dcc606b63a223c9d39f8519039553666e70e21",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d1e263538229",
+      "source_book": "木兰花全集/22天外恩仇.txt",
+      "title": "天外恩仇",
+      "source_sha256": "041c00a8d51d7478a0df8a29692b53e6090d64a597a6df1b37aadf336d54db12",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_1905922229f9",
+      "source_book": "木兰花全集/23大破暗杀党.txt",
+      "title": "大破暗杀党",
+      "source_sha256": "3d7458567eb0b502406c0c965152699294431c841563180d8b3e28395af441a6",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_3e7d2d337f26",
+      "source_book": "木兰花全集/24魔掌余生.txt",
+      "title": "魔掌余生",
+      "source_sha256": "874dff614da446bfc451fedd00c101d09c16ecd88ff80612dd3d1674cb9465fb",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_5abac49bbff2",
+      "source_book": "木兰花全集/25血溅黄金柱.txt",
+      "title": "血溅黄金柱",
+      "source_sha256": "5f29828f34ad9ecda0a6452099ea8030449d8ad816e0fbd7e779086347c5d75b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_8b71583b37d1",
+      "source_book": "木兰花全集/26神秘血影掌.txt",
+      "title": "神秘血影掌",
+      "source_sha256": "c7d3c8dc45ab21a921de84a0507261f10b9e7afdf2c918c8013f739c3ebfe1c7",
+      "module_ids": [
+        "artifact_bloodshadow_network",
+        "boss_bloodshadow_network",
+        "scenario_bloodshadow_network"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "bloodshadow_network"
+      ]
+    },
+    {
+      "book_id": "book_91f9ff962ece",
+      "source_book": "木兰花全集/27钻石镭射.txt",
+      "title": "钻石镭射",
+      "source_sha256": "bf3bedc6681ee59161f4b597c687ebd1e77127db7d4de04d51888ec18c8d9740",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_32f5137e3369",
+      "source_book": "木兰花全集/28北极氢弹战.txt",
+      "title": "北极氢弹战",
+      "source_sha256": "158ecca856e5053ed45b13474a104d60a0187c875d1062e7356f653a6d7b2508",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_37e234b81722",
+      "source_book": "木兰花全集/29潜艇迷宫.txt",
+      "title": "潜艇迷宫",
+      "source_sha256": "0d9b77bdf955d3c135b7a2a3d74588c65bfaf811df6f83d39691e22704212c6d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_0b0a0d1dcca5",
+      "source_book": "木兰花全集/30玻璃伪钞模.txt",
+      "title": "玻璃伪钞模",
+      "source_sha256": "714654f9a7d146204772a84d705d7f74642cf0e959f71462b158ac928f384813",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_676f75bdba78",
+      "source_book": "木兰花全集/31黑暗历险.txt",
+      "title": "黑暗历险",
+      "source_sha256": "8e1ee099de53004b65e0a96eb0a6704e6f5e1ae37b98037acc560270f611aae8",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f598f34a5dc4",
+      "source_book": "木兰花全集/32人形飞弹.txt",
+      "title": "人形飞弹",
+      "source_sha256": "848a4aba7d36efa84b46fdfbdad94a328d0523fb539ab93797e3a027969f8702",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_15309e2595f9",
+      "source_book": "木兰花全集/33军械大盗.txt",
+      "title": "军械大盗",
+      "source_sha256": "4d12f385c74705e946480faf6ce664206d26923677c998bb7571012c1c398e5c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_59d1e3e8cb38",
+      "source_book": "木兰花全集/34断头美人鱼.txt",
+      "title": "断头美人鱼",
+      "source_sha256": "9043fcae0baa5c3c05c1edf48a48c6547f46dc579c8514a1cc3d6ed1159e94bd",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_184aed6ad276",
+      "source_book": "木兰花全集/35蜘蛛陷阱.txt",
+      "title": "蜘蛛陷阱",
+      "source_sha256": "3343707dc102958563380573b6f5e1dea8f98979eb197725bda263e72c9d07dc",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_40cc4a079530",
+      "source_book": "木兰花全集/36无敌凶手.txt",
+      "title": "无敌凶手",
+      "source_sha256": "c273b7bb2f3b77a9581dfad8fe736d53d730f56f7eb2a6819353209beebd1465",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_847963d3484e",
+      "source_book": "木兰花全集/37沉船明珠.txt",
+      "title": "沉船明珠",
+      "source_sha256": "9265610762eb25f0695b36f0a5079ee7e7088a8c5d4006f4abb80abb94c09caa",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_46efdff81598",
+      "source_book": "木兰花全集/38无价奇石.txt",
+      "title": "无价奇石",
+      "source_sha256": "fb28a3699778df70efce17d5961513591f7ede6820a463f3b51bd245ddb06050",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d891efd52524",
+      "source_book": "木兰花全集/39失踪新娘.txt",
+      "title": "失踪新娘",
+      "source_sha256": "f39d9a9e0987b443f6548b60a8499b6aa9e19d326c75e8893c7340503ca8265d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_7305a311c73f",
+      "source_book": "木兰花全集/40怪新郎.txt",
+      "title": "怪新郎",
+      "source_sha256": "cf26929980b69181cc98d05b8e00cbcd75831124db87d86d170ef4a11168ebb2",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_227fb88cd97f",
+      "source_book": "木兰花全集/41金库奇案.txt",
+      "title": "金库奇案",
+      "source_sha256": "f6e9a2488c30f56274efa24fcec54d8c4947a26bb56b69fb4396a03047ae2844",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f19bdfa70499",
+      "source_book": "木兰花全集/42龙宫宝贝.txt",
+      "title": "龙宫宝贝",
+      "source_sha256": "7f2f04c31bd7a031eed92a5c138e700b50fa50b847c0cce997026f6963773c24",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_ac1506254b91",
+      "source_book": "木兰花全集/43珊瑚古城.txt",
+      "title": "珊瑚古城",
+      "source_sha256": "38a26779df233601741e53d64c2d41721370a8e50499030c49683acf58c05a18",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_2d3443649105",
+      "source_book": "木兰花全集/44猎头禁地.txt",
+      "title": "猎头禁地",
+      "source_sha256": "a9fc87232e96b38fbcbe063d5dc0a23df73e5029e7387c0ae1dc6c2a4656b133",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_010028e53ed7",
+      "source_book": "木兰花全集/45魔画.txt",
+      "title": "魔画",
+      "source_sha256": "6c4f19529505f2b797e210b083e243e6ff6de58ac13a71b08c7301e7cd346125",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_6b37f675c3ee",
+      "source_book": "木兰花全集/46死神殿.txt",
+      "title": "死神殿",
+      "source_sha256": "b9077ad827b01b4f81b20bd44436122431d2cf9e173468708bed3a084f274b29",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_1d06718d42da",
+      "source_book": "木兰花全集/47复活金像.txt",
+      "title": "复活金像",
+      "source_sha256": "f47b36b61cad2bafbedeaca38921002c06cd0bfc3f29ca4993d97c1145f86b29",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_93599e44ee3e",
+      "source_book": "木兰花全集/48遥控谋杀案.txt",
+      "title": "遥控谋杀案",
+      "source_sha256": "894ed9a5d8fadf9fb206c1fbeb63456f7dc7b794821aa913c55c0565a107ee5f",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_1532f53d7550",
+      "source_book": "木兰花全集/49地道奇人.txt",
+      "title": "地道奇人",
+      "source_sha256": "0b0625f5a37f0ea0d92677fe333d1a6633ccc62e4d44ecfdc4bf4df32bfd1cd9",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_3a4be15d72e1",
+      "source_book": "木兰花全集/50蜜月奇遇.txt",
+      "title": "蜜月奇遇",
+      "source_sha256": "de51e9859e8375de803abd0a6a33cd1788b96f08ec3037d55c229458bc4597e0",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_8158b364a96e",
+      "source_book": "木兰花全集/51冷血人.txt",
+      "title": "冷血人",
+      "source_sha256": "17bde8bfd220d40ede9975e6bf2c5cd47fe7d3f3403a132e73734a02fb33b217",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_0987c189c610",
+      "source_book": "木兰花全集/52生死碧玉.txt",
+      "title": "生死碧玉",
+      "source_sha256": "c0ac26bcec0deffa9338cf4a9fdd490f70c8dc1ed553f185e7cba799811af141",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_984efdcbbe6f",
+      "source_book": "木兰花全集/53电网火花.txt",
+      "title": "电网火花",
+      "source_sha256": "fac71c1fd44f5bdf45f1974cb199821eed86f6e7110ea1f6a9f9fca6a3e1c893",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d8d609e865fc",
+      "source_book": "木兰花全集/54古屋奇影.txt",
+      "title": "古屋奇影",
+      "source_sha256": "b2be965c4b9b93d2e55f915e8814431739406edd7e8a62f2680ffcf702e89e88",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_dfed8fba4c8b",
+      "source_book": "木兰花全集/55金庙奇佛.txt",
+      "title": "金庙奇佛",
+      "source_sha256": "ecec4b8b8f69c4e54c79fa4660df19b541bf71449e67f73c3dd18c4de6d6341b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_859f2b1ca2cd",
+      "source_book": "木兰花全集/56天才白痴.txt",
+      "title": "天才白痴",
+      "source_sha256": "8b58d5e526602be97d5fdebc04671858f9a4b662f752aca7c5429beb3e163ba1",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_0d683e643d16",
+      "source_book": "木兰花全集/57生命合同.txt",
+      "title": "生命合同",
+      "source_sha256": "d31398e88938165837ccd801bd1c0bb0c81053e6cb08cf5efbe7ac3f7be70aee",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_a82e320d2775",
+      "source_book": "木兰花全集/58三尸同行.txt",
+      "title": "三尸同行",
+      "source_sha256": "37551042884b06fed9d9dce02522e6a7289930d3c6ac0667f5f093117af852ae",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_ed5ec379acc3",
+      "source_book": "木兰花全集/59无风自动.txt",
+      "title": "无风自动",
+      "source_sha256": "aec7bd2e24e36b2795b806151a102261c57304bd8307b68ecef462f88124b5d4",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_1759a14aa7d2",
+      "source_book": "木兰花全集/60无名怪尸.txt",
+      "title": "无名怪尸",
+      "source_sha256": "3665c301ca46948146acfed72867347e90878320be434b75ecd3df29a2d1c1e3",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_040db2e01a69",
+      "source_book": "浪子高达系列/学美人.txt",
+      "title": "血美人",
+      "source_sha256": "c305c79a2c5b648c76f77f804ecdf8c71d259b4ccc4747875f9b277fa03202fb",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b10cefcfc4f2",
+      "source_book": "浪子高达系列/微晶之密.txt",
+      "title": "微晶之密",
+      "source_sha256": "10a68521da61edb10f16332fc9f39fe67bf0d025deaa0c448e7409e6b7c6f84e",
+      "module_ids": [
+        "artifact_memory_camera",
+        "scenario_memory_camera"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "memory_camera"
+      ]
+    },
+    {
+      "book_id": "book_76747244fea3",
+      "source_book": "浪子高达系列/水晶艳女.txt",
+      "title": "水晶艳女",
+      "source_sha256": "c6e5f3f78babab65e66014428ded74934a47797fd67afb8f821a9f18eda81f16",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d68d23537d9a",
+      "source_book": "浪子高达系列/珍珠荡妇.txt",
+      "title": "珍珠荡妇",
+      "source_sha256": "f551efdea0c50b08f4e5bccd766bc30c6c5f2a8d40bee83de90d1820247b503f",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_9f92503739c8",
+      "source_book": "浪子高达系列/盗尸艳遇.txt",
+      "title": "盗尸艳遇",
+      "source_sha256": "1920d2255095402b7bcfc759f8b38538f1e1385c0f25fd7d147a1849232c29df",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_901a4d30a01c",
+      "source_book": "浪子高达系列/红粉猫.txt",
+      "title": "红粉猫",
+      "source_sha256": "e5ac1f08544ac7856191c9cccf7fcb360286f9b423ece07a437a88998ba00323",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_3f0598f348f0",
+      "source_book": "浪子高达系列/蛇王石.txt",
+      "title": "蛇王石",
+      "source_sha256": "aa603e3e99083d89231ff528fd0d568e6c1b4391fbdbbf58cc4bcb26b182bc11",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f99d9d511884",
+      "source_book": "浪子高达系列/金球红唇.txt",
+      "title": "金球红唇",
+      "source_sha256": "308f4846668524daa62e5fe136c97e795078a60aca8eb69f71ca30ec3a942e86",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_2601c5718f2f",
+      "source_book": "神探高斯系列/01出术.txt",
+      "title": "出术",
+      "source_sha256": "ca4b4290baa156b4b0a12f1c2fa238cc34672f4c32ede8201243d5404dddb8a1",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b310fc0c9328",
+      "source_book": "神探高斯系列/02催眠之术.txt",
+      "title": "催眠之术",
+      "source_sha256": "d6a2d413a1cdf4609f143d222d4976f14a6dd115a71dfa7da75e6dcb6b6826eb",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_9cbc6b143845",
+      "source_book": "神探高斯系列/03飞艇.txt",
+      "title": "飞艇",
+      "source_sha256": "c64efb8cf09e66eb239b1ce46011832441ac68dd1d5a52a074a73ec5ee255e8d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_c157bc6751a0",
+      "source_book": "神探高斯系列/04粉红钻石.txt",
+      "title": "粉红钻石",
+      "source_sha256": "54c4aff7a1a54a35868605a77575040d0e31c8d508f5379055a4b772e9bddd01",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_2dbbf3325895",
+      "source_book": "神探高斯系列/05风向.txt",
+      "title": "风向",
+      "source_sha256": "1926ec6e778e87009f4d12937ce4d86c87753466d230007c2601790e7a3c97c0",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_b43a5c82c0b5",
+      "source_book": "神探高斯系列/06古墨.txt",
+      "title": "古墨",
+      "source_sha256": "a4ab5c8c409e89f0eba4a1f28260bf40d833b16c28ad89c87f61295b754b594f",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_9eb8a7e88e3a",
+      "source_book": "神探高斯系列/07怪房子.txt",
+      "title": "怪房子",
+      "source_sha256": "a9221d5e042630bbc5c6691e35e13e8a31a54ad2d3cfb3002390c6f24afd7b7f",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_fd2acebfac26",
+      "source_book": "神探高斯系列/08怪人奇骗.txt",
+      "title": "怪人奇骗",
+      "source_sha256": "01c279b846049d0c90303c654f86365840dffba568e2e17a9b3afc4938b7d7e4",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_5c42ac4d403f",
+      "source_book": "神探高斯系列/09鬼照片.txt",
+      "title": "鬼照片",
+      "source_sha256": "cb46c1b71204b0e0e874db0602ec677f0b4f42402b7e8b2789d7e90e043999db",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f96d2e2fcb1e",
+      "source_book": "神探高斯系列/10黑美人.txt",
+      "title": "黑美人",
+      "source_sha256": "e6871f7a92e084a3d037b095fbaa9665261e9638ba98004c6c01ae76e4e11b9c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_77a3940e2f05",
+      "source_book": "神探高斯系列/11及时赶到.txt",
+      "title": "及时赶到",
+      "source_sha256": "5eda4b0597fbd09f6b40f9c1265dace0d7be5b13c77e05204f358c80fcb1d34e",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_48b549bd762f",
+      "source_book": "神探高斯系列/12金发女.txt",
+      "title": "金发女",
+      "source_sha256": "8e80b4807d5a6b972ddd9d4fad6e0feeae2f24f51729913bab0e73d6c84b861c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_898be4810fdd",
+      "source_book": "神探高斯系列/13金酋长.txt",
+      "title": "金酋长",
+      "source_sha256": "ac189828c4462ee904f33e9b438976bc4fc0830891e39598b6ca92f04d9c6081",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_34c10b16ba3f",
+      "source_book": "神探高斯系列/14迷途横祸.txt",
+      "title": "迷途横祸",
+      "source_sha256": "8fd3052d403cf6a5775c75443bf45a1e5d0660bfc8b58c8aa0a2b2c6dfc0e3f2",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_119053ededd4",
+      "source_book": "神探高斯系列/15魔鬼的舞蹈.txt",
+      "title": "魔鬼的舞蹈",
+      "source_sha256": "3bc34ffc4eacad6577d85b725a21c7ec3b59903e43e4efdf03e42bee1d19df1b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_e022953c8c50",
+      "source_book": "神探高斯系列/16弄假成真.txt",
+      "title": "弄假成真",
+      "source_sha256": "5c335133e7eb1dcd2123ec17d0b7de279b77fba26482b3f06b7468cd3fb3477b",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_fcb6d8e88204",
+      "source_book": "神探高斯系列/17奇迹.txt",
+      "title": "奇迹",
+      "source_sha256": "bc6cc6b67ba7b4c9d846d4eea4e418d8b2c9188ee607c90e3bc1780f2a9901c2",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_d0e0ef61d706",
+      "source_book": "神探高斯系列/18奇轮.txt",
+      "title": "奇轮",
+      "source_sha256": "d08910a50a7963ee4db13911f1dfbbd8c1aad30f2295dc87cf160f7922f783e4",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_fc4c949d05cd",
+      "source_book": "神探高斯系列/19擒凶记.txt",
+      "title": "擒凶记",
+      "source_sha256": "43699cbe2c4fdd83a4eeceb1148ae4c31a81d774a03c51652b30477e0180b294",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_46988f61c642",
+      "source_book": "神探高斯系列/20三与四.txt",
+      "title": "三与四",
+      "source_sha256": "44ac122f245a8ba1bb032684fa8e892b3ee9e92cf264478d29c67f65378fbb65",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_9d6719f86209",
+      "source_book": "神探高斯系列/21闪电天.txt",
+      "title": "闪电天",
+      "source_sha256": "4674066457619074fa9fea682e07bda016639c5e4651996c32bdc4f04820a7a1",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_431747bbc9f2",
+      "source_book": "神探高斯系列/22水中宝盒.txt",
+      "title": "水中宝盒",
+      "source_sha256": "97fab48bdf2d9f49edfd0208732833362b9ecb5ff9915a654792309ca95d1257",
+      "module_ids": [
+        "artifact_sea_glass_box",
+        "hazard_sea_glass_box",
+        "scenario_sea_glass_box"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "sea_glass_box"
+      ]
+    },
+    {
+      "book_id": "book_73f722d72956",
+      "source_book": "神探高斯系列/23太阳神.txt",
+      "title": "太阳神",
+      "source_sha256": "d850d36504d39316efd609af965a6d73f2ce5e40d3371d227718e3c3d4224c08",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_928de33dd33f",
+      "source_book": "神探高斯系列/24晚礼服.txt",
+      "title": "晚礼服",
+      "source_sha256": "872e7732d3fe83f674a2ad422e588dff2af648b73cca904c8b43a9b3c9351b95",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_6ba794ffcd2a",
+      "source_book": "神探高斯系列/25未卜先知.txt",
+      "title": "未卜先知",
+      "source_sha256": "1e913cf5febf460101b5d687d25dab40f73375bcb98f0d0ec50afa46eb8a0991",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_eb6dffe8a108",
+      "source_book": "神探高斯系列/26雾夜煞星.txt",
+      "title": "雾夜煞星",
+      "source_sha256": "830030acf92f35d4e7442081e6727f220f8ad865bcebc2638c25abceb6abc489",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_bf2a7aef7294",
+      "source_book": "神探高斯系列/27亚洲皇后.txt",
+      "title": "亚洲皇后",
+      "source_sha256": "9ca49604a279d1117f564ff26d81e9bf036bd7b6b534c47891306055314bb7bf",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_3bafae3cade4",
+      "source_book": "神探高斯系列/28妖女煞星.txt",
+      "title": "妖女煞星",
+      "source_sha256": "b5129a279214ffb005891d7b75e09c5c510d466bcb8f930a3dca3733f343e742",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_6223e2d26cdb",
+      "source_book": "神探高斯系列/29预告.txt",
+      "title": "预告",
+      "source_sha256": "6a8f7af2b8d9d636e2aba71a84deed626cd2aad958bc741c659d4018857a3dfa",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_9377f55f8968",
+      "source_book": "非人协会系列/01非人协会 序.txt",
+      "title": "非人协会 序",
+      "source_sha256": "f5b1d8077769911fb05d021e73ed21a3e4e658d98d37f57b7753a1a5ab1b6d35",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_2d60d6b88429",
+      "source_book": "非人协会系列/02鱼人.txt",
+      "title": "鱼人",
+      "source_sha256": "eb32b441475afc0ae19eacea0025cf11eaf55cb10c3a7b2f6aa6fbad60f63a0d",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_230ac1f98cc8",
+      "source_book": "非人协会系列/03两生.txt",
+      "title": "两生",
+      "source_sha256": "2f93c44dd91550ce1aaf7540c00856a9e15ad11d3906a38dd6b288e7803e60ab",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_31c94dd237eb",
+      "source_book": "非人协会系列/04大鹰.txt",
+      "title": "大鹰",
+      "source_sha256": "453889f6ddc32f4341f839ccf197f953a5a7eef400ba87cd369058f2739e1d50",
+      "module_ids": [
+        "hazard_great_eagle",
+        "boss_great_eagle"
+      ],
+      "review_status": "cited_passages_reviewed",
+      "extraction_complete": false,
+      "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+      "dossier_ids": [
+        "great_eagle"
+      ]
+    },
+    {
+      "book_id": "book_752e950f39e6",
+      "source_book": "非人协会系列/05泥沼火人.txt",
+      "title": "泥沼火人",
+      "source_sha256": "bff18ac8353b13382506f5c8c80e4523445d49e68fae4d25ea0d760ef0cedc4c",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_f0c4d721d353",
+      "source_book": "非人协会系列/06三千年死人.txt",
+      "title": "三千年死人",
+      "source_sha256": "30e2b1e60a2ca0c15263917398f2df5cd2fa47a78f0a0e5bb3d4b6987fc8a6fa",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    },
+    {
+      "book_id": "book_7edbe27121e1",
+      "source_book": "非人协会系列/07主宰.txt",
+      "title": "主宰",
+      "source_sha256": "d8890669ac925d6702046ac32103abfa3686d35e319426d325ddc8f5e542857e",
+      "module_ids": [],
+      "review_status": "keyword_screened_only",
+      "extraction_complete": false,
+      "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+      "dossier_ids": []
+    }
+  ]
+}

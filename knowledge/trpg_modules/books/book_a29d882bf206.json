@@ -1,0 +1,66 @@
+{
+  "book_id": "book_a29d882bf206",
+  "source_book": "卫斯理系列/069游戏.txt",
+  "title": "游戏",
+  "source_sha256": "497ab30939dcc63226b673e7c9cb080cb4e1fb3bb288c0f5a54f03389b4339e3",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 106,
+      "sample_line_numbers": [
+        113,
+        1431,
+        1699,
+        2341,
+        2684,
+        2870,
+        2922,
+        3191
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 41,
+      "sample_line_numbers": [
+        58,
+        600,
+        732,
+        816,
+        1279,
+        1332,
+        1853,
+        2057
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        143,
+        659,
+        1108,
+        1760,
+        1854,
+        2718,
+        2859,
+        2930
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 59,
+      "sample_line_numbers": [
+        57,
+        321,
+        783,
+        1351,
+        1676,
+        1778,
+        2674,
+        3206
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

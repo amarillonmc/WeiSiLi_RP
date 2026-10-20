@@ -1,0 +1,52 @@
+{
+  "book_id": "book_5abac49bbff2",
+  "source_book": "木兰花全集/25血溅黄金柱.txt",
+  "title": "血溅黄金柱",
+  "source_sha256": "5f29828f34ad9ecda0a6452099ea8030449d8ad816e0fbd7e779086347c5d75b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        2222
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        2666
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        72,
+        420,
+        684,
+        988,
+        1784,
+        1798,
+        1954,
+        1990
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 42,
+      "sample_line_numbers": [
+        20,
+        382,
+        958,
+        1152,
+        1532,
+        1968,
+        2314,
+        2710
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

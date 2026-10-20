@@ -1,0 +1,66 @@
+{
+  "book_id": "book_d891efd52524",
+  "source_book": "木兰花全集/39失踪新娘.txt",
+  "title": "失踪新娘",
+  "source_sha256": "f39d9a9e0987b443f6548b60a8499b6aa9e19d326c75e8893c7340503ca8265d",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        134,
+        1136,
+        1140,
+        1144,
+        1244,
+        1392,
+        2390,
+        2420
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        186,
+        410,
+        506,
+        552,
+        714,
+        992,
+        1696,
+        1976
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        30,
+        616,
+        852,
+        1380,
+        1726,
+        1750,
+        2450,
+        2542
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 29,
+      "sample_line_numbers": [
+        288,
+        996,
+        1502,
+        2170,
+        2194,
+        2334,
+        2356,
+        2538
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

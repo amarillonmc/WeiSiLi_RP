@@ -1,0 +1,33 @@
+{
+  "book_id": "book_e563b13b0248",
+  "source_book": "倪匡之鬼话系列/不要问我从那里来.txt",
+  "title": "不要问我从那里来",
+  "source_sha256": "5ad843473a2d0b10b7bf39a08b457e13fb3188d53c6b9f0cea566b7d6ffd9121",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        21,
+        39
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

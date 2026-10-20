@@ -1,0 +1,59 @@
+{
+  "book_id": "book_93d047542c1e",
+  "source_book": "卫斯理系列/001钻石花 .txt",
+  "title": "钻石花",
+  "source_sha256": "ca66287b899fab97c77a9a0f82ebe578fa90801b72d42e5b4a34e70e45b3983b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        39,
+        757,
+        2180,
+        2295,
+        3276,
+        3302
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        727,
+        2388,
+        3448
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        433,
+        821,
+        1340,
+        2010,
+        2388,
+        2504,
+        2874,
+        4261
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 45,
+      "sample_line_numbers": [
+        113,
+        675,
+        1747,
+        2566,
+        3491,
+        3699,
+        3925,
+        4153
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

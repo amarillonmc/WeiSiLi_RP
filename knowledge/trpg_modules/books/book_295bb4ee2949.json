@@ -1,0 +1,65 @@
+{
+  "book_id": "book_295bb4ee2949",
+  "source_book": "卫斯理系列/062活俑.txt",
+  "title": "活俑",
+  "source_sha256": "eb89b4f33e8ff9f5afdd9fba60ee32b1007cdb5ab85835e98ac0184e734037ad",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        1763,
+        1991,
+        2463,
+        2464,
+        2678,
+        2688,
+        3385
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 78,
+      "sample_line_numbers": [
+        91,
+        742,
+        1025,
+        1978,
+        2186,
+        2323,
+        2623,
+        3349
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        130,
+        141,
+        809,
+        903,
+        2672,
+        2702,
+        3070,
+        3392
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 52,
+      "sample_line_numbers": [
+        10,
+        808,
+        1564,
+        1978,
+        2301,
+        2729,
+        2959,
+        3429
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

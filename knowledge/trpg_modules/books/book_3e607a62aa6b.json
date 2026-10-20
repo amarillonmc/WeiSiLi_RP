@@ -1,0 +1,57 @@
+{
+  "book_id": "book_3e607a62aa6b",
+  "source_book": "卫斯理系列/52愿望猴神.txt",
+  "title": "愿望猴神",
+  "source_sha256": "f761de854d04eb12fb636b7c451f39c935bdd037f28aeec5988256dbd12dc1cc",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 29,
+      "sample_line_numbers": [
+        275,
+        599,
+        613,
+        701,
+        1737,
+        2215,
+        2797,
+        2981
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        1891,
+        2243,
+        2247,
+        2253,
+        2269,
+        2301,
+        2543,
+        2955
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 38,
+      "sample_line_numbers": [
+        27,
+        545,
+        1093,
+        1403,
+        1631,
+        2083,
+        2509,
+        2917
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

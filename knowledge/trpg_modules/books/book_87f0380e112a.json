@@ -1,0 +1,55 @@
+{
+  "book_id": "book_87f0380e112a",
+  "source_book": "卫斯理系列/020丛林之神.txt",
+  "title": "丛林之神",
+  "source_sha256": "51d7b84e50cb29c2d9ab2589ceb6ac6d78626d969197093d5907f018278da78d",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        633,
+        933,
+        945,
+        965,
+        1564,
+        1569,
+        1573,
+        1623
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        164,
+        370,
+        573,
+        948,
+        1311,
+        1312
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        73,
+        76,
+        77,
+        102,
+        106,
+        263,
+        416,
+        684
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

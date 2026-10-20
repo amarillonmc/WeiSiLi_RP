@@ -1,0 +1,30 @@
+{
+  "book_id": "book_9377f55f8968",
+  "source_book": "非人协会系列/01非人协会 序.txt",
+  "title": "非人协会 序",
+  "source_sha256": "f5b1d8077769911fb05d021e73ed21a3e4e658d98d37f57b7753a1a5ab1b6d35",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,42 @@
+{
+  "book_id": "book_119053ededd4",
+  "source_book": "神探高斯系列/15魔鬼的舞蹈.txt",
+  "title": "魔鬼的舞蹈",
+  "source_sha256": "3bc34ffc4eacad6577d85b725a21c7ec3b59903e43e4efdf03e42bee1d19df1b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        532,
+        535
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        93,
+        179,
+        180,
+        196,
+        378,
+        428,
+        429,
+        653
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

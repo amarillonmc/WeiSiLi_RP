@@ -1,0 +1,57 @@
+{
+  "book_id": "book_45347fc50ecc",
+  "source_book": "卫斯理系列/039老猫.txt",
+  "title": "老猫",
+  "source_sha256": "621a886ee61cc6aa8bbb89f647d4a789d056c37f1769bc0fa224c14ed29147ad",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        67,
+        302,
+        353,
+        540,
+        1251,
+        1358,
+        2147,
+        2194
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        347,
+        987,
+        1458,
+        1753,
+        1994,
+        2024,
+        2025,
+        2027
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        38,
+        807,
+        1907,
+        1947,
+        2029,
+        2140,
+        2244,
+        2584
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

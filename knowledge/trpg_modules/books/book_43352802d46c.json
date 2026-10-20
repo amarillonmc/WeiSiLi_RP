@@ -1,0 +1,50 @@
+{
+  "book_id": "book_43352802d46c",
+  "source_book": "卫斯理系列/134偷天换日.txt",
+  "title": "偷天换日",
+  "source_sha256": "7c07f878a130f1971e9bfe8b715b90539d44174d4b9b96f1bd6bee9e946eb9a3",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        478,
+        480
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        355,
+        436,
+        660,
+        663,
+        777,
+        946,
+        1235
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 113,
+      "sample_line_numbers": [
+        40,
+        265,
+        311,
+        497,
+        757,
+        971,
+        1119,
+        1279
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

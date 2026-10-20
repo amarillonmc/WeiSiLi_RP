@@ -1,0 +1,57 @@
+{
+  "book_id": "book_b457a6d0232b",
+  "source_book": "卫斯理系列/139一半一半.txt",
+  "title": "一半一半",
+  "source_sha256": "bd10b3fef9d90c2054188509602956482dcc8b9968e4e8445080038179f4dd41",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 30,
+      "sample_line_numbers": [
+        64,
+        99,
+        150,
+        155,
+        179,
+        191,
+        583,
+        1377
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 26,
+      "sample_line_numbers": [
+        233,
+        650,
+        811,
+        970,
+        1012,
+        1184,
+        1192,
+        1369
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 26,
+      "sample_line_numbers": [
+        68,
+        290,
+        452,
+        616,
+        666,
+        890,
+        1041,
+        1329
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

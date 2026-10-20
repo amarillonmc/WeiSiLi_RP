@@ -1,0 +1,50 @@
+{
+  "book_id": "book_fcb6d8e88204",
+  "source_book": "神探高斯系列/17奇迹.txt",
+  "title": "奇迹",
+  "source_sha256": "bc6cc6b67ba7b4c9d846d4eea4e418d8b2c9188ee607c90e3bc1780f2a9901c2",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 21,
+      "sample_line_numbers": [
+        170,
+        335,
+        398,
+        686,
+        715,
+        726,
+        774,
+        795
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        302,
+        641
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        428
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        57,
+        136,
+        152,
+        170,
+        422
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

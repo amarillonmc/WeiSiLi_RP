@@ -1,0 +1,50 @@
+{
+  "book_id": "book_c2c7964f9840",
+  "source_book": "卫斯理系列/025影子.txt",
+  "title": "影子",
+  "source_sha256": "c042ebd25b879cac218aaed6e54bf389ce6103e3f578c27a6e82df92c8a1ed9c",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        57,
+        59,
+        85,
+        107,
+        354,
+        503,
+        945,
+        1561
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        466,
+        877
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        251,
+        490,
+        691,
+        824,
+        1031,
+        1205,
+        1231
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

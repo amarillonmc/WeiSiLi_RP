@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "counts": {
+    "artifacts": 23,
+    "hazards": 16,
+    "bosses": 12,
+    "scenarios": 28
+  },
+  "source_hashes_verified": 336,
+  "evidence_ranges_verified": 81,
+  "character_links_verified": true,
+  "canonical_game_separation_verified": true,
+  "exhaustive_extraction": false,
+  "forum_verified": false,
+  "note": "这是构建时校验报告；--check 另逐文件比较生成结果。结构成功不证明所有文学解释正确。"
+}

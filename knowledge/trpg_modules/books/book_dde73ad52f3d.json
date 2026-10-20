@@ -1,0 +1,59 @@
+{
+  "book_id": "book_dde73ad52f3d",
+  "source_book": "木兰花全集/12夺命红烛.txt",
+  "title": "夺命红烛",
+  "source_sha256": "e8c145f3663fa97b3ae8200601c3b9410caa65867032b8d5fd63c57035ffad7c",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        108,
+        846,
+        956,
+        1152,
+        1654,
+        1656,
+        2182,
+        2468
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1250
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        570,
+        666,
+        918,
+        1180,
+        1290,
+        1312,
+        1360,
+        2440
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        74,
+        232,
+        758,
+        1588,
+        1690,
+        2036,
+        2108,
+        2804
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

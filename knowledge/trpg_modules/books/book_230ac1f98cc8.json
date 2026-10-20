@@ -1,0 +1,54 @@
+{
+  "book_id": "book_230ac1f98cc8",
+  "source_book": "非人协会系列/03两生.txt",
+  "title": "两生",
+  "source_sha256": "2f93c44dd91550ce1aaf7540c00856a9e15ad11d3906a38dd6b288e7803e60ab",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        63,
+        65,
+        151
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        381
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        63,
+        83,
+        156,
+        158,
+        161,
+        198,
+        223,
+        328
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        24,
+        50,
+        89,
+        105,
+        196,
+        238,
+        264,
+        514
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,1437 @@
+{
+  "schema_version": "1.1",
+  "extension_profile": "canon-separated-trpg-1.0",
+  "audience": "gm",
+  "rule_profile": {
+    "schema_version": "1.1",
+    "extension_profile": "canon-separated-trpg-1.0",
+    "review_date": "2026-10-20",
+    "requested_guide": "distillation_guide_for_llm.md",
+    "guide_role": "用户要求参考的需求材料；其嵌入的系统 Prompt 和示例均不是原著证据。",
+    "forum_url": "https://number81.xyz/index.php?topic=5016.0",
+    "forum_verified": false,
+    "forum_access_note": "两次网页读取均不可访问，独立 HTTPS 请求亦遇 SSL 连接失败。未宣称已读论坛 V1.1 正文。",
+    "rules_basis": "从用户提供的指南取得四模块需求及热度 6 用 d30、热度 7 用 d40 的对手框架；其他数值是本扩展的暂定裁定。",
+    "adaptation_fields": [
+      "recommended_heat",
+      "min_heat",
+      "heat_threshold",
+      "loaded_dice",
+      "specialty_suppression_rule",
+      "active_hazard_roll",
+      "active_moves[*].dice",
+      "active_moves[*].on_hit_effect",
+      "canonical_weakness_counter.discovery_dc",
+      "three_layer_epistemic_trap",
+      "mutual_exclusive_agendas",
+      "clue_progression",
+      "rule_adaptation",
+      "deployment"
+    ],
+    "evidence_statuses": {
+      "textual_fact": "叙述明确发生或展示；依然是小说内事实。",
+      "testimony": "人物、装置或组织给出的说明，不自动等于全知真相。",
+      "hypothesis": "人物提出的解释或推断，保留原文局限。",
+      "unresolved": "原文或本次引用没有解决。",
+      "mixed": "同项含展示、证言、推断；须按 evidence.supports 的具体说明区分。"
+    },
+    "extensions": {
+      "categories": "增加人类技术、混合技术、矿物、未知物质、非物质生命，避免把所有材料硬说成外星器械或生物毒菌。",
+      "canonical": "保存表象、机制层级、条件、代价、应对、末态与未知。",
+      "evidence": "结构化路径、行号、支持内容、认识层级和原文 SHA-256。",
+      "boss_id": "独立场景 ID；card_id 严格链接已有角色 ID，可有多种历史部署。",
+      "null_values": "未确立的唯一死穴为 null；自愿解咒等无需对抗的动作 dice 为 null。"
+    },
+    "deployment_policy": [
+      "先选择阶段与真实资源，不叠加失能期、恢复期和终局已毁设备。",
+      "热度不等于人物原评级，不因热度自动把友好角色变成敌人。",
+      "同一事件引用多个模块时只结算一次同源伤害。",
+      "本体、钥匙、代价的分配及 11 人 4/4/3 目标组是主持人改编。",
+      "原著没有可靠解法时保持未知；DC 只帮助发现线索，不能凭空产生原著死穴。",
+      "所有数值尚未经实局平衡验证；论坛兼容性待核。"
+    ]
+  },
+  "hazards": [
+    {
+      "dossier_id": "transparent_mineral",
+      "name": "透明光矿物与黄铜盒",
+      "public_name": "铜盒与失踪者",
+      "source_book": "卫斯理系列/005透明光.txt",
+      "source_books": [
+        "卫斯理系列/005透明光.txt"
+      ],
+      "canonical": {
+        "surface": "透明身体似乎提供隐匿优势，但衣物不会一同透明。",
+        "mechanism": "矿物在普通空气与金字塔内部环境表现不同。真空实验后王彦、燕芬失踪，矿物成灰；不能确认他们死亡还是完全隐形。",
+        "mechanism_status": "mixed",
+        "activation": "暴露于发光矿物；反透明现象涉及金字塔特定环境，具体成分未明。",
+        "price": "透明外观、社会隔离和错误还原实验的失踪风险；没有逐回合骨骼脆化的证据。",
+        "counter": "合上黄铜盒能停止继续暴露；真空仓不是已验证的治愈办法。",
+        "availability": "实验使用的小块已成灰；勃拉克另持的大块是否仍藏存未明。",
+        "unknowns": [
+          "没有第二块反波长瓦片或深海滤波镜的证据",
+          "最终去向未定"
+        ],
+        "counter_status": "mixed"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/005透明光.txt",
+          "start_line": 5162,
+          "end_line": 5206,
+          "supports": "卫斯理把同矿物两种发光状态误解为可用真空重现；实验前要求供氧与关盒。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/005透明光.txt",
+          "start_line": 5278,
+          "end_line": 5299,
+          "supports": "真空还原失败；金字塔气氛不能等同真空；矿物失活成灰。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/005透明光.txt",
+          "start_line": 5310,
+          "end_line": 5341,
+          "supports": "两人死亡或彻底隐形皆为猜测；外星来源是实验室意见。",
+          "epistemic_status": "hypothesis",
+          "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/005透明光.txt",
+          "start_line": 4677,
+          "end_line": 4678,
+          "supports": "合上铜盒后遮断发光；此处只作为停止暴露手段，不作为恢复身体的办法。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/005透明光.txt:L5162-L5206; 卫斯理系列/005透明光.txt:L5278-L5299; 卫斯理系列/005透明光.txt:L5310-L5341; 卫斯理系列/005透明光.txt:L4677-L4678",
+      "id": "hazard_transparent_mineral",
+      "min_heat": 4,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "仅取消靠肉眼轮廓识别裸露身体的专长加值；听觉、衣物线索仍有效",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "矿物在普通空气与金字塔内部环境表现不同。真空实验后王彦、燕芬失踪，矿物成灰；不能确认他们死亡还是完全隐形。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "无防护开盒或把未经验证的真空方案直接用于人身",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "身体异常进展一档；还原失败改为失踪倒计时，结局须调查裁定",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【mixed】合上黄铜盒能停止继续暴露；真空仓不是已验证的治愈办法。",
+      "public_warning": "开盒前展示不透明衣物与可见骨骼等异样线索，实验前指出气氛成分未知",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "formless_parasite",
+      "name": "无形飞魔（获壳依毒间）",
+      "public_name": "蓝血人事件的陌生威胁",
+      "source_book": "卫斯理系列/004蓝血人.txt",
+      "source_books": [
+        "卫斯理系列/004蓝血人.txt"
+      ],
+      "canonical": {
+        "surface": "熟人的身体和记忆仍然存在，容易被误认为原人格仍可救回。",
+        "mechanism": "按方天说明，它是类似脑电波的非物质寄生者，取代宿主脑活动并保有其记忆；不是可供培养的毒菌。",
+        "mechanism_status": "testimony",
+        "activation": "侵入未受相应头罩防护的脑部；人类宿主中能否分裂保持未知。",
+        "price": "方天认为原人格已死亡；处置寄生者不等于救回原人格。",
+        "counter": "方天提供的阳电子头罩用于预防，太空舱相应装置用于消灭；普通爆炸无效的判断来自方天。",
+        "availability": "采用《蓝血人》寄生事件阶段，不推定所有纳尔逊或后续同名人物都被寄生。",
+        "unknowns": [
+          "无法从外观或记忆单独证实宿主还活着",
+          "不扩张为一切思想生命通用弱点"
+        ],
+        "counter_status": "mixed"
+      },
+      "character_ids": [
+        "weisili_wu_xing_feimo"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 5445,
+          "end_line": 5496,
+          "supports": "方天解释非物质思想寄生、宿主死亡、头罩预防；在人类中是否分裂尚不确定。",
+          "epistemic_status": "testimony",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 5556,
+          "end_line": 5559,
+          "supports": "方天指出普通爆炸不能消灭无形飞魔。",
+          "epistemic_status": "testimony",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 5832,
+          "end_line": 5835,
+          "supports": "保留木村信记忆使寄生者也成为线索来源。",
+          "epistemic_status": "testimony",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 6059,
+          "end_line": 6063,
+          "supports": "太空舱阳电子处理与牺牲纳尔逊身体的抉择。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/004蓝血人.txt:L5445-L5496; 卫斯理系列/004蓝血人.txt:L5556-L5559; 卫斯理系列/004蓝血人.txt:L5832-L5835; 卫斯理系列/004蓝血人.txt:L6059-L6063",
+      "id": "hazard_formless_parasite",
+      "min_heat": 4,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "仅取消以熟人记忆、声音直接确认身份的社交识别加值",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "按方天说明，它是类似脑电波的非物质寄生者，取代宿主脑活动并保有其记忆；不是可供培养的毒菌。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "已设定寄生者接近未受头罩保护的目标",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "心智受制一档；人格是否已毁须由事先设定的阶段决定",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【mixed】方天提供的阳电子头罩用于预防，太空舱相应装置用于消灭；普通爆炸无效的判断来自方天。",
+      "public_warning": "先展示同一个人记忆正确但动机和行为明显矛盾",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "dismember_computer",
+      "name": "分解光电脑盒",
+      "public_name": "石棺与奇异盒子",
+      "source_book": "卫斯理系列/011支离人.txt",
+      "source_books": [
+        "卫斯理系列/011支离人.txt"
+      ],
+      "canonical": {
+        "surface": "支离人似乎天生能把肢体分开活动。",
+        "mechanism": "大祭师说明电脑发出分解光；电力不足形成分离而未送走的异常状态，肢体仍受神经关联影响。",
+        "mechanism_status": "testimony",
+        "activation": "真实电脑、供电和正确控制顺序；金属片的文字不是直接授予能力。",
+        "price": "误操作可导致长久冬眠；原子运输的可靠性并未由地球人全面掌握。",
+        "counter": "原文提供了供电及控制条件的解释，没有提供人人可用的万能复原按钮。",
+        "availability": "仅在已确认电脑存在的阶段部署；不把被照者的能力当成人人可学。",
+        "unknowns": [
+          "运输原理是大祭师陈述",
+          "不把神经关联扩张为无限距离"
+        ],
+        "counter_status": "unresolved"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/011支离人.txt",
+          "start_line": 3856,
+          "end_line": 3895,
+          "supports": "大祭师解释分解运输、供电不足导致支离、错误操作导致冬眠。",
+          "epistemic_status": "testimony",
+          "source_sha256": "1c4eb914a01b9a6a9de1a2a16acd6d7560789f574e9371fb0f3ff971a5b757c8",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/011支离人.txt:L3856-L3895",
+      "id": "hazard_dismember_computer",
+      "min_heat": 4,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "仅取消依靠身体必须完整连续的束缚判断加值",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "大祭师说明电脑发出分解光；电力不足形成分离而未送走的异常状态，肢体仍受神经关联影响。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "未经验证地改变供电或控制按钮并进入照射位置",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "受制或身体分离一档；需要器械调查决定后续",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【unresolved】原文提供了供电及控制条件的解释，没有提供人人可用的万能复原按钮。",
+      "public_warning": "先展示电源不足与肢体重新接近的异常",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "immortality_drug",
+      "name": "汉同架岛不死药",
+      "public_name": "不死药",
+      "source_book": "卫斯理系列/012不死药.txt",
+      "source_books": [
+        "卫斯理系列/012不死药.txt"
+      ],
+      "canonical": {
+        "surface": "药物提供抗衰老和异常恢复，看似可以让人永生。",
+        "mechanism": "原著强调持续供药依赖，断供可导致严重意识损害；肌肉快速恢复并不消除心脏致命弱点。",
+        "mechanism_status": "textual_fact",
+        "activation": "服食药物并维持供应；具体制备与安全剂量未明。",
+        "price": "供药依赖、意识损害及被药源控制者胁迫；不是服药立即丧失全部思想。",
+        "counter": "服药者可被绳索控制，心脏受击仍可致死；医学治疗只是尝试，不能视为已确证解药。",
+        "availability": "骆致谦已被处刑；卫斯理从海啸消息推断药源所在的汉同架岛沉没。",
+        "unknowns": [
+          "没有三份解药、三席相位潜艇或母株温室的原著依据"
+        ],
+        "counter_status": "mixed"
+      },
+      "character_ids": [
+        "weisili_luo_zhiqian"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/012不死药.txt",
+          "start_line": 2381,
+          "end_line": 2425,
+          "supports": "服药者仍能因心脏中枪死亡，波金被杀。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "add3e531fa3d2d7c2767b9c3b0e194fb54b7d61e4b81561efb86d8825848b14d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/012不死药.txt",
+          "start_line": 2445,
+          "end_line": 2494,
+          "supports": "需要持续供药；快速肌肉恢复与可被绑缚并存。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "add3e531fa3d2d7c2767b9c3b0e194fb54b7d61e4b81561efb86d8825848b14d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/012不死药.txt",
+          "start_line": 2955,
+          "end_line": 2991,
+          "supports": "断供导致柏秀琼失能；岛屿疑似陆沉；卫斯理接受不确定的治疗。",
+          "epistemic_status": "mixed",
+          "source_sha256": "add3e531fa3d2d7c2767b9c3b0e194fb54b7d61e4b81561efb86d8825848b14d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/012不死药.txt:L2381-L2425; 卫斯理系列/012不死药.txt:L2445-L2494; 卫斯理系列/012不死药.txt:L2955-L2991",
+      "id": "hazard_immortality_drug",
+      "min_heat": 4,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "仅取消以普通伤口和痛觉判断目标已失去行动力的加值",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "原著强调持续供药依赖，断供可导致严重意识损害；肌肉快速恢复并不消除心脏致命弱点。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "依赖者在主持人预先声明的供药节点发生断供",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "意识损害进度加一；供药周期为改编，不以回合数冒充原文剂量",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【mixed】服药者可被绳索控制，心脏受击仍可致死；医学治疗只是尝试，不能视为已确证解药。",
+      "public_warning": "预先给出断供病例与药量记录",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "fairy_valley",
+      "name": "仙境宝石谷的接触风险",
+      "public_name": "仙境宝谷",
+      "source_book": "卫斯理系列/027仙境.txt",
+      "source_books": [
+        "卫斯理系列/027仙境.txt"
+      ],
+      "canonical": {
+        "surface": "遍地珍宝令人以为走进了可以一夜致富的仙境。",
+        "mechanism": "德拉的异常变化与谷内经历相连；辐射和外太空来源是推断，原文结尾明确保留反对意见。",
+        "mechanism_status": "hypothesis",
+        "activation": "进入山谷并接触可疑物；安全接触时间、材质防护和机制均未证。",
+        "price": "严重身体变化及死亡风险，外加风雪、饥饿和夺宝冲突。",
+        "counter": "卫斯理离开并检查身体；没有可以可靠解除异常的脑波开关。",
+        "availability": "宝谷位置仍可被记忆；带出的绿钻掉入水道，后续去向未证。",
+        "unknowns": [],
+        "counter_status": "mixed"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/027仙境.txt",
+          "start_line": 1428,
+          "end_line": 1450,
+          "supports": "宝物诱惑、德拉的枪及生存物资限制。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "056877b11516b327b8631abb2ef5e802608d4dd1c6aef2a16553ab30fb1f7e7c",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/027仙境.txt",
+          "start_line": 1876,
+          "end_line": 1913,
+          "supports": "卫斯理未检出辐射，朋友认为症状类似辐射伤；触摸条件使通常辐射解释受质疑。",
+          "epistemic_status": "mixed",
+          "source_sha256": "056877b11516b327b8631abb2ef5e802608d4dd1c6aef2a16553ab30fb1f7e7c",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/027仙境.txt:L1428-L1450; 卫斯理系列/027仙境.txt:L1876-L1913",
+      "id": "hazard_fairy_valley",
+      "min_heat": 4,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "只取消未经检测就把常规辐射经验当作绝对安全保证的加值；勘察和隔离仍可用",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "德拉的异常变化与谷内经历相连；辐射和外太空来源是推断，原文结尾明确保留反对意见。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "接触未检测的谷内可疑物且无隔离方案",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "身体异常进度加一；与已展示风险对应，不预设脑波幻觉",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【mixed】卫斯理离开并检查身体；没有可以可靠解除异常的脑波开关。",
+      "public_warning": "先展示前次探险者的异常和普通检测无法解释的矛盾",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "fox_time_device",
+      "name": "狐变中的时间往返仪器",
+      "public_name": "古宅狐变",
+      "source_book": "卫斯理系列/028狐变.txt",
+      "source_books": [
+        "卫斯理系列/028狐变.txt"
+      ],
+      "canonical": {
+        "surface": "宅中异样被当成狐妖作祟。",
+        "mechanism": "博新转述时间实验与人体缩小事故；叔父能往返不意味着所有试验者都能安全返回。",
+        "mechanism_status": "testimony",
+        "activation": "叔父掌握的小型仪器和操作知识；其自称只能回到过去。",
+        "price": "父亲与狐狸出现持续缩小，叔父未能修复；不写成可随时暂停敌人的时间能力。",
+        "counter": "没有成功治愈持续缩小的明确方法；停止再次试验不能保证恢复。",
+        "availability": "由回述展开的历史实验，现成可用设备状态不可擅定。",
+        "unknowns": [
+          "不要把人物宇宙膨胀说当成现实物理定律"
+        ],
+        "counter_status": "unresolved"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/028狐变.txt",
+          "start_line": 1631,
+          "end_line": 1686,
+          "supports": "博新转述叔父实验：回到过去、正常回返与持续缩小事故，修复失败。",
+          "epistemic_status": "testimony",
+          "source_sha256": "ea0bcff3bbc830a04ad0ee856c6792daff5b5f4250d41c630ba9d48c35aeae40",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/028狐变.txt:L1631-L1686",
+      "id": "hazard_fox_time_device",
+      "min_heat": 4,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "仅取消基于原体型的力量及固定尺寸工具专长加值",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "博新转述时间实验与人体缩小事故；叔父能往返不意味着所有试验者都能安全返回。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "接受未经验证的时间往返实验",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "记录一次缩小进度；不直接无限连锁扣阶",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【unresolved】没有成功治愈持续缩小的明确方法；停止再次试验不能保证恢复。",
+      "public_warning": "让调查者先看到标本及既往失败记录",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "dasha_elevator",
+      "name": "大厦的异常时间电梯",
+      "public_name": "大厦电梯失踪案",
+      "source_book": "卫斯理系列/044大厦.txt",
+      "source_books": [
+        "卫斯理系列/044大厦.txt"
+      ],
+      "canonical": {
+        "surface": "电梯不断上升，仿佛永远到不了顶。",
+        "mechanism": "装置使人进入异常时空；时间与尺度解释由卫斯理提出，罗定不是装置创造者。",
+        "mechanism_status": "mixed",
+        "activation": "进入王直义改装的电梯并处于相关实验状态。",
+        "price": "可能无法返回；跳出阳台的实际落点与直觉不符，已有坠亡。",
+        "counter": "原作出现冒险坠落脱困及后来可用的下降返程；没有重力频率定位开关的解法。",
+        "availability": "须指定未成熟实验阶段还是后来具备返程的阶段，不能混用。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/044大厦.txt",
+          "start_line": 2702,
+          "end_line": 2730,
+          "supports": "王直义的电梯实验困住罗定与小郭，研究尚未成熟。",
+          "epistemic_status": "mixed",
+          "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/044大厦.txt",
+          "start_line": 2740,
+          "end_line": 2819,
+          "supports": "陈毛的坠亡及卫斯理关于时间和尺度的解释。",
+          "epistemic_status": "mixed",
+          "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/044大厦.txt",
+          "start_line": 2830,
+          "end_line": 2896,
+          "supports": "卫斯理用改装门板承受撞击而返回；明确是冒险。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/044大厦.txt",
+          "start_line": 3163,
+          "end_line": 3165,
+          "supports": "末段说明电梯下降可返回正常空间。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/044大厦.txt:L2702-L2730; 卫斯理系列/044大厦.txt:L2740-L2819; 卫斯理系列/044大厦.txt:L2830-L2896; 卫斯理系列/044大厦.txt:L3163-L3165",
+      "id": "hazard_dasha_elevator",
+      "min_heat": 4,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "只削减依赖普通楼高、落点与时间估算的定位专长；机械检查仍有价值",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "装置使人进入异常时空；时间与尺度解释由卫斯理提出，罗定不是装置创造者。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "把当前楼层当作普通空间直接跳落或强行离开边界",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "隔离并受制一档；有防护与准备可减免，未经预警不即死",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【textual_fact】原作出现冒险坠落脱困及后来可用的下降返程；没有重力频率定位开关的解法。",
+      "public_warning": "先给出陈毛落在天台的尸检位置及异常升降时间",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "hair_time_ratio",
+      "name": "头发中的异星时间差",
+      "public_name": "异星访问",
+      "source_book": "卫斯理系列/046头发.txt",
+      "source_books": [
+        "卫斯理系列/046头发.txt"
+      ],
+      "canonical": {
+        "surface": "异星的永生生活像是可以长期停留的乐土。",
+        "mechanism": "当地时间与地球不同；永生还涉及身体替换及其伦理争议，不是宗教地点自动审判灵魂。",
+        "mechanism_status": "testimony",
+        "activation": "已实际抵达该星体并获知返程条件；不把时间比推广到所有异星。",
+        "price": "当地短暂停留可能让地球过去多年；制造身体有其自己的思想。",
+        "counter": "在已确认的时间差下及时返程，不能靠意志检定消除外部时间。",
+        "availability": "采用该次访问阶段；同一条目不宣告其他起源说全部无效。",
+        "unknowns": [],
+        "counter_status": "derived_strategy"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/046头发.txt",
+          "start_line": 4060,
+          "end_line": 4088,
+          "supports": "异星人解释思想离体、替换肉体与肉体供应问题。",
+          "epistemic_status": "testimony",
+          "source_sha256": "7ff73c54b80bd223236384562f5bc9704d73a9b1071953ad1ebadf8e4a736de2",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/046头发.txt",
+          "start_line": 4114,
+          "end_line": 4132,
+          "supports": "被制造的身体具有自主思想，原作对罪人与责任提出冲突。",
+          "epistemic_status": "testimony",
+          "source_sha256": "7ff73c54b80bd223236384562f5bc9704d73a9b1071953ad1ebadf8e4a736de2",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/046头发.txt",
+          "start_line": 4213,
+          "end_line": 4217,
+          "supports": "人物说明当地与地球时间比一比五万。",
+          "epistemic_status": "testimony",
+          "source_sha256": "7ff73c54b80bd223236384562f5bc9704d73a9b1071953ad1ebadf8e4a736de2",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/046头发.txt:L4060-L4088; 卫斯理系列/046头发.txt:L4114-L4132; 卫斯理系列/046头发.txt:L4213-L4217",
+      "id": "hazard_hair_time_ratio",
+      "min_heat": 4,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "取消以地球钟表习惯安排跨星会合的专长加值，保留计算与资料核验",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "当地时间与地球不同；永生还涉及身体替换及其伦理争议，不是宗教地点自动审判灵魂。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "在知晓时间差后仍继续当地停留",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "推进地球侧任务时钟；不转为物理伤害",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【derived_strategy】在已确认的时间差下及时返程，不能靠意志检定消除外部时间。",
+      "public_warning": "在关键停留前给出当地一小时对应地球近六年的换算",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "tianren_implant",
+      "name": "天人脑内金属片与研究站",
+      "public_name": "奇迹幸存者",
+      "source_book": "原振侠系列/01.天人.txt",
+      "source_books": [
+        "原振侠系列/01.天人.txt"
+      ],
+      "canonical": {
+        "surface": "能在恶劣环境中生存的人被当成天选或神的使者。",
+        "mechanism": "研究站把选定对象当作思想样本；脑内片是控制和收集接口，能力来自站内干预。",
+        "mechanism_status": "testimony",
+        "activation": "预先已被选定、存在相容金属片及运行中的研究站；形成过程按站方说法约三年。",
+        "price": "被观测、被指令干预；样本认知秘密可能触发灭口。未选中旁观者不适用该触发。",
+        "counter": "原作研究结束时由站方移除金属片并关闭基地；未给出安全的自行手术万能解法。",
+        "availability": "终局基地毁灭，不应自动恢复样本监控与处刑。",
+        "unknowns": [],
+        "counter_status": "testimony"
+      },
+      "character_ids": [
+        "yuanzhenxia_tianren_station"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "原振侠系列/01.天人.txt",
+          "start_line": 3313,
+          "end_line": 3343,
+          "supports": "站内声音解释选样、金属片形成、记录思想与暂时停顿机能。",
+          "epistemic_status": "testimony",
+          "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/01.天人.txt",
+          "start_line": 3347,
+          "end_line": 3365,
+          "supports": "灭口限定于知道秘密的已选样本，研究结束准备移除植入物。",
+          "epistemic_status": "testimony",
+          "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/01.天人.txt",
+          "start_line": 3381,
+          "end_line": 3385,
+          "supports": "基地毁灭与选定对象相关记忆消失；仍有遗漏个例。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "原振侠系列/01.天人.txt:L3313-L3343; 原振侠系列/01.天人.txt:L3347-L3365; 原振侠系列/01.天人.txt:L3381-L3385",
+      "id": "hazard_tianren_implant",
+      "min_heat": 6,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "仅取消把样本异常存活解释为其自身永久体质的加值",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "研究站把选定对象当作思想样本；脑内片是控制和收集接口，能力来自站内干预。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "已经被选中的样本得知研究秘密，且研究站仍运行",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "先进入锁定倒计时，下一轮才可能遭严重伤害；此预警窗口为可玩性改编",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【testimony】原作研究结束时由站方移除金属片并关闭基地；未给出安全的自行手术万能解法。",
+      "public_warning": "先用非玩家样本病例与影像检查揭示触发差异",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "ion_blind_spot",
+      "name": "思想仪感知死角装置",
+      "public_name": "帐篷中的秘密会谈",
+      "source_book": "卫斯理系列/103改变.txt",
+      "source_books": [
+        "卫斯理系列/103改变.txt"
+      ],
+      "canonical": {
+        "surface": "在普通地点无从保密的谈话，在帐篷内却可进行。",
+        "mechanism": "特殊电离子层阻隔特定思想仪体系的探知，海底陵墓也因此隐藏。",
+        "mechanism_status": "textual_fact",
+        "activation": "需要本案帐顶装置或已确认的相应海中层；普通海水不自动满足。",
+        "price": "屏障也可能遮断己方想依赖的同源探知，不保证阻止实体进入。",
+        "counter": "到屏障外联系或核查装置；未展示远程关闭他人屏障的通用方法。",
+        "availability": "按装置实际可取得的场景部署，不无限复制。",
+        "unknowns": [],
+        "counter_status": "derived_strategy"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/103改变.txt",
+          "start_line": 2735,
+          "end_line": 2748,
+          "supports": "海中电离子层是死角，帐顶装置可产生同类屏障。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "172333a4ef1943dd3e24d1c3d12d9ce968a64b1274fbe6bba2cfc556fa6f2a2c",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/103改变.txt:L2735-L2748",
+      "id": "hazard_ion_blind_spot",
+      "min_heat": 4,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "取消思想仪来源的读心、定位专长；普通观察、声音和调查不受此规则影响",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "特殊电离子层阻隔特定思想仪体系的探知，海底陵墓也因此隐藏。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "试图从屏障外对内部目标作思想仪探知",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "行动失败且消耗本次调查机会；不制造无依据的肉身伤害",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【derived_strategy】到屏障外联系或核查装置；未展示远程关闭他人屏障的通用方法。",
+      "public_warning": "先展示帐内谈话与外部探知不一致",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "mountain_elder",
+      "name": "山腹长老的有限脑干预范围",
+      "public_name": "山腹救星",
+      "source_book": "卫斯理系列/136行动救星.txt",
+      "source_books": [
+        "卫斯理系列/136行动救星.txt"
+      ],
+      "canonical": {
+        "surface": "长老能传授知识，仿佛无所不知的救星。",
+        "mechanism": "山腹范围内可抑制人的提问念头；范围外经电脑、洞内中介传话能绕开这种控制。",
+        "mechanism_status": "textual_fact",
+        "activation": "进入其能量范围，或通过原文建立的沟通链联系。",
+        "price": "近距离交流失去主动性；其救星方案与人类利益冲突。",
+        "counter": "使用范围外提问者、电脑和洞内中介；技术恢复平等交流，而非把长老直接杀死。",
+        "availability": "仍困在山腹；自有爆炸设备但拒绝因脱困毁灭生命，不作为每轮灭世技能。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [
+        "weisili_chang_lao"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/136行动救星.txt",
+          "start_line": 1169,
+          "end_line": 1193,
+          "supports": "无线电进洞失败改用有线；范围外的人通过电脑中介保留提问与隐私。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/136行动救星.txt",
+          "start_line": 1223,
+          "end_line": 1234,
+          "supports": "长老关于故障、改造工程及拒绝引爆的说明。",
+          "epistemic_status": "testimony",
+          "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/136行动救星.txt",
+          "start_line": 1247,
+          "end_line": 1257,
+          "supports": "减少人口是长老方案，主角反对。",
+          "epistemic_status": "testimony",
+          "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/136行动救星.txt",
+          "start_line": 1287,
+          "end_line": 1293,
+          "supports": "拒绝协助开关但继续交流；没有发动毁灭爆炸。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/136行动救星.txt:L1169-L1193; 卫斯理系列/136行动救星.txt:L1223-L1234; 卫斯理系列/136行动救星.txt:L1247-L1257; 卫斯理系列/136行动救星.txt:L1287-L1293",
+      "id": "hazard_mountain_elder",
+      "min_heat": 5,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "取消范围内自主提问与隐藏当前念头的相关专长加值；范围外中介保留",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "山腹范围内可抑制人的提问念头；范围外经电脑、洞内中介传话能绕开这种控制。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "范围内人员试图直接追问长老不愿回答的事",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "忘记该次自主问题并受制；外部记录可重新提出",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【textual_fact】使用范围外提问者、电脑和洞内中介；技术恢复平等交流，而非把长老直接杀死。",
+      "public_warning": "先显示进入洞中即忘记预定问题，与外部记录形成对照",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "great_eagle",
+      "name": "孤峰大鹰的抓取飞行",
+      "public_name": "孤峰大鹰",
+      "source_book": "非人协会系列/04大鹰.txt",
+      "source_books": [
+        "非人协会系列/04大鹰.txt"
+      ],
+      "canonical": {
+        "surface": "巨鹰俯冲抓人会被误认成纯粹捕食。",
+        "mechanism": "巨翼可扫开人群，爪能抓住成人飞行；同一动作也用于运送与引路。",
+        "mechanism_status": "textual_fact",
+        "activation": "本人在场并愿意行动；不是任何驯兽者随叫随到的坐骑。",
+        "price": "高空失去地面支援，乘者要依靠抓握或绳索保持联系。",
+        "counter": "原作鹰爪曾被绳索套住；切断绳索可释放。交流与判断动机比直接开战更合适。",
+        "availability": "不默认与神鹰为同一主体，也不赋予无限载重。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [
+        "adventure_daying"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "非人协会系列/04大鹰.txt",
+          "start_line": 612,
+          "end_line": 625,
+          "supports": "大鹰被绳索套住后获释，翼扫人群、抓金维升空并运送。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "453889f6ddc32f4341f839ccf197f953a5a7eef400ba87cd369058f2739e1d50",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "非人协会系列/04大鹰.txt:L612-L625",
+      "id": "hazard_great_eagle",
+      "min_heat": 4,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "仅取消被抓离地面后依赖地形掩体和站稳施力的加值",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "巨翼可扫开人群，爪能抓住成人飞行；同一动作也用于运送与引路。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "在巨鹰抓取范围内且抓取成功后继续挣扎失衡",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "被移离地面并受制；先给攀附或绳索补救机会",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【textual_fact】原作鹰爪曾被绳索套住；切断绳索可释放。交流与判断动机比直接开战更合适。",
+      "public_warning": "翼扫、爪上绳索和既往运送行为可在接近前观察",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "safe_substitution",
+      "name": "手套式保险箱掉包",
+      "public_name": "打不开的保险箱",
+      "source_book": "年轻人/01手套.txt",
+      "source_books": [
+        "年轻人/01手套.txt"
+      ],
+      "canonical": {
+        "surface": "抢到难以打开的保险箱就等于拿到了巨款。",
+        "mechanism": "侦破锁具的执念掩盖了实物已经被掉包；警号和外观不能证明是同一只箱子。",
+        "mechanism_status": "textual_fact",
+        "activation": "需要两只相似实物、实际搬运与隐藏条件；不是隔空换物术。",
+        "price": "巨大投入可能只争来替代物；误信权威演示会错过物证。",
+        "counter": "核验实物流转链与箱体身份，不能仅凭正确密码判断内容。",
+        "availability": "原箱与公开展示的替代物分开记录；不把掉包当作万能开锁。",
+        "unknowns": [],
+        "counter_status": "derived_strategy"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "年轻人/01手套.txt",
+          "start_line": 7,
+          "end_line": 12,
+          "supports": "保险箱有密码、警号与时间掣；防护强度是推销说明。",
+          "epistemic_status": "testimony",
+          "source_sha256": "2b99befe90eb0ccc14811a7021b608d7d076e1a5d37989d9c344e5e57bb95afb",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "年轻人/01手套.txt",
+          "start_line": 656,
+          "end_line": 658,
+          "supports": "听声技术与音波仪均无法分辨号码差异。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "2b99befe90eb0ccc14811a7021b608d7d076e1a5d37989d9c344e5e57bb95afb",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "年轻人/01手套.txt",
+          "start_line": 699,
+          "end_line": 701,
+          "supports": "年轻人在水下把保险箱掉包，原物藏入船中消声暗格。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "2b99befe90eb0ccc14811a7021b608d7d076e1a5d37989d9c344e5e57bb95afb",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "年轻人/01手套.txt",
+          "start_line": 773,
+          "end_line": 790,
+          "supports": "公开现场打不开替代物，年轻人与中国人掌握真正所得。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "2b99befe90eb0ccc14811a7021b608d7d076e1a5d37989d9c344e5e57bb95afb",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "年轻人/01手套.txt:L7-L12; 年轻人/01手套.txt:L656-L658; 年轻人/01手套.txt:L699-L701; 年轻人/01手套.txt:L773-L790",
+      "id": "hazard_safe_substitution",
+      "min_heat": 4,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "取消依靠转盘声音差异开锁的加值；现场物证比对仍有效",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "侦破锁具的执念掩盖了实物已经被掉包；警号和外观不能证明是同一只箱子。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "在已证没有声学差异的锁上继续反复听声猜码",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "浪费一个行动并推进警报进度，不造成伤害",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【derived_strategy】核验实物流转链与箱体身份，不能仅凭正确密码判断内容。",
+      "public_warning": "先提供音波测定仪曲线无差异的实证",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "sea_glass_box",
+      "name": "水中宝盒的无色气体",
+      "public_name": "水中宝盒",
+      "source_book": "神探高斯系列/22水中宝盒.txt",
+      "source_books": [
+        "神探高斯系列/22水中宝盒.txt"
+      ],
+      "canonical": {
+        "surface": "透明盒中看不见东西，似乎只是空盒。",
+        "mechanism": "李玉芳称盒中无色无臭气体有巨大杀伤危险；这是小说中的警务说明，未提供可验证现实原理。",
+        "mechanism_status": "testimony",
+        "activation": "必须有本案密封盒与其内容物，开启会破坏隔离；不推导现实配方。",
+        "price": "看不见的内容使随意开盒或拿外观估价尤其危险。",
+        "counter": "保持密封并交由原案警方接管；没有原著现场中和法。",
+        "availability": "结尾已由警方接收，不能默认仍在海底待捡。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "神探高斯系列/22水中宝盒.txt",
+          "start_line": 649,
+          "end_line": 666,
+          "supports": "李玉芳说明盒内不是空无，警方以危险物接收；威力为其口述。",
+          "epistemic_status": "testimony",
+          "source_sha256": "97fab48bdf2d9f49edfd0208732833362b9ecb5ff9915a654792309ca95d1257",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "神探高斯系列/22水中宝盒.txt:L649-L666",
+      "id": "hazard_sea_glass_box",
+      "min_heat": 4,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "取消仅凭视觉判定容器为空或安全的专长加值",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "李玉芳称盒中无色无臭气体有巨大杀伤危险；这是小说中的警务说明，未提供可验证现实原理。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "破坏已被提示为危险的密封盒",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "区域进入污染倒计时并要求撤离，实际数值为改编",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【textual_fact】保持密封并交由原案警方接管；没有原著现场中和法。",
+      "public_warning": "开盒前提供警务追索记录与密封异常，不能等打开后才说明危险",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "marine_microbes",
+      "name": "海异智慧微生物群",
+      "public_name": "海上异事",
+      "source_book": "原振侠系列/04.海异.txt",
+      "source_books": [
+        "原振侠系列/04.海异.txt"
+      ],
+      "canonical": {
+        "surface": "海难、断手与视听异常像是互不相干的鬼怪事件。",
+        "mechanism": "李邦殊将它们联系到有组织意志的微生物群；其说明不等于现实生物学定律。",
+        "mechanism_status": "testimony",
+        "activation": "需要本案能响应的微生物群及相应接触环境；不能指挥所有海水细菌。",
+        "price": "行动耗费群体生命；可能侵蚀身体和阻断呼吸；世界大战胜负说是人物判断。",
+        "counter": "沟通、停止敌对破坏并争取群体合作；没有原著万能抗菌药或银鱼波长克制。",
+        "availability": "本案存在警告、示范与救援，敌意须按阶段确定。",
+        "unknowns": [],
+        "counter_status": "mixed"
+      },
+      "character_ids": [
+        "yuanzhenxia_marine_microbes"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "原振侠系列/04.海异.txt",
+          "start_line": 7625,
+          "end_line": 7679,
+          "supports": "李邦殊转述水池接触引起消解及群体牺牲。",
+          "epistemic_status": "testimony",
+          "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/04.海异.txt",
+          "start_line": 7723,
+          "end_line": 7789,
+          "supports": "驱动完整肢体、阻断呼吸与视听警告的说明；尸群为想象。",
+          "epistemic_status": "mixed",
+          "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/04.海异.txt",
+          "start_line": 7811,
+          "end_line": 7813,
+          "supports": "它们组织力量送人离开，不是纯粹敌对。",
+          "epistemic_status": "testimony",
+          "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "原振侠系列/04.海异.txt:L7625-L7679; 原振侠系列/04.海异.txt:L7723-L7789; 原振侠系列/04.海异.txt:L7811-L7813",
+      "id": "hazard_marine_microbes",
+      "min_heat": 6,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "取消以常规卫生检查或可见伤口断定安全的相关加值；隔离与观察仍可用",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "李邦殊将它们联系到有组织意志的微生物群；其说明不等于现实生物学定律。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "接触本场已确认受群体控制的水域且无隔离",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "身体异常进度一档，先保留撤离或求和行动",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【mixed】沟通、停止敌对破坏并争取群体合作；没有原著万能抗菌药或银鱼波长克制。",
+      "public_warning": "先展示金属遗留与有机物消失的对照",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    },
+    {
+      "dossier_id": "spirit_chair",
+      "name": "灵椅与石台组合",
+      "public_name": "灵椅争夺",
+      "source_book": "原振侠系列/06.灵椅.txt",
+      "source_books": [
+        "原振侠系列/06.灵椅.txt"
+      ],
+      "canonical": {
+        "surface": "坐上灵椅就会成为至高统治者。",
+        "mechanism": "石台与椅子需要组合；来自天庭的权力许诺可能把受益人变成外部力量的工具，来源解释仍属人物推论。",
+        "mechanism_status": "mixed",
+        "activation": "组合实物；已有权位是黄绢给出的资格条件，不能自动推广为无条件世界法则。",
+        "price": "追求权力者可能失去自主，获得权力不代表脱离幕后控制。",
+        "counter": "阻止实物组合或拒绝承诺是条件性应对；没有已展示的万能驱魔流程。",
+        "availability": "部署前声明所选组合阶段，不保证椅子单独出现即可运作。",
+        "unknowns": [],
+        "counter_status": "derived_strategy"
+      },
+      "character_ids": [],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "原振侠系列/06.灵椅.txt",
+          "start_line": 9067,
+          "end_line": 9107,
+          "supports": "天庭承诺与主人公对代理统治的解释。",
+          "epistemic_status": "mixed",
+          "source_sha256": "5b2790408f171f8dde0941799afdfd913457ffb2f7fe6345348f3b5bc8ee99f7",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/06.灵椅.txt",
+          "start_line": 9137,
+          "end_line": 9195,
+          "supports": "黄绢主张已有权位者才能受益，椅台组合及视而不见的说法。",
+          "epistemic_status": "mixed",
+          "source_sha256": "5b2790408f171f8dde0941799afdfd913457ffb2f7fe6345348f3b5bc8ee99f7",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "原振侠系列/06.灵椅.txt:L9067-L9107; 原振侠系列/06.灵椅.txt:L9137-L9195",
+      "id": "hazard_spirit_chair",
+      "min_heat": 4,
+      "specialty_suppression_rule": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "suppressed_dimension": "取消以肉眼扫视一次确认椅子不存在的侦察加值；仅在采用本案感知干预说法时",
+        "penalty": "仅对描述中确实失效的专长加值归零；不改基础属性，也不削减未受影响的专长。",
+        "in_universe_reason": "石台与椅子需要组合；来自天庭的权力许诺可能把受益人变成外部力量的工具，来源解释仍属人物推论。",
+        "restores_when": "实际排除或绕开该失效条件后恢复；不能仅靠热度下降宣布原著机制消失。"
+      },
+      "active_hazard_roll": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice_expression": "d30+0",
+        "trigger_condition": "带着破坏目的搜寻且场景明确启用感知干预",
+        "target_defense": "d20+相关属性；采用哪一项须在掷骰前按行动声明",
+        "on_hit_effect": "漏过一次物件定位；可用他人证言与实物位置交叉核验",
+        "on_miss_effect": "本次不推进状态，保留实际环境与已获得线索。",
+        "frequency": "同一触发原因每轮至多一次；已经触发的同一伤害不在别的模块重复结算。"
+      },
+      "canonical_escape": "【derived_strategy】阻止实物组合或拒绝承诺是条件性应对；没有已展示的万能驱魔流程。",
+      "public_warning": "先给出不同立场者对同一地点的互相矛盾描述",
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "telegraph_before_trigger": true,
+        "automatic_death": false,
+        "design_note": "环境主动骰是本扩展建议。未能读取论坛全文，不能据此宣称官方规则要求所有环境用 d30。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "book_id": "book_3ce9d442f6f5",
+  "source_book": "卫斯理系列/133异种人生.txt",
+  "title": "异种人生",
+  "source_sha256": "64db677a42782d72f3cdb292a066c315066f62a5d36fcff0f167ebe859e3a41c",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        108,
+        134,
+        229,
+        517,
+        549,
+        562,
+        633,
+        648
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        212,
+        244
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        195,
+        199,
+        252,
+        291,
+        392,
+        396,
+        592,
+        621
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        54,
+        199,
+        229,
+        260,
+        334,
+        392,
+        528,
+        631
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,61 @@
+{
+  "book_id": "book_051368140ce0",
+  "source_book": "卫斯理系列/101转世暗号.txt",
+  "title": "转世暗号",
+  "source_sha256": "0a69f3bc3ba2204d20f2a34622e6f5f9cfaec09649a08efd0c40c7f1682287f1",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        94,
+        142,
+        204,
+        845,
+        1652,
+        2459
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        1568,
+        1573,
+        1574,
+        1665,
+        2449
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        933,
+        967,
+        969,
+        1194,
+        1426,
+        1816,
+        2050,
+        2631
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 44,
+      "sample_line_numbers": [
+        39,
+        1114,
+        1558,
+        1738,
+        1783,
+        1922,
+        2258,
+        2697
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

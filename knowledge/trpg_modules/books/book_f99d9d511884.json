@@ -1,0 +1,62 @@
+{
+  "book_id": "book_f99d9d511884",
+  "source_book": "浪子高达系列/金球红唇.txt",
+  "title": "金球红唇",
+  "source_sha256": "308f4846668524daa62e5fe136c97e795078a60aca8eb69f71ca30ec3a942e86",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        1032,
+        1906,
+        2308,
+        2778,
+        4808,
+        4850,
+        4856,
+        4906
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        592,
+        1334,
+        2383,
+        4952
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        1453,
+        1720,
+        1825,
+        2114,
+        2691,
+        2805,
+        2870,
+        3004
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        529,
+        877,
+        2034,
+        2203,
+        2561,
+        3036,
+        3632,
+        4036
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,33 @@
+{
+  "book_id": "book_c3aed44133b8",
+  "source_book": "倪匡之鬼话系列/择时剖腹.txt",
+  "title": "择时剖腹",
+  "source_sha256": "c01cdb4fea33e96f2a6c5c04999a42d5a8bd6b019b894a8e332f0a70d477c815",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        37,
+        69
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

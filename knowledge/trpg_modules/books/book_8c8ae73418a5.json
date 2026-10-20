@@ -1,0 +1,64 @@
+{
+  "book_id": "book_8c8ae73418a5",
+  "source_book": "木兰花全集/05尸变惊魂.txt",
+  "title": "尸变惊魂",
+  "source_sha256": "0818a214d7185dad2a2e87260b743bd7f3d82ec3690e3a284bec2e07a9806804",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        322,
+        436,
+        446,
+        454,
+        464,
+        516,
+        686,
+        970
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        110,
+        160,
+        260,
+        382,
+        502,
+        506,
+        786,
+        828
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        786,
+        914,
+        926,
+        1220,
+        1276,
+        1326
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 33,
+      "sample_line_numbers": [
+        64,
+        250,
+        426,
+        814,
+        882,
+        1096,
+        1224,
+        1324
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

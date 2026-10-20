@@ -1,0 +1,56 @@
+{
+  "book_id": "book_daabf1bd27ce",
+  "source_book": "卫斯理系列/107解脱.txt",
+  "title": "解脱",
+  "source_sha256": "8cc906d580b95902749f67034ee2bb6dce45e5712c2fd68a2647851f37b8a514",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        247,
+        248,
+        1603
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        1266,
+        1861,
+        2051
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        750,
+        1150,
+        1263,
+        1296,
+        2051,
+        2299,
+        2554,
+        2696
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        217,
+        773,
+        856,
+        1112,
+        1165,
+        1579,
+        1872,
+        2539
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

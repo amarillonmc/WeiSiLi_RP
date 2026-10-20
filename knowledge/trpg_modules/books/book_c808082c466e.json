@@ -1,0 +1,121 @@
+{
+  "book_id": "book_c808082c466e",
+  "source_book": "卫斯理系列/044大厦.txt",
+  "title": "大厦",
+  "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        40,
+        51,
+        174,
+        248,
+        801,
+        2137,
+        2537,
+        2941
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 50,
+      "sample_line_numbers": [
+        438,
+        564,
+        633,
+        925,
+        1413,
+        1866,
+        2417,
+        3110
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        161,
+        1326,
+        1854,
+        2139,
+        2345,
+        2704,
+        3031,
+        3110
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 68,
+      "sample_line_numbers": [
+        100,
+        835,
+        1372,
+        1619,
+        2224,
+        2467,
+        2730,
+        3085
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_dasha_elevator",
+    "hazard_dasha_elevator",
+    "scenario_dasha_elevator"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "dasha_elevator"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/044大厦.txt",
+      "start_line": 2702,
+      "end_line": 2730,
+      "supports": "王直义的电梯实验困住罗定与小郭，研究尚未成熟。",
+      "epistemic_status": "mixed",
+      "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/044大厦.txt",
+      "start_line": 2740,
+      "end_line": 2819,
+      "supports": "陈毛的坠亡及卫斯理关于时间和尺度的解释。",
+      "epistemic_status": "mixed",
+      "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/044大厦.txt",
+      "start_line": 2830,
+      "end_line": 2896,
+      "supports": "卫斯理用改装门板承受撞击而返回；明确是冒险。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/044大厦.txt",
+      "start_line": 3163,
+      "end_line": 3165,
+      "supports": "末段说明电梯下降可返回正常空间。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "0594c590108da5deee49fdba1dde23bc59ed501266a504f9b5f57a9297fc5d50",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

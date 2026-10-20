@@ -1,0 +1,63 @@
+{
+  "book_id": "book_1905922229f9",
+  "source_book": "木兰花全集/23大破暗杀党.txt",
+  "title": "大破暗杀党",
+  "source_sha256": "3d7458567eb0b502406c0c965152699294431c841563180d8b3e28395af441a6",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        180,
+        988,
+        1118,
+        1186,
+        1478,
+        1622,
+        1964,
+        2510
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        950,
+        1252,
+        2252,
+        2254,
+        2630
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        340,
+        776,
+        928,
+        1018,
+        1048,
+        1468,
+        1972,
+        1974
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        424,
+        598,
+        746,
+        1062,
+        1412,
+        2250,
+        2312,
+        2630
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

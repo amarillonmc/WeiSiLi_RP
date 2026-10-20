@@ -1,0 +1,65 @@
+{
+  "book_id": "book_db2b59ea878a",
+  "source_book": "原振侠系列/12.降头.txt",
+  "title": "降头",
+  "source_sha256": "88395b1415d6e0f274e66c0ef4f80ca3215480b57a7993f8f42cd1b1995e9c47",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        522,
+        1309,
+        1351,
+        1488,
+        2019,
+        3982,
+        4327,
+        4334
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        998,
+        2590,
+        2677,
+        2872,
+        2876,
+        3541,
+        4012
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        77,
+        468,
+        841,
+        1318,
+        2049,
+        2170,
+        2966,
+        4327
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 32,
+      "sample_line_numbers": [
+        328,
+        1034,
+        1382,
+        1703,
+        2978,
+        3503,
+        3836,
+        4254
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

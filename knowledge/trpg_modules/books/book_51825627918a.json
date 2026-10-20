@@ -1,0 +1,58 @@
+{
+  "book_id": "book_51825627918a",
+  "source_book": "卫斯理系列/008奇玉.txt",
+  "title": "奇玉",
+  "source_sha256": "483e371dd19a5b82e47b55c951f0f0866fcb7e46e0f3c01338cd3145617be2af",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        37,
+        416,
+        436,
+        462,
+        603,
+        709,
+        1103,
+        1385
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        86,
+        429,
+        578,
+        997,
+        1525
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        940,
+        1276,
+        1433
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 40,
+      "sample_line_numbers": [
+        67,
+        336,
+        618,
+        917,
+        1043,
+        1217,
+        1389,
+        1523
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

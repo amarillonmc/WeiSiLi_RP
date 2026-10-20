@@ -1,0 +1,66 @@
+{
+  "book_id": "book_0050207a2763",
+  "source_book": "木兰花全集/13智擒电子盗.txt",
+  "title": "智擒电子盗",
+  "source_sha256": "cae5e4565a5c2dfe0cf6c7790eced723780960b63c6233d1171986440eca4192",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 48,
+      "sample_line_numbers": [
+        34,
+        190,
+        266,
+        444,
+        1024,
+        1838,
+        2110,
+        2540
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        692,
+        908,
+        938,
+        1322,
+        1454,
+        1566,
+        2064,
+        2518
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        34,
+        162,
+        530,
+        1032,
+        1116,
+        1222,
+        2368,
+        2492
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 31,
+      "sample_line_numbers": [
+        28,
+        174,
+        880,
+        1480,
+        2022,
+        2098,
+        2392,
+        2522
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

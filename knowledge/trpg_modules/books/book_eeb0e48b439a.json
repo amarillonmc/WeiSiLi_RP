@@ -1,0 +1,66 @@
+{
+  "book_id": "book_eeb0e48b439a",
+  "source_book": "卫斯理系列/007蜂云.txt",
+  "title": "蜂云",
+  "source_sha256": "64997c0e874645af11ef648d072ce573b31857b035a91392164f19ccff34d37a",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 26,
+      "sample_line_numbers": [
+        22,
+        373,
+        754,
+        1268,
+        1954,
+        2892,
+        3079,
+        3709
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        367,
+        416,
+        428,
+        511,
+        531,
+        1776,
+        1992,
+        2005
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 32,
+      "sample_line_numbers": [
+        350,
+        1302,
+        1588,
+        2111,
+        2501,
+        2684,
+        3619,
+        3823
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 52,
+      "sample_line_numbers": [
+        128,
+        700,
+        831,
+        1489,
+        2049,
+        2196,
+        3106,
+        3830
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,61 @@
+{
+  "book_id": "book_16e87a9465f3",
+  "source_book": "原振侠系列/16.大犯罪者.txt",
+  "title": "大犯罪者",
+  "source_sha256": "7c6a554128e27a9283152d27909036e1f718a6e1d3bb831354088bc1bfd84fb9",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 33,
+      "sample_line_numbers": [
+        407,
+        2633,
+        2825,
+        3021,
+        3153,
+        4635,
+        5261,
+        5893
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        1281,
+        2013,
+        4125
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 90,
+      "sample_line_numbers": [
+        611,
+        895,
+        1405,
+        2613,
+        3273,
+        3701,
+        5053,
+        5911
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 33,
+      "sample_line_numbers": [
+        153,
+        613,
+        1007,
+        1591,
+        2627,
+        3423,
+        5307,
+        5975
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

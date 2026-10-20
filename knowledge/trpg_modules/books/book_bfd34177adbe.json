@@ -1,0 +1,59 @@
+{
+  "book_id": "book_bfd34177adbe",
+  "source_book": "卫斯理系列/114算帐.txt",
+  "title": "算帐",
+  "source_sha256": "f8f9e5ec07ee6721fcd672383d584179a02d23e9272e55dae934908e6e2a27c8",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 62,
+      "sample_line_numbers": [
+        32,
+        1490,
+        1507,
+        1551,
+        1607,
+        1661,
+        1712,
+        2732
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1880
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 21,
+      "sample_line_numbers": [
+        23,
+        54,
+        80,
+        1035,
+        1193,
+        1684,
+        2599,
+        2716
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 31,
+      "sample_line_numbers": [
+        66,
+        232,
+        859,
+        883,
+        1140,
+        1740,
+        2311,
+        2453
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,57 @@
+{
+  "book_id": "book_1a18c351cf2d",
+  "source_book": "卫斯理系列/041地图.txt",
+  "title": "地图",
+  "source_sha256": "8ff1d3904e8c7886659c97c94122a5f66689b175f831a725e0100c930ba389f4",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        117,
+        688,
+        2269,
+        2306,
+        2359,
+        2370,
+        2468,
+        2482
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        448,
+        792,
+        1455,
+        2351
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        1756,
+        2428,
+        2593
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 31,
+      "sample_line_numbers": [
+        112,
+        358,
+        1152,
+        1272,
+        1538,
+        1667,
+        1930,
+        2799
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

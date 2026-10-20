@@ -1,0 +1,39 @@
+{
+  "book_id": "book_9cbc6b143845",
+  "source_book": "神探高斯系列/03飞艇.txt",
+  "title": "飞艇",
+  "source_sha256": "c64efb8cf09e66eb239b1ce46011832441ac68dd1d5a52a074a73ec5ee255e8d",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        405,
+        590
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        105,
+        360,
+        573,
+        597,
+        684
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

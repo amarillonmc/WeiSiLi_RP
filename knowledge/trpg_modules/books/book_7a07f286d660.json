@@ -1,0 +1,94 @@
+{
+  "book_id": "book_7a07f286d660",
+  "source_book": "卫斯理系列/088圈套.txt",
+  "title": "圈套",
+  "source_sha256": "b4c56fe35f08cd88fd9b83bcaa2ced669c1f051c325fa9497563e1ba2032671f",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        83,
+        578,
+        659,
+        810,
+        989,
+        2021,
+        2386,
+        3090
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        24,
+        590,
+        1202,
+        1608,
+        1692,
+        1849,
+        2005
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 30,
+      "sample_line_numbers": [
+        106,
+        606,
+        626,
+        1059,
+        1153,
+        2311,
+        2414,
+        3051
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 23,
+      "sample_line_numbers": [
+        182,
+        673,
+        815,
+        938,
+        1418,
+        1867,
+        2295,
+        3138
+      ]
+    }
+  },
+  "module_ids": [
+    "scenario_historical_trap"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "historical_trap"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 3081,
+      "end_line": 3103,
+      "supports": "陶格临终说明主宰与人类历史安排，主宰结束不代表人类夺回主导权。",
+      "epistemic_status": "testimony",
+      "source_sha256": "b4c56fe35f08cd88fd9b83bcaa2ced669c1f051c325fa9497563e1ba2032671f",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/088圈套.txt",
+      "start_line": 3106,
+      "end_line": 3123,
+      "supports": "唐娜不愿争夺已进入他人记忆组的身体，轮回圈套为卫斯理疑问。",
+      "epistemic_status": "mixed",
+      "source_sha256": "b4c56fe35f08cd88fd9b83bcaa2ced669c1f051c325fa9497563e1ba2032671f",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

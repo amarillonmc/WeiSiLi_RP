@@ -1,0 +1,51 @@
+{
+  "book_id": "book_383d3f6c3c1b",
+  "source_book": "木兰花全集/15杀人奖金.txt",
+  "title": "杀人奖金",
+  "source_sha256": "6301f596568dbb4e5480e2507becf8c1fc9b9be8dce36596c8cf1062f528dd07",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        28,
+        56,
+        820,
+        1424,
+        1724
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        346,
+        820
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        588,
+        758
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        8,
+        124,
+        612,
+        936,
+        1150,
+        1566,
+        1800,
+        2156
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

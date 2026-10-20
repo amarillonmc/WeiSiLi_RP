@@ -1,0 +1,66 @@
+{
+  "book_id": "book_1759a14aa7d2",
+  "source_book": "木兰花全集/60无名怪尸.txt",
+  "title": "无名怪尸",
+  "source_sha256": "3665c301ca46948146acfed72867347e90878320be434b75ecd3df29a2d1c1e3",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        608,
+        736,
+        1380,
+        1514,
+        1646,
+        1810,
+        1840,
+        1866
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        182,
+        624,
+        730,
+        924,
+        1302,
+        1598,
+        1698,
+        1804
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        8,
+        134,
+        578,
+        980,
+        1480,
+        1650,
+        1782,
+        1814
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 39,
+      "sample_line_numbers": [
+        46,
+        588,
+        844,
+        1108,
+        1450,
+        1672,
+        1742,
+        1890
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

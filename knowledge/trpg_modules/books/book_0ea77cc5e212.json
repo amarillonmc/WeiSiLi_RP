@@ -1,0 +1,63 @@
+{
+  "book_id": "book_0ea77cc5e212",
+  "source_book": "卫斯理系列/038鬼子.txt",
+  "title": "鬼子",
+  "source_sha256": "82f1ddf86d3b97ba54b29a2fe1a87601d8ca79db40f460d2bf3daf4a0c50ac38",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        219,
+        220,
+        222,
+        223,
+        316,
+        496,
+        968,
+        1056
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        687,
+        788,
+        889,
+        1064,
+        1130
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        87,
+        479,
+        480,
+        525,
+        603,
+        824,
+        1064,
+        1087
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        299,
+        383,
+        421,
+        648,
+        829,
+        899,
+        900,
+        1133
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

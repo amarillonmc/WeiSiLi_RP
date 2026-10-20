@@ -1,0 +1,121 @@
+{
+  "book_id": "book_6b3eeebde32f",
+  "source_book": "卫斯理系列/005透明光.txt",
+  "title": "透明光",
+  "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 68,
+      "sample_line_numbers": [
+        238,
+        1743,
+        2074,
+        4591,
+        4738,
+        5145,
+        5280,
+        5341
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        342,
+        2162,
+        3480,
+        3483,
+        3486,
+        3543,
+        3799,
+        4547
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        1056,
+        2536,
+        2699,
+        3034,
+        3106,
+        3925,
+        4684,
+        5196
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 89,
+      "sample_line_numbers": [
+        24,
+        1122,
+        1562,
+        2327,
+        2876,
+        3552,
+        4430,
+        5233
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_transparent_mineral",
+    "hazard_transparent_mineral",
+    "scenario_transparent_mineral"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "transparent_mineral"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "start_line": 5162,
+      "end_line": 5206,
+      "supports": "卫斯理把同矿物两种发光状态误解为可用真空重现；实验前要求供氧与关盒。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "start_line": 5278,
+      "end_line": 5299,
+      "supports": "真空还原失败；金字塔气氛不能等同真空；矿物失活成灰。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "start_line": 5310,
+      "end_line": 5341,
+      "supports": "两人死亡或彻底隐形皆为猜测；外星来源是实验室意见。",
+      "epistemic_status": "hypothesis",
+      "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/005透明光.txt",
+      "start_line": 4677,
+      "end_line": 4678,
+      "supports": "合上铜盒后遮断发光；此处只作为停止暴露手段，不作为恢复身体的办法。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "af5c65ad22cdc5e0df65987c5c4fe7842dc462251436a604015d05f353001343",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

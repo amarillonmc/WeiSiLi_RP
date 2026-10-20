@@ -1,0 +1,56 @@
+{
+  "book_id": "book_42d8c174fce1",
+  "source_book": "卫斯理系列/132解开密码.txt",
+  "title": "解开密码",
+  "source_sha256": "729fc0f38475ee2d249f8eb580cd4268d031b5fe8aa7e9faebe2f87faf714362",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        1,
+        81,
+        343,
+        540,
+        646,
+        844,
+        850,
+        1236
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        533
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        533,
+        1054,
+        1058,
+        1201,
+        1295
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 55,
+      "sample_line_numbers": [
+        71,
+        342,
+        604,
+        781,
+        844,
+        1027,
+        1295,
+        1412
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

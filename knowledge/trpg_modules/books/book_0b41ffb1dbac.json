@@ -1,0 +1,62 @@
+{
+  "book_id": "book_0b41ffb1dbac",
+  "source_book": "卫斯理系列/058茫点.txt",
+  "title": "茫点",
+  "source_sha256": "6f47589bfc97b80eb1472a74ca08146f406f917980282f0847cde47069aa23bf",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 110,
+      "sample_line_numbers": [
+        743,
+        2076,
+        2888,
+        3533,
+        3592,
+        3746,
+        4104,
+        4452
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        2151,
+        2743,
+        3879,
+        3931
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        1514,
+        2047,
+        2681,
+        2832,
+        2836,
+        2870,
+        4162,
+        4440
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 60,
+      "sample_line_numbers": [
+        135,
+        538,
+        1266,
+        1939,
+        2556,
+        2712,
+        3154,
+        4459
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

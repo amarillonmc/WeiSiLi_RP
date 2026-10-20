@@ -1,0 +1,66 @@
+{
+  "book_id": "book_c26941f0be81",
+  "source_book": "原振侠系列/07.奇缘.txt",
+  "title": "奇缘",
+  "source_sha256": "c92952812cc636c9577255f8272c935998de207a6d97919014250e3f28638719",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        1909,
+        1947,
+        3455,
+        3457,
+        3463,
+        3483,
+        6787,
+        9239
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        1017,
+        1707,
+        2279,
+        2919,
+        3397,
+        3411,
+        3445,
+        9607
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 32,
+      "sample_line_numbers": [
+        389,
+        755,
+        2305,
+        3465,
+        4757,
+        5329,
+        6313,
+        8467
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 28,
+      "sample_line_numbers": [
+        5,
+        691,
+        2029,
+        3059,
+        3899,
+        5845,
+        7019,
+        9271
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,59 @@
+{
+  "book_id": "book_0c1cbe649a9a",
+  "source_book": "卫斯理系列/083毒誓.txt",
+  "title": "毒誓",
+  "source_sha256": "7cbd4e94603d697ecb560154dfb9401d01c39f9d1ea949b5a7b1b4507b59e2b2",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        543,
+        1976,
+        2539,
+        2737,
+        3110,
+        3211
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        1617,
+        2593,
+        2604
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        1030,
+        1392,
+        2068,
+        2661,
+        2832,
+        2965,
+        2966,
+        3120
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 39,
+      "sample_line_numbers": [
+        17,
+        643,
+        1603,
+        1988,
+        2121,
+        2317,
+        2837,
+        3213
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

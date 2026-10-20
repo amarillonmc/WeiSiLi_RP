@@ -1,0 +1,30 @@
+{
+  "book_id": "book_02ed3ef7a4bc",
+  "source_book": "倪匡之鬼话系列/搭电梯.txt",
+  "title": "搭电梯",
+  "source_sha256": "3599a792e185ec049669e02c5e9f3819fe27e24a75d9fc25415dea54e31fc53b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

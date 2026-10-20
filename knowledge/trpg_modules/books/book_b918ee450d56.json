@@ -1,0 +1,81 @@
+{
+  "book_id": "book_b918ee450d56",
+  "source_book": "原振侠系列/18.黑暗天使.txt",
+  "title": "黑暗天使",
+  "source_sha256": "a43bfec6625e0fb7eef0725897ea8fb842d04ea7457d7a7c3949cdf77abcee74",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 45,
+      "sample_line_numbers": [
+        141,
+        197,
+        1441,
+        3753,
+        4149,
+        5665,
+        6001,
+        6091
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        659,
+        1413,
+        1601,
+        4673,
+        5001
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 23,
+      "sample_line_numbers": [
+        327,
+        927,
+        1363,
+        1925,
+        3401,
+        4345,
+        5373,
+        6085
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 45,
+      "sample_line_numbers": [
+        13,
+        1449,
+        3239,
+        4547,
+        4961,
+        5193,
+        5433,
+        5805
+      ]
+    }
+  },
+  "module_ids": [
+    "boss_princess_new_body",
+    "scenario_princess_new_body"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "princess_new_body"
+  ],
+  "evidence": [
+    {
+      "path": "原振侠系列/18.黑暗天使.txt",
+      "start_line": 5179,
+      "end_line": 5237,
+      "supports": "黑纱牺牲并让身体供奥丽卡使用；人格与体温条件不相同。",
+      "epistemic_status": "mixed",
+      "source_sha256": "a43bfec6625e0fb7eef0725897ea8fb842d04ea7457d7a7c3949cdf77abcee74",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

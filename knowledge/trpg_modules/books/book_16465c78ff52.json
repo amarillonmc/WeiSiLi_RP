@@ -1,0 +1,62 @@
+{
+  "book_id": "book_16465c78ff52",
+  "source_book": "原振侠系列/26.自杀阴谋.txt",
+  "title": "自杀阴谋",
+  "source_sha256": "b4b7d85338366a5e12b5280ac6e0f8212b004bdfc2be5f168a1458868e39b4a6",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        1813,
+        2087,
+        2333,
+        2699,
+        4451,
+        4877,
+        6455,
+        7219
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        287,
+        2029,
+        2391,
+        5747
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 35,
+      "sample_line_numbers": [
+        35,
+        807,
+        1295,
+        1875,
+        2835,
+        5747,
+        6771,
+        7677
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        763,
+        1327,
+        2613,
+        2655,
+        3101,
+        4147,
+        6263,
+        6923
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

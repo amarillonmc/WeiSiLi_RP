@@ -1,0 +1,58 @@
+{
+  "book_id": "book_b2eac659a858",
+  "source_book": "卫斯理系列/017尸变.txt",
+  "title": "尸变",
+  "source_sha256": "7eb28a035f77330cff9a0865a942fe5373dc739a9877aa057031ddce4fd6e764",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 31,
+      "sample_line_numbers": [
+        237,
+        491,
+        1749,
+        1755,
+        1787,
+        1794,
+        1898,
+        1979
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        483
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        26,
+        363,
+        1314,
+        1463,
+        1592,
+        1692,
+        1704
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 35,
+      "sample_line_numbers": [
+        176,
+        418,
+        790,
+        901,
+        1420,
+        1701,
+        1920,
+        2020
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

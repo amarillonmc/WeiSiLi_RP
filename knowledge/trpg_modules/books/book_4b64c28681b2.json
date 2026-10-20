@@ -1,0 +1,61 @@
+{
+  "book_id": "book_4b64c28681b2",
+  "source_book": "原振侠系列/17.幽灵星座.txt",
+  "title": "幽灵星座",
+  "source_sha256": "1512c711637508d5aa1a4e20a1b8e918bee903ab992eae341bb9d401e3154ed6",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        1697,
+        2007,
+        2727,
+        3715,
+        4017,
+        5375,
+        5389,
+        5395
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        2307,
+        2437,
+        2655
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        885,
+        1725,
+        4901,
+        5561,
+        6547,
+        6553,
+        6559,
+        8127
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 51,
+      "sample_line_numbers": [
+        451,
+        747,
+        2157,
+        3653,
+        5243,
+        6463,
+        7797,
+        8087
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

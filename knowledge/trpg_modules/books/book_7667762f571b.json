@@ -1,0 +1,65 @@
+{
+  "book_id": "book_7667762f571b",
+  "source_book": "卫斯理系列/014换头记.txt",
+  "title": "换头记",
+  "source_sha256": "091da9f8184a0806b54c1cacab25d0ec4d4e32a3d3be0ce9d32e5e60fead9fa6",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        739,
+        1196,
+        1410,
+        1413,
+        1565,
+        2446,
+        2600
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        23,
+        25,
+        1448,
+        1455,
+        1466,
+        1467,
+        1712,
+        1898
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        687,
+        868,
+        962,
+        1056,
+        1192,
+        1892,
+        2364,
+        2624
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 36,
+      "sample_line_numbers": [
+        44,
+        301,
+        833,
+        955,
+        1370,
+        1529,
+        2245,
+        2664
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

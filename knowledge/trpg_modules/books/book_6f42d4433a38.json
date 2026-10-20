@@ -1,0 +1,53 @@
+{
+  "book_id": "book_6f42d4433a38",
+  "source_book": "卫斯理系列/089烈火女.txt",
+  "title": "烈火女",
+  "source_sha256": "d5e3ac012a9d66ec67eb57ec8651f69aae8dfbc34ac0f965b1be45ed92f9b143",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        588,
+        1148
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        209,
+        425,
+        456,
+        910
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        502,
+        683,
+        717,
+        836,
+        856
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        184,
+        806,
+        1121,
+        1501,
+        2143,
+        2655,
+        2729,
+        3031
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

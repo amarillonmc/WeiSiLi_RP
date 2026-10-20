@@ -1,0 +1,55 @@
+{
+  "book_id": "book_0e73a43298e9",
+  "source_book": "卫斯理系列/081错手.txt",
+  "title": "错手",
+  "source_sha256": "2413dee14aa56be8107aebd1fb620c74e82c0a360d2c6fad1cc7fcdbca21555d",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 44,
+      "sample_line_numbers": [
+        1129,
+        2065,
+        2618,
+        2910,
+        3090,
+        3378,
+        3593,
+        4346
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        2516,
+        4002
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        266,
+        286,
+        2355
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 37,
+      "sample_line_numbers": [
+        230,
+        663,
+        820,
+        1261,
+        1437,
+        2406,
+        2422,
+        3995
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

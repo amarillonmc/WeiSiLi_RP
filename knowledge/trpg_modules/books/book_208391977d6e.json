@@ -1,0 +1,52 @@
+{
+  "book_id": "book_208391977d6e",
+  "source_book": "卫斯理系列/128人面组合.txt",
+  "title": "人面组合",
+  "source_sha256": "81b16ece0f1a7e34666dacc32f70d855b5476f4b5d53e59eda31626529cd1af2",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        1278,
+        1516,
+        1519
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        237,
+        360,
+        907,
+        912,
+        1220,
+        1221,
+        1267,
+        2143
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        68,
+        478,
+        1116,
+        1324,
+        1812,
+        2084,
+        2414,
+        2525
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

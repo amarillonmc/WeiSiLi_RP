@@ -1,0 +1,59 @@
+{
+  "book_id": "book_d135e392bd20",
+  "source_book": "年轻人/13神话世界.txt",
+  "title": "神话世界",
+  "source_sha256": "4fc6ab65fbdb0e9621df5e12713ea6dfd934422da981794244be376e706b7914",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        11,
+        254,
+        924,
+        930,
+        938,
+        959,
+        1003,
+        1011
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        119,
+        248,
+        249,
+        768
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        348,
+        812,
+        813,
+        901,
+        981
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        8,
+        331,
+        665,
+        708,
+        1109,
+        1159,
+        1222,
+        1226
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

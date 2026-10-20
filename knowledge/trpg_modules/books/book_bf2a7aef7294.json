@@ -1,0 +1,39 @@
+{
+  "book_id": "book_bf2a7aef7294",
+  "source_book": "神探高斯系列/27亚洲皇后.txt",
+  "title": "亚洲皇后",
+  "source_sha256": "9ca49604a279d1117f564ff26d81e9bf036bd7b6b534c47891306055314bb7bf",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        109,
+        167,
+        247
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        339
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        141,
+        223
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

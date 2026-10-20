@@ -1,0 +1,57 @@
+{
+  "book_id": "book_951e382811f4",
+  "source_book": "木兰花全集/16隐形奇人.txt",
+  "title": "隐形奇人",
+  "source_sha256": "9bbf5c34d97a39999700d842f9a928a8a1b99b63c6c8f5b3ca4485de49adc108",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        100,
+        508,
+        514,
+        876,
+        1014,
+        1150,
+        2092,
+        2326
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        48,
+        518,
+        608,
+        1204,
+        1258,
+        2196,
+        2244,
+        2338
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 37,
+      "sample_line_numbers": [
+        22,
+        350,
+        380,
+        904,
+        1732,
+        1934,
+        2072,
+        2324
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

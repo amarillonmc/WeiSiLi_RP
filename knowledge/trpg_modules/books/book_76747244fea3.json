@@ -1,0 +1,55 @@
+{
+  "book_id": "book_76747244fea3",
+  "source_book": "浪子高达系列/水晶艳女.txt",
+  "title": "水晶艳女",
+  "source_sha256": "c6e5f3f78babab65e66014428ded74934a47797fd67afb8f821a9f18eda81f16",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        1908,
+        3792,
+        3814,
+        3833,
+        3989,
+        4000,
+        4272,
+        4724
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        457
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        625,
+        1828,
+        3568,
+        4093
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        67,
+        285,
+        506,
+        2085,
+        2198,
+        3691,
+        4106,
+        4179
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,59 @@
+{
+  "book_id": "book_2cbde07c2bc4",
+  "source_book": "卫斯理系列/067极刑.txt",
+  "title": "极刑",
+  "source_sha256": "46cfa532c1c1b63014521f0758b1097fb4a131c7cb0b2fd4635f3c6ec7929147",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        206,
+        837,
+        918,
+        2382,
+        2754,
+        2783,
+        2813,
+        2905
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        3006
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        79,
+        303,
+        1484,
+        1495,
+        1497,
+        2283,
+        2592,
+        2789
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 39,
+      "sample_line_numbers": [
+        304,
+        1038,
+        1116,
+        1311,
+        1629,
+        2269,
+        2889,
+        3275
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

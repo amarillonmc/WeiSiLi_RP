@@ -1,0 +1,57 @@
+{
+  "book_id": "book_c58b72d1bd18",
+  "source_book": "木兰花全集/02黑龙现爪.txt",
+  "title": "黑龙现爪",
+  "source_sha256": "288f5d8b671cae2a2db5e96d92b2dccdb71f260bc437d53b4669a02a7d0ec47e",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        64,
+        610,
+        1172,
+        1178,
+        1196,
+        1200,
+        1606,
+        1734
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        4,
+        10,
+        18,
+        38,
+        54,
+        854,
+        1502,
+        1864
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        80,
+        170,
+        184,
+        462,
+        700,
+        1360,
+        1492,
+        1716
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

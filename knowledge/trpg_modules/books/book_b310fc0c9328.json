@@ -1,0 +1,39 @@
+{
+  "book_id": "book_b310fc0c9328",
+  "source_book": "神探高斯系列/02催眠之术.txt",
+  "title": "催眠之术",
+  "source_sha256": "d6a2d413a1cdf4609f143d222d4976f14a6dd115a71dfa7da75e6dcb6b6826eb",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        92
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        223,
+        559
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        192,
+        569,
+        590
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

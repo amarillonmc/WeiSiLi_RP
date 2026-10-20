@@ -1,0 +1,57 @@
+{
+  "book_id": "book_439488d0010e",
+  "source_book": "卫斯理系列/082真相.txt",
+  "title": "真相",
+  "source_sha256": "456b816785e514e92617c4feff5d55616e052a3b527b624fd6711fbbd2745764",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 48,
+      "sample_line_numbers": [
+        51,
+        258,
+        471,
+        2644,
+        2722,
+        2870,
+        2954,
+        3107
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        712,
+        809,
+        992,
+        1435,
+        1970,
+        2000,
+        2076,
+        2956
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 43,
+      "sample_line_numbers": [
+        42,
+        893,
+        1189,
+        1475,
+        1986,
+        2237,
+        2754,
+        3206
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

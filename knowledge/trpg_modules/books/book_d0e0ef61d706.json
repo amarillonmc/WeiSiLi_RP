@@ -1,0 +1,42 @@
+{
+  "book_id": "book_d0e0ef61d706",
+  "source_book": "神探高斯系列/18奇轮.txt",
+  "title": "奇轮",
+  "source_sha256": "d08910a50a7963ee4db13911f1dfbbd8c1aad30f2295dc87cf160f7922f783e4",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        453
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        58
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        165,
+        171,
+        213,
+        516,
+        633,
+        635,
+        685
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

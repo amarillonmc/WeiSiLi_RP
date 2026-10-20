@@ -1,0 +1,66 @@
+{
+  "book_id": "book_7ee77fb86e3e",
+  "source_book": "原振侠系列/02.迷路.txt",
+  "title": "迷路",
+  "source_sha256": "d5744fc89841cfa8c7b7e6c45366f7ce850aeb86ac264016907b03da863395d0",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        183,
+        831,
+        867,
+        1449,
+        1803,
+        1807,
+        2229,
+        3827
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 84,
+      "sample_line_numbers": [
+        371,
+        551,
+        925,
+        1037,
+        1687,
+        2467,
+        2869,
+        3821
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        287,
+        1199,
+        1299,
+        2387,
+        3505,
+        3717,
+        3751,
+        3807
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        183,
+        1165,
+        1301,
+        2173,
+        2741,
+        2837,
+        3005,
+        3791
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

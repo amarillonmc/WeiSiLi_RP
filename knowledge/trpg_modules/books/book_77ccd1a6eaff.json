@@ -1,0 +1,66 @@
+{
+  "book_id": "book_77ccd1a6eaff",
+  "source_book": "原振侠系列/19.迷失乐园.txt",
+  "title": "迷失乐园",
+  "source_sha256": "4d5ece0644c482f7d977e4fe1dcebb3140550ca3406b9de5ef674bedaf19bc8e",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        319,
+        327,
+        337,
+        651,
+        2133,
+        3015,
+        4139,
+        4365
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        1,
+        1315,
+        1583,
+        1691,
+        2051,
+        2079,
+        2309,
+        3325
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        637,
+        1091,
+        1177,
+        1653,
+        1673,
+        2535,
+        2543,
+        4055
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 62,
+      "sample_line_numbers": [
+        7,
+        197,
+        871,
+        1183,
+        1485,
+        1779,
+        2843,
+        4241
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

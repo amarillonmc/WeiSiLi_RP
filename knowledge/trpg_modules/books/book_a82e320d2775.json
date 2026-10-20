@@ -1,0 +1,63 @@
+{
+  "book_id": "book_a82e320d2775",
+  "source_book": "木兰花全集/58三尸同行.txt",
+  "title": "三尸同行",
+  "source_sha256": "37551042884b06fed9d9dce02522e6a7289930d3c6ac0667f5f093117af852ae",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        56,
+        138,
+        570,
+        576,
+        748,
+        1004,
+        1980,
+        2078
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        608,
+        980,
+        1520,
+        2000,
+        2084
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        134,
+        140,
+        146,
+        170,
+        192,
+        1906,
+        1980,
+        2076
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        178,
+        718,
+        1212,
+        1292,
+        1604,
+        1756,
+        2112,
+        2176
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

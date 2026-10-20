@@ -1,0 +1,61 @@
+{
+  "book_id": "book_9023fbdb662f",
+  "source_book": "卫斯理系列/050木炭.txt",
+  "title": "木炭",
+  "source_sha256": "761554324d61f733c3480a0a1c37a8096d0a7c21c37865bc9bb575495f10854a",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        229,
+        2100,
+        3412,
+        3594,
+        3727,
+        4047,
+        4049,
+        4292
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        519,
+        4056,
+        4132
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        352,
+        358,
+        527,
+        1166,
+        2790,
+        2930,
+        3499,
+        3500
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 31,
+      "sample_line_numbers": [
+        262,
+        637,
+        1229,
+        1799,
+        2337,
+        2505,
+        2992,
+        3926
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

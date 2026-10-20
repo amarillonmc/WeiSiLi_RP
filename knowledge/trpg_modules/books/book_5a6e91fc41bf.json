@@ -1,0 +1,63 @@
+{
+  "book_id": "book_5a6e91fc41bf",
+  "source_book": "卫斯理系列/048迷藏.txt",
+  "title": "迷藏",
+  "source_sha256": "aac97f2b37dbce1bff76008fb5c02e79072fa9b59c7f403cb34044c946faf34a",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        478,
+        502,
+        690,
+        2032,
+        2332,
+        2348,
+        2431,
+        3329
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 40,
+      "sample_line_numbers": [
+        258,
+        1078,
+        1455,
+        2071,
+        2345,
+        2547,
+        2863,
+        3336
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        291,
+        609,
+        1676,
+        1742,
+        2157
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 23,
+      "sample_line_numbers": [
+        104,
+        219,
+        481,
+        947,
+        1368,
+        1594,
+        1940,
+        3277
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

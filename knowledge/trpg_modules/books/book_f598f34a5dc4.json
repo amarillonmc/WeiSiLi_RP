@@ -1,0 +1,57 @@
+{
+  "book_id": "book_f598f34a5dc4",
+  "source_book": "木兰花全集/32人形飞弹.txt",
+  "title": "人形飞弹",
+  "source_sha256": "848a4aba7d36efa84b46fdfbdad94a328d0523fb539ab93797e3a027969f8702",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        688,
+        880,
+        1090,
+        1094,
+        1292,
+        1950,
+        2062,
+        2460
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        68,
+        522,
+        938,
+        1068,
+        1490,
+        1848,
+        2060,
+        2466
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 43,
+      "sample_line_numbers": [
+        46,
+        860,
+        1184,
+        1662,
+        1954,
+        2130,
+        2312,
+        2484
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

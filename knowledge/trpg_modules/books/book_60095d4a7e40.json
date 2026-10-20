@@ -1,0 +1,57 @@
+{
+  "book_id": "book_60095d4a7e40",
+  "source_book": "卫斯理系列/031访客.txt",
+  "title": "访客",
+  "source_sha256": "61c5c6ac1bba44ca7b29c0d591dfff302a6a359e69f2670d7645d2fc41a453ce",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        12,
+        809,
+        821,
+        842,
+        863,
+        1259,
+        1281,
+        1298
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        697,
+        779,
+        803,
+        996,
+        1116
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        1269,
+        1299
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        70,
+        124,
+        759,
+        988,
+        1191,
+        1232,
+        1255,
+        1276
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

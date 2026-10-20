@@ -1,0 +1,63 @@
+{
+  "book_id": "book_184aed6ad276",
+  "source_book": "木兰花全集/35蜘蛛陷阱.txt",
+  "title": "蜘蛛陷阱",
+  "source_sha256": "3343707dc102958563380573b6f5e1dea8f98979eb197725bda263e72c9d07dc",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        302,
+        810,
+        1908,
+        1914,
+        1956,
+        2030
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        28,
+        30,
+        32,
+        34,
+        1450,
+        1486,
+        1488
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        136,
+        238,
+        1238,
+        1498,
+        1816,
+        1970,
+        2290,
+        2306
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        336,
+        724,
+        914,
+        1180,
+        1520,
+        1774,
+        1784,
+        2414
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

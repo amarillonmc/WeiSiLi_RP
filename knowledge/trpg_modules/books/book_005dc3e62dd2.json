@@ -1,0 +1,66 @@
+{
+  "book_id": "book_005dc3e62dd2",
+  "source_book": "年轻人/08天敌.txt",
+  "title": "天敌",
+  "source_sha256": "3e8d9f7dc9c45281259003e43881056d191ac9e63c2ed1cde64b458304c7e7e4",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        153,
+        496,
+        572,
+        688,
+        1029,
+        1151,
+        1311,
+        1364
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        28,
+        38,
+        154,
+        309,
+        658,
+        763,
+        1052,
+        1247
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 67,
+      "sample_line_numbers": [
+        2,
+        584,
+        644,
+        806,
+        1016,
+        1065,
+        1233,
+        1356
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 75,
+      "sample_line_numbers": [
+        3,
+        313,
+        407,
+        605,
+        670,
+        861,
+        1115,
+        1371
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

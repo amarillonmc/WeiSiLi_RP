@@ -1,0 +1,66 @@
+{
+  "book_id": "book_2229d47a9403",
+  "source_book": "卫斯理系列/077招魂.txt",
+  "title": "招魂",
+  "source_sha256": "5581d45e86238fed770fd6e0b1227286dbee45bc6761b75921444eb73a412b6e",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        132,
+        389,
+        917,
+        1401,
+        3467,
+        4068,
+        4223,
+        4623
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        952,
+        954,
+        1612,
+        3212,
+        4046,
+        4172,
+        4687,
+        4688
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        14,
+        35,
+        1397,
+        1502,
+        1938,
+        1952,
+        3557,
+        4622
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 58,
+      "sample_line_numbers": [
+        20,
+        629,
+        842,
+        2025,
+        2229,
+        2388,
+        3992,
+        4633
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

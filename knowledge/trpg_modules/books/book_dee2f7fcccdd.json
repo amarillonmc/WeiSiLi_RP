@@ -1,0 +1,59 @@
+{
+  "book_id": "book_dee2f7fcccdd",
+  "source_book": "年轻人/10四条金龙.txt",
+  "title": "四条金龙",
+  "source_sha256": "120ead339d90d0fb0183d5882f5f2f6b985a29dfe04f55bcd6662c1fa1b65f44",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        125,
+        350,
+        422,
+        1114
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        340,
+        1285,
+        1287,
+        1291,
+        1300,
+        1309,
+        1317,
+        1318
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        48,
+        99,
+        105,
+        198,
+        212
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        32,
+        327,
+        358,
+        618,
+        678,
+        986,
+        1032,
+        1315
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

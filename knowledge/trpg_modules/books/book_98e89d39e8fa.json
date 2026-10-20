@@ -1,0 +1,30 @@
+{
+  "book_id": "book_98e89d39e8fa",
+  "source_book": "倪匡之鬼话系列/鬼胎之二.txt",
+  "title": "鬼胎之二",
+  "source_sha256": "5a29da764c403f2cdb8da15c4793d76c19299e04b1a428a63fc82fb68b82a463",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

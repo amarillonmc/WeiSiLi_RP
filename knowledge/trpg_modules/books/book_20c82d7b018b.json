@@ -1,0 +1,55 @@
+{
+  "book_id": "book_20c82d7b018b",
+  "source_book": "卫斯理系列/078背叛.txt",
+  "title": "背叛",
+  "source_sha256": "344388a9a413e99b34a1aa2d0b1fc5daa50b1ba06cb5d88652a279ba1b2a9aab",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        1678,
+        2077,
+        2092
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        2129,
+        2755
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        201,
+        636,
+        1049,
+        1142,
+        1789,
+        2140,
+        2158,
+        2758
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 187,
+      "sample_line_numbers": [
+        2,
+        450,
+        1201,
+        1495,
+        1992,
+        2322,
+        3074,
+        3509
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

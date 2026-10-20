@@ -1,0 +1,52 @@
+{
+  "book_id": "book_fdfbc165519b",
+  "source_book": "卫斯理系列/032风水.txt",
+  "title": "风水",
+  "source_sha256": "41de77ea89f98833de1b5570bf583f1c9efce674242a134f42f40a84b7746f99",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        213
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        700,
+        805
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        178,
+        179,
+        190,
+        209,
+        213,
+        567,
+        587
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        170,
+        477,
+        529,
+        599,
+        631,
+        791,
+        1042,
+        1214
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

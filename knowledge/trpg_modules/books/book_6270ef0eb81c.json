@@ -1,0 +1,65 @@
+{
+  "book_id": "book_6270ef0eb81c",
+  "source_book": "木兰花全集/07高原之谜.txt",
+  "title": "高原之谜",
+  "source_sha256": "ee8daab386da10eed672a5caa23ff83ed8ae56d27ab5041abb025a3bfed01d07",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        228,
+        492,
+        836,
+        872,
+        1942,
+        1958,
+        2196,
+        2290
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        256,
+        264,
+        328,
+        430,
+        566,
+        1184,
+        2252,
+        2462
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        1172,
+        1238,
+        1416,
+        1418,
+        1422,
+        1946,
+        2234
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 29,
+      "sample_line_numbers": [
+        36,
+        650,
+        902,
+        1122,
+        1202,
+        1696,
+        1918,
+        2160
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

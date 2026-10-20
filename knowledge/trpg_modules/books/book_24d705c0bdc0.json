@@ -1,0 +1,53 @@
+{
+  "book_id": "book_24d705c0bdc0",
+  "source_book": "卫斯理系列/123豪赌.txt",
+  "title": "豪赌",
+  "source_sha256": "54f37d040e7c5c6d867f11f6532aa93ab654c814d05a586ee60261ea01be299b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        389,
+        768,
+        812,
+        1443
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        506,
+        591,
+        952,
+        958,
+        961,
+        1560,
+        2206,
+        2228
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 67,
+      "sample_line_numbers": [
+        183,
+        366,
+        1246,
+        1798,
+        1863,
+        1944,
+        2141,
+        2624
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

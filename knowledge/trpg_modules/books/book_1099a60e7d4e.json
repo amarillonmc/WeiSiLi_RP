@@ -1,0 +1,122 @@
+{
+  "book_id": "book_1099a60e7d4e",
+  "source_book": "卫斯理系列/011支离人.txt",
+  "title": "支离人",
+  "source_sha256": "1c4eb914a01b9a6a9de1a2a16acd6d7560789f574e9371fb0f3ff971a5b757c8",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 110,
+      "sample_line_numbers": [
+        233,
+        1303,
+        1626,
+        1931,
+        2403,
+        2761,
+        3197,
+        4184
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        1172,
+        3816,
+        3817,
+        3822,
+        3828,
+        3852,
+        3862
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 23,
+      "sample_line_numbers": [
+        1258,
+        2238,
+        2243,
+        2492,
+        3181,
+        3768,
+        3834,
+        3972
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 88,
+      "sample_line_numbers": [
+        423,
+        1088,
+        1436,
+        1574,
+        2050,
+        2791,
+        3646,
+        4137
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_dismember_computer",
+    "hazard_dismember_computer",
+    "scenario_dismember_computer",
+    "artifact_dismember_inscription"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "dismember_computer",
+    "dismember_inscription"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/011支离人.txt",
+      "start_line": 3856,
+      "end_line": 3895,
+      "supports": "大祭师解释分解运输、供电不足导致支离、错误操作导致冬眠。",
+      "epistemic_status": "testimony",
+      "source_sha256": "1c4eb914a01b9a6a9de1a2a16acd6d7560789f574e9371fb0f3ff971a5b757c8",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/011支离人.txt",
+      "start_line": 1140,
+      "end_line": 1163,
+      "supports": "金属片藏于石棺盖夹层，有不能立即认出的文字。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "1c4eb914a01b9a6a9de1a2a16acd6d7560789f574e9371fb0f3ff971a5b757c8",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/011支离人.txt",
+      "start_line": 2766,
+      "end_line": 2770,
+      "supports": "邓石仅译约十分之一。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "1c4eb914a01b9a6a9de1a2a16acd6d7560789f574e9371fb0f3ff971a5b757c8",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/011支离人.txt",
+      "start_line": 4183,
+      "end_line": 4185,
+      "supports": "卫斯理不知邓石如何获知金属片以及为何迫切需要。",
+      "epistemic_status": "unresolved",
+      "source_sha256": "1c4eb914a01b9a6a9de1a2a16acd6d7560789f574e9371fb0f3ff971a5b757c8",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

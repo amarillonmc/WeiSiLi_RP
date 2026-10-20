@@ -1,0 +1,64 @@
+{
+  "book_id": "book_02a15832ae8a",
+  "source_book": "卫斯理系列/091祸根.txt",
+  "title": "祸根",
+  "source_sha256": "58a9c164879750cfb0c427b1d7237396ac3b25507b3f7e46ad19215d78407e60",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        858,
+        1960,
+        1970,
+        2306,
+        2308,
+        2910,
+        2914,
+        3144
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        284,
+        1030,
+        1231,
+        1734,
+        2047,
+        3013
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 23,
+      "sample_line_numbers": [
+        220,
+        560,
+        1232,
+        1603,
+        2085,
+        2727,
+        2887,
+        3013
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 35,
+      "sample_line_numbers": [
+        34,
+        108,
+        220,
+        488,
+        658,
+        1516,
+        2616,
+        3143
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

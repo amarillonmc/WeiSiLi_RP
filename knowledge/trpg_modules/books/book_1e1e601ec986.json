@@ -1,0 +1,58 @@
+{
+  "book_id": "book_1e1e601ec986",
+  "source_book": "卫斯理系列/064命运.txt",
+  "title": "命运",
+  "source_sha256": "05e44f478a5db0845dad0475f063e1cf8c3f0227440e56bfa2cdc5933b9d8d7b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        461,
+        883,
+        1633,
+        1646,
+        1755,
+        1763,
+        1774
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        638,
+        641,
+        648,
+        658,
+        873,
+        874,
+        894,
+        1260
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1125
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        25,
+        208,
+        762,
+        1030,
+        1068,
+        1176,
+        1246,
+        1773
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

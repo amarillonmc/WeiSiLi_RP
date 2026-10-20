@@ -1,0 +1,56 @@
+{
+  "book_id": "book_e968e0af1390",
+  "source_book": "卫斯理系列/090大秘密.txt",
+  "title": "大秘密",
+  "source_sha256": "7edeb79459c8dc416ca4b405b32ecedbb3d4284f77bbc5cb2e0d44c8e9df682f",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        401
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        2418,
+        2500,
+        2700,
+        2792,
+        2793
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        1147,
+        1488,
+        2041,
+        2063,
+        2169,
+        2462,
+        2653,
+        2886
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 94,
+      "sample_line_numbers": [
+        2,
+        17,
+        847,
+        1317,
+        2521,
+        2781,
+        3081,
+        3201
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,47 @@
+{
+  "book_id": "book_d42304856b15",
+  "source_book": "卫斯理系列/110水晶宫.txt",
+  "title": "水晶宫",
+  "source_sha256": "1af3a0dc3e1190bed546dff900f2655b9464537cc6a81566a287b5285a644fd4",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        670,
+        1007
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        916,
+        1034,
+        1599,
+        2664
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        143,
+        158,
+        333,
+        1915,
+        2188,
+        2210,
+        2220,
+        2605
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,53 @@
+{
+  "book_id": "book_2d60d6b88429",
+  "source_book": "非人协会系列/02鱼人.txt",
+  "title": "鱼人",
+  "source_sha256": "eb32b441475afc0ae19eacea0025cf11eaf55cb10c3a7b2f6aa6fbad60f63a0d",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        159,
+        551
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        189,
+        287,
+        671
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        58,
+        266,
+        268,
+        307,
+        557,
+        598,
+        606,
+        671
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        57,
+        225,
+        567,
+        576,
+        577,
+        606
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

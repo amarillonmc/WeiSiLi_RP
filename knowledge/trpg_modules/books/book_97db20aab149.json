@@ -1,0 +1,65 @@
+{
+  "book_id": "book_97db20aab149",
+  "source_book": "亚洲之鹰罗开系列/13困兽.txt",
+  "title": "困兽",
+  "source_sha256": "f60bdcbd75df85d7d54ad04ef2868f18d2fb826825b2fa2c6cac5d5bd5cf3906",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        4,
+        424,
+        432,
+        679,
+        807,
+        893,
+        904,
+        928
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        106,
+        110,
+        187,
+        206,
+        468,
+        587,
+        588,
+        597
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        193,
+        234,
+        422,
+        863,
+        966,
+        988,
+        995
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        68,
+        140,
+        331,
+        418,
+        664,
+        817,
+        943,
+        1006
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

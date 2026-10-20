@@ -1,0 +1,64 @@
+{
+  "book_id": "book_28699f25b62e",
+  "source_book": "原振侠系列/20.劫数.txt",
+  "title": "劫数",
+  "source_sha256": "6907ce0af978918bf32a4690de5fc8af6ece6dff24d062c53055e12b940a65a7",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        129,
+        137,
+        305,
+        449,
+        899,
+        905,
+        3765,
+        4511
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        287,
+        307,
+        1687,
+        1729,
+        2611,
+        5177,
+        6643,
+        7045
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        1249,
+        2245,
+        2271,
+        2277,
+        3747,
+        6559
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        9,
+        665,
+        925,
+        2291,
+        3389,
+        5857,
+        6075,
+        7643
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

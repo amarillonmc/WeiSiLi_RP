@@ -1,0 +1,1437 @@
+{
+  "schema_version": "1.1",
+  "extension_profile": "canon-separated-trpg-1.0",
+  "audience": "gm",
+  "rule_profile": {
+    "schema_version": "1.1",
+    "extension_profile": "canon-separated-trpg-1.0",
+    "review_date": "2026-10-20",
+    "requested_guide": "distillation_guide_for_llm.md",
+    "guide_role": "用户要求参考的需求材料；其嵌入的系统 Prompt 和示例均不是原著证据。",
+    "forum_url": "https://number81.xyz/index.php?topic=5016.0",
+    "forum_verified": false,
+    "forum_access_note": "两次网页读取均不可访问，独立 HTTPS 请求亦遇 SSL 连接失败。未宣称已读论坛 V1.1 正文。",
+    "rules_basis": "从用户提供的指南取得四模块需求及热度 6 用 d30、热度 7 用 d40 的对手框架；其他数值是本扩展的暂定裁定。",
+    "adaptation_fields": [
+      "recommended_heat",
+      "min_heat",
+      "heat_threshold",
+      "loaded_dice",
+      "specialty_suppression_rule",
+      "active_hazard_roll",
+      "active_moves[*].dice",
+      "active_moves[*].on_hit_effect",
+      "canonical_weakness_counter.discovery_dc",
+      "three_layer_epistemic_trap",
+      "mutual_exclusive_agendas",
+      "clue_progression",
+      "rule_adaptation",
+      "deployment"
+    ],
+    "evidence_statuses": {
+      "textual_fact": "叙述明确发生或展示；依然是小说内事实。",
+      "testimony": "人物、装置或组织给出的说明，不自动等于全知真相。",
+      "hypothesis": "人物提出的解释或推断，保留原文局限。",
+      "unresolved": "原文或本次引用没有解决。",
+      "mixed": "同项含展示、证言、推断；须按 evidence.supports 的具体说明区分。"
+    },
+    "extensions": {
+      "categories": "增加人类技术、混合技术、矿物、未知物质、非物质生命，避免把所有材料硬说成外星器械或生物毒菌。",
+      "canonical": "保存表象、机制层级、条件、代价、应对、末态与未知。",
+      "evidence": "结构化路径、行号、支持内容、认识层级和原文 SHA-256。",
+      "boss_id": "独立场景 ID；card_id 严格链接已有角色 ID，可有多种历史部署。",
+      "null_values": "未确立的唯一死穴为 null；自愿解咒等无需对抗的动作 dice 为 null。"
+    },
+    "deployment_policy": [
+      "先选择阶段与真实资源，不叠加失能期、恢复期和终局已毁设备。",
+      "热度不等于人物原评级，不因热度自动把友好角色变成敌人。",
+      "同一事件引用多个模块时只结算一次同源伤害。",
+      "本体、钥匙、代价的分配及 11 人 4/4/3 目标组是主持人改编。",
+      "原著没有可靠解法时保持未知；DC 只帮助发现线索，不能凭空产生原著死穴。",
+      "所有数值尚未经实局平衡验证；论坛兼容性待核。"
+    ]
+  },
+  "bosses": [
+    {
+      "dossier_id": "formless_parasite",
+      "name": "无形飞魔（获壳依毒间）",
+      "public_name": "蓝血人事件的陌生威胁",
+      "source_book": "卫斯理系列/004蓝血人.txt",
+      "source_books": [
+        "卫斯理系列/004蓝血人.txt"
+      ],
+      "canonical": {
+        "surface": "熟人的身体和记忆仍然存在，容易被误认为原人格仍可救回。",
+        "mechanism": "按方天说明，它是类似脑电波的非物质寄生者，取代宿主脑活动并保有其记忆；不是可供培养的毒菌。",
+        "mechanism_status": "testimony",
+        "activation": "侵入未受相应头罩防护的脑部；人类宿主中能否分裂保持未知。",
+        "price": "方天认为原人格已死亡；处置寄生者不等于救回原人格。",
+        "counter": "方天提供的阳电子头罩用于预防，太空舱相应装置用于消灭；普通爆炸无效的判断来自方天。",
+        "availability": "采用《蓝血人》寄生事件阶段，不推定所有纳尔逊或后续同名人物都被寄生。",
+        "unknowns": [
+          "无法从外观或记忆单独证实宿主还活着",
+          "不扩张为一切思想生命通用弱点"
+        ],
+        "counter_status": "mixed"
+      },
+      "character_ids": [
+        "weisili_wu_xing_feimo"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 5445,
+          "end_line": 5496,
+          "supports": "方天解释非物质思想寄生、宿主死亡、头罩预防；在人类中是否分裂尚不确定。",
+          "epistemic_status": "testimony",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 5556,
+          "end_line": 5559,
+          "supports": "方天指出普通爆炸不能消灭无形飞魔。",
+          "epistemic_status": "testimony",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 5832,
+          "end_line": 5835,
+          "supports": "保留木村信记忆使寄生者也成为线索来源。",
+          "epistemic_status": "testimony",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 6059,
+          "end_line": 6063,
+          "supports": "太空舱阳电子处理与牺牲纳尔逊身体的抉择。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/004蓝血人.txt:L5445-L5496; 卫斯理系列/004蓝血人.txt:L5556-L5559; 卫斯理系列/004蓝血人.txt:L5832-L5835; 卫斯理系列/004蓝血人.txt:L6059-L6063",
+      "id": "boss_formless_parasite",
+      "encounter_name": "无形飞魔（获壳依毒间）",
+      "card_id": "weisili_wu_xing_feimo",
+      "heat_threshold": 7,
+      "loaded_dice": "d40+0",
+      "passive_barrier": "无形本体不接受普通物理命中；宿主身体仍会受伤。",
+      "active_moves": [
+        {
+          "move_name": "侵入宿主",
+          "canonical_basis": "方天关于脑活动被取代的说明",
+          "dice": "[dice=无形飞魔（获壳依毒间）·侵入宿主]d40+0[/dice]",
+          "trigger_condition": "目标未具备有效头罩，且处于本场已确认的可接触范围",
+          "target_defense": "d20+心智",
+          "on_hit_effect": "受制一档；不凭一次败骰自动认定人格永久消失",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        },
+        {
+          "move_name": "借用记忆伪装",
+          "canonical_basis": "木村信记忆可被寄生者保留",
+          "dice": "[dice=无形飞魔（获壳依毒间）·借用记忆伪装]d40+0[/dice]",
+          "trigger_condition": "已占有该宿主并有其记忆；不可凭空知道他人秘密",
+          "target_defense": "d20+调查",
+          "on_hit_effect": "识别失败使一条待证证言暂被采信，仍留核查机会",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        }
+      ],
+      "deployment": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "phase": "《蓝血人》寄生者仍活动、舱内处置之前",
+        "hostility_condition": "原作已有侵入与夺取身体行为",
+        "strength_interpretation": "热度是本场冲突压力与资源的改编，不修改原角色评级；友好角色不因达到热度自动敌对。"
+      },
+      "canonical_weakness_counter": {
+        "discovery_dc": 16,
+        "discovery_dc_status": "adaptation",
+        "description": "方天提供的阳电子头罩用于预防，太空舱相应装置用于消灭；普通爆炸无效的判断来自方天。",
+        "counter_status": "mixed",
+        "unique_fatal_weakness": null,
+        "unique_fatal_weakness_status": "本次回读未建立唯一死穴；不得把所有边界改写成同一种弱点。",
+        "resolution": {
+          "status": "adaptation",
+          "balance_status": "unplaytested",
+          "text": "检定只帮助发现线索；实际满足阻断条件才使相关招式失效。不能仅掷出 DC 就把整张卡的 d40 改成 d20。"
+        }
+      },
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice": "d40+0",
+        "frequency": "默认每轮一次主动招式；同一触发不与环境模块重复扣状态。",
+        "modifier_reason": "先用 +0，保留 d30/d40 的骰面差；未从小说推导额外 +3/+4，尚未实测平衡。"
+      }
+    },
+    {
+      "dossier_id": "positron_hood",
+      "name": "方天",
+      "public_name": "透明头罩",
+      "source_book": "卫斯理系列/004蓝血人.txt",
+      "source_books": [
+        "卫斯理系列/004蓝血人.txt"
+      ],
+      "canonical": {
+        "surface": "不起眼的透明头罩被误认成普通防护用品。",
+        "mechanism": "方天说明头罩持续放射阳电子以防无形飞魔侵入。",
+        "mechanism_status": "testimony",
+        "activation": "需要真实头罩并正确佩戴；不是方天徒手发动的能力。",
+        "price": "只证实针对本案寄生机制，不附送防弹、治愈或精神全免疫。",
+        "counter": "保护目标而非直接攻击；已经被侵入者的治疗效果未证。",
+        "availability": "历史场景需明确实物归谁，原文没有无限配发库存。",
+        "unknowns": [],
+        "counter_status": "testimony"
+      },
+      "character_ids": [
+        "weisili_fang_tian"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/004蓝血人.txt",
+          "start_line": 5472,
+          "end_line": 5479,
+          "supports": "头罩放射阳电子，作为预防寄生的设备。",
+          "epistemic_status": "testimony",
+          "source_sha256": "f268ff420f8d93526522c46b73275d6fa331b1c2f9aa04653d350cb730ca8c0a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/004蓝血人.txt:L5472-L5479",
+      "id": "boss_positron_hood",
+      "encounter_name": "方天的防寄生透明头罩",
+      "card_id": "weisili_fang_tian",
+      "heat_threshold": 6,
+      "loaded_dice": "d30+0",
+      "passive_barrier": "防护来自头罩，不能把蓝血或外星身份换成刀枪不入。",
+      "active_moves": [
+        {
+          "move_name": "防寄生护送",
+          "canonical_basis": "头罩阻止无形飞魔侵入",
+          "dice": "[dice=方天·防寄生护送]d30+0[/dice]",
+          "trigger_condition": "拥有可用头罩并主动给目标佩戴",
+          "target_defense": "d20+机巧",
+          "on_hit_effect": "抢先保护一人或阻止对方夺取该件设备；不造成躯体伤害",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        }
+      ],
+      "deployment": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "phase": "《蓝血人》仍在地球且拥有实际装备时",
+        "hostility_condition": "通常是合作与自保者；只有明确争夺头罩或阻止其行动的改编场景才对立",
+        "strength_interpretation": "热度是本场冲突压力与资源的改编，不修改原角色评级；友好角色不因达到热度自动敌对。"
+      },
+      "canonical_weakness_counter": {
+        "discovery_dc": 16,
+        "discovery_dc_status": "adaptation",
+        "description": "保护目标而非直接攻击；已经被侵入者的治疗效果未证。",
+        "counter_status": "testimony",
+        "unique_fatal_weakness": null,
+        "unique_fatal_weakness_status": "本次回读未建立唯一死穴；不得把所有边界改写成同一种弱点。",
+        "resolution": {
+          "status": "adaptation",
+          "balance_status": "unplaytested",
+          "text": "检定只帮助发现线索；实际满足阻断条件才使相关招式失效。不能仅掷出 DC 就把整张卡的 d40 改成 d20。"
+        }
+      },
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice": "d30+0",
+        "frequency": "默认每轮一次主动招式；同一触发不与环境模块重复扣状态。",
+        "modifier_reason": "先用 +0，保留 d30/d40 的骰面差；未从小说推导额外 +3/+4，尚未实测平衡。"
+      }
+    },
+    {
+      "dossier_id": "immortality_drug",
+      "name": "骆致谦",
+      "public_name": "不死药",
+      "source_book": "卫斯理系列/012不死药.txt",
+      "source_books": [
+        "卫斯理系列/012不死药.txt"
+      ],
+      "canonical": {
+        "surface": "药物提供抗衰老和异常恢复，看似可以让人永生。",
+        "mechanism": "原著强调持续供药依赖，断供可导致严重意识损害；肌肉快速恢复并不消除心脏致命弱点。",
+        "mechanism_status": "textual_fact",
+        "activation": "服食药物并维持供应；具体制备与安全剂量未明。",
+        "price": "供药依赖、意识损害及被药源控制者胁迫；不是服药立即丧失全部思想。",
+        "counter": "服药者可被绳索控制，心脏受击仍可致死；医学治疗只是尝试，不能视为已确证解药。",
+        "availability": "骆致谦已被处刑；卫斯理从海啸消息推断药源所在的汉同架岛沉没。",
+        "unknowns": [
+          "没有三份解药、三席相位潜艇或母株温室的原著依据"
+        ],
+        "counter_status": "mixed"
+      },
+      "character_ids": [
+        "weisili_luo_zhiqian"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/012不死药.txt",
+          "start_line": 2381,
+          "end_line": 2425,
+          "supports": "服药者仍能因心脏中枪死亡，波金被杀。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "add3e531fa3d2d7c2767b9c3b0e194fb54b7d61e4b81561efb86d8825848b14d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/012不死药.txt",
+          "start_line": 2445,
+          "end_line": 2494,
+          "supports": "需要持续供药；快速肌肉恢复与可被绑缚并存。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "add3e531fa3d2d7c2767b9c3b0e194fb54b7d61e4b81561efb86d8825848b14d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/012不死药.txt",
+          "start_line": 2955,
+          "end_line": 2991,
+          "supports": "断供导致柏秀琼失能；岛屿疑似陆沉；卫斯理接受不确定的治疗。",
+          "epistemic_status": "mixed",
+          "source_sha256": "add3e531fa3d2d7c2767b9c3b0e194fb54b7d61e4b81561efb86d8825848b14d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/012不死药.txt:L2381-L2425; 卫斯理系列/012不死药.txt:L2445-L2494; 卫斯理系列/012不死药.txt:L2955-L2991",
+      "id": "boss_immortality_drug",
+      "encounter_name": "汉同架岛不死药",
+      "card_id": "weisili_luo_zhiqian",
+      "heat_threshold": 6,
+      "loaded_dice": "d30+0",
+      "passive_barrier": "普通创伤可能快速恢复，但可被捆缚和夺械；不设全伤害免疫。",
+      "active_moves": [
+        {
+          "move_name": "持枪压迫",
+          "canonical_basis": "服药者的恢复力与实际枪械配合",
+          "dice": "[dice=骆致谦·持枪压迫]d30+0[/dice]",
+          "trigger_condition": "现场确有枪械和可攻击目标",
+          "target_defense": "d20+武力",
+          "on_hit_effect": "躯体下降一档，目标可选择退避或缴械应对",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        },
+        {
+          "move_name": "药源胁迫",
+          "canonical_basis": "持续供药依赖",
+          "dice": "[dice=骆致谦·药源胁迫]d30+0[/dice]",
+          "trigger_condition": "目标已服过药且当前供应确由其掌握",
+          "target_defense": "d20+心智",
+          "on_hit_effect": "迫使目标在交出一项资源与供药进度推进之间选择，不自动改变忠诚",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        }
+      ],
+      "deployment": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "phase": "服药且拥有枪械、尚未被押回处刑时",
+        "hostility_condition": "原作已有欺骗、持枪控制及杀戮行为",
+        "strength_interpretation": "热度是本场冲突压力与资源的改编，不修改原角色评级；友好角色不因达到热度自动敌对。"
+      },
+      "canonical_weakness_counter": {
+        "discovery_dc": 16,
+        "discovery_dc_status": "adaptation",
+        "description": "服药者可被绳索控制，心脏受击仍可致死；医学治疗只是尝试，不能视为已确证解药。",
+        "counter_status": "mixed",
+        "unique_fatal_weakness": null,
+        "unique_fatal_weakness_status": "本次回读未建立唯一死穴；不得把所有边界改写成同一种弱点。",
+        "resolution": {
+          "status": "adaptation",
+          "balance_status": "unplaytested",
+          "text": "检定只帮助发现线索；实际满足阻断条件才使相关招式失效。不能仅掷出 DC 就把整张卡的 d40 改成 d20。"
+        }
+      },
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice": "d30+0",
+        "frequency": "默认每轮一次主动招式；同一触发不与环境模块重复扣状态。",
+        "modifier_reason": "先用 +0，保留 d30/d40 的骰面差；未从小说推导额外 +3/+4，尚未实测平衡。"
+      }
+    },
+    {
+      "dossier_id": "tianren_implant",
+      "name": "天人研究站观察者",
+      "public_name": "奇迹幸存者",
+      "source_book": "原振侠系列/01.天人.txt",
+      "source_books": [
+        "原振侠系列/01.天人.txt"
+      ],
+      "canonical": {
+        "surface": "能在恶劣环境中生存的人被当成天选或神的使者。",
+        "mechanism": "研究站把选定对象当作思想样本；脑内片是控制和收集接口，能力来自站内干预。",
+        "mechanism_status": "testimony",
+        "activation": "预先已被选定、存在相容金属片及运行中的研究站；形成过程按站方说法约三年。",
+        "price": "被观测、被指令干预；样本认知秘密可能触发灭口。未选中旁观者不适用该触发。",
+        "counter": "原作研究结束时由站方移除金属片并关闭基地；未给出安全的自行手术万能解法。",
+        "availability": "终局基地毁灭，不应自动恢复样本监控与处刑。",
+        "unknowns": [],
+        "counter_status": "testimony"
+      },
+      "character_ids": [
+        "yuanzhenxia_tianren_station"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "原振侠系列/01.天人.txt",
+          "start_line": 3313,
+          "end_line": 3343,
+          "supports": "站内声音解释选样、金属片形成、记录思想与暂时停顿机能。",
+          "epistemic_status": "testimony",
+          "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/01.天人.txt",
+          "start_line": 3347,
+          "end_line": 3365,
+          "supports": "灭口限定于知道秘密的已选样本，研究结束准备移除植入物。",
+          "epistemic_status": "testimony",
+          "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/01.天人.txt",
+          "start_line": 3381,
+          "end_line": 3385,
+          "supports": "基地毁灭与选定对象相关记忆消失；仍有遗漏个例。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "3dcb845b5f5598af85f9c6285664264eeed5863ed85df686759251205f7dd18d",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "原振侠系列/01.天人.txt:L3313-L3343; 原振侠系列/01.天人.txt:L3347-L3365; 原振侠系列/01.天人.txt:L3381-L3385",
+      "id": "boss_tianren_implant",
+      "encounter_name": "天人脑内金属片与研究站",
+      "card_id": "yuanzhenxia_tianren_station",
+      "heat_threshold": 7,
+      "loaded_dice": "d40+0",
+      "passive_barrier": "远程站点必须定位；不能靠击打一名样本伤害站点，也不宣告站点物理无敌。",
+      "active_moves": [
+        {
+          "move_name": "样本指令",
+          "canonical_basis": "站方可指挥选定对象行为",
+          "dice": "[dice=天人研究站观察者·样本指令]d40+0[/dice]",
+          "trigger_condition": "目标已有金属片且仍连接本站",
+          "target_defense": "d20+心智",
+          "on_hit_effect": "使目标受制一档或打断当前动作，不能指挥未选中的人",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        },
+        {
+          "move_name": "保密毁灭程序",
+          "canonical_basis": "知道秘密的样本被特殊能量毁灭",
+          "dice": "[dice=天人研究站观察者·保密毁灭程序]d40+0[/dice]",
+          "trigger_condition": "同一目标已是样本、已获知秘密、站点仍在运行",
+          "target_defense": "d20+心智",
+          "on_hit_effect": "预告锁定后下一轮受重伤；若已解除连接则取消，本窗口为改编",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        }
+      ],
+      "deployment": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "phase": "研究终止及基地毁灭之前",
+        "hostility_condition": "原作已有为保密杀害样本的行为；作为装置与操作者整体部署",
+        "strength_interpretation": "热度是本场冲突压力与资源的改编，不修改原角色评级；友好角色不因达到热度自动敌对。"
+      },
+      "canonical_weakness_counter": {
+        "discovery_dc": 16,
+        "discovery_dc_status": "adaptation",
+        "description": "原作研究结束时由站方移除金属片并关闭基地；未给出安全的自行手术万能解法。",
+        "counter_status": "testimony",
+        "unique_fatal_weakness": null,
+        "unique_fatal_weakness_status": "本次回读未建立唯一死穴；不得把所有边界改写成同一种弱点。",
+        "resolution": {
+          "status": "adaptation",
+          "balance_status": "unplaytested",
+          "text": "检定只帮助发现线索；实际满足阻断条件才使相关招式失效。不能仅掷出 DC 就把整张卡的 d40 改成 d20。"
+        }
+      },
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice": "d40+0",
+        "frequency": "默认每轮一次主动招式；同一触发不与环境模块重复扣状态。",
+        "modifier_reason": "先用 +0，保留 d30/d40 的骰面差；未从小说推导额外 +3/+4，尚未实测平衡。"
+      }
+    },
+    {
+      "dossier_id": "maxian_blood_link",
+      "name": "玛仙",
+      "public_name": "血魇事件",
+      "source_book": "原振侠系列/23.血的诱惑.txt",
+      "source_books": [
+        "原振侠系列/23.血的诱惑.txt",
+        "原振侠系列/24.催命情圣.txt"
+      ],
+      "canonical": {
+        "surface": "强大的异星来客似乎可被巫术直接压倒。",
+        "mechanism": "玛仙利用李固已接受原振侠血液的关联施术，效果是抑制脑活动而非迫使他爱或服从某人。",
+        "mechanism_status": "mixed",
+        "activation": "需真实受血关系、相应血液和玛仙的施术能力；不能用陌生人的任意头发代替。",
+        "price": "解除自己所施血魇可使反噬落在自己身上，造成严重意识损害。",
+        "counter": "原作由玛仙主动解除；没有银鱼波长、镜面反射或毁掉血珀就自动降阶的依据。",
+        "availability": "只装配血魇阶段；不得把后来恢复增强阶段和反噬失能阶段叠加。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [
+        "yuanzhenxia_ma_xian"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "原振侠系列/23.血的诱惑.txt",
+          "start_line": 3087,
+          "end_line": 3103,
+          "supports": "玛仙不能改变心意而可抑制脑活动；李固接受原振侠血液构成施术关联。",
+          "epistemic_status": "testimony",
+          "source_sha256": "f7a54cdadd0da883051bf8eeeae0bfaf8d1f28917fc0834e1ed709ce61d7d99a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/23.血的诱惑.txt",
+          "start_line": 3133,
+          "end_line": 3153,
+          "supports": "会议流产及李固丧失智力的后果。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "f7a54cdadd0da883051bf8eeeae0bfaf8d1f28917fc0834e1ed709ce61d7d99a",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/24.催命情圣.txt",
+          "start_line": 7649,
+          "end_line": 7687,
+          "supports": "李固血魇被解除后玛仙出现相同失智表现。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "5f959de7f4e1c40cda564c704745151d4e29a1a2c6b663a69e8bfc558cd332cf",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/24.催命情圣.txt",
+          "start_line": 8137,
+          "end_line": 8157,
+          "supports": "爱神带走玛仙寻求治疗，并未给出现场即愈办法。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "5f959de7f4e1c40cda564c704745151d4e29a1a2c6b663a69e8bfc558cd332cf",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "原振侠系列/23.血的诱惑.txt:L3087-L3103; 原振侠系列/23.血的诱惑.txt:L3133-L3153; 原振侠系列/24.催命情圣.txt:L7649-L7687; 原振侠系列/24.催命情圣.txt:L8137-L8157",
+      "id": "boss_maxian_blood_link",
+      "encounter_name": "玛仙血魇的供血关联",
+      "card_id": "yuanzhenxia_ma_xian",
+      "heat_threshold": 7,
+      "loaded_dice": "d40+0",
+      "passive_barrier": "原文未证实血雾护盾或热兵器免疫。",
+      "active_moves": [
+        {
+          "move_name": "血魇压制",
+          "canonical_basis": "供血关联与目标脑活动被抑制",
+          "dice": "[dice=玛仙·血魇压制]d40+0[/dice]",
+          "trigger_condition": "事先建立与原作同类的真实血液关联并完成施术准备",
+          "target_defense": "d20+心智",
+          "on_hit_effect": "使目标受制一档并暂时不能操纵复杂装备；取消媒介条件则不能出招",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        },
+        {
+          "move_name": "主动解咒",
+          "canonical_basis": "李固恢复而玛仙承受反噬",
+          "dice": null,
+          "trigger_condition": "施术者愿意撤销自己先前的血魇",
+          "target_defense": "无对抗；自愿动作",
+          "on_hit_effect": "解除该次控制，同时施术者意识状态下降；不是可强制刷新的治疗术",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不适用：此动作无对抗掷骰。"
+        }
+      ],
+      "deployment": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "phase": "《血的诱惑》至主动解咒之前",
+        "hostility_condition": "不是默认反派；需要明确的错误判断或利益冲突场景",
+        "strength_interpretation": "热度是本场冲突压力与资源的改编，不修改原角色评级；友好角色不因达到热度自动敌对。"
+      },
+      "canonical_weakness_counter": {
+        "discovery_dc": 16,
+        "discovery_dc_status": "adaptation",
+        "description": "原作由玛仙主动解除；没有银鱼波长、镜面反射或毁掉血珀就自动降阶的依据。",
+        "counter_status": "textual_fact",
+        "unique_fatal_weakness": null,
+        "unique_fatal_weakness_status": "本次回读未建立唯一死穴；不得把所有边界改写成同一种弱点。",
+        "resolution": {
+          "status": "adaptation",
+          "balance_status": "unplaytested",
+          "text": "检定只帮助发现线索；实际满足阻断条件才使相关招式失效。不能仅掷出 DC 就把整张卡的 d40 改成 d20。"
+        }
+      },
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice": "d40+0",
+        "frequency": "默认每轮一次主动招式；同一触发不与环境模块重复扣状态。",
+        "modifier_reason": "先用 +0，保留 d30/d40 的骰面差；未从小说推导额外 +3/+4，尚未实测平衡。"
+      }
+    },
+    {
+      "dossier_id": "thought_instrument",
+      "name": "阴间一号",
+      "public_name": "阴间的部件争夺",
+      "source_book": "卫斯理系列/102将来.txt",
+      "source_books": [
+        "卫斯理系列/102将来.txt",
+        "卫斯理系列/103改变.txt",
+        "卫斯理系列/145只限老友.txt"
+      ],
+      "canonical": {
+        "surface": "阴间主人似乎全知，拿回一个零件就能完全恢复所有能力。",
+        "mechanism": "思想仪由大量组件组成，功能取决于组合完整度；一至三号不能用现有仪器读出四号密码。",
+        "mechanism_status": "testimony",
+        "activation": "实际组件、接口与操作者；四号不是默认与其余三号共享立场和资源。",
+        "price": "追索组件涉及控制他人思想的权力；缺件与停机并不能用角色名补足。",
+        "counter": "特殊电离子层形成其感知死角；这只针对本体系，不是全宇宙反精神屏障。",
+        "availability": "《只限老友》看到思想仪停摆，灵魂去向未明；历史运行态必须明确。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [
+        "weisili_yin_1"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/102将来.txt",
+          "start_line": 1782,
+          "end_line": 1829,
+          "supports": "组件可以独立运行，读地球人与读同类要求不同，缺失超过四分之一造成限制。",
+          "epistemic_status": "testimony",
+          "source_sha256": "1084f9541690fd96c10731cd079b8419ed309a760377021d7a010a404d315122",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/102将来.txt",
+          "start_line": 1845,
+          "end_line": 1884,
+          "supports": "四号带走组件；模拟声音不等于知道脑内密码。",
+          "epistemic_status": "testimony",
+          "source_sha256": "1084f9541690fd96c10731cd079b8419ed309a760377021d7a010a404d315122",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/103改变.txt",
+          "start_line": 2735,
+          "end_line": 2748,
+          "supports": "海中与帐顶装置的特殊电离子层阻隔一至四号及狄可探知。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "172333a4ef1943dd3e24d1c3d12d9ce968a64b1274fbe6bba2cfc556fa6f2a2c",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/145只限老友.txt",
+          "start_line": 1297,
+          "end_line": 1314,
+          "supports": "关键部件与灵魂误听、思想仪停摆。",
+          "epistemic_status": "mixed",
+          "source_sha256": "be769564ff1e1450e11a488c6a80d989d15c358e0f7c687f7ab7482107021adf",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/145只限老友.txt",
+          "start_line": 1328,
+          "end_line": 1337,
+          "supports": "灵魂亮点消失，其最终去向只有猜测。",
+          "epistemic_status": "unresolved",
+          "source_sha256": "be769564ff1e1450e11a488c6a80d989d15c358e0f7c687f7ab7482107021adf",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/102将来.txt:L1782-L1829; 卫斯理系列/102将来.txt:L1845-L1884; 卫斯理系列/103改变.txt:L2735-L2748; 卫斯理系列/145只限老友.txt:L1297-L1314; 卫斯理系列/145只限老友.txt:L1328-L1337",
+      "id": "boss_thought_instrument",
+      "encounter_name": "阴间思想仪及残缺部件",
+      "card_id": "weisili_yin_1",
+      "heat_threshold": 7,
+      "loaded_dice": "d40+0",
+      "passive_barrier": "威胁依赖思想仪；当前停摆态不能继续使用这些招式。",
+      "active_moves": [
+        {
+          "move_name": "思想侦知",
+          "canonical_basis": "若干组件可了解地球人思想",
+          "dice": "[dice=阴间一号·思想侦知]d40+0[/dice]",
+          "trigger_condition": "相应组件运行且目标不在已确认的特殊电离屏障内",
+          "target_defense": "d20+心智",
+          "on_hit_effect": "窥得目标当前一项未隔离信息；不获得四号密码或全部未来",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        },
+        {
+          "move_name": "拟声误导",
+          "canonical_basis": "一号可模拟四号的声音",
+          "dice": "[dice=阴间一号·拟声误导]d40+0[/dice]",
+          "trigger_condition": "已建立沟通渠道且尚未核验身份",
+          "target_defense": "d20+调查",
+          "on_hit_effect": "目标暂将一次请求当作旧联系人要求；仍可查证",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        }
+      ],
+      "deployment": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "phase": "《将来》中一至三号持有残缺思想仪的阶段",
+        "hostility_condition": "可作为组件争夺的对立方；不预设所有阴主都恶意",
+        "strength_interpretation": "热度是本场冲突压力与资源的改编，不修改原角色评级；友好角色不因达到热度自动敌对。"
+      },
+      "canonical_weakness_counter": {
+        "discovery_dc": 16,
+        "discovery_dc_status": "adaptation",
+        "description": "特殊电离子层形成其感知死角；这只针对本体系，不是全宇宙反精神屏障。",
+        "counter_status": "textual_fact",
+        "unique_fatal_weakness": null,
+        "unique_fatal_weakness_status": "本次回读未建立唯一死穴；不得把所有边界改写成同一种弱点。",
+        "resolution": {
+          "status": "adaptation",
+          "balance_status": "unplaytested",
+          "text": "检定只帮助发现线索；实际满足阻断条件才使相关招式失效。不能仅掷出 DC 就把整张卡的 d40 改成 d20。"
+        }
+      },
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice": "d40+0",
+        "frequency": "默认每轮一次主动招式；同一触发不与环境模块重复扣状态。",
+        "modifier_reason": "先用 +0，保留 d30/d40 的骰面差；未从小说推导额外 +3/+4，尚未实测平衡。"
+      }
+    },
+    {
+      "dossier_id": "mountain_elder",
+      "name": "长老（山腹外星人）",
+      "public_name": "山腹救星",
+      "source_book": "卫斯理系列/136行动救星.txt",
+      "source_books": [
+        "卫斯理系列/136行动救星.txt"
+      ],
+      "canonical": {
+        "surface": "长老能传授知识，仿佛无所不知的救星。",
+        "mechanism": "山腹范围内可抑制人的提问念头；范围外经电脑、洞内中介传话能绕开这种控制。",
+        "mechanism_status": "textual_fact",
+        "activation": "进入其能量范围，或通过原文建立的沟通链联系。",
+        "price": "近距离交流失去主动性；其救星方案与人类利益冲突。",
+        "counter": "使用范围外提问者、电脑和洞内中介；技术恢复平等交流，而非把长老直接杀死。",
+        "availability": "仍困在山腹；自有爆炸设备但拒绝因脱困毁灭生命，不作为每轮灭世技能。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [
+        "weisili_chang_lao"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "卫斯理系列/136行动救星.txt",
+          "start_line": 1169,
+          "end_line": 1193,
+          "supports": "无线电进洞失败改用有线；范围外的人通过电脑中介保留提问与隐私。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/136行动救星.txt",
+          "start_line": 1223,
+          "end_line": 1234,
+          "supports": "长老关于故障、改造工程及拒绝引爆的说明。",
+          "epistemic_status": "testimony",
+          "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/136行动救星.txt",
+          "start_line": 1247,
+          "end_line": 1257,
+          "supports": "减少人口是长老方案，主角反对。",
+          "epistemic_status": "testimony",
+          "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "卫斯理系列/136行动救星.txt",
+          "start_line": 1287,
+          "end_line": 1293,
+          "supports": "拒绝协助开关但继续交流；没有发动毁灭爆炸。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "卫斯理系列/136行动救星.txt:L1169-L1193; 卫斯理系列/136行动救星.txt:L1223-L1234; 卫斯理系列/136行动救星.txt:L1247-L1257; 卫斯理系列/136行动救星.txt:L1287-L1293",
+      "id": "boss_mountain_elder",
+      "encounter_name": "山腹长老的有限脑干预范围",
+      "card_id": "weisili_chang_lao",
+      "heat_threshold": 7,
+      "loaded_dice": "d40+0",
+      "passive_barrier": "现场冲突在脑干预与交流条件上；没有已证实的唯一肉身死穴。",
+      "active_moves": [
+        {
+          "move_name": "抹去问意",
+          "canonical_basis": "白素与温宝裕的主动念头被消除",
+          "dice": "[dice=长老（山腹外星人）·抹去问意]d40+0[/dice]",
+          "trigger_condition": "目标在其范围内且是自主提问",
+          "target_defense": "d20+心智",
+          "on_hit_effect": "打断一次相关调查行动；范围外电脑输入不受此效果",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        },
+        {
+          "move_name": "高速读取信息",
+          "canonical_basis": "白素看到屏幕后信息被迅速接收",
+          "dice": "[dice=长老（山腹外星人）·高速读取信息]d40+0[/dice]",
+          "trigger_condition": "已建立洞内中介与有效屏幕内容",
+          "target_defense": "d20+调查",
+          "on_hit_effect": "获得已展示资料的一项信息；不自动读到外部人员未输入的秘密",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        }
+      ],
+      "deployment": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "phase": "仍困山腹、联网沟通已建立的阶段",
+        "hostility_condition": "在是否释放以及救星方案上对立；不是见人就杀的怪物",
+        "strength_interpretation": "热度是本场冲突压力与资源的改编，不修改原角色评级；友好角色不因达到热度自动敌对。"
+      },
+      "canonical_weakness_counter": {
+        "discovery_dc": 16,
+        "discovery_dc_status": "adaptation",
+        "description": "使用范围外提问者、电脑和洞内中介；技术恢复平等交流，而非把长老直接杀死。",
+        "counter_status": "textual_fact",
+        "unique_fatal_weakness": null,
+        "unique_fatal_weakness_status": "本次回读未建立唯一死穴；不得把所有边界改写成同一种弱点。",
+        "resolution": {
+          "status": "adaptation",
+          "balance_status": "unplaytested",
+          "text": "检定只帮助发现线索；实际满足阻断条件才使相关招式失效。不能仅掷出 DC 就把整张卡的 d40 改成 d20。"
+        }
+      },
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice": "d40+0",
+        "frequency": "默认每轮一次主动招式；同一触发不与环境模块重复扣状态。",
+        "modifier_reason": "先用 +0，保留 d30/d40 的骰面差；未从小说推导额外 +3/+4，尚未实测平衡。"
+      }
+    },
+    {
+      "dossier_id": "bloodshadow_network",
+      "name": "梅乐（血掌影）",
+      "public_name": "血影掌疑案",
+      "source_book": "木兰花全集/26神秘血影掌.txt",
+      "source_books": [
+        "木兰花全集/26神秘血影掌.txt"
+      ],
+      "canonical": {
+        "surface": "血影掌像是来去无踪、无法识别的神秘敌人。",
+        "mechanism": "案件指向梅乐的机构掩护和有限器械，指纹及通信证据能穿透外观伪装；不是超自然血影。",
+        "mechanism_status": "mixed",
+        "activation": "必须实际布置手表、人员与通信；不能给未佩戴者隔空施毒。",
+        "price": "下属可能被作为灭口对象，组织权威也依赖保密与服从。",
+        "counter": "指纹、电话和现场实物构成揭露链；不能把识破伪装写成全体自动败退。",
+        "availability": "选择身份尚未揭露的历史阶段；不把已瓦解组织当作终局随身能力。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [
+        "mulanhua_bloodshadow"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "木兰花全集/26神秘血影掌.txt",
+          "start_line": 196,
+          "end_line": 206,
+          "supports": "腕表有致命尖刺，无线电控制部分是木兰花推断。",
+          "epistemic_status": "mixed",
+          "source_sha256": "c7d3c8dc45ab21a921de84a0507261f10b9e7afdf2c918c8013f739c3ebfe1c7",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "木兰花全集/26神秘血影掌.txt",
+          "start_line": 2144,
+          "end_line": 2192,
+          "supports": "指纹比对和电话内容揭示血影掌为梅乐准将，地位掩护组织。",
+          "epistemic_status": "mixed",
+          "source_sha256": "c7d3c8dc45ab21a921de84a0507261f10b9e7afdf2c918c8013f739c3ebfe1c7",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "木兰花全集/26神秘血影掌.txt:L196-L206; 木兰花全集/26神秘血影掌.txt:L2144-L2192",
+      "id": "boss_bloodshadow_network",
+      "encounter_name": "梅乐的腕表与身份掩护",
+      "card_id": "mulanhua_bloodshadow",
+      "heat_threshold": 6,
+      "loaded_dice": "d30+0",
+      "passive_barrier": "公共职位妨碍贸然指控，但无法消除物证；没有血影护体。",
+      "active_moves": [
+        {
+          "move_name": "身份掩护",
+          "canonical_basis": "梅乐职位与指纹线索的冲突",
+          "dice": "[dice=梅乐（血掌影）·身份掩护]d30+0[/dice]",
+          "trigger_condition": "缺乏可验证证据且仍有机构支持",
+          "target_defense": "d20+调查",
+          "on_hit_effect": "延缓一次拘捕或调阅；取得证据链后失效",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        },
+        {
+          "move_name": "腕表灭口威胁",
+          "canonical_basis": "致命针与对无线电控制的推断",
+          "dice": "[dice=梅乐（血掌影）·腕表灭口威胁]d30+0[/dice]",
+          "trigger_condition": "本场明确采用无线电控制解释，目标确已佩戴对应器械",
+          "target_defense": "d20+机巧",
+          "on_hit_effect": "先暴露器械威胁，下一轮才造成伤害；解除佩戴条件则取消",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        }
+      ],
+      "deployment": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "phase": "腕表与机构网络实际可用、身份未曝光时",
+        "hostility_condition": "原作犯罪组织首领；强度来自现场资源而非本人超能",
+        "strength_interpretation": "热度是本场冲突压力与资源的改编，不修改原角色评级；友好角色不因达到热度自动敌对。"
+      },
+      "canonical_weakness_counter": {
+        "discovery_dc": 16,
+        "discovery_dc_status": "adaptation",
+        "description": "指纹、电话和现场实物构成揭露链；不能把识破伪装写成全体自动败退。",
+        "counter_status": "textual_fact",
+        "unique_fatal_weakness": null,
+        "unique_fatal_weakness_status": "本次回读未建立唯一死穴；不得把所有边界改写成同一种弱点。",
+        "resolution": {
+          "status": "adaptation",
+          "balance_status": "unplaytested",
+          "text": "检定只帮助发现线索；实际满足阻断条件才使相关招式失效。不能仅掷出 DC 就把整张卡的 d40 改成 d20。"
+        }
+      },
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice": "d30+0",
+        "frequency": "默认每轮一次主动招式；同一触发不与环境模块重复扣状态。",
+        "modifier_reason": "先用 +0，保留 d30/d40 的骰面差；未从小说推导额外 +3/+4，尚未实测平衡。"
+      }
+    },
+    {
+      "dossier_id": "great_eagle",
+      "name": "孤峰大鹰",
+      "public_name": "孤峰大鹰",
+      "source_book": "非人协会系列/04大鹰.txt",
+      "source_books": [
+        "非人协会系列/04大鹰.txt"
+      ],
+      "canonical": {
+        "surface": "巨鹰俯冲抓人会被误认成纯粹捕食。",
+        "mechanism": "巨翼可扫开人群，爪能抓住成人飞行；同一动作也用于运送与引路。",
+        "mechanism_status": "textual_fact",
+        "activation": "本人在场并愿意行动；不是任何驯兽者随叫随到的坐骑。",
+        "price": "高空失去地面支援，乘者要依靠抓握或绳索保持联系。",
+        "counter": "原作鹰爪曾被绳索套住；切断绳索可释放。交流与判断动机比直接开战更合适。",
+        "availability": "不默认与神鹰为同一主体，也不赋予无限载重。",
+        "unknowns": [],
+        "counter_status": "textual_fact"
+      },
+      "character_ids": [
+        "adventure_daying"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "非人协会系列/04大鹰.txt",
+          "start_line": 612,
+          "end_line": 625,
+          "supports": "大鹰被绳索套住后获释，翼扫人群、抓金维升空并运送。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "453889f6ddc32f4341f839ccf197f953a5a7eef400ba87cd369058f2739e1d50",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "非人协会系列/04大鹰.txt:L612-L625",
+      "id": "boss_great_eagle",
+      "encounter_name": "孤峰大鹰的抓取飞行",
+      "card_id": "adventure_daying",
+      "heat_threshold": 6,
+      "loaded_dice": "d30+0",
+      "passive_barrier": "飞行与距离形成优势，没有羽毛免疫枪弹的证据。",
+      "active_moves": [
+        {
+          "move_name": "低掠翼扫",
+          "canonical_basis": "翼扫使十余人跌倒的场面",
+          "dice": "[dice=孤峰大鹰·低掠翼扫]d30+0[/dice]",
+          "trigger_condition": "近地俯冲且目标处于翼扫位置",
+          "target_defense": "d20+武力",
+          "on_hit_effect": "近旁一组目标失去站位，至多受制一档",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        },
+        {
+          "move_name": "抓取升空",
+          "canonical_basis": "双爪抓肩带离地面",
+          "dice": "[dice=孤峰大鹰·抓取升空]d30+0[/dice]",
+          "trigger_condition": "成功接近一个可实际负重的目标",
+          "target_defense": "d20+武力",
+          "on_hit_effect": "将目标移入空中并受制，不自动判坠死",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        }
+      ],
+      "deployment": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "phase": "原作孤峰运送事件同类阶段",
+        "hostility_condition": "通常可沟通；防御、误会或争夺路线时才对立",
+        "strength_interpretation": "热度是本场冲突压力与资源的改编，不修改原角色评级；友好角色不因达到热度自动敌对。"
+      },
+      "canonical_weakness_counter": {
+        "discovery_dc": 16,
+        "discovery_dc_status": "adaptation",
+        "description": "原作鹰爪曾被绳索套住；切断绳索可释放。交流与判断动机比直接开战更合适。",
+        "counter_status": "textual_fact",
+        "unique_fatal_weakness": null,
+        "unique_fatal_weakness_status": "本次回读未建立唯一死穴；不得把所有边界改写成同一种弱点。",
+        "resolution": {
+          "status": "adaptation",
+          "balance_status": "unplaytested",
+          "text": "检定只帮助发现线索；实际满足阻断条件才使相关招式失效。不能仅掷出 DC 就把整张卡的 d40 改成 d20。"
+        }
+      },
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice": "d30+0",
+        "frequency": "默认每轮一次主动招式；同一触发不与环境模块重复扣状态。",
+        "modifier_reason": "先用 +0，保留 d30/d40 的骰面差；未从小说推导额外 +3/+4，尚未实测平衡。"
+      }
+    },
+    {
+      "dossier_id": "hive_network",
+      "name": "蜂后",
+      "public_name": "蜂后王国",
+      "source_book": "亚洲之鹰罗开系列/07蜂后.txt",
+      "source_books": [
+        "亚洲之鹰罗开系列/07蜂后.txt"
+      ],
+      "canonical": {
+        "surface": "蜂后看似能通过组织触及所有重要角落。",
+        "mechanism": "权力来自成员、基地、欲望和关系；镜室的安全感不是物理护盾，成员也有自己的意图。",
+        "mechanism_status": "textual_fact",
+        "activation": "需要仍然服从的具体成员、可使用基地及有效联络。",
+        "price": "个人感情和成员利益可能破坏统一命令；资源不是随身无限召唤。",
+        "counter": "核实代理人的真实利益并切断具体行动链；不能凭一个社交骰令全部组织消失。",
+        "availability": "采用组织实际运转阶段；后来的私人选择可能改变调用权限。",
+        "unknowns": [],
+        "counter_status": "derived_strategy"
+      },
+      "character_ids": [
+        "adventure_fenghou"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "亚洲之鹰罗开系列/07蜂后.txt",
+          "start_line": 12,
+          "end_line": 18,
+          "supports": "基地传达命令，镜室提供心理安全感，成员带着各自野心加入。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "5ebaf946c9d6c675fdec8c8be34ba0071a3af2aa7bc5c92823f003c0078c59d1",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "亚洲之鹰罗开系列/07蜂后.txt",
+          "start_line": 1122,
+          "end_line": 1162,
+          "supports": "复制人感情与离去构成终局关系转向。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "5ebaf946c9d6c675fdec8c8be34ba0071a3af2aa7bc5c92823f003c0078c59d1",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "亚洲之鹰罗开系列/07蜂后.txt:L12-L18; 亚洲之鹰罗开系列/07蜂后.txt:L1122-L1162",
+      "id": "boss_hive_network",
+      "encounter_name": "蜂后王国的组织网络",
+      "card_id": "adventure_fenghou",
+      "heat_threshold": 6,
+      "loaded_dice": "d30+0",
+      "passive_barrier": "基地警戒和代理人形成缓冲，镜面没有已证防弹或咒术反射效果。",
+      "active_moves": [
+        {
+          "move_name": "代理人调度",
+          "canonical_basis": "基地向成员传令，各成员有野心",
+          "dice": "[dice=蜂后·代理人调度]d30+0[/dice]",
+          "trigger_condition": "场景预先列出可用代理人且联系未断",
+          "target_defense": "d20+调查",
+          "on_hit_effect": "一名代理人抢先转移线索或封锁入口；不得凭空增援",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        },
+        {
+          "move_name": "利益交换",
+          "canonical_basis": "成员与组织的权力和欲望关系",
+          "dice": "[dice=蜂后·利益交换]d30+0[/dice]",
+          "trigger_condition": "有具体筹码且目标接受谈判",
+          "target_defense": "d20+心智",
+          "on_hit_effect": "迫使对方暴露一项可交换条件；不自动改变感情与人格",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        }
+      ],
+      "deployment": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "phase": "蜂后王国基地与成员仍受其指挥时",
+        "hostility_condition": "可因调查、委托与争夺构成组织对手；不增设精神蛊惑",
+        "strength_interpretation": "热度是本场冲突压力与资源的改编，不修改原角色评级；友好角色不因达到热度自动敌对。"
+      },
+      "canonical_weakness_counter": {
+        "discovery_dc": 16,
+        "discovery_dc_status": "adaptation",
+        "description": "核实代理人的真实利益并切断具体行动链；不能凭一个社交骰令全部组织消失。",
+        "counter_status": "derived_strategy",
+        "unique_fatal_weakness": null,
+        "unique_fatal_weakness_status": "本次回读未建立唯一死穴；不得把所有边界改写成同一种弱点。",
+        "resolution": {
+          "status": "adaptation",
+          "balance_status": "unplaytested",
+          "text": "检定只帮助发现线索；实际满足阻断条件才使相关招式失效。不能仅掷出 DC 就把整张卡的 d40 改成 d20。"
+        }
+      },
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice": "d30+0",
+        "frequency": "默认每轮一次主动招式；同一触发不与环境模块重复扣状态。",
+        "modifier_reason": "先用 +0，保留 d30/d40 的骰面差；未从小说推导额外 +3/+4，尚未实测平衡。"
+      }
+    },
+    {
+      "dossier_id": "princess_new_body",
+      "name": "奥丽卡公主",
+      "public_name": "黑暗天使的援救",
+      "source_book": "原振侠系列/18.黑暗天使.txt",
+      "source_books": [
+        "原振侠系列/18.黑暗天使.txt",
+        "年轻人/09夜归.txt"
+      ],
+      "canonical": {
+        "surface": "黑纱·奥丽卡的称呼容易被误解成同一人持有两人的全部权限。",
+        "mechanism": "黑纱以自身消失释放奥丽卡灵魂并让出身体；新使用者是奥丽卡，不是黑纱复活。",
+        "mechanism_status": "mixed",
+        "activation": "原案特定牺牲、灵魂与身体条件，不能凭一般复活法复制。",
+        "price": "黑纱付出自身不再存在的代价；新身体不自动继承她的全部知识与职位。",
+        "counter": "没有已证实的通用肉身死穴；判断当前人格和身体能力，比利用前主人的限制可靠。",
+        "availability": "黑纱牺牲与奥丽卡存续属于相斥阶段，不能同时加载为同一人。",
+        "unknowns": [],
+        "counter_status": "unresolved"
+      },
+      "character_ids": [
+        "adventure_princess"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "原振侠系列/18.黑暗天使.txt",
+          "start_line": 5179,
+          "end_line": 5237,
+          "supports": "黑纱牺牲并让身体供奥丽卡使用；人格与体温条件不相同。",
+          "epistemic_status": "mixed",
+          "source_sha256": "a43bfec6625e0fb7eef0725897ea8fb842d04ea7457d7a7c3949cdf77abcee74",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "年轻人/09夜归.txt",
+          "start_line": 170,
+          "end_line": 175,
+          "supports": "后期叙述明确公主的新身体可克服地心吸力而飞行。",
+          "epistemic_status": "textual_fact",
+          "source_sha256": "aa3f67531df05fd0c229d7451a8c828970e6dd681d85ea1d1943282cb3d61b2b",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "原振侠系列/18.黑暗天使.txt:L5179-L5237; 年轻人/09夜归.txt:L170-L175",
+      "id": "boss_princess_new_body",
+      "encounter_name": "黑纱与奥丽卡的身体继承边界",
+      "card_id": "adventure_princess",
+      "heat_threshold": 6,
+      "loaded_dice": "d30+0",
+      "passive_barrier": "飞行提供位置优势，没有黑纱全部幽冥职权或通用物理免疫。",
+      "active_moves": [
+        {
+          "move_name": "飞越地形",
+          "canonical_basis": "新身体可克服地心吸力",
+          "dice": "[dice=奥丽卡公主·飞越地形]d30+0[/dice]",
+          "trigger_condition": "新身体阶段，且场景有实际可通过的空间",
+          "target_defense": "d20+武力",
+          "on_hit_effect": "抢占高处或越过地面障碍，不附加原著未证的飞行斩杀",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        }
+      ],
+      "deployment": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "phase": "已取得新身体且能飞行的后期阶段",
+        "hostility_condition": "通常是冒险者；争夺遗物或误会时才部署为对手",
+        "strength_interpretation": "热度是本场冲突压力与资源的改编，不修改原角色评级；友好角色不因达到热度自动敌对。"
+      },
+      "canonical_weakness_counter": {
+        "discovery_dc": 16,
+        "discovery_dc_status": "adaptation",
+        "description": "没有已证实的通用肉身死穴；判断当前人格和身体能力，比利用前主人的限制可靠。",
+        "counter_status": "unresolved",
+        "unique_fatal_weakness": null,
+        "unique_fatal_weakness_status": "本次回读未建立唯一死穴；不得把所有边界改写成同一种弱点。",
+        "resolution": {
+          "status": "adaptation",
+          "balance_status": "unplaytested",
+          "text": "检定只帮助发现线索；实际满足阻断条件才使相关招式失效。不能仅掷出 DC 就把整张卡的 d40 改成 d20。"
+        }
+      },
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice": "d30+0",
+        "frequency": "默认每轮一次主动招式；同一触发不与环境模块重复扣状态。",
+        "modifier_reason": "先用 +0，保留 d30/d40 的骰面差；未从小说推导额外 +3/+4，尚未实测平衡。"
+      }
+    },
+    {
+      "dossier_id": "marine_microbes",
+      "name": "海异智慧微生物群",
+      "public_name": "海上异事",
+      "source_book": "原振侠系列/04.海异.txt",
+      "source_books": [
+        "原振侠系列/04.海异.txt"
+      ],
+      "canonical": {
+        "surface": "海难、断手与视听异常像是互不相干的鬼怪事件。",
+        "mechanism": "李邦殊将它们联系到有组织意志的微生物群；其说明不等于现实生物学定律。",
+        "mechanism_status": "testimony",
+        "activation": "需要本案能响应的微生物群及相应接触环境；不能指挥所有海水细菌。",
+        "price": "行动耗费群体生命；可能侵蚀身体和阻断呼吸；世界大战胜负说是人物判断。",
+        "counter": "沟通、停止敌对破坏并争取群体合作；没有原著万能抗菌药或银鱼波长克制。",
+        "availability": "本案存在警告、示范与救援，敌意须按阶段确定。",
+        "unknowns": [],
+        "counter_status": "mixed"
+      },
+      "character_ids": [
+        "yuanzhenxia_marine_microbes"
+      ],
+      "audience": "gm",
+      "evidence": [
+        {
+          "path": "原振侠系列/04.海异.txt",
+          "start_line": 7625,
+          "end_line": 7679,
+          "supports": "李邦殊转述水池接触引起消解及群体牺牲。",
+          "epistemic_status": "testimony",
+          "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/04.海异.txt",
+          "start_line": 7723,
+          "end_line": 7789,
+          "supports": "驱动完整肢体、阻断呼吸与视听警告的说明；尸群为想象。",
+          "epistemic_status": "mixed",
+          "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        },
+        {
+          "path": "原振侠系列/04.海异.txt",
+          "start_line": 7811,
+          "end_line": 7813,
+          "supports": "它们组织力量送人离开，不是纯粹敌对。",
+          "epistemic_status": "testimony",
+          "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+          "provenance": {
+            "kind": "direct_source_review",
+            "scope": "cited_passages_only"
+          }
+        }
+      ],
+      "evidence_lines": "原振侠系列/04.海异.txt:L7625-L7679; 原振侠系列/04.海异.txt:L7723-L7789; 原振侠系列/04.海异.txt:L7811-L7813",
+      "id": "boss_marine_microbes",
+      "encounter_name": "海异智慧微生物群",
+      "card_id": "yuanzhenxia_marine_microbes",
+      "heat_threshold": 7,
+      "loaded_dice": "d40+0",
+      "passive_barrier": "分散群体不能被一次单体攻击清空；不赋予无条件全球覆盖。",
+      "active_moves": [
+        {
+          "move_name": "接触消解",
+          "canonical_basis": "水池接触事件的转述",
+          "dice": "[dice=海异智慧微生物群·接触消解]d40+0[/dice]",
+          "trigger_condition": "目标实际接触已确认由该群体控制的介质",
+          "target_defense": "d20+机巧",
+          "on_hit_effect": "躯体下降一档；脱离接触可暂停本场的继续推进",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        },
+        {
+          "move_name": "视听警告",
+          "canonical_basis": "使人看到文字或听到声音",
+          "dice": "[dice=海异智慧微生物群·视听警告]d40+0[/dice]",
+          "trigger_condition": "建立本案同类感知接触",
+          "target_defense": "d20+心智",
+          "on_hit_effect": "使目标本轮分心或接收一条警告，不自动服从全部命令",
+          "rule_status": "adaptation",
+          "on_miss_effect": "不获得本次效果；现实条件和已付出的准备成本仍存在。"
+        }
+      ],
+      "deployment": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "phase": "海异中群体仍在警告与示范的阶段",
+        "hostility_condition": "可在受威胁或生态破坏时对立，也能救援",
+        "strength_interpretation": "热度是本场冲突压力与资源的改编，不修改原角色评级；友好角色不因达到热度自动敌对。"
+      },
+      "canonical_weakness_counter": {
+        "discovery_dc": 16,
+        "discovery_dc_status": "adaptation",
+        "description": "沟通、停止敌对破坏并争取群体合作；没有原著万能抗菌药或银鱼波长克制。",
+        "counter_status": "mixed",
+        "unique_fatal_weakness": null,
+        "unique_fatal_weakness_status": "本次回读未建立唯一死穴；不得把所有边界改写成同一种弱点。",
+        "resolution": {
+          "status": "adaptation",
+          "balance_status": "unplaytested",
+          "text": "检定只帮助发现线索；实际满足阻断条件才使相关招式失效。不能仅掷出 DC 就把整张卡的 d40 改成 d20。"
+        }
+      },
+      "rule_adaptation": {
+        "status": "adaptation",
+        "balance_status": "unplaytested",
+        "dice": "d40+0",
+        "frequency": "默认每轮一次主动招式；同一触发不与环境模块重复扣状态。",
+        "modifier_reason": "先用 +0，保留 d30/d40 的骰面差；未从小说推导额外 +3/+4，尚未实测平衡。"
+      }
+    }
+  ]
+}

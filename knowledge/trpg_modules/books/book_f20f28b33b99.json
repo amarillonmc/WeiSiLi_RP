@@ -1,0 +1,66 @@
+{
+  "book_id": "book_f20f28b33b99",
+  "source_book": "卫斯理系列/013红月亮.txt",
+  "title": "红月亮",
+  "source_sha256": "749ed4b54c29c82162b2497567e859bbf402c90fecbb3d6fd0fdae91684eab13",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 32,
+      "sample_line_numbers": [
+        127,
+        201,
+        1425,
+        1964,
+        2464,
+        2632,
+        2863,
+        2985
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        772,
+        879,
+        1502,
+        1718,
+        3015,
+        3016,
+        3019,
+        3038
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 48,
+      "sample_line_numbers": [
+        535,
+        1590,
+        1851,
+        2071,
+        2663,
+        2866,
+        3025,
+        3126
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 36,
+      "sample_line_numbers": [
+        7,
+        322,
+        1468,
+        2114,
+        2701,
+        2709,
+        2830,
+        2979
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

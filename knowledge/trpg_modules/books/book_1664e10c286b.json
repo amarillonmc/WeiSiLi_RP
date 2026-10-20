@@ -1,0 +1,50 @@
+{
+  "book_id": "book_1664e10c286b",
+  "source_book": "卫斯理系列/086探险.txt",
+  "title": "探险",
+  "source_sha256": "8f1198a9aa041ea0138134cb32cd32a92b83c9f43bb9cf684c0aa76972934908",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        566,
+        2715
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        2131,
+        2167,
+        2208
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        334,
+        1259,
+        2414
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 57,
+      "sample_line_numbers": [
+        87,
+        472,
+        696,
+        1258,
+        1774,
+        2679,
+        3018,
+        3151
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

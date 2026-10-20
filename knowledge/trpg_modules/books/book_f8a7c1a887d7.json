@@ -1,0 +1,62 @@
+{
+  "book_id": "book_f8a7c1a887d7",
+  "source_book": "木兰花全集/03太阳之女.txt",
+  "title": "太阳之女",
+  "source_sha256": "fe88f067382231943763db85889d6aeb63f3f7bb7bc368acb69b259e6f2b93f1",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        206,
+        232,
+        316,
+        538,
+        810,
+        882,
+        980,
+        1654
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        208,
+        862,
+        958,
+        1136
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        34,
+        260,
+        746,
+        990,
+        1182,
+        1362,
+        1520,
+        1682
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        84,
+        470,
+        538,
+        652,
+        1110,
+        1334,
+        1470,
+        1678
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

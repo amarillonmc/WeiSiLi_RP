@@ -1,0 +1,65 @@
+{
+  "book_id": "book_c23bc58a3f43",
+  "source_book": "卫斯理系列/079鬼混.txt",
+  "title": "鬼混",
+  "source_sha256": "b7cb0c3e94336019d3ed8698f53da86fa726c81ec5537d2337b2eb67e8f45f9a",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        722,
+        3377,
+        3496,
+        3515,
+        3574,
+        3581,
+        3584,
+        3725
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        66,
+        1013,
+        1434,
+        1473,
+        1474,
+        1795,
+        3281
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        304,
+        793,
+        1068,
+        2204,
+        2438,
+        2625,
+        3494,
+        3603
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 28,
+      "sample_line_numbers": [
+        169,
+        1593,
+        1940,
+        2494,
+        2510,
+        3192,
+        3512,
+        4042
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

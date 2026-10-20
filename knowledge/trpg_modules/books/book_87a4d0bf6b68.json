@@ -1,0 +1,64 @@
+{
+  "book_id": "book_87a4d0bf6b68",
+  "source_book": "卫斯理系列/070生死锁.txt",
+  "title": "生死锁",
+  "source_sha256": "a630f7ba4b6a9a1e92be1e10538b3b82c6570fdada0cae89d72b07ddf549a339",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 84,
+      "sample_line_numbers": [
+        3,
+        24,
+        203,
+        318,
+        487,
+        541,
+        704,
+        3422
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        1342,
+        2529,
+        2603,
+        3133,
+        3225,
+        3231
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        19,
+        737,
+        883,
+        922,
+        1610,
+        2163,
+        2643,
+        3313
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        45,
+        288,
+        550,
+        789,
+        1740,
+        2220,
+        2655,
+        3157
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

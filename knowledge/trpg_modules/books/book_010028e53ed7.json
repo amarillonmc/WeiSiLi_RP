@@ -1,0 +1,63 @@
+{
+  "book_id": "book_010028e53ed7",
+  "source_book": "木兰花全集/45魔画.txt",
+  "title": "魔画",
+  "source_sha256": "6c4f19529505f2b797e210b083e243e6ff6de58ac13a71b08c7301e7cd346125",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        120,
+        538,
+        1730,
+        1756,
+        1852,
+        2186,
+        2192,
+        2580
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        350,
+        372,
+        386,
+        410,
+        2590
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        440,
+        1130,
+        1310,
+        1740,
+        1976,
+        2308,
+        2504,
+        2616
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 28,
+      "sample_line_numbers": [
+        322,
+        416,
+        754,
+        930,
+        1164,
+        1494,
+        1578,
+        2058
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

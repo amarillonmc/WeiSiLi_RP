@@ -1,0 +1,95 @@
+{
+  "book_id": "book_1fb6bf0030da",
+  "source_book": "卫斯理系列/145只限老友.txt",
+  "title": "只限老友",
+  "source_sha256": "be769564ff1e1450e11a488c6a80d989d15c358e0f7c687f7ab7482107021adf",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 37,
+      "sample_line_numbers": [
+        222,
+        491,
+        756,
+        844,
+        1021,
+        1165,
+        1286,
+        1383
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        366,
+        882,
+        1185,
+        1212,
+        1236,
+        1372
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        55,
+        214,
+        299,
+        547,
+        1077,
+        1128,
+        1183,
+        1378
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        24,
+        183,
+        513,
+        718,
+        904,
+        947,
+        1172,
+        1333
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_thought_instrument",
+    "boss_thought_instrument",
+    "scenario_thought_instrument"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "thought_instrument"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/145只限老友.txt",
+      "start_line": 1297,
+      "end_line": 1314,
+      "supports": "关键部件与灵魂误听、思想仪停摆。",
+      "epistemic_status": "mixed",
+      "source_sha256": "be769564ff1e1450e11a488c6a80d989d15c358e0f7c687f7ab7482107021adf",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/145只限老友.txt",
+      "start_line": 1328,
+      "end_line": 1337,
+      "supports": "灵魂亮点消失，其最终去向只有猜测。",
+      "epistemic_status": "unresolved",
+      "source_sha256": "be769564ff1e1450e11a488c6a80d989d15c358e0f7c687f7ab7482107021adf",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

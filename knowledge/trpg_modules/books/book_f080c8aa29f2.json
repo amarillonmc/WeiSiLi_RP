@@ -1,0 +1,99 @@
+{
+  "book_id": "book_f080c8aa29f2",
+  "source_book": "卫斯理系列/046头发.txt",
+  "title": "头发",
+  "source_sha256": "7ff73c54b80bd223236384562f5bc9704d73a9b1071953ad1ebadf8e4a736de2",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 73,
+      "sample_line_numbers": [
+        448,
+        1898,
+        2663,
+        3063,
+        3438,
+        3631,
+        3860,
+        4228
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 21,
+      "sample_line_numbers": [
+        332,
+        1660,
+        1981,
+        2433,
+        2914,
+        4070,
+        4193,
+        4199
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 68,
+      "sample_line_numbers": [
+        60,
+        726,
+        1328,
+        2269,
+        2497,
+        2925,
+        3480,
+        4182
+      ]
+    }
+  },
+  "module_ids": [
+    "hazard_hair_time_ratio",
+    "scenario_hair_time_ratio"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "hair_time_ratio"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/046头发.txt",
+      "start_line": 4060,
+      "end_line": 4088,
+      "supports": "异星人解释思想离体、替换肉体与肉体供应问题。",
+      "epistemic_status": "testimony",
+      "source_sha256": "7ff73c54b80bd223236384562f5bc9704d73a9b1071953ad1ebadf8e4a736de2",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/046头发.txt",
+      "start_line": 4114,
+      "end_line": 4132,
+      "supports": "被制造的身体具有自主思想，原作对罪人与责任提出冲突。",
+      "epistemic_status": "testimony",
+      "source_sha256": "7ff73c54b80bd223236384562f5bc9704d73a9b1071953ad1ebadf8e4a736de2",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/046头发.txt",
+      "start_line": 4213,
+      "end_line": 4217,
+      "supports": "人物说明当地与地球时间比一比五万。",
+      "epistemic_status": "testimony",
+      "source_sha256": "7ff73c54b80bd223236384562f5bc9704d73a9b1071953ad1ebadf8e4a736de2",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

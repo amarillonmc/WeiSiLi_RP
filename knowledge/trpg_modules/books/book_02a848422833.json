@@ -1,0 +1,120 @@
+{
+  "book_id": "book_02a848422833",
+  "source_book": "卫斯理系列/003妖火.txt",
+  "title": "妖火",
+  "source_sha256": "3d93b33a8bacae99e43876e6f987986b6f2fe3bbe0929ae1486b5bd54cc7f89b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 102,
+      "sample_line_numbers": [
+        128,
+        406,
+        1560,
+        3873,
+        4739,
+        5101,
+        5590,
+        6131
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 66,
+      "sample_line_numbers": [
+        201,
+        535,
+        955,
+        1560,
+        2072,
+        2852,
+        4578,
+        5670
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 50,
+      "sample_line_numbers": [
+        382,
+        1615,
+        2579,
+        3066,
+        3925,
+        4601,
+        5149,
+        6054
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 106,
+      "sample_line_numbers": [
+        54,
+        620,
+        1230,
+        2197,
+        2529,
+        3368,
+        5020,
+        6135
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_endocrine_control",
+    "scenario_endocrine_control"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "endocrine_control"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/003妖火.txt",
+      "start_line": 2295,
+      "end_line": 2296,
+      "supports": "控制内分泌以改变习性的研究说法。",
+      "epistemic_status": "testimony",
+      "source_sha256": "3d93b33a8bacae99e43876e6f987986b6f2fe3bbe0929ae1486b5bd54cc7f89b",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/003妖火.txt",
+      "start_line": 3347,
+      "end_line": 3349,
+      "supports": "集团要大量制造制剂，掌握资料仍需要张小龙本人技术。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "3d93b33a8bacae99e43876e6f987986b6f2fe3bbe0929ae1486b5bd54cc7f89b",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/003妖火.txt",
+      "start_line": 4000,
+      "end_line": 4011,
+      "supports": "集团选择黑海豚制剂并接近各国首脑。",
+      "epistemic_status": "testimony",
+      "source_sha256": "3d93b33a8bacae99e43876e6f987986b6f2fe3bbe0929ae1486b5bd54cc7f89b",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/003妖火.txt",
+      "start_line": 3397,
+      "end_line": 3400,
+      "supports": "集团承认得到资料仍不能代替张小龙本人协作。",
+      "epistemic_status": "testimony",
+      "source_sha256": "3d93b33a8bacae99e43876e6f987986b6f2fe3bbe0929ae1486b5bd54cc7f89b",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

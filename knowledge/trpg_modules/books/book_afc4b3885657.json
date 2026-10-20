@@ -1,0 +1,52 @@
+{
+  "book_id": "book_afc4b3885657",
+  "source_book": "卫斯理系列/087继续探险.txt",
+  "title": "继续探险",
+  "source_sha256": "e07f153c3bbd47c931d1129221d174f6647e2c5b4f8c59fea83c0607d2b4aed6",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        383
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        2027,
+        2028,
+        2053,
+        2987,
+        3060,
+        3245
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        1264,
+        1288,
+        2077
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 40,
+      "sample_line_numbers": [
+        4,
+        249,
+        257,
+        888,
+        1213,
+        1748,
+        2228,
+        3254
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,61 @@
+{
+  "book_id": "book_07eec800156a",
+  "source_book": "卫斯理系列/021再来一次.txt",
+  "title": "再来一次",
+  "source_sha256": "1e687dd800c094808c838ae456168e9bab9c41c4b45b3766832055558e0df475",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        343,
+        346,
+        490,
+        579,
+        599,
+        699,
+        714,
+        1402
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 38,
+      "sample_line_numbers": [
+        3,
+        65,
+        102,
+        116,
+        152,
+        197,
+        289,
+        1487
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        1112,
+        1621,
+        1622
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        230,
+        496,
+        639,
+        902,
+        1082,
+        1381,
+        1598,
+        1649
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

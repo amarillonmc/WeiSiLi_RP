@@ -1,0 +1,65 @@
+{
+  "book_id": "book_93164b8bdda7",
+  "source_book": "卫斯理系列/002地底奇人.txt",
+  "title": "地底奇人",
+  "source_sha256": "3393a567fed2c9033b76c2cd1229e3aa23f277e23f8030895452059df726a8ca",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 44,
+      "sample_line_numbers": [
+        516,
+        995,
+        2447,
+        2927,
+        2966,
+        3563,
+        3620,
+        5966
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        1126,
+        1751,
+        2807,
+        2901,
+        2907,
+        2912,
+        3976
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        178,
+        1008,
+        2034,
+        2511,
+        4443,
+        5224,
+        5507,
+        6974
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 74,
+      "sample_line_numbers": [
+        34,
+        1261,
+        2052,
+        2667,
+        3810,
+        4594,
+        5825,
+        6971
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

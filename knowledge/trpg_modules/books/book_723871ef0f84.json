@@ -1,0 +1,62 @@
+{
+  "book_id": "book_723871ef0f84",
+  "source_book": "卫斯理系列/106在数难逃.txt",
+  "title": "在数难逃",
+  "source_sha256": "55e8fa566d17cc3a3516985e73b565261287ff51be7137182e53d76e33237ec7",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 62,
+      "sample_line_numbers": [
+        6,
+        710,
+        1231,
+        1362,
+        1421,
+        1562,
+        1835,
+        2729
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        59,
+        1768,
+        2723,
+        2724
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        5,
+        1350,
+        1600,
+        1601,
+        1989,
+        2578,
+        2633,
+        2683
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 49,
+      "sample_line_numbers": [
+        88,
+        755,
+        854,
+        1035,
+        1303,
+        1946,
+        2072,
+        2675
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

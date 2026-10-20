@@ -1,0 +1,90 @@
+{
+  "book_id": "book_1b2ce90d0135",
+  "source_book": "原振侠系列/24.催命情圣.txt",
+  "title": "催命情圣",
+  "source_sha256": "5f959de7f4e1c40cda564c704745151d4e29a1a2c6b663a69e8bfc558cd332cf",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 35,
+      "sample_line_numbers": [
+        409,
+        3213,
+        4727,
+        5465,
+        5845,
+        6645,
+        6965,
+        8133
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        8055
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        505,
+        1539,
+        1977,
+        6423,
+        6495,
+        7021,
+        7023,
+        7389
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        417,
+        3609,
+        4091,
+        4699,
+        5191,
+        6757,
+        7213,
+        8015
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_maxian_blood_link",
+    "boss_maxian_blood_link",
+    "scenario_maxian_blood_link"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "maxian_blood_link"
+  ],
+  "evidence": [
+    {
+      "path": "原振侠系列/24.催命情圣.txt",
+      "start_line": 7649,
+      "end_line": 7687,
+      "supports": "李固血魇被解除后玛仙出现相同失智表现。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "5f959de7f4e1c40cda564c704745151d4e29a1a2c6b663a69e8bfc558cd332cf",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "原振侠系列/24.催命情圣.txt",
+      "start_line": 8137,
+      "end_line": 8157,
+      "supports": "爱神带走玛仙寻求治疗，并未给出现场即愈办法。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "5f959de7f4e1c40cda564c704745151d4e29a1a2c6b663a69e8bfc558cd332cf",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

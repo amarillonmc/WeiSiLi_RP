@@ -1,0 +1,61 @@
+{
+  "book_id": "book_cb3010eb1b45",
+  "source_book": "卫斯理系列/071黄金故事.txt",
+  "title": "黄金故事",
+  "source_sha256": "d27d9d729a12bcd62eb9efc1a455ddae75d56117b5886fccc34e0d71bac13976",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        32,
+        292,
+        3027
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        689,
+        1437,
+        1802,
+        1874,
+        1876,
+        2014,
+        2659,
+        2761
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        112,
+        497,
+        503,
+        689,
+        719,
+        1412,
+        1658,
+        3200
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 35,
+      "sample_line_numbers": [
+        71,
+        231,
+        743,
+        989,
+        1340,
+        2400,
+        2583,
+        3065
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

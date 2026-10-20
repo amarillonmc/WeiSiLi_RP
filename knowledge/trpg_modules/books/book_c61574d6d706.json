@@ -1,0 +1,53 @@
+{
+  "book_id": "book_c61574d6d706",
+  "source_book": "卫斯理系列/117双程.txt",
+  "title": "双程",
+  "source_sha256": "5eebe6641437cd63bdfefa72fbfb51dcafe629a94250eac48b1169a72c5fa6c2",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        209,
+        627,
+        813,
+        2697
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        1194,
+        2680
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        24,
+        209,
+        502,
+        565,
+        724
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        119,
+        142,
+        1363,
+        1500,
+        1532,
+        1710,
+        2086,
+        2578
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

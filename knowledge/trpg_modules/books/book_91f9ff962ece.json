@@ -1,0 +1,65 @@
+{
+  "book_id": "book_91f9ff962ece",
+  "source_book": "木兰花全集/27钻石镭射.txt",
+  "title": "钻石镭射",
+  "source_sha256": "bf3bedc6681ee59161f4b597c687ebd1e77127db7d4de04d51888ec18c8d9740",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        236,
+        380,
+        974,
+        1326,
+        1740,
+        2012,
+        2016,
+        2162
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        550,
+        1232,
+        1578,
+        1816,
+        1954,
+        2228,
+        2290,
+        2404
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        214,
+        532,
+        624,
+        698,
+        2152,
+        2220,
+        2246
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        44,
+        356,
+        780,
+        1274,
+        1662,
+        2038,
+        2330,
+        2632
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

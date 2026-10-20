@@ -1,0 +1,59 @@
+{
+  "book_id": "book_8158b364a96e",
+  "source_book": "木兰花全集/51冷血人.txt",
+  "title": "冷血人",
+  "source_sha256": "17bde8bfd220d40ede9975e6bf2c5cd47fe7d3f3403a132e73734a02fb33b217",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        62,
+        1198,
+        1216,
+        1776,
+        1900,
+        1966,
+        2084,
+        2256
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        672
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        116,
+        566,
+        738,
+        1910,
+        2074,
+        2092,
+        2104,
+        2296
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 37,
+      "sample_line_numbers": [
+        88,
+        692,
+        758,
+        1490,
+        1560,
+        1780,
+        2332,
+        2472
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

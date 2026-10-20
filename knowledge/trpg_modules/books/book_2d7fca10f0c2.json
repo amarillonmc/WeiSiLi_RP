@@ -1,0 +1,66 @@
+{
+  "book_id": "book_2d7fca10f0c2",
+  "source_book": "卫斯理系列/127移魂怪物.txt",
+  "title": "移魂怪物",
+  "source_sha256": "f4c3fea1917b09b958aa0cee2916232daf7b3349c696dfa3a08e04e14a2897cb",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        311,
+        371,
+        889,
+        1223,
+        1234,
+        1519,
+        1966,
+        2148
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        339,
+        352,
+        382,
+        1285,
+        1345,
+        1833,
+        2045,
+        2074
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        7,
+        656,
+        660,
+        675,
+        925,
+        950,
+        1165,
+        2296
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 63,
+      "sample_line_numbers": [
+        60,
+        825,
+        1267,
+        1422,
+        1641,
+        2201,
+        2401,
+        2687
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

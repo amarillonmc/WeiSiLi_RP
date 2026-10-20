@@ -1,0 +1,57 @@
+{
+  "book_id": "book_0d683e643d16",
+  "source_book": "木兰花全集/57生命合同.txt",
+  "title": "生命合同",
+  "source_sha256": "d31398e88938165837ccd801bd1c0bb0c81053e6cb08cf5efbe7ac3f7be70aee",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 38,
+      "sample_line_numbers": [
+        194,
+        748,
+        864,
+        1538,
+        1578,
+        1848,
+        2194,
+        2272
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        382,
+        524,
+        728,
+        752,
+        808,
+        842,
+        1060,
+        1646
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        52,
+        214,
+        628,
+        1268,
+        1722,
+        2094,
+        2180,
+        2300
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

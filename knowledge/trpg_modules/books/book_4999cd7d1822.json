@@ -1,0 +1,64 @@
+{
+  "book_id": "book_4999cd7d1822",
+  "source_book": "卫斯理系列/051玩具.txt",
+  "title": "玩具",
+  "source_sha256": "ef7ff5f748c981d163a7d19b348948285747bdd7f02f1565dd9f656d724e1860",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 45,
+      "sample_line_numbers": [
+        1152,
+        2339,
+        2543,
+        3300,
+        3446,
+        3537,
+        3674,
+        3949
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        1301,
+        1365,
+        1829,
+        1981,
+        2683,
+        3586
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        2940,
+        3235,
+        3300,
+        3305,
+        3314,
+        3347,
+        3371,
+        3469
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 33,
+      "sample_line_numbers": [
+        129,
+        865,
+        1068,
+        1119,
+        1236,
+        2135,
+        2388,
+        3951
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,90 @@
+{
+  "book_id": "book_c2535674b4f0",
+  "source_book": "木兰花全集/01巧夺死光表.txt",
+  "title": "巧夺死光表",
+  "source_sha256": "d17086adf4b01549f1ae00a598a20b5a19d9f5d0dfa3d6708f027929925a6171",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        648,
+        742,
+        2036,
+        2256,
+        2322,
+        2414,
+        2726,
+        3218
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        2036,
+        3098,
+        3100,
+        3108,
+        3158
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        88,
+        608,
+        648,
+        1504,
+        2236
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 26,
+      "sample_line_numbers": [
+        104,
+        350,
+        694,
+        1298,
+        1526,
+        2206,
+        2490,
+        3224
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_deathwatch",
+    "scenario_deathwatch"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "deathwatch"
+  ],
+  "evidence": [
+    {
+      "path": "木兰花全集/01巧夺死光表.txt",
+      "start_line": 3158,
+      "end_line": 3158,
+      "supports": "持有人声称缺防护零件的试验有辐射风险；为人物说法。",
+      "epistemic_status": "testimony",
+      "source_sha256": "d17086adf4b01549f1ae00a598a20b5a19d9f5d0dfa3d6708f027929925a6171",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "木兰花全集/01巧夺死光表.txt",
+      "start_line": 3214,
+      "end_line": 3224,
+      "supports": "木兰花拆毁内部机件并划毁图样，放弃奖金。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "d17086adf4b01549f1ae00a598a20b5a19d9f5d0dfa3d6708f027929925a6171",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

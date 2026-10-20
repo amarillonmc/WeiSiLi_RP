@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:weisili-rp:trpg-modules:1.1:canon-separated-1.0",
+  "title": "WeiSiLi RP 四类 TRPG 模块",
+  "type": "object",
+  "required": ["schema_version", "extension_profile", "audience", "rule_profile"],
+  "properties": {
+    "schema_version": {"const": "1.1"},
+    "extension_profile": {"const": "canon-separated-trpg-1.0"},
+    "audience": {"const": "gm"},
+    "rule_profile": {"type": "object", "required": ["forum_verified", "rules_basis"]},
+    "items": {"type": "array", "items": {"$ref": "#/$defs/artifact"}},
+    "hazards": {"type": "array", "items": {"$ref": "#/$defs/hazard"}},
+    "bosses": {"type": "array", "items": {"$ref": "#/$defs/boss"}},
+    "scenarios": {"type": "array", "items": {"$ref": "#/$defs/scenario"}}
+  },
+  "oneOf": [{"required": ["items"]}, {"required": ["hazards"]}, {"required": ["bosses"]}, {"required": ["scenarios"]}],
+  "$defs": {
+    "text": {"type": "string", "minLength": 1},
+    "heat": {"type": "integer", "minimum": 1, "maximum": 10},
+    "adaptation": {"type": "object", "required": ["status", "balance_status"], "properties": {"status": {"const": "adaptation"}, "balance_status": {"const": "unplaytested"}}},
+    "evidence": {
+      "type": "object", "required": ["path", "start_line", "end_line", "supports", "epistemic_status", "source_sha256", "provenance"],
+      "properties": {
+        "path": {"$ref": "#/$defs/text"}, "start_line": {"type": "integer", "minimum": 1}, "end_line": {"type": "integer", "minimum": 1},
+        "supports": {"$ref": "#/$defs/text"},
+        "epistemic_status": {"enum": ["textual_fact", "testimony", "hypothesis", "unresolved", "mixed"]},
+        "source_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+        "provenance": {"type": "object", "required": ["kind", "scope"], "properties": {"kind": {"const": "direct_source_review"}, "scope": {"const": "cited_passages_only"}}}
+      }
+    },
+    "common": {
+      "type": "object", "required": ["id", "dossier_id", "name", "public_name", "source_book", "source_books", "canonical", "character_ids", "audience", "evidence", "evidence_lines", "rule_adaptation"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z0-9_]+$"}, "dossier_id": {"$ref": "#/$defs/text"}, "name": {"$ref": "#/$defs/text"},
+        "source_book": {"$ref": "#/$defs/text"}, "source_books": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"$ref": "#/$defs/text"}},
+        "character_ids": {"type": "array", "items": {"$ref": "#/$defs/text"}}, "audience": {"const": "gm"},
+        "canonical": {"type": "object", "required": ["surface", "mechanism", "mechanism_status", "activation", "price", "counter", "counter_status", "availability", "unknowns"],
+          "properties": {"mechanism_status": {"enum": ["textual_fact", "testimony", "hypothesis", "unresolved", "mixed"]}, "counter_status": {"enum": ["textual_fact", "testimony", "hypothesis", "unresolved", "mixed", "derived_strategy"]}, "unknowns": {"type": "array", "items": {"type": "string"}}}},
+        "evidence": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/evidence"}}, "evidence_lines": {"$ref": "#/$defs/text"}, "rule_adaptation": {"$ref": "#/$defs/adaptation"}
+      }
+    },
+    "artifact": {
+      "allOf": [{"$ref": "#/$defs/common"}],
+      "required": ["category", "recommended_heat", "surface_phenomenon_believes", "true_mechanism_knows", "the_key_activation", "the_price_recoil", "canonical_counter"],
+      "properties": {
+        "category": {"enum": ["alien_device", "biological_agent", "occult_curse", "ancient_relic", "human_technology", "human_alien_hybrid_technology", "alien_material", "unknown_material", "nonmaterial_life"]},
+        "recommended_heat": {"$ref": "#/$defs/heat"}, "surface_phenomenon_believes": {"$ref": "#/$defs/text"}, "true_mechanism_knows": {"$ref": "#/$defs/text"},
+        "the_key_activation": {"$ref": "#/$defs/text"}, "the_price_recoil": {"$ref": "#/$defs/text"}, "canonical_counter": {"$ref": "#/$defs/text"}
+      }
+    },
+    "hazard": {
+      "allOf": [{"$ref": "#/$defs/common"}], "required": ["min_heat", "specialty_suppression_rule", "active_hazard_roll", "canonical_escape", "public_warning"],
+      "properties": {
+        "min_heat": {"type": "integer", "minimum": 4},
+        "specialty_suppression_rule": {"allOf": [{"$ref": "#/$defs/adaptation"}], "required": ["suppressed_dimension", "penalty", "in_universe_reason", "restores_when"]},
+        "active_hazard_roll": {"allOf": [{"$ref": "#/$defs/adaptation"}], "required": ["dice_expression", "trigger_condition", "target_defense", "on_hit_effect", "on_miss_effect", "frequency"]},
+        "canonical_escape": {"$ref": "#/$defs/text"}, "public_warning": {"$ref": "#/$defs/text"}
+      }
+    },
+    "boss": {
+      "allOf": [{"$ref": "#/$defs/common"}], "required": ["card_id", "heat_threshold", "loaded_dice", "passive_barrier", "active_moves", "canonical_weakness_counter", "deployment"],
+      "properties": {
+        "card_id": {"$ref": "#/$defs/text"}, "heat_threshold": {"enum": [6, 7]}, "loaded_dice": {"type": "string", "pattern": "^d(30|40)[+-][0-9]+$"},
+        "passive_barrier": {"$ref": "#/$defs/text"}, "deployment": {"allOf": [{"$ref": "#/$defs/adaptation"}], "required": ["phase", "hostility_condition", "strength_interpretation"]},
+        "active_moves": {"type": "array", "minItems": 1, "items": {"type": "object", "required": ["move_name", "canonical_basis", "dice", "trigger_condition", "target_defense", "on_hit_effect", "on_miss_effect", "rule_status"], "properties": {"dice": {"type": ["string", "null"]}, "rule_status": {"const": "adaptation"}}}},
+        "canonical_weakness_counter": {"type": "object", "required": ["discovery_dc", "discovery_dc_status", "description", "unique_fatal_weakness", "unique_fatal_weakness_status", "resolution"], "properties": {"discovery_dc_status": {"const": "adaptation"}, "unique_fatal_weakness": {"type": ["string", "null"]}, "resolution": {"$ref": "#/$defs/adaptation"}}}
+      },
+      "if": {"properties": {"heat_threshold": {"const": 6}}}, "then": {"properties": {"loaded_dice": {"pattern": "^d30"}}}, "else": {"properties": {"loaded_dice": {"pattern": "^d40"}}}
+    },
+    "scenario": {
+      "allOf": [{"$ref": "#/$defs/common"}], "required": ["title", "recommended_heat", "three_layer_epistemic_trap", "mutual_exclusive_agendas", "clue_progression", "canonical_end_state"],
+      "properties": {
+        "title": {"$ref": "#/$defs/text"}, "recommended_heat": {"$ref": "#/$defs/heat"},
+        "three_layer_epistemic_trap": {"type": "object", "required": ["layer_1_hook", "layer_2_twist", "layer_3_core_truth"], "additionalProperties": false, "properties": {"layer_1_hook": {"$ref": "#/$defs/text"}, "layer_2_twist": {"$ref": "#/$defs/text"}, "layer_3_core_truth": {"$ref": "#/$defs/text"}}},
+        "mutual_exclusive_agendas": {"type": "array", "minItems": 1, "items": {"type": "object", "required": ["faction_a", "faction_b", "faction_c", "status"], "properties": {"status": {"const": "adaptation"}}}},
+        "clue_progression": {"type": "array", "minItems": 3, "maxItems": 3}, "canonical_end_state": {"$ref": "#/$defs/text"}
+      }
+    }
+  }
+}

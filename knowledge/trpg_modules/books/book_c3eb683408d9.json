@@ -1,0 +1,62 @@
+{
+  "book_id": "book_c3eb683408d9",
+  "source_book": "卫斯理系列/115原形.txt",
+  "title": "原形",
+  "source_sha256": "1ffa2bd121521f647bd4c6e9ccd792f9c684b58b433f11404679bed0ab67e151",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        11,
+        128,
+        1338,
+        1972,
+        1981,
+        2182,
+        2296,
+        2335
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        1531,
+        1532,
+        1537,
+        1548,
+        1550,
+        1592,
+        2130
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        1432,
+        1472,
+        1910,
+        2545,
+        2578
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        443,
+        743,
+        864,
+        1792,
+        2073,
+        2237,
+        2695,
+        2737
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

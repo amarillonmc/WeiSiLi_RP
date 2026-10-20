@@ -1,0 +1,42 @@
+{
+  "book_id": "book_77a3940e2f05",
+  "source_book": "神探高斯系列/11及时赶到.txt",
+  "title": "及时赶到",
+  "source_sha256": "5eda4b0597fbd09f6b40f9c1265dace0d7be5b13c77e05204f358c80fcb1d34e",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        501,
+        530
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        248,
+        327,
+        329,
+        499,
+        510,
+        514,
+        537,
+        644
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

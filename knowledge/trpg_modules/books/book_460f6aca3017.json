@@ -1,0 +1,93 @@
+{
+  "book_id": "book_460f6aca3017",
+  "source_book": "卫斯理系列/103改变.txt",
+  "title": "改变",
+  "source_sha256": "172333a4ef1943dd3e24d1c3d12d9ce968a64b1274fbe6bba2cfc556fa6f2a2c",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 29,
+      "sample_line_numbers": [
+        84,
+        738,
+        966,
+        1094,
+        1169,
+        1281,
+        1811,
+        2746
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1891
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        1229,
+        1484,
+        1568,
+        1758,
+        1798,
+        1871,
+        1875,
+        2729
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 32,
+      "sample_line_numbers": [
+        202,
+        418,
+        1116,
+        1138,
+        1442,
+        1791,
+        1983,
+        2747
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_thought_instrument",
+    "boss_thought_instrument",
+    "scenario_thought_instrument",
+    "artifact_ion_blind_spot",
+    "hazard_ion_blind_spot"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "thought_instrument",
+    "ion_blind_spot"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/103改变.txt",
+      "start_line": 2735,
+      "end_line": 2748,
+      "supports": "海中与帐顶装置的特殊电离子层阻隔一至四号及狄可探知。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "172333a4ef1943dd3e24d1c3d12d9ce968a64b1274fbe6bba2cfc556fa6f2a2c",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/103改变.txt",
+      "start_line": 2735,
+      "end_line": 2748,
+      "supports": "海中电离子层是死角，帐顶装置可产生同类屏障。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "172333a4ef1943dd3e24d1c3d12d9ce968a64b1274fbe6bba2cfc556fa6f2a2c",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

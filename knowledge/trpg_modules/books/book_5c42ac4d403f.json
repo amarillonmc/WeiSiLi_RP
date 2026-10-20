@@ -1,0 +1,49 @@
+{
+  "book_id": "book_5c42ac4d403f",
+  "source_book": "神探高斯系列/09鬼照片.txt",
+  "title": "鬼照片",
+  "source_sha256": "cb46c1b71204b0e0e874db0602ec677f0b4f42402b7e8b2789d7e90e043999db",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        127,
+        414,
+        418,
+        436,
+        438,
+        451,
+        452,
+        461
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        231,
+        232,
+        320,
+        561
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        390,
+        526,
+        529,
+        536
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

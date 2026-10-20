@@ -1,0 +1,63 @@
+{
+  "book_id": "book_bc1b8be792b0",
+  "source_book": "木兰花全集/08雷库惊魂.txt",
+  "title": "雷库惊魂",
+  "source_sha256": "f9ff771a65251368f76167a97402c496eaa5e35bdb6443bbd0621b3cb5a6748c",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 39,
+      "sample_line_numbers": [
+        126,
+        580,
+        632,
+        712,
+        868,
+        1230,
+        2132,
+        2386
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        392,
+        704,
+        1144,
+        1156,
+        1162
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 21,
+      "sample_line_numbers": [
+        64,
+        628,
+        1110,
+        1266,
+        1302,
+        1916,
+        1968,
+        2412
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        434,
+        496,
+        610,
+        654,
+        908,
+        1164,
+        1826,
+        2480
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

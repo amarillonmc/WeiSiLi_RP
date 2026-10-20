@@ -1,0 +1,53 @@
+{
+  "book_id": "book_ab0673a37fb6",
+  "source_book": "卫斯理系列/141非常遭遇.txt",
+  "title": "非常遭遇",
+  "source_sha256": "edec55040c8d653cf2d8942f92f12902da91ca8315968706aacce8c99ecb3122",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        710
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        213,
+        1294
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 44,
+      "sample_line_numbers": [
+        23,
+        160,
+        254,
+        279,
+        727,
+        842,
+        1122,
+        1259
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 41,
+      "sample_line_numbers": [
+        6,
+        199,
+        408,
+        636,
+        889,
+        1053,
+        1134,
+        1287
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

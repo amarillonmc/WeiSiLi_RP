@@ -1,0 +1,44 @@
+{
+  "book_id": "book_752e950f39e6",
+  "source_book": "非人协会系列/05泥沼火人.txt",
+  "title": "泥沼火人",
+  "source_sha256": "bff18ac8353b13382506f5c8c80e4523445d49e68fae4d25ea0d760ef0cedc4c",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        13,
+        111,
+        281
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        489,
+        491,
+        594
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        354,
+        531,
+        535
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        398
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

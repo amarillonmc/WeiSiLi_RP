@@ -1,0 +1,64 @@
+{
+  "book_id": "book_46069e874c48",
+  "source_book": "卫斯理系列/096阴魂不散.txt",
+  "title": "阴魂不散",
+  "source_sha256": "ee37c4de75188943eb4d5fc956ecab69f7729f7cb244ffce135207657b799b8b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        11,
+        19,
+        23,
+        167,
+        169,
+        371,
+        1880,
+        2185
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        2131,
+        2136,
+        2137,
+        2141,
+        2286,
+        2317
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        14,
+        646,
+        647,
+        1443,
+        1686,
+        2001,
+        2086,
+        2272
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        225,
+        619,
+        1217,
+        1286,
+        1518,
+        2154,
+        2297,
+        2567
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,34 @@
+{
+  "book_id": "book_437d04c42917",
+  "source_book": "倪匡之鬼话系列/恒娘.txt",
+  "title": "恒娘",
+  "source_sha256": "da475937c087b162e0274cd984d076ca867ed4b3362c8568b0d19773c1cda576",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        79
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        21
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

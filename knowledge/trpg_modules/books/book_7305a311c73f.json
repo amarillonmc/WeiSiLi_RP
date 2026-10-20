@@ -1,0 +1,64 @@
+{
+  "book_id": "book_7305a311c73f",
+  "source_book": "木兰花全集/40怪新郎.txt",
+  "title": "怪新郎",
+  "source_sha256": "cf26929980b69181cc98d05b8e00cbcd75831124db87d86d170ef4a11168ebb2",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        118,
+        1042,
+        1546,
+        2166,
+        2256,
+        2508,
+        2510,
+        2512
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        298,
+        434,
+        1482,
+        1500,
+        2050,
+        2072
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        64,
+        128,
+        186,
+        1410,
+        1582,
+        2098,
+        2138,
+        2540
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        642,
+        748,
+        1150,
+        1258,
+        1372,
+        1782,
+        1846,
+        2644
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

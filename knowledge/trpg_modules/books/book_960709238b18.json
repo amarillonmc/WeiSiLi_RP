@@ -1,0 +1,59 @@
+{
+  "book_id": "book_960709238b18",
+  "source_book": "卫斯理系列/061洞天.txt",
+  "title": "洞天",
+  "source_sha256": "507f48f0dc87e96b3119eb57874270445ff95dbd6c0f519e220dbf0d712245fb",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        196,
+        739
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 29,
+      "sample_line_numbers": [
+        154,
+        1043,
+        1082,
+        1096,
+        1146,
+        1500,
+        2312,
+        2691
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        154,
+        724,
+        2038,
+        2061,
+        2590,
+        2853,
+        2855
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        131,
+        233,
+        777,
+        861,
+        1648,
+        2246,
+        3260,
+        3360
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

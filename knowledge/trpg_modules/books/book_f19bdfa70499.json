@@ -1,0 +1,63 @@
+{
+  "book_id": "book_f19bdfa70499",
+  "source_book": "木兰花全集/42龙宫宝贝.txt",
+  "title": "龙宫宝贝",
+  "source_sha256": "7f2f04c31bd7a031eed92a5c138e700b50fa50b847c0cce997026f6963773c24",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        528,
+        1220,
+        1496,
+        1590,
+        1916,
+        1922,
+        2168,
+        2642
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        888,
+        1148,
+        1260,
+        2128,
+        2524
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        18,
+        498,
+        1086,
+        1250,
+        1260,
+        1500,
+        2134,
+        2358
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 32,
+      "sample_line_numbers": [
+        314,
+        604,
+        1446,
+        1684,
+        1826,
+        2280,
+        2602,
+        2652
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

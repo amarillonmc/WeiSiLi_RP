@@ -1,0 +1,101 @@
+{
+  "book_id": "book_ba6b0285889a",
+  "source_book": "卫斯理系列/015蛊惑.txt",
+  "title": "蛊惑",
+  "source_sha256": "37bef72830a445097e04d2f98e7ee40e32134327cf9ff0e078a440b0078f7759",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        571,
+        577,
+        581,
+        582,
+        638,
+        677,
+        1836,
+        1922
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        994
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        383,
+        384,
+        565,
+        790,
+        1132,
+        1472,
+        1863,
+        1866
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        12,
+        194,
+        400,
+        490,
+        1298,
+        1576,
+        1879,
+        1937
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_heart_gu",
+    "scenario_heart_gu"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "heart_gu"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/015蛊惑.txt",
+      "start_line": 1349,
+      "end_line": 1352,
+      "supports": "芭珠说明心意变化与心蛊后果。",
+      "epistemic_status": "testimony",
+      "source_sha256": "37bef72830a445097e04d2f98e7ee40e32134327cf9ff0e078a440b0078f7759",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/015蛊惑.txt",
+      "start_line": 1771,
+      "end_line": 1849,
+      "supports": "平纳教授提出病毒、情绪和内分泌假设，并承认研究不完整。",
+      "epistemic_status": "hypothesis",
+      "source_sha256": "37bef72830a445097e04d2f98e7ee40e32134327cf9ff0e078a440b0078f7759",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/015蛊惑.txt",
+      "start_line": 1857,
+      "end_line": 1869,
+      "supports": "不同蛊的培养媒介不同；心蛊媒介记为鸟心。",
+      "epistemic_status": "testimony",
+      "source_sha256": "37bef72830a445097e04d2f98e7ee40e32134327cf9ff0e078a440b0078f7759",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

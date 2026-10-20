@@ -1,0 +1,39 @@
+{
+  "book_id": "book_48b549bd762f",
+  "source_book": "神探高斯系列/12金发女.txt",
+  "title": "金发女",
+  "source_sha256": "8e80b4807d5a6b972ddd9d4fad6e0feeae2f24f51729913bab0e73d6c84b861c",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        234,
+        288
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        415,
+        444,
+        493,
+        533,
+        552
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

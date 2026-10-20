@@ -1,0 +1,32 @@
+{
+  "book_id": "book_70a1f652c98e",
+  "source_book": "倪匡之鬼话系列/爱管闲事的司机.txt",
+  "title": "爱管闲事的司机",
+  "source_sha256": "2ec89a0aae856d4f7db9882c1ae26844dc066cb793a91752be77ae2ccff41f9e",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        5
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

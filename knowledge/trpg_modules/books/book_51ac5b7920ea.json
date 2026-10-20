@@ -1,0 +1,95 @@
+{
+  "book_id": "book_51ac5b7920ea",
+  "source_book": "原振侠系列/23.血的诱惑.txt",
+  "title": "血的诱惑",
+  "source_sha256": "f7a54cdadd0da883051bf8eeeae0bfaf8d1f28917fc0834e1ed709ce61d7d99a",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        257,
+        339,
+        947,
+        1057,
+        1127,
+        1481,
+        2465,
+        2887
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        333,
+        451,
+        2227,
+        2851,
+        3011,
+        3015
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 28,
+      "sample_line_numbers": [
+        403,
+        805,
+        1359,
+        2329,
+        2385,
+        2721,
+        2827,
+        2889
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        229,
+        475,
+        577,
+        1597,
+        1985,
+        2059,
+        2305,
+        2741
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_maxian_blood_link",
+    "boss_maxian_blood_link",
+    "scenario_maxian_blood_link"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "maxian_blood_link"
+  ],
+  "evidence": [
+    {
+      "path": "原振侠系列/23.血的诱惑.txt",
+      "start_line": 3087,
+      "end_line": 3103,
+      "supports": "玛仙不能改变心意而可抑制脑活动；李固接受原振侠血液构成施术关联。",
+      "epistemic_status": "testimony",
+      "source_sha256": "f7a54cdadd0da883051bf8eeeae0bfaf8d1f28917fc0834e1ed709ce61d7d99a",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "原振侠系列/23.血的诱惑.txt",
+      "start_line": 3133,
+      "end_line": 3153,
+      "supports": "会议流产及李固丧失智力的后果。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "f7a54cdadd0da883051bf8eeeae0bfaf8d1f28917fc0834e1ed709ce61d7d99a",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

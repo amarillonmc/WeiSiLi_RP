@@ -1,0 +1,59 @@
+{
+  "book_id": "book_0041f4c9e250",
+  "source_book": "卫斯理系列/135闭关开关.txt",
+  "title": "闭关开关",
+  "source_sha256": "3a954b783d485dd9b50c6951e6fa43b86b113dea9c64f2e8588cc094184619d1",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        2,
+        15,
+        39,
+        232,
+        308,
+        672,
+        821,
+        869
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        877
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 27,
+      "sample_line_numbers": [
+        14,
+        49,
+        157,
+        264,
+        273,
+        492,
+        651,
+        927
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 55,
+      "sample_line_numbers": [
+        8,
+        239,
+        356,
+        415,
+        431,
+        469,
+        668,
+        877
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

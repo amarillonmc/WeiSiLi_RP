@@ -1,0 +1,66 @@
+{
+  "book_id": "book_5f4cae703ba6",
+  "source_book": "年轻人/06神机.txt",
+  "title": "神机",
+  "source_sha256": "cdd37707fd14c0e9cb027e4f092fdae12cc5365458e645339e7f8652a52a0aa3",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 29,
+      "sample_line_numbers": [
+        298,
+        474,
+        660,
+        722,
+        734,
+        834,
+        859,
+        905
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 17,
+      "sample_line_numbers": [
+        80,
+        133,
+        172,
+        307,
+        470,
+        481,
+        981,
+        1173
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        166,
+        391,
+        893,
+        962,
+        1040,
+        1051,
+        1109,
+        1278
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 56,
+      "sample_line_numbers": [
+        57,
+        365,
+        560,
+        713,
+        802,
+        892,
+        963,
+        1201
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,62 @@
+{
+  "book_id": "book_1b890f7e9c36",
+  "source_book": "卫斯理系列/060追龙.txt",
+  "title": "追龙",
+  "source_sha256": "0c2ec04524394261eed54f6a05a279441facc32f80560f377b703dcf5f718aac",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        277,
+        299,
+        1403,
+        1406,
+        1722,
+        2038,
+        2649,
+        3069
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        1982,
+        1983,
+        2363,
+        2693
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        235,
+        1863,
+        2133,
+        2495,
+        2866,
+        2871,
+        2875,
+        3179
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 41,
+      "sample_line_numbers": [
+        418,
+        1973,
+        2166,
+        2194,
+        2420,
+        2493,
+        2734,
+        3133
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

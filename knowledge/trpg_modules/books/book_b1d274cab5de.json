@@ -1,0 +1,57 @@
+{
+  "book_id": "book_b1d274cab5de",
+  "source_book": "卫斯理系列/143须弥芥子.txt",
+  "title": "须弥芥子",
+  "source_sha256": "ad52cddb8115da82f328c611cbe283b714bd5676894dce68fa76ea8e62d17724",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 120,
+      "sample_line_numbers": [
+        162,
+        344,
+        451,
+        633,
+        765,
+        950,
+        1083,
+        1328
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 13,
+      "sample_line_numbers": [
+        79,
+        865,
+        866,
+        893,
+        993,
+        1129,
+        1177,
+        1334
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        125,
+        272,
+        452,
+        734,
+        834,
+        965,
+        1095,
+        1350
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

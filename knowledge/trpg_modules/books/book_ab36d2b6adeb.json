@@ -1,0 +1,63 @@
+{
+  "book_id": "book_ab36d2b6adeb",
+  "source_book": "卫斯理系列/119买命.txt",
+  "title": "买命",
+  "source_sha256": "b8130b72d83c448ca2e73be58bfe12fad966ebc4b44a6de1f77606903b505314",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        66,
+        72,
+        76,
+        197,
+        788,
+        1421,
+        2083,
+        2091
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        2154,
+        2212,
+        2215,
+        2302,
+        2406
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        716,
+        737,
+        1570,
+        2149,
+        2168,
+        2203,
+        2323,
+        2398
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 24,
+      "sample_line_numbers": [
+        26,
+        297,
+        774,
+        1324,
+        1452,
+        1708,
+        1880,
+        2491
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

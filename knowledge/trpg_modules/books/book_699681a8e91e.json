@@ -1,0 +1,56 @@
+{
+  "book_id": "book_699681a8e91e",
+  "source_book": "卫斯理系列/034聚宝盆.txt",
+  "title": "聚宝盆",
+  "source_sha256": "8cbcceaeda2a5c5f9628e09f9a588f4cbd9a2300f55921b5ee66d7cc3b0a4e75",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        107,
+        368,
+        518,
+        779,
+        839,
+        981,
+        1022,
+        1107
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        530,
+        760,
+        1100,
+        1101
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        181,
+        752
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 23,
+      "sample_line_numbers": [
+        3,
+        132,
+        368,
+        566,
+        696,
+        951,
+        973,
+        1050
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

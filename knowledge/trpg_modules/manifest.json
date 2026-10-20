@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.1",
+  "extension_profile": "canon-separated-trpg-1.0",
+  "counts": {
+    "artifacts": 23,
+    "hazards": 16,
+    "bosses": 12,
+    "scenarios": 28
+  },
+  "curated_dossiers": 32,
+  "corpus_texts": 336,
+  "keyword_screened_texts": 336,
+  "directly_reviewed_texts": 33,
+  "reviewed_series": {
+    "亚洲之鹰罗开系列": 1,
+    "倪匡之鬼话系列": 1,
+    "卫斯理系列": 17,
+    "原振侠系列": 7,
+    "年轻人": 2,
+    "木兰花全集": 2,
+    "浪子高达系列": 1,
+    "神探高斯系列": 1,
+    "非人协会系列": 1
+  },
+  "unique_citation_ranges": 81,
+  "exhaustive_extraction": false,
+  "forum_verified": false,
+  "source_catalog_sha256": "266d376f9c2930c8f7c71a70c43ca1a56969912827341b0f044b1ff94ea2c036",
+  "authored_sha256": {
+    "dossiers.json": "faa0dbd0f33c0896206d4ba7988137d3c3bca1138a045a5585c87f2d566ff2c9",
+    "guide_audit.json": "8230cfe33c0cba7d60bc385c26c0dfadea2ae663ca8b10c5bc65e184b75cc51e",
+    "policy.json": "f54e2fca36665caa8a9bcf1bb5b57b1348afb705ba16bf8c1a33ff94013dbebe",
+    "schema.json": "30f60627aae45fd9523ed193a1f01eaf8db71314831d39f1a819b4c0a7c23134"
+  },
+  "limitations": [
+    "全文关键词筛查不是全文精读；未审核文本保留为待扩展。",
+    "四个模块中的骰面、DC、状态与秘密任务均未实测，不作为原作事实。",
+    "只验证结构、引用行界与哈希，语义解释仍需人工回读。",
+    "论坛正文无法取得，规则适配以用户提供指南为依据。"
+  ]
+}

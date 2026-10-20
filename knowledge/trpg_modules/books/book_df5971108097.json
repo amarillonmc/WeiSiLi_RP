@@ -1,0 +1,59 @@
+{
+  "book_id": "book_df5971108097",
+  "source_book": "卫斯理系列/010天外金球.txt",
+  "title": "天外金球",
+  "source_sha256": "e9637bc936a76a902e6ec9959baf6656b55df519f8996b72635756dd6eced2b5",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        130,
+        1577,
+        1672,
+        1684,
+        1727,
+        1748,
+        1850,
+        2495
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        323,
+        481,
+        1033,
+        1189
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        553,
+        681,
+        910,
+        1721,
+        1725
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        67,
+        467,
+        753,
+        1055,
+        1434,
+        2006,
+        2310,
+        2726
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

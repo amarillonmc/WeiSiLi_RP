@@ -1,0 +1,60 @@
+{
+  "book_id": "book_59d1e3e8cb38",
+  "source_book": "木兰花全集/34断头美人鱼.txt",
+  "title": "断头美人鱼",
+  "source_sha256": "9043fcae0baa5c3c05c1edf48a48c6547f46dc579c8514a1cc3d6ed1159e94bd",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        494,
+        980,
+        1050,
+        1840,
+        1856,
+        1872,
+        1904,
+        2362
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        692,
+        1222
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        188,
+        434,
+        754,
+        912,
+        1306,
+        1888,
+        2046,
+        2200
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        372,
+        1024,
+        1488,
+        1706,
+        1912,
+        2044,
+        2354,
+        2400
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

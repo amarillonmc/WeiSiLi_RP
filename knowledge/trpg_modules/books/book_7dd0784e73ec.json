@@ -1,0 +1,59 @@
+{
+  "book_id": "book_7dd0784e73ec",
+  "source_book": "卫斯理系列/080报应.txt",
+  "title": "报应",
+  "source_sha256": "488a30574314ec3a7d57251398cb36a8a48bda0c0936df7ea19136784ee6e54a",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 18,
+      "sample_line_numbers": [
+        501,
+        1940,
+        3270,
+        3273,
+        3282,
+        3307,
+        3314,
+        3323
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1101
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 10,
+      "sample_line_numbers": [
+        1018,
+        1101,
+        1153,
+        1388,
+        1424,
+        1851,
+        2290,
+        3280
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        796,
+        1173,
+        2440,
+        2455,
+        2763,
+        2904,
+        3095,
+        3315
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

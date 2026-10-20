@@ -1,0 +1,59 @@
+{
+  "book_id": "book_68310af66701",
+  "source_book": "卫斯理系列/053寻梦.txt",
+  "title": "寻梦",
+  "source_sha256": "1d73ea7cd15abfbc42b891ff547eb5d13cc4e89cf66ff4ce2748d7665eba2655",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        130,
+        1090,
+        1091,
+        1596,
+        1629,
+        2491,
+        3044,
+        3469
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        3179
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        925,
+        2232,
+        2279,
+        2588,
+        2942,
+        3067,
+        3743,
+        4028
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 53,
+      "sample_line_numbers": [
+        160,
+        502,
+        1259,
+        1993,
+        2826,
+        2894,
+        3339,
+        3787
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,66 @@
+{
+  "book_id": "book_947d367a6cc7",
+  "source_book": "亚洲之鹰罗开系列/06蛇神.txt",
+  "title": "蛇神",
+  "source_sha256": "09a3ab2ff1e1361f2693d3a97ae6d9fea563fb9de31b7343e00654d2d0d629d1",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        263,
+        441,
+        592,
+        838,
+        925,
+        1201,
+        1224,
+        1388
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        253,
+        622,
+        685,
+        738,
+        852,
+        873,
+        1238,
+        1241
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        125,
+        179,
+        459,
+        611,
+        638,
+        674,
+        1169,
+        1298
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 34,
+      "sample_line_numbers": [
+        267,
+        398,
+        730,
+        838,
+        998,
+        1093,
+        1280,
+        1440
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

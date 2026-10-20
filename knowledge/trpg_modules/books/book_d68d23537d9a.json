@@ -1,0 +1,59 @@
+{
+  "book_id": "book_d68d23537d9a",
+  "source_book": "浪子高达系列/珍珠荡妇.txt",
+  "title": "珍珠荡妇",
+  "source_sha256": "f551efdea0c50b08f4e5bccd766bc30c6c5f2a8d40bee83de90d1820247b503f",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        302,
+        975,
+        1051,
+        1117,
+        2940,
+        4288,
+        4318,
+        4391
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        3587,
+        4293
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        1271,
+        1361,
+        1812,
+        1899,
+        2287,
+        3335,
+        4517
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        679,
+        723,
+        1309,
+        2752,
+        3032,
+        3739,
+        4382,
+        4435
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

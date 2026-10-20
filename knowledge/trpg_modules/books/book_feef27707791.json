@@ -1,0 +1,64 @@
+{
+  "book_id": "book_feef27707791",
+  "source_book": "卫斯理系列/099运气.txt",
+  "title": "运气",
+  "source_sha256": "34bb98e27aa50e1d39dbd5c14aead2f42eaebce498edee9df83882a3b3c82d3a",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 47,
+      "sample_line_numbers": [
+        121,
+        1234,
+        1477,
+        1681,
+        1746,
+        1871,
+        1954,
+        2605
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        54,
+        302,
+        427,
+        434,
+        2279,
+        2481,
+        2488,
+        2491
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        1114,
+        1184,
+        1199,
+        1354,
+        1359,
+        1948
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 70,
+      "sample_line_numbers": [
+        109,
+        743,
+        782,
+        1030,
+        1667,
+        1991,
+        2232,
+        2454
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,66 @@
+{
+  "book_id": "book_1eceb61f788e",
+  "source_book": "卫斯理系列/063犀照.txt",
+  "title": "犀照",
+  "source_sha256": "b2d74fd5b2dacc4173bdebc19d9586e47b064cf29b6e3990bd3d8412febcb76a",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 23,
+      "sample_line_numbers": [
+        284,
+        404,
+        420,
+        431,
+        1239,
+        1419,
+        3210,
+        3371
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        373,
+        1111,
+        1168,
+        1201,
+        1231,
+        1677,
+        2293,
+        3480
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 31,
+      "sample_line_numbers": [
+        364,
+        424,
+        1338,
+        1601,
+        1948,
+        2050,
+        3344,
+        3631
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        4,
+        758,
+        1050,
+        1729,
+        1836,
+        2826,
+        3314,
+        3604
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,62 @@
+{
+  "book_id": "book_6e1d8d6fd7c7",
+  "source_book": "原振侠系列/29.人鬼疑云.txt",
+  "title": "人鬼疑云",
+  "source_sha256": "82f7d1c0a6f9db3ae4642f6099ef7d578fe054f24190b7b8849abcf831966e7b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 119,
+      "sample_line_numbers": [
+        797,
+        1951,
+        3485,
+        3797,
+        5061,
+        5723,
+        6223,
+        7597
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        573,
+        2065,
+        3005,
+        4015
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 37,
+      "sample_line_numbers": [
+        127,
+        2223,
+        2673,
+        4423,
+        6077,
+        6401,
+        6749,
+        7487
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 38,
+      "sample_line_numbers": [
+        153,
+        1261,
+        2083,
+        2519,
+        2797,
+        4479,
+        5223,
+        6373
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

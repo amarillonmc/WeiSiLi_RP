@@ -1,0 +1,66 @@
+{
+  "book_id": "book_2af29c6320c3",
+  "source_book": "亚洲之鹰罗开系列/10异人.txt",
+  "title": "异人",
+  "source_sha256": "28ceb1449356424283c25441b39d0d9b78dd47ec8af47abe02ac2f9e5a74c98e",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        163,
+        615,
+        620,
+        631,
+        821,
+        1061,
+        1136,
+        1268
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        350,
+        394,
+        615,
+        684,
+        697,
+        702,
+        809,
+        1372
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 29,
+      "sample_line_numbers": [
+        199,
+        809,
+        1100,
+        1160,
+        1175,
+        1249,
+        1320,
+        1362
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 26,
+      "sample_line_numbers": [
+        4,
+        190,
+        640,
+        894,
+        962,
+        1090,
+        1191,
+        1371
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

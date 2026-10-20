@@ -1,0 +1,57 @@
+{
+  "book_id": "book_057b15b2db0f",
+  "source_book": "年轻人/12离魂奇遇.txt",
+  "title": "离魂奇遇",
+  "source_sha256": "081e431ff7a58a23f882ca47c20bdbb59dcfd999a3a0eb2e5223b1c09d1b7362",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 38,
+      "sample_line_numbers": [
+        16,
+        34,
+        91,
+        375,
+        465,
+        488,
+        601,
+        1340
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        171,
+        597,
+        598
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        775,
+        1313,
+        1334,
+        1335
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 30,
+      "sample_line_numbers": [
+        39,
+        218,
+        286,
+        375,
+        761,
+        863,
+        1109,
+        1321
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

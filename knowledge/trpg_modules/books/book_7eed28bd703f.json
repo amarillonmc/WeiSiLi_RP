@@ -1,0 +1,61 @@
+{
+  "book_id": "book_7eed28bd703f",
+  "source_book": "卫斯理系列/94少年卫斯理.txt",
+  "title": "少年卫斯理",
+  "source_sha256": "737691e69b80e689c81bbaab02f2dd690c5c9c9a6f523af5cad4c50f020a60bd",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        397,
+        412,
+        1991,
+        2022,
+        2164,
+        2211,
+        2246,
+        2814
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        609,
+        1780,
+        1789,
+        1814,
+        1941,
+        1973,
+        2033
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 4,
+      "sample_line_numbers": [
+        135,
+        1512,
+        1605,
+        2990
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        197,
+        336,
+        434,
+        904,
+        967,
+        1004,
+        2013,
+        2941
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

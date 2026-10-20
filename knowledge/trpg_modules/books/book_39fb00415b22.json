@@ -1,0 +1,108 @@
+{
+  "book_id": "book_39fb00415b22",
+  "source_book": "原振侠系列/04.海异.txt",
+  "title": "海异",
+  "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        3825,
+        4085,
+        4087,
+        5349,
+        6723,
+        6729
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 133,
+      "sample_line_numbers": [
+        3,
+        947,
+        1803,
+        2367,
+        3273,
+        4485,
+        6155,
+        7741
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        419,
+        6727,
+        6795,
+        6839,
+        7233,
+        7641,
+        7651,
+        7805
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        879,
+        1263,
+        4195,
+        4279,
+        5479,
+        7675,
+        7681,
+        7833
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_marine_microbes",
+    "hazard_marine_microbes",
+    "boss_marine_microbes",
+    "scenario_marine_microbes"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "marine_microbes"
+  ],
+  "evidence": [
+    {
+      "path": "原振侠系列/04.海异.txt",
+      "start_line": 7625,
+      "end_line": 7679,
+      "supports": "李邦殊转述水池接触引起消解及群体牺牲。",
+      "epistemic_status": "testimony",
+      "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "原振侠系列/04.海异.txt",
+      "start_line": 7723,
+      "end_line": 7789,
+      "supports": "驱动完整肢体、阻断呼吸与视听警告的说明；尸群为想象。",
+      "epistemic_status": "mixed",
+      "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "原振侠系列/04.海异.txt",
+      "start_line": 7811,
+      "end_line": 7813,
+      "supports": "它们组织力量送人离开，不是纯粹敌对。",
+      "epistemic_status": "testimony",
+      "source_sha256": "7ca39b08afcb3895c250aa2a17d546fe37e8b4f22e5c62c7685d70b57aebb830",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

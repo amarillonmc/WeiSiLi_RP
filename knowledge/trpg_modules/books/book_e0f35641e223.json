@@ -1,0 +1,65 @@
+{
+  "book_id": "book_e0f35641e223",
+  "source_book": "原振侠系列/05.宝狐.txt",
+  "title": "宝狐",
+  "source_sha256": "64e25f2593c53315029bc368bdc38d5bf104ee781d40dfe46a454057fb9ba2a5",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        61,
+        63,
+        91,
+        97,
+        189,
+        1475,
+        1939,
+        2711
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 7,
+      "sample_line_numbers": [
+        307,
+        553,
+        579,
+        607,
+        1035,
+        1621,
+        2761
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 20,
+      "sample_line_numbers": [
+        791,
+        1785,
+        2179,
+        2465,
+        2761,
+        3101,
+        3177,
+        3331
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        21,
+        511,
+        665,
+        851,
+        1611,
+        2677,
+        2881,
+        3171
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

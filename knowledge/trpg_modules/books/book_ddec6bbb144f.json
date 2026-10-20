@@ -1,0 +1,66 @@
+{
+  "book_id": "book_ddec6bbb144f",
+  "source_book": "亚洲之鹰罗开系列/09夜光.txt",
+  "title": "夜光",
+  "source_sha256": "4e186c829052e788ba68ad824f4ac4e2fe3d2c13a7156b169cfd475d9ea57cba",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        41,
+        65,
+        393,
+        396,
+        859,
+        1164,
+        1179,
+        1245
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 9,
+      "sample_line_numbers": [
+        158,
+        547,
+        997,
+        1030,
+        1036,
+        1037,
+        1131,
+        1132
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 23,
+      "sample_line_numbers": [
+        133,
+        844,
+        925,
+        951,
+        1004,
+        1043,
+        1101,
+        1244
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 43,
+      "sample_line_numbers": [
+        24,
+        244,
+        332,
+        477,
+        911,
+        1170,
+        1251,
+        1286
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,66 @@
+{
+  "book_id": "book_b032f28a589d",
+  "source_book": "亚洲之鹰罗开系列/04怪头.txt",
+  "title": "怪头",
+  "source_sha256": "faf95934f683de1d8cff341f5882106e2872fdef0c12b807908071b75f655070",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 35,
+      "sample_line_numbers": [
+        47,
+        564,
+        726,
+        1105,
+        1281,
+        1321,
+        1330,
+        1340
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 16,
+      "sample_line_numbers": [
+        12,
+        148,
+        214,
+        412,
+        670,
+        796,
+        834,
+        908
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 41,
+      "sample_line_numbers": [
+        56,
+        537,
+        744,
+        967,
+        1002,
+        1039,
+        1106,
+        1291
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 21,
+      "sample_line_numbers": [
+        103,
+        197,
+        386,
+        602,
+        732,
+        800,
+        1010,
+        1268
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

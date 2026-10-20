@@ -1,0 +1,54 @@
+{
+  "book_id": "book_fa4a01f100bb",
+  "source_book": "原振侠系列/31.宇宙杀手.txt",
+  "title": "宇宙杀手",
+  "source_sha256": "2b9337f5281c2b3b5c74701554a46029f1918686a0a41c56c68506195ec9d8b5",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        2393,
+        3699
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        5363,
+        6911
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 15,
+      "sample_line_numbers": [
+        1079,
+        5731,
+        5993,
+        6059,
+        6267,
+        6349,
+        6799,
+        6877
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        1549,
+        2753,
+        3559,
+        4653,
+        5399,
+        5559,
+        6019,
+        6895
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

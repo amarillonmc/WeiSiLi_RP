@@ -1,0 +1,45 @@
+{
+  "book_id": "book_b43a5c82c0b5",
+  "source_book": "神探高斯系列/06古墨.txt",
+  "title": "古墨",
+  "source_sha256": "a4ab5c8c409e89f0eba4a1f28260bf40d833b16c28ad89c87f61295b754b594f",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 3,
+      "sample_line_numbers": [
+        267,
+        287,
+        580
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        288
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 11,
+      "sample_line_numbers": [
+        72,
+        87,
+        247,
+        254,
+        363,
+        364,
+        462,
+        493
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

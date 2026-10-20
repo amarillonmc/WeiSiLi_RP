@@ -1,0 +1,114 @@
+{
+  "book_id": "book_202100bacdcc",
+  "source_book": "卫斯理系列/136行动救星.txt",
+  "title": "行动救星",
+  "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        391,
+        488,
+        635,
+        770,
+        791,
+        839,
+        857,
+        1194
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        136
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 29,
+      "sample_line_numbers": [
+        123,
+        319,
+        530,
+        550,
+        654,
+        759,
+        1094,
+        1252
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 41,
+      "sample_line_numbers": [
+        13,
+        357,
+        476,
+        563,
+        924,
+        1213,
+        1240,
+        1280
+      ]
+    }
+  },
+  "module_ids": [
+    "hazard_mountain_elder",
+    "boss_mountain_elder",
+    "scenario_mountain_elder"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "mountain_elder"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/136行动救星.txt",
+      "start_line": 1169,
+      "end_line": 1193,
+      "supports": "无线电进洞失败改用有线；范围外的人通过电脑中介保留提问与隐私。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/136行动救星.txt",
+      "start_line": 1223,
+      "end_line": 1234,
+      "supports": "长老关于故障、改造工程及拒绝引爆的说明。",
+      "epistemic_status": "testimony",
+      "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/136行动救星.txt",
+      "start_line": 1247,
+      "end_line": 1257,
+      "supports": "减少人口是长老方案，主角反对。",
+      "epistemic_status": "testimony",
+      "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    },
+    {
+      "path": "卫斯理系列/136行动救星.txt",
+      "start_line": 1287,
+      "end_line": 1293,
+      "supports": "拒绝协助开关但继续交流；没有发动毁灭爆炸。",
+      "epistemic_status": "textual_fact",
+      "source_sha256": "3007a97a3165e867bb5fb5a10d45fac5fa0bbf522a57ebcf38222f411999932b",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

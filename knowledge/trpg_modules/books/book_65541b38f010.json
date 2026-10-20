@@ -1,0 +1,57 @@
+{
+  "book_id": "book_65541b38f010",
+  "source_book": "卫斯理系列/019笔友.txt",
+  "title": "笔友",
+  "source_sha256": "01f6d100064c6eead5e3b7d16b845f332d28bf400f381c686354d9e277de4c74",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 6,
+      "sample_line_numbers": [
+        270,
+        1153,
+        1161,
+        1315,
+        1395,
+        1425
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        828
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 30,
+      "sample_line_numbers": [
+        177,
+        1091,
+        1208,
+        1268,
+        1312,
+        1327,
+        1428,
+        1495
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        54,
+        564,
+        767,
+        906,
+        997,
+        1058,
+        1134,
+        1311
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

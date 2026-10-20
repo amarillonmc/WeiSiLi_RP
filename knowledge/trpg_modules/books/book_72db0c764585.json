@@ -1,0 +1,63 @@
+{
+  "book_id": "book_72db0c764585",
+  "source_book": "卫斯理系列/036魔磁.txt",
+  "title": "魔磁",
+  "source_sha256": "fb24bf8b1934c661394235a64500c7dc610dc5dbda4022f92968db7de25c3b25",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 21,
+      "sample_line_numbers": [
+        16,
+        619,
+        840,
+        935,
+        937,
+        1064,
+        2343,
+        2371
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        66,
+        412,
+        920,
+        945,
+        2241
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 14,
+      "sample_line_numbers": [
+        20,
+        412,
+        1042,
+        1102,
+        1105,
+        1385,
+        1726,
+        2212
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 19,
+      "sample_line_numbers": [
+        140,
+        356,
+        498,
+        526,
+        868,
+        1418,
+        1824,
+        2438
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

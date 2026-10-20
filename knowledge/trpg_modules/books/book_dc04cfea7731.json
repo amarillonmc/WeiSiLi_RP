@@ -1,0 +1,69 @@
+{
+  "book_id": "book_dc04cfea7731",
+  "source_book": "卫斯理系列/028狐变.txt",
+  "title": "狐变",
+  "source_sha256": "ea0bcff3bbc830a04ad0ee856c6792daff5b5f4250d41c630ba9d48c35aeae40",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 35,
+      "sample_line_numbers": [
+        108,
+        530,
+        798,
+        941,
+        1060,
+        1459,
+        1472,
+        1670
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1722
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 22,
+      "sample_line_numbers": [
+        35,
+        360,
+        455,
+        638,
+        728,
+        787,
+        1545,
+        1669
+      ]
+    }
+  },
+  "module_ids": [
+    "artifact_fox_time_device",
+    "hazard_fox_time_device",
+    "scenario_fox_time_device"
+  ],
+  "review_status": "cited_passages_reviewed",
+  "extraction_complete": false,
+  "review_boundary": "只回读所列片段，不代表本书通读或要素穷尽。",
+  "dossier_ids": [
+    "fox_time_device"
+  ],
+  "evidence": [
+    {
+      "path": "卫斯理系列/028狐变.txt",
+      "start_line": 1631,
+      "end_line": 1686,
+      "supports": "博新转述叔父实验：回到过去、正常回返与持续缩小事故，修复失败。",
+      "epistemic_status": "testimony",
+      "source_sha256": "ea0bcff3bbc830a04ad0ee856c6792daff5b5f4250d41c630ba9d48c35aeae40",
+      "provenance": {
+        "kind": "direct_source_review",
+        "scope": "cited_passages_only"
+      }
+    }
+  ]
+}

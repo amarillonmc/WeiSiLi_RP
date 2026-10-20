@@ -1,0 +1,60 @@
+{
+  "book_id": "book_93599e44ee3e",
+  "source_book": "木兰花全集/48遥控谋杀案.txt",
+  "title": "遥控谋杀案",
+  "source_sha256": "894ed9a5d8fadf9fb206c1fbeb63456f7dc7b794821aa913c55c0565a107ee5f",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 31,
+      "sample_line_numbers": [
+        98,
+        600,
+        868,
+        990,
+        1026,
+        1200,
+        1798,
+        2022
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        2128,
+        2258
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 26,
+      "sample_line_numbers": [
+        66,
+        154,
+        234,
+        790,
+        1714,
+        2004,
+        2184,
+        2766
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 23,
+      "sample_line_numbers": [
+        168,
+        1258,
+        2054,
+        2148,
+        2188,
+        2350,
+        2516,
+        2766
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

@@ -1,0 +1,66 @@
+{
+  "book_id": "book_aa5d20a2593d",
+  "source_book": "卫斯理系列/056盗墓.txt",
+  "title": "盗墓",
+  "source_sha256": "3192f142ac157bd356418e370e72d4e2fe638de8dfe52ef9a37187bd101bf4b6",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 25,
+      "sample_line_numbers": [
+        246,
+        948,
+        2301,
+        2393,
+        2493,
+        3482,
+        3568,
+        4064
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 8,
+      "sample_line_numbers": [
+        1944,
+        2188,
+        2189,
+        2212,
+        3094,
+        3832,
+        3833,
+        3834
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 26,
+      "sample_line_numbers": [
+        1705,
+        2641,
+        3147,
+        3365,
+        3380,
+        3696,
+        3702,
+        3898
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 71,
+      "sample_line_numbers": [
+        87,
+        1744,
+        2822,
+        3000,
+        3213,
+        3668,
+        3797,
+        4027
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

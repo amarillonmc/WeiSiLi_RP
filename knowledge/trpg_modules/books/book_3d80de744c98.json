@@ -1,0 +1,46 @@
+{
+  "book_id": "book_3d80de744c98",
+  "source_book": "卫斯理系列/030虚像.txt",
+  "title": "虚像",
+  "source_sha256": "154c6af0612f06d9130d406a26fde0f971cab433e215a231e29808b84a4210fa",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 2,
+      "sample_line_numbers": [
+        1481,
+        1493
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1462
+      ]
+    },
+    "adversarial_actions": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        1625
+      ]
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 12,
+      "sample_line_numbers": [
+        13,
+        512,
+        514,
+        859,
+        1053,
+        1232,
+        1470,
+        1717
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}

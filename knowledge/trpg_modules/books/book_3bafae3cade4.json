@@ -1,0 +1,38 @@
+{
+  "book_id": "book_3bafae3cade4",
+  "source_book": "神探高斯系列/28妖女煞星.txt",
+  "title": "妖女煞星",
+  "source_sha256": "b5129a279214ffb005891d7b75e09c5c510d466bcb8f930a3dca3733f343e742",
+  "keyword_screening": {
+    "objects_and_access": {
+      "matching_lines": 1,
+      "sample_line_numbers": [
+        272
+      ]
+    },
+    "hazards_and_limits": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "adversarial_actions": {
+      "matching_lines": 0,
+      "sample_line_numbers": []
+    },
+    "revelations_and_conflicts": {
+      "matching_lines": 5,
+      "sample_line_numbers": [
+        400,
+        479,
+        513,
+        687,
+        695
+      ]
+    }
+  },
+  "module_ids": [],
+  "review_status": "keyword_screened_only",
+  "extraction_complete": false,
+  "review_boundary": "只完成关键词筛查，尚无本扩展的已审核要素；不是没有奇物或危险。",
+  "dossier_ids": [],
+  "evidence": []
+}
